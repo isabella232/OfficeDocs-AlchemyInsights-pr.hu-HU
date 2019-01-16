@@ -1,0 +1,42 @@
+---
+title: Elemek másolása vagy áthelyezése egy SharePoint-dokumentumtárban
+ms.author: toresing
+author: tomresing
+manager: scotv
+ms.date: 5/24/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
+ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: hu-HU
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28293045"
+---
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Elemek másolása vagy áthelyezése egy SharePoint-dokumentumtárban
+
+Másolja, és a fájlok, mappák és hivatkozások áthelyezése egy dokumentumtáron belül különböző helyeken. Helyek között is másolhatja az elemeket. Ha beállította [a Targeted kiadási lehetőség beállítása](https://go.microsoft.com/fwlink/?linkid=622980), áthelyezhető elemek keresztül helyek, túl.
+  
+1. A böngészőben keresse a fájlokat, mappákat vagy hivatkozásokat szeretne áthelyezni, és kattintson a **másolni** vagy **áthelyezni**.
+    
+    > [!NOTE]
+    > **Másolása** és **áthelyezése** nem érhető el, ha a SharePoint online klasszikus tapasztalat használ. 
+  
+2. A **cél kiválasztása**válassza ki a másolni vagy áthelyezni az elemeket, vagy **webhelyeket** helyek teljes listájának megtekintéséhez kattintson a kívánt helyre. 
+    
+    > [!NOTE]
+    > Ha más webhelyek felsorolt elemek másolásakor nem jelenik meg,-helyeken keresztül történő másolása még nem lett konfigurálva. Az engedélyezéshez a beállítások lapot a SharePoint felügyeleti egység, és kattintson az **OK gombra**. 
+  
+    Hozzon létre egy új mappát, jelöljön ki egy helyet a mappahierarchia, kattintson az **Új mappa**, írja be a mappa nevét, és kattintson a jelölőnégyzet be van jelölve a név mentése.
+    
+3. Kattintson a **Másolás ide** vagy **Áthelyezés ide**.
+    
+> [!NOTE]
+>  Egyszerre legfeljebb 500 MB-os fájlok és mappák másolhatja. > Ha a dokumentumok korábbi verzióinak másol, csak a legújabb másolódik. Dokumentumok áthelyezése, ha azok előzményeit is áthelyeződik. 
+  
+
