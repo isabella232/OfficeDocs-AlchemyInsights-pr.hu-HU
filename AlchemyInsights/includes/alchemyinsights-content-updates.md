@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: hu-HU
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383309"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | a 2019/1/11 | [Felhasználók törlése](/AlchemyInsights/deleting-users) | módosítva |
 | a 2019/1/11 | [Varrat nélküli egyszeri bejelentkezés telepítése](/AlchemyInsights/deploy-seamless-single-sign-on) | módosítva |
 | a 2019/1/11 | [Yammer való hozzáférés letiltása](/AlchemyInsights/disable-access-to-yammer) | módosítva |
+
+
+## <a name="week-of-january-14-2019"></a>Hét 2019. január 14.
+
+
+| Közzétett |A témakör címe | Módosítása |
+|------|------------|--------|
+| a 2019/1/14 | Alkímia helyőrzője | eltávolítása |
+| a 2019/1/14 | Alkímia tartomány hozzáadása | eltávolítása |
+| a 2019/1/14 | [Alkímia elképzelések kezdőlap](/AlchemyInsights/index) | módosítva |
+| a 2019/1/17 | [ugyanaz, mint a legcélszerűbb fájlnév [szabály #-leírás]](/AlchemyInsights/1-alchemy-insight-template) | hozzáadott |
