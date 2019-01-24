@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28293045"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29473153"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Elemek másolása vagy áthelyezése egy SharePoint-dokumentumtárban
 
@@ -37,6 +37,6 @@ Másolja, és a fájlok, mappák és hivatkozások áthelyezése egy dokumentumt
 3. Kattintson a **Másolás ide** vagy **Áthelyezés ide**.
     
 > [!NOTE]
->  Egyszerre legfeljebb 500 MB-os fájlok és mappák másolhatja. > Ha a dokumentumok korábbi verzióinak másol, csak a legújabb másolódik. Dokumentumok áthelyezése, ha azok előzményeit is áthelyeződik. 
+>  Egyszerre legfeljebb 500 MB-os fájlok és mappák másolhatja. > korábbi verziói csak a legújabb dokumentumok másolásakor a program másolja. Dokumentumok áthelyezése, ha azok előzményeit is áthelyeződik. 
   
 

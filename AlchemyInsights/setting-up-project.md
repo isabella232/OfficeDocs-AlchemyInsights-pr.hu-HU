@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: A cél egy cikkben legfeljebb 500 szót.
 ms.openlocfilehash: 9fa764414e1af83db12d3c21da68128d3931e3fe
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28293124"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29473050"
 ---
 A cél egy cikkben legfeljebb 500 szót.
   
@@ -24,6 +24,6 @@ Néz ki, mint az Office 365-előfizetés beállítása a projekt segítségre va
   
 Értesítés Mac felhasználók számára: A projekt-termék nem áll rendelkezésre az MacOS most. Ha a számítógép kell telepítse a szoftvert, az alábbi lépések segítségével.
   
-A lépések az [Ebben a cikkben ](https://support.office.com/article/https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)a telepítés befejeződött.
+A beállítás elvégzéséhez kövesse az [ebben a témakörben](https://support.office.com/article/https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx) található lépéseket.
   
 
