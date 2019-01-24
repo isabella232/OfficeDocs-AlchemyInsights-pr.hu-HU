@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383309"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454432"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383309"
 ## <a name="week-of-january-07-2019"></a>Hét 2019. január 07.
 
 
-| Közzétett |A témakör címe | Módosítása |
+| Közzétett |A témakör címe | Módosítás elemet. |
 |------|------------|--------|
 | a 2019/1/7 | [A jelszó módosítása](/AlchemyInsights/change-your-password-in-outlook.com) | hozzáadott |
 | a 2019/1/7 | [A postaláda-engedélyek módosítása](/AlchemyInsights/changing-permissions-on-a-mailbox) | hozzáadott |
@@ -218,7 +218,7 @@ ms.locfileid: "29383309"
 | a 2019/1/10 | [És a felhasználó e-mail alias törlése](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | hozzáadott |
 | a 2019/1/10 | [Előre fizetett előfizetési ülések hozzáadása](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | hozzáadott |
 | a 2019/1/10 | [Előre fizetett előfizetési ülések hozzáadása](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | hozzáadott |
-| a 2019/1/10 | [Felhasználók felvétele az Office 365-be](/AlchemyInsights/add-users-to-office-365) | hozzáadott |
+| a 2019/1/10 | Felhasználók felvétele az Office 365-be | hozzáadott |
 | a 2019/1/10 | [Külső felhasználók hozzáadása a terjesztési csoportot?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | hozzáadott |
 | a 2019/1/10 | [Külső felhasználók hozzáadása](/AlchemyInsights/adding-external-users) | hozzáadott |
 | a 2019/1/10 | [ADFS összevonási tanúsítvány ennyi időn belül lejár](/AlchemyInsights/adfs-federation-certificate-expiring) | hozzáadott |
@@ -272,7 +272,7 @@ ms.locfileid: "29383309"
 | a 2019/1/10 | [A SharePoint Online tartomány nevének módosítása](/AlchemyInsights/change-domain-name-in-sharepoint-online) | hozzáadott |
 | a 2019/1/10 | [Fizetés gyakoriságának módosítása](/AlchemyInsights/change-how-often-you-pay) | hozzáadott |
 | a 2019/1/10 | [MDM hatóság módosítása](/AlchemyInsights/change-mdm-authority) | hozzáadott |
-| a 2019/1/10 | [NameServers módosítása](/AlchemyInsights/change-nameservers) | hozzáadott |
+| a 2019/1/10 | Change nameservers | hozzáadott |
 | a 2019/1/10 | [Üzleti tárolási kvóta OneDrive módosítása](/AlchemyInsights/change-onedrive-for-business-storage-quota) | hozzáadott |
 | a 2019/1/10 | [Fizetési mód megváltoztatása](/AlchemyInsights/change-payment-method) | hozzáadott |
 | a 2019/1/10 | [SharePoint-lista vagy tár engedélyeinek módosítása](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | hozzáadott |
@@ -515,7 +515,7 @@ ms.locfileid: "29383309"
 | a 2019/1/11 | [És a felhasználó e-mail alias törlése](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | módosítva |
 | a 2019/1/11 | [Előre fizetett előfizetési ülések hozzáadása](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | módosítva |
 | a 2019/1/11 | [Előre fizetett előfizetési ülések hozzáadása](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | módosítva |
-| a 2019/1/11 | [Felhasználók felvétele az Office 365-be](/AlchemyInsights/add-users-to-office-365) | módosítva |
+| a 2019/1/11 | Felhasználók felvétele az Office 365-be | módosítva |
 | a 2019/1/11 | [Külső felhasználók hozzáadása a terjesztési csoportot?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | módosítva |
 | a 2019/1/11 | [Külső felhasználók hozzáadása](/AlchemyInsights/adding-external-users) | módosítva |
 | a 2019/1/11 | [ADFS összevonási tanúsítvány ennyi időn belül lejár](/AlchemyInsights/adfs-federation-certificate-expiring) | módosítva |
@@ -569,7 +569,7 @@ ms.locfileid: "29383309"
 | a 2019/1/11 | [A SharePoint Online tartomány nevének módosítása](/AlchemyInsights/change-domain-name-in-sharepoint-online) | módosítva |
 | a 2019/1/11 | [Fizetés gyakoriságának módosítása](/AlchemyInsights/change-how-often-you-pay) | módosítva |
 | a 2019/1/11 | [MDM hatóság módosítása](/AlchemyInsights/change-mdm-authority) | módosítva |
-| a 2019/1/11 | [NameServers módosítása](/AlchemyInsights/change-nameservers) | módosítva |
+| a 2019/1/11 | Change nameservers | módosítva |
 | a 2019/1/11 | [Üzleti tárolási kvóta OneDrive módosítása](/AlchemyInsights/change-onedrive-for-business-storage-quota) | módosítva |
 | a 2019/1/11 | [Fizetési mód megváltoztatása](/AlchemyInsights/change-payment-method) | módosítva |
 | a 2019/1/11 | [SharePoint-lista vagy tár engedélyeinek módosítása](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | módosítva |
@@ -637,7 +637,7 @@ ms.locfileid: "29383309"
 ## <a name="week-of-january-14-2019"></a>Hét 2019. január 14.
 
 
-| Közzétett |A témakör címe | Módosítása |
+| Közzétett |A témakör címe | Módosítás elemet. |
 |------|------------|--------|
 | a 2019/1/14 | Alkímia helyőrzője | eltávolítása |
 | a 2019/1/14 | Alkímia tartomány hozzáadása | eltávolítása |
