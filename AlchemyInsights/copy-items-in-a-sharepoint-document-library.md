@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
 ms.openlocfilehash: cd0647aabfd8e3783b1320ced1c2244098eb0257
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28294168"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29474045"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Elemek másolása SharePoint dokumentumtár
 
@@ -35,6 +35,6 @@ ms.locfileid: "28294168"
 3. Kattintson a **Másolás ide**parancsra.
     
 > [!NOTE]
->  Egyszerre legfeljebb 500 MB-os fájlok és mappák másolhatja. > Ha **másolja** a dokumentumok korábbi verzióinak, csak a legújabb másolódik. 
+>  Egyszerre legfeljebb 500 MB-os fájlok és mappák másolhatja. Ha használja a **Másolás** dokumentumok korábbi verziói csak a legújabb > származik. 
   
 

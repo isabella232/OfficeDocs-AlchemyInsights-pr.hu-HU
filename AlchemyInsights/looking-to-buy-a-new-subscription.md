@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
 ms.openlocfilehash: c3c078f8fb058a409e0fe4aa427f86e328ae4ce7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28293476"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29474024"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Keresés új előfizetést vásárolni?
 
@@ -36,7 +36,7 @@ Ha már van egy Office 365 üzleti előfizetés és a szervezet egy másik előf
   
 - [Licencek hozzárendelése felhasználókhoz az Office 365 Vállalati verzióban](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [Office 365 üzleti visszavonása](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- Az Office 365 Vállalati verzió lemondása
     
 - Ha érdekli az előfizetések váltás, lásd: [váltani egy másik Office 365 üzleti tervet a.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
     

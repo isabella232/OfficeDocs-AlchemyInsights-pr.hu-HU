@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28294226"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29473892"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>A O365 Business Essentials előfizetés beállítása
 
 Office 365-fiókok létrehozása és hozzáadása a tartományhoz
   
-- Ebben a lépésben a varázsló a felhasználók Office 365-fiókok létrehozása és hozzáadása a saját tartomány használata. A varázsló segítségével személyre szabhatók meg felhasználó Azonosítóját és e-mailt az üzleti, mint a [rob@contoso.com](mailto:rob@contoso.com).
+- Ebben a lépésben létre kell hoznia a felhasználók Office 365-ös fiókjait a beállítási varázslóval, és hozzá kell adnia a saját tartományát. A varázslóval személyre szabott felhasználói azonosítókat és e-mail-címeket (például istvan@contoso.com) hozhat létre a vállalatban dolgozó összes személynek.
     
 - Az [Office 365 Felügyeleti központ](https://login.partner.microsoftonline.cn/) megnyitása.
     

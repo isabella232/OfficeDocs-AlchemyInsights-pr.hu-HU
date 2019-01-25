@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
 ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28294039"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29474030"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hogyan módosítható a hitelkártyás fizetések számla?
 
 > [!NOTE]
 > A számlával történő fizetési lehetőség csak akkor választható, ha az Office 365-előfizetésének díja elér egy bizonyos összeget (amely szolgáltatási helyenként változó). Nagyobb összegű számlás fizetések esetében hitelképesség-vizsgálatra lehet szükség. További információt [Az Office 365 Vállalati verziós előfizetés kifizetése](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216) című témakörben talál. 
   
-1. A felügyeleti központ lépjen az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázási** \> **előfizetések**.
+1. A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.
     
 2. Válassza ki a módosítani kívánt előfizetést. A **Fizetési mód** szakaszban válassza a **Fizetési részletek módosítása** lehetőséget.
     
@@ -34,6 +34,6 @@ ms.locfileid: "28294039"
   
 4. A a ** a fizetési mód megváltoztatása ** párbeszédpanel mezőjébe **a Folytatás**gombra.
     
-5. Kattintson az **OK gombra** való visszatéréshez az Admin center. 
+5. Az **OK** gombbal lépjen vissza a felügyeleti központba. 
     
 
