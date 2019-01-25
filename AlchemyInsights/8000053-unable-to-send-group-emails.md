@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
 ms.openlocfilehash: d5ffe2695c7a81380126e6ee58eae8fcbcb72832
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28293607"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29473402"
 ---
 # <a name="unable-to-send-group-emails"></a>Nem lehet elküldeni a csoport e-mailek
 
@@ -26,7 +26,7 @@ Ha nem a kapcsolattartó-listák, vagy forduljon a csoportok e-mail küldésére
     
 2. Ha továbbra is problémái vannak egy e-mailt a csoport összeállítása, lépjen a [személyek](https://outlook.live.com/people/), jelöljük ki a partnerlista vagy a csoport, és válassza a **Küldés e-mailben**.
     
- **Megjegyzések:**
+ **Megjegyzések**
   
 1. Ellenőrizze, hogy nem blokkolt előugró ablakok: e-mail küldése a partnerek listája lapról egy új ablak nyílik meg.
     

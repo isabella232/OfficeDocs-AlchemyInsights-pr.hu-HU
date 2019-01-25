@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f844501a-e575-48b8-9c1b-9f800c7b89f8
 ms.openlocfilehash: 386a5ff01ce1fd96c219d1de77c5f4cbf6531965
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28293626"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29473501"
 ---
 # <a name="manage-my-bill-and-payments"></a>A számlázási és a kifizetések kezelése
 
 Rendszergazdaként elérhető lesz minden a számlázási és fizetési lehetőségek az admin központban.
   
-- A számlázási vagy számla megtekintése.
+- A számla megtekintése
     
 - Hozzáadása, módosítása vagy eltávolítása a fizetési lehetőséget.
     
@@ -32,8 +32,8 @@ Rendszergazdaként elérhető lesz minden a számlázási és fizetési lehetős
     
 - Egy másik előfizetést vásárolni.
     
-- A próbaverzió meghosszabbítása.
+- A próbaidőszak meghosszabbítása
     
-- Az előfizetés lemondásakor.
+- Az előfizetés lemondása
     
 

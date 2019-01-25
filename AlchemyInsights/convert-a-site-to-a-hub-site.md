@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
 ms.openlocfilehash: ea8bdfd8b75d4730303394905f9cd190fa9074c4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28293581"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29473806"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>A központi SharePoint-webhely létrehozása
 
@@ -24,7 +24,7 @@ ms.locfileid: "28293581"
 3. A hub megjelenítendő nevét, és adja meg az egyéni felhasználók vagy biztonsági csoportok helyek társítani a hub engedélyezni szeretné.
     
     > [!NOTE]
-    >  Javasoljuk, hogy válassza kommunikációs hely vagy az új sablont használó csoportwebhelyet. Klasszikus csoportwebhely használata esetén a hub navigációs modern oldalakon jelennek meg, és központi webhely beállításai csak jelennek meg modern lapok. > Helyek, amelyek már egy másik hubhoz társított nem regisztrálható a központi webhelyen. 
+    >  Javasoljuk, hogy válassza kommunikációs hely vagy az új sablont használó csoportwebhelyet. Klasszikus csoportwebhely használata esetén a hub navigációs modern oldalakon jelennek meg, és központi webhely beállításai csak jelennek meg modern lapok. >, amelyek már egy másik hubhoz társított webhelyek nem regisztrálható a központi webhelyen. 
   
 [További tudnivalók a központi helyek](https://go.microsoft.com/fwlink/?linkid=869149)
   

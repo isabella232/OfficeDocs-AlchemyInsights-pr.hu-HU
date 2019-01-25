@@ -13,11 +13,11 @@ ms.custom: Adm_O365
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
 description: Ez a hiba jelenhet meg, ha a víruskereső, tűzfal, proxy beállításai vagy kapcsolat történő telepítését megakadályozó Office. Az alábbiakban néhány dolgot, próbálja meg kijavítani a problémát.
 ms.openlocfilehash: 14ccd27264f357af9cd735bfceebb0bddca19eaf
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28293969"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29473596"
 ---
 Ez a hiba jelenhet meg, ha a víruskereső, tűzfal, proxy beállításai vagy kapcsolat történő telepítését megakadályozó Office. Az alábbiakban néhány dolgot, próbálja meg kijavítani a problémát.
   
