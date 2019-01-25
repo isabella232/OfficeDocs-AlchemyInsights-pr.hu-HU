@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f974fc09-ae6e-4b3d-94cb-1b1021d2ee31
 ms.openlocfilehash: f368e2fcb5a235c4ecc483b78b34ce024b206529
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28294080"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29473410"
 ---
-# <a name="using-minimal-hybrid-to-move-to-office-365"></a><span data-ttu-id="19da4-102">Ugrás az Office 365 minimális hibrid használata</span><span class="sxs-lookup"><span data-stu-id="19da4-102">Using Minimal Hybrid to move to Office 365</span></span>
+# <a name="using-minimal-hybrid-to-move-to-office-365"></a><span data-ttu-id="7d4e9-102">Ugrás az Office 365 minimális hibrid használata</span><span class="sxs-lookup"><span data-stu-id="7d4e9-102">Using Minimal Hybrid to move to Office 365</span></span>
 
-<span data-ttu-id="19da4-103">Ha többet szeretne megtudni a minimális hibrid, néven is ismert Express áttelepítési, [Minimális hibrid használata gyors áttelepítése az Office 365 Exchange postaládákat](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx)kivétele.</span><span class="sxs-lookup"><span data-stu-id="19da4-103">To learn more about Minimal Hybrid, also known as Express migration, check out [Use Minimal Hybrid to quickly migrate Exchange mailboxes to Office 365](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx).</span></span>
+<span data-ttu-id="7d4e9-103">Ha többet szeretne megtudni a minimális hibrid, néven is ismert Express áttelepítési, [Minimális hibrid használata gyors áttelepítése az Office 365 Exchange postaládákat](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx)kivétele.</span><span class="sxs-lookup"><span data-stu-id="7d4e9-103">To learn more about Minimal Hybrid, also known as Express migration, check out [Use Minimal Hybrid to quickly migrate Exchange mailboxes to Office 365](https://support.office.com/article/FDECCEED-0702-4AF3-85BE-F2A0013937EF.aspx).</span></span>
   
 
