@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
 ms.openlocfilehash: 528b574eb45295b71738bcafac8da13ad3f5f7b9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28293792"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498196"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a><span data-ttu-id="8ec6b-102">Egy e-mail címet a terjesztési csoport hozzáadása</span><span class="sxs-lookup"><span data-stu-id="8ec6b-102">Add an email address for a distribution group</span></span>
+# <a name="add-an-email-address-for-a-distribution-group"></a><span data-ttu-id="8aaff-102">Egy e-mail címet a terjesztési csoport hozzáadása</span><span class="sxs-lookup"><span data-stu-id="8aaff-102">Add an email address for a distribution group</span></span>
 
-<span data-ttu-id="8ec6b-103">E-mail címek meglévő terjesztési csoportok hozzáadásához kövesse az alábbi lépéseket:</span><span class="sxs-lookup"><span data-stu-id="8ec6b-103">To add email addresses for an existing distribution group, follow these steps:</span></span>
+<span data-ttu-id="8aaff-103">E-mail címek meglévő terjesztési csoportok hozzáadásához kövesse az alábbi lépéseket:</span><span class="sxs-lookup"><span data-stu-id="8aaff-103">To add email addresses for an existing distribution group, follow these steps:</span></span>
   
-1. <span data-ttu-id="8ec6b-104">A [felügyeleti központ Exchange](https://outlook.office365.com/ecp/) **címzettek** Ugrás \> **csoportok**.</span><span class="sxs-lookup"><span data-stu-id="8ec6b-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
+1. <span data-ttu-id="8aaff-104">Az Exchange Felügyeleti központban válassza a [Címzettek](https://outlook.office365.com/ecp/) \*\*\*\* \> lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="8aaff-104">In the [Exchange admin center](https://outlook.office365.com/ecp/), go to **Recipients** \> **Groups**.</span></span>
     
-2. <span data-ttu-id="8ec6b-105">Jelölje ki a módosítani kívánt terjesztési csoportot, és kattintson a **Szerkesztés**gombra.</span><span class="sxs-lookup"><span data-stu-id="8ec6b-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
+2. <span data-ttu-id="8aaff-105">Jelölje ki a módosítani kívánt terjesztési csoportot, és kattintson a **Szerkesztés**gombra.</span><span class="sxs-lookup"><span data-stu-id="8aaff-105">Select the distribution group you want to modify, and then click **Edit**.</span></span>
     
-3. <span data-ttu-id="8ec6b-106">A csoport tulajdonságainak keresse meg az **E-mail beállítások** lap adja meg e-mail címét.</span><span class="sxs-lookup"><span data-stu-id="8ec6b-106">In the properties of the group, go to the **Email options** tab to add email addresses.</span></span> 
+3. <span data-ttu-id="8aaff-106">A csoport tulajdonságainak keresse meg az **E-mail beállítások** lap adja meg e-mail címét.</span><span class="sxs-lookup"><span data-stu-id="8aaff-106">In the properties of the group, go to the **Email options** tab to add email addresses.</span></span> 
     
-<span data-ttu-id="8ec6b-107">További tudnivalók: [E-mail beállításokat](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span><span class="sxs-lookup"><span data-stu-id="8ec6b-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span></span>
+<span data-ttu-id="8aaff-107">További tudnivalók: [E-mail beállításokat](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span><span class="sxs-lookup"><span data-stu-id="8aaff-107">For more information, see [Email options](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).</span></span>
   
 
