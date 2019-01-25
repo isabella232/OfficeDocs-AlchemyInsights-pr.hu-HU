@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f2ec4d9c-4841-4c8f-8f85-574395f8c728
 ms.openlocfilehash: 5366f68267f81d5f7c115aa5f411c9141f00d9c7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28294331"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500788"
 ---
-# <a name="delete-a-classic-sharepoint-team-site-or-subsite"></a><span data-ttu-id="0ae3f-102">Klasszikus SharePoint csoportwebhely vagy alwebhely törlése</span><span class="sxs-lookup"><span data-stu-id="0ae3f-102">Delete a classic SharePoint team site or subsite</span></span>
+# <a name="delete-a-classic-sharepoint-team-site-or-subsite"></a><span data-ttu-id="97752-102">Klasszikus SharePoint csoportwebhely vagy alwebhely törlése</span><span class="sxs-lookup"><span data-stu-id="97752-102">Delete a classic SharePoint team site or subsite</span></span>
 
-1. <span data-ttu-id="0ae3f-103">Látogasson el a webhelyre.</span><span class="sxs-lookup"><span data-stu-id="0ae3f-103">Go to the site.</span></span>
+1. <span data-ttu-id="97752-103">Látogasson el a webhelyre.</span><span class="sxs-lookup"><span data-stu-id="97752-103">Go to the site.</span></span>
     
-2. <span data-ttu-id="0ae3f-104">Kattintson a **Beállítások** ikonra a jobb felső részén.</span><span class="sxs-lookup"><span data-stu-id="0ae3f-104">Click the **Settings** icon in the upper right.</span></span> 
+2. <span data-ttu-id="97752-104">Kattintson a **Beállítások** ikonra a jobb felső részén.</span><span class="sxs-lookup"><span data-stu-id="97752-104">Click the **Settings** icon in the upper right.</span></span> 
     
-3. <span data-ttu-id="0ae3f-p101">A **webhely beállításai**lehetőségre. A **Webhelyműveletek**területen kattintson a **hely törlése**, és kattintson a **Törlés**.</span><span class="sxs-lookup"><span data-stu-id="0ae3f-p101">Click **Site settings**. Under **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="97752-p101">A **webhely beállításai**lehetőségre. A **Webhelyműveletek**területen kattintson a **hely törlése**, és kattintson a **Törlés**.</span><span class="sxs-lookup"><span data-stu-id="97752-p101">Click **Site settings**. Under **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
     
 
