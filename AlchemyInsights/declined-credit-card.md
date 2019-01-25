@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
 ms.openlocfilehash: 19215a8900386093b5f09e69dd943acbfc20d86d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28293999"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29499240"
 ---
 # <a name="declined-credit-card"></a>Elutasított hitelkártya
 
-Ha Ön hitelkártyával fizet, és a hitelkártyája utasít, jelezve, hogy a rendszer nem tudta feldolgozni a fizetés, e-mailt kap. Ellenőrizze, hogy a [hitelkártya adatait](https://go.microsoft.com/fwlink/p/?linkid=842054) - kártya száma, lejárati dátum, név és cím, város, állam és irányítószám beleértve hitelkártya - jelennek meg, pontosan úgy, ahogy azok a hitelkártya és a hitelkártya-kivonat. Frissítse a hitelkártyaadatokat, és azonnal a kifizetés keresztül küldje el a **fizetés most** gombra az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon. További információ című "Mi történik, ha a hitelkártyája lejárt és a fizetési due? túl van" [az Office 365 üzleti előfizetés fizet](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
+Ha hitelkártyával történő fizetéskor a rendszer elutasítja a kártyát, e-mailben értesítjük arról, hogy nem sikerült feldolgozni a fizetést. Először győződjön meg arról, hogy a hitelkártya adatai - vagyis a kártyaszám, a lejárati dátum, a hitelkártyán lévő név és a cím (ideértve a várost, az országot és az irányítószámot) - mind pontosan ugyanúgy vannak megadva, ahogyan a hitelkártyán és a számlakivonaton is szerepelnek. A hitelkártyaadatok frissítését követően az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lap **Fizetés most** gombjára kattintva azonnal elküldheti a megfelelő összeget. További információt [Az Office 365 Vállalati verziós előfizetés kifizetése](https://go.microsoft.com/fwlink/p/?linkid=842054) című témakör „Mi történik akkor, ha lejárt a hitelkártyám és a fizetési határidő is?" című szakaszában talál.  
   
 Ha továbbra is a hitelkártya elutasításáról szóló üzenetet kap, lépjen kapcsolatba a bankjával. Elképzelhető, hogy a hitelkártyája nincs aktiválva - ha például nemrég kapott egy új lejárati dátumú hitelkártyát postai úton, akkor előfordulhat, hogy aktiválnia kell, mielőtt használhatná. A bankjától továbbá megtudhatja azt is, ha a hitelkártyája esetleg nem támogatott az online, a nemzetközi vagy a rendszeres tranzakciókhoz.  
   
