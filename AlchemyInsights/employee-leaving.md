@@ -13,17 +13,17 @@ ms.custom: Adm_O365
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: A cél egy cikkben legfeljebb 500 szót.
 ms.openlocfilehash: 001833aeec5e8f6783aaa68c45406d43aba752fb
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28293891"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498160"
 ---
 A cél egy cikkben legfeljebb 500 szót.
   
 # <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Van egy alkalmazott elhagyja, és hozzáférés az adatokhoz és e-mail zárolnia kell?
 
-Ehhez:
+Művelet
   
 1. Ugrás az [aktív felhasználók](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/users).
     
