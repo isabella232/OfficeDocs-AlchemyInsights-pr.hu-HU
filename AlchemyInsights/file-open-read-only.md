@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 46b2489e86c018b3cbd6feb07a3a2e397de383b6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c4610a133cf4202310bfd166a61ab84ca6ecdbb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499528"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661789"
 ---
 # <a name="file-open-read-only"></a>Fájl megnyitása csak olvasásra
 
@@ -30,7 +30,7 @@ Kattintson a jobb gombbal a fájlra, majd válassza a tulajdonságok is ellenőr
   
  **A tartalom védett nézetben van.**
   
-Az internetről és más potenciálisan nem biztonságos helyről fájlok is tartalmazhatnak, vírusok, férgek vagy egyéb rosszindulatú programok, amelyek kárt okozhatnak a számítógépben. Ez helyzet is gyakran az e-mail mellékletek vagy a letöltött fájlokat. A számítógép védelme érdekében, hogy ezeken a helyeken potenciálisan nem biztonságos fájlokat védett nézetben nyitja meg. A védett nézet olvasni a fájlt és annak tartalmát megtekintheti a kockázatok mérséklését. További információt a védett megtekintése és módosítása, lásd a cikk: [Mi az a védett nézet?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Az internetről és más potenciálisan nem biztonságos helyről fájlok is tartalmazhatnak, vírusok, férgek vagy egyéb rosszindulatú programok, amelyek kárt okozhatnak a számítógépben. Ez helyzet is gyakran az e-mail mellékletek vagy a letöltött fájlokat. A számítógép védelme érdekében, hogy ezeken a helyeken potenciálisan nem biztonságos fájlokat védett nézetben nyitja meg. A védett nézet olvasni a fájlt és annak tartalmát megtekintheti a kockázatok mérséklését. További információt a védett megtekintése és módosítása, lásd a cikk: [Mi az a védett nézet?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Tele van a OneDrive?**
   
@@ -38,7 +38,7 @@ Ha a fájl található a OneDrive és a OneDrive tárolási hely megtelt, tudjá
   
  **Office aktiválva van?**
   
-Ha Office nincs aktiválva, vagy az előfizetése lejárt, akkor lehet csak olvasható csökkentett módban. Olvashat az Office Aktiválás, lásd: [nem licencelt termék és az Office Aktiválás hibákat](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Ha Office nincs aktiválva, vagy az előfizetése lejárt, akkor lehet csak olvasható csökkentett módban. Olvashat az Office Aktiválás, lásd: [nem licencelt termék és az Office Aktiválás hibákat](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Ha más nem segít...**
   

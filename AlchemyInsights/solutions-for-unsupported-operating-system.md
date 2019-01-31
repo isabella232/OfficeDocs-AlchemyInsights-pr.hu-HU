@@ -3,35 +3,34 @@ title: "\"Nem támogatott operációs rendszer\" megoldások"
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 5/29/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
-ms.openlocfilehash: a8d1f7a125cb45c75673e9aed451bbaeec40eef6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: dfe06ad27b9936f6a00eff41af97fa6a267d3f6d
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29473670"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646745"
 ---
-"Nem támogatott operációs rendszer"
-
 # <a name="solutions-for-unsupported-operating-system"></a>"Nem támogatott operációs rendszer" megoldások
 
-Amikor megpróbálja telepíteni az Office 365/2016, a következő hibaüzenet jelenhet meg, ha az eszköz nem felel meg a [Rendszerkövetelmények](https://products.office.com/office-system-requirements).
+
+
+Amikor megpróbálja telepíteni az Office 365, egy **nem támogatott operációs rendszer** hibaüzenet megjelenhet, ha az eszköz nem felel meg a [Rendszerkövetelmények](https://products.office.com/office-system-requirements).
   
- **"Nem támogatott operációs rendszer"**
+A Microsoft Office 365 használatához:
   
-A Microsoft Office 365/2016 használatához:
-  
-PC: Windows 10, Windows 8.1, Windows 8, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 vagy Windows Server 2008 R2
-  
-VAGY
-  
-Mac OS X 10.10
-  
-Ha ezt az üzenetet kapott egy mobil eszköz vagy a Chromebook Office telepítése közben, lásd az [Office-alkalmazások és a mobil eszközön e-mail beállítása](https://support.office.com/article/7dabb6cb-0046-40b6-81fe-767e0b1f014f?wt.mc_id=Alchemy_ClientDIA.aspx).
+- PC: Windows 10, Windows 8.1, Windows 8, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 vagy Windows Server 2008 R2
+    
+    VAGY
+    
+- Mac OS X 10.10
+    
+Ha ezt az üzenetet kapott egy mobil eszköz vagy a Chromebook Office telepítése közben, lásd: [hogyan kell telepíteni és futtatni a Chromebook a Microsoft Office](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
   
 

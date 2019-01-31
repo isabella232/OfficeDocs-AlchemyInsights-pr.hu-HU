@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29473502"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655669"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>A helyreállítható elemek mappa megtelt.
 
@@ -36,7 +36,7 @@ Nem mentesített postafiókok, rendszergazdák használhatják a `Search-Mailbox
     
 - [Keresés-postafiók](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-Visszatartott postafiókok rendszergazdák kell távolítsa el a mentesség, mielőtt azok a helyreállítható elemek mappából törölt elemek is. További tudnivalók: [törli az elemeket a helyreállítható elemek mappájában lévő felhőalapú postaládákba tartsa](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Visszatartott postafiókok rendszergazdák kell távolítsa el a mentesség, mielőtt azok a helyreállítható elemek mappából törölt elemek is. További tudnivalók: [törli az elemeket a helyreállítható elemek mappájában lévő felhőalapú postaládákba tartsa](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
   
 A helyreállítható elemek mappa teljes ne megelőzése érdekében rendszergazdák növelheti a helyreállítható elemek mappa postaládára tartsa, és állítsa be, hogy az elemek a helyreállítható elemek mappába helyez át a felhasználó archív postaláda adatmegőrzési tárolási korlátját a postafiókot. Lásd [a helyreállítható elemek tartsa postaládára vonatkozó kvóta növelése](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
   

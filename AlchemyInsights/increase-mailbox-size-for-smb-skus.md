@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 4f05d1e94e7b44ccf2034c2d01e4e4c9216e94bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ce258f5d3b18db1df3cad492f24ca75a23e93a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29474036"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660889"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Kapcsoló a tervek szerint a postaláda méretének növelése
 
-Ha a postafiók mérete 50 GB, 100 GB-ra a postaláda méretének átvált az [Office 365 vállalati E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) vagy az [Office 365 vállalati E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software)növelhető. Átváltás egy másik Office 365-sémát a lépések a következők:
+Ha a postafiók mérete 50 GB, 100 GB-ra a postaláda méretének átvált az [Office 365 vállalati E3](https://products.office.com/business/office-365-enterprise-e3-business-software) vagy az [Office 365 vállalati E5](https://products.office.com/business/office-365-enterprise-e5-business-software)növelhető. Átváltás egy másik Office 365-sémát a lépések a következők:
   
 1. Az Office 365 felügyeleti központ lépjen az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázási** \> **előfizetések**.
     

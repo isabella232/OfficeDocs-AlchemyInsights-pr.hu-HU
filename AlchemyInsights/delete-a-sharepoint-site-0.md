@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29473782"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646385"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Törölje az Office 365 csoporthoz tartozó helyek:
 
@@ -30,7 +30,7 @@ Amikor a felhasználók egy új csoportwebhely létrehozása SharePoint otthonr�
     
 Megjegyzés: Ha töröl egy csoportot, lehet a késedelem a SharePoint rendszerből a webhely eltávolítása előtt.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Kommunikációs vagy klasszikus területekhez törlése:
+**Kommunikációs vagy klasszikus területekhez törlése:**
 
 1. Látogasson el a webhelyre.
   
@@ -38,7 +38,7 @@ Megjegyzés: Ha töröl egy csoportot, lehet a késedelem a SharePoint rendszerb
   
 3. A **webhely beállításai**lehetőségre. A **Hely adatait** vagy a **Webhelyműveletek** **hely törlése**gombra, és válassza a **Törlés**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>A SharePoint-webhelycsoport törlése:
+**A SharePoint-webhelycsoport törlése:**
 
 Klasszikus webhelycsoport törlése:
   
@@ -46,7 +46,7 @@ Klasszikus webhelycsoport törlése:
     
 2. A webhelycsoportok lapon jelölje be a **törlése.**
     
-## <a name="deleted-a-site-by-accident"></a>A webhely törölt véletlenül?
+**A webhely törölt véletlenül?**
 
 Lásd a [webhelycsoport törölt visszaállítása](https://go.microsoft.com/fwlink/?linkid=867660).
   

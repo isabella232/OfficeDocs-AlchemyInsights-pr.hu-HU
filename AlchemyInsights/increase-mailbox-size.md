@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 5068d2ce7c2bb96551d6eeb6f60044bbe741e1cb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4029a07e1108a515b9dac2def814243ae3c76c22
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29473056"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661645"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Kapcsoló a tervek szerint a postaláda méretének növelése
 
 Ha a postafiók mérete már 100 GB, nincs növelheti azt mód. Ebben az esetben kövesse [a Tanácsot](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71). 
   
-Ha a postafiók mérete 50 GB, növelheti azt a 100 GB-os [Office 365 vállalati E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) vagy az [Office 365 vállalati E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software)való átállításával. Átváltás egy másik Office 365-sémát a lépések a következők:
+Ha a postafiók mérete 50 GB, növelheti azt a 100 GB-os [Office 365 vállalati E3](https://products.office.com/business/office-365-enterprise-e3-business-software) vagy az [Office 365 vállalati E5](https://products.office.com/business/office-365-enterprise-e5-business-software)való átállításával. Átváltás egy másik Office 365-sémát a lépések a következők:
   
 1. Az Office 365 felügyeleti központ lépjen az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázási** \> **előfizetések**.
     

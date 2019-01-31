@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: d1834674b7f36c94dda5629c0a3263c0eec721cf
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3871e2eed2e321e0df72fe3578a14ddd45ed8565
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29473200"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660529"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Tartalom nem jelenik meg a SharePoint-találatok
 
 Hajtsa végre az alábbi lépéseket, ha a várt tartalom nem jelenik meg a keresési eredmények között:
   
-1. Ellenőrizze, hogy a várt tartalom tartalmazó **webhely** beállításai lehetővé teszik a tartalom jelenjen meg a keresési eredmények között. Kövesse [a keresési eredmények között a webhely tartalmának megjelenítése](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. Ellenőrizze, hogy a várt tartalom tartalmazó **webhely** beállításai lehetővé teszik a tartalom jelenjen meg a keresési eredmények között. Kövesse [a keresési eredmények között a webhely tartalmának megjelenítése](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
     
-2. Ellenőrizze, hogy a **lista** vagy **dokumentumtár** , amely tartalmazza a várt tartalom beállításai lehetővé teszik a tartalom jelenjen meg a keresési eredmények között. Kövesse a [listák vagy tárak a keresési eredmények között a tartalom megjelenítése](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results). 
+2. Ellenőrizze, hogy a **lista** vagy **dokumentumtár** , amely tartalmazza a várt tartalom beállításai lehetővé teszik a tartalom jelenjen meg a keresési eredmények között. Kövesse a [listák vagy tárak a keresési eredmények között a tartalom megjelenítése](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results). 
     
 3. Ellenőrizze, hogy a lap, dokumentum vagy egyéni lap elrendezése is közzétételre kerülnek a **főverzió.** Hajtsa végre a 3 a [Keresés nem ad vissza a SharePoint Online összes eredmény](https://go.microsoft.com/fwlink/?linkid=874525).
     
 4. Győződjön meg arról, hogy a felhasználó rendelkezik-e **engedéllyel** a tartalom megtekintését. Kövesse a [SharePoint jogosultsági szintek ismertetése](https://go.microsoft.com/fwlink/?linkid=867071).
     
-5. **Újraindexelni** a tartalmat [kézzel a bejárási és indexelési újra a hely, a tár vagy lista kérése](https://docs.microsoft.com/en-us/sharepoint/crawl-site-content)utasításait követve. Ez lehet, hogy hosszabb ideig eltarthat, Várjon 24 órát az eredmények ismételt ellenőrzés előtt.
+5. **Újraindexelni** a tartalmat [kézzel a bejárási és indexelési újra a hely, a tár vagy lista kérése](https://docs.microsoft.com/sharepoint/crawl-site-content)utasításait követve. Ez lehet, hogy hosszabb ideig eltarthat, Várjon 24 órát az eredmények ismételt ellenőrzés előtt.
     
-További információért lásd [a helyszínen kell kereshető tartalom engedélyezése](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable). 
+További információért lásd [a helyszínen kell kereshető tartalom engedélyezése](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
   
 

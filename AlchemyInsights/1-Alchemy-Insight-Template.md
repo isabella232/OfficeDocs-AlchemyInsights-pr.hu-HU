@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454216"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662932"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Szükséges vevő néző H1, H2 nem működik
 Példaszöveg Tiltás - kövesse az alábbi utasításokat:
 
-1. A **AlchemyInsights** mappában található fájlok a mane kell rendelkezniük Szabályazonosító és az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) szabály nevét.
+1. A **AlchemyInsights** mappában található fájlokat kell Szabályazonosító és az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) szabály nevét a fájlnév.
     1. például ***976-How-to-enable-litigation-hold***
 1. A sablonként használni a metaadatokat a fájl elején. Semmi másra nincs szükség.
 1. Az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net)keresse meg a szakasz le **vevő-Insight címe:** és a betekintést a H1 címe, amely a kiindulási pont használatát. 
@@ -34,3 +34,8 @@ Példaszöveg Tiltás - kövesse az alábbi utasításokat:
     1. Hivatkozások mindig kell lennie, vagy **"webes hivatkozásokat" / külső** vagy **felhasználói felületének elemeit mély kapcsolatokat**, nem belső hivatkozásokat.
 
 És ez már valóban egy kicsit túl hosszú. Legjobb gyakorlat az, körülbelül 400 karakter---
+
+Ha készen áll a tartalom, húzza a élő ágat. Ezután menjen az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) , és írja be a fájlnevet az URL-cím mezőben. Ellenőrizze, hogy felülvizsgálják, és közzé Insight szerint "Igen", és kattintson a frissítés szabály. (Ez fog megjelenni a portál - hamarosan felszabadítása az új verzió a prettier.)
+
+![URL-mező](media/for-content-team.PNG)
+
