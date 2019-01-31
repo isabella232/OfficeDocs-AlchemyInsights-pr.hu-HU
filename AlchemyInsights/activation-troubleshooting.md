@@ -2,44 +2,28 @@
 title: Aktiválás – hibaelhárítás
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Indítsa el a cikk egy nagyon rövid bevezetés (1 mondat). Tegye az olvasó helyen - Miért vannak azok Itt? Mit kell őket?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498268"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646961"
 ---
-<span data-ttu-id="7f74b-p102">Indítsa el a cikk egy nagyon rövid bevezetés (1 mondat). Tegye az olvasó helyen - Miért vannak azok Itt? Mit kell őket?</span><span class="sxs-lookup"><span data-stu-id="7f74b-p102">Start your article with a very short introduction (1 sentence). Put yourself in the reader's place - why are they here? What should they do?</span></span> 
-  
-1. <span data-ttu-id="7f74b-108">Get egyenes lépései a feladat gyors listáját.</span><span class="sxs-lookup"><span data-stu-id="7f74b-108">Get straight to a quick list of steps to accomplish the task.</span></span>
-    
-    <span data-ttu-id="7f74b-109">Ha megmagyarázni a fogalom van szüksége, vagy meg kell előre szükséges lépéseket tenni, hová kell és [hivatkozás](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) a koncepció vagy lépéseket a lépcső alatt gyors összefoglaló hozzáadása</span><span class="sxs-lookup"><span data-stu-id="7f74b-109">If you need to explain a concept, or they have to do pre-requisite steps, add a quick summary below the step where they need it, and [link](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) to the concept or steps.</span></span> 
-    
-2. <span data-ttu-id="7f74b-110">Folyamatosan eljárások rövid - lehetőleg 5 vagy kevesebb lépéseket, legfeljebb 8.</span><span class="sxs-lookup"><span data-stu-id="7f74b-110">Keep procedures short - preferably 5 or fewer steps, no more than 8.</span></span>
-    
-3. <span data-ttu-id="7f74b-111">**Felhasználói felület stílusának** használata felhasználói felület elemeit, vagy személyek szöveget kell beírni.</span><span class="sxs-lookup"><span data-stu-id="7f74b-111">Use **Ui style** for user interface elements or for text people need to enter.</span></span> 
-    
-4. <span data-ttu-id="7f74b-112">Igék válassza, jelölje ki, vagy műveletek adja meg, és formázza a menük **menü** \> **parancsot**.</span><span class="sxs-lookup"><span data-stu-id="7f74b-112">Use the verbs choose, select, or enter as actions, and format menus as **Menu** \> **Command**.</span></span>
-    
-5. <span data-ttu-id="7f74b-113">Tetszés szerint vegye fel a képernyőkép környezet (Ha a felhasználói felület merevlemez található, vagy a feladat elvégzéséhez szükséges).</span><span class="sxs-lookup"><span data-stu-id="7f74b-113">Optionally, add a screenshot for context (if UI is hard to locate, or it's needed to complete the task).</span></span>
-    
-    <span data-ttu-id="7f74b-p103">Maximális szélesség: 520 képpont. Szabványos téma használata, ne jelenjen meg semmilyen személyes adatot, és csak mi jelentősége a megjelenítendő levágása.</span><span class="sxs-lookup"><span data-stu-id="7f74b-p103">Maximum width: 520 pixels. Use a standard theme, do not show any personal information, and crop to show only what's relevant.</span></span> 
-    
-    ![Helyőrző - SOC cikk art legnagyobb szélessége 520 pixel](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-<span data-ttu-id="7f74b-117">Ha szeretne képernyőkép vagy videó hozzáadása, kétoszlopos rácsvonalak használata és a bal és a videó utasításait vagy képernyőkép - jobb [lépéseket és videó rács példa](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx)témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="7f74b-117">If you want to add a video or screenshot, use a two-column grid and have the steps in the left and the video or screenshot in the right - see [Steps and video grid example](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx).</span></span> 
-  
-<span data-ttu-id="7f74b-118">A cél egy cikkben legfeljebb 500 szót.</span><span class="sxs-lookup"><span data-stu-id="7f74b-118">Target no more than 500 words for an article.</span></span>
-  
-# <a name="example-article"></a><span data-ttu-id="7f74b-119">Például a cikk</span><span class="sxs-lookup"><span data-stu-id="7f74b-119">Example article</span></span>
+# <a name="activation-troubleshooting"></a><span data-ttu-id="e95c5-102">Aktiválás – hibaelhárítás</span><span class="sxs-lookup"><span data-stu-id="e95c5-102">Activation troubleshooting</span></span>
 
-[<span data-ttu-id="7f74b-120">A fénykép módosítása</span><span class="sxs-lookup"><span data-stu-id="7f74b-120">Change my photo</span></span>](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+<span data-ttu-id="e95c5-p101">A **Vezérlőpult** \> **Programok és szolgáltatások**, az Office keresés. A Microsoft Office 365 ProPlus vagy a Microsoft Office 365 üzleti kell megjelennie. Ha a felsorolt Office több verziója jelenik meg, távolítsa el a nem használt verzió.</span><span class="sxs-lookup"><span data-stu-id="e95c5-p101">In **Control Panel** \> **Programs and Features**, search for Office. You should see Microsoft Office 365 ProPlus or Microsoft Office 365 Business. If you see more than one version of Office listed, uninstall the version you aren't using.</span></span> 
   
-
+<span data-ttu-id="e95c5-106">Nem távolítható el a Vezérlőpult segítségével sikeresen, ha használja a [támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy) eltávolíthatja a nem használt verzióját.</span><span class="sxs-lookup"><span data-stu-id="e95c5-106">If you can't uninstall successfully using the Control Panel, use the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) to uninstall the version you aren't using.</span></span> 
+  
+<span data-ttu-id="e95c5-p102">Ha még mindig nem licencelt Office, térjen vissza a **Vezérlőpult** \> **Programok és szolgáltatások**. Kattintson a jobb gombbal a többi Office-telepítés, és válassza a **Módosítás** (vagy módosítás) majd válassza a **Javítás Online**. Az online javítási cserehelyzetbe vehet igénybe. Ezután indítsa újra az Office és bejelentkezés a munka, vagy iskola figyelembe, ha a rendszer kéri.</span><span class="sxs-lookup"><span data-stu-id="e95c5-p102">If Office is still unlicensed, go back to the **Control Panel** \> **Programs and Features**. Right-click the remaining Office install, select **Modify** (or Change), and then select **Online Repair**. The online repair might take awhile. Then, restart Office and sign in using your work or school account, if prompted.</span></span>
+  
+<span data-ttu-id="e95c5-111">Ha még mindig nem licencelt Office, töltse le és futtassa az [aktiválási hibaelhárító](https://aka.ms/SARA-OfficeActivation-Alchemy) aktiválási problémák megoldásához az érintett számítógépen.</span><span class="sxs-lookup"><span data-stu-id="e95c5-111">If Office is still unlicensed, download and then run the [Activation troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) on the affected machine to fix the activation issues.</span></span> 
+  
+<span data-ttu-id="e95c5-112">További tudnivalókért lásd: [nem licencelt termék és az Office Aktiválás hibákat](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span><span class="sxs-lookup"><span data-stu-id="e95c5-112">For more information, see: [Unlicensed Product and activation errors in Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).</span></span>

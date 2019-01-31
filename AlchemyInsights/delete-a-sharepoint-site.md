@@ -2,51 +2,30 @@
 title: A SharePoint-webhely törlése
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29473937"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660018"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="d950e-102">A SharePoint-webhely törlése</span><span class="sxs-lookup"><span data-stu-id="d950e-102">Delete a SharePoint site</span></span>
-
- <span data-ttu-id="d950e-103">**Törölje az Office 365 csoporthoz tartozó helyek:**</span><span class="sxs-lookup"><span data-stu-id="d950e-103">**Delete sites that belong to an Office 365 group:**</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="0c681-102">A SharePoint-webhely törlése</span><span class="sxs-lookup"><span data-stu-id="0c681-102">Delete a SharePoint site</span></span>
+ <span data-ttu-id="0c681-103">**Az új SharePoint-felügyeleti központ helyek törlése**</span><span class="sxs-lookup"><span data-stu-id="0c681-103">**Delete sites from the new SharePoint admin center**</span></span>
   
-<span data-ttu-id="d950e-p101">Amikor a felhasználók egy új csoportwebhely létrehozása SharePoint otthonról (vagy új csoportwebhelyet hoz létre a SharePoint felügyeleti központ kép), a megfelelő Office 365 csoport automatikusan létrejön. Office 365 csoport kapcsolódó webhelyek is jönnek létre, a Microsoft Teams az Office 365 csoport vagy egy csoport létrehozásakor. Az Office 365 csoporthoz tartozó SharePoint webhely törlése az Office 365 csoport maga törölnie kell.</span><span class="sxs-lookup"><span data-stu-id="d950e-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="0c681-p101">Az aktív webhely törlése, Ugrás az aktuális SharePoint admin center, kattintson a "Próbálja ki most" a jobb felső részén. Jelölje be az **aktív helyek**, válassza ki a webhelyet, és válassza a **Törlés**. [Nézet és a visszaállítás törli az új SharePoint-felügyeleti központ webhelyet](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)jelölje be a **Törölt helyek**. További információért lásd: [az új SharePoint-felügyeleti központ a helyek kezelése](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="0c681-p101">To delete an active site, go to the current SharePoint admin center, click "Try it now" in the upper right. Select **Active sites**, select the site, and then select **Delete**. To [view and restore deleted sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), select **Deleted sites**. For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span></span>
   
-1. <span data-ttu-id="d950e-107">Ugrás a [csoportok lapon az Office 365 felügyeleti központ](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="d950e-107">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+<span data-ttu-id="0c681-p102">**Fontos:** Ha a webhely adatmegőrzési része, nem lehet törölhető, amíg a webhely eltűnik a [biztonsági &amp; megfelelési Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). További információért lásd: [Adatmegőrzési szabályok áttekintése](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .</span><span class="sxs-lookup"><span data-stu-id="0c681-p102">**Important:** If the site is part of a retention policy, you may not be able to delete it until the site is removed from the [Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). See [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for more info.</span></span> 
   
-2. <span data-ttu-id="d950e-108">Jelölje be a csoport melletti jelölőnégyzetet.</span><span class="sxs-lookup"><span data-stu-id="d950e-108">Select the check box next to the group.</span></span>
-  
-3. <span data-ttu-id="d950e-109">Válassza a **Törlés**.</span><span class="sxs-lookup"><span data-stu-id="d950e-109">Select **Delete**.</span></span> 
-  
-<span data-ttu-id="d950e-110">Megjegyzés: Ha töröl egy csoportot, lehet a késedelem a SharePoint rendszerből a webhely eltávolítása előtt.</span><span class="sxs-lookup"><span data-stu-id="d950e-110">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
-  
- <span data-ttu-id="d950e-111">**Kommunikációs vagy klasszikus területekhez törlése:**</span><span class="sxs-lookup"><span data-stu-id="d950e-111">**Delete communication sites or classic sites:**</span></span>
-  
-1. <span data-ttu-id="d950e-112">Látogasson el a webhelyre.</span><span class="sxs-lookup"><span data-stu-id="d950e-112">Go to the site.</span></span>
-  
-2. <span data-ttu-id="d950e-113">Kattintson a \*\* beállítások \*\* (sebességváltó kerék ikon) jobb felső részén található.</span><span class="sxs-lookup"><span data-stu-id="d950e-113">Click the \*\* Settings \*\* (gear wheel icon) in the upper right.</span></span> 
-  
-3. <span data-ttu-id="d950e-p102">A **webhely beállításai**lehetőségre. A **Hely adatait** vagy a **Webhelyműveletek** **hely törlése**gombra, és válassza a **Törlés**.</span><span class="sxs-lookup"><span data-stu-id="d950e-p102">Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span> 
-  
- <span data-ttu-id="d950e-116">**A SharePoint-webhelycsoport törlése:**</span><span class="sxs-lookup"><span data-stu-id="d950e-116">**Delete a SharePoint site collection:**</span></span>
-  
-<span data-ttu-id="d950e-117">Klasszikus webhelycsoport törlése:</span><span class="sxs-lookup"><span data-stu-id="d950e-117">To delete a classic site collection:</span></span>
-  
-1. <span data-ttu-id="d950e-118">A klasszikus SharePoint felügyeleti központ a webhely gyűjtemények oldalon válassza ki a webhelycsoport melletti **jelölőnégyzetet** .</span><span class="sxs-lookup"><span data-stu-id="d950e-118">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
-  
-2. <span data-ttu-id="d950e-119">A webhelycsoportok lapon jelölje be a **törlése.**</span><span class="sxs-lookup"><span data-stu-id="d950e-119">On the Site Collections tab, select **Delete.**</span></span>
-  
- <span data-ttu-id="d950e-120">**A webhely törölt véletlenül?**</span><span class="sxs-lookup"><span data-stu-id="d950e-120">**Deleted a site by accident?**</span></span>
-  
-<span data-ttu-id="d950e-121">Lásd a [webhelycsoport törölt visszaállítása](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="d950e-121">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="0c681-110">Tippek:</span><span class="sxs-lookup"><span data-stu-id="0c681-110">Tips:</span></span>
+- <span data-ttu-id="0c681-p103">Globális rendszergazdák és a SharePoint Rendszergazdák most már törölheti az **Office 365 csoporthoz**tartozó helyek. Ezzel törli a csoport és összes forrásai, beleértve az Outlook postafiók és a naptár és a csapatok csatornák. További információért lásd: a [SharePoint-webhely törlése](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span><span class="sxs-lookup"><span data-stu-id="0c681-p103">Global admins and SharePoint admins can now delete sites that belong to an **Office 365 Group**. This will delete the group and all its resources, including the Outlook mailbox and calendar, and any Teams channels. For more info, see [Delete a SharePoint site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span></span>
+- <span data-ttu-id="0c681-p104">Visszaállíthatja a törölt helyek 93 napra. Fontos megjegyezni, hogy a törölt csoport 30 napon belül kell visszaállítani. További információért lásd a [nézet és a visszaállítás törli a webhelyek](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span><span class="sxs-lookup"><span data-stu-id="0c681-p104">You can recover deleted sites for 93 days. Note that deleted groups must be restored within 30 days. For more info, see [View and restore deleted sites](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span></span>
+- <span data-ttu-id="0c681-117">A Powershell webhely teljes eltávolításához az [Eltávolítás-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) parancsmag példa látható</span><span class="sxs-lookup"><span data-stu-id="0c681-117">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet example.</span></span> 
   
 
