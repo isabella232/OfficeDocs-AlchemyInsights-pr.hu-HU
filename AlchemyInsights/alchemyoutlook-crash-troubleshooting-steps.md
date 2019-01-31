@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: ea9b108ae40126fa60679d84cd5969e2ecb629d9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1de3b2f04162388939809048259552277c4074fc
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29473213"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657418"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Hibaelhárítási lépéseket az Outlook összeomlását
 
-Ha nehézségei vannak az Outlook asztali összeomlás, indításához 3 alábbi lépések, amelyek mindegyike szerepel a cikkben részletesen: [, amely miatt az Outlook összeomolhat vagy lefagyhat, ha használja az Office 365 kapcsolatos problémák elhárítása.](https://support.microsoft.com/en-us/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Ha nehézségei vannak az Outlook asztali összeomlás, indításához 3 alábbi lépések, amelyek mindegyike szerepel a cikkben részletesen: [, amely miatt az Outlook összeomolhat vagy lefagyhat, ha használja az Office 365 kapcsolatos problémák elhárítása.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
 1. lépés: Vizsgálja meg a lehetséges problémák-bővítmények.
   
@@ -28,6 +28,6 @@ Ha nehézségei vannak az Outlook asztali összeomlás, indításához 3 alábbi
   
 3. lépés: Hozzon létre egy új Outlook profilt, vagy az [Outlook profil eszköz](https://aka.ms/SaRA-OutlookSetupProfile) futtatható az érintett számítógépen. 
   
-Ha a fenti lépések nem működnek a probléma történt frissítés után, szükség lehet visszatérni az előző build. Útmutató az [Office 2013 vagy 2016 kattintson Office Kattintásra korábbi verziójának visszaállítása](https://support.microsoft.com/EN-US/help/2770432).
+Ha a fenti lépések nem működnek a probléma történt frissítés után, szükség lehet visszatérni az előző build. Útmutató az [Office 2013 vagy 2016 kattintson Office Kattintásra korábbi verziójának visszaállítása](https://support.microsoft.com/help/2770432).
   
 
