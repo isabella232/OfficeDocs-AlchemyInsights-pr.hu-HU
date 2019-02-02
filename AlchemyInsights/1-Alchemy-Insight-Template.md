@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662932"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697132"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Szükséges vevő néző H1, H2 nem működik
-Példaszöveg Tiltás - kövesse az alábbi utasításokat:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Szükséges Alkímia fej H1, H2 meg nem működnek.
+Gyakorlati tanácsokat és iránymutatásokat Alkímia szerzői:
 
+1. **Nem ágyazódnak egymásba Alkímia elképzelések mappákban**- Ezzel megszünteti az URL-szerkezet. Azt történő rögzítésének a keresést.
 1. A **AlchemyInsights** mappában található fájlokat kell Szabályazonosító és az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) szabály nevét a fájlnév.
     1. például ***976-How-to-enable-litigation-hold***
 1. A sablonként használni a metaadatokat a fájl elején. Semmi másra nincs szükség.
@@ -35,7 +36,6 @@ Példaszöveg Tiltás - kövesse az alábbi utasításokat:
 
 És ez már valóban egy kicsit túl hosszú. Legjobb gyakorlat az, körülbelül 400 karakter---
 
-Ha készen áll a tartalom, húzza a élő ágat. Ezután menjen az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) , és írja be a fájlnevet az URL-cím mezőben. Ellenőrizze, hogy felülvizsgálják, és közzé Insight szerint "Igen", és kattintson a frissítés szabály. (Ez fog megjelenni a portál - hamarosan felszabadítása az új verzió a prettier.)
-
-![URL-mező](media/for-content-team.PNG)
+Ha készen áll a tartalom, húzza a élő ágat. Ezután menjen az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) , és írja be a fájlnevet az URL-cím mezőben. Ellenőrizze, hogy felülvizsgálják, és közzé Insight szerint "Igen", és kattintson a frissítés szabály. **(Ez fog megjelenni a portál - hamarosan felszabadítása az új verzió a prettier.)** 
+ ![URL-mező](media/for-content-team.PNG)
 
