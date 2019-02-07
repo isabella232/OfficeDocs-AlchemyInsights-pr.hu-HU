@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
-ms.openlocfilehash: 16821181a58da470b37e286e082180d0c6012b2d
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 244997faa41bbdefc59f8096e4c23f3f4e2d5c5e
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655849"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758184"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>Tartomány névkiszolgálóinak frissítése az Office 365-re
 
@@ -31,6 +31,6 @@ A tartománya Office 365-ben való beállításához frissítenie kell a névkis
     
 3. Mentse a módosításokat.
     
-Részletes útmutatást a következő cikkben talál: [A névkiszolgálók módosítása úgy, hogy az Office 365-öt bármely tartományregisztrálónál beállíthassa](https://support.office.com/article/https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+Részletes útmutatást a következő cikkben talál: [A névkiszolgálók módosítása úgy, hogy az Office 365-öt bármely tartományregisztrálónál beállíthassa](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 

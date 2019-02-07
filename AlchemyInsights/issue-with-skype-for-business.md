@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
-ms.openlocfilehash: 48dd2d51e34b2d10e1d331e578b8ee9d2e692dcc
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 12c2b74ca16849f8d887b3394025e162565334a9
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29658309"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29757635"
 ---
 # <a name="issue-with-skype-for-business"></a>A Skype üzleti probléma?
 
@@ -21,12 +21,12 @@ ms.locfileid: "29658309"
   
 {HealthCheckString}
   
-Az NS, CNAME és SRV rekordjait a domain (DNS) beállításai nem megfelelőek a Skype üzleti. Részletes útmutatást [frissítése DNS-rekordokat az Office 365 rendszerben](https://support.office.com/article/https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) is vonatkoznak. 
+Az NS, CNAME és SRV rekordjait a domain (DNS) beállításai nem megfelelőek a Skype üzleti. Részletes útmutatást [frissítése DNS-rekordokat az Office 365 rendszerben](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) is vonatkoznak. 
   
-Javítás, látogasson el az Office 365 felügyeleti központ [tartományok](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Domains) lapjára, és azzal segítünk. 
+Javítás, látogasson el az Office 365 felügyeleti központ [tartományok](https://admin.microsoft.com/adminportal/home#/Domains) lapjára, és azzal segítünk. 
   
-Ha problémái vannak a szervezeten kívüli felhasználókkal való kommunikáció, hivatkozhatunk [Skype Online üzleti külső kommunikáció beállítása](https://support.office.com/article/https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) részletes ismertetése. 
+Ha problémái vannak a szervezeten kívüli felhasználókkal való kommunikáció, hivatkozhatunk [Skype Online üzleti külső kommunikáció beállítása](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) részletes ismertetése. 
   
-[Ellenőrizze a tartományok gyakran feltett kérdések](https://support.office.com/article/https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) a közös megoldásait. 
+[Ellenőrizze a tartományok gyakran feltett kérdések](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) a közös megoldásait. 
   
 
