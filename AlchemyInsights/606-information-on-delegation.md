@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29473921"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770655"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="a9d31-102">Az Outlook és az Outlook a weben meghatalmazottak kapcsolatban</span><span class="sxs-lookup"><span data-stu-id="a9d31-102">About delegates in Outlook and Outlook on the web</span></span>
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a><span data-ttu-id="5e83f-102">Az Outlook és az Outlook a weben hibaelhárítási delegálása</span><span class="sxs-lookup"><span data-stu-id="5e83f-102">Troubleshooting delegation in Outlook and Outlook on the web</span></span>
 
-<span data-ttu-id="a9d31-103">További információt az alábbi témakörökben:</span><span class="sxs-lookup"><span data-stu-id="a9d31-103">For more information, see these topics:</span></span>
-  
-- <span data-ttu-id="a9d31-104">**Outlook**: [lehetővé teheti a levelezés és a naptár kezelésének](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span><span class="sxs-lookup"><span data-stu-id="a9d31-104">**Outlook**: [Allow someone else to manage your mail and calendar](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)</span></span>
-    
-- <span data-ttu-id="a9d31-105">**Az Outlook a weben**: [üzleti az interneten az Outlook naptár delegálása](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span><span class="sxs-lookup"><span data-stu-id="a9d31-105">**Outlook on the web**: [Calendar delegation in Outlook on the web for business](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)</span></span>
-    
+<span data-ttu-id="5e83f-103">**Hibaelhárítás a Éva eszközzel:**</span><span class="sxs-lookup"><span data-stu-id="5e83f-103">**Troubleshooting with the SaRA tool:**</span></span>
 
+1. <span data-ttu-id="5e83f-104">Töltse le és telepítse az eszközt Éva innen</span><span class="sxs-lookup"><span data-stu-id="5e83f-104">Download and install SaRA tool from here</span></span>
+1. <span data-ttu-id="5e83f-105">Jelölje be az Outlook, majd "lépett problémák a naptárban"</span><span class="sxs-lookup"><span data-stu-id="5e83f-105">Select Outlook, then "I\`m having issues with my calendar"</span></span>
+1. <span data-ttu-id="5e83f-106">Mondjuk Igen érintett gép</span><span class="sxs-lookup"><span data-stu-id="5e83f-106">Say Yes for affected machine</span></span>
+1. <span data-ttu-id="5e83f-107">Adja hozzá az érintett felhasználó e-mail címe</span><span class="sxs-lookup"><span data-stu-id="5e83f-107">Add the e-mail address of the affected user</span></span>
+1. <span data-ttu-id="5e83f-108">Válassza ki a "Problémák a delegált engedélyek"</span><span class="sxs-lookup"><span data-stu-id="5e83f-108">Select "I\`m having problems with delegate permissions"</span></span>
+1. <span data-ttu-id="5e83f-p101">A következő sorba Amennyiben engedélyeket adó személy, írja be az e-mail címet a delegált. Ha engedélyt kapott és a meghatalmazott, adja meg az engedélyt kapott személy e-mail címét.</span><span class="sxs-lookup"><span data-stu-id="5e83f-p101">At the next prompt, if you are the person giving permissions, enter the e-mail address of your delegate. If you received permissions and you are the delegate, enter the e-mail address of the person that gave you permissions.</span></span>
+1. <span data-ttu-id="5e83f-111">Tovább menüben, válassza a lehetőséget, amely illeszkedik a forgatókönyv.</span><span class="sxs-lookup"><span data-stu-id="5e83f-111">At the next menu, select the option that fits your scenario.</span></span> 
+1. <span data-ttu-id="5e83f-112">A következő menüből válassza ki a jogosultsági szint.</span><span class="sxs-lookup"><span data-stu-id="5e83f-112">At the next menu, select the permission level.</span></span>
+1. <span data-ttu-id="5e83f-113">Ebben a szakaszban Éva eszköz automatikus ellenőrzéseket hajt végre, és lehetséges megoldás biztosít, vagy a is biztosít a további hibaelhárításhoz használható diagnosztikai naplóban.</span><span class="sxs-lookup"><span data-stu-id="5e83f-113">At this stage, SaRA tool will perform automated checks and it will provide you with possible resolution or alternatively will provide a diagnostic log that can be used for further troubleshooting.</span></span>
+1. <span data-ttu-id="5e83f-114">A naplókat is megtalálhatja a Éva eredmények mappában található C:\Users\Username\AppData\Local\SaraResults</span><span class="sxs-lookup"><span data-stu-id="5e83f-114">You can find the logs in the SaRA Results folder located at C:\Users\Username\AppData\Local\SaraResults</span></span>
