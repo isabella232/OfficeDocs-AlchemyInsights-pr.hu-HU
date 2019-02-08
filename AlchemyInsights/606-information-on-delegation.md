@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29473921"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770655"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>Az Outlook és az Outlook a weben meghatalmazottak kapcsolatban
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Az Outlook és az Outlook a weben hibaelhárítási delegálása
 
-További információt az alábbi témakörökben:
-  
-- **Outlook**: [lehetővé teheti a levelezés és a naptár kezelésének](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Az Outlook a weben**: [üzleti az interneten az Outlook naptár delegálása](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Hibaelhárítás a Éva eszközzel:**
 
+1. Töltse le és telepítse az eszközt Éva innen
+1. Jelölje be az Outlook, majd "lépett problémák a naptárban"
+1. Mondjuk Igen érintett gép
+1. Adja hozzá az érintett felhasználó e-mail címe
+1. Válassza ki a "Problémák a delegált engedélyek"
+1. A következő sorba Amennyiben engedélyeket adó személy, írja be az e-mail címet a delegált. Ha engedélyt kapott és a meghatalmazott, adja meg az engedélyt kapott személy e-mail címét.
+1. Tovább menüben, válassza a lehetőséget, amely illeszkedik a forgatókönyv. 
+1. A következő menüből válassza ki a jogosultsági szint.
+1. Ebben a szakaszban Éva eszköz automatikus ellenőrzéseket hajt végre, és lehetséges megoldás biztosít, vagy a is biztosít a további hibaelhárításhoz használható diagnosztikai naplóban.
+1. A naplókat is megtalálhatja a Éva eredmények mappában található C:\Users\Username\AppData\Local\SaraResults
