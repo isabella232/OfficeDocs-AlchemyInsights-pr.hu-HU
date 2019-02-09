@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657762"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786736"
 ---
+# <a name="dlp-policy-tip-issues"></a>DLP házirend tipp problémák
+
 **DLP házirendek**használata esetén a felhasználók a házirend megsértése, a **házirend tippek**is értesíteni. Rendszergazdák konfigurálható a házirend tippek megjelenítése a DLP házirend tesztelése közben, vagy ha a házirend teljes kényszerítési módban van. 
   
 Házirend konfigurálása a biztonsági és kompatibilitási központ teljes kényszerítési módban a DLP politikáról tippek tegye a következőket:
