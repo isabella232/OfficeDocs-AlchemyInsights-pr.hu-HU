@@ -838,3 +838,57 @@
 | a 2019/1/30 | [Fiók nyitása 123 le van tiltva az OWA hiba?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | módosítva |
 | a 2019/2/1 | [ugyanaz, mint a legcélszerűbb fájlnév [szabály #-leírás]](/AlchemyInsights/1-alchemy-insight-template) | módosítva |
 | a 2019/2/1 | [A postaláda-engedélyek módosítása](/AlchemyInsights/changing-permissions-on-a-mailbox) | módosítva |
+
+
+## <a name="week-of-february-04-2019"></a>Hét 2019. február 04.
+
+
+| Közzétett |A témakör címe | Módosítása |
+|------|------------|--------|
+| a 2019/2/4 | [Felhasználók felvétele az Office 365-be](/AlchemyInsights/add-users-to-office-365) | módosítva |
+| a 2019/2/6 | [Alkalmazott elhagyása](/AlchemyInsights/employee-leaving) | módosítva |
+| a 2019/2/6 | [Nyilvános vételi Admin](/AlchemyInsights/admin-takeover) | módosítva |
+| a 2019/2/6 | [E-mailben kap egy TenantAccessBlockedException hiba elérésekor 127?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | módosítva |
+| a 2019/2/6 | [959 megjelenítendő nevének módosítása](/AlchemyInsights/959-change-display-name) | módosítva |
+| a 2019/2/6 | [És a felhasználó e-mail alias törlése](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | módosítva |
+| a 2019/2/6 | Előre fizetett előfizetési ülések hozzáadása | eltávolítása |
+| a 2019/2/6 | [Felhasználók felvétele az Office 365-be](/AlchemyInsights/add-users-to-office-365) | módosítva |
+| a 2019/2/6 | [Külső felhasználók hozzáadása a terjesztési csoportot?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | módosítva |
+| a 2019/2/6 | Admin - Office 365 globális beállítása és felügyelet | eltávolítása |
+| a 2019/2/6 | Admin - a felhasználók, csoportok és erőforrások kezelése | eltávolítása |
+| a 2019/2/6 | Admin - beállítási tartomány- és DNS-beállítások | eltávolítása |
+| a 2019/2/6 | Admin - a jel és a jelszóval kapcsolatos problémák | eltávolítása |
+| a 2019/2/6 | [Office 365-előfizetés](/AlchemyInsights/cancel-office-365-subscription) | módosítva |
+| a 2019/2/6 | [A felhasználói név és e-mail cím módosítása](/AlchemyInsights/change-a-user-s-name-and-email-address) | módosítva |
+| a 2019/2/6 | Commerce - számlák, fizetések, előfizetések és licencek kezelése | eltávolítása |
+| a 2019/2/6 | [A TenantAccessBlockedException hiba jelenik meg e-mailben való hozzáféréskor?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | módosítva |
+| a 2019/2/6 | [E-mail kézbesítési probléma?](/AlchemyInsights/having-email-delivery-issues-0) | módosítva |
+| a 2019/2/6 | [E-mail kézbesítési probléma?](/AlchemyInsights/having-email-delivery-issues) | módosítva |
+| a 2019/2/6 | [Csatlakozás az Outlook az első probléma?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | módosítva |
+| a 2019/2/6 | [Csatlakozás az Outlook az első probléma?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | módosítva |
+| a 2019/2/6 | Intune - letöltéséről, telepítési és Intune használata | eltávolítása |
+| a 2019/2/6 | [A Skype üzleti probléma?](/AlchemyInsights/issue-with-skype-for-business) | módosítva |
+| a 2019/2/6 | ODSP | eltávolítása |
+| a 2019/2/6 | Office ügyfél - Excel | eltávolítása |
+| a 2019/2/6 | [Visszaállítás, törölt felhasználó](/AlchemyInsights/restore-deleted-user) | módosítva |
+| a 2019/2/6 | [Folyamatban szolgáltatási eset](/AlchemyInsights/service-incident-in-progress-0) | módosítva |
+| a 2019/2/6 | [Folyamatban szolgáltatási eset](/AlchemyInsights/service-incident-in-progress-1) | módosítva |
+| a 2019/2/6 | [Folyamatban szolgáltatási eset](/AlchemyInsights/service-incident-in-progress-2) | módosítva |
+| a 2019/2/6 | [Folyamatban szolgáltatási eset](/AlchemyInsights/service-incident-in-progress-3) | módosítva |
+| a 2019/2/6 | [Folyamatban szolgáltatási eset](/AlchemyInsights/service-incident-in-progress-4) | módosítva |
+| a 2019/2/6 | [Folyamatban szolgáltatási eset](/AlchemyInsights/service-incident-in-progress-5) | módosítva |
+| a 2019/2/6 | [Folyamatban szolgáltatási eset](/AlchemyInsights/service-incident-in-progress) | módosítva |
+| a 2019/2/6 | [Projekt beállítása](/AlchemyInsights/setting-up-project) | módosítva |
+| a 2019/2/6 | A telepítő e szolgáltatások, mint archív, megtartására, per, elektronikus adatok feltárása és MDM | eltávolítása |
+| a 2019/2/6 | A kapcsolat nélküli telepítő használatával az Office | eltávolítása |
+| a 2019/2/6 | Yammer - telepítő és Yammer szolgáltatások | eltávolítása |
+| a 2019/2/7 | [Összeomló Excel?](/AlchemyInsights/excel-crashing) | módosítva |
+| a 2019/2/7 | [Hogyan hozzáadása vagy szerkesztése a VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | módosítva |
+| a 2019/2/7 | [Az Office 365 Minecraft Edition oktatás ingyenes](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | módosítva |
+| a 2019/2/7 | [A hatáskör-átruházás 606 információk](/AlchemyInsights/606-information-on-delegation) | módosítva |
+| a 2019/2/7 | [A csoportot a csoportok listában nem látható](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | módosítva |
+| a 2019/2/8 | [DLP házirend tippek nem működik](/AlchemyInsights/dlp-policy-tips-not-working) | módosítva |
+| a 2019/2/8 | [DLP szabály az USA / UK útlevél száma nem működik](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | módosítva |
+| a 2019/2/8 | [Office 365 oktatás ingyenes](/AlchemyInsights/office-365-education-for-free) | módosítva |
+| a 2019/2/8 | [A Microsoft ToDo szükséges engedélyek](/AlchemyInsights/required-licences-for-microsoft-todo) | módosítva |
+| a 2019/2/8 | [Adatmegőrzési szabályok Exchange felügyeleti központ nem működik](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | módosítva |
