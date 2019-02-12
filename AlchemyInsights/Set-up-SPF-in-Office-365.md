@@ -6,15 +6,15 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: fc45050a39de24422426ea1d9ff0bad47eb86264
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29473386"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29920162"
 ---
 Meg minden jelszó soha nem jár le, nyissa meg [biztonsági &amp; adatvédelmi](https://portal.office.com/adminportal/home#/settings/security). **Jelszóházirend**mellett a **Szerkesztés** gombra, és kapcsolja **be**a csúszkát.
   
