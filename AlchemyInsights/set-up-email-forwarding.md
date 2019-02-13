@@ -7,29 +7,29 @@ ms.date: 3/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 4cb1a0455bc9cbdd5b838e97e0e2e8b90f06ff93
-ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
+ms.openlocfilehash: 30d3b9d2399565f3e0cc82ed79c9f205bf68d1a0
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/06/2019
-ms.locfileid: "29759462"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941798"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a><span data-ttu-id="ba0b1-102">Az e-mail továbbítási postafiók beállításainak ellenőrzése</span><span class="sxs-lookup"><span data-stu-id="ba0b1-102">Check the email forwarding settings for a mailbox</span></span>
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a><span data-ttu-id="fb7de-102">Az e-mail továbbítási postafiók beállításainak ellenőrzése</span><span class="sxs-lookup"><span data-stu-id="fb7de-102">Check the email forwarding settings for a mailbox</span></span>
 
-<span data-ttu-id="ba0b1-p101">Ellenőrizze az e-mail továbbítási postafiók beállításait könnyen! Kövesse az alábbi lépéseket.</span><span class="sxs-lookup"><span data-stu-id="ba0b1-p101">It's easy to verify the email forwarding settings on a mailbox! Just follow these steps.</span></span>
+<span data-ttu-id="fb7de-p101">Ellenőrizze az e-mail továbbítási postafiók beállításait könnyen! Kövesse az alábbi lépéseket.</span><span class="sxs-lookup"><span data-stu-id="fb7de-p101">It's easy to verify the email forwarding settings on a mailbox! Just follow these steps.</span></span>
   
-> <span data-ttu-id="ba0b1-p102">Ha ez a felhasználói postafiók, látogasson el a **felhasználók** \> **aktív felhasználó** , és válassza ki a felhasználó ki van éppen továbbítási postafiók. A levelezési beállítások **szerkesztése** válassza az E-mail továbbítást.</span><span class="sxs-lookup"><span data-stu-id="ba0b1-p102">If this is a user mailbox, go to **Users** \> **Active users** and select the user who's mailbox you're forwarding. Under Mail settings, choose **Edit** for Email forwarding.</span></span> 
+> <span data-ttu-id="fb7de-p102">Ha ez a felhasználói postafiók, látogasson el a **felhasználók** \> **aktív felhasználó** , és válassza ki a felhasználó ki van éppen továbbítási postafiók. A levelezési beállítások **szerkesztése** válassza az E-mail továbbítást.</span><span class="sxs-lookup"><span data-stu-id="fb7de-p102">If this is a user mailbox, go to **Users** \> **Active users** and select the user who's mailbox you're forwarding. Under Mail settings, choose **Edit** for Email forwarding.</span></span> 
     
-> <span data-ttu-id="ba0b1-p103">Ha ez egy megosztott postafiókjából, Ugrás a **csoportok** \> **Megosztott postaládák** , és válassza ki a megosztott vagyunk továbbítási postafiók. E-mail továbbítás válassza a **Szerkesztés** menüpontot.</span><span class="sxs-lookup"><span data-stu-id="ba0b1-p103">If this is a shared mailbox, go to **Groups** \> **Shared mailboxes** and select the shared mailbox you're forwarding. Choose **Edit** for Email forwarding.</span></span> 
+> <span data-ttu-id="fb7de-p103">Ha ez egy megosztott postafiókjából, Ugrás a **csoportok** \> **Megosztott postaládák** , és válassza ki a megosztott vagyunk továbbítási postafiók. E-mail továbbítás válassza a **Szerkesztés** menüpontot.</span><span class="sxs-lookup"><span data-stu-id="fb7de-p103">If this is a shared mailbox, go to **Groups** \> **Shared mailboxes** and select the shared mailbox you're forwarding. Choose **Edit** for Email forwarding.</span></span> 
     
-<span data-ttu-id="ba0b1-109">További részletekért lásd: [Configure e-mail továbbítása az Office 365 rendszerben](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).</span><span class="sxs-lookup"><span data-stu-id="ba0b1-109">For more details, see [Configure email forwarding in Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).</span></span> 
+<span data-ttu-id="fb7de-109">További részletekért lásd: [Configure e-mail továbbítása az Office 365 rendszerben](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).</span><span class="sxs-lookup"><span data-stu-id="fb7de-109">For more details, see [Configure email forwarding in Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).</span></span> 
   
-<span data-ttu-id="ba0b1-p104">Utasítások küldése a felhasználók úgy tudja állítani e-mail továbbító saját postafiókok, pontos továbbítása [másik e-mail fiókba Office 365 e-mail ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Ne feledje a csak egy e-mail címre továbbíthatja. Ha egy csoport tagjainak továbbítás beállítása van szüksége, hozzon létre egy terjesztési lista (csoport), a hozzáadni a felhasználókat, és adja meg ehhez a csoporthoz továbbítási.</span><span class="sxs-lookup"><span data-stu-id="ba0b1-p104">To send instructions to your users so they can set up email forwarding on their own mailboxes, point them to [Forward email from Office 365 to another email account ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Please note you can forward to only one email address. If you need to set up forwarding to a group of people, create a distribution list (under Groups), add your users to it and then configure forwarding to that group.</span></span>
+<span data-ttu-id="fb7de-p104">Utasítások küldése a felhasználók úgy tudja állítani e-mail továbbító saját postafiókok, pontos továbbítása [másik e-mail fiókba Office 365 e-mail ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Ne feledje a csak egy e-mail címre továbbíthatja. Ha egy csoport tagjainak továbbítás beállítása van szüksége, hozzon létre egy terjesztési lista (csoport), a hozzáadni a felhasználókat, és adja meg ehhez a csoporthoz továbbítási.</span><span class="sxs-lookup"><span data-stu-id="fb7de-p104">To send instructions to your users so they can set up email forwarding on their own mailboxes, point them to [Forward email from Office 365 to another email account ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Please note you can forward to only one email address. If you need to set up forwarding to a group of people, create a distribution list (under Groups), add your users to it and then configure forwarding to that group.</span></span>
   
-<span data-ttu-id="ba0b1-p105">Van egy alkalmazott elhagyja? [Távolítsa el az Office 365 korábbi alkalmazott](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) lásd a javasolt lépéseket kell tennie.</span><span class="sxs-lookup"><span data-stu-id="ba0b1-p105">Do you have an employee leaving? See [Remove a former employee from Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) for the recommended steps you should take.</span></span> 
+<span data-ttu-id="fb7de-p105">Van egy alkalmazott elhagyja? [Távolítsa el az Office 365 korábbi alkalmazott](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) lásd a javasolt lépéseket kell tennie.</span><span class="sxs-lookup"><span data-stu-id="fb7de-p105">Do you have an employee leaving? See [Remove a former employee from Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) for the recommended steps you should take.</span></span> 
   
 
