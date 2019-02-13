@@ -7,21 +7,21 @@ ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
-ms.openlocfilehash: 541ad96be587c37061849401c03efc015dd82ec7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3a7cdcaf3668ecce874ba4f744b7a79fd30c5460
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29473282"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29938558"
 ---
-# <a name="create-a-new-folder"></a><span data-ttu-id="503a7-102">Új mappa létrehozása</span><span class="sxs-lookup"><span data-stu-id="503a7-102">Create a new folder</span></span>
+# <a name="create-a-new-folder"></a><span data-ttu-id="23a01-102">Új mappa létrehozása</span><span class="sxs-lookup"><span data-stu-id="23a01-102">Create a new folder</span></span>
 
-1. <span data-ttu-id="503a7-103">A **mappák** a navigációs ablakban jelölje ki az **új mappát**.</span><span class="sxs-lookup"><span data-stu-id="503a7-103">Under **Folders** in the navigation pane, select **New folder**.</span></span> 
+1. <span data-ttu-id="23a01-103">A **mappák** a navigációs ablakban jelölje ki az **új mappát**.</span><span class="sxs-lookup"><span data-stu-id="23a01-103">Under **Folders** in the navigation pane, select **New folder**.</span></span> 
     
-2. <span data-ttu-id="503a7-104">Írja be a mappa nevét, és nyomja le az ENTER billentyűt.</span><span class="sxs-lookup"><span data-stu-id="503a7-104">Type a name for the folder and press Enter.</span></span>
+2. <span data-ttu-id="23a01-104">Írja be a mappa nevét, és nyomja le az ENTER billentyűt.</span><span class="sxs-lookup"><span data-stu-id="23a01-104">Type a name for the folder and press Enter.</span></span>
     
-<span data-ttu-id="503a7-105">További információért lásd [az Outlook.com mappa létrehozása](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span><span class="sxs-lookup"><span data-stu-id="503a7-105">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span></span>
+<span data-ttu-id="23a01-105">További információért lásd [az Outlook.com mappa létrehozása](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span><span class="sxs-lookup"><span data-stu-id="23a01-105">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a).</span></span>
   
 
