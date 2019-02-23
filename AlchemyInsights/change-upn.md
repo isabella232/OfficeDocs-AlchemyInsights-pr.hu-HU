@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 7788acd13218b6e15a7accb7e87ca14e9c90b691
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901046"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208443"
 ---
 # <a name="change-a-users-email-address"></a>Felhasználó e-mail-címének módosítása
 
 Egy másik személy e-mail címének megváltoztatása esetén könnyen! Csak kövesse az alábbi lépéseket:
   
-1. Az Office 365 felügyeleti központban a [felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapon, vagy válassza a **felhasználók** \> **Aktív felhasználók**.
+1. A Microsoft 365 felügyeleti központban a [felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapon, vagy válassza a **felhasználók** \> **Aktív felhasználók**.
     
 2. Jelölje ki a felhasználót.
     
