@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 831d5a97b9d6006b63ae5540b8d4505bc5a98fee
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918578"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208011"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Hozzon létre, vagy a felhasználó e-mail alias hozzáadása
 
 A felhasználó e-mail alias létrehozásakor, illetve egy további e-mail cím kell? Csak kövesse az alábbi lépéseket!
   
-1. Az Office 365 felügyeleti központban a [felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapon, vagy válassza a **felhasználók** \> **Aktív felhasználók**.
+1. A Microsoft 365 felügyeleti központban a [felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapon, vagy válassza a **felhasználók** \> **Aktív felhasználók**.
     
 2. Az **Aktív felhasználók** lapon jelölje ki a szerkeszteni kívánt személy nevét. 
     

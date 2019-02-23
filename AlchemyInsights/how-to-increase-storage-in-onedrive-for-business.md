@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906410"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207759"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Üzleti OneDrive tárolás növeléséről
 
@@ -27,7 +27,7 @@ A tárolási terület beállítás vonatkozik minden felhasználó, akinek még 
   
 Növeli a tárolás üzleti OneDrive, kattintson az Office 365 terv, amely magában foglalja az **üzleti terv 2 OneDrive** , vagy az **Office 365 vállalati E3**. 
   
-Tervek, az Office 365 felügyeleti központ módosításához lépjen **Számlázási** \> **előfizetések**, és válassza a **tervek váltás.**
+Tervek a Microsoft 365 felügyeleti központban módosításához lépjen **Számlázási** \> **előfizetések**, és válassza a **tervek váltás.**
   
 Tárolás üzleti tervek és OneDrive váltás bővebben lásd: [Váltás egy másik Office 365 üzleti terv](https://go.microsoft.com/fwlink/?LinkId=2031117) és a [OneDrive az üzleti szolgáltatás leírása](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

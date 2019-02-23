@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
-ms.openlocfilehash: 4abb2f5b1644b651c8a137feb01aace69257d2bb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920018"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207975"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>Hogyan vásárolható meg az Office 365 üzleti előfizetés licenceinek
 
 Ha az Office 365 licencek hozzárendelése a felhasználókhoz, előfordulhat a szükséges további licencek vásárlása. Ehhez:
   
-- Az Office 365 felügyeleti központ lépjen az [előfizetések]( https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázási** \> **előfizetések**.
+- A Microsoft 365 felügyeleti központban lépjen az [előfizetések]( https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázási** \> **előfizetések**.
     
 - Az **Előfizetések** lapon válassza azt az előfizetést, amelyhez licenceket szeretne adni, majd válassza a **Licencek hozzáadása/eltávolítása** hivatkozást.
     
