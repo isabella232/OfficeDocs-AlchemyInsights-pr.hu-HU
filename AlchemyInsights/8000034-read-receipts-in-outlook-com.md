@@ -9,19 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
-ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
+ms.openlocfilehash: 6dd7096dbedb4db5064e5c548956de562fad979a
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30243971"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376038"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Az olvasási visszaigazolások az Outlook.com
 
 Nem az Outlook.com olvasási visszaigazolást kér, de Outlook.com üzenetek Outlook for Windows segítségével küldött olvasási visszaigazolást kérhet. Hogy megtudja, hogyan, lásd: [Hozzáadás és olvasási visszaigazolások és kézbesítési értesítés kérése](https://go.microsoft.com/fwlink/p/?linkid=874355).
   
-Kiválaszthatja, hogyan Outlook.com olvasási visszaigazolásra vonatkozó kérelemre válaszol, Ugrás a **Beállítások** \> **Beállítások** \> **levelezési** \> **az automatikus feldolgozási műveletek** \> **az olvasási visszaigazolások**. 
-  
-Az Outlook.com a béta jelölje ki a **beállításokat** , és keressen az **olvasási visszaigazolások**. 
-  
-
+Válassza ki, hogyan Outlook.com olvasási visszaigazolásra vonatkozó kérelemre válaszol, keresse fel az [Üzenetkezelés beállításai](https://go.microsoft.com/fwlink/?linkid=2080838) (**Beállítások** > **az összes Outlook-beállítások megtekintése** > **üzenetkezelés**).
