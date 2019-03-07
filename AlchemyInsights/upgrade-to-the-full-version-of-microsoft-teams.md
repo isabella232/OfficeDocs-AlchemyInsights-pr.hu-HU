@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904862"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468989"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>A teljes verziójának a Microsoft Teams
 
-Frissíthet a Microsoft Teams (ingyenes) a teljes verzióját a Microsoft Teams minden alkalommal, amikor készen állunk.
-  
-A frissítési folyamat elindításához a legjobb módja, hogy **tudassa velünk hívja meg** az alábbi gombra. 
-  
-A támogatás munkatársával, és válassza ki az Office 365 tervet, adja meg a kapcsolattartó és a fizetési információ, válassza ki a szervezeti tartomány nevét és frissítése a tagállamok beosztást súgó kapcsolatba.
-  
+Kell frissíteni a szabad teljes változatát a Microsoft Teams? Lásd: [Frissítés a Microsoft Office 365-előfizetés verzió szabadon csapatok](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)
+
+Ezek a követelmények teljesítéséhez szüksége:
+- Te vagy a személy, aki regisztrált csoportok ingyenes verzióját.
+- Ha a saját tartomány, azt már nem lehet társított Azure Active Directory.
+- Ha frissíti az adatokat átvinni, elő kell fizetnie a frissítési folyamat során. Ha az Office 365 a frissítési folyamat kívül vásárolta, adatok nem lehet átvinni.
+
 
