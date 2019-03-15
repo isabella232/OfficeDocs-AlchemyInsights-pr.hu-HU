@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939295"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634506"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Szükséges Alkímia fej H1, H2 meg nem működnek.
 Gyakorlati tanácsokat és iránymutatásokat Alkímia szerzői:
 
 1. **Nem ágyazódnak egymásba Alkímia elképzelések mappákban**- Ezzel megszünteti az URL-szerkezet. Azt történő rögzítésének a keresést.
 1. A **AlchemyInsights** mappában található fájlokat kell Szabályazonosító és az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) szabály nevét a fájlnév.
-    1. például ***976-How-to-enable-litigation-hold***
+    1. ex. ***976-How-to-enable-litigation-Hold***
 1. A sablonként használni a metaadatokat a fájl elején. Semmi másra nincs szükség.
 1. Az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net)keresse meg a szakasz le **vevő-Insight címe:** és a betekintést a H1 címe, amely a kiindulási pont használatát. 
     > [!NOTE]

@@ -3,191 +3,84 @@
 
 
 
-## <a name="week-of-january-28-2019"></a>Hét 2019. január 28.
+## <a name="week-of-march-04-2019"></a>Hét 2019. március 04.
 
 
 | Közzétett |A témakör címe | Módosítása |
 |------|------------|--------|
-| a 2019/1/29 | [Alkímia elképzelések kezdőlap](/AlchemyInsights/index) | módosítva |
-| a 2019/1/29 | [Aktiválás – hibaelhárítás](/AlchemyInsights/activation-troubleshooting) | módosítva |
-| a 2019/1/29 | [Kapott túl sok kéretlen vagy phish a postaládában?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | módosítva |
-| a 2019/1/29 | [Nem lehet hozzáadni az alapértelmezett jóváhagyási munkafolyamat 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | módosítva |
-| a 2019/1/29 | [A SharePoint-webhely létrehozása](/AlchemyInsights/create-a-sharepoint-site) | módosítva |
-| a 2019/1/29 | [A SharePoint-webhely törlése](/AlchemyInsights/delete-a-sharepoint-site-0) | módosítva |
-| a 2019/1/29 | [A SharePoint-webhely törlése](/AlchemyInsights/delete-a-sharepoint-site) | módosítva |
-| a 2019/1/29 | [DLP nem a várt módon működik](/AlchemyInsights/dlp-not-working-as-expected) | módosítva |
-| a 2019/1/29 | [Jogosan érkező üzenetek jelölte meg folyamatban van?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | módosítva |
-| a 2019/1/29 | [Hibakód: 30125-4 vagy az Office telepítésekor 30125-1011](/AlchemyInsights/error-code-30125-4-or-30125-1011-when-installing-office) | módosítva |
-| a 2019/1/29 | [Engedélyezte csapatok a diákok?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | módosítva |
-| a 2019/1/29 | [Hogyan lehet aktiválni az Office](/AlchemyInsights/how-to-activate-office) | módosítva |
-| a 2019/1/29 | [Mac Office telepítése a portálról](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | módosítva |
-| a 2019/1/29 | [Hogyan kell telepíteni az Office rendszert iPad](/AlchemyInsights/how-to-install-office-on-an-ipad) | módosítva |
-| a 2019/1/29 | [Hogyan kell telepíteni az Office rendszert egy iPhone](/AlchemyInsights/how-to-install-office-on-an-iphone) | módosítva |
-| a 2019/1/29 | [Hogyan lehet ellenőrizni a tartományt az Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | módosítva |
-| a 2019/1/29 | [A telepítés lefagy, vagy kap elakadt.](/AlchemyInsights/installation-hangs-or-gets-stuck) | módosítva |
-| a 2019/1/29 | [Microsoft csapatok - vendégként való hozzáférés](/AlchemyInsights/microsoft-teamsguest-access) | módosítva |
-| a 2019/1/29 | [Fizetési lehetőségek](/AlchemyInsights/payment-options) | módosítva |
-| a 2019/1/29 | [Közzétételi webhely kommunikációs infrastruktúra](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | módosítva |
-| a 2019/1/29 | [Office 2019 kapcsolatos kérdések](/AlchemyInsights/questions-related-to-office-2019) | módosítva |
-| a 2019/1/29 | [A 4-30015 megoldások](/AlchemyInsights/solutions-for-error-30015-4) | módosítva |
-| a 2019/1/29 | [A 4-30016 megoldások](/AlchemyInsights/solutions-for-error-30016-4) | módosítva |
-| a 2019/1/29 | [A 4-30174 megoldások](/AlchemyInsights/solutions-for-error-30174-4) | módosítva |
-| a 2019/1/29 | [Az Office telepítése során problémák megoldások](/AlchemyInsights/solutions-for-issues-while-installing-office) | módosítva |
-| a 2019/1/29 | [Megoldások "Office (64 bites vagy 32 bites) nem telepíthető.](/AlchemyInsights/solutions-for-office-64-bit-or-32-bit-couldn-t-be-installed) | módosítva |
-| a 2019/1/29 | ["Nem támogatott operációs rendszer" megoldások](/AlchemyInsights/solutions-for-unsupported-operating-system) | módosítva |
-| a 2019/1/29 | [Office aktiválás hiba 0x80070005 megoldásának lépései](/AlchemyInsights/steps-to-resolve-office-activation-error-0x80070005) | hozzáadott |
-| a 2019/1/29 | [Office Aktiválás a 0xC004B100 jelű hiba elhárításának lépései](/AlchemyInsights/steps-to-resolve-office-activation-error-0xc004b100) | hozzáadott |
-| a 2019/1/29 | [Javaslatok "Nem licencelt termék" hibák elhárításáról](/AlchemyInsights/suggestions-for-solving-unlicensed-product-errors) | módosítva |
-| a 2019/1/29 | [A SharePoint frissítőeszköz támogatott verziója](/AlchemyInsights/supported-version-of-the-sharepoint-migration-tool) | módosítva |
-| a 2019/1/29 | [Ellenőrzi a biztonsági tipp csalások felderítésével kapcsolatos hibaelhárítás](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | módosítva |
-| a 2019/1/29 | [Eltávolítja az Office](/AlchemyInsights/uninstall-office) | módosítva |
-| a 2019/1/29 | [DNS-rekordok frissítése](/AlchemyInsights/update-dns-records) | módosítva |
-| a 2019/1/29 | [Az Office telepítési helyét](/AlchemyInsights/where-to-install-office-from) | módosítva |
-| a 2019/1/30 | [1336 RecoverableItems mappa megtelt](/AlchemyInsights/1336-recoverableitems-folder-is-full) | módosítva |
-| a 2019/1/30 | [1800014 – Hibaelhárítás Outlook mobile beállítása megosztott postafiók](/AlchemyInsights/1800014-troubleshooting-outlook-mobile-setup-for-a-shared-mailbox) | módosítva |
-| a 2019/1/30 | [Megosztott postafiók használata mobileszközön 1800014](/AlchemyInsights/1800014-using-a-shared-mailbox-on-a-mobile-device) | módosítva |
-| a 2019/1/30 | [1800018 e-mail fiókok hozzáadása és beállítása](/AlchemyInsights/1800018-add-set-up-email-accounts) | módosítva |
-| a 2019/1/30 | [1800018 a POP- és IMAP-kiszolgáló beállításainak keresése](/AlchemyInsights/1800018-find-your-pop-and-imap-server-settings) | módosítva |
-| a 2019/1/30 | [Az Outlook programban a weben nem támogatott 1800029 kapcsolódó számlák](/AlchemyInsights/1800029-connected-accounts-not-supported-in-outlook-on-the-web) | módosítva |
-| a 2019/1/30 | [204. hogyan lehet megtalálni a hiányzó vagy hiányzik az Outlook levelezési, naptár és Névjegyalbum helyreállítása](/AlchemyInsights/204-how-to-find-missing-or-recover-missing-outlook-mail-calendar-or-contacts) | módosítva |
-| a 2019/1/30 | [597 Microsoft lefoglalások App](/AlchemyInsights/597-microsoft-bookings-app) | módosítva |
-| a 2019/1/30 | [A postaláda-engedélyek módosítása](/AlchemyInsights/changing-permissions-on-a-mailbox) | módosítva |
-| a 2019/1/30 | [Összeomló Excel?](/AlchemyInsights/excel-crashing) | módosítva |
-| a 2019/1/30 | [Tartomány eltávolítása](/AlchemyInsights/remove-domain) | módosítva |
-| a 2019/1/30 | [Office aktiválása](/AlchemyInsights/activate-office) | módosítva |
-| a 2019/1/30 | [Adjunk hozzá egy másik e-mail címről](/AlchemyInsights/add-another-email-alias) | módosítva |
-| a 2019/1/30 | [Külső felhasználók hozzáadása](/AlchemyInsights/adding-external-users) | módosítva |
-| a 2019/1/30 | [ADFS összevonási tanúsítvány ennyi időn belül lejár](/AlchemyInsights/adfs-federation-certificate-expiring) | módosítva |
-| a 2019/1/30 | [Rendszergazdai és hozzárendelése](/AlchemyInsights/admin-role-and-how-to-assign) | módosítva |
-| a 2019/1/30 | [Nyilvános vételi Admin](/AlchemyInsights/admin-takeover) | módosítva |
-| a 2019/1/30 | [Alkímia - hibaelhárítási lépéseket az Outlook összeomlását](/AlchemyInsights/alchemyoutlook-crash-troubleshooting-steps) | módosítva |
-| a 2019/1/30 | [Alkímia - Outlook hiba ' Microsoft Outlook nem indítható"](/AlchemyInsights/alchemyoutlook-errorcannot-start-microsoft-outlook) | módosítva |
-| a 2019/1/30 | [Alkímia - Outlook Keresés nem idexing](/AlchemyInsights/alchemyoutlook-search-not-idexing) | módosítva |
-| a 2019/1/30 | [Hozzárendelése vagy eltávolítása a felhasználói licencek](/AlchemyInsights/assign-or-remove-users-licenses) | módosítva |
-| a 2019/1/30 | [Office 365-előfizetés](/AlchemyInsights/cancel-office-365-subscription) | módosítva |
-| a 2019/1/30 | [Az Office 365-előfizetés lemondása?](/AlchemyInsights/canceling-your-office-365-subscription-0) | módosítva |
-| a 2019/1/30 | [Az Office 365-előfizetés lemondása?](/AlchemyInsights/canceling-your-office-365-subscription-2) | módosítva |
-| a 2019/1/30 | [A felhasználói név és e-mail cím módosítása](/AlchemyInsights/change-a-user-s-name-and-email-address) | módosítva |
-| a 2019/1/30 | [NameServers módosítása](/AlchemyInsights/change-nameservers) | módosítva |
-| a 2019/1/30 | [Számlázási értesítést a másodlagos e-mail cím módosítása](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | módosítva |
-| a 2019/1/30 | [Egyszerű felhasználónév módosítása](/AlchemyInsights/change-upn) | módosítva |
-| a 2019/1/30 | [Üzenetet vagy mellékletet méretének módosítása](/AlchemyInsights/changing-message-or-attachment-size) | módosítva |
-| a 2019/1/30 | [Nyilvános mappára vonatkozó engedélyek módosítása](/AlchemyInsights/changing-public-folder-permissions) | módosítva |
-| a 2019/1/30 | [Megosztott postafiók küldés másként viselkedésének módosítása](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | módosítva |
-| a 2019/1/30 | [Hasonlítsa össze az Office 365 tervek](/AlchemyInsights/compare-office-365-plans) | módosítva |
-| a 2019/1/30 | [Intune feltételes hozzáférés](/AlchemyInsights/conditional-access-with-intune) | módosítva |
-| a 2019/1/30 | [ConsistencyGuid / sourceAnchor viselkedés](/AlchemyInsights/consistencyguidsourceanchor-behavior) | módosítva |
-| a 2019/1/30 | [Tartalom nem jelenik meg a SharePoint-találatok](/AlchemyInsights/content-doesn-t-appear-in-sharepoint-search-results) | módosítva |
-| a 2019/1/30 | [A SharePoint-webhely létrehozása](/AlchemyInsights/create-a-sharepoint-site) | módosítva |
-| a 2019/1/30 | [Hozzon létre, és a megosztott postafiók](/AlchemyInsights/create-and-use-a-shared-mailbox) | módosítva |
-| a 2019/1/30 | [Megosztott postafiók létrehozása](/AlchemyInsights/create-shared-mailbox) | módosítva |
-| a 2019/1/30 | [A nyilvános mappák létrehozása](/AlchemyInsights/creating-public-folders) | módosítva |
-| a 2019/1/30 | [A delegált postaládában engedélyek hibrid környezetben](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | módosítva |
-| a 2019/1/30 | [A SharePoint-webhely törlése](/AlchemyInsights/delete-a-sharepoint-site) | módosítva |
-| a 2019/1/30 | [Egyhelyes csoport törlése](/AlchemyInsights/delete-group-site) | módosítva |
-| a 2019/1/30 | [DLP nem a várt módon működik](/AlchemyInsights/dlp-not-working-as-expected) | módosítva |
-| a 2019/1/30 | [DLP házirend tippek nem működik](/AlchemyInsights/dlp-policy-tips-not-working) | módosítva |
-| a 2019/1/30 | [DLP szabály nem működik a hitelkártya száma](/AlchemyInsights/dlp-rule-for-credit-card-number-not-working) | módosítva |
-| a 2019/1/30 | [DLP szabály a TAJ-szám nem működik](/AlchemyInsights/dlp-rule-for-ssn-not-working) | módosítva |
-| a 2019/1/30 | [DLP szabály Nekünk bankszámla száma nem működik](/AlchemyInsights/dlp-rule-for-us-bank-account-number-not-working) | módosítva |
-| a 2019/1/30 | [DLP szabály az USA / UK útlevél száma nem működik](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | módosítva |
-| a 2019/1/30 | [Jogosan érkező üzenetek jelölte meg folyamatban van?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | módosítva |
-| a 2019/1/30 | [Töltse le és telepítse az Office](/AlchemyInsights/download-and-install-office) | módosítva |
-| a 2019/1/30 | [Alkalmazott elhagyása](/AlchemyInsights/employee-leaving) | módosítva |
-| a 2019/1/30 | [Microsoft csapatok engedélyezése](/AlchemyInsights/enable-microsoft-teams) | módosítva |
-| a 2019/1/30 | [Az Outlook for Mac jelszót kérő ablakok megjelenése tapasztalt ismételni?](/AlchemyInsights/experiencing-repeated-password-prompts-in-outlook-for-mac) | módosítva |
-| a 2019/1/30 | [Fájl megnyitása csak olvasásra](/AlchemyInsights/file-open-read-only-0) | módosítva |
-| a 2019/1/30 | [Fájl megnyitása csak olvasásra](/AlchemyInsights/file-open-read-only-1) | módosítva |
-| a 2019/1/30 | [Fájl megnyitása csak olvasásra](/AlchemyInsights/file-open-read-only) | módosítva |
-| a 2019/1/30 | [Engedélyezte csapatok a diákok?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | módosítva |
-| a 2019/1/30 | [E-mail kézbesítési probléma?](/AlchemyInsights/having-email-delivery-issues-0) | módosítva |
-| a 2019/1/30 | [E-mail kézbesítési probléma?](/AlchemyInsights/having-email-delivery-issues) | módosítva |
-| a 2019/1/30 | [Csatlakozás az Outlook az első probléma?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | módosítva |
-| a 2019/1/30 | [Csatlakozás az Outlook az első probléma?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | módosítva |
-| a 2019/1/30 | [Hogyan módosítható a hitelkártyás fizetések számla?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | módosítva |
-| a 2019/1/30 | [Külső csoportok letiltása](/AlchemyInsights/how-to-disable-external-groups-0) | módosítva |
-| a 2019/1/30 | [Külső csoportok letiltása](/AlchemyInsights/how-to-disable-external-groups) | módosítva |
-| a 2019/1/30 | [Varrat nélküli egyszeri bejelentkezés engedélyezése](/AlchemyInsights/how-to-enable-seamless-sso) | módosítva |
-| a 2019/1/30 | [Mac Office telepítése a portálról](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | módosítva |
-| a 2019/1/30 | [Hogyan lehet ellenőrizni a tartományt az Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | módosítva |
-| a 2019/1/30 | [Hibrid-konfiguráló varázsló](/AlchemyInsights/hybrid-configuration-wizard) | módosítva |
-| a 2019/1/30 | [Postafiókok elhelyezett azonosító tartás](/AlchemyInsights/identifying-holds-placed-on-mailboxes) | módosítva |
-| a 2019/1/30 | [A vállalati SKU postafiók méretének növelése](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | módosítva |
-| a 2019/1/30 | [Az SMB-SKU postafiók méretének növelése](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | módosítva |
-| a 2019/1/30 | [A postaláda méretének növelése](/AlchemyInsights/increase-mailbox-size) | módosítva |
-| a 2019/1/30 | [GDPR kapcsolatos információk](/AlchemyInsights/information-about-gdpr) | módosítva |
-| a 2019/1/30 | [Tartsa a peres eljárás vagy a-hely-tartás](/AlchemyInsights/information-on-litigation-hold-or-in-place-hold) | módosítva |
-| a 2019/1/30 | [Telepítse az Office 2013-értesítés](/AlchemyInsights/install-office-2013-notification) | módosítva |
-| a 2019/1/30 | [A Skype Vállalati verzió telepítése](/AlchemyInsights/install-skype-for-business) | módosítva |
-| a 2019/1/30 | [A Skype üzleti probléma?](/AlchemyInsights/issue-with-skype-for-business) | módosítva |
-| a 2019/1/30 | [Yammer csoportok kezelése](/AlchemyInsights/manage-groups-in-yammer) | módosítva |
-| a 2019/1/30 | [Szinkronizált felhasználói fiókok kezelése](/AlchemyInsights/manage-synchronized-user-accounts) | módosítva |
-| a 2019/1/30 | [SharePoint-tár hozzárendelése hálózati meghajtó](/AlchemyInsights/map-sharepoint-library-to-network-drive) | módosítva |
-| a 2019/1/30 | [Microsoft csapatok - vendégként való hozzáférés](/AlchemyInsights/microsoft-teamsguest-access) | módosítva |
-| a 2019/1/30 | [E-mail át G programcsomag Office 365](/AlchemyInsights/migrate-email-from-g-suite-to-office-365) | módosítva |
-| a 2019/1/30 | [Két különböző bérlők között postaládák áttelepítése](/AlchemyInsights/migrate-mailboxes-between-two-different-tenants) | módosítva |
-| a 2019/1/30 | [Telepítse át az adatokat nyilvános mappa Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365-0) | módosítva |
-| a 2019/1/30 | [Telepítse át az adatokat nyilvános mappa Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365) | módosítva |
-| a 2019/1/30 | [Az Office 365 Minecraft Edition oktatás ingyenes](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | módosítva |
-| a 2019/1/30 | [A feltételes hozzáférésű figyelése](/AlchemyInsights/monitoring-conditional-access) | módosítva |
-| a 2019/1/30 | [Intune feltételes hozzáférés ellenőrzése](/AlchemyInsights/monitoring-intune-conditional-access) | módosítva |
-| a 2019/1/30 | [E-mailek áthelyezése az archív postaláda](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | módosítva |
-| a 2019/1/30 | [Office 365 oktatás ingyenes](/AlchemyInsights/office-365-education-for-free) | módosítva |
-| a 2019/1/30 | [Office 365 üzleti tervek és árazási](/AlchemyInsights/office-365-for-business-plans-and-pricing) | módosítva |
-| a 2019/1/30 | [Office 365 oktatási tervek és árképzés](/AlchemyInsights/office-365-for-education-plans-and-pricing) | módosítva |
-| a 2019/1/30 | [Office 365 vállalati terv](/AlchemyInsights/office-365-for-enterprise-plan) | módosítva |
-| a 2019/1/30 | [Office 365 kormányzati tervek és árképzés](/AlchemyInsights/office-365-for-government-plans-and-pricing) | módosítva |
-| a 2019/1/30 | [Office 365 Nonprofit tervek és árképzés](/AlchemyInsights/office-365-for-nonprofit-plans-and-pricing) | módosítva |
-| a 2019/1/30 | [Office 365 URL-címek és IP-címét](/AlchemyInsights/office-365-urls-and-ip-addresses) | módosítva |
-| a 2019/1/30 | [A helyi összevonási szolgáltatás tanúsítványok közül van lejáró](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | módosítva |
-| a 2019/1/30 | [Fizetési lehetőségek](/AlchemyInsights/payment-options) | módosítva |
-| a 2019/1/30 | [Áttelepítés közben engedélyekkel kapcsolatos kérdések](/AlchemyInsights/permissions-issues-while-migrating) | módosítva |
-| a 2019/1/30 | [Az Office 365 szolgáltatás aláírásakor üzleti Microsoft Skype kapcsolatos problémák](/AlchemyInsights/problems-with-microsoft-skype-for-business-when-signing-in-to-the-office-365-ser) | módosítva |
-| a 2019/1/30 | [Helytelen ProxyAddress](/AlchemyInsights/proxyaddress-incorrect) | módosítva |
-| a 2019/1/30 | [Nyilvános mappa hozzáférési mobileszközökről](/AlchemyInsights/public-folder-access-from-mobile-devices-0) | módosítva |
-| a 2019/1/30 | [Közzétételi webhely kommunikációs infrastruktúra](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | módosítva |
-| a 2019/1/30 | [Távolítsa el a központi webhelyen.](/AlchemyInsights/remove-a-hub-site) | módosítva |
-| a 2019/1/30 | [Az utolsó helyszíni Exchange kiszolgáló eltávolítása](/AlchemyInsights/removing-the-last-on-premises-exchange-server) | módosítva |
-| a 2019/1/30 | [A Microsoft ToDo szükséges engedélyek](/AlchemyInsights/required-licences-for-microsoft-todo) | módosítva |
-| a 2019/1/30 | [Jelszó megváltoztatására.](/AlchemyInsights/reset-or-change-passwords) | módosítva |
-| a 2019/1/30 | [Visszaállítás, törölt felhasználó](/AlchemyInsights/restore-deleted-user) | módosítva |
-| a 2019/1/30 | [Adatmegőrzési szabályok Exchange felügyeleti központ nem működik](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | módosítva |
-| a 2019/1/30 | [Az archív postaláda e-mail keresése](/AlchemyInsights/search-for-email-in-archive-mailbox) | módosítva |
-| a 2019/1/30 | [E-mail küldése a megosztott postaláda](/AlchemyInsights/sending-email-as-the-shared-mailbox) | módosítva |
-| a 2019/1/30 | [Beállított jelszó nem jár le](/AlchemyInsights/set-passwords-to-never-expire) | módosítva |
-| a 2019/1/30 | [E-mail továbbítás beállítása](/AlchemyInsights/set-up-email-forwarding) | módosítva |
-| a 2019/1/30 | [SPF beállítása](/AlchemyInsights/set-up-spf) | módosítva |
-| a 2019/1/30 | [A O365 Business Essentials előfizetés beállítása](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | módosítva |
-| a 2019/1/30 | [A O365 üzleti prémium előfizetés beállítása](/AlchemyInsights/setting-up-your-o365-business-premium-subscription) | módosítva |
-| a 2019/1/30 | [Megosztott postafiók vagy a naptár az Outlook for Mac probléma?](/AlchemyInsights/shared-mailbox-or-calendar-issue-in-outlook-for-mac) | módosítva |
-| a 2019/1/30 | [Office-ügyfélprogram előfizetés hirdetmény](/AlchemyInsights/subscription-notice-on-office-client) | módosítva |
-| a 2019/1/30 | [Csapatok frissítési útmutató](/AlchemyInsights/teams-upgrade-guidance) | módosítva |
-| a 2019/1/30 | [A tartomány már használatban van.](/AlchemyInsights/the-domain-is-already-in-use) | módosítva |
-| a 2019/1/30 | [Megnyitás Explorer használatával kapcsolatos problémák elhárítása](/AlchemyInsights/troubleshoot-issues-using-open-with-explorer) | módosítva |
-| a 2019/1/30 | [Apple MDM leküldéses tanúsítványt a Microsoft Intune kapcsolatos problémák elhárítása](/AlchemyInsights/troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune) | módosítva |
-| a 2019/1/30 | [Az Adatvégrehajtás megakadályozása szolgáltatás igénylése a Microsoft Intune kapcsolatos problémák elhárítása](/AlchemyInsights/troubleshoot-issues-with-dep-enrollment-in-microsoft-intune) | módosítva |
-| a 2019/1/30 | [Android-eszköz a Microsoft Intune igénylése problémáinak elhárítása](/AlchemyInsights/troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune) | módosítva |
-| a 2019/1/30 | [Igénylése a Microsoft Intune iOS-eszközök problémáinak elhárítása](/AlchemyInsights/troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune) | módosítva |
-| a 2019/1/30 | [Igénylése a Microsoft Intune macOS-eszközök problémáinak elhárítása](/AlchemyInsights/troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune) | módosítva |
-| a 2019/1/30 | [Igénylése a Windows Microsoft Intune-eszközök problémáinak elhárítása](/AlchemyInsights/troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune) | módosítva |
-| a 2019/1/30 | [Beiktatási beállítások a Microsoft Intune kapcsolatos problémák elhárítása](/AlchemyInsights/troubleshoot-issues-with-enrollment-options-microsoft-intune-0) | módosítva |
-| a 2019/1/30 | [Beiktatási beállítások a Microsoft Intune kapcsolatos problémák elhárítása](/AlchemyInsights/troubleshoot-issues-with-enrollment-options-microsoft-intune) | módosítva |
-| a 2019/1/30 | [Microsoft Intune kapcsolatos problémák elhárítása](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | módosítva |
-| a 2019/1/30 | [A jelszó-szinkronizálás hibaelhárítása](/AlchemyInsights/troubleshoot-password-synchronization) | módosítva |
-| a 2019/1/30 | [Ellenőrzi a biztonsági tipp csalások felderítésével kapcsolatos hibaelhárítás](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | módosítva |
-| a 2019/1/30 | [Próbálja eltávolítani a tartományt?](/AlchemyInsights/trying-to-remove-your-domain) | módosítva |
-| a 2019/1/30 | [Próbálja ellenőrizni a tartományban?](/AlchemyInsights/trying-to-verify-your-domain) | módosítva |
-| a 2019/1/30 | [Office-ügyfélprogram eltávolítása](/AlchemyInsights/uninstall-office-client) | módosítva |
-| a 2019/1/30 | [A DNS-rekordok frissítése, hogy a webhely megmaradjon a jelenlegi tárhelyszolgáltatónál](/AlchemyInsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider) | módosítva |
-| a 2019/1/30 | [DNS-rekordok frissítése](/AlchemyInsights/update-dns-records) | módosítva |
-| a 2019/1/30 | [Tartomány névkiszolgálóinak frissítése az Office 365-re](/AlchemyInsights/update-your-domain-nameservers-to-office-365) | módosítva |
-| a 2019/1/30 | [UPN-szinkronizálás le van tiltva](/AlchemyInsights/upn-sync-disabled) | módosítva |
-| a 2019/1/30 | [Tartomány ellenőrzése](/AlchemyInsights/verify-domain) | módosítva |
-| a 2019/1/30 | [A számlázási megtekintése](/AlchemyInsights/view-my-bill) | módosítva |
-| a 2019/1/30 | [122 kell aláírás létrehozása az Outlook programban a weben?](/AlchemyInsights/122-need-to-create-a-signature-in-outlook-on-the-web) | módosítva |
-| a 2019/1/30 | [Fiók nyitása 123 le van tiltva az OWA hiba?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | módosítva |
-| a 2019/2/1 | [ugyanaz, mint a legcélszerűbb fájlnév [szabály #-leírás]](/AlchemyInsights/1-alchemy-insight-template) | módosítva |
-| a 2019/2/1 | [A postaláda-engedélyek módosítása](/AlchemyInsights/changing-permissions-on-a-mailbox) | módosítva |
+| a 2019/3/4 | 8000011 Outlook.com helyreállítása törölt e-mailben | hozzáadott |
+| a 2019/3/4 | [Az Outlook.com 8000034 az olvasási visszaigazolások](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | módosítva |
+| a 2019/3/4 | [8000047 hogyan lehet létrehozni egy e-mail aláírás az Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | módosítva |
+| a 2019/3/4 | [Kép 8000086 Outlook.com beszúrása](/AlchemyInsights/80000860-outlook-com-insert-image) | hozzáadott |
+| a 2019/3/4 | [8000087 Outlook.com használható billentyűparancsok](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | hozzáadott |
+| a 2019/3/4 | [Mentés az Outlook.com e-mail 8000088](/AlchemyInsights/8000088-outlook-com-save-emails) | módosítva |
+| a 2019/3/4 | [8000089 Outlook.com biztonságos feladók](/AlchemyInsights/8000089-outlook-com-safe-senders) | hozzáadott |
+| a 2019/3/4 | 8000011 Outlook.com helyreállítása törölt e-mailben | eltávolítása |
+| a 2019/3/4 | 1575-PowerApps és a Microsoft Flow terv kiterjesztése | hozzáadott |
+| a 2019/3/4 | [A tartomány Office 365 csoport módosítása](/AlchemyInsights/change-domain-for-group) | átnevezése |
+| a 2019/3/4 | [1575-PowerApps és a Microsoft Flow terv kiterjesztése](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | átnevezése |
+| a 2019/3/4 | [Többtényezős hitelesítés engedélyezése](/AlchemyInsights/enable-multifactor-authentication) | módosítva |
+| a 2019/3/4 | [8000054 Outlook.com a tárolási mérethatár túllépése](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | hozzáadott |
+| a 2019/3/4 | [423 szervezeti biztonsági - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | módosítva |
+| a 2019/3/4 | [8000029 foglalkozik a levélszemét és az adathalászat az Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | módosítva |
+| a 2019/3/4 | [Tartomány eltávolítása](/AlchemyInsights/remove-domain) | módosítva |
+| a 2019/3/4 | [Felhasználók hozzáadása az Office 365](/AlchemyInsights/add-users-to-office-365) | módosítva |
+| a 2019/3/4 | [Kapott túl sok kéretlen vagy phish a postaládában?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | módosítva |
+| a 2019/3/4 | [NameServers módosítása](/AlchemyInsights/change-nameservers) | módosítva |
+| a 2019/3/4 | [Alkalmazások létrehozása PowerApps](/AlchemyInsights/create-apps-in-powerapps) | módosítva |
+| a 2019/3/4 | [Az Office 365 cutover áttelepítések](/AlchemyInsights/cutover-migrations-to-office-365) | módosítva |
+| a 2019/3/4 | [E-mail kézbesítési probléma?](/AlchemyInsights/having-email-delivery-issues-0) | módosítva |
+| a 2019/3/4 | [E-mail kézbesítési probléma?](/AlchemyInsights/having-email-delivery-issues) | módosítva |
+| a 2019/3/4 | [Hogyan adhatok hozzá egy hitelkártya?](/AlchemyInsights/how-do-i-add-a-credit-card) | módosítva |
+| a 2019/3/4 | [Hogyan frissíti a hitelkártya adataimat?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | módosítva |
+| a 2019/3/4 | [Office telepítése](/AlchemyInsights/how-to-install-office) | módosítva |
+| a 2019/3/4 | [IMAP e-mail áttelepítése](/AlchemyInsights/migrate-email-from-imap) | módosítva |
+| a 2019/3/4 | [Fizetési lehetőségek](/AlchemyInsights/payment-options) | módosítva |
+| a 2019/3/4 | [Egy fiókjának megtámadása esetén végrehajtandó lépések](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | módosítva |
+| a 2019/3/4 | [Feladó blokkolva túl sok kéretlen levelek küldése](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | módosítva |
+| a 2019/3/4 | [Dynamics 365 támogatási kérelmek küldése](/AlchemyInsights/submit-dynamics-365-support-requests) | módosítva |
+| a 2019/3/4 | [A tartomány már használatban van.](/AlchemyInsights/the-domain-is-already-in-use) | módosítva |
+| a 2019/3/4 | [Hiba az Office 365 portálon beszerzési befejezése](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | módosítva |
+| a 2019/3/4 | [DNS-rekordok frissítése](/AlchemyInsights/update-dns-records-0) | módosítva |
+| a 2019/3/4 | [DNS-rekordok frissítése](/AlchemyInsights/update-dns-records) | módosítva |
+| a 2019/3/4 | [Fizetési adatainak frissítéséhez](/AlchemyInsights/update-payment-details) | módosítva |
+| a 2019/3/4 | [Tartomány ellenőrzése](/AlchemyInsights/verify-domain) | módosítva |
+| a 2019/3/4 | [Több e-mail cím továbbítás beállítása](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | módosítva |
+| a 2019/3/4 | [Megoldása a "Nem az elfogadott tartomány" hiba](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | módosítva |
+| a 2019/3/6 | [1581 nyithatják meg és használhatják a megosztott postaládához az Outlook programban a weben](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | módosítva |
+| a 2019/3/6 | [Csapatok műszakok](/AlchemyInsights/1686-teams-shifts) | hozzáadott |
+| a 2019/3/6 | [Információra 1703 csapatok és Polycom telefonok](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | hozzáadott |
+| a 2019/3/6 | [PS csoportok modul telepítése és a referencia](/AlchemyInsights/1787-teams-ps-module-install-ref) | hozzáadott |
+| a 2019/3/6 | [615 típusok, megosztása és hogyan állítsa be azokat.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | módosítva |
+| a 2019/3/6 | [Csapatok Freemium](/AlchemyInsights/997-teams-freemium) | hozzáadott |
+| a 2019/3/6 | [Jogosan érkező üzenetek jelölte meg folyamatban van?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | módosítva |
+| a 2019/3/6 | [Microsoft csapatok engedélyezése](/AlchemyInsights/enable-microsoft-teams) | módosítva |
+| a 2019/3/6 | [Engedélyezte csapatok a diákok?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | módosítva |
+| a 2019/3/6 | [Hogyan lehet aktiválni az előfizetés](/AlchemyInsights/how-to-reactivate-a-subscription) | módosítva |
+| a 2019/3/6 | Intune App telepítés – szabály azonosító 991 | eltávolítása |
+| a 2019/3/6 | [A Skype üzleti probléma?](/AlchemyInsights/issue-with-skype-for-business) | módosítva |
+| a 2019/3/6 | [Microsoft csapatok - vendégként való hozzáférés](/AlchemyInsights/microsoft-teamsguest-access) | módosítva |
+| a 2019/3/6 | [Microsoft csapatok - törölt csoportwebhely visszaállítása](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | módosítva |
+| a 2019/3/6 | [Office 365 keresztül továbbító e-mailben](/AlchemyInsights/relay-email-through-office-365) | módosítva |
+| a 2019/3/6 | [Új ügyfél OneDrive szinkronizálása a SharePoint-fájlok szinkronizálása](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | módosítva |
+| a 2019/3/6 | [A teljes verziójának a Microsoft Teams](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | módosítva |
+| a 2019/3/7 | [8000064 Outlook.com e-mail szinkronizálás nem - spanyol](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | hozzáadott |
+| a 2019/3/7 | [8000065, Outlook.com levélszemét spam - spanyol](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | hozzáadott |
+| a 2019/3/7 | [8000066 - szabály 1 - Outlook.com megtámadott - spanyol](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | hozzáadott |
+| a 2019/3/7 | [8000066 - szabály 2 - Outlook.com megtámadott - spanyol](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | hozzáadott |
+| a 2019/3/7 | [8000067 - Outlook.com szoros fiók - spanyol](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | hozzáadott |
+| a 2019/3/7 | [8000068 - Outlook.com fiók - spanyol](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | hozzáadott |
+| a 2019/3/7 | [8000069 - Outlook.com blokkolhat feladókat - spanyol](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | hozzáadott |
+| a 2019/3/7 | [8000070 - Outlook.com - spanyolul tud bejelentkezni.](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | hozzáadott |
+| a 2019/3/7 | [Visszaállítás, törölt felhasználó](/AlchemyInsights/restore-deleted-user) | módosítva |
+| a 2019/3/8 | Outlook.com 8000043 POP, IMAP és SMTP beállításait | eltávolítása |
+| a 2019/3/8 | [Outlook.com 8000043 POP, IMAP és SMTP beállításait](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | átnevezése |
+| a 2019/3/8 | [8000071 Outlook.com javítás e-mail szinkronizálás - francia](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | hozzáadott |
+| a 2019/3/8 | [8000072 Outlook.com levélszemét - francia](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | hozzáadott |
+| a 2019/3/8 | [8000073 Outlook.com fiók megtámadott - francia](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | hozzáadott |
+| a 2019/3/8 | [8000074, Outlook.com szoros fiók - francia](/AlchemyInsights/8000074-outlook-com-close-account-french) | hozzáadott |
+| a 2019/3/8 | [8000075 Outlook.com módosítási jelszó - francia](/AlchemyInsights/8000075-outlook-com-change-password-french) | hozzáadott |
+| a 2019/3/8 | [8000076 Outlook.com blokkolhat feladókat - francia](/AlchemyInsights/8000076-outlook-com-block-sender-french) | hozzáadott |
 
 
 ## <a name="week-of-february-04-2019"></a>Hét 2019. február 04.
@@ -195,14 +88,14 @@
 
 | Közzétett |A témakör címe | Módosítása |
 |------|------------|--------|
-| a 2019/2/4 | [Felhasználók felvétele az Office 365-be](/AlchemyInsights/add-users-to-office-365) | módosítva |
+| a 2019/2/4 | [Felhasználók hozzáadása az Office 365](/AlchemyInsights/add-users-to-office-365) | módosítva |
 | a 2019/2/6 | [Alkalmazott elhagyása](/AlchemyInsights/employee-leaving) | módosítva |
 | a 2019/2/6 | [Nyilvános vételi Admin](/AlchemyInsights/admin-takeover) | módosítva |
 | a 2019/2/6 | [E-mailben kap egy TenantAccessBlockedException hiba elérésekor 127?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | módosítva |
 | a 2019/2/6 | [959 megjelenítendő nevének módosítása](/AlchemyInsights/959-change-display-name) | módosítva |
 | a 2019/2/6 | [És a felhasználó e-mail alias törlése](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | módosítva |
 | a 2019/2/6 | Előre fizetett előfizetési ülések hozzáadása | eltávolítása |
-| a 2019/2/6 | [Felhasználók felvétele az Office 365-be](/AlchemyInsights/add-users-to-office-365) | módosítva |
+| a 2019/2/6 | [Felhasználók hozzáadása az Office 365](/AlchemyInsights/add-users-to-office-365) | módosítva |
 | a 2019/2/6 | [Külső felhasználók hozzáadása a terjesztési csoportot?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | módosítva |
 | a 2019/2/6 | Admin - Office 365 globális beállítása és felügyelet | eltávolítása |
 | a 2019/2/6 | Admin - a felhasználók, csoportok és erőforrások kezelése | eltávolítása |
@@ -445,7 +338,7 @@
 | a 2019/2/11 | [Kapcsolattartók hozzáadása a O365 csoporthoz](/AlchemyInsights/add-contacts-to-o365-group) | módosítva |
 | a 2019/2/11 | [És a felhasználó e-mail alias törlése](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | módosítva |
 | a 2019/2/11 | [Előre fizetett előfizetési ülések hozzáadása](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | módosítva |
-| a 2019/2/11 | [Felhasználók felvétele az Office 365-be](/AlchemyInsights/add-users-to-office-365) | módosítva |
+| a 2019/2/11 | [Felhasználók hozzáadása az Office 365](/AlchemyInsights/add-users-to-office-365) | módosítva |
 | a 2019/2/11 | [Külső felhasználók hozzáadása a terjesztési csoportot?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | módosítva |
 | a 2019/2/11 | [Külső felhasználók hozzáadása](/AlchemyInsights/adding-external-users) | módosítva |
 | a 2019/2/11 | [ADFS összevonási tanúsítvány ennyi időn belül lejár](/AlchemyInsights/adfs-federation-certificate-expiring) | módosítva |
@@ -592,7 +485,7 @@
 | a 2019/2/11 | [Fájl megnyitása csak olvasásra](/AlchemyInsights/file-open-read-only) | módosítva |
 | a 2019/2/11 | [A OneDrive vagy a SharePoint elveszett vagy hiányzó fájlok keresése](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | módosítva |
 | a 2019/2/11 | [Nem sikerült folyamat javítása](/AlchemyInsights/fix-a-failed-flow) | módosítva |
-| a 2019/2/11 | [OneDrive-szinkronizálási problémák megoldása](/AlchemyInsights/fix-onedrive-sync-issues) | módosítva |
+| a 2019/2/11 | [OneDrive Szinkronizációs problémák megoldása](/AlchemyInsights/fix-onedrive-sync-issues) | módosítva |
 | a 2019/2/11 | [A OneDrive szinkronizációs problémáinak elhárítása](/AlchemyInsights/fix-onedrive-sync-problems) | módosítva |
 | a 2019/2/11 | [OneDrive, fájlok feltöltésével kapcsolatos problémák megoldása](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | módosítva |
 | a 2019/2/11 | [Betűtípus-formázási problémák az Excel 2016](/AlchemyInsights/font-formatting-problems-in-excel-2016) | módosítva |
@@ -638,7 +531,7 @@
 | a 2019/2/12 | [Alkímia - Outlook Keresés nem idexing](/AlchemyInsights/alchemyoutlook-search-not-idexing) | módosítva |
 | a 2019/2/12 | [Alkímia - hozza létre újra az Outlook-profil](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | módosítva |
 | a 2019/2/12 | [A OneDrive vagy a SharePoint elveszett vagy hiányzó fájlok keresése](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | módosítva |
-| a 2019/2/12 | [OneDrive-szinkronizálási problémák megoldása](/AlchemyInsights/fix-onedrive-sync-issues) | módosítva |
+| a 2019/2/12 | [OneDrive Szinkronizációs problémák megoldása](/AlchemyInsights/fix-onedrive-sync-issues) | módosítva |
 | a 2019/2/12 | [A OneDrive szinkronizációs problémáinak elhárítása](/AlchemyInsights/fix-onedrive-sync-problems) | módosítva |
 | a 2019/2/12 | [OneDrive, fájlok feltöltésével kapcsolatos problémák megoldása](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | módosítva |
 | a 2019/2/12 | [Telepítse és konfigurálja a OneDrive](/AlchemyInsights/install-and-configure-onedrive) | módosítva |
@@ -709,7 +602,7 @@
 | a 2019/2/22 | [OneDrive és a SharePoint használatának és a tevékenység figyelése](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | módosítva |
 | a 2019/2/22 | [Előfizetés újraaktiválása](/AlchemyInsights/reactivate-a-subscription) | módosítva |
 | a 2019/2/22 | [Állítsa vissza a törölt OneDrive](/AlchemyInsights/restore-a-deleted-onedrive) | módosítva |
-| a 2019/2/22 | [Office 365-csoportok visszaállítása az Exchange Felügyeleti központban](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | módosítva |
+| a 2019/2/22 | [Állítsa vissza az Office 365 csoport az Exchange felügyeleti központ használatával](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | módosítva |
 | a 2019/2/22 | [A O365 Business Essentials előfizetés beállítása](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | módosítva |
 | a 2019/2/22 | [A külső felhasználók megosztása nem működik](/AlchemyInsights/sharing-with-external-users-isn-t-working) | módosítva |
 | a 2019/2/22 | [Próbálja megtalálni egy vizsgálat?](/AlchemyInsights/trying-to-find-a-trial) | módosítva |
