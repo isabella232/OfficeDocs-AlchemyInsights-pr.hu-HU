@@ -1,5 +1,5 @@
 ---
-title: Office 365 keresztül továbbító e-mailben
+title: E-mail-továbbítás az Office 365-ön keresztül
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: ea852e315eaf7611d2d405dcfc9e85ab1ccca196
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468593"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574625"
 ---
-# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a><span data-ttu-id="64739-102">Többfunkciós eszköz vagy alkalmazás segítségével az Office 365 e-mail beállítása</span><span class="sxs-lookup"><span data-stu-id="64739-102">Set up a multifunction device or application to send email using Office 365</span></span>
+# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a><span data-ttu-id="c0199-102">Többfunkciós eszköz vagy alkalmazás beállítása az Office 365-tel való levelezéshez</span><span class="sxs-lookup"><span data-stu-id="c0199-102">How to set up a multifunction device or application to send email using Office 365</span></span>
 
-<span data-ttu-id="64739-103">További információt a beállítások és a lépéseket, lásd: [hogyan állítható be egy többfunkciós eszköz vagy alkalmazás segítségével az Office 365 e-mailt küldeni](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).</span><span class="sxs-lookup"><span data-stu-id="64739-103">To learn about your options and the steps, see [How to set up a multifunction device or application to send email using Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).</span></span>
+<span data-ttu-id="c0199-103">A különféle lehetőségekről és az eljárás lépéseiről a [Többfunkciós eszköz vagy alkalmazás beállítása az Office 365-tel való levelezéshez](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4) című cikk nyújt tájékoztatást.</span><span class="sxs-lookup"><span data-stu-id="c0199-103">To learn about your options and the steps, see [How to set up a multifunction device or application to send email using Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).</span></span>
   
- <span data-ttu-id="64739-104">\*\* *Megjegyzés:* \*\* Ha egy eszköz vagy alkalmazás, amely leállt, [nemrég fejlesztéseket hajtottunk Megjegyzés:](https://support.microsoft.com/help/4458479/) lehet, hogy van érintett, akkor adja meg.</span><span class="sxs-lookup"><span data-stu-id="64739-104">\*\* *Note:* \*\* If you have a device or application which stopped working, please [note we have recently made improvements](https://support.microsoft.com/help/4458479/) that might have impacted you.</span></span> <span data-ttu-id="64739-105">Azt most **üzeneteket az elküldött mappába menti** a postafiók, amelyek **elvetett üzenetek eredményez, ha a postaláda megtelt**.</span><span class="sxs-lookup"><span data-stu-id="64739-105">We now **save messages to the sent folder** of the mailbox which could **result in rejected messages if that mailbox is full**.</span></span> <span data-ttu-id="64739-106">Emellett most kérünk az üzenetek formázhatók / SMTP előírásoknak.</span><span class="sxs-lookup"><span data-stu-id="64739-106">Additionally, we now require the messages be formatted per the SMTP specifications.</span></span> <span data-ttu-id="64739-107">Például a küldő eszköz tartalmaznia kell az e-mail címet, mint a *christine@contoso.com* körül csúcsos zárójelek.</span><span class="sxs-lookup"><span data-stu-id="64739-107">For example, the submitting device must include angle brackets around the email address, as in  *christine@contoso.com*  .</span></span> 
-  
+<span data-ttu-id="c0199-104">**Megjegyzés:** Ha eszköze vagy alkalmazása rövid ideje nem működik, ne feledje, hogy a közelmúltban a terveknek megfelelően megkezdtük a [3DES titkosítás letiltását](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption).</span><span class="sxs-lookup"><span data-stu-id="c0199-104">**Note:** If you have a device or application which recently stopped working, please note we have recently begun [disabling the 3DES cipher](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption) as planned.</span></span>  <span data-ttu-id="c0199-105">**A Windows Server 2003 IIS SMTP a továbbiakban nem fog működni – új Windows-verzió szükséges.**</span><span class="sxs-lookup"><span data-stu-id="c0199-105">**Windows Server 2003 IIS SMTP will no longer work – a newer version of Windows is required.**</span></span> 
 
+<span data-ttu-id="c0199-106">Gyakori hibák lehetnek a következők: hitelesítési hiba, TLS-hiba, a titkosítási algoritmus hibája, a nem egyező algoritmusok vagy a kapcsolat megszakadása.</span><span class="sxs-lookup"><span data-stu-id="c0199-106">Common errors could be similar to: Authentication failure/error, TLS failure/error, Cipher algorithm error, Algorithm mismatch, or Connection dropped.</span></span>  <span data-ttu-id="c0199-107">Érdeklődjön az alkalmazás vagy az eszköz gyártójánál, hogy van-e lehetőség valamelyik modern titkosítás támogatására, esetleg van-e elérhető frissítés.</span><span class="sxs-lookup"><span data-stu-id="c0199-107">Please check with your application or device vendor to see if a modern cipher is supported or if there is an update.</span></span>
