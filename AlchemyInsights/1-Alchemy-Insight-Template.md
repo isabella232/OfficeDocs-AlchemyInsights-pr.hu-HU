@@ -1,5 +1,5 @@
 ---
-title: 'ugyanaz, mint a legcélszerűbb fájlnév [szabály #-leírás]'
+title: ugyanaz, mint a fájlnév a legcélszerűbb
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
-ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.openlocfilehash: ec979c2f2246fa06945b79bbb9348a7a57ad5180
+ms.sourcegitcommit: b3cf5130ac8118f0fed66abe5286aa80ee91af52
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30634506"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30683851"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Szükséges Alkímia fej H1, H2 meg nem működnek.
 Gyakorlati tanácsokat és iránymutatásokat Alkímia szerzői:
 
 1. **Nem ágyazódnak egymásba Alkímia elképzelések mappákban**- Ezzel megszünteti az URL-szerkezet. Azt történő rögzítésének a keresést.
-1. A **AlchemyInsights** mappában található fájlokat kell Szabályazonosító és az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) szabály nevét a fájlnév.
-    1. ex. ***976-How-to-enable-litigation-Hold***
-1. A sablonként használni a metaadatokat a fájl elején. Semmi másra nincs szükség.
+1. A **AlchemyInsights** mappában található fájlok kisbetűs fájlnevek ex tereket kötőjellel kell rendelkeznie. ***how-to-enable-per-tartás***.
+    1. Az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) Szabályazonosító vagy hibasor Azonosítóját tartalmazza a ms.custom mezőben. ex. ***MS.Custom: 100021***
+1. A sablonként használni a metaadatokat a többi fájl tetején.
 1. Az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net)keresse meg a szakasz le **vevő-Insight címe:** és a betekintést a H1 címe, amely a kiindulási pont használatát. 
     > [!NOTE]
     > Alkímia ismereteknek kell csak egyetlen H1 tetején vagy azok gyártási megszakad. H2s nem teszik, így használata **félkövér** vagy más egyezmények külön szakaszokban jeléül.
@@ -33,9 +33,8 @@ Gyakorlati tanácsokat és iránymutatásokat Alkímia szerzői:
     1. Számozott listák túl
     1. **Félkövér** és *dőlt* a-ok
     1. Hivatkozások mindig kell lennie, vagy **"webes hivatkozásokat" / külső** vagy **felhasználói felületének elemeit mély kapcsolatokat**, nem belső hivatkozásokat.
+    1. Képek nem hivatalosan támogatott most, de szerepel az ütemtervben.
 
 És ez már valóban egy kicsit túl hosszú. Legjobb gyakorlat az, körülbelül 400 karakter---
 
-Ha készen áll a tartalom, húzza a élő ágat. Ezután menjen az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) , és írja be a fájlnevet az URL-cím mezőben. Ellenőrizze, hogy felülvizsgálják, és közzé Insight szerint "Igen", és kattintson a frissítés szabály. **(Ez fog megjelenni a portál - hamarosan felszabadítása az új verzió a prettier.)** 
- ![URL-mező](media/for-content-team.PNG)
-
+Ha készen áll a tartalom, húzza a élő ágat. Ezután menjen az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) , és írja be a fájlnevet az URL-cím mezőben. M
