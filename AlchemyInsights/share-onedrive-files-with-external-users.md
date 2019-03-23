@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917858"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754436"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>OneDrive fájlok megoszthatók a szervezeten kívülieknek
 
@@ -31,7 +31,7 @@ ms.locfileid: "29917858"
   - Hozzáférést biztosít a **meghatározott személyek** csak a számára ad meg, annak ellenére, hogy mások már igénybe veheti. Ha emberek továbbítja a megosztási meghívást, csak olyan személyek, akik már fut az access az elem tudják a hivatkozásra. 
     
     > [!NOTE]
-    > Ha az alábbi opciók egyikét nem érhető el, vagy ha más kapcsolattípus alapértelmezés szerint megjeleníteni, a szervezetszintű beállítások módosításához az OneDrive admin center fogja, és a bal oldali ablaktáblán kattintson a **megosztás** . [Tudjon meg többet](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Ha az alábbi opciók egyikét nem érhető el, vagy ha más kapcsolattípus alapértelmezés szerint megjeleníteni, a szervezetszintű beállítások módosításához az OneDrive admin center fogja, és a bal oldali ablaktáblán kattintson a **megosztás** . [tudj meg többet](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. Alapértelmezés szerint **a Szerkesztés engedélyezése** be van kapcsolva. Ha azt szeretné, hogy a személyek csak megtekinthetik a fájlokat, törölje a jelölőnégyzet jelölését. 
     
@@ -39,6 +39,6 @@ ms.locfileid: "29917858"
     
 6. Ha kész elküldeni a hivatkozást, kattintson a **Küldés**gombra. 
     
-[További információ](https://go.microsoft.com/fwlink/?linkid=871861)
+[tudj meg többet](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

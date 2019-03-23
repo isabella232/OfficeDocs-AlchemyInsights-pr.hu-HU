@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 051f302d1180154179675bcd75c4098b76124faa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937838"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754328"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>A próbaverziós Office 365 üzleti kiterjesztése
 
-Próba-előfizetése lejár számított 15 napon belül, és a vizsgálat még nem lett bővítve előtt, ha egy másik 30 napon belül a kísérleti bővítheti. Csak ezt egyszer végezhető el.
+Próba-előfizetése lejár számított 15 napon belül, és a vizsgálat még nem lett bővítve előtt, ha egy másik 30 napon belül a kísérleti bővítheti. Ezt csak egyszer teheti meg.
   
 1. A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.
     

@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: fe2d5d9e78ad6f1e05d99d1e754b3ba990f28e58
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 76570a37a8683863eba8ad18b7f92e86bafa97f6
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925310"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760016"
 ---
 # <a name="buy-additional-licenses"></a>További licencek vásárlása
 
@@ -26,10 +26,10 @@ ms.locfileid: "29925310"
     
     [Mi történik, ha nem látható a hozzáadása hivatkozásra?](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
     
-3. Az **összesen** mezőben adja meg az előfizetés szükséges licencek száma, és válassza a **Küldés** \> **bezárása**. Például ha 100 licenccel rendelkezik, és ki kell egészítenie a további 5, 105 adja meg.
+3. Az **összesen** mezőben adja meg az előfizetés szükséges licencek száma, és válassza a **Küldés** \> **bezárása**. Ha például 100 licence volt, és 5-öt szeretne hozzáadni, akkor a 105 értéket kell beírnia.
     
     > [!NOTE]
-    > Hitelkártya vagy bankszámla kifizeti az előfizetést, ha vásárol új licencekre érhetők el azonnal, miután a rendelés-visszaigazolás érkezik. Ha a számla szerint fizeti, várja meg a hitelkeret-ellenőrzés előtt az új licencek használható előfordulhat. 
+    > Ha hitelkártyával vagy bankszámláról vásárolta meg az előfizetést, minden megvásárolt új licenc azonnal elérhetővé válik, amint megérkezik a megrendelés megerősítése. Ha számla ellenében fizet, lehetséges, hogy meg kell várnia a hitelképesség-vizsgálat eredményét, mielőtt elérhetővé válnak az új licencei. 
   
  **További források**
   

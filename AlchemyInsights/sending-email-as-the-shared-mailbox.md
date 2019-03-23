@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: f0d0e9e857589ff91d163dcc4877633d18abdaab
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b8c6a5ba5ab28912ef09a4b17468a917534a54f0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919694"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752312"
 ---
 # <a name="sending-email-as-the-shared-mailbox"></a>E-mail küldése a megosztott postaláda
 
-Miután létrehozta a megosztott postaládát, felhasználók, akik tagjai a postafiók képesek e-mailt küldjön a megosztott postaláda identitással (például *info@contoso.com* ). További tudnivalókért lásd: 
+Miután létrehozta a megosztott postaládát, felhasználók, akik tagjai a postafiók képesek e-mailt küldjön a megosztott postaláda identitással (például *info@contoso.com* ). Az utasításokat itt találja: 
   
 [Megosztott postaláda megnyitása és használata az Outlook 2016-ban és az Outlook 2013-ban](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   

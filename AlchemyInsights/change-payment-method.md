@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 28ee3f903eee3592d33aa82a93869f74f0260ba0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f35f40a8e9016f4975e93b0e3f0bb8c465db9386
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940469"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756704"
 ---
 # <a name="change-payment-method"></a>Fizetési mód megváltoztatása
 
-Ellenőrizheti a fizetési mód, **Számlázási** méretéről konfigurált \> **előfizetések**. Válassza ki az ellenőrizni kívánt előfizetés. Az előfizetés úgy van beállítva, fizetési mód **kifizetési mód**alatt jelenik meg. Frissíti a meglévő fizetési mód részleteit, kattintson a **fizetési adatainak frissítéséhez**.
+Ellenőrizheti a fizetési mód, **Számlázási** méretéről konfigurált \> **előfizetések**. Válassza ki az ellenőrizni kívánt előfizetést. Az előfizetés úgy van beállítva, fizetési mód **kifizetési mód**alatt jelenik meg. Frissíti a meglévő fizetési mód részleteit, kattintson a **fizetési adatainak frissítéséhez**.
   
 1. A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.
     

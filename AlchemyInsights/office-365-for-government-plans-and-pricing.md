@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: b5cd1e39fb7c0576614568950cad423df600a941
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c7fffc223bbb89d5ab4d6a1e290b9b6f7df3bd91
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911450"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764838"
 ---
 Office 365 az Egyesült Államok kormánya tervek készültek az Egyesült államokbeli kormányzati szervezetek egyedi igényeit. A szolgáltatások és lehetőségek az Office 365 szolgáltatások a szegmentált kormány felhő, amely lehetővé teszi a szervezetek amerikai megfelelőségi és biztonsági előírások közösségi rendelkeznek.
   
