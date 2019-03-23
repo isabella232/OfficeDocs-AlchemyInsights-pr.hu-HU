@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 2eb29cda625bcae50e843e1dce87f13e4dae8ef3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4d41c7a5ed053d5d2a4cd3dd11be94cb74649c87
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937874"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756380"
 ---
-# <a name="solutions-for-error-30068-39"></a><span data-ttu-id="10cc5-102">Hiba 30068-39 megoldások</span><span class="sxs-lookup"><span data-stu-id="10cc5-102">Solutions for error 30068-39</span></span>
+# <a name="solutions-for-error-30068-39"></a><span data-ttu-id="810c1-102">Hiba 30068-39 megoldások</span><span class="sxs-lookup"><span data-stu-id="810c1-102">Solutions for error 30068-39</span></span>
 
-<span data-ttu-id="10cc5-103">Ezek az oldatok [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)hiba kijavításához próbálkozzon:</span><span class="sxs-lookup"><span data-stu-id="10cc5-103">Try these solutions to fix error [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span></span>
+<span data-ttu-id="810c1-103">Ezek az oldatok [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)hiba kijavításához próbálkozzon:</span><span class="sxs-lookup"><span data-stu-id="810c1-103">Try these solutions to fix error [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span></span>
   
-- <span data-ttu-id="10cc5-104">Indítsa újra a számítógépet, és próbálja meg [telepíteni az Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="10cc5-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="810c1-104">Indítsa újra a számítógépet, és próbálja meg [telepíteni az Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="810c1-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
     
-- <span data-ttu-id="10cc5-105">Ellenőrizze, hogy a **Microsoft kattintásra**[szolgáltatás le van tiltva](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , és ha le van tiltva, az állapot módosítása **kézi** vagy **automatikus**.</span><span class="sxs-lookup"><span data-stu-id="10cc5-105">Check if the **Microsoft Click-to-Run**[service is disabled ](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) and if it is disabled, change the status to **Manual** or **Automatic**.</span></span>
+- <span data-ttu-id="810c1-105">Ellenőrizze, hogy a **Microsoft kattintásra**[szolgáltatás le van tiltva](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , és ha le van tiltva, az állapot módosítása **kézi** vagy **automatikus**.</span><span class="sxs-lookup"><span data-stu-id="810c1-105">Check if the **Microsoft Click-to-Run**[service is disabled ](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) and if it is disabled, change the status to **Manual** or **Automatic**.</span></span>
     
-- <span data-ttu-id="10cc5-106">Töltse le és telepítse a [támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="10cc5-106">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="810c1-106">Töltse le és telepítse a [támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="810c1-106">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
     
-1. <span data-ttu-id="10cc5-107">Megnyitása után az **Office eltávolítása termékek** jelölje ki a verziót szeretné eltávolítani, és kattintson a **Tovább gombra**.</span><span class="sxs-lookup"><span data-stu-id="10cc5-107">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="810c1-107">Megnyitása után az **Office eltávolítása termékek** jelölje ki a verziót szeretné eltávolítani, és kattintson a **Tovább gombra**.</span><span class="sxs-lookup"><span data-stu-id="810c1-107">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="10cc5-108">Továbbra is a képernyőn keresztül, és indítsa újra a számítógépet, amikor a rendszer kéri.</span><span class="sxs-lookup"><span data-stu-id="10cc5-108">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="810c1-108">Továbbra is a képernyőn keresztül, és indítsa újra a számítógépet, amikor a rendszer kéri.</span><span class="sxs-lookup"><span data-stu-id="810c1-108">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="10cc5-109">Újraindítás után a támogatási és helyreállítási segéd automatikusan újra megnyitja az eltávolítási folyamat befejezéséhez.</span><span class="sxs-lookup"><span data-stu-id="10cc5-109">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="810c1-109">Újraindítás után a támogatási és helyreállítási segéd automatikusan újra megnyitja az eltávolítási folyamat befejezéséhez.</span><span class="sxs-lookup"><span data-stu-id="810c1-109">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="10cc5-110">Kövesse a további utasításokat, és [telepítse újra az Office](https://portal.office.com/OLS/MySoftware.aspx) , vagy zárja be a Segéd.</span><span class="sxs-lookup"><span data-stu-id="10cc5-110">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
+3. <span data-ttu-id="810c1-110">Kövesse a további utasításokat, és [telepítse újra az Office](https://portal.office.com/OLS/MySoftware.aspx) , vagy zárja be a Segéd.</span><span class="sxs-lookup"><span data-stu-id="810c1-110">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
 

@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 44bbef0b4df8d504c6a1039691f9a3207a5a387d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1c63fd905448d48bb8823ebcfcb4900c4aab86ff
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913415"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761311"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a><span data-ttu-id="42e83-102">A SharePoint Online nyilvános webhely alatt leállnak</span><span class="sxs-lookup"><span data-stu-id="42e83-102">SharePoint Online public websites are being discontinued</span></span>
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a><span data-ttu-id="1b87c-102">A SharePoint Online nyilvános webhely alatt leállnak</span><span class="sxs-lookup"><span data-stu-id="1b87c-102">SharePoint Online public websites are being discontinued</span></span>
 
-<span data-ttu-id="42e83-p101">Ha a SharePoint Online nyilvános webhelyet hozott létre, továbbra is használja 2018 március 31-ig. Ha egy nyilvános webhely kellene folytatni kívánja, hozzon létre egy újat az új szolgáltató szeretné. A SharePoint Online nyilvános webhely tartalma törlődik, így kell megtartani kívánt tartalom másolása.</span><span class="sxs-lookup"><span data-stu-id="42e83-p101">If you created a SharePoint Online public website, you can continue using it until March 31, 2018. If you want to continue having a public website, you need to create a new one with a new provider. The content on your SharePoint Online public website will be deleted, so you need to copy any content you want to keep.</span></span>
+<span data-ttu-id="1b87c-103">Ha a SharePoint Online nyilvános webhelyet hozott létre, továbbra is használja 2018 március 31-ig.</span><span class="sxs-lookup"><span data-stu-id="1b87c-103">If you created a SharePoint Online public website, you can continue using it until March 31, 2018.</span></span> <span data-ttu-id="1b87c-104">Ha egy nyilvános webhely kellene folytatni kívánja, hozzon létre egy újat az új szolgáltató szeretné.</span><span class="sxs-lookup"><span data-stu-id="1b87c-104">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="1b87c-105">A SharePoint Online nyilvános webhely tartalma törlődik, így kell megtartani kívánt tartalom másolása.</span><span class="sxs-lookup"><span data-stu-id="1b87c-105">The content on your SharePoint Online public website will be deleted, so you need to copy any content you want to keep.</span></span>
   
-<span data-ttu-id="42e83-p102">A fejléc most jelenik meg a SharePoint Online nyilvános webhely tetején értesítést, hogy a webhely el lesz távolítva. Nem tudja kikapcsolni a szalagcím. Adatok mentése és egy partner webhely tartalmának másolása [a szolgáltatás felfüggesztését folyamat kapcsolatos részletek](https://go.microsoft.com/fwlink/?linkid=866980)megtekintéséhez.</span><span class="sxs-lookup"><span data-stu-id="42e83-p102">A banner now appears at the top of your SharePoint Online public website as notification that the site will be removed. You can't turn off this banner. For info about saving and copying content to a partner website, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span> 
+<span data-ttu-id="1b87c-106">A fejléc most jelenik meg a SharePoint Online nyilvános webhely tetején értesítést, hogy a webhely el lesz távolítva.</span><span class="sxs-lookup"><span data-stu-id="1b87c-106">A banner now appears at the top of your SharePoint Online public website as notification that the site will be removed.</span></span> <span data-ttu-id="1b87c-107">Nem tudja kikapcsolni a szalagcím.</span><span class="sxs-lookup"><span data-stu-id="1b87c-107">You can't turn off this banner.</span></span> <span data-ttu-id="1b87c-108">Adatok mentése és egy partner webhely tartalmának másolása [a szolgáltatás felfüggesztését folyamat kapcsolatos részletek](https://go.microsoft.com/fwlink/?linkid=866980)megtekintéséhez.</span><span class="sxs-lookup"><span data-stu-id="1b87c-108">For info about saving and copying content to a partner website, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span> 
   
 
