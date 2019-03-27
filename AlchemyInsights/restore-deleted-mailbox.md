@@ -8,24 +8,24 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 search.appverid:
 - MOE150
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: da3d35e5f86f2b76fe6bd25829458b1b2d1a1e9a
-ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
+ms.openlocfilehash: d3808cdee54b748abec16035ecb5c093ec6d37f3
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30088115"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766386"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Törölt postaláda visszaállítása
 
 Ha a felhasználó elveszíti az Exchange Online licenccel, a postaládák 30 napig marad, és egyszerűen ismételt hozzárendelése a licenc a felhasználónak vissza.
   
- *Ez csak 30 napon belül működnek.*  A portál keresse meg: 
+ *Ez csak a 30 napon belül működik.*  A portál keresse meg: 
   
 1. **A felhasználók** \> **Aktív** felhasználók. Jelölje ki a kérdéses felhasználót. 
     

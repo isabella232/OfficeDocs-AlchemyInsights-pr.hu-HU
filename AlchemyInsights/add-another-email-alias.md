@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 1fd498dbbc96b2226c42553b652c04cfbb5e75ca
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 66d20ca17287ee762266a22a376f59f5f8975a00
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208011"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767322"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Hozzon létre, vagy a felhasználó e-mail alias hozzáadása
 
@@ -28,7 +28,7 @@ A felhasználó e-mail alias létrehozásakor, illetve egy további e-mail cím 
     
 3. A jobb oldali **Felhasználó/E-mail-aliasok** sorban válassza a **Szerkesztés** lehetőséget.
     
-4. Az **Alias** mezőbe írja be az új e-mail, majd **a Hozzáadás**gombra. Ha az előfizetést vásárolt GoDaddy vagy egy másik Partner, állítsa be az új alias az elsődleges haladjon a GoDaddy/partner kezelőkonzol. 
+4. Az **Alias** mezőbe írja be az új e-mail, majd **a Hozzáadás**gombra. Ha a GoDaddytől vagy más partnerünktől vásárolta az előfizetést, akkor a GoDaddy vagy a partner felügyeleti konzoljára bejelentkezve kell átállítania az új aliast elsődlegessé. 
     
     **FONTOS:** Ha a „ **Nem található az 'EmailAddresses' paraméternévnek megfelelő paraméter**" hibaüzenet jelenik meg, az azt jelenti, hogy az Office 365-nek tovább fog tartani a bérlői fiók vagy az egyéni tartomány (ha nemrég felvett egyet) beállítása. A beállítási folyamat akár 4 órát is igénybe vehet. Várjon, amíg befejeződik a beállítás, majd próbálkozzon újra. Ha a probléma továbbra sem szűnik meg, hívja fel az ügyfélszolgálatot, és ők elvégzik Ön helyett a teljes szinkronizálást.
     
