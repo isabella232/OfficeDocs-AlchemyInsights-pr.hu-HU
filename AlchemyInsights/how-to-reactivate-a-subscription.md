@@ -1,5 +1,5 @@
 ---
-title: Hogyan lehet aktiválni az előfizetés
+title: Előfizetés újraaktiválása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 614bdcc4fa2bf6904e054417541f487d04cb6e0c
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 643c1778ea080442fbd9d0c33258938af52b150c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468881"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766854"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="7a9b9-102">Hogyan lehet aktiválni az előfizetés</span><span class="sxs-lookup"><span data-stu-id="7a9b9-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="851bf-102">Előfizetés újraaktiválása</span><span class="sxs-lookup"><span data-stu-id="851bf-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="7a9b9-103">Ha előfizetése lejárt, lett megszakítva, vagy le van tiltva, a Microsoft, a Microsoft 365 felügyeleti központ aktiválhatja azt.</span><span class="sxs-lookup"><span data-stu-id="7a9b9-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="851bf-103">Ha lejár az előfizetése, illetve lemondta vagy a Microsoft letiltotta az előfizetését, a Microsoft 365 Felügyeleti központban újraaktiválhatja.</span><span class="sxs-lookup"><span data-stu-id="851bf-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="7a9b9-104">A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="7a9b9-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="851bf-104">A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="851bf-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="7a9b9-105">Válassza ki az előfizetést, hogy szeretne újraaktiválni.</span><span class="sxs-lookup"><span data-stu-id="7a9b9-105">Choose the subscription that you would like to reactivate.</span></span>
+2. <span data-ttu-id="851bf-105">Válassza ki azt az előfizetést, amelyet újra szeretne aktiválni.</span><span class="sxs-lookup"><span data-stu-id="851bf-105">Choose the subscription that you would like to reactivate.</span></span>
     
-3. <span data-ttu-id="7a9b9-106">A gombra kattintva **aktiválja újra** a jobb oldalon.</span><span class="sxs-lookup"><span data-stu-id="7a9b9-106">Choose the **Reactivate** button on the right.</span></span> 
+3. <span data-ttu-id="851bf-106">Válassza a jobb oldalt látható **Újraaktiválás** gombot.</span><span class="sxs-lookup"><span data-stu-id="851bf-106">Choose the **Reactivate** button on the right.</span></span> 
     
-4. <span data-ttu-id="7a9b9-107">Frissítse a fizetési adatait fogja kérni.</span><span class="sxs-lookup"><span data-stu-id="7a9b9-107">You will be asked to update the payment details.</span></span> <span data-ttu-id="7a9b9-108">Információk helyesek, kattintson a **Küldés**.</span><span class="sxs-lookup"><span data-stu-id="7a9b9-108">When all information is correct, choose **Submit**.</span></span>
+4. <span data-ttu-id="851bf-107">A rendszer felkéri a fizetési adatok frissítésére.</span><span class="sxs-lookup"><span data-stu-id="851bf-107">You will be asked to update the payment details.</span></span> <span data-ttu-id="851bf-108">Ha már minden információ helyes, válassza a **Küldés** gombot.</span><span class="sxs-lookup"><span data-stu-id="851bf-108">When all information is correct, choose **Submit**.</span></span>
     
-5. <span data-ttu-id="7a9b9-109">Egy, a képernyő alján jelennek meg.</span><span class="sxs-lookup"><span data-stu-id="7a9b9-109">A confirmation will show on the bottom of the screen.</span></span> <span data-ttu-id="7a9b9-110">Kattintson a **Bezárás** az **előfizetések** lapra való visszatéréshez.</span><span class="sxs-lookup"><span data-stu-id="7a9b9-110">Choose **Close** to return to the **Subscriptions** page.</span></span> 
+5. <span data-ttu-id="851bf-109">A képernyő alján egy megerősítés jelenik meg.</span><span class="sxs-lookup"><span data-stu-id="851bf-109">A confirmation will show on the bottom of the screen.</span></span> <span data-ttu-id="851bf-110">Válassza a **Bezárás** gombot. Ekkor visszajut az **Előfizetések** lapra.</span><span class="sxs-lookup"><span data-stu-id="851bf-110">Choose **Close** to return to the **Subscriptions** page.</span></span> 
     
-6. <span data-ttu-id="7a9b9-111">Ha az előfizetés nem jelenik meg az aktív pár perc múlva frissítse a lapot.</span><span class="sxs-lookup"><span data-stu-id="7a9b9-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
+6. <span data-ttu-id="851bf-111">Ha néhány percen belül nem változik át az előfizetés állapota aktívra, akkor frissítse a lapot.</span><span class="sxs-lookup"><span data-stu-id="851bf-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
     
-<span data-ttu-id="7a9b9-112">További információkért lásd: [Office 365 megújítása üzleti](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span><span class="sxs-lookup"><span data-stu-id="7a9b9-112">For more information, see: [Renew Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span></span>
+<span data-ttu-id="851bf-112">További információ: [Az Office 365 Vállalati verzió megújítása](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span><span class="sxs-lookup"><span data-stu-id="851bf-112">For more information, see [Understand your invoice for Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
   
 
