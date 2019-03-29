@@ -1,5 +1,5 @@
 ---
-title: DNS-rekordok frissítése
+title: A DNS-rekordok frissítése
 ms.author: pebaum
 author: pebaum
 ms.date: 1/12/2018
@@ -8,21 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: 3deb5f1ac8ec663c43848beb9d0a815198206e19
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 7d254fe04d98e28cd88f010749a423aea1474fe1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405073"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758756"
 ---
-# <a name="update-dns-records"></a>DNS-rekordok frissítése
+# <a name="update-dns-records"></a>A DNS-rekordok frissítése
 
-A DNS-rekordok beállításának fontos, hogy az egyéni tartománynév használata az Office 365-előfizetés lekérdezése. Az alábbi hivatkozások segítségével hozzáadása vagy frissítése a DNS-rekordokat.
+A DNS-rekordok beállítása fontos lépés ahhoz, hogy az Office 365 a cég saját tartománynevével működjön. A DNS-rekordokat az alábbi hivatkozásokkal adhatja meg, illetve frissítheti.
   
-- [Az Office 365 rendszerben a DNS-rekordok frissítése](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
+- [A DNS-rekordok frissítése az Office 365-ben](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
     
-- [Hozzáadhatja vagy szerkesztheti az egyéni DNS-rekordokat](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [Egyéni DNS-rekordok hozzáadása és szerkesztése](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
     
 

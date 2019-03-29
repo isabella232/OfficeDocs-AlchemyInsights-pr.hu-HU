@@ -1,5 +1,5 @@
 ---
-title: Feladó blokkolva túl sok kéretlen levelek küldése
+title: Túl sok levélszemét küldése miatt letiltott feladó
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405289"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767502"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Fiók zárolásának túl sok kéretlen levelek küldése
+# <a name="account-is-blocked-for-sending-too-much-spam"></a>A fiók túl sok levélszemét küldése miatt le van tiltva
 
-A küldő fiók is sérülhet. Szüksége lesz:
+Előfordulhat, hogy feltörték a feladó fiókot. A következőket kell tennie:
   
-1. [A fiókjának megtámadása megállapítása](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Veszélyezteti, ha kövesse az [Office 365 veszélybe E-mail fiókhoz válaszol](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+1. [Állapítsa meg, hogy feltörték-e a fiókot](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Ha igen, végezze el a [Teendők Office 365-ös e-mail-fiók feltörésére](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) című cikk lépéseit.
     
-2. Keresse fel a korlátozott felhasználók **[feloldása a fiók](https://protection.office.com/?hash=/restrictedusers)** biztonsági &amp; Megfelelési központba. Miután elkészült, küldje az üzeneteket *1 órán belül* képesnek kell lennie. 
+2. Menjen a Korlátozott jogú felhasználók területre, és **[oldja fel a fiók zárolását](https://protection.office.com/?hash=/restrictedusers)** a Biztonsági és megfelelőségi központban. Ennek elvégzése után *1 órán belül* helyre kell állnia a fiók üzenetküldési képességének. 
     
-3. Ha meg szeretné előzni, hogy a jövőben illetéktelenül használják a fiókját, kövesse a [Security best practices for Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx) című témakörben található ajánlásokat.
+3. Ha meg szeretné előzni, hogy a jövőben feltörjék a fiókját, kövesse a [Biztonsággal kapcsolatos gyakorlati tanácsok az Office 365-höz](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx) című cikk ajánlásait.
   
 

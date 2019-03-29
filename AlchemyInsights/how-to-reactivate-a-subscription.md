@@ -1,5 +1,5 @@
 ---
-title: Hogyan lehet aktiválni az előfizetés
+title: Előfizetés újraaktiválása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 614bdcc4fa2bf6904e054417541f487d04cb6e0c
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 643c1778ea080442fbd9d0c33258938af52b150c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468881"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766854"
 ---
-# <a name="how-to-reactivate-a-subscription"></a>Hogyan lehet aktiválni az előfizetés
+# <a name="how-to-reactivate-a-subscription"></a>Előfizetés újraaktiválása
 
-Ha előfizetése lejárt, lett megszakítva, vagy le van tiltva, a Microsoft, a Microsoft 365 felügyeleti központ aktiválhatja azt.
+Ha lejár az előfizetése, illetve lemondta vagy a Microsoft letiltotta az előfizetését, a Microsoft 365 Felügyeleti központban újraaktiválhatja.
   
 1. A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.
     
-2. Válassza ki az előfizetést, hogy szeretne újraaktiválni.
+2. Válassza ki azt az előfizetést, amelyet újra szeretne aktiválni.
     
-3. A gombra kattintva **aktiválja újra** a jobb oldalon. 
+3. Válassza a jobb oldalt látható **Újraaktiválás** gombot. 
     
-4. Frissítse a fizetési adatait fogja kérni. Információk helyesek, kattintson a **Küldés**.
+4. A rendszer felkéri a fizetési adatok frissítésére. Ha már minden információ helyes, válassza a **Küldés** gombot.
     
-5. Egy, a képernyő alján jelennek meg. Kattintson a **Bezárás** az **előfizetések** lapra való visszatéréshez. 
+5. A képernyő alján egy megerősítés jelenik meg. Válassza a **Bezárás** gombot. Ekkor visszajut az **Előfizetések** lapra. 
     
-6. Ha az előfizetés nem jelenik meg az aktív pár perc múlva frissítse a lapot.
+6. Ha néhány percen belül nem változik át az előfizetés állapota aktívra, akkor frissítse a lapot.
     
-További információkért lásd: [Office 365 megújítása üzleti](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
+További információ: [Az Office 365 Vállalati verzió megújítása](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
   
 

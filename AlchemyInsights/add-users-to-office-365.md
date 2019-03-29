@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: d80072c3cdbeb97d7b73520267c64ca8447bee4b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c47086e8324bfa4c92c109fc3e602af93a47634a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404785"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753464"
 ---
-# <a name="add-a-user-to-office-365"></a>Felhasználó hozzáadása az Office 365
+# <a name="add-a-user-to-office-365"></a>Felhasználó felvétele az Office 365-be
 
-Felhasználó hozzáadása az Office 365 a fenti lépések segítségével:
+A következő lépésekkel vehet fel egy felhasználót az Office 365-be:
   
-1. Ugrás az [Aktív felhasználók](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (vagy **felhasználók** kiválasztása a bal oldali navigációs sáv \> **aktív felhasználók**).
+1. Lépjen az [Aktív felhasználók](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) területre (vagy válassza a bal oldali navigációs panel **Felhasználók** \> **Aktív felhasználók** elemét).
     
-2. Kattintson a **felhasználó hozzáadása**gombra.
+2. Kattintson a **Hozzáadás** gombra.
     
 3. Töltse ki a felhasználó adatait. Amikor elkészült, válassza a **Hozzáadás** gombot. 
     
-[Tudjon meg többet...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+[További tudnivalók...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
   
 
