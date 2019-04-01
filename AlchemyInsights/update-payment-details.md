@@ -1,5 +1,5 @@
 ---
-title: Fizetési adatainak frissítéséhez
+title: Fizetési adatok frissítése
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404677"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755624"
 ---
-# <a name="update-payment-details"></a>Fizetési adatainak frissítéséhez
+# <a name="update-payment-details"></a>Fizetési adatok frissítése
 
-1. A felügyeleti központ a [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapon, vagy válassza a **Számlázási** \> **fizetési módokat**.
+1. A Felügyeleti központban lépjen a [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra, vagy válassza a **Számlázás** \> **Fizetési módok** lehetőséget.
     
     > [!NOTE]
-    > A hurok, amely visszaküldi azt a felügyeleti kezdőlap előtt a frissítések teljes tapasztal, próbálja meg a gyakori vagy Incognito mód. 
+    > Ha egy végtelen ciklusba kerül, és a rendszer mindig visszalépteti a Felügyeleti központba, még mielőtt érvénybe lépnének a módosítások, próbálkozzon újra InPrivate vagy inkognitó módban. 
   
-2. Válassza ki a frissíteni kívánt hitelkártya.
+2. Válassza ki azt a hitelkártyát, amelyet frissíteni szeretne.
     
     > [!NOTE]
-    > Ha egy másik admin a fizetési mód, nem lehet azt a hitelkártya vagy bankszámla adatainak frissítése. A hitelkártya lejár, és a többi rendszergazda nem tudja frissíteni, ha szolgáltatáskiesést megakadályozhatja egy másik hitelkártyára vagy az előfizetés új bankszámla hozzáadásával **hozzáadása fizetési mód**kiválasztásával. 
+    > Ha egy másik rendszergazda adta hozzá a fizetési módot, akkor Ön nem fogja tudni frissíteni a hitelkártya vagy a bankszámla adatait. Ha a kártya hamarosan lejár, és a másik rendszergazda nem tudja frissíteni az adatait, úgy előzheti meg a szolgáltatás megszakadását, hogy egy másik hitelkártyát vagy bankszámlát ad hozzá az előfizetéshez a **Fizetési mód hozzáadása** elem kiválasztásával. 
   
-3. A **fizetési részletek** lapon válassza ki a **fizetési adatainak szerkesztése**.
+3. Válassza a **Fizetés részletei** lap **Fizetési adatok szerkesztése** elemét.
     
-4. Végezze el a módosításokat, és válassza a **Mentés**.
+4. Végezze el módosításokat, majd válassza a **Mentés** lehetőséget.
     
-5. A fizetési mód eltávolításához válassza a **törlése**.
+5. Ha törölni szeretné ezt a fizetési módot, válassza a **Törlés** elemet.
     
-További információért lásd: [Hibaelhárítás hitelkártyák és bankszámlák](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) [hozzáadása, frissítése vagy eltávolítása egy hitelkártya vagy a bankszámla az Office 365 rendszerben, az üzleti](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) és.
+További információt a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása az Office 365 Vállalati verzióban](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) és a [Hitelkártyákkal és bankszámlákkal kapcsolatos problémák elhárítása](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) című cikkben talál.
   
 

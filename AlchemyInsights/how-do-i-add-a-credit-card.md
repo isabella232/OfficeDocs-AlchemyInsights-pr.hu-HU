@@ -1,5 +1,5 @@
 ---
-title: Hogyan adhatok hozzá egy hitelkártya?
+title: Hogyan vehetek fel új hitelkártyát?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: ffc0d6b0c23857180517e19e2ee2b05375c4c366
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: e7d9941af1379a3b0025835ed5c378ad1d5b3cbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404605"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762858"
 ---
-# <a name="how-do-i-add-a-credit-card"></a>Hogyan adhatok hozzá egy hitelkártya?
+# <a name="how-do-i-add-a-credit-card"></a>Hogyan vehetek fel új hitelkártyát?
 
 1. A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.
     
-2. Jelölje ki azt az előfizetést, amelyhez az új hitelkártyát vagy bankszámlát használni szeretné, és válassza a **Fizetési részletek frissítése** elemet.
+2. Jelölje ki azt az előfizetést, amelyhez az új hitelkártyát vagy bankszámlát használni szeretné, és válassza a **Fizetési részletek frissítése** elemet.
     
 3. Válassza a **Fizetési mód hozzáadása vagy kiválasztása** elem alatti lefelé mutató nyilat, majd az **Új hitelkártya** vagy az **Új bankszámla** lehetőséget.
     

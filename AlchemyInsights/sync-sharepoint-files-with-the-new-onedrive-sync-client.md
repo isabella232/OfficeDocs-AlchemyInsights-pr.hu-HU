@@ -1,5 +1,5 @@
 ---
-title: Új ügyfél OneDrive szinkronizálása a SharePoint-fájlok szinkronizálása
+title: SharePoint-fájlok szinkronizálása a OneDrive új szinkronizálási ügyfelével
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: f410e09f2ef7acee9b24686193a7ce6fb6ab706b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469025"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755048"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Új ügyfél OneDrive szinkronizálása a SharePoint-fájlok szinkronizálása
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>SharePoint-fájlok szinkronizálása a OneDrive új szinkronizálási ügyfelével
 
-1. A klasszikus SharePoint felügyeleti központban válassza ki a **beállításokat**.
+1. A klasszikus SharePoint Felügyeleti központban kattintson a **Beállítások** elemre.
     
-2. Ellenőrizze, hogy a "OneDrive Szinkronizálás gombra" értéke "Megjelenítése a Szinkronizálás gombra."
+2. Győződjön meg arról, hogy „A OneDrive Szinkronizálás gombja” beállításnál „A Szinkronizálás gomb megjelenítése” lehetőség van kiválasztva. 
     
-3. Válassza az "Szinkronizáló ügyfél a SharePoint," **Indítsa el az új ügyfelet**.
+3. A „Szinkronizáló ügyfélprogram a SharePointhoz” beállításnál válassza **Az új ügyfélprogram indítása** értéket.
     
     > [!NOTE]
-    > Ez a beállítás nem jelenik meg, ha a szervezet már be van állítva az új OneDrive szinkronizálás ügyfél használatához SharePoint-fájlok. 
+    > Ha ez a beállítás nem jelenik meg, akkor a szervezetében már be lett állítva és használatban van az új OneDrive szinkronizálási ügyfélalkalmazás a SharePoint-fájlok szinkronizálásához. 
   
 4. Kattintson az **OK** gombra.
     
-További információért lásd: [engedélyezi a felhasználók számára a SharePoint-fájlok az új OneDrive szinkronizálás ügyfelekkel szinkronizálni](https://go.microsoft.com/fwlink/?linkid=866433). A felhasználóknak című témakör tartalmazza [az új OneDrive szinkronizálás ügyfél fájlok szinkronizálása SharePoint](https://go.microsoft.com/fwlink/?linkid=866427).
+További információt a [SharePoint-fájlok szinkronizálásának engedélyezése a felhasználók számára a OneDrive új szinkronizálási ügyfelével](https://go.microsoft.com/fwlink/?linkid=866433) című témakörben találhat. A felhasználókra vonatkozó utasításokat a [SharePoint-fájlok szinkronizálása az új OneDrive szinkronizálási ügyfélalkalmazással](https://go.microsoft.com/fwlink/?linkid=866427) című témakör tartalmazza.
   
 
