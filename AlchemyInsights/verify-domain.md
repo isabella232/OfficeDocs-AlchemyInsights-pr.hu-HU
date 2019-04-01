@@ -1,5 +1,5 @@
 ---
-title: Tartomány ellenőrzése
+title: Tartomány igazolása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404857"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760412"
 ---
-# <a name="trying-to-verify-your-domain"></a><span data-ttu-id="647e9-102">Próbálja ellenőrizni a tartományban?</span><span class="sxs-lookup"><span data-stu-id="647e9-102">Trying to verify your domain?</span></span>
+# <a name="trying-to-verify-your-domain"></a><span data-ttu-id="b27c8-102">Igazolni szeretné tartománya tulajdonjogát?</span><span class="sxs-lookup"><span data-stu-id="b27c8-102">Trying to verify your domain?</span></span>
 
-<span data-ttu-id="647e9-p101">TXT rekord hozzáadása a domain regisztrátor ellenőrizze, hogy a tartomány saját van szüksége. Hajtsa végre a tartomány hozzáadása varázsló **beállításai** parancsával \> **tartomány**, majd a **Tartomány hozzáadása**.</span><span class="sxs-lookup"><span data-stu-id="647e9-p101">You need to add a TXT record to your domain registrar to verify that you own your domain. Follow the Add Domain wizard by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span> 
+<span data-ttu-id="b27c8-103">A tartomány tulajdonjogának igazolásához hozzá kell adnia egy TXT-rekordot a tartományregisztrálójánál.</span><span class="sxs-lookup"><span data-stu-id="b27c8-103">You need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="b27c8-104">Kattintson a **Beállítások** \> **Tartomány** majd a **Tartomány hozzáadása** elemre, utána kövesse a Tartomány hozzáadása varázsló lépéseit.</span><span class="sxs-lookup"><span data-stu-id="b27c8-104">Follow the Add Domain wizard by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span> 
   
-<span data-ttu-id="647e9-p102">Kövesse az utasításokat az alábbi cikkben ellenőrzéséhez a tartomány TXT rekord hozzáadása. Válassza ki a domain regisztrátor részletes útmutatást a tartomány.</span><span class="sxs-lookup"><span data-stu-id="647e9-p102">Follow the instructions in the article below to add a TXT record to verify your domain. Select your domain registrar for specific instructions for your domain.</span></span>
+<span data-ttu-id="b27c8-105">Az alábbi témakörben a TXT-rekordok hozzáadását ismertető útmutatást találja.</span><span class="sxs-lookup"><span data-stu-id="b27c8-105">Follow the instructions in the article below to add a TXT record to verify your domain.</span></span> <span data-ttu-id="b27c8-106">Az Ön tartományára vonatkozó utasítások megtekintéséhez válassza ki a tartományregisztrálóját.</span><span class="sxs-lookup"><span data-stu-id="b27c8-106">Select your domain registrar for specific instructions for your domain.</span></span>
   
-[<span data-ttu-id="647e9-107">Az Office 365 DNS-rekordok létrehozása</span><span class="sxs-lookup"><span data-stu-id="647e9-107">Create DNS records for Office 365</span></span>](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+<span data-ttu-id="b27c8-107">[DNS-rekordok létrehozása az Office 365-höz](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)</span><span class="sxs-lookup"><span data-stu-id="b27c8-107">[](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)Create DNS records at TransIP for Office 365</span></span>
   
 
