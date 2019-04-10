@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754652"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747996"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Törölje az Office 365 csoporthoz tartozó helyek:
 
-Amikor a felhasználók egy új csoportwebhely létrehozása SharePoint otthonról (vagy új csoportwebhelyet hoz létre a SharePoint felügyeleti központ kép), a megfelelő Office 365 csoport automatikusan létrejön. Office 365 csoport kapcsolódó webhelyek is jönnek létre, a Microsoft Teams az Office 365 csoport vagy egy csoport létrehozásakor. Az Office 365 csoporthoz tartozó SharePoint webhely törlése az Office 365 csoport maga törölnie kell. 
+Amikor a felhasználók egy új csoportwebhely létrehozása SharePoint otthonról, vagy új csoportwebhelyet hoz létre az új SharePoint-felügyeleti központ, a megfelelő Office 365 csoport automatikusan létrejön. Office 365 csoport kapcsolódó webhelyek is jönnek létre, a Microsoft Teams az Office 365 csoport vagy egy csoport létrehozásakor. Az Office 365 csoporthoz tartozó SharePoint webhely törlése az Office 365 csoport maga törölnie kell. 
   
 1. Ugrás a [csoportok lapon a Microsoft 365 felügyeleti egység](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Megjegyzés: Ha töröl egy csoportot, lehet a késedelem a SharePoint rendszerb
   
 **A SharePoint-webhelycsoport törlése:**
 
-Klasszikus webhelycsoport törlése:
+Hely törlése:
   
-1. A klasszikus SharePoint felügyeleti központ a webhely gyűjtemények oldalon válassza ki a webhelycsoport melletti **jelölőnégyzetet** . 
+1. Az új SharePoint felügyeleti központ a helyek lapon kattintson a törölni kívánt hely melletti **jelölőnégyzetet** . 
     
-2. A webhelycsoportok lapon jelölje be a **törlése.**
+2. A menüszalag eszköztáron kattintson a **törlése.**
     
 **A webhely törölt véletlenül?**
 

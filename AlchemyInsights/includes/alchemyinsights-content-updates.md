@@ -347,7 +347,7 @@
 | a 2019/3/22 | [A hatáskör-átruházás 606 információk](/AlchemyInsights/information-on-delegation) | átnevezése |
 | a 2019/3/22 | [609 információk importálása és exportálása a naptárak](/AlchemyInsights/information-on-importing-and-exporting-calendars) | átnevezése |
 | a 2019/3/22 | [Telepítse az Office 2013-értesítés](/AlchemyInsights/install-office-2013-notification) | módosítva |
-| a 2019/3/22 | [Telepítse a Skype üzleti](/AlchemyInsights/install-skype-for-business) | módosítva |
+| a 2019/3/22 | [A Skype Vállalati verzió telepítése](/AlchemyInsights/install-skype-for-business) | módosítva |
 | a 2019/3/22 | [A fájlneveket OneDrive](/AlchemyInsights/invalid-file-names-in-onedrive) | módosítva |
 | a 2019/3/22 | [1264 IP blokkolva túl sok (550 5.7.51) kéretlen levelek küldése](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | átnevezése |
 | a 2019/3/22 | [Amikor egy felhasználó küldése problémák merülnek fel 322 problémák](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | átnevezése |
@@ -370,7 +370,7 @@
 | a 2019/3/22 | [A számlázási és a kifizetések kezelése](/AlchemyInsights/manage-my-bill-and-payments) | módosítva |
 | a 2019/3/22 | [A számlázási kezelése](/AlchemyInsights/manage-my-bill) | módosítva |
 | a 2019/3/22 | [Szinkronizált felhasználói fiókok kezelése](/AlchemyInsights/manage-synchronized-user-accounts) | módosítva |
-| a 2019/3/22 | [Aki hozhat létre az Office 365-csoportok kezelése](/AlchemyInsights/manage-who-can-create-office-365-groups) | módosítva |
+| a 2019/3/22 | [Az Office 365-csoportok létrehozására jogosultak körének kezelése](/AlchemyInsights/manage-who-can-create-office-365-groups) | módosítva |
 | a 2019/3/22 | [A SharePoint- vagy OneDrive adattárolásának kezelése](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | módosítva |
 | a 2019/3/22 | [Egy SharePoint-tárba hálózati meghajtó csatlakoztatása](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | módosítva |
 | a 2019/3/22 | [SharePoint-tár hozzárendelése hálózati meghajtó](/AlchemyInsights/map-sharepoint-library-to-network-drive) | módosítva |
@@ -484,55 +484,23 @@
 | a 2019/3/28 | [Klasszikus módú SharePoint Online korlátozása](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | átnevezése |
 
 
-## <a name="week-of-february-25-2019"></a>Hét 2019. február 25.
+## <a name="week-of-april-01-2019"></a>Hét 2019. április 01.
 
 
 | Közzétett |A témakör címe | Módosítása |
 |------|------------|--------|
-| a 2019/2/25 | [1800014 az-app támogatása az Outlook mobile alkalmazás letöltése](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | módosítva |
-| a 2019/2/25 | [E-maileket az Outlook mobile alkalmazás a 1800014 beállítása](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | módosítva |
-| a 2019/2/25 | [Beérkezett üzenetek koncentrált 8000001 kikapcsolása](/AlchemyInsights/8000001-turn-off-focused-inbox) | módosítva |
-| a 2019/2/25 | [8000009 Outlook.com mappa létrehozása](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | módosítva |
-| a 2019/2/25 | [8000012 az Outlook.com Névjegy törlése](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | módosítva |
-| a 2019/2/25 | [Az Outlook.com 8000013 betűtípus módosítása](/AlchemyInsights/8000013-change-font-in-outlook-com) | módosítva |
-| a 2019/2/25 | [8000014 hogyan az Outlook.com nyelvének módosítása](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | módosítva |
-| a 2019/2/25 | [8000015 blokkolása vagy a blokkolás feloldása feladók](/AlchemyInsights/8000015-block-or-unblock-senders) | módosítva |
-| a 2019/2/25 | [8000015 Outlook.com szereplő feladóktól érkező e-maileket kapni blokkolva van.](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | módosítva |
-| a 2019/2/25 | [8000029 az Outlook.com adathalászat foglalkozik.](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | módosítva |
-| a 2019/2/25 | [Outlook.com a levélszemét kezelése 8000029](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | módosítva |
-| a 2019/2/25 | [8000029 Levélszemét és adathalászat kezelése az Outlook.com-on](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | módosítva |
-| a 2019/2/25 | [8000033 hogyan lehet válaszolni vagy üzenetek továbbítására az Outlook.com béta](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | módosítva |
-| a 2019/2/25 | [Az Outlook.com 8000034 az olvasási visszaigazolások](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | módosítva |
-| a 2019/2/25 | [8000036 az Outlook.com e-mail nevének módosítására.](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | módosítva |
-| a 2019/2/25 | [8000046 nyomtatás e-mail és az Outlook.com naptárak](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | módosítva |
-| a 2019/2/25 | [8000047 hogyan lehet létrehozni egy e-mail aláírás az Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | módosítva |
-| a 2019/2/25 | [Outlook.com 8000052 csatolás fájlok](/AlchemyInsights/8000052-attach-files-in-outlook-com) | módosítva |
-| a 2019/2/25 | [8000059 hogyan lehet módosítani a téma művelet (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | módosítva |
-| a 2019/2/25 | [Egy fiókjának megtámadása esetén végrehajtandó lépések](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | módosítva |
-| a 2019/2/26 | [Visszaállíthatók a törölt Office 365](/AlchemyInsights/restore-a-deleted-office-365-group) | módosítva |
-| a 2019/2/26 | [9000215 Outlook.com-előfizetések](/AlchemyInsights/9000215-outlook-com-subscriptions) | hozzáadott |
-| a 2019/2/27 | [Outlook.com 9000199 PST fájlok](/AlchemyInsights/9000199-outlook-com-read-pst-files) | hozzáadott |
-| a 2019/2/27 | [9000202 Outlook.com beállítások](/AlchemyInsights/9000202-outlook-com-options) | hozzáadott |
-| a 2019/2/27 | [9000203 Outlook.com szűrők](/AlchemyInsights/9000203-outlook-com-filters) | hozzáadott |
-| a 2019/2/28 | [8000036 pic profil neve az Outlook.com módosítása](/AlchemyInsights/8000036-6-outlook-com-update-profile) | hozzáadott |
-| a 2019/2/28 | [Hiányzik az Outlook.com 8000049 Skype ikon](/AlchemyInsights/8000049-2-outlook-com-skype-button) | hozzáadott |
-| a 2019/2/28 | [Mentés az Outlook.com e-mail 8000088](/AlchemyInsights/8000088-outlook-com-save-emails) | hozzáadott |
-| a 2019/2/28 | [9000071 nem írja be a @ jel a Mac rendszeren](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | hozzáadott |
-| a 2019/2/28 | [9000193 visszavonása áthelyezése vagy törlése az Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | hozzáadott |
-| a 2019/2/28 | [9000198 Outlook.com Calendar béta](/AlchemyInsights/9000198-outlook-com-calendar-beta) | hozzáadott |
-| a 2019/3/1 | [8000035 visszaállítása az Outlook.com béta klasszikus Outlook.com kérése](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | hozzáadott |
-| a 2019/3/1 | [8000035 hogyan lehet az új Outlook.com megjelenést, mint a régit.](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | hozzáadott |
-| a 2019/3/1 | [Outlook.com 8000043 POP, IMAP és SMTP beállításait](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | hozzáadott |
-| a 2019/3/1 | [Minden 8000090 Outlook.com kiválasztása](/AlchemyInsights/8000090-outlook-com-select-all) | hozzáadott |
-| a 2019/3/1 | [8000091 Outlook.com reagál előugró](/AlchemyInsights/8000091-outlook-com-react-pop-up) | hozzáadott |
-| a 2019/3/1 | [Üzenet forrás 8000092 Outlook.com megtekintése](/AlchemyInsights/8000092-outlook-com-view-message-source) | hozzáadott |
-| a 2019/3/1 | [8000093 kapcsolódó Outlook.com a szolgáltatásfiók-engedélyek](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | hozzáadott |
-| a 2019/3/1 | [A Mac-app support 1800009Outlook](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | módosítva |
-| a 2019/3/1 | [Outlook.com csökkentett 8000057 hivatkozások](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | módosítva |
-| a 2019/3/1 | [9000232 Outlook.com címjegyzék](/AlchemyInsights/9000232-outlook-com-address-book) | hozzáadott |
-| a 2019/3/1 | [9000233 Outlook.com PIN-kód](/AlchemyInsights/9000233-outlook-com-pin) | hozzáadott |
-| a 2019/3/1 | [9000234 Outlook.com belső kiszolgálóhiba](/AlchemyInsights/9000234-outlook-com-internal-server-error) | hozzáadott |
-| a 2019/3/1 | [9000236 Outlook.com fiók hozzáadása](/AlchemyInsights/9000236-outlook-com-add-account) | hozzáadott |
-| a 2019/3/1 | [9000238 Outlook.com alias hozzáadása](/AlchemyInsights/9000238-outlook-com-add-alias) | hozzáadott |
-| a 2019/3/1 | [9000239 Outlook.com továbbítása](/AlchemyInsights/9000239-outlook-com-forwarding) | hozzáadott |
-| a 2019/3/1 | [9000240 Outlook.com válaszok](/AlchemyInsights/9000240-outlook-com-replies) | hozzáadott |
+| a 2019/4/1 | [A SharePoint, a OneDrive és a csapatok a Microsoft Office 365 ATP engedélyezése](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | hozzáadott |
+| a 2019/4/1 | [Office 365 speciális veszély védelmi (ATP) telepítése](/AlchemyInsights/office-365-atp-setup) | hozzáadott |
+| a 2019/4/1 | [9000071 nem írja be a @ jel a Mac rendszeren](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | átnevezése |
+| a 2019/4/1 | [Office 365-csoportok visszaállítása az Exchange Felügyeleti központban](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | módosítva |
+| a 2019/4/1 | [Az Office 365 speciális veszély védelmi (ATP) kapcsolatos problémák elhárítása](/AlchemyInsights/troubleshoot-issues-office-365-atp) | hozzáadott |
+| a 2019/4/2 | Az Office 365 rendszerben besorolás címkék | hozzáadott |
+| a 2019/4/2 | Adatok elvesztésének megakadályozása (DLP) – áttekintés | hozzáadott |
+| a 2019/4/2 | Asztali app SharePoint | hozzáadott |
+| a 2019/4/2 | Központi webhely korlátok és korlátozások | hozzáadott |
+| a 2019/4/2 | OneDrive: A hiányzó fájlok vagy mappák | hozzáadott |
+| a 2019/4/2 | Webhely vagy lista mentése sablonként | hozzáadott |
+| a 2019/4/2 | A SharePoint központi helyek – áttekintés | hozzáadott |
+| a 2019/4/2 | Hely és tartalom struktúra eltávolítása | hozzáadott |
+| a 2019/4/2 | A fájl nem található hiba 404, – problémamegoldás | hozzáadott |
+| a 2019/4/3 | [Hibakód: 550 5.7.705 hozzáférés megtagadva, a bérlő túllépte a küszöböt](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | módosítva |

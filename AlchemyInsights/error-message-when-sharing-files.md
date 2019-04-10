@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: da7d2ccfa2f5e74c76c530893fd4457e21a32280
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0ca85a43f21935708f8a9c689306ed3560627dea
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941258"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747384"
 ---
 # <a name="error-messages-when-sharing"></a>Hibaüzenetek megosztása
 
 Külső felhasználók megosztása közben hibaüzenetet kap, ha valószínűleg külső megosztás nem engedélyezett vagy nem engedélyezett szintjét megosztása a felhasználó megpróbál megosztásának beállítása.
   
-Az a * klasszikus * SharePoint felügyeleti középre, kattintson a **megosztás** a bal oldali ablaktáblában. Válassza ki a megosztás szintű kíván engedélyezni. Ellenőrizze, hogy a külső megosztása engedélyezve van a webhelyen. 
+**Megosztása** a bal oldali ablaktáblán kattintson az új SharePoint felügyeleti központ. Válassza ki a megosztás szintű kíván engedélyezni. Ellenőrizze, hogy a külső megosztása engedélyezve van a webhelyen. 
   
 Ha a felhasználó megpróbál bejelentkezni a hibaüzenetet kap, próbálja meg a következő lépéseket:
   

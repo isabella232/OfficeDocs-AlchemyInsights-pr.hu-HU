@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761203"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747312"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>A SharePoint- vagy OneDrive adattárolásának kezelése
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761203"
   
 A legtöbb szervezet SharePoint-tároló kezeli automatikusan, nem kell egy webhelycsoport korlátokat. Ellenőrizze, hogy mennyi SharePoint-tároló van:
   
-- A klasszikus SharePoint felügyeleti központ a jobb felső sarkában a hely gyűjtemények oldalon keresse meg a rendelkezésre álló és a teljes tárolási.
+- Az új SharePoint felügyeleti központ, a képernyő jobb felső sarkában a helyek lapon keresse meg a rendelkezésre álló és a teljes tárolási.
     
 Információ a korlát kiszámításának módjáról lásd a [SharePoint Online határértékeket](https://go.microsoft.com/fwlink/p/?LinkID=856113). Kiegészítő tárhelyet vásárolnia, lásd: [az előfizetés módosítása tárolóhelyet](https://go.microsoft.com/fwlink/?linkid=866428).
   

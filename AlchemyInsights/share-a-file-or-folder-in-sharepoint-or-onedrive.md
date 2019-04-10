@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941762"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747852"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Megosztás a fájlok és mappák a SharePoint- vagy OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941762"
   - Hozzáférést biztosít a **meghatározott személyek** csak a számára ad meg, annak ellenére, hogy mások már igénybe veheti. Ha emberek továbbítja a megosztási meghívást, csak olyan személyek, akik már fut az access az elem tudják a hivatkozásra. 
     
     > [!NOTE]
-    > Ha az alábbi opciók egyikét nem érhető el, vagy ha más kapcsolattípus alapértelmezés szerint megjeleníteni, módosíthatja a klasszikus SharePoint felügyeleti központ Ugrás és **megosztása** a bal oldali ablaktáblán kattintson a szervezetszintű beállítások. [Tudjon meg többet](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Ha az alábbi opciók egyikét nem érhető el, vagy ha más kapcsolattípus alapértelmezés szerint megjeleníteni, módosíthatja az új SharePoint-felügyeleti központ Ugrás és **megosztása** a bal oldali ablaktáblán kattintson a szervezetszintű beállítások. [tudj meg többet](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. Alapértelmezés szerint **a Szerkesztés engedélyezése** be van kapcsolva. Ha azt szeretné, hogy a személyek csak megtekinthetik a fájlokat, törölje a jelet a jelölőnégyzetből. 
     
