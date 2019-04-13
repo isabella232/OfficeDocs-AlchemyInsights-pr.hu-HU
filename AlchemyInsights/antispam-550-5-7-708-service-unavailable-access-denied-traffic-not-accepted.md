@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1047
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 6d91b5e89ae6f6b8ef1f15809c39bc7365bc1596
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 907f74c5a20a45ef8bf111de5f7671485e189e91
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30776574"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859610"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="ea166-103">550 5.7.708 a hozzáférés megtagadva, forgalom nem fogadta el az IP-a</span><span class="sxs-lookup"><span data-stu-id="ea166-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="f81b0-103">550 5.7.708 a hozzáférés megtagadva, forgalom nem fogadta el az IP-a</span><span class="sxs-lookup"><span data-stu-id="f81b0-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="ea166-104">Ez akkor fordul elő, amikor e-mail küldésével ismert, alacsony hírnevét általában új ügyfelek által használt IP-címek.</span><span class="sxs-lookup"><span data-stu-id="ea166-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
-  
-<span data-ttu-id="ea166-105">Ha licencek vásárlása előtt kell küld e-mailben az IP-címeket, forduljon az ügyfélszolgálathoz kivételt kérni, amíg licencek vásárlása vagyunk.</span><span class="sxs-lookup"><span data-stu-id="ea166-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
-  
+<span data-ttu-id="f81b0-104">Ez akkor fordul elő, amikor e-mail küldésével ismert, alacsony hírnevét általában új ügyfelek által használt IP-címek.</span><span class="sxs-lookup"><span data-stu-id="f81b0-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
 
+<span data-ttu-id="f81b0-105">Ha licencek vásárlása előtt kell küld e-mailben az IP-címeket, forduljon az ügyfélszolgálathoz kivételt kérni, amíg licencek vásárlása vagyunk.</span><span class="sxs-lookup"><span data-stu-id="f81b0-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
