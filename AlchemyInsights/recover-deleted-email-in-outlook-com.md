@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000011
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 28266eff5fc77c855370f7fc75a7b7332d1e72e2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7f18d2a5196234e450f7e639b6d63d1ddfcf411a
+ms.sourcegitcommit: 32ee065560611cd527754f482b9ad244878975a0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773739"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31980632"
 ---
 # <a name="recover-deleted-email"></a>Helyreállítása a törölt e-mailben
 
 1. A bal oldali ablaktáblán jelölje ki a **Törölt elemek**. 
     
-2. Jelölje ki az elemet, és válassza ki a **helyreállítani**kívánt. 
+2. Válassza ki a helyreállítani, és válassza ki a **visszaállítani**kívánt elemet. 
   
  **Megjegyzés**: csak választhat az összes látható az összes üzenet esetén. Ez az üzenet nem jelenik meg a véletlen műveletek elkerülése érdekében. **CTRL + kattintás** kijelöli az egyes üzeneteket, a **SHIFT + kattintás a** két kattintás között, az összes kijelölése. 
     
-3. Ha az üzenet nem a törölt elemek, jelölje be a **Törölt elemek helyreállítása** az ablak tetején. 
+3. Ha az üzenet nem a törölt elemek, jelölje be az **ebből a mappából törölt elemek helyreállítása** az ablak tetején. 
     
  **A törölt elemek fontos információkat:**
   
