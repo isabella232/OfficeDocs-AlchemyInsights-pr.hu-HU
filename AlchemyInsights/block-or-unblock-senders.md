@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000015
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ce2ee427887ac51dfbbcbc7b7d9e511cab7e3da7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 2c58a22878b5d36554a17d4363303ccf6207a4ac
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788509"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903558"
 ---
 # <a name="block-or-unblock-senders"></a>Blokkolása vagy a blokkolás feloldása feladók
 
 Minden e-mail cím vagy tartomány hozzáadása a letiltott feladók listájához, ezek az üzenetek közvetlenül a levélszemét E-mail mappa áthelyezése E-mail automatikusan törlődik a Junk E-mail mappát 14 nap után, és nem állítható helyre.
   
-1. Ugrás a **Beállítások** \> **teljes beállításainak megtekintése**. 
+1. Ugrás a **Beállítások** \> **az összes Outlook-beállítások megtekintése**. 
     
-2. Jelölje ki a **levelek** \> **e-mail levélszemét**. 
+2. Válassza a [ **Mail** \> **Junk e-mail**](https://outlook.live.com/mail/options/mail/junkEmail). 
     
 3. A feladó blokkolása, írja be az e-mail címet vagy tartományt kíván blokkolni, és válassza a **Hozzáadás**. 
     
