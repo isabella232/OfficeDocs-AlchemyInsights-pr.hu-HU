@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000014
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 77e9a6f21702189aa7ec4b56323b92eb0766bd08
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ca05449dcda6dd857c7f81be17bb6fd6335af693
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30775489"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903666"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="00a19-102">A nyelv módosítása</span><span class="sxs-lookup"><span data-stu-id="00a19-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="c6b45-102">A nyelv módosítása</span><span class="sxs-lookup"><span data-stu-id="c6b45-102">Change your language</span></span>
 
-1. <span data-ttu-id="00a19-103">A jobb felső sarkában válassza a **Beállítások** \> **Beállítások**.</span><span class="sxs-lookup"><span data-stu-id="00a19-103">In the upper-right corner, select **Settings** \> **Options**.</span></span>
+1. <span data-ttu-id="c6b45-103">A jobb felső sarkában válassza a **Beállítások** \> **az összes Outlook-beállítások megtekintése**.</span><span class="sxs-lookup"><span data-stu-id="c6b45-103">In the upper-right corner, select **Settings** \> **View all Outlook settings**.</span></span>
     
-2. <span data-ttu-id="00a19-104">Válassza ki a **Beállítások**, **Általános** \> **Területi és időzóna**.</span><span class="sxs-lookup"><span data-stu-id="00a19-104">Under **Options**, select **General** \> **Region and time zone**.</span></span>
+2. <span data-ttu-id="c6b45-104">Az **Általános**csoportban [**nyelv és az idő**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span><span class="sxs-lookup"><span data-stu-id="c6b45-104">Under **General**, select [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
     
-3. <span data-ttu-id="00a19-105">A **Területi és időzóna-beállítások**csoportban válassza ki a nyelvet.</span><span class="sxs-lookup"><span data-stu-id="00a19-105">Under **Region and time zones settings**, choose your language.</span></span>
+3. <span data-ttu-id="c6b45-105">Válassza ki a kívánt nyelvet.</span><span class="sxs-lookup"><span data-stu-id="c6b45-105">Choose your language.</span></span>
     
-4. <span data-ttu-id="00a19-106">Válassza a **Mentés** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="00a19-106">Select **Save**.</span></span>
+4. <span data-ttu-id="c6b45-106">Válassza a **Mentés** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="c6b45-106">Select **Save**.</span></span>
     
-<span data-ttu-id="00a19-107">További információért lásd a [módosítható az időzóna- és nyelvi beállítások az Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="00a19-107">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="c6b45-107">További információért lásd a [módosítható az időzóna- és nyelvi beállítások az Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="c6b45-107">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
   
 
