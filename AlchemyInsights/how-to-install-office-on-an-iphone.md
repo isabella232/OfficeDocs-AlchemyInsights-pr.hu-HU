@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.openlocfilehash: 768f616bb69f0c5689f968bb06a5dc161d30fec4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917714"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417284"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="86725-102">Hogyan kell telepíteni az Office rendszert egy iPhone</span><span class="sxs-lookup"><span data-stu-id="86725-102">How to install Office on an iPhone</span></span>
+# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="e1f2c-102">Hogyan kell telepíteni az Office rendszert egy iPhone</span><span class="sxs-lookup"><span data-stu-id="e1f2c-102">How to install Office on an iPhone</span></span>
 
 
-- <span data-ttu-id="86725-103">Rendelkezik a felhasználói [koppintson a letöltési hivatkozás](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) mobileszközről, Word, Excel, PowerPoint és OneNote.</span><span class="sxs-lookup"><span data-stu-id="86725-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span> 
+- <span data-ttu-id="e1f2c-103">Rendelkezik a felhasználói [koppintson a letöltési hivatkozás](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) mobileszközről, Word, Excel, PowerPoint és OneNote.</span><span class="sxs-lookup"><span data-stu-id="e1f2c-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span> 
     
-- <span data-ttu-id="86725-104">Az alkalmazás indítása, koppintson a **Bejelentkezés** és adja meg a munka vagy iskola hitelesítő adatokat a felhasználó rendelkezik.</span><span class="sxs-lookup"><span data-stu-id="86725-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span> 
+- <span data-ttu-id="e1f2c-104">Az alkalmazás indítása, koppintson a **Bejelentkezés** és adja meg a munka vagy iskola hitelesítő adatokat a felhasználó rendelkezik.</span><span class="sxs-lookup"><span data-stu-id="e1f2c-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span> 
     
 
