@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904682"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417690"
 ---
 # <a name="network-migration"></a>Hálózati áttelepítése
 
 A O365 bérlő társul, esetleg több Yammer hálózatok 1 bérlő: sok hálózatok konfigurációját. Indítása 2018. október 16., Yammer már nem fogják támogatni egy Office 365 bérlő társított több Yammer-hálózat. 1:1 konfigurációt elérése hálózati áttelepítés végrehajtása
   
-- A bérlő kapcsolódó hálózatok listájának megtekintéséhez jelentkezzen be rendszergazdaként Office 365 globális Yammer és keresse meg a **Hálózati rendszergazda**, majd a **Hálózati áttelepítési**. Kattintson a **Tovább gombra**.
+- A bérlő kapcsolódó hálózatok listájának megtekintéséhez jelentkezzen be rendszergazdaként Office 365 globális Yammer és keresse meg a **Hálózati rendszergazda**, majd a **Hálózati áttelepítési**. Válassza a **Tovább** gombot.
     
 - Ha több a O365 bérlő társított Yammer-hálózattal rendelkezik, majd a 3., 2. lépés felsorolt több hálózat látható.
     

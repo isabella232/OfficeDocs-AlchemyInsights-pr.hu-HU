@@ -9,21 +9,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207867"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421386"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>A O365 Business Essentials előfizetés beállítása
 
 Office 365-fiókok létrehozása és hozzáadása a tartományhoz
   
-- Ebben a lépésben a varázsló a felhasználók Office 365-fiókok létrehozása és hozzáadása a saját tartomány használata. A varázsló segítségével személyre szabhatók meg felhasználó Azonosítóját és e-mailt az üzleti, mint a [rob@contoso.com](mailto:rob@contoso.com).
+- Ebben a lépésben létre kell hoznia a felhasználók Office 365-ös fiókjait a beállítási varázslóval, és hozzá kell adnia a saját tartományát. A varázsló segítségével személyre szabhatók meg felhasználó Azonosítóját és e-mailt az üzleti, mint a [rob@contoso.com](mailto:rob@contoso.com).
     
 - Keresse fel a [Microsoft 365 felügyeleti központ](https://login.partner.microsoftonline.cn/).
     
-- A varázsló elindításához válassza a **telepítés Ugrás**. További információért lásd: [felhasználók hozzáadása és a tartományt az Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- A varázsló indításához válassza az **Ugrás a beállításra** lehetőséget. További információ: [Felhasználók és tartomány hozzáadása az Office 365-höz](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     
 Levelek importálása
   
@@ -31,7 +31,7 @@ Levelek importálása
     
 - E-mail fiókok csatlakoztatása
     
-  - Kívül az Outlook programban az Office 365 e-mail kezelése, csatlakozhat más e-mail fiókok Outlook túl, például a Gmail és a Yahoo partnereket. Ez lehetővé teszi az e-mail egy helyről kezelheti. Legfeljebb 5 e-mail fiókok Outlook lehet csatlakoztatni. További részletekért lásd: [Csatlakozás e-mail fiókok az Outlook alkalmazásban a weben (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Az Office 365-ös e-mailek Outlookban történő kezelése mellett más e-mail-fiókokat, többek között Gmail- és Yahoo-fiókokat is csatlakoztathat az Outlookhoz. Ez lehetővé teszi, hogy az összes e-mailt egyetlen helyen kezelje. Akár 5 e-mail-fiókot is csatlakoztathat az Outlookhoz. További részletekért lásd: [Csatlakozás e-mail fiókok az Outlook alkalmazásban a weben (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
 A Skype Vállalati verzió telepítése
   
@@ -39,7 +39,7 @@ A Skype Vállalati verzió telepítése
     
 Fájlok tárolása online
   
-- Mely tárolóhelyek a legjobbak a vállalkozás számára című témakörben talál [az Office 365 rendszerben a fájlok tárolására szolgál](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Mindenki kap egy **OneDrive** felhő tárolási hely automatikusan azokat az Office 365-fiókok létrehozásakor. OneDrive, a fájlokat a számítógépek, telefonok és tabletta keresztül érheti el. 
+- Mely tárolóhelyek a legjobbak a vállalkozás számára című témakörben talál [az Office 365 rendszerben a fájlok tárolására szolgál](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Az **-fiókok létrehozásakor minden felhasználó automatikusan kap** OneDriveOffice 365-felhőtárhelyet. A OneDrive segítségével elérhetik a fájlokat számítógépről, telefonról és táblagépről is. 
     
 [Ebben](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials)a cikkben található részletes leírást a telepítés.
   
