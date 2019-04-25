@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b249dddd-87fb-4e07-a4f8-05a0dc521a47
 ms.openlocfilehash: 39a1317e67ef5f73afad902745ce3a7bbb1382cd
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30765342"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408613"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="bbc51-102">Egy SharePoint-tárba hálózati meghajtó csatlakoztatása</span><span class="sxs-lookup"><span data-stu-id="bbc51-102">Map a SharePoint library to a network drive</span></span>
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="dd3a5-102">Egy SharePoint-tárba hálózati meghajtó csatlakoztatása</span><span class="sxs-lookup"><span data-stu-id="dd3a5-102">Map a SharePoint library to a network drive</span></span>
 
-<span data-ttu-id="bbc51-103">Webhelytárak Intéző a dolgozunk, ajánlott az OneDrive Szinkronizáló ügyfél helyett a könyvtárak hozzárendelése hálózati meghajtók.</span><span class="sxs-lookup"><span data-stu-id="bbc51-103">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives.</span></span> <span data-ttu-id="bbc51-104">Meghajtó-hozzárendelés csak egy ideiglenes megoldás.</span><span class="sxs-lookup"><span data-stu-id="bbc51-104">Drive mapping is only a temporary solution.</span></span> <span data-ttu-id="bbc51-105">A Szinkronizáló ügyfele programját használja a fájlok elérhetővé a felhasználók akkor is, ha offline vannak.</span><span class="sxs-lookup"><span data-stu-id="bbc51-105">Using the sync client makes the files available to users even when they're offline.</span></span> <span data-ttu-id="bbc51-106">A Szinkronizáló ügyfél is jobb teljesítményt nyújt, lehetővé teszi a fájlokhoz való hozzáférés segítségével [Tárolt fájlok](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) letöltése nélkül, és nem igényel beállítása az Internet Explorer használatával.</span><span class="sxs-lookup"><span data-stu-id="bbc51-106">The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
+<span data-ttu-id="dd3a5-103">Webhelytárak Intéző a dolgozunk, ajánlott az OneDrive Szinkronizáló ügyfél helyett a könyvtárak hozzárendelése hálózati meghajtók.</span><span class="sxs-lookup"><span data-stu-id="dd3a5-103">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives.</span></span> <span data-ttu-id="dd3a5-104">Meghajtó-hozzárendelés csak egy ideiglenes megoldás.</span><span class="sxs-lookup"><span data-stu-id="dd3a5-104">Drive mapping is only a temporary solution.</span></span> <span data-ttu-id="dd3a5-105">A Szinkronizáló ügyfele programját használja a fájlok elérhetővé a felhasználók akkor is, ha offline vannak.</span><span class="sxs-lookup"><span data-stu-id="dd3a5-105">Using the sync client makes the files available to users even when they're offline.</span></span> <span data-ttu-id="dd3a5-106">A Szinkronizáló ügyfél is jobb teljesítményt nyújt, lehetővé teszi a fájlokhoz való hozzáférés segítségével [Tárolt fájlok](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) letöltése nélkül, és nem igényel beállítása az Internet Explorer használatával.</span><span class="sxs-lookup"><span data-stu-id="dd3a5-106">The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
   
-- [<span data-ttu-id="bbc51-107">Az új OneDrive szinkronizálás ügyfél a Windows fájl-szinkronizáció</span><span class="sxs-lookup"><span data-stu-id="bbc51-107">Sync files with the new OneDrive sync client in Windows</span></span>](https://go.microsoft.com/fwlink/?linkid=866427)
+- [<span data-ttu-id="dd3a5-107">Az új OneDrive szinkronizálás ügyfél a Windows fájl-szinkronizáció</span><span class="sxs-lookup"><span data-stu-id="dd3a5-107">Sync files with the new OneDrive sync client in Windows</span></span>](https://go.microsoft.com/fwlink/?linkid=866427)
     
-- [<span data-ttu-id="bbc51-108">Függvénytárfájlok hely Explorer fájl használata</span><span class="sxs-lookup"><span data-stu-id="bbc51-108">Ways to work with site library files in File Explorer</span></span>](https://go.microsoft.com/fwlink/?linkid=866291)
+- [<span data-ttu-id="dd3a5-108">Függvénytárfájlok hely Explorer fájl használata</span><span class="sxs-lookup"><span data-stu-id="dd3a5-108">Ways to work with site library files in File Explorer</span></span>](https://go.microsoft.com/fwlink/?linkid=866291)
     
-- [<span data-ttu-id="bbc51-109">Állítsa be, és hárítsa el a csatlakoztatott hálózati meghajtók</span><span class="sxs-lookup"><span data-stu-id="bbc51-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
+- [<span data-ttu-id="dd3a5-109">Állítsa be, és hárítsa el a csatlakoztatott hálózati meghajtók</span><span class="sxs-lookup"><span data-stu-id="dd3a5-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
     
 
