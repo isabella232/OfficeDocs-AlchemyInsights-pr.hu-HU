@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0ae81203-7cbf-48a1-bd1a-2711e1c92e7b
 ms.openlocfilehash: afd27d7f844d3dcde9037242de55794dff23615f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404821"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389529"
 ---
-# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="24c8a-102">Próbálja eltávolítani a tartományt?</span><span class="sxs-lookup"><span data-stu-id="24c8a-102">Trying to remove your domain?</span></span>
+# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="c039b-102">A tartománya eltávolítására készül?</span><span class="sxs-lookup"><span data-stu-id="c039b-102">Trying to verify your domain?</span></span>
 
-<span data-ttu-id="24c8a-103">Kövesse a lépéseket az [Office 365 a tartomány eltávolítása](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx).</span><span class="sxs-lookup"><span data-stu-id="24c8a-103">Follow the steps in [Remove a domain from Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx).</span></span>
+<span data-ttu-id="c039b-103">Kövesse a [Tartomány eltávolítása az Office 365-ből](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx) című cikkben ismertetett lépéseket.</span><span class="sxs-lookup"><span data-stu-id="c039b-103">Follow the steps in [Remove a domain from Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx).</span></span>
   
-<span data-ttu-id="24c8a-p101">Kívánt felhasználókat vagy csoportokat, ezt a nevet rendelt a tartomány eltávolítása előtt frissíteni kell. Ellenőrizze a [Gyakran feltett kérdések a tartományok](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx) közös megoldásait.</span><span class="sxs-lookup"><span data-stu-id="24c8a-p101">You'll have to update any users or groups that are assigned to that domain name before you remove the domain. Check the [Domains FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx) for other common solutions.</span></span> 
+<span data-ttu-id="c039b-104">A tartomány eltávolítása előtt frissítenie kell a tartománynévhez hozzárendelt felhasználókat és csoportokat.</span><span class="sxs-lookup"><span data-stu-id="c039b-104">You'll have to update any users or groups that are assigned to that domain name before you remove the domain.</span></span> <span data-ttu-id="c039b-105">További általános megoldásokat a [tartományokról szóló gyakori kérdések](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx) között talál.</span><span class="sxs-lookup"><span data-stu-id="c039b-105">Check the [Domains FAQ](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx) for other common solutions.</span></span> 
   
