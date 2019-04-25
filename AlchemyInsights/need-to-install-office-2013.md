@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
 ms.openlocfilehash: 8730d04eed344fb244e6ba0f287cd37ec6351749
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902365"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418266"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a><span data-ttu-id="a3f2a-102">Office 2013 már nem támogatja az Office 365 előfizetés</span><span class="sxs-lookup"><span data-stu-id="a3f2a-102">Office 2013 is no longer supported in Office 365 subscriptions</span></span>
+# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a><span data-ttu-id="5668c-102">Office 2013 már nem támogatja az Office 365 előfizetés</span><span class="sxs-lookup"><span data-stu-id="5668c-102">Office 2013 is no longer supported in Office 365 subscriptions</span></span>
 
-<span data-ttu-id="a3f2a-103">Az Office 365 előfizetés már nem támogatott a 2017. február 28., óta Office 2013.</span><span class="sxs-lookup"><span data-stu-id="a3f2a-103">Since February 28, 2017, Office 2013 is no longer supported in Office 365 subscriptions.</span></span>
+<span data-ttu-id="5668c-103">Az Office 365 előfizetés már nem támogatott a 2017. február 28., óta Office 2013.</span><span class="sxs-lookup"><span data-stu-id="5668c-103">Since February 28, 2017, Office 2013 is no longer supported in Office 365 subscriptions.</span></span>
   
-<span data-ttu-id="a3f2a-p101">Biztonsága érdekében az Office programcsomagot, és minden a legújabb szolgáltatások, telepítse a legújabb Office szabad Office 365 előfizetése részeként. Lásd [a felhasználókat, hogy a legújabb Office-ügyfélprogram frissítése](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="a3f2a-p101">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Office 365 subscription. See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
+<span data-ttu-id="5668c-104">Biztonsága érdekében az Office programcsomagot, és minden a legújabb szolgáltatások, telepítse a legújabb Office szabad Office 365 előfizetése részeként.</span><span class="sxs-lookup"><span data-stu-id="5668c-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Office 365 subscription.</span></span> <span data-ttu-id="5668c-105">Lásd [a felhasználókat, hogy a legújabb Office-ügyfélprogram frissítése](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="5668c-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
   
 
