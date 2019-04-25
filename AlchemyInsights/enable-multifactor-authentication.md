@@ -17,11 +17,11 @@ search.appverid:
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
 ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: c2070de81172fe627f489adf391f3c4bed222c4d
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379427"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32403677"
 ---
 # <a name="enable-multi-factor-authentication"></a>Többtényezős hitelesítés engedélyezése
 
@@ -33,7 +33,7 @@ ms.locfileid: "30379427"
     
 4. A jelölőnégyzet mellett engedélyezni szeretné a felhasználóknak.
     
-5.  A megfelelő felhasználói információ ablak **Gyorsműveletek** meg fogja lásd engedélyezése mellett a felhasználói beállítások kezelésére. Válasszon **engedélyezése**. 
+5.  A megfelelő felhasználói információ ablak **Gyorsműveletek** meg fogja lásd engedélyezése mellett a felhasználói beállítások kezelésére. Válassza az **Engedélyezés** lehetőséget. 
     
 6. A párbeszédpanelen, amely megnyílik, **kattintson a többtényezős hitelesítés engedélyezése**. 
     

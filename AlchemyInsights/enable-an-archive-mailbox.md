@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
 ms.openlocfilehash: d2d30d6f78c99fe11fcf77dc010e6eddf0ddb482
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927830"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404087"
 ---
 # <a name="enable-an-archive-mailbox"></a>Az archív postaláda engedélyezése
 
@@ -21,7 +21,7 @@ Archív postaládák az Office 365 rendszerben (más néven *Online archívum* )
   
 Íme egy archív postaláda létrehozása:
   
-1. Lépjen a [https://protection.office.com](https://protection.office.com) webhelyre.
+1. Nyissa meg a [https://protection.office.com](https://protection.office.com) lapot.
     
 2. Jelentkezzen be a rendszergazdai fiók használatával Office 365.
     
