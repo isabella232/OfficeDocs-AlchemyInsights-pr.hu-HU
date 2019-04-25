@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Hét 2019. március 11.
-
-
-| Közzétett |A témakör címe | Módosítása |
-|------|------------|--------|
-| a 2019/3/12 | 8000054 Outlook.com Beérkezett nem töltődik be | hozzáadott |
-| a 2019/3/12 | [8000078 Outlook.com Beérkezett nem töltődik be](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | átnevezése |
-| a 2019/3/12 | [8000078 Outlook.com Beérkezett nem töltődik be](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | módosítva |
-| a 2019/3/13 | [E-mail-továbbítás az Office 365-ön keresztül](/AlchemyInsights/relay-email-through-office-365) | módosítva |
-| a 2019/3/14 | [ugyanaz, mint a legcélszerűbb fájlnév [szabály #-leírás]](/AlchemyInsights/1-alchemy-insight-template) | módosítva |
-| a 2019/3/14 | [A postaláda méretének növelése](/AlchemyInsights/increase-mailbox-size) | módosítva |
-| a 2019/3/15 | [Az Outlook asztali visszahívás vagy e-mail üzenet csere](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | hozzáadott |
-
-
 ## <a name="week-of-march-18-2019"></a>Hét 2019. március 18.
 
 
@@ -530,3 +516,47 @@
 | a 2019/4/12 | [932-es frissítés AADConnect](/AlchemyInsights/upgrading-aadconnect) | módosítva |
 | a 2019/4/12 | [A mobil eszközön 725 e-mail alias](/AlchemyInsights/using-email-alias-on-mobile-device) | módosítva |
 | a 2019/4/12 | [1554 Winsock hiba 10061](/AlchemyInsights/winsock-error-10061) | módosítva |
+
+
+## <a name="week-of-april-15-2019"></a>Hét 2019. április 15.
+
+
+| Közzétett |A témakör címe | Módosítása |
+|------|------------|--------|
+| a 2019/4/15 | [Alkímia - diagnosztizálására és megoldására Outlook kapcsolódási problémák](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | módosítva |
+| a 2019/4/15 | [Alkímia - hozza létre újra az Outlook-profil](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | módosítva |
+| a 2019/4/15 | [DLP esetleg szükséges egyéni típusok](/AlchemyInsights/dlp-might-need-custom-type) | hozzáadott |
+| a 2019/4/15 | [DLP nem a várt módon működik](/AlchemyInsights/dlp-not-working-as-expected) | módosítva |
+| a 2019/4/15 | [DLP házirend tippek nem működik](/AlchemyInsights/dlp-policy-tips-not-working) | módosítva |
+| a 2019/4/15 | [550 Outlook.com hiba](/AlchemyInsights/outlook-com-error-550) | hozzáadott |
+| a 2019/4/15 | [Outlook.com túllépte a kvótát](/AlchemyInsights/outlook-com-over-quota) | hozzáadott |
+| a 2019/4/15 | [Skype Outlook.com eltávolítása](/AlchemyInsights/outlook-com-remove-skype-rule-1) | hozzáadott |
+| a 2019/4/15 | [Skype Outlook.com eltávolítása](/AlchemyInsights/outlook-com-remove-skype-rule-2) | hozzáadott |
+| a 2019/4/15 | [182 Éva diagnosztizálásához futtassa &amp; Outlook hitelesítési problémák megoldásához](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | módosítva |
+| a 2019/4/16 | [9000233 Outlook.com PIN-kód](/AlchemyInsights/outlook-com-pin) | módosítva |
+| a 2019/4/16 | [Skype Outlook.com eltávolítása](/AlchemyInsights/outlook-com-remove-skype-rule-1) | módosítva |
+| a 2019/4/16 | [Mentés az Outlook.com e-mail 8000088](/AlchemyInsights/outlook-com-save-emails) | módosítva |
+| a 2019/4/16 | [Outlook.com 8000052 csatolás fájlok](/AlchemyInsights/attach-files-in-outlook-com) | módosítva |
+| a 2019/4/16 | [8000015 blokkolása vagy a blokkolás feloldása feladók](/AlchemyInsights/block-or-unblock-senders) | módosítva |
+| a 2019/4/16 | [8000014 hogyan az Outlook.com nyelvének módosítása](/AlchemyInsights/how-to-change-language-in-outlook-com) | módosítva |
+| a 2019/4/16 | [8000059 Útmutató: az elrendezés módosítása](/AlchemyInsights/how-to-change-your-layout) | módosítva |
+| a 2019/4/16 | [8000033 hogyan lehet válaszolni vagy üzenetek továbbítására az Outlook.com béta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | módosítva |
+| a 2019/4/16 | [8000055 hogyan kell bejelentkezni, vagy Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | módosítva |
+| a 2019/4/16 | [8000062 az Outlook.com mappa áthelyezése](/AlchemyInsights/moving-a-folder-in-outlook-com) | módosítva |
+| a 2019/4/16 | [Tartalmi címkék automatikus alkalmazása](/AlchemyInsights/auto-apply-sensitivity-labels) | hozzáadott |
+| a 2019/4/16 | [Nem jelenik meg a tartalmi címkék](/AlchemyInsights/sensitivity-labels-not-appearing) | hozzáadott |
+| a 2019/4/16 | [Automatikusan létrehozott új adatmegőrzési címkék](/AlchemyInsights/new-retention-labels-created-automatically) | hozzáadott |
+| a 2019/4/16 | [A SharePoint és a OneDrive naplók](/AlchemyInsights/classic-sharepoint-audit-log-reports) | hozzáadott |
+| a 2019/4/16 | [Műveletnaplók törlése üzenet események azonosítása](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | hozzáadott |
+| a 2019/4/16 | [Külső e-mail továbbítás a naplókat a postafiókok azonosítása](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | hozzáadott |
+| a 2019/4/16 | [Beérkezett üzenetek szabály tevékenység naplók azonosítása](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | hozzáadott |
+| a 2019/4/16 | [IP-cím és a naplókat az ügyfél azonosítása](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | hozzáadott |
+| a 2019/4/16 | [Javítási .pst fájl importálása előtt](/AlchemyInsights/repair-pst-before-importing) | hozzáadott |
+| a 2019/4/16 | [Klasszikus SharePoint naplójelentések](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | hozzáadott |
+| a 2019/4/16 | [Klasszikus SharePoint naplójelentések](/AlchemyInsights/classic-sharepoint-audit-log-reports) | módosítva |
+| a 2019/4/16 | [Külső e-mail továbbítás a naplókat a postafiókok azonosítása](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | módosítva |
+| a 2019/4/16 | [Beérkezett üzenetek szabály tevékenység naplók azonosítása](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | módosítva |
+| a 2019/4/16 | [Klasszikus SharePoint naplójelentések](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | módosítva |
+| a 2019/4/17 | [E-mail kézbesítési javításokat üzenetet engedélyező nyilvános mappákhoz](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | hozzáadott |
+| a 2019/4/17 | [Csapatok műszakok](/AlchemyInsights/teams-shifts) | módosítva |
+| a 2019/4/18 | [Törölt e-maileket a Outlook.com 8000011 helyreállítása](/AlchemyInsights/recover-deleted-email-in-outlook-com) | módosítva |

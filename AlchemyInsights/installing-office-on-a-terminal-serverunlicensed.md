@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918977"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410124"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>A terminálkiszolgálón futó Office telepítése
 
@@ -25,9 +25,9 @@ Találnak az Office 365 ProPlus a Windows Server távoli asztali szolgáltatáso
     
 Ha a telepíteni kívánt Office 365 ProPlus a távoli asztali szolgáltatások az Office 365 Portal ** *alapértelmezett telepítési beállításokat használó* **, kövesse az alábbi lépéseket: 
   
-1. Ellenőrizze, milyen Office 365 terv van. [Megtudhatja, hogyan](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Ellenőrizze, milyen Office 365 terv van. [Tájékoztatás arról, hogyan](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. Ha szükséges, váltson egy másik Office 365 tervezi. [Megtudhatja, hogyan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Ha szükséges, váltson egy másik Office 365 tervezi. [Tájékoztatás arról, hogyan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. Ha Office az RDS kiszolgáló használatával bármely más Office 365 tervek már telepítve van, távolítsa el azt. Például a Vezérlőpulton által \> távolítsa el a programot. Távolítsa el a problémák történő futtatása esetén használja a [Microsoft támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy) . 
     

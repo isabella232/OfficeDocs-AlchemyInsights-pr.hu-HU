@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: 204
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
 ms.openlocfilehash: a8cc842946372a46f103a09952568b14116036d6
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772829"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417700"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Keresse meg, és a hiányzó üzenetek, névjegykártyák vagy az Outlook naptár elemek helyreállítása
 
 - A [problémák küldése, fogadása, vagy e-mail üzenetek eszköz keresése](https://aka.ms/SaRA-OutlookSendReceive) az érintett számítógépen használható. Az eszköz ellenőrzi, hogy a problémák számát, és a lehetséges megoldásokat javasol. 
     
-- [A fiókjának megtámadása megállapítása](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Ha sérül, kövesse a [válaszol az Office 365 rendszerben egy fertőzött e-mail fiók a.](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
+- [Állapítsa meg, hogy feltörték-e a fiókot](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Ha sérül, kövesse a [válaszol az Office 365 rendszerben egy fertőzött e-mail fiók a.](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
     
 - [Az üzenet vagy az azonnali keresés elem keresése](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
     
