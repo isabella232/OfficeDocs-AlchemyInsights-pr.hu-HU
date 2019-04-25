@@ -1,5 +1,5 @@
 ---
-title: Egy fiókjának megtámadása esetén végrehajtandó lépések
+title: Javasolt lépések egy fiók feltörése esetén
 ms.author: pebaum
 author: pebaum
 ms.date: 10/2/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
 ms.openlocfilehash: 8f68244a42eeb831dfee297aa585108804ffc28b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405016"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388977"
 ---
-# <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Egy fiókjának megtámadása esetén végrehajtandó lépések
+# <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Javasolt lépések egy fiók feltörése esetén
 
-[Videó: Rögzítési biztonságos Office 365-fiókok](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEÓ: Feltört Office 365-fiók helyreállítása](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. [A felhasználói jelszó alaphelyzetbe állítása](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) azonnal. Az új jelszó e-mail-en keresztül kommunikál a végfelhasználónak. 
+1. Azonnal [állítsa alaphelyzetbe a felhasználó jelszavát](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c). Ne küldje el e-mailben az új jelszót a végfelhasználónak. 
     
-2. Távolítsa el a bármely gyanús [címek továbbítási](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74) postafiók szinten. 
+2. Távolítson el minden gyanús, a postaláda szintjén megadott [továbbítási címet](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74). 
     
-3. Távolítsa el a postaláda belül gyanús [Beérkezett üzenetekre vonatkozó szabályok](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) . 
+3. Távolítson el minden gyanús, a postaládában megadott [levelezési szabályt](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED). 
     
-4. Ha a felhasználó a küldő e-mail, [Keresse fel a korlátozott jogú felhasználók feloldása a fiók](https://protection.office.com/?hash=/restrictedusers)le van tiltva. Ezt követően az a felhasználó tudja küldje az üzeneteket 1 órán belül kell lennie.
+4. Ha a felhasználónak meg van tiltva az e-mailek küldése, nyissa meg a [Korlátozott jogú felhasználók lapot, és oldja fel a fiók zárolását](https://protection.office.com/?hash=/restrictedusers). Ezt követően a felhasználónak egy órán belül ismét el kell tudnia küldeni az üzeneteket.
     
-5. Távolítsa el a felhasználói fiók [felügyeleti csoportokat](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) , mindaddig, amíg nem biztos abban, hogy a fiók már nem sérül. 
+5. Távolítsa el a fiókot minden [rendszergazdai szerepkörű csoportból](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504), amíg meg nem győződik arról, hogy a fiókot sikerült helyreállítani. 
     
-Minimalizálása érdekében a jövőben adatok megsértése vagy feltört fiókot, ajánlott az [Office 365 biztonsági gyakorlati tanácsok cikk](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3)olvasása.
+Az adatokkal való jövőbeli visszaélések vagy a fiókok feltörésének minimalizálása érdekében azt javasoljuk, hogy olvassa el az [Office 365 biztonságával kapcsolatos ajánlott eljárásokat](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3) ismertető cikket.
   
 
