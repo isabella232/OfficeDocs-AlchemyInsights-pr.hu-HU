@@ -1,0 +1,42 @@
+---
+title: Visszahívni vagy kicserélni egy e-mailt
+ms.author: daeite
+author: daeite
+manager: joallard
+ms.date: 05/15/2019
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom: 1860
+ms.assetid: ''
+ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
+ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.translationtype: MT
+ms.contentlocale: hu-HU
+ms.lasthandoff: 05/16/2019
+ms.locfileid: "34096526"
+---
+# <a name="recall-or-replace-an-email-message"></a><span data-ttu-id="5a317-102">Visszahívni vagy kicserélni egy e-mailt</span><span class="sxs-lookup"><span data-stu-id="5a317-102">Recall or replace an email message</span></span>
+
+- <span data-ttu-id="5a317-103">**Csak a szervezet tagjai által küldött visszahívása üzeneteket**is.</span><span class="sxs-lookup"><span data-stu-id="5a317-103">You can **only recall messages that are sent to people in your organization**.</span></span> <span data-ttu-id="5a317-104">Ha az üzenet a Gmail címre lett küldve, például nem emlékszünk rá.</span><span class="sxs-lookup"><span data-stu-id="5a317-104">If the message was sent to a Gmail address, for example, you can't recall it.</span></span>
+- <span data-ttu-id="5a317-105">Lehetőség van **csak a PC-változat az Outlook 2016 küldött üzenetek visszahívása**.</span><span class="sxs-lookup"><span data-stu-id="5a317-105">You can **only recall messages sent from Outlook 2016 for the PC**.</span></span> <span data-ttu-id="5a317-106">A felhasználó Outlook for Mac és a weben az Outlook üzenetet küld, ha nem tudja visszahívni.</span><span class="sxs-lookup"><span data-stu-id="5a317-106">If a user sends a message using Outlook for Mac or Outlook on the web, you can't recall it.</span></span>
+- <span data-ttu-id="5a317-107">Ha egy rendszergazda, **üzenetek visszahívása a PowerShell segítségével a felhasználók nevében**is.</span><span class="sxs-lookup"><span data-stu-id="5a317-107">If you're an admin, you can **recall messages on behalf of users by using PowerShell**.</span></span> <span data-ttu-id="5a317-108">Az admin center üzenetek nem tudja visszahívni.</span><span class="sxs-lookup"><span data-stu-id="5a317-108">You can't recall messages from the admin center.</span></span> <span data-ttu-id="5a317-109">Görgessen le a "Search for és e-mailek törlése a szervezet" További információt.</span><span class="sxs-lookup"><span data-stu-id="5a317-109">Scroll down to "Search for and delete email messages in your organization" for more information.</span></span>
+
+<span data-ttu-id="5a317-110">***Visszahívása vagy kicserélése küldött e-mailben***</span><span class="sxs-lookup"><span data-stu-id="5a317-110">***Recall or replace an email message that you sent***</span></span>
+1. <span data-ttu-id="5a317-111">A mappalistán az Outlook ablak a bal oldalon válassza az elküldött elemek mappába.</span><span class="sxs-lookup"><span data-stu-id="5a317-111">In the folder pane on the left of the Outlook window, choose the Sent Items folder.</span></span>
+2. <span data-ttu-id="5a317-112">Nyissa meg a visszahívni kívánt üzenetet.</span><span class="sxs-lookup"><span data-stu-id="5a317-112">Open the message that you want to recall.</span></span> <span data-ttu-id="5a317-113">Az üzenet megnyitásához kattintson duplán.</span><span class="sxs-lookup"><span data-stu-id="5a317-113">You must double-click to open the message.</span></span> <span data-ttu-id="5a317-114">Jelölje ki az üzenetet, így jelenik meg az olvasóablakban nem engedélyezi, hogy az üzenet visszahívása.</span><span class="sxs-lookup"><span data-stu-id="5a317-114">Selecting the message so it appears in the reading pane won't allow you to recall the message.</span></span>
+3. <span data-ttu-id="5a317-115">Válassza ki az üzenet lap **Műveletek** > **Az üzenet visszahívása**.</span><span class="sxs-lookup"><span data-stu-id="5a317-115">From the Message tab, select **Actions** > **Recall This Message**.</span></span>
+4. <span data-ttu-id="5a317-116">**Törli az üzenet olvasatlan példányait** , vagy **törli olvasatlan példányait és cserélje le egy új üzenetet**, majd kattintson az **OK gombra**.</span><span class="sxs-lookup"><span data-stu-id="5a317-116">Choose **Delete unread copies of this message** or **Delete unread copies and replace with a new message**, then select **OK**.</span></span>
+5. <span data-ttu-id="5a317-117">Ha csere üzenetet küld üzenetet, írjuk meg az üzenetet, majd válassza a **Küldés**.</span><span class="sxs-lookup"><span data-stu-id="5a317-117">If you’re sending a replacement message, compose the message, then select **Send**.</span></span>
+6. <span data-ttu-id="5a317-118">A sikeres vagy sikertelen üzenet-visszahívásról függ, hogy a címzettek beállításait az Outlook programban.</span><span class="sxs-lookup"><span data-stu-id="5a317-118">The success or failure of a message recall depends on the recipients' settings in Outlook.</span></span> 
+
+<span data-ttu-id="5a317-119">Kapcsolatban további információk, többek között a visszahívás, ellenőrizheti a [visszahívás vagy csere küldött e-mailben](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).</span><span class="sxs-lookup"><span data-stu-id="5a317-119">For more information, including how to check on the recall, see [Recall or replace an email message that you sent](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).</span></span>
+
+<span data-ttu-id="5a317-120">***Keresse meg, és a szervezet e-mailek törlése*** Keresse meg, és a szervezet e-mail üzenetek törlése a legegyszerűbb Ha globális Admin Ha Ön nem egy globális felügyeleti, a fiók az elektronikus adatok feltárása kezelő szerepkörcsoportot, vagy a megfelelési Keresés szerepkör hozzá kell adni.</span><span class="sxs-lookup"><span data-stu-id="5a317-120">***Search for and delete email messages in your organization*** To search for and delete email messages in your organization, it's easiest if you're a global admin. If you're not a global admin, your account must be added to the eDiscovery Manager role group, or to the Compliance Search management role.</span></span> <span data-ttu-id="5a317-121">Üzenetek törlése, szüksége lesz a Szervezetkezelés szerepkör vagy a Keresés és a kiürítés szerepkör csatlakozni.</span><span class="sxs-lookup"><span data-stu-id="5a317-121">To delete messages, you'll need to join the Organization Management role group or the Search and Purge management role.</span></span> <span data-ttu-id="5a317-122">Ezek a szerepkörök az engedélyeket a [biztonsági & kompatibilitási központ](https://protection.office.com/).</span><span class="sxs-lookup"><span data-stu-id="5a317-122">Permissions to these roles are assigned in the [Security & compliance center](https://protection.office.com/).</span></span>
+
+1. <span data-ttu-id="5a317-123">[Keresés a tartalom létrehozása](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) az üzenet törlése.</span><span class="sxs-lookup"><span data-stu-id="5a317-123">[Create a content search](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) to find the message to delete.</span></span>
+2. <span data-ttu-id="5a317-124">[Biztonsági & Megfelelési központba PowerShell kapcsolódni](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).</span><span class="sxs-lookup"><span data-stu-id="5a317-124">[Connect to Security & Compliance Center PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).</span></span> 
+
+<span data-ttu-id="5a317-125">MFA használata, lásd: [Csatlakozás az Office 365 biztonsági & kompatibilitási központ PowerShell többtényezős hitelesítést használ](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).</span><span class="sxs-lookup"><span data-stu-id="5a317-125">If you're using MFA, see [Connect to Office 365 Security & Compliance Center PowerShell using multi-factor authentication](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).</span></span> 
