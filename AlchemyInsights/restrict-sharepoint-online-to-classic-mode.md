@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422177"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761761"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Klasszikus módú SharePoint Online korlátozása
 
-Egyes szervezetek továbbra is csak a klasszikus mód tapasztalat. Nem is tervezzük alapszinten Klasszikus módú eltávolítása, míg indítása április 1,2019, hogy többé nem lehet korlátozni a teljes szervezet (bérlő) listák és tárak klasszikus módba.
+Egyes szervezetek továbbra is csak a klasszikus mód tapasztalat. Nem tervezik alapszinten Klasszikus módú eltávolítása, amíg már nem korlátozhatja a klasszikus módban a listák és tárak teljes szervezeten (bérlő) lehetséges.
 
 Az admin lesz egyéni listák és tárak klasszikus módban kapcsolókkal granulált lemondja, amit adunk a következő szinteken kezelheti a következők:
 
@@ -28,6 +28,6 @@ Az admin lesz egyéni listák és tárak klasszikus módban kapcsolókkal granul
 
 Ezenkívül bizonyos szolgáltatásokat használó listák és modern által nem támogatott testreszabási beállításokat fogja továbbra is lehet automatikusan üzemmódba kell kapcsolni klasszikus.
 
-Után április 1 listák és tárak, amelyek eredményeként a bérlő opt-out klasszikus módban automatikusan kezelik a webhely szinten és a szint.
+Kezdődő április 1, 2019, a folyamat letiltása a bérlő szint befejezése mellett modern lista és könyvtárak elindítja, és folytassa a 2019 május 31-ig.  A listák és tárak, amelyek eredményeként a bérlő opt-out klasszikus módban a program automatikusan kell mozgatni, hogy a modern.
 
-Klasszikus módú van szüksége további információt itt talál, és a PnP Powershell utasítás itt, amely leírja a beállítások és eszközök segítségével ma előkészítése a helyi szintű lemondja április 1-jén megszüntetését.
+Ha a klasszikus módban van szüksége további információt talál [Itt](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) és a PnP Powershell instruction [Itt](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) , amely leírja a beállítások és eszközök segítségével ma a klasszikus módban felület használatára.

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 5101366ff65f477c19b9c7f2c0d7065cf88501b0
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 3227f10270148c0e515b687c48058affa4d2be70
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735145"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34759083"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Korlátozza a hozzáférést a SharePoint- vagy OneDrive
 
@@ -23,25 +23,25 @@ Engedélyek korlátozása
 
 A SharePoint Online és az üzleti OneDrive azt korlátozza a hozzáférést elemekhez, például a webhelyek, fájlok és mappák csak a csoportok/személyek rendelkezzenek hozzáféréssel való hozzáférés biztosítása által.
 
-[SharePoint-lista vagy tár engedélyeinek testreszabása](https://support.office.com/en-us/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+[SharePoint-lista vagy tár engedélyeinek testreszabása](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-[A SharePoint webhely engedélyeinek testreszabására](https://docs.microsoft.com/en-us/sharepoint/customize-sharepoint-site-permissions)
+[A SharePoint webhely engedélyeinek testreszabására](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-[Almappa engedélyeinek módosítása](https://support.office.com/en-us/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+[Almappa engedélyeinek módosítása](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-[Nem kezelt eszközök hozzáférésének kezelése](https://docs.microsoft.com/en-us/sharepoint/control-access-from-unmanaged-devices)
+[Nem kezelt eszközök hozzáférésének kezelése](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
 SharePoint vagy az Office 365 globális rendszergazda zárolhatja vagy korlátozza a hozzáférést a SharePoint-és OneDrive a nem kezelt eszközök (a hibrid illesztett vagy kompatibilis az Intune AD).
 
 Hálózati hely korlátozás
 
-INFORMATIKAI rendszergazdaként szabályozhatja a meghatározott hálózati helyeken megbízható alapuló SharePoint és OneDrive erőforrásokhoz való hozzáférést. Ez a hely alapú házirend néven is ismert. További információt talál [a SharePoint Online és a OneDrive adatok hálózati hely alapján való hozzáférés szabályozása](https://docs.microsoft.com/en-us/sharepoint/control-access-based-on-network-location)
+INFORMATIKAI rendszergazdaként szabályozhatja a meghatározott hálózati helyeken megbízható alapuló SharePoint és OneDrive erőforrásokhoz való hozzáférést. Ez a hely alapú házirend néven is ismert. További információt talál [a SharePoint Online és a OneDrive adatok hálózati hely alapján való hozzáférés szabályozása](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
 Webhelykorlátozás zárolása 
 
-SharePoint Online belül, hogy a számítógép zárolásához a webhelycsoportot, így ne hozzáférése van. A PowerShell és a [SharePoint Online felügyeleti rendszerhéj](https://docs.microsoft.com/en-us/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) segítségével a [Set-SPOSite](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) - LockState tulajdonság értéke.
+SharePoint Online belül, hogy a számítógép zárolásához a webhelycsoportot, így ne hozzáférése van. A PowerShell és a [SharePoint Online felügyeleti rendszerhéj](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) segítségével a [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) - LockState tulajdonság értéke.
 
 Webhelyek és alwebhelyek létrehozását követően a felhasználók korlátozása
 
-A SharePoint felügyeleti vagy Office 365 globális felügyeleti lehetővé teszik a felhasználók létrehozása és a saját SharePoint-webhelyek felügyelete, meghatározza, milyen típusú webhelyeket hozhatnak létre, és a webhelyek elérési útja. További információért lásd [kezelés webhely létrehozása a SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation)
+A SharePoint felügyeleti vagy Office 365 globális felügyeleti lehetővé teszik a felhasználók létrehozása és a saját SharePoint-webhelyek felügyelete, meghatározza, milyen típusú webhelyeket hozhatnak létre, és a webhelyek elérési útja. További információért lásd [kezelés webhely létrehozása a SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

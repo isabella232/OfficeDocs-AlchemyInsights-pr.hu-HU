@@ -12,24 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 76aba7b2c065e78364ba48eabdae1436e2e6e9cc
-ms.sourcegitcommit: f2b5fdfde0b407828b06fa5c91403c960a30294f
+ms.openlocfilehash: ff9fa79aa4124c7af0521e07a5f1ce243f9e7f47
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34738058"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757329"
 ---
 # <a name="upgrade-to-visio-2019"></a>Frissítés a Visio 2019
 
-A Visio Online-előfizetés részeként telepítette a Visio asztali alkalmazás, ha már rendelkezik a legújabb verzióra. Hasonlítsuk össze a Visio tervek és nem előfizetési beállítások, lásd: összehasonlítása a Visio beállításai.
+A Visio asztali alkalmazás már a Visio Online előfizetés részeként telepített felhasználók legújabb verziójával rendelkezik. 
 
-Ha például a Visio 2016 Visio nem előfizetéses verzióját és Visio 2019 Visio 2019 vásárolni, vagy a Visio Online előfizetést vásárolni kell frissíteni. Ha már telepítette a Visio 2019, és készen áll a telepítés, lásd: a [Visio telepítése](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798). 
+Egy nem előfizetéses verzióját, például a Visio 2016 frissítéséhez meg kell vásárolnia a Visio Online előfizetés vagy Visio Standard vagy Professional 2019 látási egyszeri beszerzési. [Hasonlítsa össze a Visio beállításai](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options)témakörben talál.
 
-Ha Office Visio egymás mellett ugyanazon a számítógépen található rendszert telepíti, olvassa el a [támogatott forgatókönyvek különböző verzióit az Office, a projekt, és a Visio ugyanarra a számítógépre telepíteni](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
+Ha már vásárolt egy újabb verzió, és készen áll a telepítés, lásd a [Visio telepítése](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) , és hajtsa végre a megfelelő verziójára vonatkozó lépéseket. 
 
-**Megjegyzés**: A Visio 2019 főverziója, 16,0 tartózkodik.
+Office Visio egymás mellé telepíti, lásd: [támogatott forgatókönyvek különböző verzióit az Office, a projekt, és a Visio ugyanarra a számítógépre telepíteni](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
-További információért lásd: [telepítési útmutató a Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)
-[Visio 2019 főverziószám tartózkodik, 16,0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)
-[év Office 2016 és az Office 365 ügyfélalkalmazások megjelölés eltávolítja a Start menü tételek](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) 
- [Office 2019 kereskedelmi for Windows és Mac Gyakran ismételt kérdések](https://support.microsoft.com/help/4133312) 
+További információ:<br>
+[A Visio telepítési útmutatója](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[A Visio 2019 főverziószám tartózkodik, 16,0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Év jelölése az ügyfélalkalmazások Office 2016 és az Office 365 eltávolítja a Start menü tételek](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Office 2019 kereskedelmi for Windows és Mac Gyakran ismételt kérdések](https://support.microsoft.com/help/4133312) 
