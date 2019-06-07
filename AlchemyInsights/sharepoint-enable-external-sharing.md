@@ -7,18 +7,43 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 48259de7b605f667ce424d3c8be00362b08ea716
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719869"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760660"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>A SharePoint Online külső megosztásának engedélyezése
 
-Ha a szervezet végez munkát, amely magában foglalja a dokumentumok megosztására, vagy közvetlenül a szállítók, ügyfelek vagy ügyfelek való együttműködés, akkor használhatja a <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview">külső SharePoint online szolgáltatások megosztása</a> megosztása kívüli személyeknek a szervezet.
+Ha a szervezet végez munkát, amely magában foglalja a dokumentumok megosztására, vagy közvetlenül a szállítók, ügyfelek vagy ügyfelek való együttműködés, akkor használhatja a [külső SharePoint online szolgáltatások megosztása](https://docs.microsoft.com/sharepoint/external-sharing-overview) megosztása kívüli személyeknek a szervezet.
 
-További információt a külső megosztását (vendégek) kérjük látogasson el az alábbi hivatkozásokra.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user">Mi az a külső felhasználó?</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document">Mi történik, ha egy webhely vagy dokumentum megosztása?</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off">A külső megosztás be- és kikapcsolása a SharePoint Online-ban</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site">Kapcsolja be a külső webhely megosztásának be- és kikapcsolása</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide">Vendégként való hozzáférés, az Office 365-csoportok kezelése</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet">Extranet üzleti business (B2B) megoldás a Sharepoint Online használata</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c">SharePoint-fájl vagy mappa megosztása</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US">OneDrive vagy a SharePoint-fájlok vagy mappák megosztását, vagy az engedélyek módosítása</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center"><span style="color: #0066cc; background: #BFE6FF;">Külső felhasználó törlése
+További információt a külső megosztását (vendégek) kérjük látogasson el az alábbi hivatkozásokra.
 
-Hibaüzenetet kap a külső felhasználó (vendég)? &nbsp;Az alábbi hivatkozások ellenőrzése. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message">Hibák OSE megosztása Sharepoint vagy OneDrive</a></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0">Hibaüzenet jelenik meg, ha egy külső felhasználó SharePoint Online meghívást elfogad egy másik fiókkal</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f">Hozzáférés megtagadva a megosztott mappa</a>&nbsp;</span></li> </ul>
+[Mi az a külső felhasználó?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
+[Mi történik, ha egy webhely vagy dokumentum megosztása?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+[A külső megosztás be- és kikapcsolása a SharePoint Online-ban](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+
+[Kapcsolja be a külső webhely megosztásának be- és kikapcsolása](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Vendégként való hozzáférés, az Office 365-csoportok kezelése](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+
+[Extranet üzleti business (B2B) megoldás a Sharepoint Online használata](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[SharePoint-fájl vagy mappa megosztása](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[OneDrive vagy a SharePoint-fájlok vagy mappák megosztását, vagy az engedélyek módosítása](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Külső felhasználó törlése](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Hibaüzenetet kap a külső felhasználó (vendég)?
+
+Az alábbi hivatkozások ellenőrzése 
+
+- [Hibák OSE megosztása Sharepoint vagy OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+
+- [Hibaüzenet jelenik meg, ha egy külső felhasználó SharePoint Online meghívást elfogad egy másik fiókkal](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+
+- [Hozzáférés megtagadva a megosztott mappa](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)

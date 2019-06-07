@@ -8,14 +8,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d667fe18c8d79a33ea52d50f5bd2325829b29f84
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: b44e5d5aba5ef11e4f79ac775c6ae3f014d70d8a
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34720289"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34762296"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Automatikusan létrehozott új adatmegőrzési címkék
 
-<p><span style="font-family: 'Segoe UI',sans-serif;">A legtöbb szervezet, mennyisége és összetettsége az adataikat növekszik naponta - e-mail, dokumentumok, azonnali üzenetek, és így tovább.</span> Hatékony kezelése vagy az irányadó Ez az információ fontos, adatmegőrzési segíthetnek e célok elérése érdekében. Adatmegőrzési szabályok kapcsolatos további tudnivalókért látogasson el az alábbi hivatkozásokra.</p> <ul> <li><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies">Adatmegőrzési szabályok áttekintése</a></li> <li><a href="https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies">Adatmegőrzési címkéket és adatmegőrzési szabályok</a></li> <li><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations">Az egész szervezetre, vagy adott helyek egy adatmegőrzési szabály alkalmazása</a></li> <li><a href="https://docs.microsoft.com/en-us/alchemyinsights/retention-policies-in-exchange-admin-center-not-working">Az Exchange felügyeleti központban újonnan létrehozott vagy frissített adatmegőrzési szabályok nem alkalmazzák a postafiókok</a></li> </ul>
+A legtöbb szervezet, mennyisége és összetettsége az adataikat növekszik naponta - e-mail, dokumentumok, azonnali üzenetek, és így tovább.
+
+Hatékony kezelése vagy az irányadó Ez az információ fontos, adatmegőrzési segíthetnek e célok elérése érdekében. Adatmegőrzési szabályok kapcsolatos további tudnivalókért látogasson el az alábbi hivatkozásokra.
+
+[Adatmegőrzési szabályok áttekintése](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+
+[Adatmegőrzési címkéket és adatmegőrzési szabályok](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+
+[Az egész szervezetre, vagy adott helyek egy adatmegőrzési szabály alkalmazása](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)
+
+[Az Exchange felügyeleti központban újonnan létrehozott vagy frissített adatmegőrzési szabályok nem alkalmazzák a postafiókok](https://docs.microsoft.com/alchemyinsights/retention-policies-in-exchange-admin-center-not-working)
 
