@@ -11,23 +11,28 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b20692042917935eda213aa0e27b2a739a50e3d9
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 74b79efeb7e46d03dc55f46252d152cd13e66c84
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34716264"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757817"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>SharePoint-fájlok szinkronizálása a OneDrive új szinkronizálási ügyfelével
 
-<p>
-  <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">A Megnyitás Intézővel parancs megnyitja a Windows Explorer egy helyi példányát, amely a SharePoint-webhely kiszolgálójának mappaszerkezetét jeleníti meg. Emiatt azt javasoljuk, hogy a <a href="https://support.office.com/hu-HU/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88">SharePoint-fájlokat a OneDrive szinkronizálási klienssel szinkronizálja</a>, amely támogatja az <a href="https://support.office.com/hu-HU/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e">Igény szerinti fájlok</a> funkciót, mert helyi hozzáférést biztosít fájljaihoz és ez kínálja a legjobb teljesítményt</span></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Ha úgy dönt, hogy az új szinkronizálási kliens helyet a tallózó nézetet használja, kövesse az ebben a cikkben leírt lépéseket és gyakorlati tanácsokat.</span></p> <ul> <li>
-  <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">
-  <a href="https://support.office.com/hu-HU/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4">A „Megnyitás Intézővel“ parancs használata a SharePoint Online-ban előforduló hibák elhárításához</a></span></li> <li>
-  <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">
-  <a href="https://support.office.com/hu-HU/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2">A mappában lévő fájlok másolása vagy áthelyezése a Megnyitás Intézővel parancs használatával</a></span></li> </ul> <p><strong style="mso-bidi-font-weight: normal;"><u><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Megjegyzés:</span></u></strong><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;"> A Megnyitás Intézővel gomb az új felületen nem jelenik meg. Kattintson a jobb felső sarokban lévő <strong>Nézet</strong> legördülő menüre (a legördülő menü neve az aktuális nézettől függően változik), majd az Intézőben a <strong>Nézet</strong> elemre.</span></p> <p><strong style="mso-bidi-font-weight: normal;"><u><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Megjegyzés:</span></u></strong><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;"> A SharePoint Megnyitás Intézővel parancsa <strong>ActiveX vezérlőket</strong> használ, ezért azt csak az Internet Explorer 10 és 11 támogatja. A Megnyitás Intézővel parancs nem működik Windows operációs rendszer futtató számítógépeken a Microsoft Edge, Google Chrome és Mozilla Firefox alkalmazásokban, valamint Mac platformon sem. Emiatt a &ldquo;Tallózó nézet&rdquo; opció szürkén fog megjelenni.</span></p> <ul> <li>
-  <span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">
-  <a href="https://support.office.com/hu-HU/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca">Miért nem érhetők el vagy szürkék a gombok a SharePoint menüszalagján?</a></span></li> </ul> <p>&nbsp;</p>
+A Megnyitás Intézővel parancs megnyitja a Windows Intéző egy helyi példányát, amely a SharePoint webhely kiszolgálójának mappaszerkezetét jeleníti meg. Ezért javasoljuk [a SharePoint-fájlok szinkronizálását a OneDrive új szinkronizálási ügyfelével,](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a> amely az [Igény szerinti fájlok](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) funkcióval helyi hozzáférést biztosít a fájlokhoz, és a legjobb teljesítményt nyújtja.
 
+
+Ha úgy dönt, hogy az új szinkronizálási ügyfél helyett a Tallózó nézetet használja, kövesse az alábbi cikkben leírt lépéseket és gyakorlati tanácsokat.
+
+- [A „Megnyitás Intézővel“ parancs használata a SharePoint Online-ban előforduló hibák elhárításához](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)
+
+- [Tárban lévő fájlok másolása vagy áthelyezése a Megnyitás Intézővel parancs használatával](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
+
+Megjegyzés: A Megnyitás Intézővel gomb nem jelenik meg az új tár felületén. Kattintson a jobb felső sarokban lévő Nézet legördülő menüre (a legördülő menü neve az aktuális nézettől függően változik), majd a Fájlkezelőben a Nézet elemre.
+
+ A SharePoint Megnyitás Intézővel parancsa ActiveX-vezérlőket használ, ezért az csak az Internet Explorer 10-es vagy 11-es verziójában támogatott. A Megnyitás Intézővel parancs nem használható a Windowsban a Microsoft Edge, a Google Chrome, a Mozilla Firefox böngészővel, illetve a Mac platformon. Emiatt előfordulhat, hogy a Tallózó nézet beállítás szürkén jelenik meg.
+
+- [Miért nem érhetők el vagy szürkék a gombok a SharePoint menüszalagján?](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca)
   
 

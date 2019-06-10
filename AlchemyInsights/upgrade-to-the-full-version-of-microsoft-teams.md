@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cec2d8ee096f67748bbb38f36c56fb20b586f840
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390357"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771380"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>A teljes verziójának a Microsoft Teams
 
-Kell frissíteni a szabad teljes változatát a Microsoft Teams? Lásd: [Frissítés a Microsoft Office 365-előfizetés verzió szabadon csapatok](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)
+Kell frissíteni a szabad teljes változatát a Microsoft Teams? Lásd: [Frissítés a Microsoft Office 365-előfizetés verzió szabadon csapatok](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
 Ezek a követelmények teljesítéséhez szüksége:
 - Te vagy a személy, aki regisztrált csoportok ingyenes verzióját.

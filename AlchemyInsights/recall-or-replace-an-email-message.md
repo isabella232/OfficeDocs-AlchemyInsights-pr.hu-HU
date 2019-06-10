@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096526"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770811"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Visszahívni vagy kicserélni egy e-mailt
 
@@ -36,7 +36,7 @@ Kapcsolatban további információk, többek között a visszahívás, ellenőri
 
 ***Keresse meg, és a szervezet e-mailek törlése*** Keresse meg, és a szervezet e-mail üzenetek törlése a legegyszerűbb Ha globális Admin Ha Ön nem egy globális felügyeleti, a fiók az elektronikus adatok feltárása kezelő szerepkörcsoportot, vagy a megfelelési Keresés szerepkör hozzá kell adni. Üzenetek törlése, szüksége lesz a Szervezetkezelés szerepkör vagy a Keresés és a kiürítés szerepkör csatlakozni. Ezek a szerepkörök az engedélyeket a [biztonsági & kompatibilitási központ](https://protection.office.com/).
 
-1. [Keresés a tartalom létrehozása](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) az üzenet törlése.
-2. [Biztonsági & Megfelelési központba PowerShell kapcsolódni](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Keresés a tartalom létrehozása](https://docs.microsoft.com/office365/securitycompliance/content-search) az üzenet törlése.
+2. [Biztonsági & Megfelelési központba PowerShell kapcsolódni](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-MFA használata, lásd: [Csatlakozás az Office 365 biztonsági & kompatibilitási központ PowerShell többtényezős hitelesítést használ](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+MFA használata, lásd: [Csatlakozás az Office 365 biztonsági & kompatibilitási központ PowerShell többtényezős hitelesítést használ](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

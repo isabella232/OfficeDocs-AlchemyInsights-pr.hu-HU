@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 997
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 65b953ef5c090b59aa2665e29ef3fda92adb8a30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420848"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771416"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Feliratkozás a csapatok szabad szeretném, de nem lehet.
 
-- Ha használja az Office 365 munka vagy iskola figyelembe, ez ingyenes ajánlat nem áll rendelkezésre. A szervezeti azonban már használja a csoportok. Ha nem, akkor keresse fel a [Microsoft csapatok](https://products.office.com/en-us/microsoft-teams/group-chat-software) , ha nem jogosult ingyenes próbaverzióját.
+- Ha használja az Office 365 munka vagy iskola figyelembe, ez ingyenes ajánlat nem áll rendelkezésre. A szervezeti azonban már használja a csoportok. Ha nem, akkor keresse fel a [Microsoft csapatok](https://products.office.com/microsoft-teams/group-chat-software) , ha nem jogosult ingyenes próbaverzióját.
 
 - Felsőoktatási intézmények nem jogosult ingyenes ajánlat. Tanárok és diákok, azonban a Microsoft Teams teljes verzióját tartalmazza, az Office 365 ingyenes változata juthat. Lásd a [Csapatok a Microsoft Office 365 licencelés](https://docs.microsoft.com/microsoftteams/office-365-licensing).
 
