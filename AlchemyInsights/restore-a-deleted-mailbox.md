@@ -9,12 +9,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: ed76b06d20bdaa74708ac6d95902f4c726838071
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom: ''
+ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761797"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34899535"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Törölt postaláda visszaállítása
 
@@ -23,11 +24,10 @@ A felhasználó elveszíti az Exchange Online licencet, ha a postaládák 30 nap
 A portál:
   
 - Válassza a **Felhasználók** \> **Aktív felhasználók** elemet. Jelölje ki a kérdéses felhasználót.
-    
-- Válasszon ** Szerkesztés ** terméklicencek módosítása. 
-    
+
+- Válassza a **Szerkesztés** terméklicencek módosítása.
+
 - Az Exchange Online licencet a felhasználóhoz rendelni, és válassza a **Mentés**.
-    
+
 Megosztott postaládák akkor is helyreállítható 30 napon belül. A **felhasználók** megosztott postaládák található \> **törölt felhasználókat**. Megosztott postaládák egy Exchange Online licencet nem igényelnek.
   
-
