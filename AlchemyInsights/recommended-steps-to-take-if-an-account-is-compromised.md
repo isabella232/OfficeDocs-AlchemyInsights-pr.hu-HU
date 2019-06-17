@@ -19,7 +19,7 @@ ms.locfileid: "32388977"
 
 [VIDEÓ: Feltört Office 365-fiók helyreállítása](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. Azonnal [állítsa alaphelyzetbe a felhasználó jelszavát](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c). Ne küldje el e-mailben az új jelszót a végfelhasználónak. 
+1. Azonnal [állítson be új jelszót a felhasználónak](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c). Ne küldje el e-mailben az új jelszót a végfelhasználónak. 
     
 2. Távolítson el minden gyanús, a postaláda szintjén megadott [továbbítási címet](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74). 
     

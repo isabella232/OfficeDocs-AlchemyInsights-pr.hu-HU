@@ -22,7 +22,7 @@ ms.locfileid: "32417356"
 
 Az Office-ügyfélappok telepítéséhez ellenőrizze, hogy vállalati verziós, például Office 365 Vállalati prémium verziós, Office 365 Vállalati verziós vagy Office 365 Oktatási verziós előfizetéssel rendelkezik-e.
   
-*Megjegyzés: Az [Office 2016 Otthoni és kisvállalati verzió](https://products.office.com/home-and-business) egy [otthoni használatra szánt Office-termék](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), és nem egy vállalati verzió része. A Visióra vagy a Projectre vonatkozó utasításokért lásd: A [Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) vagy a [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281) telepítése*
+*Megjegyzés: Az [Office 2016 Otthoni és vállalati verzió](https://products.office.com/home-and-business) [otthoni használatra szánt Office-termék](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), és nem egy vállalati verzió része. A Visióra vagy a Projectre vonatkozó utasításokért lásd: A [Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) vagy a [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281) telepítése*
 
 Hozza létre a felhasználói fiókokat, és vegye fel a tartományát. Győződjön meg arról, hogy a felhasználó rendelkezik [hozzárendelt licenccel](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
     
