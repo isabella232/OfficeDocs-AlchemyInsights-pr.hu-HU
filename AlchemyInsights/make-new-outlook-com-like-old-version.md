@@ -1,35 +1,33 @@
 ---
-title: 8000035 hogyan lehet az új Outlook.com megjelenést, mint a régit.
+title: Hogyan lehet az új Outlook.com megjelenést, mint a régit.
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409404"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117615"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a><span data-ttu-id="ae56d-102">Hogyan lehet az új Outlook.com megjelenést, mint a régi verzió</span><span class="sxs-lookup"><span data-stu-id="ae56d-102">How to make the new Outlook.com look like the old version</span></span>
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a><span data-ttu-id="61842-102">Hogyan lehet az új Outlook.com megjelenést, mint a régi verzió</span><span class="sxs-lookup"><span data-stu-id="61842-102">How to make the new Outlook.com look like the old version</span></span>
 
-<span data-ttu-id="ae56d-103">Az alábbiakban néhány beállítások és nézetek módosíthatja, hogy a régi verzió új Outlook.com kinézetét.</span><span class="sxs-lookup"><span data-stu-id="ae56d-103">Here are some settings and views you can change to make the new Outlook.com look like the old version.</span></span>
+<span data-ttu-id="61842-103">Az alábbiakban néhány beállításait módosíthatja, hogy a régi verzió új Outlook.com kinézetét:</span><span class="sxs-lookup"><span data-stu-id="61842-103">Here are some settings you can change to make the new Outlook.com look like the old version:</span></span>
 
-1. <span data-ttu-id="ae56d-104">Válassza ki a beállítások megnyitása a lap tetején a fogaskerék ikon jelzi.</span><span class="sxs-lookup"><span data-stu-id="ae56d-104">Select the gear icon at the top of the page to open Settings.</span></span>
-2. <span data-ttu-id="ae56d-105">Válassza ki a kívánt **témát**.</span><span class="sxs-lookup"><span data-stu-id="ae56d-105">Select your preferred **Theme**.</span></span>
-3. <span data-ttu-id="ae56d-106">**Beszélgetés nézet** módosítása a **legújabb**üzeneteket legfelül.</span><span class="sxs-lookup"><span data-stu-id="ae56d-106">Change **Conversation view** to **Newest messages on top**.</span></span>
-4. <span data-ttu-id="ae56d-107">**Az Olvasóablak** **elrejtéséhez**módosítása</span><span class="sxs-lookup"><span data-stu-id="ae56d-107">Change **Reading pane** to **Hide**.</span></span>
-5. <span data-ttu-id="ae56d-108">Váltás **Focused Beérkezett üzenetek** **kikapcsolása**.</span><span class="sxs-lookup"><span data-stu-id="ae56d-108">Switch **Focused inbox** to **Off**.</span></span>
-6. <span data-ttu-id="ae56d-109">Váltás a **Feladó kép** **off**.</span><span class="sxs-lookup"><span data-stu-id="ae56d-109">Switch **Sender image** to **Off**.</span></span> 
-7. <span data-ttu-id="ae56d-110">Váltás az **üzenetek csoportosítása dátum szerint** **off**.</span><span class="sxs-lookup"><span data-stu-id="ae56d-110">Switch **Group messages by date** to **Off**.</span></span> 
-8. <span data-ttu-id="ae56d-111">**Melléklet minta** Váltás **off**.</span><span class="sxs-lookup"><span data-stu-id="ae56d-111">Switch **Attachment preview** to **Off**.</span></span> 
-9. <span data-ttu-id="ae56d-112">**Minta üzenetszöveg** térjünk át **a**.</span><span class="sxs-lookup"><span data-stu-id="ae56d-112">Switch **Message preview text** to **On**.</span></span>
+1. <span data-ttu-id="61842-104">Ugrás a [Nyomtatásielrendezés-beállítások](https://outlook.live.com/mail/options/mail/layout).</span><span class="sxs-lookup"><span data-stu-id="61842-104">Go to [Layout settings](https://outlook.live.com/mail/options/mail/layout).</span></span>
+1. <span data-ttu-id="61842-105">A **Focused Beérkezett üzenetek mappára**válassza az **üzenetek rendezése nem**.</span><span class="sxs-lookup"><span data-stu-id="61842-105">Under **Focused inbox**, select **Don't sort my messages**.</span></span>
+1. <span data-ttu-id="61842-106">**Üzenet szervezet**csoportban jelölje be a **legújabb üzeneteket legfelül**.</span><span class="sxs-lookup"><span data-stu-id="61842-106">Under **Message organization**, select **Newest messages on top**.</span></span>
+1. <span data-ttu-id="61842-107">**Feladó kép**csoportban **Feladó képek nem jelennek**meg.</span><span class="sxs-lookup"><span data-stu-id="61842-107">Under **Sender image**, select **Don't show sender images**.</span></span>
+1. <span data-ttu-id="61842-108">Csoportban **Az Olvasóablak** **Olvasóablak elrejtéséhez**.</span><span class="sxs-lookup"><span data-stu-id="61842-108">Under **Reading pane**, select **Hide reading pane**.</span></span>
+1. <span data-ttu-id="61842-109">A **minta üzenetszöveg** **megjelenítése szöveg**kiválasztása</span><span class="sxs-lookup"><span data-stu-id="61842-109">Under **Message preview text**, select **Show preview text**.</span></span>
+1. <span data-ttu-id="61842-110">Csoportban **beágyazott előnézeti képek**, **ne jelenjen meg az üzenetlistában mellékletek**.</span><span class="sxs-lookup"><span data-stu-id="61842-110">Under **Inline previews**, select **Don't show attachments in message list**.</span></span>
 
-<span data-ttu-id="ae56d-113">Megjegyzés: Ezek a csak néhány ajánlott beállítások, ami lehetővé teszi a legközelebbi lehetséges elrendezést Outlook.com klasszikus változatát.</span><span class="sxs-lookup"><span data-stu-id="ae56d-113">Note: These are just some recommended settings which can provide the closest possible layout to the classic version of Outlook.com.</span></span> <span data-ttu-id="ae56d-114">A kívánt beállítást is függ.</span><span class="sxs-lookup"><span data-stu-id="ae56d-114">It will still depend on your desired settings.</span></span>
-
-<span data-ttu-id="ae56d-115">A Mail beállítások módosítása, így a Beérkezett üzenetek mappában keres, és a kívánt módon viselkedik, lásd: [személyre szabása a új levelezési felhasználói élmény Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span><span class="sxs-lookup"><span data-stu-id="ae56d-115">To change your Mail settings so your inbox looks and behaves the way you want it to, see [Personalize your new Mail experience in Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).</span></span>
+<span data-ttu-id="61842-111">A Mail beállítások módosítása, így a Beérkezett üzenetek mappában keres, és a kívánt módon viselkedik, lásd: [a postaláda Outlook.com és az új Outlook webes megjelenésének módosítása](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="61842-111">To change your Mail settings so your inbox looks and behaves the way you want it to, see [Change the look of your mailbox in Outlook.com and the new Outlook on the web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

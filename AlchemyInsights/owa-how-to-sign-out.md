@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643442"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273604"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="547a1-102">Belépés az Outlook programot a weben</span><span class="sxs-lookup"><span data-stu-id="547a1-102">How to sign out of Outlook on the web</span></span>
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="fff64-102">Belépés az Outlook programot a weben</span><span class="sxs-lookup"><span data-stu-id="fff64-102">How to sign out of Outlook on the web</span></span>
 
-1. <span data-ttu-id="547a1-103">Válassza ki a nevet vagy a kép jobb felső sarkában.</span><span class="sxs-lookup"><span data-stu-id="547a1-103">Select your name or picture at the top right corner.</span></span>
-    
-    <span data-ttu-id="547a1-104">Ha nem jelenik meg a kép a képernyő tetejére, ellenőrizze, hogy ha ad blokkolása be van kapcsolva.</span><span class="sxs-lookup"><span data-stu-id="547a1-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="547a1-105">Néha ez megakadályozza, hogy a kép megjelenítése.</span><span class="sxs-lookup"><span data-stu-id="547a1-105">Sometimes this prevents the picture from showing.</span></span>
-    
-2. <span data-ttu-id="547a1-106">Válassza a **Kijelentkezés**.</span><span class="sxs-lookup"><span data-stu-id="547a1-106">Select **Sign out**.</span></span> 
-    
-    <span data-ttu-id="547a1-107">Automatikusan bejelentkezni a munka vagy iskola fiók, törölje a jelet a jelölőnégyzetből a **bejelentkezve szeretnék** az oldalon, ahol adja meg a jelszót.</span><span class="sxs-lookup"><span data-stu-id="547a1-107">To stop automatically signing in to your work or school account, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
-    
-<span data-ttu-id="547a1-108">További információért lásd: [Jelentkezzen be, vagy az Outlook programot a weben](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="547a1-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
+<span data-ttu-id="fff64-103">Jelentkezzen ki az Outlook az interneten, válassza ki a nevet vagy a kép jobb felső sarkában, és válassza a **Kijelentkezés**.</span><span class="sxs-lookup"><span data-stu-id="fff64-103">To sign out of Outlook on the web, select your name or picture at the top right corner and select **Sign out**.</span></span>
+
+<span data-ttu-id="fff64-104">Leállítja a munka vagy iskola fiók automatikusan bejelentkezni:</span><span class="sxs-lookup"><span data-stu-id="fff64-104">To stop automatically signing in to your work or school account:</span></span>
+
+1. <span data-ttu-id="fff64-105">Jelölje ki a nevet vagy a képet, és válassza a **Kijelentkezés**.</span><span class="sxs-lookup"><span data-stu-id="fff64-105">Select your name or picture and select **Sign out**.</span></span>
+1. <span data-ttu-id="fff64-106">Ugrás a [Outlook.office.com](https://outlook.office.com/) , és jelöljön ki **egy másik fiókot használja**.</span><span class="sxs-lookup"><span data-stu-id="fff64-106">Go to [Outlook.office.com](https://outlook.office.com/) and select **Use another account**.</span></span>
+1. <span data-ttu-id="fff64-107">Jelentkezzen be a használni kívánt e-mail címet.</span><span class="sxs-lookup"><span data-stu-id="fff64-107">Sign in with the email address you want to use.</span></span>
+
+<span data-ttu-id="fff64-108">További információért lásd: [Jelentkezzen be, vagy az Outlook programot a weben](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="fff64-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
