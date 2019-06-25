@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: ''
-ms.openlocfilehash: 4298bb2ac29affef0c879f567ea62d0a149c2139
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.custom:
+- "9000641"
+- "2478"
+ms.openlocfilehash: 88d6cae01da1142f0d087592920f8cc2b5b33bf2
+ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34934076"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35079280"
 ---
 # <a name="fix-outlook-on-the-web-sync-issues"></a>A weben az Outlook Szinkronizációs problémák megoldása
 
@@ -28,4 +30,4 @@ Az Outlook a weben látható a mobil eszközök segítségével csatlakozni a po
 
 Több, lásd: [javítás e-mail szinkronizálási problémák, és az Outlook a webes postaláda eszköz eltávolítása](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992)
 
-*Megjegyzés:* Csatlakoztatott fiókok Outlook webes már nem támogatottak. További, lásd a [kapcsolódó számlák már nem támogatja az Outlook programban a weben](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)
+*Megjegyzés:* Csatlakoztatott fiókok Outlook webes már nem támogatottak. További, lásd a [kapcsolódó számlák már nem használhatók az Outlook programban a weben](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)

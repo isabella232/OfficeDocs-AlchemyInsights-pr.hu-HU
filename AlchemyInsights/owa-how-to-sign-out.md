@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643442"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273604"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>Belépés az Outlook programot a weben
 
-1. Válassza ki a nevet vagy a kép jobb felső sarkában.
-    
-    Ha nem jelenik meg a kép a képernyő tetejére, ellenőrizze, hogy ha ad blokkolása be van kapcsolva. Néha ez megakadályozza, hogy a kép megjelenítése.
-    
-2. Válassza a **Kijelentkezés**. 
-    
-    Automatikusan bejelentkezni a munka vagy iskola fiók, törölje a jelet a jelölőnégyzetből a **bejelentkezve szeretnék** az oldalon, ahol adja meg a jelszót. 
-    
+Jelentkezzen ki az Outlook az interneten, válassza ki a nevet vagy a kép jobb felső sarkában, és válassza a **Kijelentkezés**.
+
+Leállítja a munka vagy iskola fiók automatikusan bejelentkezni:
+
+1. Jelölje ki a nevet vagy a képet, és válassza a **Kijelentkezés**.
+1. Ugrás a [Outlook.office.com](https://outlook.office.com/) , és jelöljön ki **egy másik fiókot használja**.
+1. Jelentkezzen be a használni kívánt e-mail címet.
+
 További információért lásd: [Jelentkezzen be, vagy az Outlook programot a weben](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

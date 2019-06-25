@@ -1,35 +1,33 @@
 ---
-title: 8000035 hogyan lehet az új Outlook.com megjelenést, mint a régit.
+title: Hogyan lehet az új Outlook.com megjelenést, mint a régit.
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409404"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117615"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Hogyan lehet az új Outlook.com megjelenést, mint a régi verzió
 
-Az alábbiakban néhány beállítások és nézetek módosíthatja, hogy a régi verzió új Outlook.com kinézetét.
+Az alábbiakban néhány beállításait módosíthatja, hogy a régi verzió új Outlook.com kinézetét:
 
-1. Válassza ki a beállítások megnyitása a lap tetején a fogaskerék ikon jelzi.
-2. Válassza ki a kívánt **témát**.
-3. **Beszélgetés nézet** módosítása a **legújabb**üzeneteket legfelül.
-4. **Az Olvasóablak** **elrejtéséhez**módosítása
-5. Váltás **Focused Beérkezett üzenetek** **kikapcsolása**.
-6. Váltás a **Feladó kép** **off**. 
-7. Váltás az **üzenetek csoportosítása dátum szerint** **off**. 
-8. **Melléklet minta** Váltás **off**. 
-9. **Minta üzenetszöveg** térjünk át **a**.
+1. Ugrás a [Nyomtatásielrendezés-beállítások](https://outlook.live.com/mail/options/mail/layout).
+1. A **Focused Beérkezett üzenetek mappára**válassza az **üzenetek rendezése nem**.
+1. **Üzenet szervezet**csoportban jelölje be a **legújabb üzeneteket legfelül**.
+1. **Feladó kép**csoportban **Feladó képek nem jelennek**meg.
+1. Csoportban **Az Olvasóablak** **Olvasóablak elrejtéséhez**.
+1. A **minta üzenetszöveg** **megjelenítése szöveg**kiválasztása
+1. Csoportban **beágyazott előnézeti képek**, **ne jelenjen meg az üzenetlistában mellékletek**.
 
-Megjegyzés: Ezek a csak néhány ajánlott beállítások, ami lehetővé teszi a legközelebbi lehetséges elrendezést Outlook.com klasszikus változatát. A kívánt beállítást is függ.
-
-A Mail beállítások módosítása, így a Beérkezett üzenetek mappában keres, és a kívánt módon viselkedik, lásd: [személyre szabása a új levelezési felhasználói élmény Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+A Mail beállítások módosítása, így a Beérkezett üzenetek mappában keres, és a kívánt módon viselkedik, lásd: [a postaláda Outlook.com és az új Outlook webes megjelenésének módosítása](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
