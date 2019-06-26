@@ -1,5 +1,5 @@
 ---
-title: Fájl megnyitása csak olvasásra
+title: Fájl zárolva van szerkesztésre
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757091"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222670"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Miért nem valószínűleg fájlok szerkesztését?
 
@@ -24,9 +24,9 @@ Megjegyzés: A szükséges oszlopokat/metaadatok, könyvtárak kivételt, vagy h
 
 OneDrive tárak OneDrive a szinkronizálás állapota mellett egy lakat ikon jelenik meg, és a felhasználó nem tudják szinkronizálni a műsortárban, mindaddig, amíg az említett beállítások el lettek távolítva.
 
-Bővebb információt a Word/Excel zárolt fájlok hivatkozást az alábbi cikkek.
+További információt a Word vagy Excel zárolt fájlok hivatkozást az alábbi cikkek.
 
-[Excel-fájlt egy másik felhasználó szerkesztésre zárolta](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel-fájlt egy másik felhasználó szerkesztésre zárolta](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[A Word fájlt egy másik felhasználó szerkesztésre zárolta](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [A Word fájlt egy másik felhasználó szerkesztésre zárolta](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119761"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222742"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Nyomon követés vagy un-nyomon egy SharePoint-webhely
 
@@ -23,4 +23,4 @@ Tekintse meg a videót követni [egy SharePoint-webhelyen](https://support.offic
 
 Ha nem tudnak követése vagy egy webhely un-nyomon, és érzi magát, az eredmények nem várt, lásd: Ha a probléma egyetlen felhasználó vagy a szervezeten belül minden felhasználó kapcsolódik. Ha a probléma akkor fordul elő, minden felhasználó, a szolgáltatás átmeneti probléma lehet. 
 
-Megtekintheti, ha a szervezet az érintett [Szolgáltatás egészségügyi irányítópult](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)ellenőrizze.
+Megtekintheti, ha a szervezet az érintett [Szolgáltatás egészségügyi irányítópult](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ellenőrizze.

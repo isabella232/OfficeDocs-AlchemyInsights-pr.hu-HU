@@ -1,5 +1,5 @@
 ---
-title: Felhasználók hozzáférésének biztosítása a SharePoint és a OneDrive
+title: Hibaelhárítás a hozzáférés megtagadva a OneDrive üzenetek üzleti helyek
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a689769dab24e12832ddc0937bc5ddc3d71dbee3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b394cc1441187133d8829cfc5fb0c1edbd71fd96
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759258"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223426"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Felhasználók hozzáférésének biztosítása a SharePoint és a OneDrive
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Hibaelhárítás a hozzáférés megtagadva a OneDrive üzenetek üzleti helyek
 
 Ez a probléma leggyakrabban akkor fordul elő, amikor a felhasználó törli, és újra létrehozza a ugyanolyan egyszerű felhasználónév (UPN). Az új fiók jön létre egy másik értéket PUID (Passport egyedi azonosító) segítségével. Ha a felhasználó megpróbál hozzáférni egy webhelycsoport vagy a OneDrive, a felhasználó rendelkezik egy helytelen PUID. A második forgatókönyv magában foglalja a könyvtár szinkronizálás az Active Directory szervezeti egységet (OU). Ha a felhasználó rendelkezik már bejelentkezett a SharePoint, majd átkerül egy másik szervezeti egység és SharePoint resynced, akkor ez a probléma tapasztalhatnak.
 
