@@ -1,44 +1,24 @@
 ---
-title: 8000056 hogyan férhet hozzá az Outlook.com utazás közben
+title: Hogyan férhet hozzá az Outlook.com utazás közben
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/6/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000056
+ms.custom:
+- "921"
+- "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: 06ffae55cb9683eec2b0df2a87bf6ed4616c306e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 56a0df203b091d2e8addd01a9fcd297fe726ac84
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400133"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385907"
 ---
-# <a name="how-to-access-outlookcom-while-traveling"></a><span data-ttu-id="0d5a1-102">Hogyan férhet hozzá az Outlook.com utazás közben</span><span class="sxs-lookup"><span data-stu-id="0d5a1-102">How to access Outlook.com while traveling</span></span>
+# <a name="how-to-access-outlookcom-while-traveling"></a><span data-ttu-id="03845-102">Hogyan férhet hozzá az Outlook.com utazás közben</span><span class="sxs-lookup"><span data-stu-id="03845-102">How to access Outlook.com while traveling</span></span>
 
-<span data-ttu-id="0d5a1-103">Utazás közben Outlook.com eléréséhez győződjön meg arról, a Microsoft partner biztonsági info - egy másodlagos e-mail cím vagy telefonszám száma, amelyről biztonsági kódok tölthet le - naprakész.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-103">To access Outlook.com while traveling, make sure your Microsoft account security info - an alternate email address or phone number where you can get security codes - is up to date.</span></span>
-  
-1. <span data-ttu-id="0d5a1-104">Ugrás a [biztonság alapjai](https://go.microsoft.com/fwlink/p/?linkid=842325) lapra, és jelentkezzen be a Microsoft-fiókkal.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-104">Go to the [Security basics](https://go.microsoft.com/fwlink/p/?linkid=842325) page and sign in with your Microsoft account.</span></span> 
-    
-2. <span data-ttu-id="0d5a1-105">Válassza ki a **adatainak frissítése** \> **biztonsági információ hozzáadása**.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-105">Select **Update info** \> **Add security info**.</span></span> 
-    
-3. <span data-ttu-id="0d5a1-106">Kövesse az utasításokat az e-mail vagy telefon számot adja meg.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-106">Follow the instructions to enter your email or phone number.</span></span> <span data-ttu-id="0d5a1-107">Microsoft biztonsági kódot küld, hogy új e-mail cím vagy telefonszám száma.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-107">Microsoft will send a security code to that new email address or phone number.</span></span>
-    
-4. <span data-ttu-id="0d5a1-108">Írja be a biztonsági kódot, és nyomja meg a **Tovább gombra**.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-108">Enter the security code and press **Next**.</span></span> <span data-ttu-id="0d5a1-109">Az új biztonsági információ jelenik meg a listában.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-109">Your new security info will appear in your list.</span></span> 
-    
-<span data-ttu-id="0d5a1-110">Ha szabadságon lesz, és nem tudja fogadni a biztonsági kód, ellenőrizze az eszköz egy megbízható eszköz.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-110">If you're going on vacation and can't receive security codes, make your device a trusted device.</span></span> <span data-ttu-id="0d5a1-111">Ez azt jelenti, hogy a Microsoft nem küld hitelesítési kódokat bejelentkezéskor az Outlook.com az adott eszközön.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-111">This means Microsoft won't send you authentication codes when you sign in to Outlook.com on that device.</span></span>
-  
-1. <span data-ttu-id="0d5a1-112">Az eszközön szeretne egy megbízható eszköz, nyissa meg a [biztonsági beállítások](https://go.microsoft.com/fwlink/p/?linkid=2002000&amp;clcid=0x409) lap, és jelentkezzen be a Microsoft-fiókkal.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-112">On the device you want to make a trusted device, go the [Security settings](https://go.microsoft.com/fwlink/p/?linkid=2002000&amp;clcid=0x409) page and sign in to your Microsoft account.</span></span> 
-    
-2. <span data-ttu-id="0d5a1-113">Válassza ki, hogy e-mailben, szöveges vagy hitelesítő app keresztül a biztonsági kód fogadására.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-113">Choose whether to receive a security code through email, text, or authenticator app.</span></span> <span data-ttu-id="0d5a1-114">Ha a kódot, adja meg a szövegmezőben.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-114">Once you have the code, enter it in the text box.</span></span>
-    
-3. <span data-ttu-id="0d5a1-115">Jelölje be a jelölőnégyzetet a **be-gyakran ezen az eszközön. Ne kérdezzen rá egy kódot.**</span><span class="sxs-lookup"><span data-stu-id="0d5a1-115">Select the check box for **I sign in frequently on this device. Don't ask me for a code.**</span></span>
-    
-4. <span data-ttu-id="0d5a1-116">Jelölje be a **Küldés**.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-116">Select **Submit**.</span></span> 
-    
-<span data-ttu-id="0d5a1-117">Automatikus válaszok segítségével más személyek értesítése meg nem válaszol az üzeneteket azonnal.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-117">Use automatic replies to tell people you won't be responding to their messages right away.</span></span> <span data-ttu-id="0d5a1-118">További tudnivalók [az Outlook.com automatikus válaszok](https://go.microsoft.com/fwlink/p/?linkid=2002100&amp;clcid=0x409)küldése.</span><span class="sxs-lookup"><span data-stu-id="0d5a1-118">Learn how to [Send automatic replies in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002100&amp;clcid=0x409).</span></span>
-  
-
+<span data-ttu-id="03845-103">Utazás közben Outlook.com eléréséhez győződjön meg arról, a Microsoft partner biztonsági info - egy másodlagos e-mail cím vagy telefonszám száma, amelyről biztonsági kódok tölthet le - naprakész.</span><span class="sxs-lookup"><span data-stu-id="03845-103">To access Outlook.com while traveling, make sure your Microsoft account security info - an alternate email address or phone number where you can get security codes - is up to date.</span></span> <span data-ttu-id="03845-104">Több [Outlook.com útközben elérése](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="03845-104">To learn more, see [How to access Outlook.com when traveling](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e).</span></span>
