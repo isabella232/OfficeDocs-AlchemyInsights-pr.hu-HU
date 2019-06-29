@@ -8,13 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "308"
+- "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 56c2bea5e205358d0ef29fa937e36a88ffc46a1e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761584"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369667"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Az Exchange felügyeleti központ adatmegőrzési szabályok
 
@@ -24,7 +27,7 @@ ms.locfileid: "34761584"
   
 - Ez azért lehet, mert a **Kezelt Mappakezelő** nem dolgozta fel a felhasználó postafiókját. A kezelt Mappakezelő próbálja feldolgozni a felhőalapú szervezet hét naponta minden postaláda. Ha módosítja egy adatmegőrzési címkét vagy különböző adatmegőrzési szabály alkalmazása egy postaládához, megvárhatja, mindaddig, amíg a kezelt mappa segítő dolgozza fel a postaláda, vagy a kezelt Mappakezelő feldolgozni egy adott el a Start-ManagedFolderAssistant parancsmag futtatása a postafiókot. Ez a parancsmag fut akkor hasznos, tesztelésére és hibaelhárítására adatmegőrzési vagy adatmegőrzési címke beállításai. További információért látogassa meg [futtatni a kezelt Mappakezelő](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Megoldás:** Elindítani a kezelt Mappakezelő adott postaládához a következő parancsot futtassa: 
+  - **Megoldás:** Elindítani a kezelt Mappakezelő adott postaládához a következő parancsot futtassa:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
@@ -40,7 +43,7 @@ ms.locfileid: "34761584"
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Egy adott postaláda **letiltása** RetentionHold a következő parancsot futtassa: 
+  - Egy adott postaláda **letiltása** RetentionHold a következő parancsot futtassa:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
@@ -52,6 +55,5 @@ ms.locfileid: "34761584"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Megjegyzés:** Ha a postafiók 10 MB-nál kisebb, a kezelt Mappakezelő nem dolgozza fel automatikusan a postafiókot. 
+ **Megjegyzés:** Ha a postafiók 10 MB-nál kisebb, a kezelt Mappakezelő nem dolgozza fel automatikusan a postafiókot.
   
-
