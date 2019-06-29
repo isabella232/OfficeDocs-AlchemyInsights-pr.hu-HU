@@ -9,42 +9,42 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "319"
+- "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c30ac911efddfa2e5c5e034af0dd27e029ab706a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400025"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385655"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a><span data-ttu-id="edaf2-102">Hogyan lehet hozzáadni vagy licencek</span><span class="sxs-lookup"><span data-stu-id="edaf2-102">How to add or reduce licenses</span></span>
+# <a name="how-to-add-or-reduce-licenses"></a><span data-ttu-id="6bc2d-102">Hogyan lehet hozzáadni vagy licencek</span><span class="sxs-lookup"><span data-stu-id="6bc2d-102">How to add or reduce licenses</span></span>
 
-<span data-ttu-id="edaf2-103">Íme, hogyan kell eltávolítani, vagy további licencek vásárlása.</span><span class="sxs-lookup"><span data-stu-id="edaf2-103">Here's how to remove or purchase more licenses.</span></span>
+<span data-ttu-id="6bc2d-103">Íme, hogyan kell eltávolítani, vagy további licencek vásárlása.</span><span class="sxs-lookup"><span data-stu-id="6bc2d-103">Here's how to remove or purchase more licenses.</span></span>
   
-1. <span data-ttu-id="edaf2-104">A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="edaf2-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
-    
-2. <span data-ttu-id="edaf2-105">A bal oldalon válassza az előfizetést, amelyből kívánt licencek hozzáadása, eltávolítása</span><span class="sxs-lookup"><span data-stu-id="edaf2-105">On the left, choose the Subscription from which you want to add/remove licenses</span></span>
-    
-3. <span data-ttu-id="edaf2-106">Válassza a **Licencek hozzáadása/eltávolítása** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="edaf2-106">Choose **Add/Remove licenses**.</span></span>
-    
-4. <span data-ttu-id="edaf2-107">Adja meg a szükséges felhasználók száma összesen.</span><span class="sxs-lookup"><span data-stu-id="edaf2-107">Enter the total number of users needed.</span></span>
-    
-    <span data-ttu-id="edaf2-108">Például ha el szeretné távolítani 5 jelenleg 25 licenccel rendelkezik, adja meg 20 ebben a mezőben.</span><span class="sxs-lookup"><span data-stu-id="edaf2-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
-    
-5. <span data-ttu-id="edaf2-109">Válassza a **Submit** (Küldés) gombot.</span><span class="sxs-lookup"><span data-stu-id="edaf2-109">Choose **Submit**.</span></span>
-    
+1. <span data-ttu-id="6bc2d-104">A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="6bc2d-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+
+2. <span data-ttu-id="6bc2d-105">A bal oldalon válassza az előfizetést, amelyből kívánt licencek hozzáadása, eltávolítása</span><span class="sxs-lookup"><span data-stu-id="6bc2d-105">On the left, choose the Subscription from which you want to add/remove licenses</span></span>
+
+3. <span data-ttu-id="6bc2d-106">Válassza a **Licencek hozzáadása/eltávolítása** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="6bc2d-106">Choose **Add/Remove licenses**.</span></span>
+
+4. <span data-ttu-id="6bc2d-107">Adja meg a szükséges felhasználók száma összesen.</span><span class="sxs-lookup"><span data-stu-id="6bc2d-107">Enter the total number of users needed.</span></span>
+
+    <span data-ttu-id="6bc2d-108">Például ha el szeretné távolítani 5 jelenleg 25 licenccel rendelkezik, adja meg 20 ebben a mezőben.</span><span class="sxs-lookup"><span data-stu-id="6bc2d-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
+
+5. <span data-ttu-id="6bc2d-109">Válassza a **Submit** (Küldés) gombot.</span><span class="sxs-lookup"><span data-stu-id="6bc2d-109">Choose **Submit**.</span></span>
+
 > [!NOTE]
-> <span data-ttu-id="edaf2-110">A következő számlán követel (licenc csökkenés) olyan új díjat (licenc növekedés) fog megjelenni.</span><span class="sxs-lookup"><span data-stu-id="edaf2-110">Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span> 
+> <span data-ttu-id="6bc2d-110">A következő számlán követel (licenc csökkenés) olyan új díjat (licenc növekedés) fog megjelenni.</span><span class="sxs-lookup"><span data-stu-id="6bc2d-110">Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span>
   
- <span data-ttu-id="edaf2-111">**Erőforrások**</span><span class="sxs-lookup"><span data-stu-id="edaf2-111">**Resources**</span></span>
+ <span data-ttu-id="6bc2d-111">**Erőforrások**</span><span class="sxs-lookup"><span data-stu-id="6bc2d-111">**Resources**</span></span>
   
-- [<span data-ttu-id="edaf2-112">Licencek eltávolítása az Office 365 Vállalati verziós előfizetésből</span><span class="sxs-lookup"><span data-stu-id="edaf2-112">Remove licenses from your Office 365 for business subscription</span></span>](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
-    
-- [<span data-ttu-id="edaf2-113">Licencek vásárlása az Office 365 Vállalati verziós előfizetéshez</span><span class="sxs-lookup"><span data-stu-id="edaf2-113">Buy licenses for your Office 365 for business subscription</span></span>](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
-    
-- [<span data-ttu-id="edaf2-114">Az Office 365 Vállalati verzió lemondása</span><span class="sxs-lookup"><span data-stu-id="edaf2-114">Cancel Office 365 for business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-    
-- [<span data-ttu-id="edaf2-115">Újabb Office 365 vállalati verziós előfizetés vásárlása</span><span class="sxs-lookup"><span data-stu-id="edaf2-115">Buy another Office 365 for business subscription</span></span>](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
-    
+- [<span data-ttu-id="6bc2d-112">Licencek eltávolítása az Office 365 Vállalati verziós előfizetésből</span><span class="sxs-lookup"><span data-stu-id="6bc2d-112">Remove licenses from your Office 365 for business subscription</span></span>](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
 
+- [<span data-ttu-id="6bc2d-113">Licencek vásárlása az Office 365 Vállalati verziós előfizetéshez</span><span class="sxs-lookup"><span data-stu-id="6bc2d-113">Buy licenses for your Office 365 for business subscription</span></span>](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+
+- [<span data-ttu-id="6bc2d-114">Az Office 365 Vállalati verzió lemondása</span><span class="sxs-lookup"><span data-stu-id="6bc2d-114">Cancel Office 365 for business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+
+- [<span data-ttu-id="6bc2d-115">Újabb Office 365 vállalati verziós előfizetés vásárlása</span><span class="sxs-lookup"><span data-stu-id="6bc2d-115">Buy another Office 365 for business subscription</span></span>](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
