@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883163"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358903"
 ---
 # <a name="activate-visio"></a>Aktiválja a Visio
 
@@ -27,8 +27,8 @@ Mielőtt a felhasználó telepíti és aktiválja az asztali asztali Visio alkal
 
 A Visio aktiválása:
 
-1. [A Visio telepítése](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) Ha még nincs telepítve.
-2. Ha a telepítés befejeződött, nyissa meg a Visio. Sok esetben az alkalmazás aktiválása a automatikusan és azonnal a Visio használatával is elindítható. Ha kéri, jelentkezzen be, feltétlenül jelentkezzen be a azonos munka vagy iskola fiók Visio licencet rendelt. 
+1. Ha még nincs telepítve a Visio telepítése a [saját fiók portal](https://portal.office.com/account#installs) . Segítséget talál [A Visio telepítése](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Ha a telepítés befejeződött, nyissa meg a Visio alkalmazás. Visio valószínűleg automatikusan aktiválja, és azonnal használni is elindítható. Ha nem, a program kérheti jelentkezzen be. Ügyeljen arra, hogy jelentkezzen be az azonos munka vagy iskola fiók Visio licencet rendelt. Kövesse az utasításokat az aktiválás folytatásához. 
 
 Aktiválási problémák esetén az [Aktiválás hibaelhárító](https://aka.ms/SARA-OfficeActivation-Alchemy) futtatása az érintett számítógépen.
 

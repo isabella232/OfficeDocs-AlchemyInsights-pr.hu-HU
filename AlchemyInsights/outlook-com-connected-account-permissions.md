@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417958"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375791"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Megoldását "Úgy néz ki nem megfelelő engedéllyel"
 
 Ha a hibaüzenet jelenik meg "úgy néz ki a Microsoft nem rendelkezik megfelelő engedéllyel az email fogadása..." tegye a következőket:
 
-1. Nyissa meg a [kapcsolódó fiók beállításait](https://outlook.live.com/mail/options/mail/accounts) , és távolítsa el, vagy a hiba a csatlakoztatott fiók törlése. 
+1. Nyissa meg a [kapcsolódó fiók beállításait](https://outlook.live.com/mail/options/mail/accounts) , és távolítsa el, vagy a hiba a csatlakoztatott fiók törlése.
 2. Adja hozzá a csatlakoztatott fiók ismét.
 3. Térjen [vissza a postaláda](https://outlook.live.com/mail/inbox).
 
