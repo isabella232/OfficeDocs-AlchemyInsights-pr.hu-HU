@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "476"
+- "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 540fe0e8f9edd6949229e90e256aa2626584dd3b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e4f0c153d6e3bbd7a5b27d15090e8b98345318aa
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388773"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35378851"
 ---
 # <a name="get-office-365-free-for-your-entire-school"></a>Office 365 szabad megkapni a teljes iskolai
 
 Szabad hatékonyságnövelő eszközök osztálytermi és iskolai együttműködés javítása. Ellenőrizze, hogy ezekről az ajánlatokról előnyeit akkreditált oktatási intézmény kell.
   
 - [Tekintse át az oktatási tervek](https://products.office.com/academic/compare-office-365-education-plans)
-    
-- [Első lépések az Office 365 oktatási](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
-    
-- [Hasonlítsa össze az összes Office 365-terv](https://products.office.com/business/compare-more-office-365-for-business-plans)
-    
 
+- [Első lépések az Office 365 oktatási](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
+
+- [Hasonlítsa össze az összes Office 365-terv](https://products.office.com/business/compare-more-office-365-for-business-plans)
