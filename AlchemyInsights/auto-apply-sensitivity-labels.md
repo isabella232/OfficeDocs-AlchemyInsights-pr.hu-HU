@@ -9,16 +9,19 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1737"
+- "9000181"
+ms.openlocfilehash: 58c6768a5285247273b55eeb0f3df2a797c88086
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769545"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360487"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Tartalmi címkék automatikus alkalmazása
 
-Tartalmi címkék tartalom a felhasználók által alkalmazott mannually, vagy tartalom automatikusan alkalmazható konfigurálhatók.
+Érzékenység címkék kézzel alkalmazható tartalom a felhasználók által, vagy a tartalom automatikusan alkalmazható konfigurálhatók.
 
 Tartalmi címkék automatikus alkalmazása eltávolítja annak szükségességét, hogy a felhasználók hogyan tartalom osztályozza a vonat és a házirend-konfigurációk értesítik.
 
