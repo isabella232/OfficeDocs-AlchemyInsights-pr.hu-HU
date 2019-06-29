@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000084
-ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1350"
+- "8000084"
+ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632082"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373667"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>Az Outlook.com e-mail és tárolási kvóta
 
@@ -24,4 +26,6 @@ Levélszemét csökkentéséhez, Outlook.com van egy napi e-mail küldése a kor
 
 **Tárolási korlátok**
 
-Ha tele a Beérkezett üzenetek mappába, nem lehet üzeneteket fogadni és küldeni, és azt az e-mail küldő személyek kap hibaüzenetet, hogy a Beérkezett üzenetek mappa megtelt. Is [látható, hogy mennyi tárhelyet](https://go.microsoft.com/fwlink/?linkid=2052089), de az is [, hogy helyet adjanak a postaládában lévő útmutató](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+Ha tele a Beérkezett üzenetek mappába, nem lehet üzeneteket fogadni és küldeni, és azt az e-mail küldő személyek kap hibaüzenetet, hogy a Beérkezett üzenetek mappa megtelt. Láthatja, hogy mekkora tárterületet rendelkezésére méretéről [ **Beállítások** > **Minden Outlook-beállítások megtekintése** > **Általános**> tároló](https://outlook.live.com/mail/options/general/storage), vagy [, hogy helyet adjanak a postaládában lévő útmutató](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+
+Ha prémium fiókkal rendelkezik, megtekintheti nyissa meg a raktározási [ **Beállítások** > **Minden Outlook-beállítások megtekintése** > **prémium**> szolgáltatások](https://outlook.live.com/mail/options/premium/features).

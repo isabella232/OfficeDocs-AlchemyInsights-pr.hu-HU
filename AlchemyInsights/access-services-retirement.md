@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769442"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359350"
 ---
 # <a name="access-services-retirement"></a>Access services nyugdíjazás
 
@@ -24,7 +27,7 @@ Június 2019 kezdődően azt leállítja a SharePoint Online új Access-adatbáz
 
 **Mit kell tennem a módosítás előkészítése?**
 
-Javasoljuk, hogy a szervezet webes adatbázisokat az átállási terv létrehozása. Rendszergazdák a [hozzáférést a SharePoint app képolvasó](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) segítségével szerezze be az Access apps helyek használó leltárt. 
+Javasoljuk, hogy a szervezet webes adatbázisokat az átállási terv létrehozása. Rendszergazdák a [hozzáférést a SharePoint app képolvasó](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) segítségével szerezze be az Access apps helyek használó leltárt.
 
 Számos módon át az Access webes adatbázisok adatok:
 
