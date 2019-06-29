@@ -6,22 +6,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: ''
-ms.openlocfilehash: 6166493f79379f44b1a9bbbaca6becfe624fe912
-ms.sourcegitcommit: 22ce2315c8cf643137ab3420cdc1cda41433d44a
+ms.custom:
+- "1874"
+- "9000265"
+ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/14/2019
-ms.locfileid: "34057723"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379643"
 ---
 # <a name="modern-site-as-root-site"></a>A modern webhelyre, ahol a legfelső szintű webhely
 
-[Cél fontos](https://docs.microsoft.com/en-us/office365/admin/manage/release-options-in-office-365?view=o365-worldwide) vevők most lehetővé teszi a modern kommunikációs webhely tapasztalatok a SharePoint bérlő által a klasszikus legfelső szintű helyen.
+Ekkor előnézet visszajelzés alapján döntöttünk elhalasztani a legfelső szintű webhelyként kommunikációs hely ahhoz, hogy a szolgáltatás megvalósításához. Elnézést kérünk a kellemetlenségekért azt, és közli a via Message Center, egy új kimutatást elérhetővé válik.
 
-Ez a szolgáltatás egyszerű PowerShell parancsmag futtatásával aktiválható. A PowerShell command(s) sikeres végrehajtását a legfelső szintű webhely lesz a kommunikáció új webhely kezdőlapja. A cikk [Engedélyezése-SPOCommSite](https://docs.microsoft.com/en-us/powershell/module/sharepoint-online/Enable-SPOCommSite?view=sharepoint-ps)PowerShell parancsmag és szolgáltatás követelményeiről részletesen érhetők el. 
+Kommunikációs helyek jelenleg a legfelső szintű webhely, nem engedélyezhető.
 
-Azt is kell fokozatosan működés közbeni, ez ki alapértelmezés szerint célzott kiadás korai május 2019, vevőkhöz és a roll ki lesz elérhető világszerte 2019 június végén. Továbbra is a [Message Center](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter) más új funkciókról a Modern hivatkozik. 
-
-**Fontos**: ne törölje a klasszikus legfelső szintű webhely a modern kommunikációs webhelyet hozhat létre. Ez a Microsoft által nem támogatott. A legfelső szintű webhely törlése tesz minden SharePoint-webhely a szervezet nem érhető el minden felhasználó számára addig, amíg a webhely visszaállítása, vagy hozzon létre egy új helyet azonos URL-címen. 
- 
- 
+**Fontos**: ne törölje a klasszikus legfelső szintű webhely a modern kommunikációs webhelyet hozhat létre. Ez a Microsoft által nem támogatott. A legfelső szintű webhely törlése tesz minden SharePoint-webhely a szervezet nem érhető el minden felhasználó számára addig, amíg a webhely visszaállítása, vagy hozzon létre egy új helyet azonos URL-címen.

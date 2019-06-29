@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883129"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357571"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Hibaelhárítási lépéseket az Outlook összeomlását
 
@@ -25,10 +27,9 @@ Ha nehézségei vannak az Outlook asztali összeomlás, indításához 3 alábbi
   
 1. lépés: Vizsgálja meg a lehetséges problémák-bővítmények.
   
-2. lépés: Az Outlook javítás és futtatja a [támogatási és a Segéd helyreállítási eszköz Outlook indítási hibáinak elhárítása](https://aka.ms/SaRA-OutlookWontStart) az érintett számítógépen. 
+2. lépés: Az Outlook javítás és futtatja a [támogatási és a Segéd helyreállítási eszköz Outlook indítási hibáinak elhárítása](https://aka.ms/SaRA-OutlookWontStart) az érintett számítógépen.
   
-3. lépés: Hozzon létre egy új Outlook profilt, vagy az [Outlook profil eszköz](https://aka.ms/SaRA-OutlookSetupProfile) futtatható az érintett számítógépen. 
+3. lépés: Hozzon létre egy új Outlook profilt, vagy az [Outlook profil eszköz](https://aka.ms/SaRA-OutlookSetupProfile) futtatható az érintett számítógépen.
   
 Ha a fenti lépések nem működnek a probléma történt frissítés után, szükség lehet visszatérni az előző build. Útmutató az [Office 2013 vagy 2016 kattintson Office Kattintásra korábbi verziójának visszaállítása](https://support.microsoft.com/help/2770432).
   
-

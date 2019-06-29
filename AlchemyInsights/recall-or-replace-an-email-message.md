@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770811"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356599"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Visszahívni vagy kicserélni egy e-mailt
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770811"
 - Ha egy rendszergazda, **üzenetek visszahívása a PowerShell segítségével a felhasználók nevében**is. Az admin center üzenetek nem tudja visszahívni. Görgessen le a "Search for és e-mailek törlése a szervezet" További információt.
 
 ***Visszahívása vagy kicserélése küldött e-mailben***
+
 1. A mappalistán az Outlook ablak a bal oldalon válassza az elküldött elemek mappába.
 2. Nyissa meg a visszahívni kívánt üzenetet. Az üzenet megnyitásához kattintson duplán. Jelölje ki az üzenetet, így jelenik meg az olvasóablakban nem engedélyezi, hogy az üzenet visszahívása.
 3. Válassza ki az üzenet lap **Műveletek** > **Az üzenet visszahívása**.
 4. **Törli az üzenet olvasatlan példányait** , vagy **törli olvasatlan példányait és cserélje le egy új üzenetet**, majd kattintson az **OK gombra**.
 5. Ha csere üzenetet küld üzenetet, írjuk meg az üzenetet, majd válassza a **Küldés**.
-6. A sikeres vagy sikertelen üzenet-visszahívásról függ, hogy a címzettek beállításait az Outlook programban. 
+6. A sikeres vagy sikertelen üzenet-visszahívásról függ, hogy a címzettek beállításait az Outlook programban.
 
 Kapcsolatban további információk, többek között a visszahívás, ellenőrizheti a [visszahívás vagy csere küldött e-mailben](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

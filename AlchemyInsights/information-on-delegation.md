@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 606
+ms.custom:
+- "606"
+- "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 633fd9111cac64a8cb85db18d03968089bf2a128
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dddff0f6ab0fec8d2f8cac41ca3440d181f1dc67
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32410780"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382451"
 ---
 # <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Az Outlook és az Outlook a weben hibaelhárítási delegálása
 
@@ -28,7 +30,7 @@ ms.locfileid: "32410780"
 1. Adja hozzá az érintett felhasználó e-mail címe
 1. Válassza ki a "Problémák a delegált engedélyek"
 1. A következő sorba Amennyiben engedélyeket adó személy, írja be az e-mail címet a delegált. Ha engedélyt kapott és a meghatalmazott, adja meg az engedélyt kapott személy e-mail címét.
-1. Tovább menüben, válassza a lehetőséget, amely illeszkedik a forgatókönyv. 
+1. Tovább menüben, válassza a lehetőséget, amely illeszkedik a forgatókönyv.
 1. A következő menüből válassza ki a jogosultsági szint.
 1. Ebben a szakaszban Éva eszköz automatikus ellenőrzéseket hajt végre, és lehetséges megoldás biztosít, vagy a is biztosít a további hibaelhárításhoz használható diagnosztikai naplóban.
 1. A naplókat is megtalálhatja a Éva eredmények mappában található C:\Users\Username\AppData\Local\SaraResults
