@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "466"
+- "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 33897829d1ab902e423eb2f8e9e1b2dfc5f869fd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ec00594736ec3f4dab085127ffbd4fc688df7d01
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397616"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357103"
 ---
 # <a name="already-paid"></a>Már kifizetett?
 
 Ha már elküldte fizetés, tudassa velünk is:
   
 1. Az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon, vagy válassza a **Számlázási** \> **előfizetések**.
-    
-2. Előfizetés és a **számlával** csoportban kiválasztható a **Nézet számlázási**.
-    
-3. A **számlázási adatai** lapon válassza ki a **már kifizetett?** Kéri a küldött kifizetési kapcsolódó információk megadása. 
-    
-4. Minden szükséges információt megadott, kattintson a **Küldés**.
-    
 
+2. Előfizetés és a **számlával** csoportban kiválasztható a **Nézet számlázási**.
+
+3. A **számlázási adatai** lapon válassza ki a **már kifizetett?** Kéri a küldött kifizetési kapcsolódó információk megadása.
+
+4. Minden szükséges információt megadott, kattintson a **Küldés**.

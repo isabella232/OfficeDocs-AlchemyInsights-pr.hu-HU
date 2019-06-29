@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
-ms.openlocfilehash: 03677ad3e2b9183796890fe993a305476521eae8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "786"
+- "6200002"
+ms.openlocfilehash: e25f544b9f94eaa6a9d090c4d21a37add5b4bdc5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420414"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353431"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Beiktatási beállítások a Microsoft Intune kapcsolatos problémák elhárítása
 
-Most a probléma megoldásához kövesse az alább felsorolt erőforrások áttekintése. 
+Most a probléma megoldásához kövesse az alább felsorolt erőforrások áttekintése.
   
 - [Felülvizsgálat Intune TechNet közös problémák megoldására és a válaszok megkereséséhez](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
-    
-- [Intune hibaelhárítás Portal](https://aka.ms/intunetroubleshooting) segítségével azonosíthatja és megoldhatja a beiktatási gyakori hibák. [Ez a dokumentum](https://docs.microsoft.com/intune/help-desk-operators) további részletekért tekintse át. 
-    
-- Tekintse át [ezt a dokumentumot](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) , amelyek megakadályozzák a tanúsítványigénylési és -megoldások egyes gyakori hibák listáját. 
-    
-- [További tudnivalók a Microsoft Intune a beiktatási beállítások](https://docs.microsoft.com/intune/enrollment-options).
-    
 
+- [Intune hibaelhárítás Portal](https://aka.ms/intunetroubleshooting) segítségével azonosíthatja és megoldhatja a beiktatási gyakori hibák. [Ez a dokumentum](https://docs.microsoft.com/intune/help-desk-operators) további részletekért tekintse át.
+
+- Tekintse át [ezt a dokumentumot](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) , amelyek megakadályozzák a tanúsítványigénylési és -megoldások egyes gyakori hibák listáját.
+
+- [További tudnivalók a Microsoft Intune a beiktatási beállítások](https://docs.microsoft.com/intune/enrollment-options).
