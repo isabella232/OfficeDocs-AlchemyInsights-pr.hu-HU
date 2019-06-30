@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1245
+ms.custom:
+- "1245"
+- "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 01801612a1e2edee53e58005ee86afe304e1e85c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 000f736528db90895bac7b1f373dd6e8a589c75e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389472"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359243"
 ---
-# <a name="office-365-import-service"></a>Office 365 behozatali szolgáltatás 
+# <a name="office-365-import-service"></a>Office 365 behozatali szolgáltatás
 
-Az Office 365 importálása szolgáltatás lehetővé teszi a tömeges-importálás az Exchange Online postafiókok több PST fájl. 
+Az Office 365 importálása szolgáltatás lehetővé teszi a tömeges-importálás az Exchange Online postafiókok több PST fájl.
 
 Az importálási szolgáltatás elérését, és az importálási folyamat elindításához:
 
@@ -28,10 +30,10 @@ Az importálási szolgáltatás elérését, és az importálási folyamat elind
 
 2. A **biztonsági & kompatibilitási központ**bal oldali ablaktáblájában kattintson az **adatok kormányzás > importálása**.
 
-3. A **behozatali** oldalon kattintson az **Új importálási feladat**. 
+3. A **behozatali** oldalon kattintson az **Új importálási feladat**.
 
 4. Hajtsa végre a varázsló utasításait, kövesse ezeket a [lépésről](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
 
-**Fontos**: a biztonsági & Megfelelési központba **behozatali** lapjának eléréséhez kell hozzárendelte [a megfelelő engedélyekkel](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin). 
+**Fontos**: a biztonsági & Megfelelési központba **behozatali** lapjának eléréséhez kell hozzárendelte [a megfelelő engedélyekkel](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
 Ha szeretné importálni a PST postaládája, lásd [a cikk](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

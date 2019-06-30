@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373318"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371435"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Tartalom keresése és elektronikus adatok feltárása keresések végrehajtása
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373318"
 2. Kattintson a **Keresés & vizsgálat > tartalom keresés**.
 3. **Új keresés** létrehozása, új keresés gombra.
 4. Adja meg a szükséges keresési feltételeket, beleértve a kulcsszavakat és a tartalom helye.  
-5. Kattintson a **Futtatás & menteni** a keresési név, indítsa el, majd ezután az eredmény mintaképét. 
- 
+5. Kattintson a **Futtatás & menteni** a keresési név, indítsa el, majd ezután az eredmény mintaképét.
+
 Részletes ismertetése a keresések létrehozása és exportálása eredmények [cikkben](https://docs.microsoft.com/office365/securitycompliance/content-search)talál.
 
 **elektronikus adatok feltárása keresések**
