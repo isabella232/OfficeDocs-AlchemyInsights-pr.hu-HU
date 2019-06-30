@@ -1,34 +1,37 @@
 ---
-title: Outlook.com 8000043 POP, IMAP és SMTP beállításait
+title: Outlook.com POP, IMAP és SMTP beállításait
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000043
+ms.custom:
+- "780"
+- "1415"
+- "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 0fb770a3dc34da662410d8992ce53fba32006cd1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4098e453deb081c8ac9dd7ee76938bbdfe2432c8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392294"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373379"
 ---
-# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a><span data-ttu-id="105db-102">Outlook.com POP, IMAP és SMTP beállításait</span><span class="sxs-lookup"><span data-stu-id="105db-102">POP, IMAP, and SMTP settings for Outlook.com</span></span>
+# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a><span data-ttu-id="d7604-102">Outlook.com POP, IMAP és SMTP beállításait</span><span class="sxs-lookup"><span data-stu-id="d7604-102">POP, IMAP, and SMTP settings for Outlook.com</span></span>
 
-<span data-ttu-id="105db-103">Ha az Outlook.com fiók hozzáadása másik mail app, amely támogatja a POP vagy IMAP, az alábbiakban a kézi kiszolgálóbeállítások lesz szüksége:</span><span class="sxs-lookup"><span data-stu-id="105db-103">If you want to add your Outlook.com account to another mail app that supports POP or IMAP, here are the manual server settings you'll need:</span></span>
+<span data-ttu-id="d7604-103">Ha az Outlook.com fiókot adja hozzá a mail app, amely támogatja a POP vagy IMAP, az alábbiakban a kiszolgáló beállításait, szüksége lesz:</span><span class="sxs-lookup"><span data-stu-id="d7604-103">If you want to add your Outlook.com account to a mail app that supports POP or IMAP, here are the server settings you'll need:</span></span>
   
-- <span data-ttu-id="105db-104">**IMAP-kiszolgáló neve:** outlook.office365.com</span><span class="sxs-lookup"><span data-stu-id="105db-104">**IMAP server name:** outlook.office365.com</span></span> 
-- <span data-ttu-id="105db-105">**IMAP-port:** 993</span><span class="sxs-lookup"><span data-stu-id="105db-105">**IMAP port:** 993</span></span>   
-- <span data-ttu-id="105db-106">**IMAP titkosítási módszer:** TLS</span><span class="sxs-lookup"><span data-stu-id="105db-106">**IMAP encryption method:** TLS</span></span>   
-- <span data-ttu-id="105db-107">**POP-kiszolgáló neve:** outlook.office365.com</span><span class="sxs-lookup"><span data-stu-id="105db-107">**POP server name:** outlook.office365.com</span></span>  
-- <span data-ttu-id="105db-108">**POP-port:** 995</span><span class="sxs-lookup"><span data-stu-id="105db-108">**POP port:** 995</span></span>  
-- <span data-ttu-id="105db-109">**POP titkosítási módszer:** TLS</span><span class="sxs-lookup"><span data-stu-id="105db-109">**POP encryption method:** TLS</span></span>  
-- <span data-ttu-id="105db-110">**SMTP-kiszolgáló neve:** smtp.office365.com</span><span class="sxs-lookup"><span data-stu-id="105db-110">**SMTP server name:** smtp.office365.com</span></span> 
-- <span data-ttu-id="105db-111">**SMTP-port:** 587</span><span class="sxs-lookup"><span data-stu-id="105db-111">**SMTP port:** 587</span></span> 
-- <span data-ttu-id="105db-112">**SMTP titkosítási módszer:** STARTTLS</span><span class="sxs-lookup"><span data-stu-id="105db-112">**SMTP encryption method:** STARTTLS</span></span> 
+- <span data-ttu-id="d7604-104">**IMAP-kiszolgáló neve:** outlook.office365.com</span><span class="sxs-lookup"><span data-stu-id="d7604-104">**IMAP server name:** outlook.office365.com</span></span>
+- <span data-ttu-id="d7604-105">**IMAP-port:** 993</span><span class="sxs-lookup"><span data-stu-id="d7604-105">**IMAP port:** 993</span></span>
+- <span data-ttu-id="d7604-106">**IMAP titkosítási módszer:** TLS</span><span class="sxs-lookup"><span data-stu-id="d7604-106">**IMAP encryption method:** TLS</span></span>
+- <span data-ttu-id="d7604-107">**POP-kiszolgáló neve:** outlook.office365.com</span><span class="sxs-lookup"><span data-stu-id="d7604-107">**POP server name:** outlook.office365.com</span></span>  
+- <span data-ttu-id="d7604-108">**POP-port:** 995</span><span class="sxs-lookup"><span data-stu-id="d7604-108">**POP port:** 995</span></span>  
+- <span data-ttu-id="d7604-109">**POP titkosítási módszer:** TLS</span><span class="sxs-lookup"><span data-stu-id="d7604-109">**POP encryption method:** TLS</span></span>  
+- <span data-ttu-id="d7604-110">**SMTP-kiszolgáló neve:** smtp.office365.com</span><span class="sxs-lookup"><span data-stu-id="d7604-110">**SMTP server name:** smtp.office365.com</span></span>
+- <span data-ttu-id="d7604-111">**SMTP-port:** 587</span><span class="sxs-lookup"><span data-stu-id="d7604-111">**SMTP port:** 587</span></span>
+- <span data-ttu-id="d7604-112">**SMTP titkosítási módszer:** STARTTLS</span><span class="sxs-lookup"><span data-stu-id="d7604-112">**SMTP encryption method:** STARTTLS</span></span>
 
-<span data-ttu-id="105db-113">Tudjon meg többet a [Outlook.com POP, IMAP és SMTP beállításait](https://go.microsoft.com/fwlink/p/?linkid=2001402&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="105db-113">Read more about [POP, IMAP, and SMTP settings for Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001402&amp;clcid=0x409).</span></span>
+<span data-ttu-id="d7604-113">További tudnivalók [az Outlook.com fiókot egy másik e-mail app vagy intelligens eszköz](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970).</span><span class="sxs-lookup"><span data-stu-id="d7604-113">Learn more about [adding your Outlook.com account to another mail app or smart device](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970).</span></span>
