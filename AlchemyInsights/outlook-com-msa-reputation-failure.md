@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: f4af8679ac71ab15bd68a62e71143b14f8e20f97
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d241612ec41247c36aa5806429c5b7b547e02098
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373811"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701289"
 ---
 # <a name="account-locked"></a>A fiók zárolt
 
@@ -25,4 +25,4 @@ Az "a fiók zárolva van" üzenet jelenik meg, amikor megpróbál bejelentkezni,
 1. Ugrás a [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) , és jelentkezzen be a zárolt fiók.A zárolás feloldásához a Microsoft a szöveges üzenetben megadott biztonsági kódot kell megadnia. A szöveges üzenet jelenik meg, a telefon, amely támogatja a szöveges üzenetek küldése kell rendelkeznie. Ha a telefon nem támogatja a szöveges üzenetek küldése, megkérheti egy barát vagy családtag, a telefon használata. A Microsoft a telefonszám nem menti, így a szöveges üzenetek fogadására használt telefonszám nem kell a fiókjához társított.
 2. Ha a "Használati határ túllépése" üzenet jelenik meg, folytassa a [Fiók helyreállítására](https://go.microsoft.com/fwlink/?linkid=2090483) és egy saját ügynökök felülvizsgálja a fiókhoz.
 
-További információért olvassa el a [Tiltás feloldása az Outlook.com fiók](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4) 
+További információért olvassa el a [Tiltás feloldása az Outlook.com fiók](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 

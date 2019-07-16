@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1964"
 - "9000336"
-ms.openlocfilehash: 0bc0672dfb71a65858264c721e9aec3e5fe6339b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 06dd1be1d46d0ff96f90d377e2c70d2a4cfe42fa
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373271"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701253"
 ---
 # <a name="permanently-delete-email"></a>E-mail üzenetek végleges törlése
 
@@ -27,4 +27,4 @@ Ha törölni szeretné az e-mail vagy a Beérkezett üzenetek mappa üres:
 1. Az oldal tetején, válassza a **Törlés** (a teljes mappa **üres mappát**vagy **Üres koncentrált** / **más üres** , ha koncentrált Beérkezett üzenetek engedélyezve van).
 1. Törlése a törölt e-mail, nyissa meg a [Törölt elemek mappa](https://outlook.live.com/mail/deleteditems) , és jelölje ki az **üres mappát**, majd jelölje be **helyreállítható elemek** a lap tetején, és jelölje ki a **mappát** ismét.
 
-Többet megtudni, olvassa el [az Outlook.com e-mail törlése](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4).
+Többet megtudni, olvassa el [az Outlook.com e-mail törlése](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy).
