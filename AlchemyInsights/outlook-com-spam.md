@@ -3,7 +3,7 @@ title: A levélszemét és az Outlook.com levélszemét kezelése
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 7/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7544b0453f05de5f4d3edc2bdbbc139995343047
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697121"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800083"
 ---
-# <a name="mark-email-messages-as-junk"></a>E-mail üzenetek megjelölése levélszemétként
+# <a name="spam-and-junk-email-in-outlookcom"></a>Levélszemét és kéretlen e-maileket, a Outlook.com
 
-Üzenet megjelölése levélszemétként vagy levélszemét, jelölje ki az üzenetet az üzenetlistában, és válassza ki a **levélszemét** > **levélszemét**.
+Ha túl sok levélszemét vagy spam, próbálja meg ezeket a módszereket:
 
-Egy adott e-mail címre érkező üzenetek letiltása, jelölje be az üzenet vagy az üzenetet az üzenetlistában, és válassza ki **a levélszemét** > **blokk**.
+1. **Az e-mail megjelölése levélszemétként**
+    1. Jelölje ki az üzenetet.
+    1. Válassza ki a **levélszemét** > **Junk** E-mail levélszemét mappába helyezni.
+    1. [Tudjon meg többet hogyan védheti a levélszemét és kéretlen e-mail a Beérkezett üzenetek mappából.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Ha véletlenül levélszemétként egy üzenetet, jelölje ki az üzenetet a [levélszemét E-mail mappát](https://outlook.live.com/mail/junkemail) , és válassza a **nem levélszemét jelzővel** > **nincs levélszemét**. (*Megjegyzés:* a levélszemét E-mail mappában lévő elemek 30 nap után törlődnek.)
+1. **A Beérkezett üzenetek mappából egy feladó blokkolása**
+    1. Jelölje ki az üzenetet.
+    1. Válassza ki a **levélszemét** > **Block** > **OK gombra**.
+    1. [Tudjon meg többet blokkolásához vagy feladók engedélyezéséhez.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Többet megtudni, olvassa el a [megjelölése, az Outlook.com levélszemét vagy blokk feladók e-mail](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. **Feladó hozzáadása a letiltott feladók listájához**
+    1. Nyissa meg a [levélszemét e-mail beállításait](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
+    1. **Tartományok és a letiltott feladók**csoportban **hozzáadása**.
+    1. Írja be az e-mail címet vagy tartományban kívánja blokkolni, és nyomja le az ENTER billentyűt.
+    1. A **szűrőket**Ha e-mail címet a megbízható feladók és a tartományok és biztonságos levelezőlisták megbízhatónak szeretne válassza.
+    1. Válassza a **Mentés** lehetőséget.
+
+1. **Beérkezett üzenetek szabály létrehozása**
+    1. Kattintson a jobb gombbal az üzenetlistában az üzenetet, és válassza a **szabály létrehozása**.
+    1. Válassza ki a mappát, ahová át kell adott feladótól érkező összes üzenet, és kattintson az **OK gombra** > **OK gombra**.
+    1. [További tudnivalók a Beérkezett üzenetekre vonatkozó szabályok az Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
