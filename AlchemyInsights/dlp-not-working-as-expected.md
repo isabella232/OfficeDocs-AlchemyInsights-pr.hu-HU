@@ -13,34 +13,38 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 3d8316502b4e51a101197a908cf691f0ab7f845a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1ea457bd69e7d545cf761a0be849695738b19d8b
+ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389615"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35941070"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP nem a várt módon működik
 
 Hogy problémák adódnak az **Adatok elvesztésének megakadályozása (DLP)** az Office 365 rendszerben nem a várt módon működik? Ha igen, ellenőrizze a **DLP házirend** helyesen van beállítva, és, hogy az adatok milyen a **DLP házirendet** tartalmaz keres Ha értékelt van.
   
- **DLP beállítása:**
+ **DLP beállítása**
   
 DLP házirendek segítségével azonosítása és a szervezet bizalmas információk védelme. DLP irányelvek beállítása, az információk [Itt](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
- **Milyen DLP házirendek keresése:**
+ **Milyen DLP házirendek keresése**
   
 Ha a **bizalmas adatok beépített típusok** használata az Office 365 biztonsági és kompatibilitási központ, DLP házirendek keresni bizonyos minták és elemek érzékeny típusaival észlelése esetén.
   
-- **Beépített érzékeny információk típusai:**
+- **Bizalmas adatok beépített típusok**
 
     A beépített érzékeny típusok és mi DLP házirendet keres az érzékeny típus észlelése esetén információt: [a bizalmas adatok milyen keresni](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- **Egyéni bizalmas adatok típusai:**
+- **Egyéni bizalmas adatok típusai**
 
     Próbál létrehozni egyéni bizalmas adatokat, ha használja a következő cikkben olvashat arról, hogyan hozhat létre egyéni érzékeny típusok: [létrehozása a egyéni bizalmas adatok típusa](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
 
- **Jelentések:**
+**A DLP házirend tesztelése**
+
+Ellenőrizheti az adatokat, és a beépített vagy egyéni bizalmas adatok típusa, használja a **Teszttípus** lehetőség szerinti **osztályozás** > **bizalmas információ típusát**. További információért lásd a [Teszttípus egyéni bizalmas adatokat](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+
+ **Jelentések**
   
 - A bizalmas adatok elképzelések Get [DLP jelentések.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
