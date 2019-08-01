@@ -13,18 +13,19 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: f827cb6b55aa7ea0eee27b85786c6fced933e621
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cc352670c7604e83dc3a0742c2caea334182303c
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372947"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36049142"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>A letiltott feladóktól érkező e-maileket kapni
 
 A blokkolt feladók e-mail továbbra is megjelenik a Beérkezett üzenetek mappában, ha lehet, hogy a feladó elrejtése a valódi e-mail címét. Ellenőrizze a feladó tényleges e-mail címe:
   
-1. Válassza ki a három ponttal jelölt az üzenetablak tetején, és válassza ki az **üzenet forrás megtekintése**.
+1. Válassza ki a három pont <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ az üzenet ablakot, és válassza ki **az üzenet forrásának megtekintése**tetején.
 2. A **forrásfájl** ablakban keresse meg a **Feladó** mezőben görgesse lefelé.
 3. Jelölje ki az e-mail cím belül, \< \> , és kattintson jobb gombbal a **másolandó**
 4. A másolt blokkolja a feladó címét használja. Feladók blokkolása című témakörben talál [, az Outlook.com levélszemét vagy blokk feladók e-mail megjelölése](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
