@@ -1,25 +1,24 @@
 ---
-title: Automatikusan létrehozott új adatmegőrzési címkék
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: 'További információ: adatmegőrzési szabályok'
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222994"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448837"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Automatikusan létrehozott új adatmegőrzési címkék
+# <a name="more-info-about-retention-policies"></a>További információ: adatmegőrzési szabályok
 
 A legtöbb szervezet, mennyisége és összetettsége az adataikat növekszik naponta - e-mail, dokumentumok, azonnali üzenetek, és így tovább.
-
-Hatékony kezelése vagy az irányadó Ez az információ fontos, adatmegőrzési segíthetnek e célok elérése érdekében. Adatmegőrzési szabályok kapcsolatos további tudnivalókért látogasson el az alábbi hivatkozásokra.
+Hatékony kezelése vagy az irányadó Ez az információ fontos, és adatmegőrzési segíthetnek e célok elérése érdekében. Adatmegőrzési szabályok Microsoft ezeket a hivatkozásokat:
 
 - [Adatmegőrzési szabályok áttekintése](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
