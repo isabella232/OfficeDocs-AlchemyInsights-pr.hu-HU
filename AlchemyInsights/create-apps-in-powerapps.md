@@ -1,5 +1,5 @@
 ---
-title: Alkalmazások létrehozása PowerApps
+title: Appok létrehozása a PowerAppsban
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404965"
 ---
-# <a name="create-apps-with-powerapps"></a>Alkalmazások létrehozása PowerApps
+# <a name="create-apps-with-powerapps"></a>Appok létrehozása a PowerApps-szal
 
-PowerApps egy fejlesztői platform az üzleti alkalmazások számára. Három fő összetevő van: 
+A PowerApps egy üzleti appokhoz készült fejlesztői platform. Három fő összetevőből áll: 
   
-- A felhasználói élmény, egy üres vászon hatásköre magasan szabott felületen létrehozásával és csatlakoztatni a 200 adatforrások megválasztása [apps vászon](https://go.microsoft.com/fwlink/?linkid=874495) kezdődhet. Vászon apps web, mobil és a tablet alkalmazásokat hozhat létre. 
+- A [vászonalapú appok](https://go.microsoft.com/fwlink/?linkid=874495) létrehozása a felhasználói felület elkészítésével kezdődik. Ez a nagymértékben személyre szabott felület egy üres vásznat tartalmaz, és 200, Ön által kiválasztott adatforráshoz csatlakoztatható. Vászonalapú appokat webes, mobil- és táblagép-alkalmazásokhoz készíthet. 
     
-- Az adatmodell - formanyomtatvány-mintát, nézeteket és egyéb összetevők az alakzatból, az alapvető üzleti adatok és folyamatok a közös adatok szolgáltatás kiépítése a [modell alapú alkalmazások](https://go.microsoft.com/fwlink/?linkid=874496) indítása. Modell alapú alkalmazások automatikus létrehozása a nagy felhasználói felület, amely válaszol eszközök között. 
+- A [modellalapú appok](https://go.microsoft.com/fwlink/?linkid=874496) készítésének első lépése az adatmodell létrehozása – az alapvető üzleti adatokból és a Common Data Service folyamataiból kiindulva űrlapok, nézetek és más összetevők modellezéséhez. A modellalapú appok esetében automatikusan létrejön egy olyan, nagyszerűen használható felhasználói felület, amely különböző eszközökön használható. 
     
-- [Általános adatok](https://go.microsoft.com/fwlink/?linkid=874497) szolgáltatása az adatok platform, amely lehetővé teszi a tárolására, és az üzleti adatok és PowerApps tartalmaz. A platform, amelyen Dynamics 365 alkalmazások épített. Ha a Dynamics vevő, az adatok már a közös adatok szolgáltatásban. 
+- A [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) a PowerApps részét képező adatplatform, amellyel üzleti adatok tárolhatók és modellezhetők. Ezen a platformon fejlesztik a Dynamics 365-alkalmazásokat. Ha Ön Dynamics-ügyfél, az adatai már megtalálhatók a Common Data Service szolgáltatásban. 
     
-[További információ: PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
+[További információ a PowerAppsról](https://go.microsoft.com/fwlink/?linkid=874498)
   
 
