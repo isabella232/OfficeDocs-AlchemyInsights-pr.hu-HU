@@ -1,21 +1,22 @@
 ---
 title: A központi webhelyen társítása
-ms.author: kirks
-author: Techwriter40
-ms.date: 1/3/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "1012"
 - "5300012"
-ms.openlocfilehash: 651df67ea7eec0526cf6c1cc61232c3d31125596
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+- "1012"
+ms.openlocfilehash: 88fe29b4aa89f05609b7aefc7732bb2b78cf3002
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903039"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270162"
 ---
 # <a name="associate-a-hub-site"></a>A központi webhelyen társítása
 
@@ -27,6 +28,6 @@ A központi webhelyen meglévő webhely társítása, tegye a következőket:
 
  > [!Note]
 >Ha nincs hely a Hub társítás lehetőség vagy helyek szerepelnek, elosztó helyek nem lesz engedélyezve vagy nincs jogosultsága helyek társítja a központi webhelyen. Forduljon a rendszergazdához további információt.
-
+>
 >Nincs társítható egy központi webhely webhelyek száma nem korlátozott.
   
