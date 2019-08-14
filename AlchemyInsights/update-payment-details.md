@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903704"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387757"
 ---
 # <a name="update-payment-details"></a>Fizetési adatok frissítése
 
-1. A Felügyeleti központban lépjen a [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra, vagy válassza a **Számlázás** \> **Fizetési módok** lehetőséget.
+1. A Felügyeleti központban lépjen a **Számlázás** \> [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra.
 
     > [!NOTE]
     > Ha egy végtelen ciklusba kerül, és a rendszer mindig visszalépteti a Felügyeleti központba, még mielőtt érvénybe lépnének a módosítások, próbálkozzon újra InPrivate vagy inkognitó módban.
@@ -37,4 +37,4 @@ ms.locfileid: "35903704"
 
 5. Ha törölni szeretné ezt a fizetési módot, válassza a **Törlés** elemet.
 
-További információt a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása az Office 365 Vállalati verzióban](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) és a [Hitelkártyákkal és bankszámlákkal kapcsolatos problémák elhárítása](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) című cikkben talál.
+További információt a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása az Office 365 Vállalati verzióban](https://docs.microsoft.com/hu-HU/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) és a [Hitelkártyákkal és bankszámlákkal kapcsolatos problémák elhárítása](https://docs.microsoft.com/hu-HU/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts) című cikkben talál.
