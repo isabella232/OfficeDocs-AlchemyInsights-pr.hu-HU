@@ -13,18 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 5365cef480f22523e8410acf24f4845026f52a02
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 84538224f9f00f5807489449f3d5e75b99656313
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359767"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386946"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Az Office 365-előfizetés lemondása?
 
 Sajnáljuk, hogy go!
   
-A szervezeti adatok alapján, úgy véljük, az aktuális előfizetések legalább 25 ülések rendelkezik. Online előfizetés törléséhez lépjen az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy keresse fel a **Számlázási** \> **előfizetések**, majd válassza a **További műveletek** \> **előfizetés**.
+A szervezeti adatok alapján, úgy véljük, az aktuális előfizetések legalább 25 ülések rendelkezik. Online előfizetés törléséhez lépjen a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon, majd kattintson a **További műveletek** \> **előfizetés**.
   
-További előfizetés lemondása vagy lépésenkénti, lásd a cikk: [üzleti Office 365 visszavonása](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-  
+További előfizetés lemondása vagy lépésenkénti, lásd a cikk: [előfizetés](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Hét 2019. július 01.
-
-
-| Közzétett |A témakör címe | Módosítása |
-|------|------------|--------|
-| a 2019/7/1 | [Klasszikus SharePoint naplójelentések](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | módosítva |
-| a 2019/7/2 | [További információ: adatmegőrzési szabályok](/AlchemyInsights/office-security-compliance-retention-policy) | módosítva |
-
-
 ## <a name="week-of-july-08-2019"></a>Hét 2019. július 08.
 
 
@@ -220,3 +211,69 @@
 | a 2019/8/2 | [Az e-mail az Outlook programban a weben rendezése](/AlchemyInsights/owa-organize-email) | módosítva |
 | a 2019/8/2 | [E-mail, naptárak és mellékletek az Outlook programban a weben nyomtatása](/AlchemyInsights/owa-print-email-calendars-attachments) | módosítva |
 | a 2019/8/2 | [Az olvasási visszaigazolások az Outlook programban a weben](/AlchemyInsights/owa-read-receipts) | módosítva |
+
+
+## <a name="week-of-august-05-2019"></a>Hét 2019. augusztus 05.
+
+
+| Közzétett |A témakör címe | Módosítása |
+|------|------------|--------|
+| a 2019/8/5 | [Hogyan szeretne válaszolni vagy az Outlook programban a weben üzenetek továbbítására](/AlchemyInsights/owa-reply-forward-messages) | módosítva |
+| a 2019/8/5 | [8000003 levél keresése és személyek az Outlook programban a weben](/AlchemyInsights/owa-search-mail-and-people) | módosítva |
+| a 2019/8/5 | [Aláírás létrehozása az Outlook programban a weben](/AlchemyInsights/owa-signature) | módosítva |
+| a 2019/8/5 | [S/MIME az Outlook programban a weben](/AlchemyInsights/owa-smime) | módosítva |
+| a 2019/8/5 | [STOP hibaüzenetek is eljusson a Junk E-mail mappát az Outlook programban a weben](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | módosítva |
+| a 2019/8/5 | [Kapcsolja ki a Beérkezett üzenetek koncentrált](/AlchemyInsights/owa-turn-off-focused-inbox) | módosítva |
+| a 2019/8/5 | [1332 OWA - Beérkezett üzenetek szabály(ok) nem végrehajtása postafiókhoz](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | módosítva |
+| a 2019/8/6 | [Beágyazott képek Alkímia tesztelése](/AlchemyInsights/testing-alchemy-inline-images) | módosítva |
+| a 2019/8/6 | [Speciális veszély védelmi SharePoint és OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | módosítva |
+| a 2019/8/6 | [A SharePoint- vagy OneDrive Ransomware támadás](/AlchemyInsights/ransomware-attack-in-sharepoint) | módosítva |
+| a 2019/8/6 | [A modern webhelyre, ahol a legfelső szintű webhely](/AlchemyInsights/modern-site-as-the-root-site) | módosítva |
+| a 2019/8/6 | [Problémák a SharePoint online adatok áttelepítése során](/AlchemyInsights/sharepoint-data-size-migration-issues) | módosítva |
+| a 2019/8/6 | [Letöltés vagy OneDrive vagy SharePoint fájlok letöltése megakadályozása](/AlchemyInsights/sharepoint-onedrive-download-files) | módosítva |
+| a 2019/8/6 | [Hibaelhárítás a hozzáférés megtagadva a OneDrive üzenetek üzleti helyek](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | módosítva |
+| a 2019/8/6 | [A törölt fájlok és mappák visszaállítása](/AlchemyInsights/sharepoint-deleted-items-restore) | módosítva |
+| a 2019/8/6 | [A OneDrive és a SharePoint verziószámozásának](/AlchemyInsights/sharepoint-enable-versioning-list-library) | módosítva |
+| a 2019/8/6 | [OneDrive fenntartását és törlés információk](/AlchemyInsights/one-drive-retention-and-deletion) | módosítva |
+| a 2019/8/7 | [Megakadályozza, hogy a fájlok letöltését a SharePoint- vagy OneDrive](/AlchemyInsights/prevent-download) | módosítva |
+| a 2019/8/7 | [A törölt fájlok és mappák visszaállítása](/AlchemyInsights/sharepoint-deleted-items-restore) | módosítva |
+| a 2019/8/7 | [A SharePoint Online külső megosztásának engedélyezése](/AlchemyInsights/sharepoint-enable-external-sharing) | módosítva |
+| a 2019/8/7 | [OneDrive Szinkronizációs problémák megoldása](/AlchemyInsights/fix-onedrive-sync-issues) | módosítva |
+| a 2019/8/7 | [A OneDrive szinkronizációs problémáinak elhárítása](/AlchemyInsights/fix-onedrive-sync-problems) | módosítva |
+| a 2019/8/7 | [A munkafolyamat e-mailben nem küldi el](/AlchemyInsights/workflow-email-not-being-sent) | módosítva |
+| a 2019/8/7 | [A munkafolyamat nem indul](/AlchemyInsights/workflow-is-not-starting) | módosítva |
+| a 2019/8/7 | [Speciális veszély védelmi SharePoint és OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | módosítva |
+| a 2019/8/7 | [A központi webhelyen társítása](/AlchemyInsights/associate-a-hub-site) | módosítva |
+| a 2019/8/7 | [A SharePoint-webhely létrehozása](/AlchemyInsights/create-a-sharepoint-site) | módosítva |
+| a 2019/8/7 | [A modern webhelyre, ahol a legfelső szintű webhely](/AlchemyInsights/modern-site-as-the-root-site) | módosítva |
+| a 2019/8/7 | [OneDrive fenntartását és törlés](/AlchemyInsights/one-drive-retention-and-deletion) | módosítva |
+| a 2019/8/7 | [OneDrive gyakori problémák és megoldásuk](/AlchemyInsights/onedrive-common-issues-and-resolutions) | módosítva |
+| a 2019/8/7 | [A SharePoint- vagy OneDrive Ransomware támadás](/AlchemyInsights/ransomware-attack-in-sharepoint) | módosítva |
+| a 2019/8/7 | [Külső SharePoint Online megosztása](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | módosítva |
+| a 2019/8/7 | [A OneDrive és a SharePoint verziószámozásának](/AlchemyInsights/sharepoint-enable-versioning-list-library) | módosítva |
+| a 2019/8/7 | [Külső ügyfél nem tudja elfogadni a megosztási meghívást.](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | módosítva |
+| a 2019/8/7 | [SharePoint Online gyakori problémák és megoldásuk](/AlchemyInsights/sharepoint-get-started-faq) | módosítva |
+| a 2019/8/7 | [A modern webhelyre, ahol a legfelső szintű webhely](/AlchemyInsights/sharepoint-modernize-classic-site) | módosítva |
+| a 2019/8/7 | [Letöltés vagy OneDrive vagy SharePoint fájlok letöltése megakadályozása](/AlchemyInsights/sharepoint-onedrive-download-files) | módosítva |
+| a 2019/8/7 | [Telepíteni, a telepítés és a Mac OneDrive vagy a SharePoint fájlok](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | módosítva |
+| a 2019/8/7 | [A SharePoint Online "Nyitott az Explorer" problémák elhárítása](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | módosítva |
+| a 2019/8/8 | [Speciális veszély védelmi SharePoint és OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | módosítva |
+| a 2019/8/8 | [A központi webhelyen társítása](/AlchemyInsights/associate-a-hub-site) | módosítva |
+| a 2019/8/8 | [A SharePoint-webhely létrehozása](/AlchemyInsights/create-a-sharepoint-site) | módosítva |
+| a 2019/8/8 | [404-es hiba: A fájl nem található](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | módosítva |
+| a 2019/8/8 | [A Mac OneDrive Szinkronizációs problémák megoldása](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | módosítva |
+| a 2019/8/8 | [Egy SharePoint-tárba hálózati meghajtó csatlakoztatása](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | módosítva |
+| a 2019/8/8 | [A modern webhelyre, ahol a legfelső szintű webhely](/AlchemyInsights/modern-site-as-the-root-site) | módosítva |
+| a 2019/8/8 | [OneDrive fenntartását és törlés](/AlchemyInsights/one-drive-retention-and-deletion) | módosítva |
+| a 2019/8/8 | [A SharePoint- vagy OneDrive Ransomware támadás](/AlchemyInsights/ransomware-attack-in-sharepoint) | módosítva |
+| a 2019/8/8 | [A törölt fájlok és mappák visszaállítása](/AlchemyInsights/sharepoint-deleted-items-restore) | módosítva |
+| a 2019/8/8 | [Külső felhasználó nem tudja elérni a SharePoint Online tartalom](/AlchemyInsights/sharepoint-external-sharing-issues) | módosítva |
+| a 2019/8/8 | [A SharePoint központi helyek – áttekintés](/AlchemyInsights/sharepoint-hub-sites) | módosítva |
+| a 2019/8/8 | [Letöltés vagy OneDrive vagy SharePoint fájlok letöltése megakadályozása](/AlchemyInsights/sharepoint-onedrive-download-files) | módosítva |
+| a 2019/8/8 | [A SharePoint Online keresés séma kezelése](/AlchemyInsights/sharepoint-search-schema) | módosítva |
+| a 2019/8/8 | [SharePoint-munkafolyamat létrehozásának lépései](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | módosítva |
+| a 2019/8/8 | [A klasszikus Modern webhely legfelső szintű webhely felcserélése](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | módosítva |
+| a 2019/8/8 | [A SharePoint Online "Nyitott az Explorer" problémák elhárítása](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | módosítva |
+| a 2019/8/8 | [Munkafolyamat – hibaelhárítás](/AlchemyInsights/workflow-troubleshooting) | módosítva |
+| a 2019/8/8 | [Engedélyezése és keresési ellenőrzési napló](/AlchemyInsights/enable-auditing) | módosítva |
+| a 2019/8/8 | [Engedélyezés és a keresési napló](/AlchemyInsights/enable-auditing) | módosítva |

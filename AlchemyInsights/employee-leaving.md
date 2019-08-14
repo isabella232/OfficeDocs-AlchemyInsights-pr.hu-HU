@@ -13,16 +13,16 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 93e354494902d7ca52f5c3d6117be895975f52f0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388715"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386370"
 ---
 # <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>Van egy alkalmazott elhagyja, és hozzáférés az adatokhoz és e-mail zárolnia kell?
   
-1. Ugrás az [aktív felhasználók](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+1. A felügyeleti központ **felhasználók** Ugrás \> [Aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapján.
 
 2. Jelölje ki a letiltani kívánt felhasználót.
 
@@ -30,4 +30,4 @@ ms.locfileid: "35388715"
 
 4. Válassza **a bejelentkezés során a felhasználó blokkolja** \> **mentése**.
 
- **Megjegyzés**: egyes alkalmazások nem lehet közvetlen kijelentkezési. A cikkben további műveleteket hajtson végre: [távolítsa el az Office 365 korábbi alkalmazott](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+**Megjegyzés**: egyes alkalmazások nem lehet közvetlen kijelentkezési. A cikkben további műveleteket hajtson végre: [távolítsa el az Office 365 korábbi alkalmazott](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)

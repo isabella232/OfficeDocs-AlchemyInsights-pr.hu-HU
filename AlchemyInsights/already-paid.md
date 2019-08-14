@@ -13,18 +13,18 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: ec00594736ec3f4dab085127ffbd4fc688df7d01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ca67a737bb7a5210e4ff76b80a694ea4740fd5d8
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357103"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386178"
 ---
 # <a name="already-paid"></a>Már kifizetett?
 
 Ha már elküldte fizetés, tudassa velünk is:
   
-1. Az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon, vagy válassza a **Számlázási** \> **előfizetések**.
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
 
 2. Előfizetés és a **számlával** csoportban kiválasztható a **Nézet számlázási**.
 

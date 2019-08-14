@@ -13,24 +13,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 2754d2c8a1d0e2ab5aaf751ca3bedfe41b11ba3a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387895"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389034"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>A próbaverziós Office 365 üzleti kiterjesztése
 
 Próba-előfizetése lejár számított 15 napon belül, és a vizsgálat még nem lett bővítve előtt, ha egy másik 30 napon belül a kísérleti bővítheti. Ezt csak egyszer teheti meg.
   
-1. A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
 
 2. Válassza ki a próba-előfizetésre, hogy ki szeretné terjeszteni.
 
-3. Válassza a **próbaverzió bővítése** , és hajtsa végre a varázsló.
+3. Válassza ki a **próba bővítése** , és hajtsa végre a hátralévő lépéseket.
 
 4. Meg kell adnia a hitelkártyája adatait a próbaverzió kiterjeszteni. A Microsoft nem számítanak fel a próbaverzió kiterjesztés hitelkártyáját.
 
-További kísérletek bővítéséről vagy lépésenkénti [bővítése a próbaverziós Office 365 üzleti](https://support.office.com/article/75533195-f1f6-4c2c-8ceb-0b5597790d7b)című témakörben talál.
-  
+További kísérletek bővítéséről vagy lépésenkénti [bővítése a próbaverziós Office 365 üzleti](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial)című témakörben talál.

@@ -13,16 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 05441af38fff4f6920a801aceb0dc5456d276b2f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b91e12002a58e206d03142b3ab8b9090dfafacd5
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357283"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386226"
 ---
 # <a name="all-subscriptions-are-active"></a>Minden előfizetés aktív
 
-Az előfizetések is aktív. Ez az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) weblapra vagy **Számlázási** kiválasztásával lehet ellenőrizni \> **előfizetések**. Az előfizetések, aktív előfizetések felső állapot szerint vannak rendezve. További információk, például a licenc száma és a fizetési mód, az előfizetés paranccsal tekintheti meg.
+Az előfizetések is aktív. Nyissa meg a **Számlázási** ez ellenőrizhető \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot. Az előfizetések, aktív előfizetések felső állapot szerint vannak rendezve. További információk, például a licenc száma és a fizetési mód, az előfizetés paranccsal tekintheti meg.
   
 Ha problémái vannak a szolgáltatáshoz, egy támogatási mérnök beszélgetni "tudassa velünk hívja meg" lehetőség használatával.
-  

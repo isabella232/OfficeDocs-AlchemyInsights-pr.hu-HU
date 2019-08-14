@@ -13,20 +13,20 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: e84f1102a5862bf76bbb24a99fa13835dedd6a79
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367399"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388026"
 ---
 # <a name="too-many-licenses"></a>Túl sok licenceket?
 
 Ha úgy gondolja, hogy túl sok licencek éppen folyamatban számlázott, ennek oka általában tekintettel több licencet vásárolt, akkor szükséges.
   
- **A megvásárolt licencek számának csökkentése**
+**A megvásárolt licencek számának csökkentése**
   
-1. A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
 
 2. A bal oldalon válassza az előfizetést, amelyből szeretne a licencek eltávolításához.
 
@@ -35,3 +35,5 @@ Ha úgy gondolja, hogy túl sok licencek éppen folyamatban számlázott, ennek 
 4. Adja meg a szükséges felhasználók száma összesen. Például ha el szeretné távolítani 5 jelenleg 25 licenccel rendelkezik, adja meg 20 ebben a mezőben.
 
 5. Válassza a **Submit** (Küldés) gombot.
+
+Az új felügyeleti központ használatával? [Távolítsa el az Office 365 üzleti előfizetés licencei](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)talál új lépéseket.
