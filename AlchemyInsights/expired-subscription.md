@@ -13,29 +13,31 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a32b3df7df1975b69d3c618195ab3dab3a8da51c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388031"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389087"
 ---
-# <a name="expired-subscription"></a><span data-ttu-id="e6147-102">Lejárt előfizetés</span><span class="sxs-lookup"><span data-stu-id="e6147-102">Expired subscription</span></span>
+# <a name="expired-subscription"></a><span data-ttu-id="5f9e9-102">Lejárt előfizetés</span><span class="sxs-lookup"><span data-stu-id="5f9e9-102">Expired subscription</span></span>
 
-<span data-ttu-id="e6147-103">Úgy tűnik, hogy van egy vagy több lejárt előfizetések.</span><span class="sxs-lookup"><span data-stu-id="e6147-103">It appears you have one or more expired subscriptions.</span></span> <span data-ttu-id="e6147-104">Ha azt szeretné, a szolgáltatás folytatása, az előfizetés újraaktiválása, vagy az új vásárolni.</span><span class="sxs-lookup"><span data-stu-id="e6147-104">If you would like to continue service, you must reactivate the subscription, or make a new purchase.</span></span>
+<span data-ttu-id="5f9e9-103">Úgy tűnik, hogy van egy vagy több lejárt előfizetések.</span><span class="sxs-lookup"><span data-stu-id="5f9e9-103">It appears you have one or more expired subscriptions.</span></span> <span data-ttu-id="5f9e9-104">Ha azt szeretné, a szolgáltatás folytatása, az előfizetés újraaktiválása, vagy az új vásárolni.</span><span class="sxs-lookup"><span data-stu-id="5f9e9-104">If you would like to continue service, you must reactivate the subscription, or make a new purchase.</span></span>
   
- <span data-ttu-id="e6147-105">**Újraaktiválása**</span><span class="sxs-lookup"><span data-stu-id="e6147-105">**Reactivate**</span></span>
+<span data-ttu-id="5f9e9-105">**Újraaktiválása**</span><span class="sxs-lookup"><span data-stu-id="5f9e9-105">**Reactivate**</span></span>
   
-1. <span data-ttu-id="e6147-106">A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="e6147-106">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="5f9e9-106">A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.</span><span class="sxs-lookup"><span data-stu-id="5f9e9-106">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="e6147-107">Válassza ki az előfizetés aktiválni kell.</span><span class="sxs-lookup"><span data-stu-id="e6147-107">Choose the subscription to be reactivated.</span></span>
+2. <span data-ttu-id="5f9e9-107">Válassza ki az előfizetés aktiválni kell.</span><span class="sxs-lookup"><span data-stu-id="5f9e9-107">Choose the subscription to be reactivated.</span></span>
 
-3. <span data-ttu-id="e6147-108">A jobb oldali **újraaktiválása**kiválasztása.</span><span class="sxs-lookup"><span data-stu-id="e6147-108">On the right, choose **Reactivate**.</span></span>
+3. <span data-ttu-id="5f9e9-108">A jobb oldali **újraaktiválása**kiválasztása.</span><span class="sxs-lookup"><span data-stu-id="5f9e9-108">On the right, choose **Reactivate**.</span></span>
 
- <span data-ttu-id="e6147-109">**A vásárlás új**</span><span class="sxs-lookup"><span data-stu-id="e6147-109">**Make a new purchase**</span></span>
+<span data-ttu-id="5f9e9-109">Az új felügyeleti központ használatával?</span><span class="sxs-lookup"><span data-stu-id="5f9e9-109">Are you using the new admin center?</span></span> <span data-ttu-id="5f9e9-110">[Az előfizetés újraaktiválása](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)témakörben talál új lépéseket.</span><span class="sxs-lookup"><span data-stu-id="5f9e9-110">For new steps, see [Reactivate your subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+
+<span data-ttu-id="5f9e9-111">**A vásárlás új**</span><span class="sxs-lookup"><span data-stu-id="5f9e9-111">**Make a new purchase**</span></span>
   
-1. <span data-ttu-id="e6147-110">A felügyeleti központ a [Vásárlási szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=868433) lapon, vagy válassza a **Számlázási** \> **Vásárlási szolgáltatások**.</span><span class="sxs-lookup"><span data-stu-id="e6147-110">In the Admin center, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
+1. <span data-ttu-id="5f9e9-112">A felügyeleti központ, keresse meg a **Számlázási** \> [Beszerzési](https://go.microsoft.com/fwlink/p/?linkid=868433) szolgáltatások.</span><span class="sxs-lookup"><span data-stu-id="5f9e9-112">In the admin center, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-2. <span data-ttu-id="e6147-111">Válassza ki a kívánt beszerzési előfizetés.</span><span class="sxs-lookup"><span data-stu-id="e6147-111">Choose a subscription you would like to purchase.</span></span>
+2. <span data-ttu-id="5f9e9-113">Válassza ki a kívánt beszerzési előfizetés.</span><span class="sxs-lookup"><span data-stu-id="5f9e9-113">Choose a subscription you would like to purchase.</span></span>
 
-3. <span data-ttu-id="e6147-112">A mozaik fölé, és válassza a **vásárlás**.</span><span class="sxs-lookup"><span data-stu-id="e6147-112">Hover over the tile, and choose **Buy now**.</span></span>
+3. <span data-ttu-id="5f9e9-114">A mozaik fölé, és válassza a **vásárlás**.</span><span class="sxs-lookup"><span data-stu-id="5f9e9-114">Hover over the tile, and choose **Buy now**.</span></span>

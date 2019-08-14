@@ -13,14 +13,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 8fde8f671ba7290740b48b830e42831e503928a9
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2ea82331f388fd8903d30ea4d479311f9af9dc31
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384035"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390946"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="63bcd-102">Hogyan kell vásárolnia az Office 365 oktatási tervek</span><span class="sxs-lookup"><span data-stu-id="63bcd-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="42697-102">Hogyan kell vásárolnia az Office 365 oktatási tervek</span><span class="sxs-lookup"><span data-stu-id="42697-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="63bcd-103">Az Office 365 végzettség felülvizsgálat alatt áll.</span><span class="sxs-lookup"><span data-stu-id="63bcd-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="63bcd-104">A jogosultság megállapítására vonatkozó értesítést kap a próbaverzió lejárta előtt várható.</span><span class="sxs-lookup"><span data-stu-id="63bcd-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
-  
+<span data-ttu-id="42697-103">Az Office 365 végzettség felülvizsgálat alatt áll.</span><span class="sxs-lookup"><span data-stu-id="42697-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="42697-104">A jogosultság megállapítására vonatkozó értesítést kap a próbaverzió lejárta előtt várható.</span><span class="sxs-lookup"><span data-stu-id="42697-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
