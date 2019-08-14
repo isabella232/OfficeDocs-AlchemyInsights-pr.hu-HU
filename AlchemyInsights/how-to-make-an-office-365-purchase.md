@@ -13,29 +13,31 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: ffffbe80c67e223aa7084dd93944c63a055c069e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384323"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390982"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Hogyan lehet az Office 365-beszerzés
 
-Beszerzések az Office 365 felügyeleti közepén tehető. Az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon, vagy válassza a **Számlázási** \> **előfizetések**.
+Beszerzések az Office 365 felügyeleti közepén tehető.
   
-- Az Office 365 előfizetés Ugrás a [Beszerzési](https://go.microsoft.com/fwlink/p/?linkid=868433) szolgáltatások vásárlására, vagy válassza ki a **Számlázási** \> **Beszerzési szolgáltatásokat**.
+- Meg kell vásárolnia az Office 365 előfizetés Ugrás **Számlázási** \> [Beszerzési](https://go.microsoft.com/fwlink/p/?linkid=868433) szolgáltatások.
 
-- Beszerzési, további licencek lépjen az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázási** \> **előfizetések**. Az **előfizetések** lapon válassza ki a kívánt licencek hozzáadása az előfizetést, és kattintson a **licencek hozzáadása**.
+- További licencek vásárlása, látogasson el a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot. Az **előfizetések** lapon válassza ki a kívánt licencek hozzáadása az előfizetést, és kattintson a **licencek hozzáadása**.
 
 - Váltás egy másik terv:
 
   - A rendelkezésre álló új tervek listájának megtekintéséhez válassza ki a **kapcsoló tervek** .
 
   - Válasszon egy tervet havonta új teljes költségét. Feltétlenül olvassa el a fontos információk, majd kattintson a **Tovább** lehessen kivenni.
+
+Az új felügyeleti központ használatával? Új lépéseket talál [egy másik séma frissítése](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
   
  **További források**
   
-- [Licencek hozzárendelése felhasználókhoz az Office 365 Vállalati verzióban](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [Licencek hozzárendelése felhasználókhoz az Office 365 Vállalati verzióban](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Office 365 üzleti visszavonása](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Office 365 üzleti visszavonása](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

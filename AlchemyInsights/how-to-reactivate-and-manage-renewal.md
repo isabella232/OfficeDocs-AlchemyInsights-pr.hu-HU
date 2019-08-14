@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383531"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389938"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Újraaktiválás, és ismétlődő Számlázás kezelése
 
 Néz ki, mint az előfizetés már lejárt. Ha meg szeretné újraaktiválni most, itt hogyan.
   
-1. A felügyeleti központ lépjen az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy keresse fel a **Számlázási** \> **előfizetések**.
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
 
 2. Válassza ki a **lejárt** vagy **letiltott**előfizetésnél.
 
@@ -36,11 +36,10 @@ Néz ki, mint az előfizetés már lejárt. Ha meg szeretné újraaktiválni mos
 
 Havi vagy éves Számlázás kezelése válthat **ismétlődő számlázás** be- vagy kikapcsolása.
   
-1. A felügyeleti központ lépjen az [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy keresse fel a **Számlázási** \> **előfizetések**.
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
 
 2. Válassza ki az előfizetést, amelyhez be szeretné állítani az ismétlődő számlázás.
 
 3. Váltás az **ismétlődő számlázási** váltó **be** - vagy **kikapcsolása**.
 
-További információkért lásd: [az előfizetés számlázási ismétlődő kezelése](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+További tudnivalókért lásd: [ismétlődő számlázási ki- és bekapcsolása](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

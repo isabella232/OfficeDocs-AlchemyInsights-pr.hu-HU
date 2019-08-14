@@ -13,16 +13,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 934312fdf790a9f51bb3882c460b8b984f98a310
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c48290d634ad3b931c9c2654dfec9d77bb27be62
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383963"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390154"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Hogyan kell vásárolnia az Office 365 oktatási tervek
 
 Azt a kérést felülvizsgálják, és ez a szervezet, nem mint Microsoft minősített oktatási intézmény jogosult meghatározni. A jelenlegi tudományos kipróbálási ajánlatok a próbaidőszak végén lejár.
   
-Meg kell vásárolnia az Office 365 kereskedelmi szempontból, lásd a [rendelkezésre álló ajánlatokért](https://go.microsoft.com/fwlink/p/?linkid=868433).
-  
+Meg kell vásárolnia az Office 365 kereskedelmi szempontból, lásd a [rendelkezésre álló ajánlatokért](https://go.microsoft.com/fwlink/p/?linkid=868433).  

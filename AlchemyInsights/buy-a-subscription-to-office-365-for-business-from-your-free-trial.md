@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359351"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386874"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Office 365-ös előfizetés vásárlása az ingyenes próbaverzióból
 
@@ -26,18 +26,16 @@ Kipróbálta az Office 365-öt, és készen áll a vásárlásra? Két lehetős�
   
  **Megvásárolhatja a azonos programot a próbaverzió**
   
-1. A Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, vagy válassza a **Számlázás** \> **Előfizetések** lehetőséget.
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
 
 2. **Vásároljon most** válassza ki a próba-előfizetésre kívánt, és kövesse a lépéseket a kivétel.
 
 vagy **egy másik előfizetést vásárolhat**
   
-1. Jelentkezzen be globális rendszergazdaként az Office 365-be munkahelyi vagy iskolai fiókjával. [Részletes tudnivalók a bejelentkezésről](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
 
-2. Válassza ki az **Office 365** a kezdőlapján.
+2. Az **előfizetés** lapon válassza ki a **Hozzáadás előfizetések**.
 
-3. A navigációs sáv alatt, az oldal jobb felső sarkában, válassza a **Beszerzés**.
+3. Keresse meg az előfizetést vásárolni, válassza a **Buy Now**és kövesse a lépéseket a kivenni kívánt.
 
-4. A **beszerzési előfizetések** lapon a kívánt terv van egy **Próba a** szalagcím.
-
-5. **Vásároljon most** válassza ki a próba-előfizetésre kívánt, és kövesse a lépéseket a kivétel.
+Az új felügyeleti központ használatával? Új lépéseket talál [egy üzleti az ingyenes próbaidőszak az Office 365-előfizetés vásárlása](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
