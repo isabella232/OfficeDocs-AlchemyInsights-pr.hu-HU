@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371435"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444774"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Tartalom keresése és elektronikus adatok feltárása keresések végrehajtása
 
-**Tartalom keresése**
+Az a biztonsági & Megfelelési központba gyorsan megtalálhatja az Exchange postafiókokon, a SharePoint-webhelyek és OneDrive fiókot, és azonnali üzenetküldő beszélgetések a Skype üzleti dokumentumok e-mailben a tartalom keresési eszköz használatával. A tartalom keresési eszköz segítségével e-mail, dokumentumok és azonnali üzenetküldő beszélgetések az Office 365 együttműködési eszközök, például a Microsoft Teams és az Office 365 csoportok keresése.
+
+**Tartalom keresés végrehajtásához**
 
 1. Látogasson el a [Megfelelési központba biztonsági &](https://protection.office.com) , és jelentkezzen be.
-2. Kattintson a **Keresés & vizsgálat > tartalom keresés**.
+2. Kattintson a **Keresés > tartalom keresés**.
 3. **Új keresés** létrehozása, új keresés gombra.
 4. Adja meg a szükséges keresési feltételeket, beleértve a kulcsszavakat és a tartalom helye.  
 5. Kattintson a **Futtatás & menteni** a keresési név, indítsa el, majd ezután az eredmény mintaképét.
 
-Részletes ismertetése a keresések létrehozása és exportálása eredmények [cikkben](https://docs.microsoft.com/office365/securitycompliance/content-search)talál.
+Részletes ismertetése a tartalom keresés eredmények exportálása és létrehozása, adatok tárolásához elektronikus adatok feltárása esetek: [Tartalom keresési](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) és [elektronikus adatok feltárása esetek](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
 
-**elektronikus adatok feltárása keresések**
-
-1. Látogasson el a [Megfelelési központba biztonsági &](https://protection.office.com) , és jelentkezzen be.
-2. Kattintson a **Keresés & vizsgálat > elektronikus adatok feltárása**.
-3. Nyisson meg egy meglévő esettel, és hozzon létre egy újat.
-4. Eset kezdőlapján kattintson a **Keresés** fülre.  
-5. **Új keresés** létrehozása, új keresés gombra.
-6. Adja meg a szükséges keresési feltételeket, beleértve a kulcsszavakat és a tartalom helye.  
-7. Kattintson a **Futtatás & menteni** a keresési név, indítsa el, majd ezután az eredmény mintaképét.
-
-Keresések létrehozása részletes ismertetése az elektronikus adatok feltárása esethez társított, és exportálja az eredményeket, lásd [a cikk](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Tartalom keresése a [kapcsolatos követelményeket és korlátozásokat](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) és a [vizsgáló részben indexelt elem](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) megtekintésével kapcsolatban további és más eredményeket kell megérteni.

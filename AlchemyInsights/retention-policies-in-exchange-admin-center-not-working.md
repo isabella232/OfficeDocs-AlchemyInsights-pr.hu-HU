@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369667"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444810"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Az Exchange felügyeleti központ adatmegőrzési szabályok
 
@@ -56,4 +56,9 @@ ms.locfileid: "35369667"
   ```
 
  **Megjegyzés:** Ha a postafiók 10 MB-nál kisebb, a kezelt Mappakezelő nem dolgozza fel automatikusan a postafiókot.
-  
+ 
+Adatmegőrzési szabályok az Exchange felügyeleti központban található további információ az alábbi témakörökben található:
+- [Adatmegőrzési címkéket és adatmegőrzési szabályok](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Postafiókok adatmegőrzési szabály alkalmazása](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [És adatmegőrzési címkék törlése](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Tartás típusának azonosítása fektetni postafiók](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
