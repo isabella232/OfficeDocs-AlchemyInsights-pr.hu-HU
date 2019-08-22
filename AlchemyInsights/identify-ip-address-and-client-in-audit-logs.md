@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382955"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539031"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-cím és a naplókat az ügyfél azonosítása
 
-Az IP-cím, amely megfelel egy tevékenység egy felhasználó vagy rendszergazda által a naplófájlban jelenik meg. Az ügyfél adatait is naplózza. Az alábbiakban a lépéseket, hogy ilyen információk azonosítása
+Az IP-cím, amely megfelel az Office 365-felhasználó vagy rendszergazda által tevékenység jelenik meg a naplókat. Az ügyfél adatait is naplózza. Az alábbiakban a lépéseket, hogy ilyen információk azonosítása
 
-1. Jelentkezzen be az [Office 365 biztonsági & kompatibilitási központ](https://protection.office.com/)
+1. Jelentkezzen be az [Office 365 biztonsági & Megfelelési központba](https://protection.office.com/).
 
-2. Kattintson a **Keresés és a vizsgálat** , és válassza a **Könyvvizsgálati napló Search**.
+2. Keresse fel a **keresési** > **Audit napló** keresőlap.
 
    Ha érdekli az adott tevékenység, **tevékenységek** listából jelölje ki azt. Ha nem, minden tevékenység visszatér a kijelölt felhasználó (alapértelmezett beállítás).
 

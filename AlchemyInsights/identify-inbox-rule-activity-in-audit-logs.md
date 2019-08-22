@@ -12,20 +12,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383027"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539172"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Beérkezett üzenetek szabály tevékenység naplók azonosítása
 
-A biztonsági & Megfelelési központba ellenőrzési napló keresés segítségével megtekinteni a Beérkezett üzenetek szabály eseményeket (létrehozása, módosítása és törlése a Beérkezett üzenetekre vonatkozó szabályok).
+Az Office 365 biztonsági & Megfelelési központba ellenőrzési napló keresés segítségével megtekinteni a Beérkezett üzenetek szabály eseményeket (létrehozása, módosítása és törlése a Beérkezett üzenetekre vonatkozó szabályok).
 
-1. Jelentkezzen be az [Office 365 biztonsági & kompatibilitási központ](https://protection.office.com/)
+1. Jelentkezzen be az [Office 365 biztonsági & Megfelelési központba](https://protection.office.com/).
 
-2. Kattintson a **Keresés és a vizsgálat** , és válassza a **Könyvvizsgálati napló Search**.
+2. Keresse fel a **keresési** > **Audit napló** keresőlap.
 
 3. Jelöljük ki a dátumot a **Kezdő dátum** és **Záró dátum** mezőket.
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405810"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514130"
 ---
 # <a name="delete-a-communication-site"></a>Kommunikációs webhely törlése
 
@@ -25,14 +25,12 @@ Kommunikációs hely törléséhez hajtsa végre az alábbi lépéseket:
   
 3. A **Helyinformáció** **hely törlése**gombra, és válassza a **Törlés**. 
   
-A rendszergazdák úgy is törölheti, kommunikációs hely a Modern Admin Center a következő lépéseket: 
+A rendszergazdák úgy is törölheti, kommunikációs hely az új admin Center a következő lépéseket: 
   
-1. Próbálja meg az új Admin Center jobb felső sarkában található **próbálja ki most** gombra kattint. 
+1. A bal oldalon válassza az **aktív helyek** . 
   
-2. Jelölje be az **aktív helyek**. 
+2. Kattintson a Tovább gombra a webhely törlése, és a felső menü jelenik meg a **Törlés** gombra. 
   
-3. Kattintson a Tovább gombra a webhely törlése, és a felső menü jelenik meg a **Törlés** gombra. 
-  
- **Megjegyzés:** Ha szeretné, hogy véglegesen törli a kommunikációs helyet (eltávolításával a Lomtárból) újra használhatja a webhely URL-CÍMÉT, így használja [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) értékeléséhez a Lomtár és [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) a hely eltávolítása a Lomtár. 
+ **Megjegyzés:** Ha szeretné, hogy véglegesen törli a kommunikációs helyet (eltávolításával a Lomtárból) így újra használhatja a webhely URL-CÍMÉT, használja a [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) a Lomtár és a hely eltávolítása a Lomtár [Eltávolítása-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) . 
   
 

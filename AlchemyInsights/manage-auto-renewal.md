@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389794"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542440"
 ---
 # <a name="manage-recurring-billing"></a>Az ismétlődő Számlázás kezelése
 
-Kezelheti a számlázási ismétlődő, akkor lehet váltani **ismétlődő számlázás** be- vagy kikapcsolása.
+Bekapcsolhatja az ismétlődő számlázás be- és kikapcsolása a Microsoft 365 felügyeleti központban.
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
+1. Menjen a **Számlázási** > [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
 
-2. Válassza ki az előfizetést, amelyhez be szeretné állítani az ismétlődő számlázás.
+2. A **Számlázás**, **a Renews** vagy **a Lejáróban**válassza a **Szerkesztés**.
 
-3. Váltás az **ismétlődő számlázási** váltó **be** - vagy **kikapcsolása**.
+3. **Ismétlődő számlázási beállítások** ablakában jelölje ki az **ismétlődő számlázási OFF** kapcsolhatja ki. Ha **ismétlődő számlázási** már ki van kapcsolva, jelölje be a **havonta** vagy **egyszer** kapcsolhatja be.
 
-További tudnivalókért lásd: [ismétlődő számlázási ki- és bekapcsolása](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+4. Jelölje be a **Küldés módosítása**.
+
+További tudnivalókért lásd: [ismétlődő számlázási ki- és bekapcsolása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

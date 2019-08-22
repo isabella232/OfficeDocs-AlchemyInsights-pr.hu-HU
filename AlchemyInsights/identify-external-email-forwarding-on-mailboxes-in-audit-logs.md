@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383099"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539103"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Ha külső e-mail továbbító van beállítva a postafiókok azonosítása
 
-Ha a felhasználó külső e-mail továbbítási postafiók azt állítja be, a tevékenység részeként a **Set-Mailbox** parancsmag naplózza a rendszer. A könyvvizsgálati napló keresés használata a biztonsági & Megfelelési központba tevékenység tekintheti meg.
+Az Office 365 felhasználók külső e-mail továbbítási postafiók azt állítja be, ha a tevékenység részeként a **Set-Mailbox** parancsmag naplózza a rendszer. A könyvvizsgálati napló keresés használata a biztonsági & Megfelelési központba tevékenység tekintheti meg.
 
-1. Jelentkezzen be az [Office 365 biztonsági & kompatibilitási központ](https://protection.office.com/)
+1. Jelentkezzen be az [Office 365 biztonsági & Megfelelési központba](https://protection.office.com/).
 
-2. Kattintson a **Keresés és a vizsgálat** , és válassza a **Könyvvizsgálati napló Search**.
+2. Keresse fel a **keresési** > **Audit napló** keresőlap.
 
 3. Jelöljük ki a dátumot a **Kezdő dátum** és **Záró dátum** mezőket. Nem kell adnia a felhasználónevet. Ellenőrizze, hogy a **tevékenységeket** a mező értéke **Minden tevékenység eredmény megjelenítése**.
 

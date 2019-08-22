@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 94c3bbb343bd98241ae71d29d3c240ee1ff11d51
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ba020a25c1220a8a018709995e59709850911f75
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391319"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500505"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Akkor túl sok phish fogadó, vagy a postaláda spam?
 
-Rendszergazdaként a legkönnyebben meghatározni az adathalász vagy a kéretlen üzenetek kézbesítésének miért a minta a Microsoft Explorer [Beadványok](https://protection.office.com/reportsubmission)benyújtására. Azonnali visszajelzést kapjanak a kapcsolódó üzenetek szűrése jelenik meg, és miért nincsenek problémák.
+A Microsoft 365 rendszergazdaként a legkönnyebben meghatározni, miért adathalász vagy a kéretlen üzenetek kézbesítésének elküldése a Microsoft Explorer [Beadványok](https://protection.office.com/reportsubmission)minta. Azonnali visszajelzést kapjanak a kapcsolódó üzenetek szűrése jelenik meg, és miért nincsenek problémák.
 
 Ahhoz, hogy azt a easer, a felhasználók közvetlenül jelentő keresztül a [jelentésüzenet bővítmény](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)a Microsoft engedélyezheti.
