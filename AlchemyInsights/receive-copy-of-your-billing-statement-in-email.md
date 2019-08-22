@@ -13,14 +13,14 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 62d67ad0ebaee202f41b0a0fa0e0c36f681588ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385830"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510085"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>A számlakivonat másolatot kap e-mailben
+# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Az Office 365 számlakivonat másolatot kap e-mailben
 
 Igény szerint e-mail-mellékletként megküldjük Önnek a számlakivonat egy példányát. Ha ezt a lehetőséget választja, az alábbi szempontokat tartsa szem előtt:
   
@@ -32,4 +32,4 @@ A számlakivonat fogadása e-mailben:
   
 1. A felügyeleti központ, keresse meg a **Számlázási** \> [számlázási értesítések](https://go.microsoft.com/fwlink/p/?linkid=853212) lapot.
 
-2. A **Meg szeretné kapni a számlakivonatot e-mail-mellékletként?** területen állítsa a kapcsolót **Be** állásra. A számlakivonatok fogadását bármikor leállíthatja. Ehhez állítsa a kapcsolót **Ki** állásra.
+2. A **a számlakivonat e-mail mellékletként kapja?**, a váltó váltani **a**. A számlakivonatok fogadását bármikor leállíthatja. Ehhez állítsa a kapcsolót **Ki** állásra.

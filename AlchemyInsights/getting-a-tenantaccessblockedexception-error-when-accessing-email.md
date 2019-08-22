@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 8c0ab0086ca47ead5705d423f01824081d0e109e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755333"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523981"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>A TenantAccessBlockedException hiba jelenik meg e-mailben való hozzáféréskor?
 
 Van néhány különböző okok miért jelenhet meg ez a hiba. Például:
 
-- Ellenőrizze, hogy az előfizetést a **Számlázási** érvényes \> a [Microsoft 365 felügyeleti központ](https://portal.office.com/adminportal/home#/subscriptions) **előfizetések** lapján.
+- Ellenőrizze, hogy az előfizetés **Számlázási** érvényes \> a Microsoft 365 felügyeleti központ [termékek & szolgáltatások](https://portal.office.com/adminportal/home#/subscriptions) lapján.
 
-- Ellenőrzés minden lejárt határidejű a **Számlázási** értesítések \> a [Microsoft 365 felügyeleti központ](https://portal.office.com/adminportal/home#/billoverview) **váltók** lapján.
+- Ellenőrzés minden lejárt határidejű a **Számlázási** értesítések \> a Microsoft 365 felügyeleti központ lapján [váltók & kifizetések](https://portal.office.com/adminportal/home#/billoverview) .
 
 - Ha a számlázási és előfizetési fiók nemrég frissítette, akkor a módosítások propagálásához időt vehet igénybe. Próbálja meg újra néhány perc múlva, és ha a probléma továbbra is fennáll, lépjen kapcsolatba velünk.

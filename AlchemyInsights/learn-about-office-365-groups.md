@@ -13,13 +13,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 94a243d12e2a3d691b008d111c949ee46ffc3151
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a5ad1fa51dd947baacda700d37c8ed1e5b700102
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381227"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497697"
 ---
 # <a name="learn-about-office-365-groups"></a>Tudnivalók az Office 365-csoportok
 
-További információért lásd az [Office 365 csoportokkal kapcsolatos további tudnivalók](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Az Office 365 csoportok egy szolgáltatás, amely működik az Office 365 eszközök, már így is együttműködhet a teammates írásához dokumentumok, táblázatok létrehozása, projekttervek dolgozik, találkozók ütemezése vagy e-mail küldése. További információért lásd az [Office 365 csoportokkal kapcsolatos további tudnivalók](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
