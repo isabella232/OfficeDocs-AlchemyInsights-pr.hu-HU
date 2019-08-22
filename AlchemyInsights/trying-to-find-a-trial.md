@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387846"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533089"
 ---
 # <a name="trying-to-find-a-trial"></a>Próbálja megtalálni egy vizsgálat?
 
-Ha ki szeretné próbálni találja próbaverzióhoz rendelkezésre álló előfizetések listáját az admin center új szolgáltatás.
+Ha azt szeretné, próbálja meg egy új szolgáltatás, a Microsoft 365 felügyeleti központ egy rendelkezésre álló előfizetések listája megtalálható próbaverzióhoz.
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [Beszerzési](https://go.microsoft.com/fwlink/p/?linkid=868433) szolgáltatások.
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [beszerzési](https://go.microsoft.com/fwlink/p/?linkid=868433) szolgáltatások.
 
-2. Az előfizetés, amely megfelel az igényeinek, az egér áthaladásakor, keresse meg és válassza a **Start ingyenes próbaverzió**.
+2. Jelölje ki az igényeinek, és válassza az **ingyenes próbaverzió letöltése**.
 
     > [!NOTE]
-    > Nem minden előfizetések állnak rendelkezésre, a próbaverziót. Ha nem látjuk az **ingyenes próbaverzió Start** gomb feletti előfizetés egér mozgatásakor, ez azt jelenti, nem érhető el a próbaverziót.
+    > Nem minden előfizetések állnak rendelkezésre, a próbaverziót. Előfizetés keresztül egér mozgatásakor az **ingyenes próbaverzió letöltése** gomb nem látható, ha ez azt jelenti, nem érhető el a próbaverziót.
   
 3. Adja meg a hitelkártya vagy egyéb fizetési módot biztosít további ellenőrzési biztonsági óvintézkedésként kérheti. Akkor nem kell fizetnie a próba-előfizetésre. Azt a fizetési adatait, a fájl megtartja, és nem használja ezt a jóváhagyása nélkül bármely beszerzési.
 
-4. Válassza ki a **rendelés sor**.
+4. Válassza ki, **próbálja meg most**.

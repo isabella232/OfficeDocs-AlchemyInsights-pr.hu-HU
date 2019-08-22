@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270674"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530877"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>A munkafolyamat e-mailben nem küldi el
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>A munkafolyamat e-mailben nem küldi a SharePoint-lista vagy tár
 
 1. Munkafolyamatok e-mail az összes felhasználóra vagy csak bizonyos felhasználók nem kapnak, vagy megtekintheti a hiba **az e-mail üzenet nem küldhető el. Győződjön meg arról, hogy az e-mail rendelkezik-e érvényes címzettel**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270674"
     - Ha a felhasználó az engedélyek csoport létezik, ellenőrizze, hogy helyesek-e az e-mail címet.
     - Ha a felhasználó e-mail címe nincs megadva itt, hozzon létre egy mintát értesítés az adott felhasználó, amely arra kényszeríti a felhasználói fiók a szinkronizálás a SharePoint felhasználói profilok a webhelycsoportban.
  
-2. A munkafolyamatok e-mail küld a helycsoport-rendszergazdák azonban nem mások, és hibaüzenet jelenik **HTTP tilos <spam> <spam> ** <spam> <spam>.
+2. A munkafolyamatok e-mail küld a helycsoport-rendszergazdák azonban nem mások, és hibaüzenet jelenik **HTTP tilos <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Lásd: [Hozzáférés megtagadva az elküldött e-mail groups](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    Lásd: [Hozzáférés megtagadva, ha küld egy e-mailt egy SharePoint-csoporthoz](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Azt is ellenőrizze, hogy a **korlátozott hozzáférésű felhasználói engedély zárolási mód** webhelycsoport-szolgáltatás nincs bekapcsolva.
 

@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388183"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534169"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Váltsunk át egy másik Office 365, az üzleti terv
 
-Ha a vállalat megváltozik, vagy több Office 365 szolgáltatással, válthat a terveket.
+Ha a vállalat megváltozik, vagy több Office 365 szolgáltatással, frissíthet egy új tervet.
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
 
-2. A rendelkezésre álló új tervek listájának megtekintéséhez válassza ki a **kapcsoló tervek** .
+2. Válassza ki a frissíteni kívánt előfizetést.
 
-3. Válasszon egy tervet havonta új teljes költségét. Feltétlenül olvassa el a fontos információk, majd kattintson a **Tovább** lehessen kivenni.
+3. Előfizetés adatai lapon válassza a **frissítés**parancsot.
 
-Váltás a tervek gombra minden helyzetben nem támogatott. Bizonyos esetekben előfordulhat tervek kézzel váltani.
-  
-A **tervek kapcsoló** gomb nem érhető el, ha megpróbál [átváltani manuálisan tervek](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) , vagy egy támogatási mérnök beszélgetni "tudassa velünk hívja meg" lehetőség használatával.
-  
-Az új felügyeleti központ használatával? Új lépéseket talál [egy másik séma frissítése](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+4. Keresse meg a frissíteni kívánt tervet, majd kattintson a **frissítés** gombra.
+
+5. Adja meg a számot vagy az egész évre licencekre van szüksége, állítsa be, hogy minden hónapban fizetni, majd válassza a **kivétel**.
+   
+További tudnivalók: [egy másik séma frissítése](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
