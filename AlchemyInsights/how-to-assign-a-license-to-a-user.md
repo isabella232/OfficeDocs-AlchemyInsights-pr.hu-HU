@@ -13,29 +13,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386298"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522469"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Hogyan lehet a licenc hozzárendelése egy felhasználóhoz
 
-Felhasználói licenc szolgáltatások eléréséhez szükséges. Itt található lépések hozzáadása, módosítása vagy eltávolítása licencre a felhasználó.
+A felhasználó egy Office 365-licencet szolgáltatások eléréséhez szükséges. Itt található lépések hozzáadása, módosítása vagy eltávolítása licencre a felhasználó.
   
-1. A felügyeleti központ, keresse meg a **felhasználók** \> [Aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapján.
+1. A felügyeleti központ, keresse meg a **felhasználók** \> [aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapján.
 
-2. Jelölje be a nevét, akihez hozzárendelése, módosítása vagy eltávolítása licencre kívánt felhasználó.
+2. Válassza ki a felhasználót, akihez hozzárendelése, módosítása vagy eltávolítása licencre kívánt nevét.
 
-3. A jobb oldalon látható **Terméklicencek** csoportban kattintson a **Szerkesztés** hivatkozásra.
+3. A **licencek és alkalmazások** lapon jelölje be a licencet, amelyet hozzá szeretne rendelni a felhasználóhoz.
 
-4. A **Terméklicencek** panelen állítsa **Bekapcsolva** állásba a felhasználóhoz rendelendő licenc kapcsolóját.
+    A licenchez társított összes szolgáltatás alapértelmezés szerint automatikusan hozzá van rendelve a felhasználóhoz. Korlátozza, hogy mely szolgáltatások érhetők el a felhasználó számára, törölje a jelölőnégyzetet, a szolgáltatások, amelyeket nem szeretnénk, hogy a felhasználó rendelkezik.
 
-    Alapértelmezés szerint a licenchez társított összes szolgáltatás automatikusan hozzá lesz rendelve a felhasználóhoz. Ha korlátozni szeretné a felhasználó számára elérhető szolgáltatások körét, állítsa a letiltani kívánt szolgáltatások kapcsolóját **Kikapcsolva** állásba.
+4. Az ablaktábla alján kattintson a **módosítások mentése**.
 
-    Váltás a váltó eltávolítása licencre **ki** álláspontját.
-
-5. A **Terméklicencek** ablaktábla alján válassza a **Mentés** \> **Bezárás** \> **Bezárás** lehetőséget.
-
-További tudnivalókért lásd: [rendelhet licenceket az Office 365 rendszerben az üzleti felhasználók számára](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users), és [távolítsa el az Office 365 rendszerben az üzleti felhasználók licenceket](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+További tudnivalókért lásd: [rendelhet licenceket az Office 365 rendszerben az üzleti felhasználók számára](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), és [távolítsa el az Office 365 rendszerben az üzleti felhasználók licenceket](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
