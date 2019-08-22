@@ -11,18 +11,18 @@ ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
 ms.common:
 - "358"
 - "3500003"
-ms.openlocfilehash: 98d2eea2dc48e1b78784e6fe7857e75703c1c7a8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a90da38059c9ce37f60b1addb622a1b56116d9c9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364627"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36515629"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="c29a7-102">Hozzon létre, és a megosztott postafiók</span><span class="sxs-lookup"><span data-stu-id="c29a7-102">Create and use a shared mailbox</span></span>
+# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="06b2a-102">Hozzon létre, és a megosztott postafiók</span><span class="sxs-lookup"><span data-stu-id="06b2a-102">Create and use a shared mailbox</span></span>
 
-<span data-ttu-id="c29a7-103">Megosztott postafiókjából lehetővé teszi, hogy több felhasználó küldhet és fogadhat e-mail alias sales@contoso.com, mint a másik licenc hozzárendelése nélkül.</span><span class="sxs-lookup"><span data-stu-id="c29a7-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span>
+<span data-ttu-id="06b2a-103">Megosztott postafiókjából lehetővé teszi, hogy több felhasználó küldhet és fogadhat e-mail alias sales@contoso.com, mint a másik licenc hozzárendelése nélkül.</span><span class="sxs-lookup"><span data-stu-id="06b2a-103">A shared mailbox lets more than one person send and receive email for an alias, like sales@contoso.com, without assigning another license.</span></span>
   
-- [<span data-ttu-id="c29a7-104">Nyissa meg az első lépések</span><span class="sxs-lookup"><span data-stu-id="c29a7-104">Go here to get started</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [<span data-ttu-id="06b2a-104">Nyissa meg az első lépések</span><span class="sxs-lookup"><span data-stu-id="06b2a-104">Go here to get started</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-<span data-ttu-id="c29a7-105">A [megosztott postaláda létrehozása](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) cikk nyilvánvalóvá válik, mindent meg kell tudni a megosztott postaládák, beleértve azok használatáról is olvasható.</span><span class="sxs-lookup"><span data-stu-id="c29a7-105">You can also read the [Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
+<span data-ttu-id="06b2a-105">A [megosztott postaláda létrehozása](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) cikk nyilvánvalóvá válik, mindent meg kell tudni a megosztott postaládák, beleértve azok használatáról is olvasható.</span><span class="sxs-lookup"><span data-stu-id="06b2a-105">You can also read the [Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9.aspx) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
   
