@@ -12,24 +12,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: a34a94b53d878413a4ce8c04e9a40188f9a0acc5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2102db16fb58cc7e3668dfe2fd6a296fef8a67eb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387347"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524917"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a><span data-ttu-id="74f34-102">Beérkező Outlook Mobile koncentrált</span><span class="sxs-lookup"><span data-stu-id="74f34-102">Focused Inbox for Outlook mobile</span></span>
+# <a name="focused-inbox-for-outlook-mobile"></a><span data-ttu-id="be0bd-102">Beérkező Outlook Mobile koncentrált</span><span class="sxs-lookup"><span data-stu-id="be0bd-102">Focused Inbox for Outlook mobile</span></span>
 
-[<span data-ttu-id="74f34-103">Mi az a Beérkezett üzenetek koncentrált?</span><span class="sxs-lookup"><span data-stu-id="74f34-103">What is Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[<span data-ttu-id="be0bd-103">Mi az a Beérkezett üzenetek koncentrált?</span><span class="sxs-lookup"><span data-stu-id="be0bd-103">What is Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[<span data-ttu-id="74f34-104">Hogyan szerkeszthetem a szabályokat, amelyek áthelyezése a Beérkezett üzenetek koncentrált és e-mail?</span><span class="sxs-lookup"><span data-stu-id="74f34-104">How do I edit the rules that move my email in and out of Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[<span data-ttu-id="be0bd-104">Hogyan szerkeszthetem a szabályokat, amelyek áthelyezése a Beérkezett üzenetek koncentrált és e-mail?</span><span class="sxs-lookup"><span data-stu-id="be0bd-104">How do I edit the rules that move my email in and out of Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[<span data-ttu-id="74f34-105">Hogyan kapcsolja ki a Beérkezett üzenetek koncentrált vagy legyen-e a belépőkártya száma és az értesítések szinkronizálása koncentrált Beérkezett üzenetek mappába?</span><span class="sxs-lookup"><span data-stu-id="74f34-105">How do I turn off Focused Inbox or change whether my badge count and notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[<span data-ttu-id="be0bd-105">Hogyan kapcsolja ki a Beérkezett üzenetek koncentrált vagy legyen-e a belépőkártya száma és az értesítések szinkronizálása koncentrált Beérkezett üzenetek mappába?</span><span class="sxs-lookup"><span data-stu-id="be0bd-105">How do I turn off Focused Inbox or change whether my badge count and notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[<span data-ttu-id="74f34-106">Hogyan kapcsolja ki a Beérkezett üzenetek koncentrált vagy módosítása, hogy koncentrált beérkezett értesítések szinkronizálja-e?</span><span class="sxs-lookup"><span data-stu-id="74f34-106">How do I turn off Focused Inbox or change whether notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[<span data-ttu-id="be0bd-106">Hogyan kapcsolja ki a Beérkezett üzenetek koncentrált vagy módosítása, hogy koncentrált beérkezett értesítések szinkronizálja-e?</span><span class="sxs-lookup"><span data-stu-id="be0bd-106">How do I turn off Focused Inbox or change whether notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[<span data-ttu-id="74f34-107">Hogyan váltás koncentrált és a többi között?</span><span class="sxs-lookup"><span data-stu-id="74f34-107">How do I toggle between Focused and Other?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[<span data-ttu-id="be0bd-107">Hogyan váltás koncentrált és a többi között?</span><span class="sxs-lookup"><span data-stu-id="be0bd-107">How do I toggle between Focused and Other?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-<span data-ttu-id="74f34-108">További információ: [az Outlook iOS és Android - app súgó](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="74f34-108">Learn more: [Get in-app help for Outlook for iOS and Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span></span>
+<span data-ttu-id="be0bd-108">További információ: [az Outlook iOS és Android - app súgó](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="be0bd-108">Learn more: [Get in-app help for Outlook for iOS and Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span></span>
   

@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 2cd66cb9cfd407e8c480fd8cb4a3daadec928d06
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 7b5253c94a177e27745a921bcc4b478229ad4c26
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271801"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525817"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a><span data-ttu-id="54baa-102">Külső felhasználó nem tud egy megosztási meghívás elfogadása</span><span class="sxs-lookup"><span data-stu-id="54baa-102">External user is unable to accept a sharing invitation</span></span>
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a><span data-ttu-id="22a3f-102">Külső felhasználó nem tud egy megosztási meghívás elfogadása</span><span class="sxs-lookup"><span data-stu-id="22a3f-102">External user is unable to accept a sharing invitation</span></span>
 
-<span data-ttu-id="54baa-103">Ha egy külső felhasználó nem tudja elfogadni a megosztási meghívást, próbálja felkeresni az alábbi hivatkozásokra:</span><span class="sxs-lookup"><span data-stu-id="54baa-103">If an external user is unable to accept a sharing invite, please try visiting the links below:</span></span> 
+<span data-ttu-id="22a3f-103">Ha egy külső felhasználó nem tudja elfogadni a megosztási meghívást, próbálja felkeresni az alábbi hivatkozásokra:</span><span class="sxs-lookup"><span data-stu-id="22a3f-103">If an external user is unable to accept a sharing invite, please try visiting the links below:</span></span> 
 
-- [<span data-ttu-id="54baa-104">"A hozzáférés megtagadva", "Kell a webhely hozzáférési engedéllyel", vagy "Felhasználó nem a könyvtárban található" hiba a SharePoint Online és az üzleti OneDrive</span><span class="sxs-lookup"><span data-stu-id="54baa-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="54baa-105">"A szervezet házirendjeit nem teszik lehetővé a felhasználókkal való megosztására" hibaüzenet egy cikket vagy egy webhelyet a SharePoint Online és az üzleti OneDrive megosztása</span><span class="sxs-lookup"><span data-stu-id="54baa-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="54baa-106">Megosztási beállítások vannak szürkévé megosztása SharePoint Online vagy a OneDrive</span><span class="sxs-lookup"><span data-stu-id="54baa-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="54baa-107">Hibaüzenet jelenik meg, ha egy külső felhasználó SharePoint Online meghívást elfogad egy másik fiókkal</span><span class="sxs-lookup"><span data-stu-id="54baa-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [<span data-ttu-id="54baa-108">Az OSE megosztása SharePoint-és OneDrive hibák</span><span class="sxs-lookup"><span data-stu-id="54baa-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="22a3f-104">"A hozzáférés megtagadva", "Kell a webhely hozzáférési engedéllyel", vagy "Felhasználó nem a könyvtárban található" hiba a SharePoint Online és az üzleti OneDrive</span><span class="sxs-lookup"><span data-stu-id="22a3f-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="22a3f-105">"A szervezet házirendjeit nem teszik lehetővé a felhasználókkal való megosztására" hibaüzenet egy cikket vagy egy webhelyet a SharePoint Online és az üzleti OneDrive megosztása</span><span class="sxs-lookup"><span data-stu-id="22a3f-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="22a3f-106">Megosztási beállítások vannak szürkévé megosztása SharePoint Online vagy a OneDrive</span><span class="sxs-lookup"><span data-stu-id="22a3f-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [<span data-ttu-id="22a3f-107">Hibaüzenet jelenik meg, ha egy külső felhasználó SharePoint Online meghívást elfogad egy másik fiókkal</span><span class="sxs-lookup"><span data-stu-id="22a3f-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
+- [<span data-ttu-id="22a3f-108">Az OSE megosztása SharePoint-és OneDrive hibák</span><span class="sxs-lookup"><span data-stu-id="22a3f-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 
