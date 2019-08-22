@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420126"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533241"
 ---
 # <a name="trying-to-verify-your-domain"></a>Igazolni szeretné tartománya tulajdonjogát?
 
-A tartomány tulajdonjogának igazolásához hozzá kell adnia egy TXT-rekordot a tartományregisztrálójánál. Kattintson a **Beállítások** \> **Tartomány** majd a **Tartomány hozzáadása** elemre, utána kövesse a Tartomány hozzáadása varázsló lépéseit. 
+A tartomány tulajdonjogának igazolásához hozzá kell adnia egy TXT-rekordot a tartományregisztrálójánál. Kövesse az új tartomány varázsló a Microsoft 365 felügyeleti központ nyissa meg **a telepítő** \> **tartomány**, majd a **Hozzáadás a tartományhoz**. 
   
 Az alábbi témakörben a TXT-rekordok hozzáadását ismertető útmutatást találja. Az Ön tartományára vonatkozó utasítások megtekintéséhez válassza ki a tartományregisztrálóját.
   

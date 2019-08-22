@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418471"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538748"
 ---
-# <a name="monitoring-conditional-access"></a>A feltételes hozzáférésű figyelése
+# <a name="monitoring-conditional-access-for-exchange"></a>Az Exchange felügyeleti feltételes hozzáférés
 
 Célzott feltételes hozzáféréssel rendelkező felhasználók kapnak értesítést e-mailben, ha nem felel meg a szervezet hozzáférési követelmények. Úgy oldhatja meg, ajánlott egy vagy több a következő oldatokat:
   

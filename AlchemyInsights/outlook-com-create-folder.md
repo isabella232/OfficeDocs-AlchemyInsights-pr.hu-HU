@@ -13,14 +13,14 @@ ms.custom:
 - "219"
 - "8000009"
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: ad9db8a30105981c11d75364b15568a4f314543b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d759ce00e47206d0d58bae771c962b408595416c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375539"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536941"
 ---
-# <a name="create-a-folder"></a>Hozzon létre egy mappát
+# <a name="create-a-folder-in-outlookcom"></a>Hozzon létre egy mappát az Outlook.com
 
 1. A mappaablak alján jelölje ki az **új mappát**. Szükség lehet a Görgetés lefelé a mappalistán, hogy az **Új mappa** gombra.
 2. A szöveg mezőbe írja be a mappa nevét, és nyomja le az ENTER billentyűt.
