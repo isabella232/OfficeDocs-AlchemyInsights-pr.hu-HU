@@ -13,16 +13,17 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 1a1977539b7dcfd2d99bac4779a6fcf28299e713
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353215"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559375"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Tartalom keresése hibáinak elhárítása
 
-Problémákba ütközik, terhelés tartalom keresési vagy lekérdezése sikertelen találatok exportálása során?
+Problémákba ütközik, terhelés tartalom keresése az Office 365 vagy lekérdezése sikertelen, ha exportálja a keresési eredmények?
+
 Például jelent meg a következő keresések futtatásakor?
 
 - CS008 vagy CS012 hiba

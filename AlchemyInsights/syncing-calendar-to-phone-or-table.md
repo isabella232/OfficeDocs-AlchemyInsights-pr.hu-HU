@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ef3b7fc8-f8c0-43b0-8d78-3f8287872ebd
 ms.custom: 1600036
-ms.openlocfilehash: bc5edf2f65e4e3128e3eac877d79f94cf9e0252f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6eecf530488bfaf6d7479948a99a51a15629c6b9
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420774"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559591"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problémák a naptár eszközök szinkronizálása
+# <a name="issues-synchronizing-your-outlook-calendar-to-devices"></a>Problémák az Outlook-naptárba eszközök szinkronizálása
 
 Naptár eszközök szinkronizálásával kapcsolatos problémák elhárítása, lásd: [nem tudja szinkronizálni a naptár és Névjegyalbum a telefon vagy tablet](https://support.office.com/article/8479d764-b9f5-4fff-ba88-edd7c265df9f.aspx).
   

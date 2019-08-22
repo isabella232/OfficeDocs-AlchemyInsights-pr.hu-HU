@@ -13,12 +13,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389034"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526141"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>A próbaverziós Office 365 üzleti kiterjesztése
 
@@ -32,4 +32,4 @@ Próba-előfizetése lejár számított 15 napon belül, és a vizsgálat még n
 
 4. Meg kell adnia a hitelkártyája adatait a próbaverzió kiterjeszteni. A Microsoft nem számítanak fel a próbaverzió kiterjesztés hitelkártyáját.
 
-További kísérletek bővítéséről vagy lépésenkénti [bővítése a próbaverziós Office 365 üzleti](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial)című témakörben talál.
+További kísérletek bővítéséről vagy lépésenkénti [bővítése a próbaverziós Office 365 üzleti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial)című témakörben talál.

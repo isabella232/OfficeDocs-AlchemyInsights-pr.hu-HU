@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 062a0d9bfbd83ed40457f603cc739e3a916c7045
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35696942"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511921"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Ugrás az E-mail levélszemét mappába érkező üzenetek leállítása
 
-Ha felfedezi, hogy egy e-mailt a levélszemét E-mail mappában nem levélszemét:
+Ha felfedezi, hogy egy e-mailt az Outlook.com a levélszemét E-mail mappában nem levélszemét:
 
 1. Nyissa meg a [Junk E-mail mappát](https://outlook.live.com/mail/junkemail).
 1. Jelölje ki az üzenetet. (*Megjegyzés:* a levélszemét E-mail mappában lévő elemek 30 nap után törlődnek.)

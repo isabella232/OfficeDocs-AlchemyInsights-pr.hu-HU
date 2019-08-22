@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363810"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517033"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Tartalom nem jelenik meg a SharePoint-találatok
 
@@ -28,7 +28,7 @@ Hajtsa végre az alábbi lépéseket, ha a várt tartalom nem jelenik meg a kere
 
 3. Ellenőrizze, hogy a lap, dokumentum vagy egyéni lap elrendezése is közzétételre kerülnek a **főverzió.** Hajtsa végre a 3 a [Keresés nem ad vissza a SharePoint Online összes eredmény](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Győződjön meg arról, hogy a felhasználó rendelkezik-e **engedéllyel** a tartalom megtekintését. Kövesse a [SharePoint jogosultsági szintek ismertetése](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+4. Győződjön meg arról, hogy a felhasználó rendelkezik-e **engedéllyel** a tartalom megtekintését. Kövesse a [SharePoint jogosultsági szintek ismertetése](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
 5. Ha a Keresés séma megváltozott, egy új felügyelt tulajdonság hozzáadása, felügyelt tulajdonság szerkesztése, vagy egy kezelt tulajdonságnak, majd a bejárás kérő eltávolításával és újraindexeli lesz szükség. **Újraindexelni** a tartalmat [kézzel a bejárási és indexelési újra a hely, a tár vagy lista kérése](https://docs.microsoft.com/sharepoint/crawl-site-content)utasításait követve. Ez lehet, hogy hosszabb ideig eltarthat, Várjon 24 órát az eredmények ismételt ellenőrzés előtt.
 
