@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397936"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505833"
 ---
 # <a name="outlook-search-not-indexing"></a>Nem indexelő Outlook Keresés
 
 Tudomásunk az Outlook keresési problémák kapcsolódó legújabb biztonsági frissítések a Windows.
   
-Az Outlook programban történő keresésekor jelenhet meg ez a hiba: ** hibákról, és a keresés nem hajtható végre **, vagy a **keresési eredmények között nem lesz teljes, mert az elemek indexelése még folyamatban van**. A javítás kiadták választható Windows-frissítésként. Telepítse a megfelelő látja a probléma a Windows-verzió egy: 
+Az Outlook programban történő keresésekor jelenhet meg a hibák közül: **Mi okozta a hibát, és a keresés nem hajtható végre**, vagy **lehet, hogy a keresési eredmények hiányosak, mert az elemek indexelése még folyamatban van**. A javítás kiadták választható Windows-frissítésként. Telepítse a megfelelő látja a probléma a Windows-verzió egy: 
   
 > [A Windows 7 - 2017. június 27. frissítése](https://support.microsoft.com/kb/4022168.aspx)
     
