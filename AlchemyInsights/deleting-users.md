@@ -13,16 +13,16 @@ ms.custom:
 - "745"
 - "1200010"
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: d989860ba1be45c85ece216a36bf6b15bdfcefaf
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 96559948c0c7c127f3ccf6e00be4485ffe3df883
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389903"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513056"
 ---
-# <a name="deleting-users"></a><span data-ttu-id="2eea0-102">Felhasználók törlése</span><span class="sxs-lookup"><span data-stu-id="2eea0-102">Deleting users</span></span>
+# <a name="deleting-users"></a><span data-ttu-id="ebce7-102">Felhasználók törlése</span><span class="sxs-lookup"><span data-stu-id="ebce7-102">Deleting users</span></span>
 
-<span data-ttu-id="2eea0-103">Ha azt szeretné, azonnal blokkolja a felhasználói hozzáférést, és hogy adataikat, olvassa el a [elhagyó alkalmazott rendelkezik, és az adatokhoz való hozzáférés egy e-mailt zárolnia kell a?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)</span><span class="sxs-lookup"><span data-stu-id="2eea0-103">If you want to immediately block user access and need to keep their information, please see [Have an employee leaving and need to block access to data an email?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)</span></span>
+<span data-ttu-id="ebce7-103">Ha azt szeretné, azonnal blokkolja a felhasználói hozzáférést, és hogy adataikat, olvassa el a [elhagyó alkalmazott rendelkezik, és az adatokhoz való hozzáférés egy e-mailt zárolnia kell a?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)</span><span class="sxs-lookup"><span data-stu-id="ebce7-103">If you want to immediately block user access and need to keep their information, please see [Have an employee leaving and need to block access to data an email?](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)</span></span>
   
-<span data-ttu-id="2eea0-104">Ha egyszerűen törli a felhasználó, és nincsenek érintett bármelyik adataikat, tekintse meg [a szervezet a felhasználó törlése](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e).</span><span class="sxs-lookup"><span data-stu-id="2eea0-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e).</span></span> <span data-ttu-id="2eea0-105">Ez azonnal szabadít fel licencet.</span><span class="sxs-lookup"><span data-stu-id="2eea0-105">This will immediately free up their license.</span></span>
+<span data-ttu-id="ebce7-104">Ha egyszerűen törli a felhasználó, és nincsenek érintett bármelyik adataikat, tekintse meg [a szervezet a felhasználó törlése](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e).</span><span class="sxs-lookup"><span data-stu-id="ebce7-104">If you simply want to delete the user and are not concerned with any of their data, please see [Delete a user from your organization](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e).</span></span> <span data-ttu-id="ebce7-105">Ez azonnal szabadít fel licencet.</span><span class="sxs-lookup"><span data-stu-id="ebce7-105">This will immediately free up their license.</span></span>
   
