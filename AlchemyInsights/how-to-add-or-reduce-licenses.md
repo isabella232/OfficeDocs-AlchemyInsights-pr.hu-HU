@@ -13,40 +13,38 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388818"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522433"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Hogyan lehet hozzáadni vagy licencek
 
-Íme, hogyan kell eltávolítani, vagy további licencek vásárlása.
+Íme, hogyan kell eltávolítani, vagy az Office 365 további licencek vásárlása.
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
 
-2. A bal oldalon válassza az előfizetést, amelyből kívánt licencek hozzáadása, eltávolítása
+2. Válassza ki az előfizetést, amelyből kívánt licencek hozzáadása.
 
-3. Válassza a **Licencek hozzáadása/eltávolítása** lehetőséget.
+3. Válassza ki a **licencek hozzáadása**.
 
 4. Adja meg a szükséges felhasználók száma összesen.
 
     Például ha el szeretné távolítani 5 jelenleg 25 licenccel rendelkezik, adja meg 20 ebben a mezőben.
 
-5. Válassza a **Submit** (Küldés) gombot.
+5. Válassza a **Küldés módosítása**.
 
 > [!NOTE]
 > A következő számlán követel (licenc csökkenés) olyan új díjat (licenc növekedés) fog megjelenni.
 
-Az új felügyeleti központ használatával? Új lépéseket talál [az Office 365 üzleti előfizetés licenceket vásárolni](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+További információt talál [az Office 365 üzleti előfizetés licenceket vásárolni](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
- **Erőforrások**
+ **További források**
   
-- [Licencek eltávolítása az Office 365 Vállalati verziós előfizetésből](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Licencek visszavonása az Office 365 Vállalati verziós előfizetésből](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [Licencek vásárlása az Office 365 Vállalati verziós előfizetéshez](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
+- [Az Office 365 Vállalati verzió lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [Az Office 365 Vállalati verzió lemondása](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
-
-- [Újabb Office 365 vállalati verziós előfizetés vásárlása](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Újabb Office 365 vállalati verziós előfizetés vásárlása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)

@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385376"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522505"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Mac felhasználók Office licencek hozzárendelése
 
-- A Microsoft 365 felügyeleti központban a [felhasználók aktív](https://go.microsoft.com/fwlink/p/?linkid=834822) lapon, vagy válassza a **felhasználók** \> **aktív felhasználók**.
+1. A felügyeleti központ, keresse meg a **felhasználók** \> [aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapján.
 
-- Jelölje be az ahhoz a felhasználóhoz tartozó jelölőnégyzetet, akihez licencet szeretne rendelni.
+2. Válassza ki a felhasználót, akihez hozzárendelése, módosítása vagy eltávolítása licencre kívánt nevét.
 
-- A jobb oldalon látható **Terméklicencek** csoportban kattintson a **Szerkesztés** hivatkozásra.
+3. A **licencek és alkalmazások** lapon jelölje be a licencet, amelyet hozzá szeretne rendelni a felhasználóhoz.
 
-- A **terméklicenc**s ablaktáblán a licencet, amelyet hozzá szeretne rendelni a felhasználóhoz **a** pozíció a váltó váltani.
+    A licenchez társított összes szolgáltatás alapértelmezés szerint automatikusan hozzá van rendelve a felhasználóhoz. Korlátozza, hogy mely szolgáltatások érhetők el a felhasználó számára, törölje a jelölőnégyzetet, a szolgáltatások, amelyeket nem szeretnénk, hogy a felhasználó rendelkezik.
 
-- A **Terméklicencek** ablaktábla alján válassza a **Mentés** \> **Bezárás** \> **Bezárás** lehetőséget.
+4. Az ablaktábla alján kattintson a **módosítások mentése**.
 
 További információ: [az Office 365 rendszerben az üzleti felhasználóknak licencek hozzárendelése](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
