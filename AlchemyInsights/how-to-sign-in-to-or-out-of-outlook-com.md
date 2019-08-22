@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 5219c6c0a9a4c211cff39c2c456c80affb58c730
-ms.sourcegitcommit: 3610afd1c7139588ba9d0283965d39d3146d4294
+ms.openlocfilehash: d933335b986d1a991dcd20a557b467a82722ebea
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/18/2019
-ms.locfileid: "34164363"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540111"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a><span data-ttu-id="f1a09-102">Hogyan lehet bejelentkezni, vagy Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f1a09-102">How to sign in to or out of Outlook.com</span></span>
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a><span data-ttu-id="11e3b-102">Hogyan lehet bejelentkezni, vagy Outlook.com</span><span class="sxs-lookup"><span data-stu-id="11e3b-102">How to sign in to or out of Outlook.com</span></span>
 
-<span data-ttu-id="f1a09-103">Ha nem tud bejelentkezni az Outlook.com, Live, az MSN vagy a Hotmail e-mail fiókot, vagy nem biztos abban, hogy bejelentkezés és kijelentkezés, [Íme néhány megoldás](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span><span class="sxs-lookup"><span data-stu-id="f1a09-103">If you can't sign in to your Outlook.com, Hotmail, Live, or MSN email account, or you're not sure how to sign in or sign out, [here are some solutions](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span></span>
+<span data-ttu-id="11e3b-103">Ha nem tud bejelentkezni az Outlook.com, Live, az MSN vagy a Hotmail e-mail fiókot, vagy nem biztos abban, hogy bejelentkezés és kijelentkezés, [Íme néhány megoldás](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span><span class="sxs-lookup"><span data-stu-id="11e3b-103">If you can't sign in to your Outlook.com, Hotmail, Live, or MSN email account, or you're not sure how to sign in or sign out, [here are some solutions](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span></span>
   
-<span data-ttu-id="f1a09-104">Ha Ön továbbra is problémái vannak a bejelentkezés, látja, [Amikor nem tud bejelentkezni a Microsoft-fiókkal](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="f1a09-104">If you're still having problems with signing in, see [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
+<span data-ttu-id="11e3b-104">Ha Ön továbbra is problémái vannak a bejelentkezés, látja, [Amikor nem tud bejelentkezni a Microsoft-fiókkal](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="11e3b-104">If you're still having problems with signing in, see [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
