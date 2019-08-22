@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385614"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495033"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Előre fizetett előfizetési ülések hozzáadása
 
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
+Előre fizetett Office 365-licencet a 25 karakteres alfanumerikus kód, adják meg. Miután megvásárolta a szükséges licenceket, később is hozzáadhatja az előfizetéshez. 
 
-2. Válassza ki az előre fizetett előfizetést szeretne felhasználókat hozzáadni.
+1. A felügyeleti központ, keresse meg a **Számlázási** > [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
 
-3. A **További műveletek** menüben válassza az **megújítása vagy licenc tokenje**.
+2. Keresse meg az előfizetést, amelyhez licenceket hozzáadni kívánt. Jelölje ki a **További műveletek** legördülő listát, és válassza a **megújítása vagy licenc tokenje**.
 
-4. Az **Új és nem használt termékkulcs** beállítást. (Ha ezt az előfizetést vásárolt kiskereskedelmi helyen termékkulccsal készült, valószínűleg lehetőséget ad a felhasználóknak a más fizetési mód.)
+3. A a **megújítása vagy felhasználói licencek hozzáadása** lapon, jelölje be **az új és nem használt termékkulcs használata**, majd kattintson a **Tovább gombra**.
 
-5. Válassza a **Tovább** gombot.
+4. Írja be a termékkulcsot, majd kattintson a **Tovább gombra**.
 
-6. Írja be a termékkulcsot, majd kattintson a **Tovább gombra**.
+    > [!NOTE]
+    > Ha egynél több termékkulcsot, jelöljön ki **egy másik termék kulcs hozzáadása** adja meg őket.
 
-7. A további felhasználók hozzáadása, kattintson a **Tovább gombra**, majd válassza a **Redeem**lehetőséget választja.
+5. Válassza ki a felhasználók hozzáadása az előfizetést, majd kattintson a **Tovább gombra**.
 
-Az új felügyeleti központ használatával? Új lépéseket lásd: [licencek hozzáadása vagy bővítése a termékazonosító kulccsal fizetett előfizetéssel](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Tekintse át a rendelés részletei, majd válassza a **Redeem**.
+
+További tudnivalókért lásd: [licencek hozzáadása vagy bővítése a termékazonosító kulccsal fizetett előfizetéssel](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

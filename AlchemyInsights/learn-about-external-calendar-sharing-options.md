@@ -12,13 +12,13 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 6728f195b83ec7c2cc8583cb003d5978e29ee06f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 48bdc17e8f16d719445492f395c44e10bf6cbaea
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381299"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497805"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>További tudnivalók: külső naptármegosztási beállítások
 
-Lásd: [külső felhasználókkal való megosztása naptárak](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Ha szeretne meghívni az értekezletre a szervezeten kívülieknek, Office 365 lehetővé teszi, hogy naptárak "külső felhasználóknak," azok, akik a szabad/foglalt kell elérhetővé időben, de nincs felhasználói fiókokat az Office 365 környezetben. További információért lásd: [megosztás naptárak külső felhasználókkal](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).

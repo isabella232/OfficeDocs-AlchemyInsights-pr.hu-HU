@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389704"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496113"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Visszahívni vagy kicserélni egy e-mailt
+# <a name="recall-or-replace-an-outlook-email-message"></a>Visszahívni vagy kicserélni egy Outlook e-mail üzenet
 
 - Mint a rendszergazda **Visszahívási üzenet PowerShell segítségével a felhasználók nevében**is. Az admin center üzenetek nem tudja visszahívni.
 - **Csak a szervezet tagjai által küldött visszahívása üzeneteket**is. Ha az üzenet a Gmail címre lett küldve, például nem emlékszünk rá.

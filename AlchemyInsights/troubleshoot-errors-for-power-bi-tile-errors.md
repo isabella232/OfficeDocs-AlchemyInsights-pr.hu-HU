@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 0ce4879857f45378bdb95ccfac17d1ef96e30873
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 568fa4662c7d312583348981f80319aaefcf7290
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752834"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506841"
 ---
 # <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Frissítési forgatókönyvek - mozaik hibák elhárítása
 
-Várjon körülbelül 10-15 percig frissítés tükröződnek az irányítópult követ. Azt még nem látható, ha újra rögzíteni a képi megjelenítés az irányítópulton.
+Ha az energiagazdálkodási BI szolgáltatáson belül mozaik frissítési hibákat észlel, várjon tükröződnek az irányítópult mozaik frissítés körülbelül 10-15 percig. Azt még nem látható, ha újra rögzíteni a képi megjelenítés az irányítópulton.
 
 További információ:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387751"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506121"
 ---
 # <a name="view-my-bill"></a>A számlázási megtekintése
 
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [váltók](https://go.microsoft.com/fwlink/p/?linkid=848039) lap.
+1. A Microsoft 365 felügyeleti központ, keresse meg a **Számlázási** \> [váltók & kifizetések](https://go.microsoft.com/fwlink/p/?linkid=848039) lap.
 
-2. Válassza ki a kívánt számla dátumát és a hónapot, és válassza a **Nézet** lehetőséget.
+2. Dátumtartomány kiválasztása a legördülő listából, és válassza ki a megtekinteni kívánt rendelést.
 
-3. Válasszon ki egy megrendelést, majd válassza a **Részletek megtekintése** gombot.
-
-Erről további információt [a számlázási vagy számla megtekintése](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Erről további információt [a számlázási vagy számla megtekintése](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

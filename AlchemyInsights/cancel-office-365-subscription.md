@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 353e0b4bb3ac1e0ecd9b7436dde6860ba8950925
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 19f21e93419a208229c64c874748f5f94acfe8b4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386160"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494137"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>Az Office 365-előfizetés megszakítása?
 
@@ -28,4 +28,4 @@ Sajnáljuk, hogy nyissa meg, de a lehetőség az előfizetés:
 
 - Ha több mint 25 hozzárendelt licencek, vagy eltávolíthatja a felhasználók kevesebb, mint 25 használ, vagy egy támogatási mérnök beszélgetni "tudassa velünk hívja meg" lehetőség használatával.
 
-- További előfizetés lemondása, vagy a lépésenkénti utasításokat, lásd [előfizetés](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- További előfizetés lemondása, vagy a lépésenkénti utasításokat, lásd [előfizetés](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381731"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498417"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>A terminálkiszolgálón futó Office telepítése
 
@@ -26,7 +26,7 @@ Találnak az Office 365 ProPlus a Windows Server távoli asztali szolgáltatáso
 
 - [Megosztott számítógép-aktiválásnak](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)engedélyezni kell.
 
-Ha a telepíteni kívánt Office 365 ProPlus a távoli asztali szolgáltatások az Office 365 Portal ** *alapértelmezett telepítési beállításokat használó* **, kövesse az alábbi lépéseket:
+Ha a telepíteni kívánt Office 365 ProPlus a távoli asztali szolgáltatások az Office 365 Portal, ***alapértelmezett telepítési beállításokat használó***, kövesse az alábbi lépéseket:
   
 1. Ellenőrizze, milyen Office 365 terv van. [Tájékoztatás arról, hogyan](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Ha a telepíteni kívánt Office 365 ProPlus a távoli asztali szolgáltatások 
 
 4. A távoli asztali kiszolgálón jelentkezzen be a rendszergazdai fiókot, és [telepítse az Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx)az Office 365 portálon.
 
-5. Office telepítése után ** *Ne nyisson meg és jelentkezzen be* ** bármely Office-alkalmazásokkal.
+5. Office telepítését követően ***Ne nyisson meg és jelentkezzen be*** minden Office alkalmazást.
 
 6. A távoli asztali kiszolgálón engedélyezi a megosztott számítógép-aktiválás a rendszerleíró adatbázisban a következő lépések végrehajtásával:
 
@@ -46,7 +46,7 @@ Ha a telepíteni kívánt Office 365 ProPlus a távoli asztali szolgáltatások 
 
 3. A Rendszerleíróadatbázis-szerkesztő **SharedComputerLicensing** karakterlánc értéke 1 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration alapján adja hozzá.
 
-7. A távoli asztali kiszolgálón ** *a felhasználó bejelentkezés* **, és [Ellenőrizze, hogy a megosztott számítógép-aktiválásnak engedélyezve van az Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Az RDS kiszolgáló, ***a felhasználó bejelentkezés*** és [Ellenőrizze, hogy a megosztott számítógép-aktiválásnak az Office 365 ProPlus van engedélyezve](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Előfeltételek, a telepítési utasításokat és útmutatást az Office telepítési eszköz segítségével testreszabott példányokat részletesebben lásd [Telepítése Office 365 ProPlus távoli asztali szolgáltatások használatával](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
