@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 66156ee3bb9c1368326ad557f5f042fc8444694b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269414"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521569"
 ---
-# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="07bbd-102">OneDrive fenntartását és törlés</span><span class="sxs-lookup"><span data-stu-id="07bbd-102">OneDrive retention and deletion</span></span>
+# <a name="onedrive-retention-and-deletion"></a><span data-ttu-id="9c12b-102">OneDrive fenntartását és törlés</span><span class="sxs-lookup"><span data-stu-id="9c12b-102">OneDrive retention and deletion</span></span>
 
-- <span data-ttu-id="07bbd-103">Visszaállítható [a törölt felhasználói OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) magát.</span><span class="sxs-lookup"><span data-stu-id="07bbd-103">You can [restore a deleted users OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) yourself.</span></span> <span data-ttu-id="07bbd-104">Vannak a Lomtár 93 napra.</span><span class="sxs-lookup"><span data-stu-id="07bbd-104">They are in recycle bin for 93 Days.</span></span> 
+- <span data-ttu-id="9c12b-103">Visszaállítható [a törölt felhasználói OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) magát.</span><span class="sxs-lookup"><span data-stu-id="9c12b-103">You can [restore a deleted users OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) yourself.</span></span> <span data-ttu-id="9c12b-104">Vannak a Lomtár 93 napra.</span><span class="sxs-lookup"><span data-stu-id="9c12b-104">They are in recycle bin for 93 Days.</span></span> 
 
-- <span data-ttu-id="07bbd-105">[Ez a cikk](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) további információt talál:</span><span class="sxs-lookup"><span data-stu-id="07bbd-105">See [this article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) to learn:</span></span>
-    - <span data-ttu-id="07bbd-106">Hogyan kell egy másik felhasználó hozzáférést biztosíthat a törölt felhasználói OneDrive.</span><span class="sxs-lookup"><span data-stu-id="07bbd-106">How to give another user access to a deleted user's OneDrive.</span></span>
-    - <span data-ttu-id="07bbd-107">Mi történik a felhasználó OneDrive, a szervezet számára az Office 365 fiókkal törlésekor.</span><span class="sxs-lookup"><span data-stu-id="07bbd-107">What happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
-    - <span data-ttu-id="07bbd-108">Hogyan konfigurálható az automatikus hozzáférés delegálása.</span><span class="sxs-lookup"><span data-stu-id="07bbd-108">How to configure automatic access delegation.</span></span>
-    - <span data-ttu-id="07bbd-109">OneDrive törlési folyamat működése.</span><span class="sxs-lookup"><span data-stu-id="07bbd-109">How OneDrive deletion process works.</span></span>
+- <span data-ttu-id="9c12b-105">[Ez a cikk](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) további információt talál:</span><span class="sxs-lookup"><span data-stu-id="9c12b-105">See [this article](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) to learn:</span></span>
+    - <span data-ttu-id="9c12b-106">Hogyan kell egy másik felhasználó hozzáférést biztosíthat a törölt felhasználói OneDrive.</span><span class="sxs-lookup"><span data-stu-id="9c12b-106">How to give another user access to a deleted user's OneDrive.</span></span>
+    - <span data-ttu-id="9c12b-107">Mi történik a felhasználó OneDrive, a szervezet számára az Office 365 fiókkal törlésekor.</span><span class="sxs-lookup"><span data-stu-id="9c12b-107">What happens to a user's OneDrive when you delete the user's Office 365 account for your organization.</span></span>
+    - <span data-ttu-id="9c12b-108">Hogyan konfigurálható az automatikus hozzáférés delegálása.</span><span class="sxs-lookup"><span data-stu-id="9c12b-108">How to configure automatic access delegation.</span></span>
+    - <span data-ttu-id="9c12b-109">OneDrive törlési folyamat működése.</span><span class="sxs-lookup"><span data-stu-id="9c12b-109">How OneDrive deletion process works.</span></span>
 
-- <span data-ttu-id="07bbd-110">Biztonsági és Megfelelési központba adatmegőrzési és tartás iránt érdeklődik?:</span><span class="sxs-lookup"><span data-stu-id="07bbd-110">Interested in Security and Compliance Center retention and hold?:</span></span>
-    - [<span data-ttu-id="07bbd-111">Adatmegőrzési szabályok OneDrive és a SharePoint-webhelyek</span><span class="sxs-lookup"><span data-stu-id="07bbd-111">Retention policies for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [<span data-ttu-id="07bbd-112">elektronikus adatok feltárása tartsa OneDrive és a SharePoint-webhelyek</span><span class="sxs-lookup"><span data-stu-id="07bbd-112">eDiscovery hold for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- <span data-ttu-id="9c12b-110">Biztonsági és Megfelelési központba adatmegőrzési és tartás iránt érdeklődik?:</span><span class="sxs-lookup"><span data-stu-id="9c12b-110">Interested in Security and Compliance Center retention and hold?:</span></span>
+    - [<span data-ttu-id="9c12b-111">Adatmegőrzési szabályok OneDrive és a SharePoint-webhelyek</span><span class="sxs-lookup"><span data-stu-id="9c12b-111">Retention policies for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [<span data-ttu-id="9c12b-112">elektronikus adatok feltárása tartsa OneDrive és a SharePoint-webhelyek</span><span class="sxs-lookup"><span data-stu-id="9c12b-112">eDiscovery hold for OneDrive and SharePoint sites</span></span>](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 
