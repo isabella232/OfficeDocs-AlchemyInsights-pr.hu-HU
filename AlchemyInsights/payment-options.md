@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388674"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555271"
 ---
-# <a name="payment-options"></a>Fizetési lehetőségek
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Fizetési lehetőségek az Office 365 Vállalati verziós előfizetésekhez
 
 **Fizetési lehetőségek**
   
@@ -30,7 +30,7 @@ Hitelkártya, bankszámla (közvetlen terhelés) és számla (fizetés csekkel v
   
 Ha a hitelkártyás vagy a bankszámlás fizetést választja, akkor a számla kiállítása utáni napon automatikusan a kártyájára vagy a bankszámlájára fogjuk terhelni az előfizetés díját egészen addig, amíg az előfizetési időszak le nem jár. [Bankkártya- vagy bankszámlaadatait bármikor frissítheti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account). Igény szerint [A számlakivonat egy példányának kérése e-mailben](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Ha a hitelkártyáját elutasították, vagy lejárt tartozása van, választhatja a **Fizetés most** lehetőséget a **Számlázás** \> [Előfizetések](https://portal.office.com/adminportal/home#/subscriptions) lapon.
+Ha a hitelkártyáját elutasították, vagy lejárt tartozása van, választhatja az **Egyenleg rendezése** lehetőséget a **Számlázás** \> [Termékek és szolgáltatások](https://portal.office.com/adminportal/home#/subscriptions) lapon.
   
 **Fizetés számla ellenében (csekk vagy elektronikus átutalás)**
   
