@@ -12,16 +12,16 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701433"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537459"
 ---
 # <a name="change-your-email-name"></a>Az e-mail név módosítása
 
-Ha több e-mail címét, és módosítani szeretné a címzettek nevét az üzenet jelenik meg:
+Ha e-mail címét, és módosítani szeretné egy Outlook.com címzettek nevét az üzenet jelenik meg:
   
 1. Válassza ki a fiókhoz tartozó kép, az oldal jobb felső sarkában.
 2. Válassza ki **a profilt**.
