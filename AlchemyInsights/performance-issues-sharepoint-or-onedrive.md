@@ -13,20 +13,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: ba81be33137660bd4d7e735a6681b13ea88e3761
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a7e84ef41c5c3486eb0bc15ddf4f550c797b5f0c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371363"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554976"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>A SharePoint- vagy OneDrive lassú, nem elérhető vagy nem érhető el, ha több felhasználó
 
-SharePoint vagy OneDrive jelenik meg a lassú, nem elérhető vagy nem érhető el más oka is lehet.
+A SharePoint- vagy OneDrive lehet lassú, nem elérhető vagy nem érhető el több oknál fogva:
   
-1. Ha a OneDrive vagy a SharePoint webhely lassú vagy késleltetett több felhasználó, lehet egy ideiglenes szolgáltatást a probléma adott felhasználók tapasztalhatnak szakaszos elhúzódik és hibás navigációs SharePoint-webhelyek vagy a OneDrive-tartalom elérése. Megtekintheti, ha a szervezet az érintett [Szolgáltatás egészségügyi irányítópult](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ellenőrizze.
+- Ha a OneDrive vagy a SharePoint webhely lassú vagy késleltetett több felhasználó, lehet egy ideiglenes szolgáltatást a probléma adott felhasználók során időnként elhúzódik és hibás navigációs SharePoint-webhelyek vagy a OneDrive-tartalom elérése. Megtekintheti, ha a szervezet az érintett [szolgáltatás egészségügyi irányítópult](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ellenőrizze.
   
-2. **Klasszikus** SharePoint-webhely vagy lap gyenge teljesítmény tapasztalható, ha használja az [Oldal diagnosztikai eszköz](https://aka.ms/perftool) elemezheti az oldalakat.
+- **Klasszikus** SharePoint-webhely vagy lap gyenge teljesítmény tapasztalható, ha használja a [lap diagnosztikai eszköz](https://aka.ms/perftool) elemezheti az oldalakat.
   
-3. Továbbra is általános gyenge teljesítmény tapasztalható, ha olvassa el részletesen az erőforrások fedje fel problémák, lásd: [Bevezetés a SharePoint online teljesítményhangolásról](https://go.microsoft.com/fwlink/?linkid=2024334)a cikk alján.
+- Továbbra is általános gyenge teljesítmény tapasztalható, ha olvassa el a cikk alján az erőforrások: [teljesítményének beállítása a SharePoint Online-bevezetés](https://go.microsoft.com/fwlink/?linkid=2024334)
   

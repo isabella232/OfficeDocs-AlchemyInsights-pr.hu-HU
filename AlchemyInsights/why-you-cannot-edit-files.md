@@ -9,20 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 83703435b5700bea2f03896ee9f154d5bb05e7d5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222670"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558331"
 ---
-# <a name="why-you-might-not-be-able-to-edit-files"></a>Miért nem valószínűleg fájlok szerkesztését?
+# <a name="why-cant-i-edit-files"></a>Miért nem lehet szerkeszteni a fájlokat?
 
-Ha a dokumentum, munkafüzet vagy bemutató szerkesztésre zárolva van, és nem nyitható meg, lehet, hogy valaki más már szerkeszti a fájlt, vagy rendelkeznek a kivett fájlt. A következőkben néhány okok [Miért nem szerkesztheti a fájlt lehet](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)egy gyors pillantást.
+Ha a dokumentum, munkafüzet vagy bemutató szerkesztésre zárolva van, és nem nyitható meg a Windows asztali alkalmazások, lehet, hogy valaki más már szerkeszti a fájlt, vagy rendelkeznek a kivett fájlt. A következőkben néhány okok [Miért nem szerkesztheti a fájlt lehet](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)egy gyors pillantást.
 
-Megjegyzés: A szükséges oszlopokat/metaadatok, könyvtárak kivételt, vagy ha Piszkozatelemek biztonsági beállításai csak felhasználók szerkeszthetik vagy csak verzió beállítások a dokumentumtár elemeinek jóváhagyására jogosult felhasználók értéke.
+Ha ** **kivételt, szükséges** , illetve** oszlopok és metaadatok könyvtárak vagy **Piszkozatelemek biztonsági beállításai** **csak olyan felhasználók, akik módosíthatják** vagy **aki jóváhagyhatja az elemek csak a felhasználói** beállítások verzió van állítva a könyvtár:
 
-OneDrive tárak OneDrive a szinkronizálás állapota mellett egy lakat ikon jelenik meg, és a felhasználó nem tudják szinkronizálni a műsortárban, mindaddig, amíg az említett beállítások el lettek távolítva.
+- SharePoint-dokumentumtárak ezeket az elemeket a program szinkronizálja a csak olvasásra.
+
+- OneDrive tárak a OneDrive jelennek meg egy lakat ikon (OneDrive fájl zárolva ikon) mellett a szinkronizálási állapot és a felhasználó nem tudják szinkronizálni a műsortárban, mindaddig, amíg az említett beállítások el lettek távolítva. 
 
 További információt a Word vagy Excel zárolt fájlok hivatkozást az alábbi cikkek.
 

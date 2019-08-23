@@ -1,5 +1,5 @@
 ---
-title: Kattintson duplán a WD fájl nem nyílik meg
+title: Kattintson duplán a Word-fájl nem nyílik meg
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 5eedc991d787c2e50d9f92eae3acf4fa367c08f1
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752764"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558187"
 ---
-# <a name="solutions-for-files-opening-in-wrong-apps"></a>Fájlok megnyitása a rossz apps megoldások
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word-dokumentumot nyitja meg a megfelelő alkalmazás, vagy nem nyílik meg
 
 Hajtsuk végre a következőket:
 
 **Válassza ki a Word alapértelmezés szerint**
 
-* Kattintson a jobb gombbal a dokumentum, **a Megnyitás**parancsra, és válassza a **Word**
+- Kattintson a jobb gombbal a dokumentum, **a Megnyitás**parancsra, és válassza a **Word**
 
 **Gyors helyreállítás futtatása**
 
