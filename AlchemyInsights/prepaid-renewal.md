@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388602"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554623"
 ---
-# <a name="prepaid-renewal"></a><span data-ttu-id="070ac-102">Előre fizetett megújítása</span><span class="sxs-lookup"><span data-stu-id="070ac-102">Prepaid renewal</span></span>
+# <a name="prepaid-office-365-renewal"></a><span data-ttu-id="84666-102">Előre fizetett Office 365 megújítása</span><span class="sxs-lookup"><span data-stu-id="84666-102">Prepaid Office 365 renewal</span></span>
 
-1. <span data-ttu-id="070ac-103">A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.</span><span class="sxs-lookup"><span data-stu-id="070ac-103">In the Admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="84666-103">A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.</span><span class="sxs-lookup"><span data-stu-id="84666-103">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="070ac-104">Válassza ki az előre fizetett előfizetést szeretne bővíteni, majd válassza a **Bővítés**.</span><span class="sxs-lookup"><span data-stu-id="070ac-104">Choose the prepaid subscription you would like to extend, then choose **Extend**.</span></span>
+2. <span data-ttu-id="84666-104">Keresse meg a kiterjeszteni kívánt előfizetés.</span><span class="sxs-lookup"><span data-stu-id="84666-104">Find the subscription you want to extend.</span></span> <span data-ttu-id="84666-105">**Számlázási** szakaszban **bővítése záró dátumának**kiválasztása.</span><span class="sxs-lookup"><span data-stu-id="84666-105">In the **Billing** section, select **Extend end date**.</span></span>
 
-3. <span data-ttu-id="070ac-105">Válassza a lehetőséget a **termékkulcsot**.</span><span class="sxs-lookup"><span data-stu-id="070ac-105">Choose the option for **Product key**.</span></span> <span data-ttu-id="070ac-106">(Ha ez volt a kiskereskedelmi helyen vásárolt egy termékkulcsot, előfordulhat, hogy lehetősége kiterjeszteni a más fizetési mód.)</span><span class="sxs-lookup"><span data-stu-id="070ac-106">(If this was a product key purchased at a retail location, you might have the option to extend with other payment methods.)</span></span>
+3. <span data-ttu-id="84666-106">A **Bővítés előfizetés** ablaktáblán jelölje ki az **Új és nem használt termék kulcs használata**, majd kattintson a **Tovább gombra**.</span><span class="sxs-lookup"><span data-stu-id="84666-106">In the **Extend subscription** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="070ac-107">Írja be a termékkulcsot.</span><span class="sxs-lookup"><span data-stu-id="070ac-107">Enter the product key.</span></span>
+4. <span data-ttu-id="84666-107">Írja be a termékkulcsot, majd kattintson a **Tovább gombra**.</span><span class="sxs-lookup"><span data-stu-id="84666-107">Enter the product key, then select **Next**.</span></span>
 
-5. <span data-ttu-id="070ac-108">Győződjön meg arról, hogy az adatok helyesek, majd kattintson a **Tovább gombra**.</span><span class="sxs-lookup"><span data-stu-id="070ac-108">Make sure the information is correct, then choose **Next**.</span></span>
+> [!NOTE]
+> <span data-ttu-id="84666-108">Ha egynél több termékkulcsot, jelöljön ki **egy másik termék kulcs hozzáadása** adja meg őket.</span><span class="sxs-lookup"><span data-stu-id="84666-108">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-6. <span data-ttu-id="070ac-109">Válassza ki a rádió bővítése és a meglévő licenceket befejezési dátumát, majd kattintson a **Tovább**gombra.</span><span class="sxs-lookup"><span data-stu-id="070ac-109">Choose the radio button to extend the end date of the existing licenses, then choose **Next**.</span></span>
+5. <span data-ttu-id="84666-109">Tekintse át a rendelés részletei, majd válassza a **Redeem**.</span><span class="sxs-lookup"><span data-stu-id="84666-109">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="070ac-110">Az új felügyeleti központ használatával?</span><span class="sxs-lookup"><span data-stu-id="070ac-110">Are you using the new admin center?</span></span> <span data-ttu-id="070ac-111">Új lépéseket lásd: [licencek hozzáadása vagy bővítése a termékazonosító kulccsal fizetett előfizetéssel](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="070ac-111">For new steps, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="84666-110">További tudnivalókért lásd: [licencek hozzáadása vagy bővítése a termékazonosító kulccsal fizetett előfizetéssel](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="84666-110">For more information, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
