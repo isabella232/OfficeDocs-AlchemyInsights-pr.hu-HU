@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "1424"
 - "8000092"
-ms.openlocfilehash: f8f3149f4c32f6fa5a956107187e5b4dfa77c630
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 6e70ac6c4c6badc9e3196b193d0040e387ee5a07
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36166046"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557863"
 ---
-# <a name="how-to-view-message-headers-or-message-source"></a><span data-ttu-id="4b2ae-102">Az üzenetfejlécek vagy üzenet forrás megtekintése</span><span class="sxs-lookup"><span data-stu-id="4b2ae-102">How to view message headers or message source</span></span>
+# <a name="how-to-view-outlookcom-message-headers-or-message-source"></a><span data-ttu-id="93dfc-102">Outlook.com üzenetfejlécek vagy üzenet forrás megtekintése</span><span class="sxs-lookup"><span data-stu-id="93dfc-102">How to view Outlook.com message headers or message source</span></span>
 
-<span data-ttu-id="4b2ae-103">A fejlécek és egyéb részletek az e-mailben, jelölje ki a három pont</span><span class="sxs-lookup"><span data-stu-id="4b2ae-103">To see the headers and other details in an email, select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- <span data-ttu-id="4b2ae-104">Az Olvasóablak és válassza ki **az üzenet forrásának megtekintése**felső sarkában.</span><span class="sxs-lookup"><span data-stu-id="4b2ae-104">at the top corner of the reading pane and select **View message source**.</span></span>
+<span data-ttu-id="93dfc-103">A fejlécek és egyéb részletek az e-mailben, jelölje ki a három pont</span><span class="sxs-lookup"><span data-stu-id="93dfc-103">To see the headers and other details in an email, select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="93dfc-104">Az Olvasóablak és válassza ki **az üzenet forrásának megtekintése**felső sarkában.</span><span class="sxs-lookup"><span data-stu-id="93dfc-104">at the top corner of the reading pane and select **View message source**.</span></span>

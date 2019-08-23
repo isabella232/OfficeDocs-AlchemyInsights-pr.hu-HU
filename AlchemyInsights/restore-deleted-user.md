@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 36de08adb045eab2c60524cfcdc1e2bc3bc75364
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356023"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551813"
 ---
-# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="6a543-102">Felhasználó visszaállítása az Office 365-ben</span><span class="sxs-lookup"><span data-stu-id="6a543-102">Restore a user in Office 365</span></span>
+# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="d1190-102">Felhasználó visszaállítása az Office 365-ben</span><span class="sxs-lookup"><span data-stu-id="d1190-102">Restore a user in Office 365</span></span>
 
-<span data-ttu-id="6a543-103">Állítsa vissza a felhasználó az Office 365 rendszerben az alábbi módon:</span><span class="sxs-lookup"><span data-stu-id="6a543-103">Restore a user in Office 365 using these steps:</span></span>
+<span data-ttu-id="d1190-103">Állítsa vissza a felhasználó az Office 365 rendszerben az alábbi módon:</span><span class="sxs-lookup"><span data-stu-id="d1190-103">Restore a user in Office 365 using these steps:</span></span>
   
-1. <span data-ttu-id="6a543-104">Ugrás a [felhasználók \> törölni a felhasználók](https://admin.microsoft.com/adminportal/home#/deletedusers).</span><span class="sxs-lookup"><span data-stu-id="6a543-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
+1. <span data-ttu-id="d1190-104">Ugrás a [felhasználók \> törölni a felhasználók](https://admin.microsoft.com/adminportal/home#/deletedusers).</span><span class="sxs-lookup"><span data-stu-id="d1190-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
 
-2. <span data-ttu-id="6a543-105">Válassza ki a felhasználót, majd válassza a **Visszaállítás**.</span><span class="sxs-lookup"><span data-stu-id="6a543-105">Choose the user, then select **Restore**.</span></span>
+2. <span data-ttu-id="d1190-105">Válassza ki a felhasználót, majd válassza a **Visszaállítás**.</span><span class="sxs-lookup"><span data-stu-id="d1190-105">Choose the user, then select **Restore**.</span></span>
 
-3. <span data-ttu-id="6a543-106">Kövesse az utasításokat a jelszó megadásához.</span><span class="sxs-lookup"><span data-stu-id="6a543-106">Follow the prompts to set the password.</span></span>
+3. <span data-ttu-id="d1190-106">Kövesse az utasításokat a jelszó megadásához.</span><span class="sxs-lookup"><span data-stu-id="d1190-106">Follow the prompts to set the password.</span></span>
 
-4. <span data-ttu-id="6a543-107">Kattintson a **Küldés e-mailben, és zárja be**, és kész!</span><span class="sxs-lookup"><span data-stu-id="6a543-107">Click **Send email and close**, and you're done!</span></span>
+4. <span data-ttu-id="d1190-107">Kattintson a **Küldés e-mailben, és zárja be**, és kész!</span><span class="sxs-lookup"><span data-stu-id="d1190-107">Click **Send email and close**, and you're done!</span></span>
 
-<span data-ttu-id="6a543-108">Nem volt ilyen egyszerű?</span><span class="sxs-lookup"><span data-stu-id="6a543-108">Wasn't that easy?</span></span> <span data-ttu-id="6a543-109">További részletek és képernyőképek a lépéseket e cikk kivétele: [állítsa vissza a felhasználó az Office 365 rendszerben](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span><span class="sxs-lookup"><span data-stu-id="6a543-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span></span> <span data-ttu-id="6a543-110">Értekezleteihez inkább kell visszaállítási felhasználó postaládájához, lásd: [törlése vagy visszaállítása felhasználói postaládák az Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="6a543-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>
+<span data-ttu-id="d1190-108">Nem volt ilyen egyszerű?</span><span class="sxs-lookup"><span data-stu-id="d1190-108">Wasn't that easy?</span></span> <span data-ttu-id="d1190-109">További részletek és képernyőképek a lépéseket e cikk kivétele: [állítsa vissza a felhasználó az Office 365 rendszerben](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span><span class="sxs-lookup"><span data-stu-id="d1190-109">For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx).</span></span> <span data-ttu-id="d1190-110">Értekezleteihez inkább kell visszaállítási felhasználó postaládájához, lásd: [törlése vagy visszaállítása felhasználói postaládák az Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="d1190-110">If you realize you instead need to restore user's mailbox, see: [Delete or restore user mailboxes in Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).</span></span>
