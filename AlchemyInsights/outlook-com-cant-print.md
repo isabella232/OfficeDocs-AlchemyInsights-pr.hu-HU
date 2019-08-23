@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "8000046"
 - "2507"
-ms.openlocfilehash: 3a920dc6128e2c7ece6077a35d15aff9eaa5737f
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.openlocfilehash: c2ce75066631e822c4cda2f7fa4019e20632cea0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35475484"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36547925"
 ---
-# <a name="unable-to-print"></a><span data-ttu-id="4f507-102">Nem nyomtatható</span><span class="sxs-lookup"><span data-stu-id="4f507-102">Unable to print</span></span>
+# <a name="unable-to-print"></a><span data-ttu-id="8464c-102">Nem nyomtatható</span><span class="sxs-lookup"><span data-stu-id="8464c-102">Unable to print</span></span>
 
-<span data-ttu-id="4f507-103">Vagyunk tisztában a probléma Ha egyes felhasználók nem tudnak nyomtatni él vagy a Safari böngésző használata esetén.</span><span class="sxs-lookup"><span data-stu-id="4f507-103">We're aware of an issue where some users can't print when using Safari or Edge browsers.</span></span> <span data-ttu-id="4f507-104">Miközben azt dolgozni egy javítást ehhez, használjon másik böngészőt.</span><span class="sxs-lookup"><span data-stu-id="4f507-104">While we work on a fix for this, please use another browser.</span></span> <span data-ttu-id="4f507-105">Elnézést kérünk a kellemetlenségért.</span><span class="sxs-lookup"><span data-stu-id="4f507-105">We apologize for the inconvenience.</span></span>
+<span data-ttu-id="8464c-103">Vagyunk tisztában a probléma Ha egyes felhasználók nem tudnak nyomtatni él vagy a Safari böngésző használata esetén.</span><span class="sxs-lookup"><span data-stu-id="8464c-103">We're aware of an issue where some users can't print when using Safari or Edge browsers.</span></span> <span data-ttu-id="8464c-104">Miközben azt dolgozni egy javítást ehhez, használjon másik böngészőt.</span><span class="sxs-lookup"><span data-stu-id="8464c-104">While we work on a fix for this, please use another browser.</span></span> <span data-ttu-id="8464c-105">Elnézést kérünk a kellemetlenségért.</span><span class="sxs-lookup"><span data-stu-id="8464c-105">We apologize for the inconvenience.</span></span>
