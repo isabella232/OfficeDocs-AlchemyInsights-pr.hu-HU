@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388458"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553578"
 ---
-# <a name="question-about-licenses"></a>Licenccel kapcsolatos kérdés
+# <a name="questions-about-your-office-365-license"></a>Az Office 365 licenccel kapcsolatos kérdések
 
 Ha azt szeretné tudni, hogy hány licencet vásárolt, vagy hány licenc előfizetés rendeli:
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
 
-2. Válassza ki az előfizetést szeretne többet tudni.
+2. Szeretne többet tudni az előfizetés neve alatt látható számát is fizet a licencek és mennyi áll rendelkezésre, hozzá kell rendelni.
 
-3. Az előfizetés kártya bal oldalán a licencekkel kapcsolatos információ jelenik meg:
-
-  - Az érték **Beszerezve** is fizet a licencek számát.
-
-  - A **hozzárendelt** szám rendelve a felhasználói licencek számát.
-
-4. Ha további licenceket szeretne, vagy ha túl sok, válassza a mennyi vásárolt **licencek hozzáadása** .
+Ha további licenceket szeretne, vagy ha túl sok, válassza a mennyi vásárolt **licencek hozzáadása** .

@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388602"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554623"
 ---
-# <a name="prepaid-renewal"></a>Előre fizetett megújítása
+# <a name="prepaid-office-365-renewal"></a>Előre fizetett Office 365 megújítása
 
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
+1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
 
-2. Válassza ki az előre fizetett előfizetést szeretne bővíteni, majd válassza a **Bővítés**.
+2. Keresse meg a kiterjeszteni kívánt előfizetés. **Számlázási** szakaszban **bővítése záró dátumának**kiválasztása.
 
-3. Válassza a lehetőséget a **termékkulcsot**. (Ha ez volt a kiskereskedelmi helyen vásárolt egy termékkulcsot, előfordulhat, hogy lehetősége kiterjeszteni a más fizetési mód.)
+3. A **Bővítés előfizetés** ablaktáblán jelölje ki az **Új és nem használt termék kulcs használata**, majd kattintson a **Tovább gombra**.
 
-4. Írja be a termékkulcsot.
+4. Írja be a termékkulcsot, majd kattintson a **Tovább gombra**.
 
-5. Győződjön meg arról, hogy az adatok helyesek, majd kattintson a **Tovább gombra**.
+> [!NOTE]
+> Ha egynél több termékkulcsot, jelöljön ki **egy másik termék kulcs hozzáadása** adja meg őket.
 
-6. Válassza ki a rádió bővítése és a meglévő licenceket befejezési dátumát, majd kattintson a **Tovább**gombra.
+5. Tekintse át a rendelés részletei, majd válassza a **Redeem**.
 
-Az új felügyeleti központ használatával? Új lépéseket lásd: [licencek hozzáadása vagy bővítése a termékazonosító kulccsal fizetett előfizetéssel](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+További tudnivalókért lásd: [licencek hozzáadása vagy bővítése a termékazonosító kulccsal fizetett előfizetéssel](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

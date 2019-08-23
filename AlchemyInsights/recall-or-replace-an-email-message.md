@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356599"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553434"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Visszahívni vagy kicserélni egy e-mailt
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Visszahívni vagy kicserélni egy e-mailt az Office 365 rendszerben
 
 - **Csak a szervezet tagjai által küldött visszahívása üzeneteket**is. Ha az üzenet a Gmail címre lett küldve, például nem emlékszünk rá.
 - Lehetőség van **csak a PC-változat az Outlook 2016 küldött üzenetek visszahívása**. A felhasználó Outlook for Mac és a weben az Outlook üzenetet küld, ha nem tudja visszahívni.
 - Ha egy rendszergazda, **üzenetek visszahívása a PowerShell segítségével a felhasználók nevében**is. Az admin center üzenetek nem tudja visszahívni. Görgessen le a "Search for és e-mailek törlése a szervezet" További információt.
 
-***Visszahívása vagy kicserélése küldött e-mailben***
+**Visszahívása vagy kicserélése küldött e-mailben**
 
 1. A mappalistán az Outlook ablak a bal oldalon válassza az elküldött elemek mappába.
 2. Nyissa meg a visszahívni kívánt üzenetet. Az üzenet megnyitásához kattintson duplán. Jelölje ki az üzenetet, így jelenik meg az olvasóablakban nem engedélyezi, hogy az üzenet visszahívása.

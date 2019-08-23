@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444774"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555235"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Tartalom keresése és elektronikus adatok feltárása keresések végrehajtása
 
@@ -32,6 +32,6 @@ Az a biztonsági & Megfelelési központba gyorsan megtalálhatja az Exchange po
 4. Adja meg a szükséges keresési feltételeket, beleértve a kulcsszavakat és a tartalom helye.  
 5. Kattintson a **Futtatás & menteni** a keresési név, indítsa el, majd ezután az eredmény mintaképét.
 
-Részletes ismertetése a tartalom keresés eredmények exportálása és létrehozása, adatok tárolásához elektronikus adatok feltárása esetek: [Tartalom keresési](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) és [elektronikus adatok feltárása esetek](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+Részletes ismertetése a tartalom keresés eredmények exportálása és létrehozása, adatok tárolásához elektronikus adatok feltárása esetek: [Tartalom keresési](https://docs.microsoft.com/office365/securitycompliance/content-search) és [elektronikus adatok feltárása esetek](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Tartalom keresése a [kapcsolatos követelményeket és korlátozásokat](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) és a [vizsgáló részben indexelt elem](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) megtekintésével kapcsolatban további és más eredményeket kell megérteni.
+Tartalom keresése a [kapcsolatos követelményeket és korlátozásokat](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) és a [vizsgáló részben indexelt elem](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) megtekintésével kapcsolatban további és más eredményeket kell megérteni.

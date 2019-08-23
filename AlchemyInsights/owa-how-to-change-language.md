@@ -1,9 +1,9 @@
 ---
-title: 8000014 hogyan nyelv megváltoztatása
+title: Nyelv, dátum és időpont formátuma vagy a weben az Outlook időzóna módosítása
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 5/24/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000014"
 - "2000"
-ms.assetid: ''
-ms.openlocfilehash: 4ef2e1175811ea8f388fc53205278c2d2e1b127b
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: c7ed1f7286fb62a552c21d7a20d7c85111656058
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34422950"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556604"
 ---
-# <a name="change-language"></a>Nyelv módosítása
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlook-on-the-web"></a>A nyelv, dátum és időpont formátuma vagy a weben az Outlook időzóna módosítása
 
-1.    Jelentkezzen be az Outlook a weben.
-2. Az oldal tetején, válassza a **Beállítások** > **az összes Outlook-beállítások megtekintése**.
-3. **Általános** > **nyelv és az idő**.
-4. Válassza ki a használni kívánt nyelvet.
-5. Válassza a **Mentés** lehetőséget.
- 
+1. Válassza ki az oldal tetején <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Beállítások** > **az összes Outlook-beállítások megtekintése**.
+2. **Általános** > **nyelv és az idő**.
+3. Válassza ki a használni kívánt nyelvet.
+4. Válassza a **Mentés** lehetőséget.
+
 További információért lásd a [módosítható az időzóna- és nyelvi beállításokat az Outlook programban a weben](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273).
-
