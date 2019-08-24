@@ -13,17 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 90f7a879b823648973ef52d9d34914871c046141
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b6f0148a955fe3004471f1963e8ffa840ba7257
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518509"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575763"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="19f17-102">Az Office 365-előfizetés lemondása?</span><span class="sxs-lookup"><span data-stu-id="19f17-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="e6a16-102">Az Office 365-előfizetés lemondása?</span><span class="sxs-lookup"><span data-stu-id="e6a16-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="19f17-103">Sajnáljuk, hogy go!</span><span class="sxs-lookup"><span data-stu-id="19f17-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="e6a16-103">Sajnáljuk, hogy go!</span><span class="sxs-lookup"><span data-stu-id="e6a16-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="19f17-104">A szervezeti adatok alapján, úgy véljük, az aktuális előfizetések legalább 25 ülések rendelkezik.</span><span class="sxs-lookup"><span data-stu-id="19f17-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="19f17-105">Online előfizetés törléséhez lépjen a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon, majd kattintson a **További műveletek** \> **előfizetés**.</span><span class="sxs-lookup"><span data-stu-id="19f17-105">To cancel your subscription online, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose **More actions** \> **Cancel subscription**.</span></span>
+<span data-ttu-id="e6a16-104">A szervezeti adatok alapján, úgy véljük, az aktuális előfizetések legalább 25 ülések rendelkezik.</span><span class="sxs-lookup"><span data-stu-id="e6a16-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="e6a16-105">Online előfizetés törléséhez lépjen a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.</span><span class="sxs-lookup"><span data-stu-id="e6a16-105">To cancel your subscription online, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="e6a16-106">A **Beállítások & műveletek** csoportban válassza az **előfizetés**.</span><span class="sxs-lookup"><span data-stu-id="e6a16-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="19f17-106">További előfizetés lemondása vagy lépésenkénti, lásd a cikk: [előfizetés](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="19f17-106">To learn more about canceling a subscription or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)</span></span>
+<span data-ttu-id="e6a16-107">A régi felügyeleti központ használatával?</span><span class="sxs-lookup"><span data-stu-id="e6a16-107">Are you using the old admin center?</span></span> <span data-ttu-id="e6a16-108">Régi lépéseket, vagy ha további lásd: [előfizetés](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="e6a16-108">For old steps, or to learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
