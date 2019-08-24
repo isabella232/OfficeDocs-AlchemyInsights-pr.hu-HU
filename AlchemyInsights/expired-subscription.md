@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526681"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575590"
 ---
 # <a name="expired-subscription"></a>Lejárt előfizetés
 
@@ -28,14 +28,22 @@ ms.locfileid: "36526681"
   
 1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
 
-2. Válassza ki az előfizetés aktiválni kell.
+2. Keresse meg az újraaktiválni kívánt előfizetés. Válassza ki a **Számlázási** szakasz **újraaktiválása**.
 
-3. Jelölje be a **Számlázási** csoport **újraaktiválása**.
+Ha nem látjuk **újraaktiválása** rendelkezésre álló műveletet, az előfizetés újraaktiválása tanácsadásra.
 
-[Az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)témakörben talál további információt.
+3. Erősítse meg a fizetési adatait. A meglévő fizetési adatainak frissítése Ha befejezte a megadása a fizetési módot, válassza a **újraaktiválása**.
+
+A régi felügyeleti központ használatával? Régi lépéseket, vagy további lásd [az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **A vásárlás új**
   
 1. A felügyeleti központ, keresse meg a **Számlázási** \> [beszerzési](https://go.microsoft.com/fwlink/p/?linkid=868433) szolgáltatások.
 
-2. Válasszon egy beszerzési, és jelölje be a **vásárolni**kívánt előfizetést.
+2. Válassza ki az előfizetés megvásárlása, majd válassza a **vásárolni**kívánt.
+
+3. Írja be, hogy hány licencre van szüksége, és válassza ki, hogy havonta fizet-e vagy az egész évre. Adja meg, hogy automatikusan szeretne-e licenceket kiosztani a licenccel jelenleg nem rendelkező felhasználóknak. Válassza a **Kiveszi most**.
+
+4. A fennmaradó lépésekkel kivétel befejezéséhez.
+
+A régi felügyeleti központ használatával? Régi lépéseket, vagy további talál [egy másik előfizetést vásárolni](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

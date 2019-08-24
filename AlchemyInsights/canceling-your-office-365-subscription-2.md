@@ -13,19 +13,19 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520957"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576094"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Az Office 365-előfizetés lemondása?
 
 Sajnáljuk, hogy go!
   
-A szervezeti adatok alapján, úgy véljük, az aktuális előfizetések több mint 25 hozzárendelt licenccel rendelkezik. Eltávolíthatja a felhasználók mindaddig, amíg nem kevesebb, mint 25 van, majd nyissa meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon, és kattintson a **További műveletek** \> **előfizetés**.
+A szervezeti adatok alapján, úgy véljük, az aktuális előfizetések több mint 25 hozzárendelt licenccel rendelkezik. Eltávolíthatja a felhasználók mindaddig, amíg nem kevesebb, mint 25 van, majd nyissa meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások. A **Beállítások & műveletek** csoportban válassza az **előfizetés**.
   
-Másik lehetőségként "tudassa velünk hívja meg" lehetőség használatával beszélnie kell egy támogatási mérnök.
+Választhatja a **segítségre van szüksége** egy támogatási mérnök beszélgetni.
   
-További előfizetés lemondása vagy lépésenkénti, lásd a cikk: [előfizetés](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+A régi felügyeleti központ használatával? Régi lépéseket, vagy ha további lásd: [előfizetés](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

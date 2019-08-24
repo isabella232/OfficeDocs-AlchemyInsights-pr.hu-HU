@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840517"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620725"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Csak olvasásra szóló karbantartási jelenik meg, amikor próbál használni a SharePoint- vagy OneDrive
 
-Felhasználók is hibaüzenet **Írásvédett karbantartás** próbál használni a SharePoint- vagy OneDrive.  Ha igen, ellenőrizze, nincs-e [Message center](https://portal.office.com/adminportal/home#/MessageCenter)navigáljon a bérlő bekövetkező aktív karbantartás. Ellenőrizze, hogy az [Egészségügyi szolgáltatás](https://portal.office.com/adminportal/home#/servicehealth) irányítópult, amely felmerülhet tanácsadók/események ellenőrzése.
+Felhasználók is hibaüzenet **Írásvédett karbantartás** próbál használni a SharePoint- vagy OneDrive az alábbi esetek valamelyike. 
 
-Ha sem az üzenet vagy egészségügyi szolgáltatás irányítópult tudomásul vették, aktuális karbantartási semmit a bérlő számára, ez lehet a böngésző gyorsítótár-probléma.
+-   A tervezett és aktív karbantartási tevékenység.  Ellenőrizze, hogy azokat a [Message Center](https://portal.office.com/adminportal/home#/messagecenter)navigáljon.
+-   Magas prioritású aktív szerviz esemény, amely felmerülhet. Ellenőrizze, hogy bármely tanácsadók eseményekre való [Egészségügyi szolgáltatás](https://portal.office.com/adminportal/home#/servicehealth).
+-   Kisebb automatikus javító helyreállítás, a kiszolgálókon, amelyek kevesebb, mint 30 perc, vagy úgy lehet, hogy tart minden olyan váratlan események miatt sikerült előfordul. 
+    
+    Vannak a nem Message Center vagy egészségügyi szolgáltatás által használt ezek kisebb helyreállítást de vissza a normál nagyon legrövidebb időn belül.
+
+Nagyon kevés alkalommal azt megfigyelhető, hogy a három fent említett esetek valamelyike okozhatta, és szolgáltatás visszaállította, de a felhasználók a böngésző gyorsítótár még nem lett bejelölve.
 
 Meg kell kísérelni a böngésző gyorsítótár kiürítése előtt nyissa meg a webhelyet.
 

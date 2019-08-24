@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385867"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574472"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>A Microsoft Office 365 mennyiségi licenc előfizetés aktiválása
 
@@ -32,4 +32,4 @@ ms.locfileid: "36385867"
 
 5. Bejelentkezés az Office 365 ([https://portal.office.com](https://portal.office.com)) a meglévő Office 365 rendszergazdai hitelesítő adatokkal. Sikeres bejelentkezés után, megerősítve a vásárlás egy másik e-mail kap.
 
-6. Amikor már regisztrált, Ugrás a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon ellenőrizze, hogy a vásárolt Office 365-előfizetés a bérlő belül akkor aktiválódnak. (Is választhatja az **előfizetés** lapon az ellenőrzése, hogy letétbe helyezték az előfizetés részleteinek megtekintése a VLSC.)
+6. Amikor már regisztrált, Ugrás a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon ellenőrizze, hogy a vásárolt Office 365-előfizetés a bérlő belül akkor aktiválódnak. (Is választhatja az **előfizetés** lapon az ellenőrzése, hogy letétbe helyezték az előfizetés részleteinek megtekintése a VLSC.)
