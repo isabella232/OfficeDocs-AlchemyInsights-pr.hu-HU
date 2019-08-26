@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 174d4f364b9266f8ba8d51522b0956eddc61ea9e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387757"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532585"
 ---
-# <a name="update-payment-details"></a><span data-ttu-id="8992e-102">Fizetési adatok frissítése</span><span class="sxs-lookup"><span data-stu-id="8992e-102">Update payment details</span></span>
+# <a name="update-payment-details"></a><span data-ttu-id="d18da-102">Fizetési adatok frissítése</span><span class="sxs-lookup"><span data-stu-id="d18da-102">Update payment details</span></span>
 
-1. <span data-ttu-id="8992e-103">A Felügyeleti központban lépjen a **Számlázás** \> [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra.</span><span class="sxs-lookup"><span data-stu-id="8992e-103">In the Admin center, go to the **Payment methods** page, or choose \> [](https://go.microsoft.com/fwlink/p/?linkid=2018806) Payment methods.</span></span>
-
-    > [!NOTE]
-    > <span data-ttu-id="8992e-104">Ha egy végtelen ciklusba kerül, és a rendszer mindig visszalépteti a Felügyeleti központba, még mielőtt érvénybe lépnének a módosítások, próbálkozzon újra InPrivate vagy inkognitó módban.</span><span class="sxs-lookup"><span data-stu-id="8992e-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span>
-  
-2. <span data-ttu-id="8992e-105">Válassza ki azt a hitelkártyát, amelyet frissíteni szeretne.</span><span class="sxs-lookup"><span data-stu-id="8992e-105">Choose the credit card you would like to update.</span></span>
+1. <span data-ttu-id="d18da-103">A Microsoft 365 Felügyeleti központban lépjen a **Számlázás** \> [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra.</span><span class="sxs-lookup"><span data-stu-id="d18da-103">In the Admin center, go to the **Payment methods** page, or choose \> [](https://go.microsoft.com/fwlink/p/?linkid=2018806) Payment methods.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="8992e-106">Ha egy másik rendszergazda adta hozzá a fizetési módot, akkor Ön nem fogja tudni frissíteni a hitelkártya vagy a bankszámla adatait.</span><span class="sxs-lookup"><span data-stu-id="8992e-106">If another admin added the payment method, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="8992e-107">Ha a kártya hamarosan lejár, és a másik rendszergazda nem tudja frissíteni az adatait, úgy előzheti meg a szolgáltatás megszakadását, hogy egy másik hitelkártyát vagy bankszámlát ad hozzá az előfizetéshez a **Fizetési mód hozzáadása** elem kiválasztásával.</span><span class="sxs-lookup"><span data-stu-id="8992e-107">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span>
+    > <span data-ttu-id="d18da-104">Ha egy végtelen ciklusba kerül, és a rendszer mindig visszalépteti a Felügyeleti központba, még mielőtt érvénybe lépnének a módosítások, próbálkozzon újra InPrivate vagy inkognitó módban.</span><span class="sxs-lookup"><span data-stu-id="d18da-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span>
   
-3. <span data-ttu-id="8992e-108">Válassza a **Fizetés részletei** lap **Fizetési adatok szerkesztése** elemét.</span><span class="sxs-lookup"><span data-stu-id="8992e-108">On the **Payment details** page, choose **Edit payment details**.</span></span>
+2. <span data-ttu-id="d18da-105">Válassza ki azt a hitelkártyát, amelyet frissíteni szeretne.</span><span class="sxs-lookup"><span data-stu-id="d18da-105">Choose the credit card you would like to update.</span></span>
 
-4. <span data-ttu-id="8992e-109">Végezze el módosításokat, majd válassza a **Mentés** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="8992e-109">Make the updates, and then choose **Save**.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="d18da-106">Ha egy másik rendszergazda adta hozzá a fizetési módot, akkor Ön nem fogja tudni frissíteni a hitelkártya vagy a bankszámla adatait.</span><span class="sxs-lookup"><span data-stu-id="d18da-106">If another admin added the payment method, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="d18da-107">Ha a kártya hamarosan lejár, és a másik rendszergazda nem tudja frissíteni az adatait, úgy előzheti meg a szolgáltatás megszakadását, hogy egy másik hitelkártyát vagy bankszámlát ad hozzá az előfizetéshez a **Fizetési mód hozzáadása** elem kiválasztásával.</span><span class="sxs-lookup"><span data-stu-id="d18da-107">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span>
+  
+3. <span data-ttu-id="d18da-108">A **Fizetési mód részletei** munkaablakban válassza a **Szerkesztés** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="d18da-108">In the **Payment method details** pane, select **Edit**.</span></span>
 
-5. <span data-ttu-id="8992e-110">Ha törölni szeretné ezt a fizetési módot, válassza a **Törlés** elemet.</span><span class="sxs-lookup"><span data-stu-id="8992e-110">To remove this payment method, choose **Delete**.</span></span>
+4. <span data-ttu-id="d18da-109">Végezze el módosításokat, majd válassza a **Mentés** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="d18da-109">Make the updates, and then choose **Save**.</span></span>
 
-<span data-ttu-id="8992e-111">További információt a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása az Office 365 Vállalati verzióban](https://docs.microsoft.com/hu-HU/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) és a [Hitelkártyákkal és bankszámlákkal kapcsolatos problémák elhárítása](https://docs.microsoft.com/hu-HU/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts) című cikkben talál.</span><span class="sxs-lookup"><span data-stu-id="8992e-111">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and [Troubleshooting credit cards and bank accounts](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).</span></span>
+5. <span data-ttu-id="d18da-110">Ha törölni szeretné ezt a fizetési módot, válassza a **Törlés** elemet.</span><span class="sxs-lookup"><span data-stu-id="d18da-110">To remove this payment method, choose **Delete**.</span></span>
+
+<span data-ttu-id="d18da-111">További információt a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása az Office 365 Vállalati verzióban](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) és a [Hitelkártyákkal és bankszámlákkal kapcsolatos problémák elhárítása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts) című cikkben talál.</span><span class="sxs-lookup"><span data-stu-id="d18da-111">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and [Troubleshooting credit cards and bank accounts](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).</span></span>
