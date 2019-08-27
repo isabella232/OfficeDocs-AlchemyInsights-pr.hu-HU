@@ -13,25 +13,24 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 23e2ea7cab1ccf3a2eb64b60137932ac38cff8aa
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388998"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575344"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hogyan frissíthetem hitelkártyaadataimat?
 
-1. A Felügyeleti központban lépjen a **Számlázás** \> [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
+1. A Microsoft 365 Felügyeleti központban lépjen a **Számlázás** \> [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
 
-2. Jelölje ki a módosítani kívánt hitelkártyával vagy bankszámlával vásárolt előfizetést, és válassza a **Fizetési részletek frissítése** elemet.
+2. A **Fizetési módok** lapon válassza ki a frissíteni kívánt hitelkártyát vagy bankszámlát.
 
-3. Válassza a **Fizetési mód hozzáadása vagy kiválasztása** csoportban a lefelé mutató nyilat, jelölje ki a frissíteni kívánt hitelkártyát vagy bankszámlát, majd válassza a **Részletek szerkesztése** lehetőséget.
+3. A hitelkártya vagy bankszámla adatainak módosításához válassza a **Fizetési részletek szerkesztése** lehetőséget.
 
-4. Frissítse igény szerint a hitelkártya vagy bankszámla adatait (a hitelkártyán vagy bankszámlán szereplő nevet, a számlázási címet, a telefonszámot vagy az érvényességi dátumot), és válassza a **Küldés** gombot.
+> [!NOTE]
+> Ha az előfizetést egy másik rendszergazda vásárolta, akkor Ön nem fogja tudni frissíteni az előfizetés hitelkártya- vagy bankszámlaadatait. Ha a kártya hamarosan lejár, és a másik rendszergazda nem tudja frissíteni az adatait, a szolgáltatás megszakadását úgy előzheti meg, hogy egy másik hitelkártyát vagy bankszámlát ad hozzá az előfizetéshez.
 
-5. Ekkor meg kell jelennie egy megerősítést kérő üzenetpanelnek.
+4. Frissítse igény szerint hitelkártya vagy bankszámla adatait (a hitelkártyán szereplő vagy a bankszámlához tartozó nevet, a számlázási címet, a telefonszámot vagy az érvényességi dátumot), majd válassza a **Mentés** > **Kész** gombot.
 
-További információt a [Hitelkártyákkal és bankszámlákkal kapcsolatos problémák elhárítása](https://docs.microsoft.com/hu-HU/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts) című cikkben talál.
-
-Az új Felügyeleti központot használja? Az új lépéseket a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása az Office 365 Vállalati verzióban](https://docs.microsoft.com/hu-HU/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) című cikkben találja.
+A régi felügyeleti központot használja? A régi lépésekkel vagy bővebb információkkal kapcsolatban tekintse meg a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása az Office 365 Vállalati verzióban](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) című cikket.
