@@ -2,7 +2,6 @@
 title: A tartomány már használatban van
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/8/2017
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +10,17 @@ ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.custom:
 - "29"
 - "10"
-ms.openlocfilehash: 0d761e2ad9796a3bafe5153d4433926882cc241d
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 20a9935d17a6797a1eda7f69da534e3287c3cea1
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904048"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660722"
 ---
-# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="960e0-102">A tartomány már használatban van</span><span class="sxs-lookup"><span data-stu-id="960e0-102">The domain is already in use</span></span>
+# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="0b1ea-102">A tartomány már használatban van</span><span class="sxs-lookup"><span data-stu-id="0b1ea-102">The domain is already in use</span></span>
 
-<span data-ttu-id="960e0-103">A felvenni kívánt tartomány már másik szervezethez tartozik.</span><span class="sxs-lookup"><span data-stu-id="960e0-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="960e0-104">Mielőtt felvehetné a szervezetéhez, először el kell távolítania a tartományt az adott szervezetből.</span><span class="sxs-lookup"><span data-stu-id="960e0-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="960e0-105">Az alábbi cikkek végigvezetik ezeken a folyamatokon.</span><span class="sxs-lookup"><span data-stu-id="960e0-105">The articles below will guide you through these processes.</span></span>
+<span data-ttu-id="0b1ea-103">A felvenni kívánt tartomány már másik szervezethez tartozik.</span><span class="sxs-lookup"><span data-stu-id="0b1ea-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="0b1ea-104">Mielőtt felvehetné a szervezetéhez, először el kell távolítania a tartományt az adott szervezetből.</span><span class="sxs-lookup"><span data-stu-id="0b1ea-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="0b1ea-105">Az alábbi cikkek végigvezetik ezeken a folyamatokon.</span><span class="sxs-lookup"><span data-stu-id="0b1ea-105">The articles below will guide you through these processes.</span></span>
   
-- [<span data-ttu-id="960e0-106">Tartomány eltávolítása az Office 365-ből</span><span class="sxs-lookup"><span data-stu-id="960e0-106">Remove a domain from Office 365</span></span>](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+- [<span data-ttu-id="0b1ea-106">Tartomány eltávolítása az Office 365-ből</span><span class="sxs-lookup"><span data-stu-id="0b1ea-106">Remove a domain from Office 365</span></span>](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
 
-- [<span data-ttu-id="960e0-107">Tartomány felvétele és DNS-rekordok létrehozása</span><span class="sxs-lookup"><span data-stu-id="960e0-107">Add a domain and create DNS records</span></span>](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+- [<span data-ttu-id="0b1ea-107">Tartomány felvétele és DNS-rekordok létrehozása</span><span class="sxs-lookup"><span data-stu-id="0b1ea-107">Add a domain and create DNS records</span></span>](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
