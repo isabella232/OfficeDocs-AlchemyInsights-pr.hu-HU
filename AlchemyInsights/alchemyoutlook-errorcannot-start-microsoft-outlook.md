@@ -1,9 +1,8 @@
 ---
-title: Alkímia - Outlook hiba ' Microsoft Outlook nem indítható"
+title: Alchemy-Outlook hiba "nem lehet elindítani a Microsoft Outlook"
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: ad7663fbc4d62ab880905b8911eac2cac3ac0740
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f17ff5ccd11ca5769885f10a596cde85677ba5a3
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505617"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664538"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Az Outlook hiba: "A Microsoft Outlook nem indítható"
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook-hiba: "nem indítható a Microsoft Outlook"
 
-Azt nem tudja elindítani az Outlook 2016, Outlook 2013 vagy Outlook 2010 vagy fogadás "a Microsoft Outlook nem indítható. Az Outlook ablak nem nyitható meg"hibaüzenet?
+Nem sikerül elindítani az Outlook 2016, Outlook 2013 vagy Outlook 2010, illetve a Microsoft Outlook alkalmazást. Nem nyitható meg az Outlook ablak hibaüzenetei?
   
-Először [Ebben](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) a cikkben hibaelhárítási lépések segítségével ezek indítási problémák megoldásában nyújt segítséget. 
+Először is, a [cikkben](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) ismertetett hibaelhárítási lépésekkel megoldhatja az indítási problémákat. 
   
-A [Speciális diagnosztikai eszköz](https://aka.ms/SaRA-OutlookAdvDiagnostics) is futtathatja az érintett számítógépen. 
+A [speciális diagnosztika eszközt](https://aka.ms/SaRA-OutlookAdvDiagnostics) az érintett gépen is futtathatja. 
   
 

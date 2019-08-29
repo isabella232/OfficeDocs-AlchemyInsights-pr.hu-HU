@@ -3,7 +3,6 @@ title: Hogyan lehet hozzáadni vagy licencek
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574944"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664286"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Hogyan lehet hozzáadni vagy licencek
 
-Íme, hogyan kell eltávolítani, vagy az Office 365 további licencek vásárlása.
+Íme, hogyan távolítsa el az Office 365-licencet, vagy további licencek vásárlása.
   
 1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
 
@@ -39,7 +38,7 @@ ms.locfileid: "36574944"
 > [!NOTE]
 > A következő számlán követel (licenc csökkenés) olyan új díjat (licenc növekedés) fog megjelenni.
 
-A régi felügyeleti központ használatával? Régi lépéseket, vagy további lásd: [az Office 365 üzleti előfizetés licenceket vásárolni](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Többet, olvassa el [az Office 365 üzleti előfizetés licenceket vásárolni](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **További források**
   

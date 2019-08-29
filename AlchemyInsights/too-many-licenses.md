@@ -1,5 +1,5 @@
 ---
-title: Túl sok licenceket?
+title: Túl sok licenc?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549077"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665942"
 ---
-# <a name="too-many-licenses"></a>Túl sok licenceket?
+# <a name="too-many-licenses"></a>Túl sok licenc?
 
-Ha úgy gondolja, hogy túl sok Office 365 licencek éppen folyamatban számlázott, ennek oka általában tekintettel több licencet vásárolt, akkor szükséges.
+Ha úgy gondolja, hogy túl sok Office 365-licencet számláz, ez általában annak köszönhető, hogy több licencet vásárolt, akkor szüksége van rá.
   
 **A megvásárolt licencek számának csökkentése**
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
+1. Az admin központban, menjen a **Számlázási** \> [termékek _amp_ szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) oldal.
 
-2. Keresse meg az előfizetést, amelyből el szeretné távolítani a licenceket, majd jelölje ki a **licencek hozzáadása**.
+2. Keresse meg azt az előfizetést, amelyből el szeretné távolítani a licenceket, majd válassza a **licencek hozzáadása/eltávolítása engedélyt**.
 
-3. Az **összesen** mezőben adja meg az előfizetés szükséges licencek száma, és válassza a **Küldés módosítása**. Ha például 110 licence volt, és 5-öt szeretne eltávolítani, akkor a 105 értéket kell beírnia.
+3. Az **összes licenc** mezőben adja meg az előfizetéshez szükséges licencek számát, majd kattintson a **Küldés módosítása**gombra. Ha például 110 licence volt, és 5-öt szeretne eltávolítani, akkor a 105 értéket kell beírnia.
 
-További információ: [Licencek eltávolítása az Office 365 vállalati verziós előfizetésből](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+További információ: [licencek eltávolítása az Office 365-től üzleti előfizetés esetén](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

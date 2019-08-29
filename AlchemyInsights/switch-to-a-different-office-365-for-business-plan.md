@@ -3,7 +3,6 @@ title: Váltsunk át egy másik Office 365, az üzleti terv
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575986"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665978"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Váltsunk át egy másik Office 365, az üzleti terv
 
@@ -33,5 +32,5 @@ Ha a vállalat megváltozik, vagy több Office 365 szolgáltatással, frissíthe
 4. Keresse meg a frissíteni kívánt tervet, majd kattintson a **frissítés** gombra.
 
 5. Adja meg a számot vagy az egész évre licencekre van szüksége, állítsa be, hogy minden hónapban fizetni, majd válassza a **kivétel**.
-   
-A régi felügyeleti központ használatával? Régi lépéseket, vagy további lásd: [egy másik séma frissítése](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+
+További információért lásd a [Frissítsen egy másik séma](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

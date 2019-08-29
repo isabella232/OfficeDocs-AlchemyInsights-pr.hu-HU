@@ -3,21 +3,28 @@ title: S/MIME az Outlook programban a weben
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
-ms.date: 5/1/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 582c4dc361c0a665377bfc06d13691d222a934ac
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2c047ca31c586c0aa36701e6e7ca9976cfd1734
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511573"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666842"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Az Outlook e-mail üzenetek titkosítása
 
-<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Office 365 üzenetek titkosítása a Microsoft Azure tartalomvédelmi szolgáltatás (Azure RMS) Azure információvédelem részét képező épül. Ha az előfizetés Azure Rights Management vagy Azure információk védelméről, <strong style="mso-bidi-font-weight: normal;">nem kell manuálisan engedélyezendő vagy aktiválása bármilyen műveletet</strong> a tartalomvédelmi szolgáltatás tartalmaz.</span></p> <p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Visszajelzései alapján, azt már nem engedélyezni fogja az Exchange levelezési folyamat szabályok automatikusan titkosítása a kimenő e-mailt a bérlő a bizalmas adatok bizonyos típusú alapértelmezés szerint. &nbsp; Ehelyett azt is nyújt részletes útmutatást ehhez hogyan yourselves. &nbsp;További részleteket a bizalmas adatok titkosításához közlekedési szabály létrehozásához lásd a <a href="https://aka.ms/OmeEtr">cikk</a>.</span><u></u><span style="text-decoration: line-through;"></span></p> <ul> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="mso-list: Ignore;">&nbsp;&nbsp; &nbsp; &nbsp; </span> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">, Ha az Outlook a weben (korábban <strong style="mso-bidi-font-weight: normal;">OWA</strong>) használja: az e-mail üzenet szerkesztésekor egyszerűen kattintson az OWA <strong>védelme</strong> . Alapértelmezés szerint lesz érvényes &lsquo;továbbítja a&rsquo; engedélyt. Kattintson a <strong>módosítási engedéllyel</strong> , és válassza a csak az üzenet titkosításához <strong>titkosítása</strong> .</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; &nbsp; <strong style="mso-bidi-font-weight: normal;">Outlook-ügyfélprogram</strong>használatakor: titkosított üzenetet küld a 2013 vagy 2016 Outlook vagy Outlook 2016 for Mac, válassza a beállítások &agrave; engedélyeket, válassza ki a megfelelő védelem elemet.</span></li> <li style="text-indent: -.25in; mso-list: l0 level1 lfo1;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">&nbsp;&nbsp; <strong style="mso-bidi-font-weight: normal;">Automatikusan titkosítja az összes e-mailben</strong> küldött egyes címzettek vagy külső partnerszervezetek, mail adatfolyam átviteli szabály létrehozása az Exchange felügyeleti központban kell. Részletes útmutatást is ez a <span style="color: black;"><a href="https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities">cikk támogatja</a></span> a</span></li> </ul>
+Office 365 üzenetek titkosítása a Microsoft Azure tartalomvédelmi szolgáltatás (Azure RMS), Azure információvédelem részét képező épül. Ha az előfizetés Azure Rights Management vagy Azure információk védelméről, **nem kell manuálisan engedélyezendő vagy aktiválása bármilyen műveletet** a tartalomvédelmi szolgáltatás tartalmaz.
+
+Visszajelzései alapján, azt már nem engedélyezni fogja az Exchange levelezési folyamat szabályok automatikusan titkosítása a kimenő e-mailt a bérlő a bizalmas adatok bizonyos típusú alapértelmezés szerint. Ehelyett azt is nyújt részletes útmutatást ehhez hogyan yourselves. További részleteket a bizalmas adatok titkosításához közlekedési szabályokat hozhat létre [Ebben a cikkben](https://aka.ms/OmeEtr)talál.
+
+- Ha az Outlook a weben (korábban **OWA**) használja: az e-mail üzenet szerkesztésekor egyszerűen kattintson az OWA **védelme** . A "Do nem előre" engedély érvényesek. Kattintson a **módosítási engedéllyel** , és válassza ki a **titkosítás** csak az üzenet titkosításához.
+
+- Ha az **Outlook-ügyfél**használatával: titkosított üzenetet küld a 2013 vagy 2016 Outlook vagy Outlook 2016 for Mac, válassza a **Beállítások** > **engedélyeket**, majd válassza a védelem lehetőséget kell.
+
+- **Automatikusan titkosítja az összes e-mailben** küldött egyes címzettek vagy külső partnerszervezetek kell levelek áramlását közlekedési szabály létrehozása az Exchange felügyeleti központban. Részletes utasításokat a [támogatási cikkben](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

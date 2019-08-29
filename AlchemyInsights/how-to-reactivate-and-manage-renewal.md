@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574544"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663962"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Újraaktiválás, és ismétlődő Számlázás kezelése
 
@@ -32,7 +32,7 @@ Néz ki, mint az előfizetés már lejárt. Ha meg szeretné újraaktiválni mos
 
 3. Erősítse meg a fizetési adatait. A meglévő fizetési adatainak frissítése Ha befejezte a fizetési mód megadása, jelölje be a **újraaktiválása**.
 
-A régi felügyeleti központ használatával? Régi lépéseket, vagy további lásd [az előfizetés újraaktiválása](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+További információért lásd: [az előfizetés újraaktiválása](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Havi vagy éves Számlázás kezelése válthat **ismétlődő számlázás** be- vagy kikapcsolása.
   
@@ -46,4 +46,4 @@ Havi vagy éves Számlázás kezelése válthat **ismétlődő számlázás** be
 
 5. Jelölje be a **Küldés módosítása**.
 
-A régi felügyeleti központ használatával? Régi lépéseket, vagy ha további lásd: [ismétlődő számlázási ki- és bekapcsolása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Ha további, lásd: [ismétlődő számlázási ki- és bekapcsolása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

@@ -3,7 +3,6 @@ title: A próbaverziós Office 365 üzleti kiterjesztése
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,14 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575630"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665006"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>A próbaverziós Office 365 üzleti kiterjesztése
+# <a name="extend-your-trial-for-office-365-for-business"></a>Az Office 365 vállalati verziójára szóló próba-előfizetés meghosszabbítása
 
 Próba-előfizetése lejár számított 15 napon belül, és a vizsgálat még nem lett bővítve előtt, ha egy másik 30 napon belül a kísérleti bővítheti. Ezt csak egyszer teheti meg.
   
@@ -32,4 +31,4 @@ Próba-előfizetése lejár számított 15 napon belül, és a vizsgálat még n
 
 4. Meg kell adnia a hitelkártyája adatait a próbaverzió kiterjeszteni. A Microsoft nem számítanak fel a próbaverzió kiterjesztés hitelkártyáját.
 
-A régi felügyeleti központ használatával? Régi lépéseket, vagy további lásd [a próbaverziós Office 365 üzleti bővítése](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+További [bővítése a próbaverziós Office 365 üzleti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial)című témakörben talál.

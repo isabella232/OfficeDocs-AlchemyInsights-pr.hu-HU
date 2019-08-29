@@ -3,7 +3,6 @@ title: Előfizetés újraaktiválása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 865241f1595de5ebaa3136cbb8b65c66c5330708
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553362"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666590"
 ---
 # <a name="reactivate-an-office-365-subscription"></a>Az Office 365-előfizetés újraaktiválása
 
@@ -32,4 +31,4 @@ Az előfizetés lejár, ha le van tiltva, a Microsoft vagy egy előfizetési kö
 
 3. Erősítse meg a fizetési adatait. A meglévő fizetési adatainak frissítése Ha befejezte a fizetési mód megadása, jelölje be a **újraaktiválása**.
 
-[Az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)témakörben talál további információt.
+További információért lásd: [az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

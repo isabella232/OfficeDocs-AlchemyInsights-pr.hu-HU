@@ -1,9 +1,8 @@
 ---
-title: Fizetési mód megváltoztatása
+title: Fizetésmódosítási módszer
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: d4e4548ab943ffdbe1117f333c64f2c95a5985da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519229"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665345"
 ---
-# <a name="change-payment-method"></a>Fizetési mód megváltoztatása
+# <a name="change-payment-method"></a>Fizetésmódosítási módszer
 
-A fizetési mód van konfigurálva a Microsoft 365 felügyeleti központban ellenőrizheti. Válassza ki az ellenőrizni kívánt előfizetést. A fizetési mód, amely úgy van beállítva, az előfizetés **Számlázási**alatt jelenik meg. 
+Ellenőrizheti és módosíthatja a Microsoft 365 admin központban konfigurált fizetési módot. Válassza ki az ellenőrizni kívánt előfizetést. Az előfizetéshez beállított fizetési mód megjelenik a **számlázás**alatt. 
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
+1. Az admin központban, menjen a **Számlázási** \> [termékek _amp_ szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) oldal.
 
-2. A fizetési mód az, amely a módosítani kívánt előfizetés mellett a fizetési módot, válassza a **Szerkesztés**.
+2. Kattintson a **Szerkesztés**gombra annak az előfizetésnek a fizetési módja mellett, amelynek fizetési módját módosítani szeretné.
 
-3. Kövesse a képernyőn hajtsa végre a módosítást.
+3. Követ a lép-ra képernyő-hoz kiegészít a cserél.
 
-A step by step című témakör nyújt tájékoztatást: [az Office 365 üzleti a fizetés módjának módosítása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Van ön használ a régi admin központ? A régi lépések, illetve további tudnivalók a [fizetési mód módosítása az Office 365 az üzleti vállalkozások](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method) számára című témakörben találhatók.

@@ -1,9 +1,8 @@
 ---
-title: Bejelentkezni a Microsoft a Skype üzleti problémák
+title: Problémák a Microsoft Skype üzleti szolgáltatásba való bejelentkezéssel kapcsolatban
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 8/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,14 @@ ms.custom:
 - "406"
 - "4000004"
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
-ms.openlocfilehash: 3325d5e331cb1d9cf0168ba4fd744a4f42aaad36
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: afe4228d38bf93984be8dece3146c5ce072b6fdc
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509924"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666626"
 ---
-# <a name="problems-signing-in-to-microsoft-skype-for-business"></a>Bejelentkezni a Microsoft a Skype üzleti problémák
+# <a name="problems-signing-in-to-microsoft-skype-for-business"></a>Problémák a Microsoft Skype üzleti szolgáltatásba való bejelentkezéssel kapcsolatban
 
-Töltse le és használja a [támogatási és helyreállítási Segéd (CFO)](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-Ez az eszköz segítségével automatikus diagnosztizálása és javítása bejelentkezni a Skype üzleti kapcsolatos ismert problémák széles körét.
+Töltse le és használja a [támogatást és a helyreállítási Segédet (SaRA)](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+Az eszköz segítségével automatikusan diagnosztizálható és kijavíthatja a Skype for Business szolgáltatásba történő bejelentkezéssel kapcsolatos ismert problémákat.

@@ -3,19 +3,18 @@ title: Tartalomhamisítást lehetővé tévő, adathalász vagy megszemélyesít
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 62eb0d8b43f3673bbf05dda8d533333aaaa37ce1
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765123"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661478"
 ---
 # <a name="issues-with-spoofing-phishing-or-impersonation"></a>Tartalomhamisítást lehetővé tévő, adathalász vagy megszemélyesítés problémái?
 
@@ -33,6 +32,6 @@ További javaslatok:
 
 - Ellenőrizze, hogy a felhasználók még nem engedélyezése a listaelemek lehetővé tévő adathalászati célú támadások.
 
-- Fontolja meg a szállító magas megbízhatóság levélszemét és az adathalász üzenetek karantén helyett a Junk E-mail mappát.
+- Fontolja meg a Magas konfidenciaszintű levélszemét és az adathalász üzenetek helyett az E-mail levélszemét mappa karanténozásra kézbesítése.
 
-**Van meg [Ez az üzenet a Microsoftnak jelentett](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)? Ez az a legjobb módja, hogy közölje velünk, hogyan hajt végre a szűrőket.**
+**A legjobb módja, hogy közölje velünk, hogyan hajt végre a szűrők [jelentési üzenetek Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) .**
