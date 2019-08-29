@@ -1,5 +1,5 @@
 ---
-title: Office 365-előfizetés
+title: Az Office 365 előfizetés lemondása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576058"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665511"
 ---
-# <a name="cancelling-your-office-365-subscription"></a>Az Office 365-előfizetés megszakítása?
+# <a name="cancelling-your-office-365-subscription"></a>Érvénytelenítés-a Hivatal 365 aláírás?
 
-Sajnáljuk, hogy nyissa meg, de a lehetőség az előfizetés:
+Voltak ' szomorú-hoz lát ön megy, de itt van-a választások-hoz áthúz-a aláírás:
   
-- Ha a próbaverzió vevő, nincs mit megszakítja. Próba-előfizetések automatikusan megszűnik, hacsak nem adja meg a fizetési mód.
+- Ha Ön egy próba-ügyfél, nincs mit szakítani. A próbaelőfizetések automatikusan lejárnak, ha nem ad meg fizetési módot.
 
-- Ha kevesebb, mint 25 hozzárendelt licencek, megszakíthatja az előfizetés online. Menjen a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054). A **Beállítások & műveletek** csoportban válassza az **előfizetés**.
+- Ha 25-nél kevesebb licencet kap, akkor lemondhatja az előfizetést az interneten. Tovább a **Számlázási** \> [termékek _amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054). -Ban **elintézés & tettek** rész, választ **áthúz aláírás**.
 
-- Ha több mint 25 hozzárendelt licencek, vagy eltávolíthatja a felhasználók kevesebb, mint 25 használ, vagy egy támogatási mérnök beszélgetni "tudassa velünk hívja meg" lehetőség használatával.
+- Ha több mint 25 hozzárendelt licencet használ, akkor vagy távolítsa el a felhasználókat, amíg nem kevesebb, mint 25, vagy használja a "nevezzünk meg" opciót, hogy beszéljen egy támogató mérnök.
 
-A régi felügyeleti központ használatával? Régi lépéseket, vagy ha további lásd: [előfizetés](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+További tudnivalókat [az előfizetés lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)című témakörben találhat.

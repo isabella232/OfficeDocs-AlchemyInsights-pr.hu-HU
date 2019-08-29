@@ -3,7 +3,6 @@ title: Engedélyezés és a keresési napló
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527725"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665078"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Engedélyezése, és keresse meg a naplóban
+
+**Office 365**
 
 Az Office 365 napló megkereséséhez kövesse az [alábbi lépéseket](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ Az Office 365 napló megkereséséhez kövesse az [alábbi lépéseket](https://
 
 - Az Exchange felügyeleti tevékenységek alapértelmezés szerint naplózza a rendszer.
 
-- Mindannyian postaláda alapértelmezés szerint az Office 365 naplózásának engedélyezése során. Addig postafiók vagy a szervezet összes postaládáját naplózásának engedélyezéséhez [e cikkében](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)talál.
+- Postaláda naplózása az Office 365 rendszerben alapértelmezés szerint engedélyezve van. További információért lásd [a cikk](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Office 365 csoport postafiókokat és nyilvános mappa postafiókok Exchange online nem támogatják a naplózás.
 

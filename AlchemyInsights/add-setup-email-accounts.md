@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 39c9466f41002a1471a9fb81c93900f75260678d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494817"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660902"
 ---
 # <a name="setup-email-accounts"></a>E-mail fiókok beállítása
 
-1. Az Outlook programban válassza a **fájl** \> **Fiók felvétele**.
+1. Az Outlook programban válassza a **fájl** > **Info** > **Fiók felvétele**.
 
-2. Adja meg e-mail címét, és kattintson a **Csatlakozás**.
+2. Adja meg e-mail címét, és jelölje be a **Csatlakozás**.
 
-3. Adja meg a jelszót, és kattintson az **OK gombra**.
+3. Adja meg a jelszavát, és válassza az **OK gombra**.
 
 4. Több fiókot adja hozzá ezeket a lépéseket megismételve.
 
     > [!NOTE]
-    > Néhány e-mail fiókot, például a Gmail, Yahoo és iCloud, annak érdekében, hogy az Outlook segítségével küldhet és fogadhat e-mail kéttényezős hitelesítés beállítása szükséges. [Az Outlook e-mail fiók hozzáadása](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)című részben tájékozódhat.
+    > Néhány e-mail fiókot, például a Gmail, Yahoo és iCloud, annak érdekében, hogy az Outlook segítségével küldhet és fogadhat e-mail kéttényezős hitelesítés beállítása szükséges. [Az Outlook e-mail fiók hozzáadása](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) című részben tájékozódhat.
   

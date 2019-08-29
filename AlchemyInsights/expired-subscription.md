@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575590"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665042"
 ---
 # <a name="expired-subscription"></a>Lejárt előfizetés
 
@@ -34,7 +34,7 @@ Ha nem látjuk **újraaktiválása** rendelkezésre álló műveletet, az előfi
 
 3. Erősítse meg a fizetési adatait. A meglévő fizetési adatainak frissítése Ha befejezte a megadása a fizetési módot, válassza a **újraaktiválása**.
 
-A régi felügyeleti központ használatával? Régi lépéseket, vagy további lásd [az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+További információért lásd: [az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **A vásárlás új**
   
@@ -46,4 +46,4 @@ A régi felügyeleti központ használatával? Régi lépéseket, vagy további 
 
 4. A fennmaradó lépésekkel kivétel befejezéséhez.
 
-A régi felügyeleti központ használatával? Régi lépéseket, vagy további talál [egy másik előfizetést vásárolni](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+További információért lásd: [egy másik előfizetést vásárolni](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

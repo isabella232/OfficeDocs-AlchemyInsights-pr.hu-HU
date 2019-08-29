@@ -3,25 +3,24 @@ title: 305 archív postaláda méretének növelése
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391329"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661802"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Az archív postaláda méretének növelése
 
 Office 365 [határértékek](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) alapján a licencet a felhasználói fiókhoz rendelt archív postaládák méretét. Az archív postaláda mérete megengedett mérete 90 %-át, amikor a felhasználó kap e-mailben értesítjük. Az archív postaláda eléri a maximális méretét, ha a felhasználó nem további elemek áthelyezése az archív postaláda. Az Office 365 nem az archív postaláda méretének növelése, amint elérik a maximális méretét. Ehelyett a felhasználók az archív postaládában helyet szabadíthat fel a következő műveletek hajthatók végre:
 
-- Exportálja a az elemeket egy .pst fájl az Outlook programmal
+- Exportálja a cikkek használata az Outlook .pst fájlba.
 
 - Elemek törlése az archív postaláda.
 

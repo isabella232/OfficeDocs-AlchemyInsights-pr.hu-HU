@@ -3,7 +3,6 @@ title: Alkímia - létrehozása és aláírás hozzáadása az Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 8/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 3ab140f81b208053906dfe030d98f4590d6f39d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: baefa04a536e71358f1a6cd143c4c727c290e28c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494205"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664646"
 ---
 # <a name="creating-email-signatures"></a>E-mail aláírások létrehozása
 
-Az alábbi cikkek segítséget a keresett e-mail aláírások létrehozása.
+Az alábbi cikkek segítséget e-mail aláírások létrehozása az Outlook programban.
   
 - Létrehozok egy Windows Outlook alkalmazással e-mail aláírás: [létrehozása és aláírás hozzáadása az üzenetek](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
