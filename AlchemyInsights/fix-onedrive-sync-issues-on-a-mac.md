@@ -1,5 +1,5 @@
 ---
-title: A Mac OneDrive Szinkronizációs problémák megoldása
+title: Fix OneDrive szinkron kérdések a Mac
 ms.author: efrene
 author: efrene
 ms.date: 8/7/2019
@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000178"
 - "1723"
-ms.openlocfilehash: e6d6d694c6743bb42d7d8e467a82b2d05fa9e553
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: baf967c2f5c8678802bdca6f303ba73d56deb320
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525235"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664970"
 ---
-# <a name="fix-onedrive-sync-issues-on-a-mac"></a><span data-ttu-id="c1882-102">A Mac OneDrive Szinkronizációs problémák megoldása</span><span class="sxs-lookup"><span data-stu-id="c1882-102">Fix OneDrive sync issues on a Mac</span></span>
+# <a name="fix-onedrive-sync-issues-on-a-mac"></a><span data-ttu-id="b05d3-102">Fix OneDrive szinkron kérdések a Mac</span><span class="sxs-lookup"><span data-stu-id="b05d3-102">Fix OneDrive sync issues on a Mac</span></span>
 
-<span data-ttu-id="c1882-103">OneDrive fájlok nem szinkronizálása Mac számítógépen megfelelően, ha [a Mac OneDrive Szinkronizációs problémák megoldásához](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756)is.</span><span class="sxs-lookup"><span data-stu-id="c1882-103">If OneDrive isn't syncing files the way you expect on a Mac, you can [fix OneDrive sync issues on a Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span></span>
+<span data-ttu-id="b05d3-103">Ha az OneDrive nem szinkronizálja a fájlokat a Mac számítógépen, tekintse meg a [fix onedrive szinkronizálási problémákat a Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756)számítógépen.</span><span class="sxs-lookup"><span data-stu-id="b05d3-103">If OneDrive isn't syncing files the way you expect on a Mac, see [fix OneDrive sync problems on a Mac](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).</span></span>
 
 
 
