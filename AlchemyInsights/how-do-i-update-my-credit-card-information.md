@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: da09215ca846e34fa3f75fead99537c4808ec65a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575344"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664394"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hogyan frissíthetem hitelkártyaadataimat?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36575344"
 
 4. Frissítse igény szerint hitelkártya vagy bankszámla adatait (a hitelkártyán szereplő vagy a bankszámlához tartozó nevet, a számlázási címet, a telefonszámot vagy az érvényességi dátumot), majd válassza a **Mentés** > **Kész** gombot.
 
-A régi felügyeleti központot használja? A régi lépésekkel vagy bővebb információkkal kapcsolatban tekintse meg a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása az Office 365 Vállalati verzióban](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) című cikket.
+További információt a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása az Office 365 Vállalati verzióban](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) című cikkben talál.
