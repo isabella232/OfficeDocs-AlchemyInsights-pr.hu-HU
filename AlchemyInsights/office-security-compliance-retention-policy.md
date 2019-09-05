@@ -1,7 +1,7 @@
 ---
-title: 'További információ: adatmegőrzési szabályok'
+title: További információ az adatmegőrzési szabályzatról
 ms.author: stephow
-author: msft-stephow
+author: stephow-msft
 manager: laurawi
 ms.date: 08/14/2019
 ms.audience: admin
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521677"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753762"
 ---
-# <a name="more-info-about-retention-policies"></a>További információ: adatmegőrzési szabályok
+# <a name="more-info-about-retention-policies"></a>További információ az adatmegőrzési szabályzatról
 
-A legtöbb szervezet, mennyisége és összetettsége az adataikat növekszik naponta - e-mail, dokumentumok, azonnali üzenetek, és így tovább. Hatékony kezelése vagy az irányadó Ez az információ fontos, és adatmegőrzési segíthetnek e célok elérése érdekében. Adatmegőrzési szabályok Microsoft ezeket a hivatkozásokat:
+A legtöbb szervezet, az adatok mennyisége és összetettsége, a napi-elektronikus levél, dokumentumok, azonnali üzenetek, és több. Az információk hatékony kezelése és szabályozása fontos, és az adatmegőrzési politika segít ezeknek a céloknak az elérésében. Az adatmegőrzési politikával kapcsolatos további információért kérjük, keresse fel a következő linkeket:
 
-## <a name="a-from-security-and-compliance-center"></a>A) a biztonsági és Megfelelési központba
+## <a name="a-from-security-and-compliance-center"></a>A)-ból biztonság és engedékenység központ
 
-- Ugrás a biztonsági és megfelelőségi > adatok kormányzás > megőrzése
-  - [Ez](https://docs.microsoft.com/office365/securitycompliance/retention-policies) a cikk lásd:
+- Ugrás a biztonság és a megfelelés > adatirányítás > megtartása
+  - Lásd [ezt a](https://docs.microsoft.com/office365/securitycompliance/retention-policies) cikket
 
-- Ugrás a biztonság és a megfelelőség > eDiscovery> speciális elektronikus adatok feltárása 
-  - [Ez](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) a cikk lásd:
+- Megy biztonság és engedékenység > eDiscovery> haladó eDiscovery 
+  - Lásd [ezt a](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) cikket
 
-- Ugrás a biztonsági és megfelelési > osztályozási rendszerek > megőrzése
-  - Lásd a fenti cikkek
-    - [Tartalmi címkék](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Címkék – áttekintés](https://docs.microsoft.com/office365/securitycompliance/labels)
+- Tovább a biztonsági és megfelelési > besorolások >-visszatartás
+  - Lásd ezeket a cikkeket!
+    - [Érzékenységi Címkék](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+    - [Címkék-áttekintés](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) örökölt elektronikus adatok feltárása házirendek
+## <a name="b-legacy-ediscovery-policies"></a>B) örökölt eDiscovery politikák
 
-- [Ez](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) a cikk lásd:
+- Lásd [ezt a](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) cikket
 
-## <a name="c-site-closure-and-deletion-policies"></a>C) tartozó lezárás és törlési irányelvek
+## <a name="c-site-closure-and-deletion-policies"></a>C) a webhely bezárási és törlési irányelvei
 
-- [Ez](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) a cikk lásd:  
+- Lásd [ezt a](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) cikket  
 
-## <a name="d-information-rights-management-irm"></a>D) információk tartalomvédelmi (szolgáltatás IRM)
+## <a name="d-information-rights-management-irm"></a>D) tartalomvédelmi szolgáltatás (IRM)
 
-- Lásd a fenti cikkek
-  - [A tartalomvédelmi szolgáltatás a lista/könyvtár](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [A tartalomvédelmi szolgáltatás – áttekintés](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- Lásd ezeket a cikkeket!
+  - [Tartalomvédelmi szolgáltatás listán vagy tárban](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [IRM-áttekintés](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> Erősen ajánlott biztonsági áthelyezése és megfelelési házirendeket, ha még mindig használja a tartalomvédelmi szolgáltatás vagy webhely bezárására és törlési házirend vagy örökölt elektronikus adatok feltárása.
+> Erősen javasoljuk, hogy a biztonsági és megfelelési házirendekkel akkor kerüljön át, ha továbbra is az örökölt eDiscovery vagy IRM vagy site bezárja és törlési házirendet használja.

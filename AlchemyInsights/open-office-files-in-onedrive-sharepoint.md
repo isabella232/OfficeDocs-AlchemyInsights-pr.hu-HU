@@ -1,6 +1,6 @@
 ---
-title: Fájlok megnyitása Sharepoint-vagy OneDrive kapcsolatos problémák
-ms.author: kirks
+title: Probléma a fájlok megnyitása a SharePoint vagy OneDrive
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/5/2018
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 5602212d4426d3f8cfb5a9f627fdaa47f5926532
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 50a4888a3f8b366101cefeae6b382c728994d8a0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548393"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753042"
 ---
-# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Fájlok megnyitása Sharepoint-vagy OneDrive kapcsolatos problémák 
+# <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>Probléma a fájlok megnyitása a SharePoint vagy OneDrive 
 
 
-Ha mégis nehézségeink Office fájlok és dokumentumok megnyitása a OneDrive vagy a SharePoint-dokumentumtárak, az alábbiakban néhány javaslat segít megoldani.
+Ha nem sikerül megnyitni az Office fájlok és dokumentumok SharePoint vagy OneDrive dokumentumtárak, itt van néhány javaslat, hogy segítsen javítani őket.
 
-- [Annak biztosítása érdekében, hogy a fájl támogatott fájl korlátozások ellenőrzése](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [Fájlkorlátozások ellenőrzése a fájl támogatása érdekében](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- [Töltse le, és ellenőrizze a helyi számítógépen található fájl sérült](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
+- [Letölt és ellenőriz részére reszelő romlás-ra-a helyi gép](https://support.office.com/article/How-to-recover-missing-deleted-or-corrupted-items-in-SharePoint-Online-and-OneDrive-for-Business-3d748edf-c072-46c9-81a4-4989056ebc87[])
 
-- [Az office dokumentum-gyorsítótár törlése](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+- [Az Office-dokumentum gyorsítótárának törlése](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
 
-- [Futtassa a javítás a Microsoft Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+- [Javítás futtatása az Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-További információ és részletek ellenőrizze a cikk [a SharePoint-tárakban lévő dokumentumok megnyitásával kapcsolatos problémák](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
+További információ és részletek, kérjük, ellenőrizze a cikk [erősít probléma dokumentumok megnyitása a SharePoint könyvtárakban](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 

@@ -1,9 +1,8 @@
 ---
-title: 182 Éva diagnosztizálásához futtassa &amp; Outlook hitelesítési problémák megoldásához
+title: 182. az Outlook-hitelesítési problémák diagnosztizálásához és megoldásához futtassa a SaRA-t
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 10/15/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +12,13 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 95a7d06759ea251cce0c35f7a6667dccda62ee28
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371255"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752643"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Éva segítségével azonosíthatja és megoldhatja a hitelesítési problémák az Outlook
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Outlook-hitelesítési problémák diagnosztizálása és megoldása a SaRA használatával
 
-Erősen ajánlott az [Outlook leáll kéri a jelszó](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnosztikai az érintett számítógépen problémák Ha az Outlook folyamatosan jelszót kér. A [Éva](https://diagnostics.office.com/#/) diagnosztikai automatizált ellenőrzések és az függvény segítségével bármely észlelt problémák lehetséges megoldásokat.
+Javasoljuk, hogy használja az [Outlook folyamatosan kéri a jelszavamat](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnosztikai az érintett gépen problémák elhárítása, ahol az Outlook folyamatosan kéri a jelszót. Ez a [SaRA](https://diagnostics.office.com/#/) diagnosztika automatikusan ellenőrzi és visszaadja a lehetséges megoldásokat az észlelt problémák megoldására.

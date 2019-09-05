@@ -1,6 +1,6 @@
 ---
-title: A SharePoint Online tartomány nevének módosítása
-ms.author: kirks
+title: A tartománynév módosítása a SharePoint Online szolgáltatásban
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519193"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747642"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>A SharePoint Online tartomány nevének módosítása
+# <a name="change-domain-name-in-sharepoint-online"></a>A tartománynév módosítása a SharePoint Online szolgáltatásban
 
-Sajnos nem lehet módosítani a SharePoint Online tartománynevet az Office 365 rendszerben a szervezet számára. Például a szervezet neve "Negyedik kávé" "Contoso" változik, contoso.sharepoint.com a fourthcoffee.sharepoint.com, nem módosíthatja.
+Sajnos a szervezet SharePoint Online-tartománynevét nem lehet módosítani az Office 365. Ha például a szervezet neve a "contoso" névről a "negyedik kávé" értékre változik, nem változtathatja contoso.sharepoint.com fourthcoffee.sharepoint.com.
   
-A domain név fourthcoffee.sharepoint.com használatához kellene új Office 365-előfizetést vásárolni, és helyezze át az összes e-mail, fájlok és az új előfizetés megtartani kívánt adatokat.
+-Hoz használ a birtok név fourthcoffee.sharepoint.com, ön akar szükség-hoz megvásárol egy új hivatal 365 aláírás és mozog minden elektronikus levél, fájlokat, és akármi más adat ön akar-hoz eltartás-hoz új aláírás.
   
- **Megjegyzés**: a webhely nevének módosításához például https://contoso.sharepoint.com/sites/sample1 , https://contoso.sharepoint.com/sites/sample2, hozzon létre egy új helyet, és helyezze a tartalmat a régi helyről az újba.
+ **Megjegyzés**: Ha például módosítani szeretné egy webhely https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2nevét, hozzon létre egy új webhelyet, majd helyezze át az összes tartalmat a régi webhelyről az újba.
   
-Információ a dokumentumtárban lévő elemek áthelyezése [a SharePoint-dokumentumtárhoz elemek áthelyezése vagy másolása](https://go.microsoft.com/fwlink/?linkid=2025831)talál.
+További információ a dokumentumtárakban lévő elemek áthelyezésével kapcsolatban: [elemek áthelyezése vagy másolása SharePoint-dokumentumtárból](https://go.microsoft.com/fwlink/?linkid=2025831).
   

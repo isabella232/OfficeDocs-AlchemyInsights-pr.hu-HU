@@ -1,6 +1,6 @@
 ---
-title: A hozzáférés megtagadva üzenetet – problémamegoldás
-ms.author: kirks
+title: Hozzáférés-megtagadási üzenetek – problémamegoldás
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 0a885e15d54c9337711f2528628789dfcb903264
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e6fdc6fbf745d1702bf1a7b3474ac82f6662305
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503531"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751278"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Üzenetek megtagadta a hozzáférést a Sharepoint/OneDrive Admin Center – problémamegoldás
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>A SharePoint/OneDrive Admin Center rendszerben található hozzáférés-megtagadási üzenetek – problémamegoldás
 
-Ha a hozzáférés megtagadásáról, tallózással keresse meg a Sharepoint/OneDrive Admin Center megkísérelte kap, győződjön meg arról, hogy [a felhasználó licenc hozzárendelése](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One). Ha a felhasználói licenccel rendelkezik, akkor győződjön meg arról is [egy rendszergazda szerepkört](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) , amelyhez hozzáférhet az admin-centers.
+Ha a SharePoint/OneDrive Admin Center webhely megnyitásakor hozzáférés-megtagadási üzenetet kap, akkor ellenőrizze, hogy [a felhasználóhoz rendel](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)-e licencet. Ha a felhasználó rendelkezik licenccel, győződjön meg arról is, hogy hozzá vannak-e [rendelve rendszergazdai szerepkör](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) , amely hozzáfér az adminisztrációs központokhoz.
 
-Ez a probléma akkor is előfordulhat, amikor a felhasználó törli, és újra létrehozza a ugyanolyan egyszerű felhasználónév (UPN). Az új fiók jön létre egy másik értéket PUID (Passport egyedi azonosító) segítségével. Ha a felhasználó megpróbál hozzáférni egy webhelycsoport vagy a OneDrive, a felhasználó rendelkezik egy helytelen PUID. A második forgatókönyv magában foglalja a könyvtár szinkronizálás az Active Directory szervezeti egységet (OU). Ha a felhasználó rendelkezik már bejelentkezett a SharePoint, majd átkerül egy másik szervezeti egység és SharePoint resynced, akkor ez a probléma tapasztalhatnak.
+Ez a probléma akkor is előfordulhat, ha egy felhasználót töröl, és ugyanazzal az egyszerű felhasználónévvel (UPN) újra létrehozza. Az új fiók a Passport egyedi AZONOSÍTÓI értékének használatával jön létre. Mikor a felhasználó megpróbál-hoz belépés egy telek gyűjtemény vagy-uk OneDrive, a felhasználó birtokol egy rossz PUID. A második forgatókönyv egy Active Directory szervezeti egységgel (OU) rendelkező címtár-szinkronizálást foglal magában. Ha a felhasználók már bejelentkezett a SharePoint-ba, majd egy másik szervezeti egységbe kerülnek, és újra átviszik a SharePoint-alkalmazással, akkor a problémát tapasztalhatják.
 
-A probléma megoldásához a cikk [az Office 365 rendszerben a felhasználó visszaállítási](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide)lépéseket az eredeti UPN kell visszaállítani.
+A probléma megoldásához állítsa vissza az eredeti UPN-t a cikkben leírt lépésekkel, [állítsa vissza a felhasználót az Office 365-ben](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
 
-Megjegyzés: Ha több felhasználónak, aki korábban a hozzáférést a OneDrive vagy a SharePoint felügyeleti központ nem érhető el, lehet egy ideiglenes szolgáltatást a probléma.  [Ellenőrizze a szolgáltatás egészségügyi irányítópult](https://portal.office.com/adminportal/home#/servicehealth).
+Jegyzék Ha egy OneDrive vagy SharePoint admin központ van nem elérhető-hoz sokszoros használók ki korábban belépés, ott május lenni egy ideiglenes szolgáltatás kérdés.  [Ellenőrizze a szolgáltatás állapotirányítópultját](https://portal.office.com/adminportal/home#/servicehealth).
 
 

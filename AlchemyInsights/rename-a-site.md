@@ -1,6 +1,6 @@
 ---
-title: Hely átnevezése
-ms.author: kirks
+title: Webhely átnevezése
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/7/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 3523b50a0d0eba7c65cd9e740bd4adcc918130ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552893"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752178"
 ---
-# <a name="rename-a-sharepoint-site"></a>Nevezze át a SharePoint-webhely
+# <a name="rename-a-sharepoint-site"></a>SharePoint-webhely átnevezése
 
-Például egy webhely nevének módosítása a https://contoso.sharepoint.com/sites/sample1 , https://contoso.sharepoint.com/sites/sample2, hozzon létre egy új helyet, és vigye a tartalmat a régi helyről az újba kell. Információ a dokumentumtárban lévő elemek áthelyezése [a SharePoint-dokumentumtárhoz elemek áthelyezése vagy másolása](https://go.microsoft.com/fwlink/?Linkid=2018691)talál.
+Ha módosítani szeretné egy webhely nevét, például a-tól https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2, létre kell hoznia egy új webhelyet, majd át kell helyezni az összes tartalmat a régi webhelyről az újba. További információ a dokumentumtárakban lévő elemek áthelyezésével kapcsolatban: [elemek áthelyezése vagy másolása SharePoint-dokumentumtárból](https://go.microsoft.com/fwlink/?Linkid=2018691).
   
-Megjegyzés: Ha módosítja a SharePoint Online URL-cím a tartomány nevét (például a contoso része a fenti URL-cím), ez nem lehetséges. Lásd [a tartományt váltani](https://go.microsoft.com/fwlink/?Linkid=2018696).
+Megjegyzés: Ha egy SharePoint Online URL-címen megpróbálja módosítani a tartománynevet (vagyis a fenti URL-cím kontraktor részét), ez nem lehetséges. Lásd: [domainek módosítása](https://go.microsoft.com/fwlink/?Linkid=2018696).
   
