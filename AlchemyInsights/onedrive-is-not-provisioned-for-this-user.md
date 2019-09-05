@@ -1,6 +1,6 @@
 ---
-title: Nincs kiépítve a felhasználó OneDrive
-ms.author: kirks
+title: Az OneDrive nincs kiépítve ehhez a felhasználóhoz
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 1506e6cbb2cee20f25f9df49626cc56f45346683
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a059c1d743b7b1c1ba19025a81049c6a8363bcde
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543634"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753366"
 ---
-# <a name="onedrive-is-not-provisioned-for-this-user"></a><span data-ttu-id="04288-102">Nincs kiépítve a felhasználó OneDrive</span><span class="sxs-lookup"><span data-stu-id="04288-102">OneDrive is not provisioned for this user</span></span>
+# <a name="onedrive-is-not-provisioned-for-this-user"></a><span data-ttu-id="06a91-102">Az OneDrive nincs kiépítve ehhez a felhasználóhoz</span><span class="sxs-lookup"><span data-stu-id="06a91-102">OneDrive is not provisioned for this user</span></span>
 
-<span data-ttu-id="04288-103">Újonnan létrehozott fiókok esetén a felhasználóknak kell az Office 365 portálon saját fiókkal jelentkezzen be, és kattintson a kézi indítása a OneDrive webhely nyújtása OneDrive.</span><span class="sxs-lookup"><span data-stu-id="04288-103">For newly created accounts, users need to sign in to the Office 365 portal with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
+<span data-ttu-id="06a91-103">Részére újonnan teremtett számlák, használók szükség-hoz jel-ban-hoz Mikroszkóp 365 admin központ-val-uk saját számla és kettyenés OneDrive-hoz kézi elkezd a ellátás-ból OneDrive telek.</span><span class="sxs-lookup"><span data-stu-id="06a91-103">For newly created accounts, users need to sign in to the Microsoft 365 admin center with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
   
-<span data-ttu-id="04288-104">Azonban ha a felhasználó már felkeresett OneDrive és a személyes webhely nincs kiépítve 24 órán belül, jelentkezzen egy támogatási jegyet, további segítségért.</span><span class="sxs-lookup"><span data-stu-id="04288-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
+<span data-ttu-id="06a91-104">Ha azonban a felhasználó már rákattintott a OneDrive-ra, és a személyes webhelyük nincs kiépítve 24 órán belül, akkor további segítségért írjon be egy támogatási jegyet.</span><span class="sxs-lookup"><span data-stu-id="06a91-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
   
 

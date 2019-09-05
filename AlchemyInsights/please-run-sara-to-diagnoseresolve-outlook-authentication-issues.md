@@ -1,9 +1,8 @@
 ---
-title: 182 Éva diagnosztizálásához futtassa &amp; Outlook hitelesítési problémák megoldásához
+title: 182. az Outlook-hitelesítési problémák diagnosztizálásához és megoldásához futtassa a SaRA-t
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 10/15/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +12,13 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 95a7d06759ea251cce0c35f7a6667dccda62ee28
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e2339130cd8a0e1668bf678c3b99b81099a220fd
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371255"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752643"
 ---
-# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="c83b3-102">Éva segítségével azonosíthatja és megoldhatja a hitelesítési problémák az Outlook</span><span class="sxs-lookup"><span data-stu-id="c83b3-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
+# <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a><span data-ttu-id="d96c4-102">Outlook-hitelesítési problémák diagnosztizálása és megoldása a SaRA használatával</span><span class="sxs-lookup"><span data-stu-id="d96c4-102">Use SaRA to diagnose and resolve Outlook authentication issues</span></span>
 
-<span data-ttu-id="c83b3-103">Erősen ajánlott az [Outlook leáll kéri a jelszó](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnosztikai az érintett számítógépen problémák Ha az Outlook folyamatosan jelszót kér.</span><span class="sxs-lookup"><span data-stu-id="c83b3-103">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="c83b3-104">A [Éva](https://diagnostics.office.com/#/) diagnosztikai automatizált ellenőrzések és az függvény segítségével bármely észlelt problémák lehetséges megoldásokat.</span><span class="sxs-lookup"><span data-stu-id="c83b3-104">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>
+<span data-ttu-id="d96c4-103">Javasoljuk, hogy használja az [Outlook folyamatosan kéri a jelszavamat](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnosztikai az érintett gépen problémák elhárítása, ahol az Outlook folyamatosan kéri a jelszót.</span><span class="sxs-lookup"><span data-stu-id="d96c4-103">We highly recommend you use the [Outlook keeps asking for my password](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostic on the affected machine to troubleshoot issues where Outlook continually prompts for a password.</span></span> <span data-ttu-id="d96c4-104">Ez a [SaRA](https://diagnostics.office.com/#/) diagnosztika automatikusan ellenőrzi és visszaadja a lehetséges megoldásokat az észlelt problémák megoldására.</span><span class="sxs-lookup"><span data-stu-id="d96c4-104">This [SaRA](https://diagnostics.office.com/#/) diagnostic does automated checks and returns possible solutions for you to use to address any detected issues.</span></span>

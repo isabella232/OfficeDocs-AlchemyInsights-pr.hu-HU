@@ -1,6 +1,6 @@
 ---
-title: Klasszikus módú SharePoint Online korlátozása
-ms.author: kirks
+title: A SharePoint Online klasszikus üzemmódra korlátozása
+ms.author: pebaum
 author: Techwriter40
 ms.date: 3/27/2018
 ms.audience: ITPro
@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551561"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752070"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a><span data-ttu-id="75156-102">Klasszikus módú SharePoint Online korlátozása</span><span class="sxs-lookup"><span data-stu-id="75156-102">Restrict SharePoint Online to classic mode</span></span>
+# <a name="restrict-sharepoint-online-to-classic-mode"></a><span data-ttu-id="9c5f5-102">A SharePoint Online klasszikus üzemmódra korlátozása</span><span class="sxs-lookup"><span data-stu-id="9c5f5-102">Restrict SharePoint Online to classic mode</span></span>
 
-<span data-ttu-id="75156-103">Egyes szervezetek továbbra is csak a klasszikus mód tapasztalat.</span><span class="sxs-lookup"><span data-stu-id="75156-103">Some organizations still require the Classic mode experience.</span></span> <span data-ttu-id="75156-104">Nem tervezik alapszinten Klasszikus módú eltávolítása, amíg már nem korlátozhatja a klasszikus módban a listák és tárak teljes szervezeten (bérlő) lehetséges.</span><span class="sxs-lookup"><span data-stu-id="75156-104">While there are no plans to remove classic mode at a granular level, it is no longer possible to restrict an entire organization (tenant) to classic mode for lists and libraries.</span></span>
+<span data-ttu-id="9c5f5-103">Egyes szervezeteknél továbbra is klasszikus üzemmódra van szükség.</span><span class="sxs-lookup"><span data-stu-id="9c5f5-103">Some organizations still require the Classic mode experience.</span></span> <span data-ttu-id="9c5f5-104">Bár nem tervezi, hogy távolítsa el a klasszikus mód a szemcsés szinten, már nem lehet korlátozni egy egész szervezet (bérlő) a klasszikus mód listák és tárak.</span><span class="sxs-lookup"><span data-stu-id="9c5f5-104">While there are no plans to remove classic mode at a granular level, it is no longer possible to restrict an entire organization (tenant) to classic mode for lists and libraries.</span></span>
 
-<span data-ttu-id="75156-105">Az admin lesz egyéni listák és tárak klasszikus módban kapcsolókkal granulált lemondja, amit adunk a következő szinteken kezelheti a következők:</span><span class="sxs-lookup"><span data-stu-id="75156-105">The admin will have the following options to manage individual lists and libraries in classic mode using granular opt-out switches that we provide at the following levels:</span></span>
+<span data-ttu-id="9c5f5-105">A admin akarat volna a következő választások-hoz kezel egyén tetszik és könyvtárak-ban klasszikus mód használ szemcsés választ-ki kapcsol amit mi beszerez-nél alábbiak szintek:</span><span class="sxs-lookup"><span data-stu-id="9c5f5-105">The admin will have the following options to manage individual lists and libraries in classic mode using granular opt-out switches that we provide at the following levels:</span></span>
 
-- <span data-ttu-id="75156-106">webhelycsoport</span><span class="sxs-lookup"><span data-stu-id="75156-106">site collection</span></span>
-- <span data-ttu-id="75156-107">webhely</span><span class="sxs-lookup"><span data-stu-id="75156-107">site</span></span>
-- <span data-ttu-id="75156-108">lista</span><span class="sxs-lookup"><span data-stu-id="75156-108">list</span></span>
-- <span data-ttu-id="75156-109">dokumentumtár</span><span class="sxs-lookup"><span data-stu-id="75156-109">library</span></span>
+- <span data-ttu-id="9c5f5-106">webhelycsoport</span><span class="sxs-lookup"><span data-stu-id="9c5f5-106">site collection</span></span>
+- <span data-ttu-id="9c5f5-107">Oldalon</span><span class="sxs-lookup"><span data-stu-id="9c5f5-107">site</span></span>
+- <span data-ttu-id="9c5f5-108">Lista</span><span class="sxs-lookup"><span data-stu-id="9c5f5-108">list</span></span>
+- <span data-ttu-id="9c5f5-109">Könyvtár</span><span class="sxs-lookup"><span data-stu-id="9c5f5-109">library</span></span>
 
-<span data-ttu-id="75156-110">Ezenkívül bizonyos szolgáltatásokat használó listák és modern által nem támogatott testreszabási beállításokat fogja továbbra is lehet automatikusan üzemmódba kell kapcsolni klasszikus.</span><span class="sxs-lookup"><span data-stu-id="75156-110">Additionally, lists that use certain features and customizations that are not supported by modern will still be automatically switched to classic mode.</span></span>
+<span data-ttu-id="9c5f5-110">Továbbá azok a listák, amelyek bizonyos szolgáltatásokat és testreszabásokat használnak, amelyeket a modern nem támogat, továbbra is automatikusan klasszikus módra lesznek átkapcsolva.</span><span class="sxs-lookup"><span data-stu-id="9c5f5-110">Additionally, lists that use certain features and customizations that are not supported by modern will still be automatically switched to classic mode.</span></span>
 
-<span data-ttu-id="75156-111">Kezdődő április 1, 2019, a folyamat letiltása a bérlő szint befejezése mellett modern lista és könyvtárak elindítja, és folytassa a 2019 május 31-ig.</span><span class="sxs-lookup"><span data-stu-id="75156-111">Beginning April 1, 2019, the process to disable the tenant level opt out of modern list and libraries will start and continue through May 31, 2019.</span></span>  <span data-ttu-id="75156-112">A listák és tárak, amelyek eredményeként a bérlő opt-out klasszikus módban a program automatikusan kell mozgatni, hogy a modern.</span><span class="sxs-lookup"><span data-stu-id="75156-112">The lists and libraries that are in classic mode as a result of tenant opt-out will automatically be shifted to modern.</span></span>
+<span data-ttu-id="9c5f5-111">Kezdet április 1, 2019, a folyamat-hoz megbénít a bérlő szinten opt out a modern lista és könyvtárak indul, és továbbra is a május 31, 2019.</span><span class="sxs-lookup"><span data-stu-id="9c5f5-111">Beginning April 1, 2019, the process to disable the tenant level opt out of modern list and libraries will start and continue through May 31, 2019.</span></span>  <span data-ttu-id="9c5f5-112">Azok a listák és könyvtárak, amelyek klasszikus módban vannak bérlő opt-out eredményeként automatikusan eltolódnak a modern.</span><span class="sxs-lookup"><span data-stu-id="9c5f5-112">The lists and libraries that are in classic mode as a result of tenant opt-out will automatically be shifted to modern.</span></span>
 
-<span data-ttu-id="75156-113">Ha a klasszikus módban van szüksége további információt talál [Itt](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) és a PnP Powershell instruction [Itt](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) , amely leírja a beállítások és eszközök segítségével ma a klasszikus módban felület használatára.</span><span class="sxs-lookup"><span data-stu-id="75156-113">If you require classic mode please see more information [here](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) and PnP Powershell instruction [here](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) that describes options and tools you can use today to use the classic mode experience.</span></span>
+<span data-ttu-id="9c5f5-113">Ha klasszikus üzemmódra van szüksége, olvassa el a további tudnivalókat [itt](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) , és a PnP PowerShell instrukció [itt](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) leírja azokat a lehetőségeket és eszközöket, amelyeket ma használhat a klasszikus üzemmód használatához.</span><span class="sxs-lookup"><span data-stu-id="9c5f5-113">If you require classic mode please see more information [here](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) and PnP Powershell instruction [here](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) that describes options and tools you can use today to use the classic mode experience.</span></span>
