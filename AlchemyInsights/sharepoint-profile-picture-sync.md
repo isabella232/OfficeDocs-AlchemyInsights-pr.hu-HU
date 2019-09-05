@@ -1,30 +1,30 @@
 ---
 title: Profilszinkronizálás
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: d3b8a40c0612ce76423d5adce02ebd6c597d2ad2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 695ad14555e92ccf5f1566012e4b4fc470a2630e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502917"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750061"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Ha nincs saját profil módosítás szinkronizálja a SharePoint felhasználóiprofil-alkalmazás?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>A profilom szinkronizálása a SharePoint felhasználóiprofil-alkalmazással módosul?
 
-Profil kép szinkronizálása a SharePoint Online egy felhasználói művelet kezdeményezése a fénykép a szinkronizálás szükséges. Nincs automatikus szinkronizálás a SharePoint online fénykép van. A SharePoint Online csak szinkronizálja az Exchange Online nem Azure Active Directory fényképek.
+A Microsoft SharePoint Online szolgáltatásban a képek szinkronizálásához a felhasználónak a fénykép szinkronizációját kell kezdeményezni. Nincs automatikus képszinkronizálás a SharePoint Online szolgáltatásban. A SharePoint Online csak az Exchange Online fotóit, nem pedig az Azure Active Directoryt szinkronizálja.
 
-Ha a felhasználó soha nem hajt végre kellene kérni a szinkronizálási művelet vagy azok frissítette a profiljához tartozó kép és az új egyike nem jelenik meg a SharePoint Online, a felhasználónak kell esetleg történő szinkronizálás kéri. Itt látható, hogyan tehetik ezt:
+Ha egy felhasználó soha nem végzett olyan műveletet, amely megkéri a szinkronizálást, vagy frissítette profilképét, és az új nem jelenik meg a SharePoint Online szolgáltatásban, előfordulhat, hogy a felhasználónak szinkronizálásra kell rákérdezzen. Eretnekségek ' hogyan ők tud csinál ez:
 
-- Nyisson meg egy webböngészőt egy In-magán vagy Incognito munkamenet és az [Office.com webhelyre](http://www.office.com/).
+- Nyisson meg egy webböngészőt egy in-Private vagy Incognito munkamenetben, és [menjen a Office.com](http://www.office.com/).
 
-- Jelentkezzen be a munka vagy iskola fiókját, majd kattintson a OneDrive vagy a SharePoint mozaik.
+- Jelentkezzen be munkahelyi vagy iskolai fiókjaikkal, majd kattintson az OneDrive vagy a SharePoint mozaikra.
 
-- [A profil fénykép felvétele az Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
+- [Profilfénykép hozzáadása az Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-- [Információ a profil kép szinkronizálása az Office 365 rendszerben](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).
+- [Információ a profilkép szinkronizálásról az Office 365-ben](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).
 

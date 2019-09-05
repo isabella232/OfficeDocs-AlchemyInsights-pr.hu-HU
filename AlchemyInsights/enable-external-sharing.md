@@ -1,6 +1,6 @@
 ---
-title: Külső megosztásának engedélyezése
-ms.author: kirks
+title: Külső megosztás engedélyezése
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,35 +8,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53eadea43e4ac9365bd7f434b1db254ccf224e4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527653"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756030"
 ---
-# <a name="enable-external-sharing"></a>Külső megosztásának engedélyezése
+# <a name="enable-external-sharing"></a>Külső megosztás engedélyezése
 
- Győződjön meg arról, hogy a megosztás engedélyezve van a SharePoint Online:
+ Annak biztosítása, hogy a megosztás engedélyezve legyen a SharePoint Online szolgáltatásban:
   
-- **Globális megosztása**
+- **Globális megosztással**
     
-  - Portál -\> külső megosztás -\> Let megosztása – áttekintés - helyek, külső személyek a webhelyek elérése: ON
+  - Portal-\> külső megosztási\> megosztás – áttekintés-helyek, külső személyek hozzáférése a webhelyekhez: on
     
-  - Portál -\> külső megosztás -\> helyek - "A külső felhasználók a webhelyeket elérni" jelölőnégyzetet
+  - Portal-\> külső megosztási\> helyek-"külső személyek hozzáférése a webhelyekhez" jelölőnégyzet
     
-- **Felügyeleti megosztás - SharePoint felügyeleti központ**
+- **Felügyeleti megosztás-SharePoint Admin Center**
     
-    Külső megosztás - biztosítása érdekében a következő két lehetőség valamelyikét kijelölve:
+    Külső megosztás-a két lehetőség valamelyikének kiválasztása:
     
-  - "Külső felhasználók elfogadása a megosztási meghívást, és jelentkezzen be, a hitelesített felhasználók engedélyezése"
+  - "Megosztási meghívásokat elfogadó és hitelesített felhasználók bejelentkezésének engedélyezése külső felhasználók számára"
     
-  - "Mindkét külső felhasználók megosztása elfogadó Meghívók és Vendég névtelen kapcsolatok"
+  - "A megosztási meghívásokat és a névtelen vendégkapcsolatokat elfogadó külső felhasználók számára egyaránt engedélyezett"
     
-- **Egyes webhelycsoportok**
+- **Egyéni webhelycsoportok**
     
-  - Gyűjtemények - választó webhelycsoport az adott webhelyen, és kattintson a megosztás - a menüszalagról -\> biztosítására, vagy megosztási beállítások meg vannak adva.
+  - Webhelycsoportok – a kérdéses webhelycsoport kiválasztása, majd a megosztás – a szalagról-\> a megosztási beállítások megadása jelölőnégyzet bejelölését.
     
-Külső megosztás bekapcsolása módjáról további tudnivalókat lásd: [kapcsolja be- vagy kikapcsolása a SharePoint Online megosztása külső.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+A külső megosztás bekapcsolásáról további információt a [a SharePoint Online szolgáltatásban a külső megosztás be-és kikapcsolása](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409) című témakörben talál.
   
 

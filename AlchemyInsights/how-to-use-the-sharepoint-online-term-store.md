@@ -1,6 +1,6 @@
 ---
-title: A SharePoint Online kifejezéstár használata
-ms.author: kirks
+title: A SharePoint Online kifejezéstároló használata
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 8c87a4ca51dae25a0cfec86d53bc45ec59f8962f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539643"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754842"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>A SharePoint Online kifejezéstár használata
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>A SharePoint Online kifejezéstároló használata
 
-A kifejezéstár érhető el az Office 365 globális rendszergazdai, a SharePoint felügyeleti és kifejezés tároló rendszergazdák és az új SharePoint Online felügyeleti központ található.
+A kifejezéstároló az Office 365 Global admin, SharePoint admin és term Store adminok számára érhető el, és megtalálható az új SharePoint Online felügyeleti központban.
   
-A SharePoint Online kifejezéstár és rendszertani belül SharePoint Online használatáról további információt talál a [Bevezetés a felügyelt metaadatok](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+A SharePoint Online kifejezéstároló és a SharePoint Online rendszerbeli rendszertan használatáról a [felügyelt metaadatok bemutatása](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)című témakörben olvashat bővebben.
   
-Ha a probléma nem jelenik meg, vagy időnként feltüntetett adatokkal, ajánlott Várjon 24 órát, és jelentkezzen a támogatási kérelem, ha a probléma továbbra is fennáll. Annak ellenére, hogy 24 órán keresztül lehet hosszú ideig, gyorsítótár probléma lehet, vagy azt is már dolgozunk a probléma megoldásának.
+Ha olyan problémája van, amelynek a feltételei nem jelennek meg, vagy időnként nem jelenik meg, javasoljuk, hogy várjon 24 órát, majd jelentkezzen be egy támogatási kérelmet, ha a probléma továbbra is fennáll. Még akkor is ha 24 óra lehet hosszú idő, ott tudna lenni kasalot bálna kérdés vagy mi május már lenni működő-ra egy oldat-hoz ez probléma.
   

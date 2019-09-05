@@ -1,5 +1,5 @@
 ---
-title: Az Office 365 rendszerben SPF beállítása
+title: Felállít SPF hivatalban 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d11c1c637761429c684875096397d03ac64a1b6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509110"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744787"
 ---
-# <a name="set-passwords-to-never-expire"></a>Beállított jelszó nem jár le
+# <a name="set-passwords-to-never-expire"></a>Jelszó beállítása, hogy soha ne járjon le
 
-MINDEN jelszó soha nem jár le, a Microsoft 365 felügyeleti központot, hogy nyissa meg a **Beállítások** > [biztonsági &amp; adatvédelmi](https://portal.office.com/adminportal/home#/settings/security) lap. Válassza a **Szerkesztés** **Jelszóházirend**mellett, és kapcsolja **be**a csúszkát.
+Ha azt szeretné, hogy az összes jelszó soha ne járjon le, a Microsoft 365 Admin Center letöltőközpontban nyissa meg a **Beállítások** > [biztonsági &amp; adatainak védelme](https://portal.office.com/adminportal/home#/settings/security) lapot. Jelölje be a **jelszóházirend**melletti **Szerkesztés** választógombot, és **kapcsolja be a csúszkát.**
   
-Részletes információkat lásd: [a szervezet jelszóházirendjének lejárati beállítása.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
+Részletesebb információért lásd: [a szervezet jelszólejárati házirendjének beállítása.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[Állítsa be a jelszó soha nem jár le, az adott felhasználó számára](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[Állítsa be a jelszót, hogy soha ne járjon le az egyes felhasználók](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   

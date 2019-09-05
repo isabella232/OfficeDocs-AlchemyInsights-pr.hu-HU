@@ -1,6 +1,6 @@
 ---
-title: A OneDrive 0x8004de40 hiba javítása
-ms.author: kirks
+title: Erősít 0x8004de40 hiba-ban OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: d436184bdc0e283db217ea734fb2c8e05f85b4e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: aa0e0a63ac1e365a7cdce018626740446040a664
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525061"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755850"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>A OneDrive 0x8004de40 hiba javítása
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Erősít 0x8004de40 hiba-ban OneDrive
 
-Ha a OneDrive egy 0x8004de40 hibaüzenet jelenik meg:
+Ha 0x8004de40 hibakódot kap az OneDrive-nál:
 
-- Indítsa újra a aktivizált Directory tartományhoz csatlakozva az érintett számítógépen.
-- Ha a számítógép újraindítása nem oldja meg a problémát, kilépése, és csatlakoztassa újra az eszközt az Azure AD. 
+- Újraindít a érintett számítógép rövid idő összekapcsolt-hoz-a Acitve címtár birtok.
+- Ha egy újraindítás nem oldja meg a problémát, akkor elválaszt, és csatlakoztassa a készüléket Azure ad. 
 
-**Megjegyzés**: a lépések végrehajtása közben kell lennie a vállalati hálózatban. Lépések nem hajthatók végre, ha nem tud csatlakozni a vállalati infrastruktúra (például utazás közben). 
+**Megjegyzés**: a lépések végrehajtása során a vállalati hálózaton kell lennie. Ne hajtsa végre ezeket a lépéseket, ha nem tud csatlakozni a vállalati infrastruktúrához (például utazás közben). 
 
-- Nyisson meg egy emelt szintű parancssort. 
-- Nyisson meg egy emelt szintű parancssort, - kattintson a **Start**gombra, kattintson a jobb gombbal a **Parancssor ablakot**, és kattintson a **Futtatás rendszergazdaként**.
-- Írja be a *dsregcmd /leave* , majd nyomja le az **ENTER billentyűt**.
-- Befejezéskor, írja be a *dsregcmd /join* , és nyomja le az **ENTER billentyűt**.
+- Nyit egyemelkedett követel gyors. 
+- Az emelt szintű parancssor megnyitásához kattintson a **Start**gombra, kattintson a jobb gombbal **a parancssor elemre, majd**kattintson a **Futtatás rendszergazdaként**parancsra.
+- Írja be a *dsregcmd/Leave* parancsot, majd nyomja le az **ENTER billentyűt**.
+- Amikor elkészült, írja be a *dsregcmd/JOIN* parancsot, és nyomja meg az **ENTER**billentyűt.
 - Ha elkészült, zárja be a parancssort.
-- Indítsa újra a számítógépet, és jelentkezzen be a OneDrive.
+- Újraindít a számítógép, és fatörzs-ba OneDrive.

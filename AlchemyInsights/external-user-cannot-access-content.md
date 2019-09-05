@@ -1,5 +1,5 @@
 ---
-title: Külső felhasználók nem férhetnek hozzá a tartalomhoz
+title: A külső felhasználó nem férhet hozzá a tartalomhoz
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 067756fb7a411a2c75de1c61c3b57e78a07046da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9638ce92fc0cda83999f64da278a827e0ba32584
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526033"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740035"
 ---
-# <a name="external-user-cannot-access-content"></a>Külső felhasználók nem férhetnek hozzá a tartalomhoz
+# <a name="external-user-cannot-access-content"></a>A külső felhasználó nem férhet hozzá a tartalomhoz
 
-Ha egy külső felhasználó kérték, és nem férhetnek hozzá a tartalomhoz, próbálkozzon a látogató az alábbi hivatkozásokra:
+Ha egy külső felhasználó meghívást kapott, és nem tud hozzáférni a tartalomhoz, kérjük, próbálja meg meglátogatni az alábbi linkekre:
 
-- ["A hozzáférés megtagadva", "Kell a webhely hozzáférési engedéllyel", vagy "Felhasználó nem a könyvtárban található" hiba a SharePoint Online és az üzleti OneDrive](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["A szervezet házirendjeit nem teszik lehetővé a felhasználókkal való megosztására" hibaüzenet egy cikket vagy egy webhelyet a SharePoint Online és az üzleti OneDrive megosztása](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Megosztási beállítások vannak szürkévé megosztása SharePoint Online vagy a OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Hibaüzenet jelenik meg, ha egy külső felhasználó SharePoint Online meghívást elfogad egy másik fiókkal](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [Az OSE megosztása SharePoint-és OneDrive hibák](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Hozzáférés megtagadva", "engedélyre van szüksége a webhelyhez való hozzáféréshez", vagy "a felhasználó nem található a könyvtárban" hiba a SharePoint Online szolgáltatásban és az OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["A szervezet irányelvei nem teszik lehetővé az ilyen felhasználókkal való megosztást" hiba egy elem vagy hely megosztásakor a SharePoint Online rendszerben vagy az OneDrive for Business alkalmazásban.](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Cserépdarab választások van szürke ki mikor cserépdarab-ból SharePoint Online vagy OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Hibaüzenet jelenik meg, amikor egy külső felhasználó elfogad egy SharePoint Online-meghívást egy másik fiókkal](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [OSE megosztási hibák SharePoint és OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: E-maileket az Outlook mobile alkalmazás a 1800014 beállítása
+title: 1800014 e-mail beállítása az Outlook mobilalkalmazásban
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509182"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734167"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>Az Outlook mobile App e-mail beállítása
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>E-mail beállítása az Outlook mobilalkalmazásban
 
-1. Válassza a **Ismerkedés** , ha az első idő beállítása a mobil app az e-mailhez. Ellenkező esetben válassza a **menü** , és koppintson a **Beállítások** \> **Fiók felvétele** \> **E-mail fiók felvétele**.
+1. Kiválaszt **kap kezdett** ha-a ' első időd elintézés megjelöl elektronikus levél-ban mozgatható app. Ellenkező esetben érintse meg a **menü** , **majd érintse meg** \> a **fiók** \> hozzáadása **e-mail fiók**hozzáadása menüpontot.
 
-2. Írja be a teljes e-mail címét, és koppintson a **Tovább** vagy a **Fiók felvétele**.
+2. Belép-a teli elektronikus levél cím és csap **folytatódik** vagy **összead számla**.
 
-3. Adja meg az e-mail fiókhoz tartozó jelszót, majd koppintson **A bejelentkezés** vagy a **következő**.
+3. Adja meg e-mail fiókjának jelszavát, majd koppintson a **Bejelentkezés vagy a** **következő gombra**.
 
-4. Ha engedélyezve van a [többtényezős hitelesítést](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , ellenőrizze a módszerrel (6 jegyű kód, telefonhívás vagy Microsoft Authenticator app) állíthatja be.
+4. Ha a [többtényezős hitelesítés](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) engedélyezve van, ellenőrizze a beállított módszer (6 jegyű kód, telefonhívás vagy Microsoft hitelesítő alkalmazás) használatát.
 
-5. Ha további informatikai felügyeleti házirendek helyen, koppintson az **Aktiválás** tudjanak.
+5. Ha további informatikai rendszergazdai házirendek vannak érvényben, koppintson az **aktiválás** elemre a engedélyezéséhez.
 
-6. Az Outlook a naptár, Névjegyalbum és más információk hozzáférése kérheti. Jelölje be az **Igen** vagy **engedélyezése**.
+6. Az Outlook engedélyt kérhet a naptár, a névjegyek és egyéb információk elérésére. Válassza az **Igen** vagy az **Engedélyezés**lehetőséget.
 
-Részletes utasítások [az Outlook Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) vagy [iOS az Outlook](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) beállítása kap.
+Kap részletes felállít oktatás részére [Kilátás részére Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) vagy [Kilátás részére iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) itt.
   
- **Segítségre van szüksége?**
+ **Segítségre van szükséged?**
   
-- [Mobil e-mail beállításai – problémamegoldás](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [A mobiltelefonon történő e-mail beállítás hibaelhárítása](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [Az Outlook iOS és Android-app Súgó](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Get in-app segítséget az Outlook az iOS és Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

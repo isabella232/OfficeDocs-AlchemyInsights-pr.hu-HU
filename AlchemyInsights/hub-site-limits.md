@@ -1,28 +1,28 @@
 ---
-title: Központi webhely korlátok és korlátozások
-ms.author: kirks
+title: A hubhely korlátai és korlátozásai
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c63cbe96f95bf4d1ce279a7294069a7ab8f0f953
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539355"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754590"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>A SharePoint központi webhely korlátok és korlátozások
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>A SharePoint központi webhelyének korlátai és korlátozásai
 
-- Jelölje be a kommunikációs hely vagy az új modern sablont használó csoportwebhelyet ajánlott. Klasszikus csoportwebhely használata esetén a hub navigációs modern oldalakon jelennek meg, és központi webhely beállításai csak jelennek meg modern lapok.
+- Ajánlott olyan kommunikációs webhelyet vagy csoportwebhelyet választani, amely az új, modern sablont használja. Ha klasszikus csoportwebhelyet használ, a hub navigációja csak a modern lapokon fog megjelenni, és a központi telephely beállításai csak a modern lapokon jelennek meg.
 
-- Helyek, amelyek már tartozik egy másik hub **nem** alakítható a központi webhelyen. 
+- A már egy másik hubhoz társított webhelyeket **nem** lehet központi webhelyté konvertálni. 
 
-- A szervezet létrehozhat legfeljebb 100 hub webhelyeket. Nincs társítható egy központi webhely webhelyek száma nem korlátozott.
+- A szervezet számára legfeljebb 100 központi webhely hozható létre. A hubhoz tartozó helyhez hozzárendelhető helyek száma nincs limitben.
 
-- Amikor a felhasználók a webhelyeket társítani egy központi helyen, az engedélyek a központi webhelyen vagy a hozzárendelt helyek azt nem hatással. Fontos, hogy ellenőrizze, hogy a hub társítani a webhelyeket a hub összes felhasználók engedélye.
+- Ha a felhasználók egy központi helyhez társítják a webhelyüket, akkor az nem befolyásolja sem a központi webhely, sem a kapcsolódó webhelyek engedélyeit. Fontos meggyőződni arról, hogy minden felhasználó számára engedélyezett, hogy webhelyeket társítson a hubhoz.
 
 
 

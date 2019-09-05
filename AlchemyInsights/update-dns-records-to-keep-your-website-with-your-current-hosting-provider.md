@@ -13,21 +13,21 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: 7ca04d81dd4ca2e094b5ac14a2949ffa3a88e987
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532909"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742267"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>A DNS-rekordok frissítése, hogy a webhely megmaradjon a jelenlegi tárhelyszolgáltatónál
 
-Az Office 365 nyilvános webhely áthelyezése másik videotár-szolgáltató folyamat részeként valószínűleg szüksége lesz a tartomány rekordjainak módosításához.
+Az Office 365 nyilvános webhely másik tárhelyszolgáltatónál való áthelyezése során valószínűleg módosítani kell a tartomány rekordjait.
   
-1. **A telepítő** Ugrás az admin center \> **tartományok** és válassza ki a módosítani kívánt tartomány nevét.
+1. Az admin központban, menjen a **Setup** \> **domain** és válassza ki a domain nevet meg akarja változtatni.
 
-2. Adja meg az új videotár-szolgáltató webhelyén igazítja az adatokat.
+2. Adja meg az adatokat, hogy összhangba hozza a website-val-a új tárhely szolgáltató.
 
-További információért lásd [frissítés DNS-rekordok megtartani a jelenlegi videotár-szolgáltató webhelyén](https://support.office.com/article/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-2c4cf347-b897-45c1-a71f-210bdc8f1061).
+További információ: a [DNS-rekordok frissítése, hogy megmaradjon a webhely a jelenlegi tárhelyszolgáltatónál](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
   
-További tudnivalók a nyilvános webhely felfüggesztését, tanulmányozza a [SharePoint Online nyilvános webhelyek számára meg kell szüntetni](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916?ui=en-US&amp;rs=en-US&amp;ad=US).
+A nyilvános webhely megszüntetéséről további információt a [SharePoint Online nyilvános webhelyek megszüntetett](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).

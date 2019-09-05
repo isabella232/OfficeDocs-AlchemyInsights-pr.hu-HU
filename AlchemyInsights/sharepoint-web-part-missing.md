@@ -1,6 +1,6 @@
 ---
-title: A Project Web App SharePoint-webhelycsoportból hiányzik
-ms.author: kirks
+title: A Project Web App hiányzik a SharePoint-webhelyből
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: a68fefa2f92ee43a6e26807fe89d034589b2476b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8c749ce5f7e6a00b990ca387833fac90f4e2ce17
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502571"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749658"
 ---
-# <a name="missing-web-part-in-sharepoint-site-collection"></a>A SharePoint-webhelycsoport hiányzó kijelző
+# <a name="missing-web-part-in-sharepoint-site-collection"></a>Hiányzó kijelző a SharePoint-webhelycsoportban
 
-Ha hiányzik egy kijelzőt, mellyel lát, akkor lehet egy [modern oldalon classic kijelző](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64)hozzáadni kívánt. Fontos modern lapok csak használhatják a modern kijelzők és klasszikus lapok csak a klasszikus kijelzők használhatja. Számos modern kijelzők ugyanazokra a célokra, mint a klasszikus kijelzők teljesíteni, de látni fogja a különbségek megjelenését és működését.
+Ha hiányzik az a kijelző, amelyet látni szeretne, elképzelhető, hogy egy [klasszikus kijelzőt egy modern lapon](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64)próbál felvenni. Fontos megjegyezni, hogy a modern oldalak csak a modern kijelzőket és a klasszikus oldalakat használhatják a klasszikus kijelzők használatára. Számos modern kijelzők teljesítik ugyanazokat a célokat, mint a klasszikus kijelzők, de látni fogja a különbségeket a megjelenés és a funkcionalitás.
 
-Vannak nem jelennek meg az [Egyéni parancsfájl beállítás](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), amely a modern webhelyek alapértelmezés szerint le van tiltva miatt sok kijelzőnek. 
+Sok olyan kijelző van, amely nem jelenik meg az [egyéni parancsfájl-beállítás](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)miatt, amely alapértelmezés szerint le van tiltva a modern webhelyeken. 
 
-Nem használható a kijelzők listája talál, [Ha egyéni parancsfájl blokkolva van az érintett szolgáltatások](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
+A nem elérhető kijelzők listájának megtekintéséhez tekintse meg az [egyéni parancsfájl blokkolásakor érintett szolgáltatásokat](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
 
- Egyéni parancsfájl biztonsági vonatkozásait kapcsolatos további információért lásd: [biztonsági szempontok, amely lehetővé teszi az egyéni parancsfájl](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+ Az egyéni parancsfájlok biztonsági következményeiről további információt az [egyéni parancsfájlok engedélyezésével kapcsolatos biztonsági megfontolások](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script)című témakörben talál.

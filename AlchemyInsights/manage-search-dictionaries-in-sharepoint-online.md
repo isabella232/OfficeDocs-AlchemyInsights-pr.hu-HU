@@ -1,6 +1,6 @@
 ---
-title: A SharePoint Online keresés szótárak kezelése
-ms.author: kirks
+title: Keresőszótárak kezelése a SharePoint Online szolgáltatásban
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 78aaf013c3fa8f5ed4c91b1c651ba2328ed73402
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542104"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754410"
 ---
-# <a name="manage-search-dictionaries"></a>Keresés szótárak kezelése
+# <a name="manage-search-dictionaries"></a>Keresőszótárak kezelése
 
-A SharePoint Online kifejezéstár található az új SharePoint-felügyeleti központ keresési szótárak a SharePoint online kezelik. További tájékoztatást a hozzáadása vagy szerkesztése, keresés szótárak [keresési szótárak kezelése](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)témakörben talál.
+A SharePoint Online szolgáltatásban a keresési szótárak a SharePoint Online Kifejezéstárolóban kezelhetők, amely az új SharePoint admin központban található. A keresési szótárak hozzáadásáról és szerkesztéséről további információt a [Keresőszótárak kezelése](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)című témakörben talál.
   
-Ha nem látható egy keresési szótár kifejezéskészlet jelennek meg a kifejezéstárban, Várjon 24 órát. Ha a szótár még nem szereplő 24 óra után jelentkezzen egy támogatási jegyet.
+Ha nem lát a keresési szótár kifejezéskészlet jelenik meg a kifejezést Store, kérjük várjon 24 órát. Ha a szótár még mindig nem jelenik meg 24 óra elteltével, kérjük, jelentkezzen be a támogatási jegyen.
   

@@ -1,6 +1,6 @@
 ---
-title: Hibaüzenet a fájlok megosztása
-ms.author: kirks
+title: Hibaüzenet a fájlok megosztásakor
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dea173f74f8ddc6da485b44648a009a4900e1294
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ce62675193c835ec0ec394d8ccceac2261354bb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527293"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755958"
 ---
-# <a name="error-messages-when-sharing"></a>Hibaüzenetek megosztása
+# <a name="error-messages-when-sharing"></a>Hibaüzenetek a megosztáskor
 
-Külső felhasználók megosztása közben hibaüzenetet kap, ha valószínűleg külső megosztás nem engedélyezett vagy nem engedélyezett szintjét megosztása a felhasználó megpróbál megosztásának beállítása.
+Ha a külső felhasználóval való megosztás közben hibaüzenetet kap, a rendszer valószínűleg nem engedélyezi a külső megosztást, vagy a megosztás beállítása nem teszi lehetővé a felhasználó megosztásának szintjét.
   
-**Megosztása** a bal oldali ablaktáblán kattintson az új SharePoint felügyeleti központ. Válassza ki a megosztás szintű kíván engedélyezni. Ellenőrizze, hogy a külső megosztása engedélyezve van a webhelyen. 
+Az új SharePoint felügyeleti központban kattintson a **megosztás** elemre a bal oldali ablaktáblán. Válassza ki az engedélyezni kívánt megosztási szintet. Győződjön meg arról, hogy a webhelyen engedélyezve van a külső megosztás. 
   
-Ha a felhasználó megpróbál bejelentkezni a hibaüzenetet kap, próbálja meg a következő lépéseket:
+Ha a bejelentkezési kísérlet közben hibaüzenet jelenik meg, próbálkozzon a következő lépésekkel:
   
-- Győződjön meg arról, hogy a felhasználó elfogadta a megosztási meghívást küldött.
+- Győződjön meg arról, hogy a felhasználó elfogadta a küldött megosztási meghívást.
     
-- Győződjön meg arról, hogy a felhasználó elfogadja a meghívást a számára elküldött e-mail címmel rendelkező.
+- Ellenőrizze, hogy a felhasználó elfogadja-e a meghívást annak az e-mail címnek a címére, amelyre azt elküldte.
     
 

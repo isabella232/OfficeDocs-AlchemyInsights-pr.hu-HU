@@ -1,6 +1,6 @@
 ---
-title: Hiányzik a SharePoint Online kifejezéstár feltételei
-ms.author: kirks
+title: A SharePoint Online Kifejezéstárolóból hiányzó feltételek
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: 49154808a30446316fd8d6ef68af4086cc8c69ed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edca68b2b5bf0b2d3de0f8a921d42868729aefca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500829"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749154"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Hiányzik a SharePoint Online kifejezéstár feltételei
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>A SharePoint Online Kifejezéstárolóból hiányzó feltételek
 
-A SharePoint Online kifejezéstár is látni szeretne nem jelennek meg vagy olyan feltételek időnként jelenik meg.
+A várt, nem látható vagy időnként megjelenő SharePoint Online kifejezéstároló feltételei nem jelennek meg.
   
-Ha 24 óránál hosszabb idő telt el azóta, először látta a probléma, jelentkezzen be a támogatási eset. Úgy tudjuk, hogy 24 órán keresztül sokáig tűnhet. Sok esetben azt már dolgozik a megoldáson úgy adja meg legalább 24 órán keresztül.
+Ha több mint 24 óra telt el mióta először meglátta ezt a problémát, kérjük, jelentkezzen be a támogatási ügyben. Megértjük, hogy a 24 óra tűnhet, mint egy hosszú idő. Sok esetben, mi már dolgozunk a megoldást, ezért kérjük, adja meg legalább 24 óra.
   

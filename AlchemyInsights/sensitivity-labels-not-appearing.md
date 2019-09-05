@@ -1,5 +1,5 @@
 ---
-title: Nem jelenik meg a tartalmi címkék
+title: A érzékenységi címkék nem jelennek meg
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504537"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744823"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Nem jelenik meg a tartalmi címkék
+# <a name="sensitivity-labels-not-appearing"></a>A érzékenységi címkék nem jelennek meg
 
-Tartalmi címkék besorolására, és védi a bizalmas tartalom teszi lehetővé. Ez a szolgáltatás többet [érzékenység címkék – áttekintés](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)című témakörben talál.
+A érzékenységi címkék lehetővé teszik a kényes tartalmak osztályozását és védelmét. A szolgáltatásról az [érzékenységi címkék áttekintése](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)című témakör nyújt bővebb felvilágosítást.
 
-Ha úgy állította be a tartalmi címkék, de ezek az Office alkalmazások nem jelenik meg, ellenőrizze a következőket:
+Ha beállította az érzékenységi címkéket, de azok nem jelennek meg az Office-alkalmazásokban, ellenőrizze a következőket:
 
-- Győződjön meg arról, a tartalom címke már [közzé](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) a felhasználókat és csoportokat.
+- Győződjön meg arról, hogy az érzékenységi címkét a kívánt felhasználók és csoportok számára [közzétették](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) .
 
-- Győződjön meg arról, hogy a felhasználó használ, egy alkalmazás, amely támogatja a feliratok érzékenység - [érzékenység címkéket a dokumentumban](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable)talál.
+- Ellenőrizze, hogy a felhasználó használ-e olyan alkalmazást, amely támogatja a érzékenységi címkéket – lásd: [érzékenységi címkék a dokumentumban](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
 
-- Ha Ön [címkék Azure információk védelme áttelepítése](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), legyen tisztában a szempontok felsorolt [Itt](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Ha [áttelepíti a Azure adatvédelmet](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), vegye figyelembe az [itt](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)felsorolt szempontokat.
 
-- Támogatja az adatvesztés megelőzése (DLP): jelenleg csak adatmegőrzési címkék is használhatók a DLP politika feltételeként.  Érzékenység címkék DLP házirendek támogatása még nem áll rendelkezésre, de terveink rajta.
+- Adatvesztés megelőzése (DLP) támogatás: jelenleg csak az adatmegőrzési címkéket lehet használni a DLP-házirendek feltételeként.  A DLP-házirend érzékenységi címkéinek támogatása még nem érhető el, de rajta dolgozunk.
 
-Lehetséges problémákról bővebben lásd [érzékenység címkék kapcsolatos ismert problémák](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US).
+A lehetséges problémákról további információt a [érzékenységi címkékkel kapcsolatos ismert problémák](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)című témakörben talál.

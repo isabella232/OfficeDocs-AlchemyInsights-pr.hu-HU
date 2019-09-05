@@ -1,30 +1,30 @@
 ---
-title: Adatok elvesztésének megakadályozása (DLP) – áttekintés
-ms.author: kirks
+title: Adatvesztés megelőzése (DLP) – áttekintés
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: cd73bc8f4e56f6fdc6e3e09d87eb4ff55523ca92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514405"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755130"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Adatok elvesztésének megakadályozása (DLP) – áttekintés
+# <a name="data-loss-prevention-dlp-overview"></a>Adatvesztés megelőzése (DLP) – áttekintés
 
-A DLP házirend segítségével:
+A DLP-házirend segítségével:
 
-- Bizalmas adatok azonosítására számos helyen, például Exchange Online, SharePoint Online és az üzleti OneDrive keresztül.
-
-
-Például bármilyen üzleti webhely bármely OneDrive tárolt hitelkártyaszám tartalmazó dokumentumot azonosítani tudja, vagy csak meghatározott személyek OneDrive helyek figyelésére van lehetőség.
-
-- Bizalmas adatok véletlen megosztásának tiltása.
+- Azonosítsa a kényes információkat számos helyen, például az Exchange Online, a SharePoint Online és az OneDrive for Business között.
 
 
-További információért olvassa el a következő [cikk](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Például azonosíthatja bármely, az OneDrive for Business webhelyen tárolt hitelkártyaszámot tartalmazó dokumentumot, vagy figyelheti csak a meghatározott személyek OneDrive webhelyeit.
+
+- Az érzékeny információk véletlenszerű megosztásának megakadályozása.
+
+
+További információért olvassa el az alábbi [cikket](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 

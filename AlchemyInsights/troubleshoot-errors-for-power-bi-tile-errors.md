@@ -1,5 +1,5 @@
 ---
-Title: Frissítési forgatókönyvek - mozaik hibák elhárítása
+title: Frissítési forgatókönyvek hibaelhárítása-Mozaikhibák
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 568fa4662c7d312583348981f80319aaefcf7290
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506841"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748830"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Frissítési forgatókönyvek - mozaik hibák elhárítása
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Frissítési forgatókönyvek hibaelhárítása-Mozaikhibák
 
-Ha az energiagazdálkodási BI szolgáltatáson belül mozaik frissítési hibákat észlel, várjon tükröződnek az irányítópult mozaik frissítés körülbelül 10-15 percig. Azt még nem látható, ha újra rögzíteni a képi megjelenítés az irányítópulton.
+Ha a Power BI szolgáltatásban mozaik frissítési hibát tapasztal, várjon körülbelül 10-15 percet, hogy a frissítés tükröződjön az irányítópult burkolóin. Ha még mindig nem jelenik meg, újra kitűzni a vizualizációt a műszerfalra.
 
 További információ:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

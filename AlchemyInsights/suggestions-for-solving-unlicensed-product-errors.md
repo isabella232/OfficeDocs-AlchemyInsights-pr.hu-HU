@@ -1,5 +1,5 @@
 ---
-title: Javaslatok "Nem licencelt termék" hibák elhárításáról
+title: Javaslatok az "engedély nélküli termék" hibák megoldására
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501045"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743275"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Javaslatok "Nem licencelt termék" hibák elhárításáról
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Javaslatok a "nem licencelt termék" hibáinak megoldására
 
-Előfizetés, amely lehetővé teszi az ügyfél, például az Office 365 üzleti vagy üzleti Premium és [a felhasználó rendelkezzen a hozzárendelt licenc](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)licencek ellenőrizze. [Inaktiválás telepítését](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) ellenőrizheti, ha az előfizetés által támogatott telepítéseinek száma túllépte.
+Győződjön meg arról, hogy rendelkezik olyan előfizetéssel, amely lehetővé teszi az ügyféllicencek (például az Office 365 Business vagy Business Premium) számára a licencet, és [biztosítja a felhasználó engedélyét](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Inaktiválja a telepítést](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) annak ellenőrzéséhez, hogy túllépte-e az előfizetés által támogatott telepítések számát.
   
-Ellenőrizze, hogy a felhasználó ugyanazt a fiókot, amely rendelkezik hozzárendelt licenc van bejelentkezni.
+Győződjön meg arról, hogy a felhasználó ugyanazzal a fiókkal jelentkezik be, amelyhez a licenc társítva van.
   
-Az [Aktiválás hibaelhárító](https://aka.ms/SARA-OfficeActivation-Alchemy)futtatása.
+Futtassa az [aktiválási hibaelhárítót](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Ha lejárt az előfizetés állapotának ellenőrzése
+Ellenőrizze, hogy lejárt-e az előfizetési állapot
   
-Ellenőrizze az [Office 365 szolgáltatás egészségügyi oldalon](https://docs.microsoft.com/office365/enterprise/view-service-health) vannak-e ismert problémák a Service.
+Ellenőriz a [hivatal 365 szolgáltatás egészség oldal](https://docs.microsoft.com/office365/enterprise/view-service-health) -hoz lát ha vannak akármi tudni probléma-val a szolgáltatás.
   
-[Hajtsa végre az Office Online javítása](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Előad egy online kijavít-ból Hivatal](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-További hibaelhárítási megoldásokkal, lásd: [nem licencelt termék és az Office Aktiválás hibákat](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+További hibaelhárítási megoldásokért lásd: [licenc nélküli termék-és aktiválási hibák az Office-ban](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

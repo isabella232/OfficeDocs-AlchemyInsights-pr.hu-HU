@@ -1,6 +1,6 @@
 ---
-title: Nem lehet hozzáadni a jóváhagyási munkafolyamat 2010
-ms.author: kirks
+title: Nem lehet hozzáadni a 2010 jóváhagyási munkafolyamatot
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,37 +8,37 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 1f564c5d1e689dcf41b22fab5a05ab1b488c2b0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 13e3ed6db8c31adb1eb5a556c0e5fbc437b3fdb1
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558619"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748686"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>Nem lehet hozzáadni a jóváhagyási munkafolyamat 2010
+# <a name="unable-to-add-2010-approval-workflow"></a>Nem lehet hozzáadni a 2010 jóváhagyási munkafolyamatot
 
-A Microsoft SharePoint-webhelycsoport nem adhat (például a "Jóváhagyás – SharePoint 2010") globálisan újrafelhasználható munkafolyamat listához vagy könyvtárhoz.
+Microsoft SharePoint-webhelycsoportban listához vagy tárhoz nem adhat globálisan újrafelhasználható munkafolyamatot (például "jóváhagyás-SharePoint 2010").
   
-A probléma megoldásához kövesse az alábbi lépéseket: 
+A probléma megoldásához hajtsa végre az alábbi lépéseket: 
   
-1. Nyissa meg a legfelső szintű webhely helycsoport a SharePoint Designer 2013.
+1. Nyissa meg a webhelycsoport gyökérwebhelyét a SharePoint Designer 2013 alkalmazásban.
   
-2. **A helyobjektumok**jelölje be a **munkafolyamatok**. 
+2. A **Webhelyobjektumok**területen válassza a **munkafolyamatok**témakört. 
   
-3. A **munkafolyamatok** menüszalag **Új** csoportjában jelölje be **Újrahasználható munkafolyamat**. 
+3. A **munkafolyamat** -szalag **új** szakaszában válassza az **újból felhasználható munkafolyamat**-t. 
   
-4. Az **Újrahasználható munkafolyamat létrehozása** űrlapon adja meg a nevét ** *Repair2010* **. **Platform típusát**kattintson a **SharePoint 2010 munkafolyamat**, és kattintson az **OK gombra**. 
+4. Az **újrahasználható munkafolyamat létrehozása** űrlapon adja meg a * * *Repair2010* * * nevet. A **Platformtípus**lapon kattintson a **SharePoint 2010 munkafolyamat**elemre, majd kattintson **az OK gombra**. 
   
-1. A **munkafolyamat** -menüszalag **mentése** csoportjában jelölje be **a közzététel**. 
+1. A **munkafolyamat** -szalag **Mentés** szakaszában válassza a **Közzététel**. 
   
-2. A **munkafolyamat** -menüszalag **kezelése** csoportjában válassza **Globálisan közzétenni**. A megjelenő megerősítést kérő párbeszédpanelen kattintson az **OK gombra**. 
+2. A **munkafolyamat** menüszalagjának **kezelés** szakaszában jelölje ki a **globálisan közzéteszi**választógombot. A megerősítést kérő párbeszédpanelen kattintson az **OK gombra**. 
   
-3. Egy webböngészőben keresse meg a legfelső szintű webhely helycsoport, és hozzáférhet a **Webhely beállításai** \> **Webhelycsoport-szolgáltatások**. Váltás a **munkafolyamatok** szolgáltatás: 
+3. A webböngészőben keresse meg a webhelycsoport gyökérwebhelyét, és kattintson a **webhelybeállítások** \> webhelycsoport- **szolgáltatásainak**elérésére. A **munkafolyamatok** funkció váltása: 
   
-· Ha a szolgáltatás *aktív* , kattintson az **Inaktiválás,** és kattintson az **Aktiválás**. 
+· Ha a szolgáltatás *aktiválva* van, kattintson az **inaktiválás elemre,** majd kattintson az **aktiválás**lehetőségre. 
   
-· Ha a szolgáltatás *inaktívvá válnak* , kattintson az **Aktiválás**. 
+· Ha a szolgáltatás *inaktív* , kattintson az **aktiválás**gombra. 
   
-További információt találhat a következő [cikk](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+További információért olvassa el a következő [cikket](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 
