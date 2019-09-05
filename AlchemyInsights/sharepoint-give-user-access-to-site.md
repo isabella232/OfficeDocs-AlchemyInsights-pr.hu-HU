@@ -1,6 +1,6 @@
 ---
-title: Hozzáférési kérelmek szolgáltatás
-ms.author: kirks
+title: Hozzáférések kérése funkció
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 11/14/2018
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14ae1064de9e26a4b9d9540205020af11ca2daee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503817"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751530"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a><span data-ttu-id="99b6f-102">Felhasználók hozzáférésének biztosítása a SharePoint-webhely</span><span class="sxs-lookup"><span data-stu-id="99b6f-102">Give users access to SharePoint site</span></span>
+# <a name="give-users-access-to-sharepoint-site"></a><span data-ttu-id="1bbc6-102">Hozzáférés a felhasználóknak a SharePoint-webhelyhez</span><span class="sxs-lookup"><span data-stu-id="1bbc6-102">Give users access to SharePoint site</span></span>
 
-<span data-ttu-id="99b6f-103">A hozzáférési kérelem szolgáltatás lehetővé teszi a tartalom megtekintéséhez engedéllyel jelenleg nem rendelkeznek hozzáférési kérelmek emberek.</span><span class="sxs-lookup"><span data-stu-id="99b6f-103">The access request feature allows people to request access to content that they do not currently have permission to see.</span></span> <span data-ttu-id="99b6f-104">A webhely tulajdonosaként a szolgáltatás akkor levelet küldeni, ha valaki kér hozzáférést a webhelyhez is beállíthatja.</span><span class="sxs-lookup"><span data-stu-id="99b6f-104">As a site owner, you can configure the feature to send you mail when someone requests access to a site.</span></span> <span data-ttu-id="99b6f-105">További információért látogasson el a [Set up és hozzáférési kérelmek kezelése](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).</span><span class="sxs-lookup"><span data-stu-id="99b6f-105">For more information, please visit [Set up and manage access requests](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).</span></span>
+<span data-ttu-id="1bbc6-103">A hozzáférési kérelem szolgáltatása lehetővé teszi a felhasználók számára olyan tartalmak elérését, amelyekhez jelenleg nincs engedélyük.</span><span class="sxs-lookup"><span data-stu-id="1bbc6-103">The access request feature allows people to request access to content that they do not currently have permission to see.</span></span> <span data-ttu-id="1bbc6-104">Webhely tulajdonosként beállíthatja, hogy a szolgáltatás akkor küldjön leveleket, amikor valaki hozzáférést kér egy webhelyhez.</span><span class="sxs-lookup"><span data-stu-id="1bbc6-104">As a site owner, you can configure the feature to send you mail when someone requests access to a site.</span></span> <span data-ttu-id="1bbc6-105">További információért keresse [fel és kezelje a hozzáférési kérelmeket](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).</span><span class="sxs-lookup"><span data-stu-id="1bbc6-105">For more information, please visit [Set up and manage access requests](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).</span></span>
 
-<span data-ttu-id="99b6f-106">Az alábbiakban néhány gyakori hivatkozások vonatkozó hozzáférési kérelmeket:</span><span class="sxs-lookup"><span data-stu-id="99b6f-106">Here are some common links regarding access requests:</span></span>
+<span data-ttu-id="1bbc6-106">Íme néhány közös link a hozzáférési kérelmekhez:</span><span class="sxs-lookup"><span data-stu-id="1bbc6-106">Here are some common links regarding access requests:</span></span>
 
-- [<span data-ttu-id="99b6f-107">Hozzáférés megtagadva"hozzáférési kérelmek listába vagy"Kérjen jóváhagyást nem sikerült"a SharePoint Online függőben lévő kérelem folyamat</span><span class="sxs-lookup"><span data-stu-id="99b6f-107">Access Denied" to Access Requests list or "Request approval failed" when you process a pending request in SharePoint Online</span></span>](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [<span data-ttu-id="1bbc6-107">A hozzáférés megtagadva a hozzáférés kérése listához vagy a jóváhagyás kérése sikertelen, amikor folyamatban lévő kérést feldolgozunk a SharePoint Online szolgáltatásban</span><span class="sxs-lookup"><span data-stu-id="1bbc6-107">Access Denied" to Access Requests list or "Request approval failed" when you process a pending request in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [<span data-ttu-id="99b6f-108">Beállítások módosítása access-kérések</span><span class="sxs-lookup"><span data-stu-id="99b6f-108">Change access requests settings</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [<span data-ttu-id="1bbc6-108">A hozzáférési kérelmek beállításainak módosítása</span><span class="sxs-lookup"><span data-stu-id="1bbc6-108">Change access requests settings</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [<span data-ttu-id="99b6f-109">Jóváhagyhatja vagy elutasíthatja a webhely hozzáférési kérelmek</span><span class="sxs-lookup"><span data-stu-id="99b6f-109">Approve or decline access requests for a site</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [<span data-ttu-id="1bbc6-109">Webhelyre vonatkozó hozzáférési kérelmek jóváhagyása vagy elutasítása</span><span class="sxs-lookup"><span data-stu-id="1bbc6-109">Approve or decline access requests for a site</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [<span data-ttu-id="99b6f-110">Felhívás a külső felhasználók (csak az SharePoint Online verzióban) kezelése</span><span class="sxs-lookup"><span data-stu-id="99b6f-110">Manage invitations to external users (SharePoint Online only)</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [<span data-ttu-id="1bbc6-110">Külső felhasználók meghívóinak kezelése (csak SharePoint Online)</span><span class="sxs-lookup"><span data-stu-id="1bbc6-110">Manage invitations to external users (SharePoint Online only)</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [<span data-ttu-id="99b6f-111">Küldenie egy meghívást</span><span class="sxs-lookup"><span data-stu-id="99b6f-111">Resend an invitation</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [<span data-ttu-id="1bbc6-111">Meghívás Újraküldés</span><span class="sxs-lookup"><span data-stu-id="1bbc6-111">Resend an invitation</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 
