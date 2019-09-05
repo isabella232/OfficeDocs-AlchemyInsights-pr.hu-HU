@@ -1,5 +1,5 @@
 ---
-title: Két különböző bérlők között postaládák áttelepítése
+title: Postaládák áttelepítése két különböző bérlő között
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544649"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734455"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Két különböző bérlők között postaládák áttelepítése
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Postaládák áttelepítése két különböző bérlő között
 
-Szükség lehet áttelepíteni a postafiókok között két különböző bérlők az Office 365 rendszerben, például szervezeti egyesülés esetén. Ezeket az áttelepítéseket gondosan meg kell tervezni. Látogasson el a következő útmutatást:
+Előfordulhat, hogy a postaládák áttelepítését az Office 365 két különböző bérlői között kell megtenni, például szervezeti egyesülések esetén. Ezeket a migrációkat körültekintően kell megtervezni. Tekintse meg a következő útmutatót:
   
-[Hogyan kell a postafiókokat át egy Office 365 bérlő a másikba](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[Postaládák áttelepítése az egyik Office 365 bérlőből egy másikba](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

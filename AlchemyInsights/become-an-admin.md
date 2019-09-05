@@ -1,5 +1,5 @@
 ---
-title: Az Admin válik.
+title: Legyél admin
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 4/6/2018
@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: f322a0252f1198b110f5558cf1e3c6aa28ec1f78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517681"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736903"
 ---
-# <a name="become-an-admin"></a>Az Admin válik.
+# <a name="become-an-admin"></a>Legyél admin
 
-Tegyük fel, hogy a szervezet számára a rendszergazdai szerepkör, átveszi a bérlő kell.
+Hogy vállalja az admin szerepét a szervezet, meg kell átvenni a bérlő.
   
-Kövesse az utasításokat, az útmutató: [az Office 365 rendszerben egy admin nyilvános vételi lehetőségek](https://support.office.com/article/b9707ec8-2247-4e25-9bad-f11ddbc686e4)
+Kövesse az útmutató utasításait: [csinál egy admin felvásárlás az Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)

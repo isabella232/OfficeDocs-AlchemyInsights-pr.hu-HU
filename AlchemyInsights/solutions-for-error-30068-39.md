@@ -1,5 +1,5 @@
 ---
-title: Hiba 30068-39 megoldások
+title: A 30068-39-es hibára vonatkozó megoldások
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501693"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743347"
 ---
-# <a name="solutions-for-error-30068-39"></a>Hiba 30068-39 megoldások
+# <a name="solutions-for-error-30068-39"></a>A 30068-39-es hibára vonatkozó megoldások
 
-Ezek az oldatok [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)hiba kijavításához próbálkozzon:
+Próbálja ki ezeket az oldatokat a [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)hiba kijavításához:
   
-- Indítsa újra a számítógépet, és próbálja meg [telepíteni az Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Indítsa újra a számítógépet, és próbálkozzon az [Office telepítésével](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Ellenőrizze, hogy a **Microsoft kattintásra**[szolgáltatás le van tiltva](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , és ha le van tiltva, az állapot módosítása **kézi** vagy **automatikus**.
+- Ellenőrizze, hogy [le van](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) -e tiltva a **Microsoft kattintásra** szolgáltatás, és ha le van tiltva, módosítsa az állapotot **manuális** vagy **automatikus**állapotra.
 
-- Töltse le és telepítse a [támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Töltse le és telepítse a [támogatási és helyreállítási Segédet](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Megnyitása után az **Office eltávolítása termékek** jelölje ki a verziót szeretné eltávolítani, és kattintson a **Tovább gombra**.
+1. Amikor megnyílik, az **Office eltávolítása termékből** válassza ki az eltávolítani kívánt verziót, és válassza a **Next (tovább**)-t.
 
-2. Továbbra is a képernyőn keresztül, és indítsa újra a számítógépet, amikor a rendszer kéri.
+2. Folytatódik haladó átmenő ernyőz és újból kifejt számítógépetek mikor súgó.
 
-    Újraindítás után a támogatási és helyreállítási segéd automatikusan újra megnyitja az eltávolítási folyamat befejezéséhez.
+    Az újraindítás után a támogatási és helyreállítási segéd automatikusan újraindul az eltávolítási folyamat befejezéséhez.
 
-3. Kövesse a további utasításokat, és [telepítse újra az Office](https://portal.office.com/OLS/MySoftware.aspx) , vagy zárja be a Segéd.
+3. Kövesse a fennmaradó utasításokat, majd [telepítse újra az Office](https://portal.office.com/OLS/MySoftware.aspx) programot, vagy zárja be a Segédet.

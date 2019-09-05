@@ -1,5 +1,5 @@
 ---
-title: Yammer csoportok kezelése
+title: Csoportok kezelése a Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 8/3/2018
@@ -11,20 +11,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: e3b1c8d7bfab350f2ee4bede0515c90be8c1fad3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 657e2f11a18d22e63765f3781c92aa4be42af40c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496977"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735031"
 ---
-# <a name="manage-groups-in-yammer"></a>Yammer csoportok kezelése
+# <a name="manage-groups-in-yammer"></a>Csoportok kezelése a Yammer
 
-- **Csoport létrehozása engedélyt.** Yammer nem vonja ellenőrzés alá számára hozzon létre egy csoportot. Azonban akkor lehet kezeléséhez kapcsolódó Office 365-csoportok létrehozása. További tájékoztatás: [kezelés, akik az Office 365 csoportokat hozhat létre](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618).
+- **Csoportlétrehozási engedély.** Yammer nem irányít ki tud teremt egy csoport. A kapcsolódó Office 365-csoportokhoz azonban lehetőség van a csoportok létrehozásának kezelésére. További információkért tekintse meg az [Office 365 csoport létrehozása](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups) című témakört.
 
-- **A csoporttagság dinamikus.** Dinamikus tagsági létrehozásáról a Yammer kapcsolódó csoportok Office 365 hivatkozzon [dinamikus Yammer csoport létrehozása](https://support.office.com/article/create-a-dynamic-group-in-yammer-6d2a6ec7-1d65-46bb-b253-1bf441ec80a5).
+- **Dinamikus csoporttagság.** A yammer [dinamikus csoportjának létrehozása](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) további információt a yammer kapcsolódó Office 365-csoportok dinamikus tagságának létrehozásáról.
 
-- **Helyreállítása a törölt csoport.** Visszaállítása az Office 365 Yammer kapcsolódó csoportok segítségével [állítsa vissza a törölt Office 365 csoport](https://support.office.com/article/Restore-a-deleted-Office-365-Group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54) nem kapcsolódó lehetőség törlés után nem állítható vissza a csoportokat.
+- **A törölt csoportok visszaállítása.** Restoring Hivatal 365 összekapcsolt Yammer csoportok van lehetséges keresztül [visszaad egy töröl hivatal 365 csoport](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group) nem összekapcsolt csoportok nem tud lenni visszaad után törlés.
 
-[A Yammer csoport kezelése](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)témakörben talál további információt a Csoportházirend kezelése. Kapcsolódó Office 365-csoportokkal kapcsolatos további információ: [Yammer és az Office 365 csoportok](https://support.office.com/article/Yammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869)
+A csoportok kezelésével kapcsolatban további információt a [csoport kezelése Yammer-ben](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)című témakörben talál. A kapcsolódó Office 365-csoportokról a [Yammer és az office 365 groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)című témakörben olvashat.
   

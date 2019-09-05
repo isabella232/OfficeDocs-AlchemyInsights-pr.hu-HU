@@ -1,5 +1,5 @@
 ---
-title: ADFS összevonási tanúsítvány ennyi időn belül lejár
+title: Az ADFS összevonási tanúsítványának lejárása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c9922258c2d203cc07c1a1055ffa36c23a756115
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499893"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737191"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>ADFS összevonási tanúsítvány ennyi időn belül lejár
+# <a name="adfs-federation-certificate-expiring"></a>Az ADFS összevonási tanúsítványának lejárása
 
-A probléma megoldásához kövesse az alábbi lépéseket:
+A probléma megoldásához hajtsa végre az alábbi lépéseket:
   
-1. A Microsoft Azure Active Directory modult a Windows PowerShell telepítése a számítógépen (Ha a modul nincs még telepítve). Ehhez lépjen [kezelése a Windows PowerShell Azure AD](https://aka.ms/aadposh).
+1. A Microsoft Azure Active Directory-modul telepítése a számítógépre a Windows PowerShell környezethez (ha a modul még nincs telepítve). Ehhez nyissa meg a [Windows PowerShell eszközzel a Azure rendszer kezelését](https://aka.ms/aadposh).
 
-2. Kövesse az "1. eset: az AD FS-jogkivonat-aláíró tanúsítvány lejárt" részében a ["Hiba történt a webhely eléréséhez" hiba az Active Directory összevonási szolgáltatások összevont felhasználó bejelentkezik az Office 365, Azure, vagy Intune esetén](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Kövesse a "1. forgatókönyv: az Active Directory összevonási szolgáltatások jogkivonat-aláíró tanúsítványa lejárt" című szakaszt "a [hely elérésekor hiba történt" hibaüzenet, amikor egy szövetséges felhasználó bejelentkezik az Office 365, Azure vagy Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)szolgáltatásba,
 
-3. Kövesse a [frissítés, vagy a beállításokat az Office 365, Azure, vagy Intune összevont tartomány javítása](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+3. Kövesse a frissítés lépéseit, [vagy javítsa az összevont tartomány beállításait az Office 365, Azure vagy Intune tartományban](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
-    További információ összevonási ismerhet [Office 365 és Azure az Active Directory összevonási tanúsítványok megújítása](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)című témakörben talál.
+    További információt az összevonási tanúsítványok megújításáról [az Office 365 és a Azure Active Directory összevonási tanúsítványainak megújítása](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)című témakörben talál.

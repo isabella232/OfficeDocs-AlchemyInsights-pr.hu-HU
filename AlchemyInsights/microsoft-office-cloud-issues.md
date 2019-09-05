@@ -1,6 +1,6 @@
 ---
-title: Rendszergazdai és hozzárendelése
-ms.author: kirks
+title: Felügyeleti szerepkör és hozzárendelés
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544613"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754086"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Problémák lépnek fel a felhőalapú szolgáltatás?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Tapasztal problémákat felhő szolgáltatás?
 
-Ha egy felhőalapú szolgáltatás problémákat tapasztal, annak megállapítására, hogy egy ismert probléma a folyamatban lévő felbontással tanácsadásra vagy felkutatására idő előtt a Microsoft 365 felügyeleti központ [szolgáltatás egészségügyi](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ellenőrizheti. A probléma lehet nagyon ideiglenes, és a már azonosított, a Microsoft azonban lehetnek érvényét probléma azonosítása és az egészségügyi szolgáltatás irányítópult könyvelés között eltelt idő. Lépjen tovább a szolgáltatás irányítópult további frissítések ellenőrzése.
+Ha problémák merülnek fel egy felhőalapú szolgáltatással kapcsolatban, a Microsoft 365 admin központban ellenőrizheti a [szolgáltatás állapotát](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , így megállapíthatja, hogy az egy folyamatban lévő megoldás-e a támogatás hívása vagy az idő hibaelhárítása előtt. A kérdés lehet nagyon ideiglenes, és már a Microsoft által azonosított, azonban lehet, hogy elévül a kérdés azonosítása és feladása között a szolgáltatás egészségügyi műszerfal. További frissítésekért továbbra is ellenőrizze a szolgáltatás irányítópultját.
 
-**Értesítés házirend**
+**Értesítési szabályzat**
 
-A szolgáltatási esemény bekövetkeztekor a Microsoft felismerte, hogy időszerű, célzott és pontos kommunikáció ügyfelek kritikusak. A Microsoft Office 365 rendszergazdák az Office 365 rendszergazdai portál a bérlő-specifikus [Szolgáltatás egészségügyi irányítópult (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) frissítésével értesíti. Az óránkénti cadence a beeső frissítések szolgáltatás biztosított, vagy egy másik cadence szükség, ha azt fogja fel kell tüntetni a SHD kommunikációs könyvelés. További információért lásd: [Office 365 szolgáltatás állapotának ellenőrzése](https://docs.microsoft.com/office365/enterprise/view-service-health).
+A szolgáltatás eseményekor a Microsoft felismeri, hogy az időszerű, célzott és pontos kommunikáció létfontosságú az ügyfelek számára. Mikroszkóp bejelentendő Hivatal 365 ügyintéző mellett korszerűsítő a bérlő-különleges [szolgáltatás egészség műszerfal (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) -on Hivatal 365 admin bejárat. A szolgáltatási incidensek frissítései óránkénti lépésszám alatt állnak, vagy ha más lépésszám szükséges, akkor azt a RENDSZERÁLLAPOT-érvényesítők közleményével kapcsolatban meg kell adni. További információ: [Hogyan viselkedni ellenőriz hivatal 365 szolgáltatás egészség](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

@@ -1,5 +1,5 @@
 ---
-title: HRE identitás szinkronizálás állapotának ellenőrzése
+title: A AAD identitás szinkronizálási állapotának ellenőrzése
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520561"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738523"
 ---
-# <a name="check-aad-identity-sync-status"></a>HRE identitás szinkronizálás állapotának ellenőrzése
+# <a name="check-aad-identity-sync-status"></a>A AAD identitás szinkronizálási állapotának ellenőrzése
 
-Szinkronizálás állapotának ellenőrzése a következő könnyen:
+A szinkronizálási állapot ellenőrzése egyszerű:
   
-- Jelentkezzen be a Microsoft 365 felügyeleti központban, és válassza a **DirSync állapota** a kezdőlapon.
+- Jelentkezzen be a Microsoft 365 felügyeleti központba, és a kezdőlapon válassza a **Dirsync állapota** parancsot.
 
-- Felváltva, nyissa meg a felhasználók \> aktív felhasználók és az aktív felhasználók lapján válassza a több \> Directory-szinkronizálás.
+- Váltakozva, mehetsz-hoz \> használók aktivál használók, és-on Aktivál használók oldal, választ \> több címtár synchronization.
 
-- A címtár-szinkronizálás ablaktáblán válassza a DirSync management Ugrás.
+- A címtár-szinkronizálás ablaktáblán válassza az Ugrás a DirSync-kezelés pontra.
 
-A címtár-szinkronizálási probléma esetén, ezen az oldalon a hibák jelennek meg. További információt a különböző hibák fordulhatnak elő lásd: [Azonosítás címtár-szinkronizálási hibákat az Office 365 rendszerben](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+Ha probléma van a címtár-szinkronizálással, a hibák megjelennek ezen a lapon. Az esetlegesen előforduló különböző hibákról további információt az [Office 365 címtár-szinkronizálási hibák megtekintése](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)című témakörben talál.
   

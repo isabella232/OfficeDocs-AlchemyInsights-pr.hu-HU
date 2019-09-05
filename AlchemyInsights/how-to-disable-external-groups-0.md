@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541225"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739567"
 ---
 # <a name="how-to-disable-external-groups"></a>Külső csoportok letiltása
 
-A külső felhasználók hozzáférhetnek a hálózat a Yammer négy módja van.
+Négy módon külső felhasználók hozzáférhetnek a hálózathoz Yammer.
   
-1. **Vendégfelhasználók** - rendszergazdák Yammer az otthoni hálózat felhasználói is meghívhat külső tartományokban található ügyfeleket. Ezek a felhasználók fogják látni az összes vállalat takarmány és más csoportok is részt vegyen, valamint a hálózatok.
+1. **Vendég felhasználók** -Yammer adminok meghívhatnak partnereket külső domainről az otthoni hálózat felhasználóira. Ezek a felhasználók látni fogják az All Company hírcsatornát, és csatlakozhatnak más csoportokhoz is a hálózatokban.
 
-2. **Egy külső csoport a külső felhasználók** – külső csoportok engedélyezi a külső felhasználóknak. A külső csoport külső felhasználó hozzáférés köre korlátozódik. Külső csoportok Yammer hálózatok, amelyek lehetővé teszik a felhasználók részt vehetnek a külső beszélgetések névjegyeket csak meghívni.
+2. Külső csoport külső felhasználói – külső csoportok külső felhasználókat **is engedélyeznek** . A külső felhasználó hozzáférésének hatóköre a külső csoportra korlátozódik. Külső csoportokkal csak Yammer hálózatokból hívhat meg névjegyeket, amelyek lehetővé teszik a felhasználók számára, hogy külső beszélgetésekben vegyenek részt.
 
-3. **Yammer beszélgetést folytat egy belső csoport külső felhasználóknak** - Ez a beállítás lehetővé teszi a külső résztvevők hozzá kell adni egy adott beszélgetés során. Külső résztvevők csak beszélgetések kifejezetten felkérték őket és az adott téma mellékleteket vehet részt. Ezek a Yammer Beérkezett üzenetek (a saját hálózaton) keresztül beszélgetések hozzáférésük van. Ezek nem férhetnek hozzá a hálózat többi számítógépével.
+3. **Külső felhasználók egy Yammer-beszélgetésben, belső csoportban** -ez a beállítás lehetővé teszi, hogy a külső résztvevők egy adott beszélgetéshez hozzáadásra kerüljenek. A külső résztvevők csak olyan beszélgetésekben vehetnek részt, amelyeket kifejezetten meghívtak és a beszélgetésben szereplő mellékletekre is. Ezek a beszélgetések keresztül Yammer bejövõ (a hálózaton). Nem férnek hozzá a hálózat többi részéhez.
 
-4. **Külső hálózatok** - Ez a beállítás lehetővé teszi, hogy külső hálózaton, amelyet a hálózati rendszergazdák hozhat létre ellenőrzött külső felhasználók meghívása. Ez a beállítás olyan külső Közösségek elhelyezésére.
+4. **Külső hálózatok** -ez a beállítás lehetővé teszi külső felhasználók felkérét olyan külső hálózatra, amely ellenőrizte, hogy a rendszergazdák létrehozhatnak-e hálózatot. Ez az opció a legalkalmasabb a külső Közösségek befogadja.
 
-További információért tekintse át a [külső üzenetküldő résztvevők hozzáadása a Yammer beszélgetések](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) és [Üzenetek külső GYIK (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+További információkért tekintse [meg a külső üzenetküldő résztvevők hozzáadása a yammer beszélgetésekhez](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) és a [külső üzenetek GYIK (yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq) című részt.
   

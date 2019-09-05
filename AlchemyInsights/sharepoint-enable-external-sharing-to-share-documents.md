@@ -1,5 +1,5 @@
 ---
-title: Külső SharePoint Online megosztása
+title: Külső megosztás a SharePoint Online szolgáltatásban
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -8,47 +8,47 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 31db17a45814355f9594a340881660ba7010b1a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6f8772f614b3d33c4eb73c7645c9b09971619bcc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504249"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744499"
 ---
-# <a name="external-sharing-in-sharepoint-online"></a>Külső SharePoint Online megosztása
+# <a name="external-sharing-in-sharepoint-online"></a>Külső megosztás a SharePoint Online szolgáltatásban
 
-Ha a szervezet végez munkát, amely magában foglalja a dokumentumok megosztására, vagy közvetlenül a szállítók, ügyfelek vagy ügyfelek való együttműködés, akkor használhatja a [külső SharePoint online szolgáltatások megosztása](https://docs.microsoft.com/sharepoint/external-sharing-overview) megosztása kívüli személyeknek a szervezet.
+Ha a szervezet olyan munkát végez, amely dokumentumok megosztását vonja maga után, vagy együttműködik közvetlenül a szállítókkal, ügyfelekkel vagy ügyfelekkel, akkor a [SharePoint Online külső megosztási szolgáltatásaival](https://docs.microsoft.com/sharepoint/external-sharing-overview) tartalmakat oszthat meg a Szervezet.
 
-További információt a külső megosztást látogasson el az alábbi hivatkozásokra.
+További információk a külső megosztása kérjük, látogasson el az alábbi linkekre.
 
-- [Mi az a külső felhasználó?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Mi a külső felhasználó?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Mi történik, ha egy webhely vagy dokumentum megosztása?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Mi történik egy webhely vagy dokumentum megosztásakor?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 
 - [A külső megosztás be- és kikapcsolása a SharePoint Online-ban](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [Kapcsolja be a külső webhely megosztásának be- és kikapcsolása](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Külső megosztás be-és kikapcsolása a webhelyen](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Az alapértelmezett webhely típusonként megosztási beállítások](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [Alapértelmezés szerinti megosztási beállítások webhelytípusonként](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
 
-- [Extranet üzleti business (B2B) megoldás a Sharepoint Online használata](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [A SharePoint Online használata Business-to-Business (B2B) extranetes megoldásként](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [SharePoint-fájl vagy mappa megosztása](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [SharePoint-fájlok vagy-mappák megosztása](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [OneDrive vagy a SharePoint-fájlok vagy mappák megosztását, vagy az engedélyek módosítása](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Az OneDrive vagy SharePoint fájlok és mappák megosztásának leállítása vagy az engedélyek módosítása](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [Vendégként való hozzáférés a Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [A Microsoft-csapatok hozzáférése a vendéghez](https://docs.microsoft.com/MicrosoftTeams/guest-access)
 
-- [Microsoft Vendég megosztási beállítások útmutatója (Azure Active Directory, Microsoft 365 és SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings) 
+- [Microsoft vendég megosztási beállítások – referencia (Azure Active Directory, Microsoft 365 és SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings) 
 
 
 
-A külső felhasználó hibaüzenetet kap? &nbsp;Az alábbi hivatkozások ellenőrzése.
+Hibát kapok egy külső felhasználóval? &nbsp;Ellenőrizze az alábbi linkekre.
 
-- [Hibaüzenet jelenik meg, ha egy külső felhasználó SharePoint Online meghívást elfogad egy másik fiókkal](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0- )
+- [Hibaüzenet jelenik meg, amikor egy külső felhasználó elfogad egy SharePoint Online-meghívást egy másik fiókkal](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Hozzáférés megtagadva a megosztott mappa](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de)
+- [Megosztott mappához való hozzáférés megtagadva](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [Az OSE megosztása Sharepoint-és OneDrive hibák](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE megosztási hibák SharePoint és OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

@@ -1,5 +1,5 @@
 ---
-title: A SharePoint-webhely létrehozása
+title: SharePoint-webhely létrehozása
 ms.author: efrene
 author: efrene
 ms.date: 1/16/2019
@@ -14,27 +14,27 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 96780bd2f4182c1385406ec2a31cd62745137985
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515809"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738199"
 ---
-# <a name="create-a-sharepoint-site"></a>A SharePoint-webhely létrehozása
+# <a name="create-a-sharepoint-site"></a>SharePoint-webhely létrehozása
 
-További információt a SharePoint-webhely létrehozása a következő látható:
-- [Az új SharePoint-felügyeleti központ a helyek kezelése](https://docs.microsoft.com/sharepoint/manage-site-creation): tudnivalók a webhely létrehozási beállítások, többek között a klasszikus vagy egy csapatok helyen, amely nem tartalmazza az Office 365 csoport létrehozása.
-- [Létrehozása a SharePoint csoportwebhelyet](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): Útmutató a csoportwebhely létrehozása.
-- [A SharePoint Online kommunikáció hely létrehozása](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Útmutató kommunikációs webhelyet hozhat létre.
-- [Az új SharePoint-felügyeleti központ a helyek kezelése](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Útmutató a klasszikus vagy egy csoport helyen, amely nem tartalmazza az Office 365 csoport létrehozásához.
+A SharePoint-webhelyek létrehozásáról a következő témakörökben olvashat:
+- [Webhelyek kezelése az új SharePoint Admin Center](https://docs.microsoft.com/sharepoint/manage-site-creation): Ismerkedjen meg a webhely-létrehozási beállításokkal, beleértve azt is, hogyan hozhat létre egy Office 365-csoportot nem tartalmazó klasszikus webhelyet vagy csapat-webhelyet.
+- [Csoportwebhely létrehozása a SharePoint szolgáltatásban](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): útmutató a csoportwebhely létrehozásához.
+- [Kommunikációs webhely létrehozása a SharePoint Online szolgáltatásban](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): a kommunikációs webhely létrehozásának megtanulásáról.
+- [Webhelyek kezelése az új SharePoint felügyeleti központban](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): megtudhatja, hogyan hozhat létre olyan klasszikus webhelyet vagy csoportwebhelyet, amely nem tartalmaz Office 365-csoportot.
 
 
   
-> [! Tippek]
-> - A webhely nem hozható létre azonos egy meglévő webhely URL-címét. Ha törli egy webhely, és újra használni az URL-cím kívánó, lehetőség a törölt hely továbbra is a **Törölt helyek**alatt. Kezelheti a helyek Lásd, [törölheti a webhelyet](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)törli. A Powershell webhely teljes eltávolításához az [Eltávolítás-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) parancsmag példa látható
-> - Egyes felhasználók nem lehet webhelyet hozhat létre. Lásd: [Manage webhely létrehozása a SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Akkor lehet a webhely **létrehozása** a vártnál több a rögzített jelenik meg. 24 óránál hosszabb idő telt el azóta, először látta a probléma, ha jelentkezzen egy támogatási jegyet. Sok esetben azt már dolgozik a megoldáson. Adja meg a megoldás végrehajtásához legalább 24 órán keresztül.
-> - Ha létre kell hoznia egy új csoportwebhely, amely nem tartalmazza az Office 365 csoport 
+> [! Tippek
+> - Nem hozhat létre olyan helyet, ahol egy létező webhely URL-je azonos. Ha törölt egy webhelyet, és szeretné újrafelhasználni az URL-címet, lehetséges, hogy a törölt webhely a **törölt webhelyek**alatt is létezik. A törölt webhelyek kezeléséhez lásd: [webhely törlése](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Ha teljesen el szeretne távolítani egy webhelyet a PowerShell eszközzel, olvassa el az [Eltávolítás-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) parancsmaggal példát.
+> - Előfordulhat, hogy néhány felhasználó nem tud létrehozni egy webhelyet. További információ: [webhelylétrehozás kezelése a SharePoint Online szolgáltatásban](https://docs.microsoft.com/sharepoint/manage-site-creation).
+> - -A ' lehetséges a telek feltűnik megragadt-on **teremtő** hosszabb mint várt. Ha több mint 24 óra telt el mióta először meglátta ezt a problémát, kérjük, jelentkezzen be a támogatási jegyet. Sok esetben már dolgozunk a megoldásban. Kérjük, hogy a megoldás befejezéséhez legalább 24 órát adjon nekünk.
+> - Ha olyan új csoportwebhelyet kell létrehoznia, amely nem tartalmaz Office 365-csoportot, 
 
 

@@ -1,5 +1,5 @@
 ---
-title: A terminálkiszolgáló - nem licencelt office telepítése
+title: Office telepítése terminálkiszolgálón-nem licencelt
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498417"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735391"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>A terminálkiszolgálón futó Office telepítése
+# <a name="installing-office-on-a-terminal-server"></a>Az Office telepítése terminálkiszolgálón
 
-Találnak az Office 365 ProPlus a Windows Server távoli asztali szolgáltatások (RDS) segítségével, korábbi nevén a Terminálszolgáltatások:
+Az Office 365 ProPlus egy Windows Server rendszerben, a távoli asztali szolgáltatásokkal (RDS), korábban Terminálszolgáltatások néven történő telepítésével.
   
-- Az Office 365 terv, amely tartalmazza az Office 365 ProPlus, például az Office 365 vállalati E3 vagy vállalati E5 kell rendelkeznie. Az Office 365 üzleti és az Office 365 Business Premium tervek nem tartalmazzák az Office 365 ProPlus.
+- Rendelkeznie kell egy Office 365 terv, amely tartalmazza az Office 365 ProPlus, mint például az Office 365 Enterprise E3 vagy Enterprise E5. A Hivatal 365 teendő és Hivatal 365 teendő prémium tervek nem tartalmaz Hivatal 365 ProPlus.
 
-- [Megosztott számítógép-aktiválásnak](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)engedélyezni kell.
+- Engedélyeznie kell a [megosztott számítógép aktiválását](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Ha a telepíteni kívánt Office 365 ProPlus a távoli asztali szolgáltatások az Office 365 Portal, ***alapértelmezett telepítési beállításokat használó***, kövesse az alábbi lépéseket:
+Ha ön akar-hoz felszerel hivatal 365 ProPlus-ra RDS-ból Mikroszkóp 365 admin központ, ***melyik használ hiba bevezetés elintézés***, követ ezek lép:
   
-1. Ellenőrizze, milyen Office 365 terv van. [Tájékoztatás arról, hogyan](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Ellenőriz mi Hivatal 365 tervez Önnek van. [Ismerje meg, hogyan](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Ha szükséges, váltson egy másik Office 365 tervezi. [Tájékoztatás arról, hogyan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Ha szükséges, váltson át egy másik Office 365-tervre. [Ismerje meg, hogyan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Ha Office az RDS kiszolgáló használatával bármely más Office 365 tervek már telepítve van, távolítsa el azt. Például a Vezérlőpulton által \> távolítsa el a programot. Távolítsa el a problémák történő futtatása esetén használja a [Microsoft támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy) .
+3. Ha az Office már telepítve van az RDS-kiszolgálón más Office 365-tervek használatával, távolítsa el azt. Például, mellett haladó irányít tábla \> uninstall egy műsor. Eltávolítás a [Microsoft támogatási és helyreállítási segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy) használatával, ha problémába fut.
 
-4. A távoli asztali kiszolgálón jelentkezzen be a rendszergazdai fiókot, és [telepítse az Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx)az Office 365 portálon.
+4. Az RDS-kiszolgálón jelentkezzen be a Microsoft 365 felügyeleti központba a rendszergazdai fiókkal, és telepítse az [Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx)programot.
 
-5. Office telepítését követően ***Ne nyisson meg és jelentkezzen be*** minden Office alkalmazást.
+5. Az Office telepítését követően ***Ne nyisson meg és ne jelentkezzen be*** Office-alkalmazásokat.
 
-6. A távoli asztali kiszolgálón engedélyezi a megosztott számítógép-aktiválás a rendszerleíró adatbázisban a következő lépések végrehajtásával:
+6. Az RDS-kiszolgálón a beállításjegyzék szerkesztésével engedélyezze a megosztott számítógép aktiválását az alábbi lépések végrehajtásával:
 
-1. Kattintson a jobb gombbal a Windows gombra a képernyő bal alsó sarkában, és válassza a Futtatás. A Megnyitás mezőbe írja be a **regedit parancsot**, és kattintson az OK gombra.
+1. Kattintson a jobb gombbal a képernyő bal alsó sarkában található Windows gombra, és válassza a Futtatás pontot. A Megnyitás mezőbe írja be a **Regedit**parancsot, majd kattintson az OK gombra.
 
-2. Válassza az Igen megjelenésekor a Rendszerleíróadatbázis-szerkesztő segítségével módosíthatja az eszköz.
+2. Amikor a rendszer megkérdezi, hogy engedélyezi-e a Rendszerleíróadatbázis-szerkesztőt az eszköz változtatásakor, válassza az Igen beállítást.
 
-3. A Rendszerleíróadatbázis-szerkesztő **SharedComputerLicensing** karakterlánc értéke 1 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration alapján adja hozzá.
+3. A Rendszerleíróadatbázis-szerkesztőben adja hozzá a **Sharedcomputerlicensing** karakterlánc-értéket, amelynek beállítása 1, HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Az RDS kiszolgáló, ***a felhasználó bejelentkezés*** és [Ellenőrizze, hogy a megosztott számítógép-aktiválásnak az Office 365 ProPlus van engedélyezve](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Az RDS-kiszolgálón ***Jelentkezzen be végfelhasználóként*** , és ellenőrizze, [hogy a megosztott számítógép aktiválása engedélyezve van-e az Office 365 ProPlus esetében](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Előfeltételek, a telepítési utasításokat és útmutatást az Office telepítési eszköz segítségével testreszabott példányokat részletesebben lásd [Telepítése Office 365 ProPlus távoli asztali szolgáltatások használatával](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Ha többet kíván megtudni az előfeltételekről, a telepítési utasításról és a testreszabott telepítések útmutatásával kapcsolatban az Office Deployment Tool alkalmazással, olvassa el az [office 365 ProPlus telepítése című témakört a távoli asztali szolgáltatások segítségével](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Megosztott számítógép-aktiválásnak kapcsolatos hibák elhárításához tanulmányozza [az Office 365 ProPlus megosztott számítógépen aktiválási problémák elhárítása](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+A megosztott számítógép-aktiválással kapcsolatos hibák kijavításához tekintse meg [az Office 365 ProPlus számítógép-aktiválási problémáinak elhárítása](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)című témakört.
   

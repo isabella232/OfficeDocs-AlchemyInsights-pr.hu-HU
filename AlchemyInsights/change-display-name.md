@@ -1,5 +1,5 @@
 ---
-title: 959 megjelenítendő nevének módosítása
+title: 959 a megjelenítendő név megváltoztatása
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519805"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736723"
 ---
-# <a name="change-your-display-name"></a>A megjelenítendő név megváltoztatása
+# <a name="change-your-display-name"></a>A megjelenítendő név módosítása
   
-Az Outlook programban a megjelenítendő név megváltoztatásához használja az alábbi lépéseket.
+A megjelenítendő név Outlook programban történő módosításához hajtsa a következő lépéseket.
   
-1. Az Outlook programban válassza a **fájl** \> **Fiókbeállítások** \> **Fiók beállításait**.
+1. Az Outlook programban jelölje be a \> **fájlfiók beállításainak** \> **fiókbeállításai**választógombot. ****
 
-2. Jelöljük ki az e-mail fiókot, és válassza a **Módosítás**.
+2. Kiválaszt a elektronikus levél számla aztán kiválaszt **cserél**.
 
     > [!NOTE]
-    > Ha nem jelenik meg a megjelenítendő név módosításának lehetőségét, valószínűleg egy Microsoft Exchange e-mail fiókot használ. Ebben az esetben van szüksége, kérje a rendszergazdát, hogy módosítsa a megjelenítési nevet. Lásd: [változtassa meg a nevét és e-mail címét az Office 365 rendszerben](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Ha nem látja a megjelenítendő név módosítását, valószínűleg Microsoft Exchange e-mail fiókot használ. Ebben az esetben a megjelenítendő név megváltoztatásához kapcsolatba kell lépni a rendszergazdával. További információ: [felhasználói név és e-mail cím módosítása az Office 365-ben](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Miután megváltoztatta a nevet, kattintson az **OK gombra** a módosítások mentéséhez. A módosítások megjelennek a szervezeten belül néhány óráig is eltarthat.
+3. Miután módosította a megjelenítendő nevet, kattintson **az OK** gombra a változtatások mentéséhez. Néhány óráig is eltarthat, míg a módosítások a teljes szervezetben tükröződhetnek.
 
-További információért lásd: [a megjelenítési név, amelyet a címzett módosítása](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+További információt [az e-mail címzettek által megjelenített megjelenítendő név módosítása](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)című témakörben talál.
   

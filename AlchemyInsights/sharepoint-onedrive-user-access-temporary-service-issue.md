@@ -1,6 +1,6 @@
 ---
-title: Teljesítmény problémák SharePoint- vagy OneDrive
-ms.author: kirks
+title: Teljesítménnyel kapcsolatos problémák-SharePoint vagy OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 880b2bdd7b74f4365bcbff73a709d42e72be0e3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7e218cfff81274cd16d55dec2c5243eb8b74a3b7
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535177"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750558"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>A SharePoint- vagy OneDrive lassú, nem elérhető vagy nem érhető el, ha több felhasználó
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint vagy OneDrive lassú, nem elérhető vagy nem érhető el több felhasználó számára
 
-Több felhasználó, aki korábban az access OneDrive vagy a SharePoint webhely nem érhető el, ha a szolgáltatás átmeneti probléma lehet. [Ellenőrizze a szolgáltatás egészségügyi irányítópult](https://portal.office.com/adminportal/home#/servicehealth).
+Ha egy OneDrive vagy SharePoint webhely nem érhető el több olyan felhasználó számára, akik korábban már hozzáfértek, akkor lehet, hogy ideiglenes szervizhiba történt. [Ellenőrizze a szolgáltatás állapotirányítópultját](https://portal.office.com/adminportal/home#/servicehealth).
 
-**Adjunk hozzá, és a felhasználói licenc**
+**A felhasználó hozzáadása és licence**
 
-Győződjön meg arról, amikor a [felhasználók az Office 365 rendszerben üzleti licencek hozzárendelése](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Győződjön meg arról, hogy [licenceket rendel az Office 365 for Business felhasználókhoz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 
 **Engedélyek hozzárendelése**
 
-Ha a felhasználó Sharepoint licencre van rendelve, és továbbra is a hozzáférés megtagadva üzenetet kap, ellenőrizze, hogy rendelkezik a [megfelelő jogosultsági szint](https://docs.microsoft.com/sharepoint/understanding-permission-levels) hozzárendelt.
+Ha a felhasználóhoz SharePoint-licenc van rendelve, és továbbra is kap hozzáférés-megtagadási üzenetet, győződjön meg arról, hogy a [megfelelő jogosultsági szint](https://docs.microsoft.com/sharepoint/understanding-permission-levels) van hozzárendelve.
 
-**Fontolja meg a hozzáférési kérelem szolgáltatás**
+**Fontolja meg a hozzáférés-kéra szolgáltatás használatát**
 
-A [hozzáférési kérelem szolgáltatás](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) segítségével a felhasználók a tartalom megtekintéséhez engedéllyel jelenleg nem rendelkeznek hozzáférést kérni.
+Az [Access kérelem szolgáltatása](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) lehetővé teszi a felhasználók számára olyan tartalmak elérését, amelyekhez jelenleg nincs engedélyük.
 
-**Lehetővé teszi egyéni parancsfájl hozzáférés megtagadva problémákat okozhat.**
+**Az egyéni parancsfájlok engedélyezhetnek hozzáférés-megtagadási problémákat**
 
-Vannak bizonyos helyzetek, ahol az *egyéni parancsfájlok engedélyezése* a szolgáltatás lehet tárni a hozzáférés megtagadva. Az érintett szolgáltatások listáját, biztonsági megfontolások és képessége, hogy tiltsa le a szolgáltatást. Látogasson el a [engedélyezése vagy tiltása egyéni parancsfájl](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Vannak olyan helyzetek, amikor az *egyéni parancsfájl engedélyezése* funkció nem engedélyezi a hozzáférés megtagadásáról való hozzáférést. Az érintett szolgáltatások felsorolása, biztonsági megfontolások és a szolgáltatás letiltásának lehetősége. Kérjük, látogasson el az [egyéni parancsfájl engedélyezése vagy tiltása](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 

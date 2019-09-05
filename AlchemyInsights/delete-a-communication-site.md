@@ -1,6 +1,6 @@
 ---
-title: Kommunikációs webhely törlése
-ms.author: kirks
+title: Kommunikációs hely törlése
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 847a340d4d3a05c97fd86f48bf42f7c22859f1b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514130"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748002"
 ---
-# <a name="delete-a-communication-site"></a>Kommunikációs webhely törlése
+# <a name="delete-a-communication-site"></a>Kommunikációs hely törlése
 
-Kommunikációs hely törléséhez hajtsa végre az alábbi lépéseket: 
+A következő lépésekkel törölhet egy kommunikációs helyet: 
   
-1. Látogasson el a webhelyre. 
+1. Ugrás a portálra. 
   
-2. Kattintson a jobb felső részén a beállítások ikonra (a sebességváltó). 
+2. Kattintson a Beállítások ikonra (a fogaskerék) a jobb felső sarokban. 
   
-3. A **Helyinformáció** **hely törlése**gombra, és válassza a **Törlés**. 
+3. A **webhely adatai**csoportban kattintson **a webhely törlése**elemre, majd kattintson a **Törlés**gombra. 
   
-A rendszergazdák úgy is törölheti, kommunikációs hely az új admin Center a következő lépéseket: 
+A rendszergazdák a következő lépések végrehajtásával törölhetnek egy kommunikációs webhelyet az új felügyeleti központból: 
   
-1. A bal oldalon válassza az **aktív helyek** . 
+1. Válassza ki a bal oldalon az **aktív webhelyeket** . 
   
-2. Kattintson a Tovább gombra a webhely törlése, és a felső menü jelenik meg a **Törlés** gombra. 
+2. Kattintson a törölni kívánt webhely melletti nyílra, és a felső menüből megjelenik egy **törlési** lehetőség. 
   
- **Megjegyzés:** Ha szeretné, hogy véglegesen törli a kommunikációs helyet (eltávolításával a Lomtárból) így újra használhatja a webhely URL-CÍMÉT, használja a [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) a Lomtár és a hely eltávolítása a Lomtár [Eltávolítása-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) . 
+ **Megjegyzés:** Amennyiben véglegesen törölni szeretné a kommunikációs webhelyet (eltávolítva azt a Lomtárból), hogy újra felhasználd a webhely URL-címét, használd a [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) , hogy kiértékelje a Lomtárat és az [Eltávolítás-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) távolítsa el a webhelyet a Lomtárba. 
   
 

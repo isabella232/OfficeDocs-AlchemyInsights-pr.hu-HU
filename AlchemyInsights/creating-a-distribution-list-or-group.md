@@ -1,5 +1,5 @@
 ---
-title: 711 csoport vagy terjesztési lista létrehozása
+title: 711. terjesztési lista vagy csoport létrehozása
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: d2fda9d8dd238b5c7881930b02bdd04de6bff3bf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ed2e30b37f521d3c93fcffed281dbbb0c355d305
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665258"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740755"
 ---
-# <a name="create-distribution-groups"></a>A terjesztési csoportok létrehozása
+# <a name="create-distribution-groups"></a>Terjesztési csoportok létrehozása
 
-E-mail üzenetek kézbesítése a csoportoknak a szervezeten kívül és belül terjesztési csoportokat (más néven terjesztési listák) használja az Office 365 rendszerben. Létrehozásával könnyen! Útmutatásért lásd: a [terjesztési lista létrehozása a Microsoft 365 felügyeleti központban](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
+Az Office 365 terjesztési csoportok (más néven terjesztési listák) segítségével e-mail üzeneteket továbbít a szervezeten belüli és kívüli személyek csoportjaihoz. Létrehozása ezek egyszerű! További útmutatás: [terjesztési listák létrehozása a Microsoft 365 felügyeleti központban](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).
 
-**Megjegyzés**: az admin kell kezelnie a terjesztési csoport tagságát. Ha azt szeretné, hogy a felhasználók saját csoporttagság kezelése, érdemes lehet inkább fontolja meg az [Office 365 csoportok](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .
+**Megjegyzés**: az adminisztrátornak egy terjesztési csoport tagságát kell kezelnie. Ha azt szeretné, hogy a felhasználók kezeljék saját csoporttagsági listáit, érdemes megfontolni az [Office 365 csoportok](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) kezelését.

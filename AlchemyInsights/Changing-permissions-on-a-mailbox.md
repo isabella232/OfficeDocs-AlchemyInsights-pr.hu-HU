@@ -1,5 +1,5 @@
 ---
-title: A postaláda-engedélyek módosítása
+title: Postaládára vonatkozó engedélyek módosítása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661406"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734383"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>A postaláda-engedélyek módosítása
+# <a name="changing-permissions-on-a-mailbox"></a>Postaládára vonatkozó engedélyek módosítása
 
-Ha a felhasználók az Office 365 postafiókok anyanyelvükön kívül hozzáféréssel kell rendelkezniük, engedélyt adott postaládák dolgozni kell. A postafiók típusától függ, hogyan rendelhet engedélyeket. Ha a felhasználóknak hozzáféréssel kell rendelkezniük:
+Ha a felhasználóknak a sajátjaiktól eltérő, Office 365-postaládákra van szükségük, engedélyeket kell adni a postaládák munkájához. Az engedélyek hozzárendelése a postaláda típusától függ. Ha a felhasználóknak szükségük van a:
   
-- Más felhasználói postaládák - lásd [az Office 365 rendszerben egy másik felhasználó postaláda engedélyeket biztosíthat](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Más felhasználó postafiókja-kérjük, tekintse meg a [postaláda engedélyeinek megadása az Office 365 egy másik felhasználójának](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- A megosztott postaláda - olvassa el a [megosztott postafiókjából tagok hozzáadása vagy eltávolítása](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Megosztott postafiók – [Tagok hozzáadása vagy eltávolítása megosztott postaládából](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Engedélyek nem működnek megfelelően, ezt követően a fenti lépéseket, ha az Exchange rendszergazda központ menjen, és próbálja meg (lásd: [Manage permissions címzettek](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)) onnan az engedélyek beállításához.
+Ha a fenti lépések végrehajtása után az engedélyek nem működnek megfelelően, látogasson el az Exchange felügyeleti központba, és próbálja meg beállítani az ott található engedélyeket (lásd: [címzettek engedélyeinek kezelése](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

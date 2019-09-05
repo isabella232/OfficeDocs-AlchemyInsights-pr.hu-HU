@@ -1,5 +1,5 @@
 ---
-title: Külső felhasználó nem tudja elérni a SharePoint Online tartalom
+title: A külső felhasználó nem fér hozzá a SharePoint Online szolgáltatásban lévő tartalomhoz
 ms.author: efrene
 author: efrene
 ms.date: ''
@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e948fc3fbba4b82904023b8da08b9ea723be694d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 06e964ec2d9f8b9cf1a8185ce78f067e7a0e42e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503925"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744103"
 ---
-# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>Külső felhasználó nem tudja elérni a SharePoint Online tartalom
+# <a name="external-user-is-unable-to-access-content-in-sharepoint-online"></a>A külső felhasználó nem fér hozzá a SharePoint Online szolgáltatásban lévő tartalomhoz
 
-Ha egy külső felhasználó kérték, és nem férhetnek hozzá a tartalomhoz, próbálja meg az alábbi hivatkozások látogat.
+Ha egy külső felhasználó meghívást kapott, és nem tud hozzáférni a tartalomhoz, kérjük, próbáljon meg ellátogatni az alábbi linkekre.
 
-- [Hibaüzenet jelenik meg, ha egy külső felhasználó SharePoint Online meghívást elfogad egy másik fiókkal](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Hibaüzenet jelenik meg, amikor egy külső felhasználó elfogad egy SharePoint Online-meghívást egy másik fiókkal](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Hozzáférés megtagadva a megosztott mappa](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [Megosztott mappához való hozzáférés megtagadva](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [Az OSE megosztása Sharepoint-és OneDrive hibák](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE megosztási hibák SharePoint és OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

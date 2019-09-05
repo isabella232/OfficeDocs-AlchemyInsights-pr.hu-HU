@@ -1,6 +1,6 @@
 ---
-title: A SharePoint Online Ismerkedés
-ms.author: kirks
+title: Bevezetés a SharePoint Online használatbaveléshez
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: a13c5d7066e6a703e627adfbef1157e85138f447
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a0e896567eda5845913e51d4e01d6959f8f5a98b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502377"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749442"
 ---
-# <a name="workflows-in-sharepoint"></a>A SharePoint munkafolyamatok
+# <a name="workflows-in-sharepoint"></a>Munkafolyamatok a SharePoint rendszerben
 
-SharePoint-munkafolyamat olyan előre programozott mini-alkalmazások, amelyek modernizálása és számos üzleti folyamatok automatizálásához. A munkafolyamatok terjedhet gyűjtő aláírások, visszajelzést vagy a terv vagy a dokumentum, jóváhagyások rutin eljárás aktuális állapotának nyomon követése.
+A SharePoint-munkafolyamatok előre programozott kisméretű alkalmazások, amelyek az üzleti folyamatok széles skáláját ésszerűsítik és automatizálják. A munkafolyamatok a tervhez vagy dokumentumhoz tartozó aláírások, visszajelzések és jóváhagyások gyűjtésével is köre a rutineljárás aktuális állapotának nyomon követésére használható.
 
-**Az első lépések:** Ha Ön éppen csak Bevezetés a SharePoint-munkafolyamatok, lásd a [bevezetést SharePoint-munkafolyamatok további információért](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+**Első lépések:** Ha csak most kezdte el a SharePoint-munkafolyamatokat, [További információért olvassa el a SharePoint-munkafolyamatok bemutatása](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)című témakört.
 
-**Microsoft áramlás**: Microsoft Flow fontolja meg a klasszikus SharePoint munkafolyamat-megoldások helyett. További információért lásd: [Create egy lista vagy tár a SharePoint Online vagy a OneDrive folyamata](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+**Microsoft flow**: fontolja meg a Microsoft flow használatát a klasszikus SharePoint munkafolyamat-megoldások helyett. További információ: [adatfolyam létrehozása listához vagy tárhoz a SharePoint Online vagy az OneDrive alkalmazásban](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
 
 **Munkafolyamat – hibaelhárítás és hibakeresés**:
 
-Hibakeresés a munkafolyamat hasonlít az előző verziók. További információért lásd: [Hibakeresés SharePoint-munkafolyamatok](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Hibaelhárításával kapcsolatos további információért lásd: [a SharePoint Server – problémamegoldás munkafolyamat érvényesség-ellenőrzési hibák](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+A korábbi verziókhoz hasonló hibakeresési munkafolyamatok. További információt a SharePoint- [munkafolyamatok hibakeresése](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)című témakörben talál. További információt a hibaelhárításról a [SharePoint Server munkafolyamat-érvényesítési hibáinak elhárítása](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)című témakörben talál.
 

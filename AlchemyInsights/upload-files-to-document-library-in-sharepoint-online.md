@@ -1,6 +1,6 @@
 ---
-title: OneDrive vagy SharePoint fájlfeltöltés
-ms.author: kirks
+title: Fájlok feltöltése a OneDrive vagy SharePoint
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: ddb29e04597e86ee4e54d700666548b5d2b30a81
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1494e0009634942e8720859b39ccc5a0caf70aee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660830"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748523"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>OneDrive vagy SharePoint fájlfeltöltés
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Fájlok feltöltése a OneDrive vagy SharePoint
 
-Húzással csak azokat a számítógépről őket a dokumentumtárba, fel tudnak tölteni fájlokat a SharePoint Online egy dokumentumtárba. OneDrive, és szinkronizálhatja fájlok a számítógép és a felhő között úgy érheti el a fájlok bárhonnan. A szinkronizált fájlok közvetlenül az Intézőt, és hozzáférjenek a fájlokhoz, akkor is, ha offline módban is. További tájékoztatást a fel- és szinkronizálási látogasson el az alábbi hivatkozásokra.
+A SharePoint Online szolgáltatásban fájlokat tölthet fel egy dokumentumtárba, és a számítógépről egyszerűen áthúzhatja azokat a dokumentumtárba. -Val OneDrive, tudod szinkronizál fájlokat között számítógépetek és a felhő, tehát tudod eljut-a fájlokat bárhonnan. A szinkronizált fájlokkal közvetlenül is dolgozhat a Fájlintézőben, és akkor is hozzáférhet a fájlokhoz, ha éppen nincs kapcsolat nélküli módban. További információért-ra feltöltő és szinkronizál, legyen szíves látogat a láncszemek alul.
 
-- [Egy mappa vagy fájl feltöltése](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+- [Mappa vagy fájlok feltöltése könyvtárba](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 
-- [Szinkronizálás segítségével feltöltése](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Feltöltés szinkroniza használatával](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
 
-- [Korlátok fájl (érvénytelen karaktereket, feltöltési fájlméretet, elérési út hossza, stb..)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Fájlkorlátok (érvénytelen karakterek, fájlfeltöltés mérete, elérési út hossza, stb.)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- [OneDrive szinkronizálási problémák megoldása](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [Fix OneDrive szinkron problémák](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [A OneDrive webhelyen a fájlok feltöltésével kapcsolatos problémák megoldása](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
+- [Problémák megoldása a fájlok feltöltése az OneDrive weboldalon](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
 
-- [Maximális feltöltési és letöltési sebesség](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [Maximalizál feltölt és letölt sebesség](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)

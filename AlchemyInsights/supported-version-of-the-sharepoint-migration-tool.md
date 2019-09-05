@@ -1,6 +1,6 @@
 ---
-title: A SharePoint frissítőeszköz támogatott verziója
-ms.author: kirks
+title: A SharePoint-áttelepítési eszköz támogatott verziója
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/9/2019
 ms.audience: ITPro
@@ -9,19 +9,19 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
-ms.openlocfilehash: d5d4024fb9fd77f913f92d280620161534a574e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d355a854b24bcd81e5017af0666481c633c6814
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534241"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749334"
 ---
-# <a name="supported-version-of-the-sharepoint-migration-tool"></a>A SharePoint frissítőeszköz támogatott verziója
+# <a name="supported-version-of-the-sharepoint-migration-tool"></a>A SharePoint-áttelepítési eszköz támogatott verziója
 
 
 
-A SharePoint Migration Tool jelenleg csak a SharePoint 2013 áttelepítéseket támogatja. Jelenleg nem támogatottak a verziók 2010 és a 2016.
+Jelenleg a SharePoint áttelepítési eszköz csak a SharePoint 2013. Változatok 2010 és 2016 nem támogatja ebben az időben.
   
-További információt talál [a SharePoint frissítőeszköz bevezetéséről](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
+További információt [a SharePoint-áttelepítési eszköz bemutatása](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409)című témakörben talál.
   
 

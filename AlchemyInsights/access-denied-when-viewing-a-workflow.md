@@ -1,6 +1,6 @@
 ---
-title: Hozzáférés megtagadva a munkafolyamat megtekintésekor
-ms.author: kirks
+title: A munkafolyamatok megtekintésekor a hozzáférés megtagadva
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495825"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747750"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Hozzáférés megtagadva a munkafolyamat megtekintésekor
+# <a name="access-denied-when-viewing-a-workflow"></a>A munkafolyamatok megtekintésekor a hozzáférés megtagadva
 
-Kísérli meg egy e-mailt küldhet egy SharePoint-csoporthoz SharePoint 2013 munkafolyamatok "Hozzáférés megtagadva" hibaüzenettel sikertelen lehet, ha a SharePoint-csoport tagjainak van mindenki számára.
+SharePoint 2013 a SharePoint-csoportnak e-mailt küldeni próbálő munkafolyamatok "hozzáférés megtagadva" hibaüzenetet küldhetnek, ha a SharePoint-csoport tagsága nem mindenki értékre van állítva.
   
- **A probléma megoldásához hajtsa végre ezeket a lépéseket:**
+ **A probléma megoldásához hajtsa a következő lépéseket:**
   
- 1. Lehetővé teszi mindenki megtekintheti a SharePoint-csoport tagjai.
+ 1. Engedélyezze, hogy mindenki lássa a SharePoint-csoport tagjait.
   
- 2. A SharePoint-csoport eltávolítása a címzett vagy másolatot kap sor az e-mail.
+ 2. Távolítsa el a SharePoint-csoportot az e-mail Címzett vagy másolatot kap sorába.
   
- 3. Explicit módon vegye fel a címzett vagy másolatot kap sor, ha a SharePoint-csoport tagság láthatósága nem módosítható.
+ 3. Ha a tagság láthatóságát a SharePoint-csoport esetében nem lehet módosítani, explicit módon adja hozzá a felhasználókat a címzett vagy a másolatot kap sorhoz.
   
-Megtekintése további részletekért olvassa el [/_vti_bin/client.svc/sp.utilities.utility.SendEmail a nem hitelesített HTTP](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+További részletekért lásd a [http jogosulatlan a/_vti_bin/Client.SVC/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

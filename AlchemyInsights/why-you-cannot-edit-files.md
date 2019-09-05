@@ -1,6 +1,6 @@
 ---
-title: Fájl zárolva van szerkesztésre
-ms.author: kirks
+title: Szerkesztésre zárolt fájlok
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/26/2018
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 83703435b5700bea2f03896ee9f154d5bb05e7d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b73797749acae52aae66875691669930e1589904
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558331"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748362"
 ---
-# <a name="why-cant-i-edit-files"></a>Miért nem lehet szerkeszteni a fájlokat?
+# <a name="why-cant-i-edit-files"></a>Miért nem tudom szerkeszteni a fájlokat?
 
-Ha a dokumentum, munkafüzet vagy bemutató szerkesztésre zárolva van, és nem nyitható meg a Windows asztali alkalmazások, lehet, hogy valaki más már szerkeszti a fájlt, vagy rendelkeznek a kivett fájlt. A következőkben néhány okok [Miért nem szerkesztheti a fájlt lehet](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)egy gyors pillantást.
+Ha egy dokumentum, munkalap vagy bemutató zárolva van szerkesztésre, és nem nyitható meg a Windows asztali alkalmazásokban, akkor elképzelhető, hogy a fájlt valaki más szerkeszti, vagy a fájlt kivették. Vessünk egy gyors pillantást néhány oka annak [, hogy miért nem tudja szerkeszteni a fájlt](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Ha ** **kivételt, szükséges** , illetve** oszlopok és metaadatok könyvtárak vagy **Piszkozatelemek biztonsági beállításai** **csak olyan felhasználók, akik módosíthatják** vagy **aki jóváhagyhatja az elemek csak a felhasználói** beállítások verzió van állítva a könyvtár:
+Ha rendelkezik a **Checkout, a kötelező** vagy az **érvényesítési** oszlopokat vagy a metaadatokat tartalmazó könyvtárakkal, vagy ha az **Elembiztonság vázlatát** csak azok a felhasználók beállják, **akik szerkeszthetik** vagy csak azokat a **felhasználókat, akik jóváhagyhatják az elemek** verzióbeállításainak Könyvtár:
 
-- SharePoint-dokumentumtárak ezeket az elemeket a program szinkronizálja a csak olvasásra.
+- A SharePoint-dokumentumtárak esetében ezeket az elemeket csak olvasottként szinkronizálja a rendszer.
 
-- OneDrive tárak a OneDrive jelennek meg egy lakat ikon (OneDrive fájl zárolva ikon) mellett a szinkronizálási állapot és a felhasználó nem tudják szinkronizálni a műsortárban, mindaddig, amíg az említett beállítások el lettek távolítva. 
+- Részére OneDrive könyvtárak, OneDrive akarat mutat egy bezár ikon (OneDrive reszelő zárt ikon) mellett a szinkronizál helyzet és a felhasználó akarat nem képesnek lenni megtenni szinkronizál a könyvtár amíg a említett elintézés volt távoli. 
 
-További információt a Word vagy Excel zárolt fájlok hivatkozást az alábbi cikkek.
+A Word vagy az Excel zárolt fájljára vonatkozó további információért kérjük, hogy az alábbi cikkekre hivatkozunk.
 
-- [Excel-fájlt egy másik felhasználó szerkesztésre zárolta](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Az Excel-fájl zárolva van szerkesztésre egy másik felhasználó](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [A Word fájlt egy másik felhasználó szerkesztésre zárolta](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [A Word-fájl szerkesztésre zárolva van egy másik felhasználó által](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

@@ -1,5 +1,5 @@
 ---
-title: Hozzon létre, és a megosztott postafiók
+title: Megosztott postaláda létrehozása és használata
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37ac75c7aa0bac4e9f037d6cfa44b93a526977aa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515953"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736507"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Hozzon létre, és a megosztott postafiók
+# <a name="create-and-use-a-shared-mailbox"></a>Megosztott postaláda létrehozása és használata
 
-Megosztott postafiókjából lehetővé teszi, hogy több felhasználó küldhet és fogadhat e-mail alias **sales@contoso.com**, mint a másik licenc hozzárendelése nélkül.
+A megosztott postaláda lehetővé teszi, hogy egynél több személy küldjön és fogadjon e-mailt egy aliashoz, például **Sales@contoso.com**, anélkül, hogy másik licencet rendelne.
   
-[Megosztott postafiók létrehozása](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) elmagyarázza, hogyan kell: 
+[Hozzon létre egy megosztott postafiókot](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) : 
   
 - Megosztott postaláda létrehozása
     
-- A felhasználók helyhasználati engedélyek beállításához egy megosztott postafiók
+- A felhasználók számára engedélyeket adjon meg a megosztott postaláda használatához
     
-- Hozzáférés a megosztott postaládához az Outlook vagy az Outlook a weben
+- A megosztott postaláda elérése az Outlook vagy az Outlook alkalmazásban a weben
     
 

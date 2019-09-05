@@ -1,5 +1,5 @@
 ---
-title: Megnyitás Explorer használatával kapcsolatos problémák elhárítása
+title: A Megnyitás az Intéző programmal szolgáltatással kapcsolatos problémák elhárítása
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500217"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742735"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Megnyitás Explorer problémáit
+# <a name="fix-problems-with-open-with-explorer"></a>Megerősít probléma-val nyit-val Felfedező
 
-Dokumentumtár megnyitása a SharePoint- vagy OneDrive a **Megnyitás Intézővel** parancs használatával kapcsolatos gyakori problémák megoldásához: 
+Erősít mindennapi probléma-val megüresedett állás egy dokumentum könyvtár-ban SharePoint vagy OneDrive használ a **nyit-val Felfedező** követel: 
   
-- Használja az Internet Explorer 10 vagy 11 az Internet Explorer. **Megnyitás Intézővel** nem kompatibilis a Microsoft Edge, Google Chrome, Firefox és mások. **Megnyitás Intézővel** le van tiltva az Internet Explorer kivételével minden böngészőben. 
+- Használja az Internet Explorer 10 vagy az Internet Explorer 11 böngészőt. **Megnyitás az Explorer** nem kompatibilis a Microsoft Edge, Google Chrome, Firefox és mások. Az **Intéző** az Internet Explorer kivételével minden böngészőben le van tiltva. 
     
-- **Megnyitás Intézővel** nem érhető el a SharePoint-tárak a modern élmény. **Az Intéző nézetben** használja. Jelölje ki a **Nézetbeállítások** \> **Intéző nézetben**. View fájl Explorer szoftvere nem kompatibilis a Microsoft Edge, Google Chrome, Firefox és mások. Az **Intéző nézetben** csak az Internet Explorer. 
+- **Nyitott az Explorer** nem áll rendelkezésre a modern élményt SharePoint könyvtárak. Ehelyett használja **a Fájltallózó nézetet** . **A fájltallózó**nézetben válassza a **nézet beállításai** \> nézetet. Kilátás-ban Reszelő Felfedező van nem összeegyeztethető-val Mikroszkóp él, Google Króm, Kilő és másikak. **Kilátás-ban Reszelő Felfedező** -ban elérhető egyetlen-ban Internet Felfedező. 
     
-- Ellenőrizze, hogy a WebClient szolgáltatást. A Windows Keresés mezőbe írja be a Futtatás jelölje be a Futtatás asztali alkalmazás, írja be a Services.msc parancsot, és nyomja le az ENTER billentyűt. Görgessen le a webes ügyfélszolgáltatást, és ellenőrizze, hogy az **állapot** oszlopában az "Fut". Ha nem, kattintson duplán a szolgáltatásra, kattintson a **Start**gombra, és kattintson az **OK gombra**. (Lehet, hogy szeretné engedélyezni a szolgáltatás **indítási típusa** mezőben a **kézi** vagy **automatikus** kiválasztásával.) 
+- Ellenőrizze, hogy a webes ügyfélszolgáltatás fut-e. -Ban Windows kutatás doboz, típus fuss, kiválaszt a fuss iskolapad app, típus Services. msc, aztán nyomjon entert. Görgesse le a webes ügyfélszolgáltatást, és győződjön meg róla, hogy az **állapot** oszlopban a "Futtatás" jelenik meg. Ha nem, kattintson duplán a szolgáltatásra, kattintson a **Start**gombra, majd kattintson **az OK gombra**. (Előfordulhat, hogy először engedélyeznie kell a szolgáltatást, ha az **Indítás típusa** mezőben a **manuális** vagy az **automatikus** lehetőséget választja.) 
     
 > [!NOTE]
-> Könyvtár fájl Intéző megnyitása jól jöhet, ha meg szeretnénk másolni vagy áthelyezni, több fájlok és mappák után, de a könyvtárban rendszeresen használni kívánt, ajánlott szinkronizálása. Explorer fájl megnyitásával kapcsolatos problémák elhárítása, lásd: [Nyissa meg az Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Info: szinkronizálás beállítása [az új OneDrive szinkronizálás ügyfél fájlok szinkronizálása SharePoint](https://go.microsoft.com/fwlink/?linkid=871666)talál.
+> Ha egyszerre több fájlt és mappát kell átmásolnia vagy áthelyeznia, de ha rendszeresen szeretne dolgozni a tárban, javasoljuk, hogy szinkronizálja a könyvtárat a fájlkezelő alkalmazásban. A Fájltallózón történő megnyitási problémák elhárításához tekintse [meg a Megnyitás az Intézőben](https://go.microsoft.com/fwlink/?linkid=871665)című témakört. A szinkronizálás beállításáról további információt a következő témakörben talál: [SharePoint-fájlok szinkronizálása az új OneDrive Sync-ügyféllel](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Lásd a cikk [a "Megnyitás a Explorer" parancsot a problémák a SharePoint Online használatáról](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) további információt. 
+További információért olvassa el a ["Megnyitás az Intéző segítségével" parancsot a SharePoint Online problémáinak elhárításáról](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) . 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Megosztott postafiók használata mobileszközön 1800014
+title: 1800014. megosztott postafiók használata mobileszközön
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,20 +15,20 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: d2f0090270e0d93ddacbc4556209e7c94fb53566
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531865"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741835"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Megosztott postafiók használata mobileszközön
 
-A megosztott postaláda nem érhető el a mobil eszköz telepítve van az Outlook alkalmazásból. Szeretné ezt a funkciót? Az Outlook mérnökcsapat tudja, hogy legyen. [Itt a szavazás](https://go.microsoft.com/fwlink/?linked=862116)!
+Megosztott postaláda nem elérhető a mobileszközön telepített Outlook alkalmazásból. Szeretné ezt a funkciót? Hagyja, hogy az Outlook Engineering csapata tudja. [Szavazzon itt](https://go.microsoft.com/fwlink/?linked=862116)!
   
-Megnyitása a böngészőben, a bejelentkezés Office 365 és ezt követi az Outlook a weben keresztül, mobil eszközön csak használható megosztott postafiókjából. Útmutatásért lásd: [Hozzáadás az Outlook programban a weben megosztott postafiókjából](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+Megosztott postafiókot csak akkor használhat mobileszközön, ha megnyitja a böngészőt, bejelentkezik az Office 365 alkalmazásba, majd az Outlook programot használja az interneten. Útmutatás: [megosztott postaláda hozzáadása az Outlook programban a weben](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
   
-Ha az Outlook alkalmazás segítségével a mobileszköz megosztott postaládák eléréséhez érdemes létrehozni az Office 365 csoport helyett a megosztott postafiókjából. További tudnivalókért tanulmányozza a [csoportok összehasonlítása](https://support.office.com/article/758759ad-63ee-4ea9-90a3-39f941897b7d.aspx).
+Ha a megosztott postaládákhoz egy mobileszközön lévő Outlook alkalmazás segítségével kell hozzáférnie, fontolja meg egy Office 365 csoport létrehozását megosztott postaláda helyett. További információt a [csoportok összehasonlítása](https://docs.microsoft.com/office365/admin/create-groups/compare-groups)című témakörben talál.
   
-További információ: [az Outlook iOS és Android - app súgó](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Tudjon meg többet: [Get in-app segítség az Outlook az iOS és Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
