@@ -1,5 +1,5 @@
 ---
-title: Alkímia - hibaelhárítási lépéseket az Outlook összeomlását
+title: Alkímia-Outlook összeomlás hibaelhárítás lépések
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664574"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737119"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Hibaelhárítási lépéseket az Outlook összeomlását
+# <a name="outlook-crash-troubleshooting-steps"></a>Az Outlook összeomlás-elhárítás lépései
 
-Ha nehézségei vannak az Outlook asztali összeomlás, indítsa el három alábbi lépések, amelyek mindegyike szerepel a cikkben részletesen: [, amely miatt az Outlook összeomlását, vagy nem válaszol, ha használja az Office 365 kapcsolatos problémák elhárítása.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Ha ön birtoklás Kilátás iskolapad lezuhan kérdés, elkezd mellett alábbiak a három lép alul, melyik van minden listázott-ban részlet ebben cikk: [Hogyan viselkedni Hibakeresés kérdés amit okoz Kilátás-hoz lezuhan vagy megállít válaszol mikor használt-val hivatal 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-1. lépés: Vizsgálja meg a lehetséges problémák-bővítmények.
+1. lépés: vizsgálja meg a bővítményokkal kapcsolatos lehetséges problémákat.
   
-2. lépés: Javítás az Outlook és a [támogatási és helyreállítási Segéd eszköz](https://aka.ms/SaRA-OutlookWontStart) futtatása az érintett számítógépen az Outlook indításakor jelentkező hibák elhárítása.
+2. lépés: az Outlook helyreállítása és a [támogatási és helyreállítási segéd eszköz](https://aka.ms/SaRA-OutlookWontStart) futtatása az érintett gépen az Outlook indítási hibáinak elhárítására.
   
-3. lépés: Hozzon létre egy új Outlook profilt, vagy az [Outlook profil eszköz](https://aka.ms/SaRA-OutlookSetupProfile) futtatása az érintett számítógépen.
+3. lépés: hozzon létre egy új Outlook-profilt, vagy futtassa az [Outlook profileszközt](https://aka.ms/SaRA-OutlookSetupProfile) az érintett gépen.
   
-Ha a fenti lépések nem működnek a probléma történt frissítés után, szükség lehet visszatérni az előző build. Útmutató [visszaállítása egy korábbi Office 2016 való kattintásra](https://support.microsoft.com/help/2770432).
+Ha a probléma egy frissítés után következett be, és a fenti lépések nem működnek, előfordulhat, hogy vissza kell térni egy korábbi buildre. Tekintse meg, [hogyan térhet vissza a korábbi verziójú Office 2016 kattintásra](https://support.microsoft.com/help/2770432).
   

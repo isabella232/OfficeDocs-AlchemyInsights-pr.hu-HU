@@ -1,5 +1,5 @@
 ---
-title: 898 külső naptármegosztási beállítások ismertetése
+title: 898. tudnivalók a külső naptármegosztási beállításokról
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,13 +12,13 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 48bdc17e8f16d719445492f395c44e10bf6cbaea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 564d8ab4c98d793db68aca46087e37414fd5ab55
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497805"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735499"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>További tudnivalók: külső naptármegosztási beállítások
+# <a name="learn-about-external-calendar-sharing-options"></a>Tudnivalók a külső naptármegosztási beállításokról
 
-Ha szeretne meghívni az értekezletre a szervezeten kívülieknek, Office 365 lehetővé teszi, hogy naptárak "külső felhasználóknak," azok, akik a szabad/foglalt kell elérhetővé időben, de nincs felhasználói fiókokat az Office 365 környezetben. További információért lásd: [megosztás naptárak külső felhasználókkal](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Ha az értekezleteket a szervezeten kívüli emberekkel szeretné ütemezni, az Office 365 lehetővé teszi, hogy a naptárakat "külső felhasználók" számára is elérhetővé tegye, azoknak, akiknek szükségük van az elfoglaltsági időre, de nem rendelkeznek felhasználói fiókkal az Office 365 környezethez. További információt a [naptárak megosztása külső felhasználókkal](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users)című témakörben talál.

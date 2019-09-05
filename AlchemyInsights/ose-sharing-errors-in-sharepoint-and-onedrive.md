@@ -1,6 +1,6 @@
 ---
-title: Hibák OSE megosztása SharePoint és OneDrive
-ms.author: kirks
+title: OSE megosztási hibák SharePoint és OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543135"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752970"
 ---
-# <a name="ose-sharing-errors"></a>Hibák OSE megosztása
+# <a name="ose-sharing-errors"></a>OSE megosztási hibák
 
-A cikk ismerteti a megosztott fájlok és mappák a SharePoint Online és az Office 365 rendszerben üzleti OneDrive előforduló hibái különbözőek. Általános szüksége vagy a SharePoint felügyeleti a szervezet ezeket a hibákat kijavítani. Ha nem rendszergazda, lépjen kapcsolatba a rendszergazdával, és adja meg neki a hibakód.
+A cikk tartalmazza azokat a különböző hibákat, amelyekkel a SharePoint Online vagy az Office 365 a fájlok vagy mappák megosztásakor találkozhat. A hibák kijavításához globális vagy SharePoint-rendszergazdát kell telepítenie a szervezetnél. Ha Ön nem rendszergazda, lépjen kapcsolatba a helpdesk-el, és adja nekik a hibakódot.
 
-OSE hibakódok bővebben lásd: [Megosztási hibákat a SharePoint és a OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Az OSE hibakódokkal kapcsolatos további információért lásd: [megosztási hibák a SharePoint rendszerben és az OneDrive-ban](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

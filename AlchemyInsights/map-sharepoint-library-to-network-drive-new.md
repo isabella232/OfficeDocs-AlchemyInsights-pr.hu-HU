@@ -1,5 +1,5 @@
 ---
-title: Egy SharePoint-tárba hálózati meghajtó csatlakoztatása
+title: SharePoint-tár leképezése hálózati meghajtóra
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 8226b88c0f472d0e35ff462dc5a5259487a8ef06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7b16cb448684d3f68be84fda4d9de201b953ffb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497017"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734887"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Egy SharePoint-tárba hálózati meghajtó csatlakoztatása
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>SharePoint-tár leképezése hálózati meghajtóra
 
-A dokumentumtár hálózati meghajtóként leképezése szolgáltatás, ideiglenes, és csak az Internet Explorer böngészőn keresztül támogatott. Esetenként az Internet Explorer programban nyissa meg a SharePoint-webhely és kell **tartani** a munkamenet megakadályozása lejáró kiválasztása. Ehelyett [Új ügyfél OneDrive szinkronizálása a SharePoint-fájlok szinkronizálása](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> amely nyújt [Igény fájlokat](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). OneDrive az összes fájl elérhető helyi tárolóhely használata nélkül.
+A tárak hálózati meghajtóként való hozzárendelése csak az Internet Exploreren keresztül lehetséges. Alkalmanként meg kell nyitnia a SharePoint-webhelyet az Internet Explorerben, és be kell jelölnie a **Maradjon bejelentkezve** választógombot, hogy megakadályozza a munkamenet lejárása. Ehelyett, [szinkronizál SharePoint fájlokat-val a új onedrive szinkronizál ügyfél](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> melyik szolgáltat [fájlokat-ra-követelés](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Belépés minden-a fájlokat-ban OneDrive nélkül használ helyi raktározás hely.
 
-Ha úgy dönt, hogy [az új OneDrive szinkronizálás ügyfél](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)helyett a meghajtókat, győződjön meg arról, hajtsa végre az alábbi cikkben. 
-
-
-**A csatlakoztatott hálózati meghajtók beállítása és hibaelhárítása**
+Ha Ön választ-hoz leképezés egy hajt helyett [használ a új OneDrive szinkronizál ügyfél](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), biztosít Ön követ a lép az alábbi cikk. 
 
 
-Lásd: [konfigurálásához és hibaelhárításához csatlakoztatott hálózati meghajtók](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US).
+**Csatlakoztatott hálózati meghajtók beállítása és hibaelhárítása**
 
-Megjegyzés: Ha használja az Internet Explorer 10 Windows 8 vagy a Windows 7, és kap **megtagadta a hozzáférést** , vagy az **elérési út nem érhető el.** Ha a meghajtó, telepítse [ezt a gyorsjavítást](https://support.microsoft.com/help/2846960) , a probléma megoldásához. 
+
+Lásd: [a SharePoint onlines hálózathoz csatlakoztatott hozzárendelt hálózati meghajtók hibaelhárítása](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+
+Megjegyzés: Ha az Internet Explorer 10 programot Windows 8 vagy Windows 7 operációs rendszerrel használja, és a **hozzáférés megtagadva** , vagy **az elérési út nem elérhető** meghajtó leképezésekor, a [gyorsjavítás](https://support.microsoft.com/help/2846960) telepítésével oldja meg a problémát. 

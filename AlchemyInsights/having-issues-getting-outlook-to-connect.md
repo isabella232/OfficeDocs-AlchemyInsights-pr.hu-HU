@@ -1,5 +1,5 @@
 ---
-title: Csatlakozás az Outlook az első probléma?
+title: Problémába kezd az Outlook kapcsolódni?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -8,23 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: 0f576239078d9807dbf0b11d7d705f1b7d56acca
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 024aa4d8b747af61f9253b40e2edbad9f6df77d9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523189"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735679"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>Csatlakozás az Outlook az első probléma?
+# <a name="having-issues-getting-outlook-to-connect"></a>Problémába kezd az Outlook kapcsolódni?
 
-Azt már észlelte, hogy az Outlook nincs beállítva a következő tartomány(ok) mellett is megfelelően működik:
+Azt észleltük, hogy az Outlook nem működik megfelelően a következő tartomány (ok) alatt:
   
 {HealthCheckString}
   
-A domain (DNS) beállításai NS vagy a CNAME rekordok nem a telepítő megfelelően. Részletes útmutatást [A DNS-rekordok frissítése az Office 365-ben](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) című cikkben talál. 
+A tartományi (DNS) beállítások NS vagy CNAME rekordjai nem megfelelően vannak beállítva. A [DNS-rekordok létrehozása az Office 365 szolgáltatás bármely DNS-szolgáltatójánál](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) című részletes útmutatásért használható. 
   
 A hiba elhárításához nyissa meg a Microsoft 365 Felügyeleti központ [Tartományok](https://admin.microsoft.com/adminportal/home#/Domains) lapját, és vegye igénybe segítségünket. 
-  
-További általános megoldásokat [a tartományokkal kapcsolatos gyakori kérdések](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) között talál. 
+
   
 

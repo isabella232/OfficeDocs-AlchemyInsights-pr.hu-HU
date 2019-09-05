@@ -1,5 +1,5 @@
 ---
-title: A telepítés lefagy, vagy kap elakadt.
+title: Telepítés lefagy vagy beszorul
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498633"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735427"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Office-telepítés lefagy, vagy kap elakadt.
+# <a name="office-installation-hangs-or-gets-stuck"></a>Az Office telepítése lefagy vagy beszorul
 
-Ez a probléma a hálózati kapcsolat, víruskereső program vagy a Windows Update beállításai miatt a számítógép jelenhetnek meg. Az alábbiakban néhány dolgot, próbálja meg kijavítani a problémát.
+Ez a viselkedés hálózati kapcsolat, víruskereső szoftver vagy a számítógépen található Windows Update-beállítások miatt jelenhet meg. Itt van néhány dolog, amit megpróbálhat megoldani a problémát.
   
-- Indítsa újra a számítógépet, és ellenőrizze, ha az Office telepítve
+- Indítsa újra a számítógépet, és ellenőrizze, hogy telepítve van-e az Office
 
 - Vezetékes kapcsolat használata
 
-- Ha lassú internet kapcsolat, telepítse az Office [használatával a kapcsolat nélküli Office telepítő](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Ha lassú internetkapcsolattal rendelkezik, [az Office offline telepítővel](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) is telepítheti az Office programot.
 
-- Ideiglenesen kapcsolja ki a víruskereső szoftver
+- Ideiglenesen kapcsolja ki a víruskereső szoftvert
 
-- Online javítási futtassa a Vezérlőpultról
+- Online javítás futtatása a Vezérlőpultról
 
-- Távolítsa el és telepítse újra az Office
+- Az Office eltávolítása és újratelepítésének megszüntetése
 
-[Office sokáig telepítése](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Hivatal van bevétel vágyódik-hoz felszerel](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

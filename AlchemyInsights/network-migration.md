@@ -1,5 +1,5 @@
 ---
-title: Hálózati áttelepítése
+title: Hálózati áttelepítés
 ms.author: pebaum
 author: pebaum
 ms.date: 7/27/2018
@@ -11,27 +11,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538466"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734707"
 ---
-# <a name="network-migration"></a>Hálózati áttelepítése
+# <a name="network-migration"></a>Hálózati áttelepítés
 
-A O365 bérlő társul, esetleg több Yammer hálózatok 1 bérlő: sok hálózatok konfigurációját. Indítása 2018. október 16., Yammer már nem fogják támogatni egy Office 365 bérlő társított több Yammer-hálózat. 1:1 konfigurációt elérése hálózati áttelepítés végrehajtása
+-A O365 bérlő van talán társult-val sokszoros Yammer hálózat-ban egy 1 bérlő: sok hálózat alakzat. Összerezzenés október 16, 2018, Yammer akarat nem hosszabb támogat sokszoros Yammer hálózat társult-val egy hivatal 365 bérlő. Végrehajthat egy hálózati áttelepítést, hogy az előnyben részesített 1:1 konfigurációt szerezze be.
   
-- A bérlő kapcsolódó hálózatok listájának megtekintéséhez jelentkezzen be rendszergazdaként Office 365 globális Yammer és keresse meg a **Hálózati rendszergazda**, majd a **Hálózati áttelepítési**. Válassza a **Tovább** gombot.
+- Megtekinthetjük a listát a hálózatok kapcsolódó a bérlő, jelentkezzen be a Yammer, mint az Office 365 globális rendszergazda, és keresse meg a **hálózati admin**, majd a **hálózati áttelepítés**. Válassza a **Tovább** gombot.
 
-- Ha több a O365 bérlő társított Yammer-hálózattal rendelkezik, majd a 3., 2. lépés felsorolt több hálózat látható.
+- Ha Ön lát sokszoros hálózat listázott-ra lép 2-ból 3, akkor Önnek van sokszoros Yammer hálózat társult-val-a O365 bérlő.
 
-- 1:1-konfigurációra a konfiguráció kijavításához továbbra is a hálózati áttelepítési eszközzel.
+- A konfiguráció egy 1:1-es konfigurációra történő javításához folytassa a hálózati áttelepítés eszköz használatát.
 
-- Hálózati áttelepítési további tájékoztatást talál [hálózati áttelepítési: összevonása több Yammer-hálózat](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- A hálózati áttelepítéssel kapcsolatban további információt a [hálózati áttelepítés: több Yammer hálózat összevonása](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)című témakörben talál.
 
-Megjegyzés:
+Felhívjuk:
   
-- **Hálózati áttelepítés áttelepíti csak az aktív és függőben lévő felhasználók.** Az aktív felhasználók és a felhasználók adatait, például nevét és a profil kép is áttelepül. Hálózati tartalma, beleértve a csoportok, nem lesz áthelyezve.
+- **A hálózati áttelepítés csak az aktív és a függőben lévő felhasználók áttelepítését teszi szükségessé.** Az aktív felhasználókkal együtt a felhasználói adatok, például a név és a profilkép is áttelepül. A hálózati tartalom, beleértve a csoportokat is, nem települ át.
 
-- **Hálózati áttelepítése nem lehet visszavonni.** Nem fogja tudni elérni a leányvállalati hálózatát, és annak tartalmát az áttelepítés után. Így az áttelepítés előtt, érdemes alaposan tervezze.
+- **A hálózati áttelepítés nem sztornírozható.** Az áttelepítést követően nem lesz képes hozzáférni a leányvállalatához és annak tartalmához. Szóval mielőtt a migráció, szeretné tervezni alaposan.

@@ -12,12 +12,12 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: fca4150c6dbeed2d83d7d6d6503b9f8742a1ff6b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c70374055d650e5673c1110bcf7b8b8b9ceaff66
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665132"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740395"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Levélszemétnek minősített szabályos üzenetei vannak?
 
@@ -27,7 +27,7 @@ Az ilyen típusú hibák jelentésének legjobb módja:
   
 1. [Engedélyezze a jelentéskészítő bővítmény](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) használatát a felhasználónak.
 
-2. A felhasználó [jelentse, hogy az üzenet „Nem levélszemét”](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
+2. A felhasználó [jelentse, hogy az üzenet „Nem levélszemét”](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2).
 
 Ha szeretne támogatási jegyet megnyitni, alább csatolja legalább az **egyik eredeti üzenet** teljes fejlécét.
   

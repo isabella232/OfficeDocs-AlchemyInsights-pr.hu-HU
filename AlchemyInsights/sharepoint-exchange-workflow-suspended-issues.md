@@ -1,6 +1,6 @@
 ---
-title: A SharePoint Online Ismerkedés
-ms.author: kirks
+title: Bevezetés a SharePoint Online használatbaveléshez
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ae27a9fc342eb4fc4633ffd5518d63600b978db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503997"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751674"
 ---
-# <a name="workflows-in-sharepoint"></a>A SharePoint munkafolyamatok
+# <a name="workflows-in-sharepoint"></a>Munkafolyamatok a SharePoint rendszerben
 
-Ha a SharePoint-munkafolyamatok nem küldött e-mailek, valószínűleg a szervezet észlelt küldő Exchange Online keretein.
+Ha a SharePoint-munkafolyamatok nem küldenek e-maileket, elképzelhető, hogy szervezete az Exchange Online feladójának korlátait észlelte.
 
-"A munkafolyamat fel van függesztve" hibaüzenet is fordul elő, ha a következő elemek egyikét:
+"A munkafolyamat felfüggesztve" hibaüzenet jelenhet meg, ha a következő elemek valamelyike fennáll:
 
-- A munkafolyamat a SharePoint Online használja a SharePoint 2010 vagy a SharePoint 2013 munkafolyamat platformtípusa van.
+- Olyan munkafolyamatot használ a SharePoint Online szolgáltatásban, amely a SharePoint 2010 vagy SharePoint 2013 munkafolyamat-platformtípust használja.
 
-- A munkafolyamat egyéni e-mail üzenetet küldhet a felhasználók több mint 200 egyszerre, naponta 10 000-nél több címzettnek vagy egy perc alatt több mint 30 üzenetnél van beállítva.
+- A munkafolyamat úgy van beállítva, hogy egy egyéni e-mail üzenetet több mint 200 felhasználók részére küld egy időben, több mint 10 000 címzettek naponta, vagy több mint 30 üzenet percenként.
 
-Amikor futtatja a munkafolyamatot, az e-mailt nem küldi el, és azt tapasztalja, hogy a hibaüzenet, belső beállítás egy címzettnek küldendő Suspended, vagy nem jelenik meg.
+A munkafolyamat futtatásakor az e-mail üzenet nem kerül elküldésre, és a hibaüzenet jelenik meg, a belső állapot beállítás felfüggesztve, vagy a címzettnek nem lehet elküldeni a címzettet.
 
-További információért olvassa el a következő [cikk](https://support.office.com/article/-daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or-unable-to-send-to-a-recipient-error-in-a-sharepoint-online-workflow-89d02169-5fa6-4259-affc-73edb6ca9fb6?ui=en-US&amp;rs=en-US&amp;ad=US).
+További információért lásd a következő [cikket](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 
