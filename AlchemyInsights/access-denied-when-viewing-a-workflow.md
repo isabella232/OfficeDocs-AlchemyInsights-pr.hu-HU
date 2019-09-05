@@ -1,6 +1,6 @@
 ---
-title: Hozzáférés megtagadva a munkafolyamat megtekintésekor
-ms.author: kirks
+title: A munkafolyamatok megtekintésekor a hozzáférés megtagadva
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495825"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747750"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="9b95a-102">Hozzáférés megtagadva a munkafolyamat megtekintésekor</span><span class="sxs-lookup"><span data-stu-id="9b95a-102">Access denied when viewing a Workflow</span></span>
+# <a name="access-denied-when-viewing-a-workflow"></a><span data-ttu-id="d5236-102">A munkafolyamatok megtekintésekor a hozzáférés megtagadva</span><span class="sxs-lookup"><span data-stu-id="d5236-102">Access denied when viewing a Workflow</span></span>
 
-<span data-ttu-id="9b95a-103">Kísérli meg egy e-mailt küldhet egy SharePoint-csoporthoz SharePoint 2013 munkafolyamatok "Hozzáférés megtagadva" hibaüzenettel sikertelen lehet, ha a SharePoint-csoport tagjainak van mindenki számára.</span><span class="sxs-lookup"><span data-stu-id="9b95a-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
+<span data-ttu-id="d5236-103">SharePoint 2013 a SharePoint-csoportnak e-mailt küldeni próbálő munkafolyamatok "hozzáférés megtagadva" hibaüzenetet küldhetnek, ha a SharePoint-csoport tagsága nem mindenki értékre van állítva.</span><span class="sxs-lookup"><span data-stu-id="d5236-103">SharePoint 2013 Workflows that attempt to send an email to a SharePoint group can fail with an "Access Denied" error message if the membership of the SharePoint group is not set to Everyone.</span></span>
   
- <span data-ttu-id="9b95a-104">**A probléma megoldásához hajtsa végre ezeket a lépéseket:**</span><span class="sxs-lookup"><span data-stu-id="9b95a-104">**To resolve this issue, do these steps:**</span></span>
+ <span data-ttu-id="d5236-104">**A probléma megoldásához hajtsa a következő lépéseket:**</span><span class="sxs-lookup"><span data-stu-id="d5236-104">**To resolve this issue, do these steps:**</span></span>
   
- 1. <span data-ttu-id="9b95a-105">Lehetővé teszi mindenki megtekintheti a SharePoint-csoport tagjai.</span><span class="sxs-lookup"><span data-stu-id="9b95a-105">Allow everybody to see the members of the SharePoint group.</span></span>
+ 1. <span data-ttu-id="d5236-105">Engedélyezze, hogy mindenki lássa a SharePoint-csoport tagjait.</span><span class="sxs-lookup"><span data-stu-id="d5236-105">Allow everybody to see the members of the SharePoint group.</span></span>
   
- 2. <span data-ttu-id="9b95a-106">A SharePoint-csoport eltávolítása a címzett vagy másolatot kap sor az e-mail.</span><span class="sxs-lookup"><span data-stu-id="9b95a-106">Remove the SharePoint group from the To or CC line of the email.</span></span>
+ 2. <span data-ttu-id="d5236-106">Távolítsa el a SharePoint-csoportot az e-mail Címzett vagy másolatot kap sorába.</span><span class="sxs-lookup"><span data-stu-id="d5236-106">Remove the SharePoint group from the To or CC line of the email.</span></span>
   
- 3. <span data-ttu-id="9b95a-107">Explicit módon vegye fel a címzett vagy másolatot kap sor, ha a SharePoint-csoport tagság láthatósága nem módosítható.</span><span class="sxs-lookup"><span data-stu-id="9b95a-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span>
+ 3. <span data-ttu-id="d5236-107">Ha a tagság láthatóságát a SharePoint-csoport esetében nem lehet módosítani, explicit módon adja hozzá a felhasználókat a címzett vagy a másolatot kap sorhoz.</span><span class="sxs-lookup"><span data-stu-id="d5236-107">Explicitly add the users to the To or CC line if the membership visibility cannot be changed for SharePoint group.</span></span>
   
-<span data-ttu-id="9b95a-108">Megtekintése további részletekért olvassa el [/_vti_bin/client.svc/sp.utilities.utility.SendEmail a nem hitelesített HTTP](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="9b95a-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
+<span data-ttu-id="d5236-108">További részletekért lásd a [http jogosulatlan a/_vti_bin/Client.SVC/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="d5236-108">To view more details please refer to [HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).</span></span>
   

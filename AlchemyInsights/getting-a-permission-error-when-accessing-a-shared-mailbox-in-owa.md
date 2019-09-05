@@ -1,5 +1,5 @@
 ---
-title: 124 az OWA megosztott postafiókjából elérésekor az első engedély hiba?
+title: 124. hozzáférési hiba lépett fel egy megosztott postaláda OWA-ban való elérésekor?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: af3f4f55332d5332d00fddd3f7d6a3bf60523ada
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523909"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735772"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="d6f57-102">A jogosultsági hiba jelenik meg az Outlook programban a weben megosztott postafiók megnyitásakor?</span><span class="sxs-lookup"><span data-stu-id="d6f57-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="9ec5d-102">Engedélyhiba történt egy megosztott postaláda megnyitásakor a weben az Outlook programban?</span><span class="sxs-lookup"><span data-stu-id="9ec5d-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
 
-<span data-ttu-id="d6f57-103">Ha hibaüzenet jelenik **valamilyen hiba történt. Nincs engedélye a postaláda megnyitásához.**</span><span class="sxs-lookup"><span data-stu-id="d6f57-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="d6f57-104">Ha megpróbál egy megosztott postaláda megnyitása az Outlook alkalmazásban a weben, a fiók nincs hozzáférése a megosztott postafiókjából.</span><span class="sxs-lookup"><span data-stu-id="d6f57-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="d6f57-105">A szervezet rendszergazdája a [megosztott postaláda létrehozása](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)témakör utasításait követve a fiókjához társított engedélyektől rendelhet a megosztott postafiókjából.</span><span class="sxs-lookup"><span data-stu-id="d6f57-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).</span></span>
+<span data-ttu-id="9ec5d-103">Ha Ön kap a hiba **valami elromlott. Nincs engedélye ennek a postafióknak a megnyitására.**</span><span class="sxs-lookup"><span data-stu-id="9ec5d-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="9ec5d-104">Amikor egy megosztott postafiókot próbál megnyitni az Outlook alkalmazásban a weben, előfordulhat, hogy fiókja nem rendelkezik a megosztott postaláda elérésére vonatkozó engedéllyel.</span><span class="sxs-lookup"><span data-stu-id="9ec5d-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="9ec5d-105">A szervezet rendszergazdája az osztott postafiók [létrehozása](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)című témakör utasításait követve társíthat fiókengedélyeit a megosztott postaládához.</span><span class="sxs-lookup"><span data-stu-id="9ec5d-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   

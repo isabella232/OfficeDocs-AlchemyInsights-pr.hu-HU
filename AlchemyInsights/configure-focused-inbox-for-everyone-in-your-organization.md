@@ -1,5 +1,5 @@
 ---
-title: 912 konfigurálása Focused beérkezett a szervezetben mindenki számára
+title: 912. a fókuszban lévő Beérkezett üzenetek mappa beállítása a szervezet minden résztvevőjének
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504717"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738415"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="1fbb1-102">Mindenki kapcsolja a koncentrált Beérkezett üzenetek be- és kikapcsolása</span><span class="sxs-lookup"><span data-stu-id="1fbb1-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="4f447-102">Az fókuszban lévő Beérkezett üzenetek mappa be-és kikapcsolása mindenki számára</span><span class="sxs-lookup"><span data-stu-id="4f447-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="1fbb1-103">Útmutatásért lásd: [Konfigurálása koncentrált Beérkezett üzenetek a szervezetben mindenki számára](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span><span class="sxs-lookup"><span data-stu-id="1fbb1-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span></span>
+<span data-ttu-id="4f447-103">Útmutatás: a [fókuszban lévő Beérkezett üzenetek konfigurálása a szervezet minden résztvevőjének](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="4f447-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
 
-<span data-ttu-id="1fbb1-104">**Megjegyzés**: ehhez az eljáráshoz szükséges Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="1fbb1-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="1fbb1-105">Szeretne ehhez a Microsoft 365 felügyeleti központ helyett?</span><span class="sxs-lookup"><span data-stu-id="1fbb1-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="1fbb1-106">Itt szavazzon rá!</span><span class="sxs-lookup"><span data-stu-id="1fbb1-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="4f447-104">**Megjegyzés**: ehhez a művelethez szükség van az Exchange Online PowerShell parancshéjra.</span><span class="sxs-lookup"><span data-stu-id="4f447-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="4f447-105">Szeretné ezt a Microsoft 365 Admin Center-ben csinálni?</span><span class="sxs-lookup"><span data-stu-id="4f447-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="4f447-106">Itt szavazzon rá!</span><span class="sxs-lookup"><span data-stu-id="4f447-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)

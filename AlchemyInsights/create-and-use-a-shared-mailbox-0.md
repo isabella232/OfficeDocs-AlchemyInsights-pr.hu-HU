@@ -1,5 +1,5 @@
 ---
-title: Hozzon létre, és a megosztott postafiók
+title: Megosztott postaláda létrehozása és használata
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37ac75c7aa0bac4e9f037d6cfa44b93a526977aa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515953"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736507"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="8b7ea-102">Hozzon létre, és a megosztott postafiók</span><span class="sxs-lookup"><span data-stu-id="8b7ea-102">Create and use a shared mailbox</span></span>
+# <a name="create-and-use-a-shared-mailbox"></a><span data-ttu-id="947c2-102">Megosztott postaláda létrehozása és használata</span><span class="sxs-lookup"><span data-stu-id="947c2-102">Create and use a shared mailbox</span></span>
 
-<span data-ttu-id="8b7ea-103">Megosztott postafiókjából lehetővé teszi, hogy több felhasználó küldhet és fogadhat e-mail alias **sales@contoso.com**, mint a másik licenc hozzárendelése nélkül.</span><span class="sxs-lookup"><span data-stu-id="8b7ea-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
+<span data-ttu-id="947c2-103">A megosztott postaláda lehetővé teszi, hogy egynél több személy küldjön és fogadjon e-mailt egy aliashoz, például **Sales@contoso.com**, anélkül, hogy másik licencet rendelne.</span><span class="sxs-lookup"><span data-stu-id="947c2-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
   
-<span data-ttu-id="8b7ea-104">[Megosztott postafiók létrehozása](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) elmagyarázza, hogyan kell:</span><span class="sxs-lookup"><span data-stu-id="8b7ea-104">[Create a shared mailbox](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) explains how to:</span></span> 
+<span data-ttu-id="947c2-104">[Hozzon létre egy megosztott postafiókot](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) :</span><span class="sxs-lookup"><span data-stu-id="947c2-104">[Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) explains how to:</span></span> 
   
-- <span data-ttu-id="8b7ea-105">Megosztott postaláda létrehozása</span><span class="sxs-lookup"><span data-stu-id="8b7ea-105">Create a shared mailbox</span></span>
+- <span data-ttu-id="947c2-105">Megosztott postaláda létrehozása</span><span class="sxs-lookup"><span data-stu-id="947c2-105">Create a shared mailbox</span></span>
     
-- <span data-ttu-id="8b7ea-106">A felhasználók helyhasználati engedélyek beállításához egy megosztott postafiók</span><span class="sxs-lookup"><span data-stu-id="8b7ea-106">Give your users permissions to use a shared mailbox</span></span>
+- <span data-ttu-id="947c2-106">A felhasználók számára engedélyeket adjon meg a megosztott postaláda használatához</span><span class="sxs-lookup"><span data-stu-id="947c2-106">Give your users permissions to use a shared mailbox</span></span>
     
-- <span data-ttu-id="8b7ea-107">Hozzáférés a megosztott postaládához az Outlook vagy az Outlook a weben</span><span class="sxs-lookup"><span data-stu-id="8b7ea-107">Access the shared mailbox in Outlook or in Outlook on the web</span></span>
+- <span data-ttu-id="947c2-107">A megosztott postaláda elérése az Outlook vagy az Outlook alkalmazásban a weben</span><span class="sxs-lookup"><span data-stu-id="947c2-107">Access the shared mailbox in Outlook or in Outlook on the web</span></span>
     
 
