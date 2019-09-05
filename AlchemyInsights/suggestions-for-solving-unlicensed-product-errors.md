@@ -1,5 +1,5 @@
 ---
-title: Javaslatok "Nem licencelt termék" hibák elhárításáról
+title: Javaslatok az "engedély nélküli termék" hibák megoldására
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501045"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743275"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="1aefa-102">Javaslatok "Nem licencelt termék" hibák elhárításáról</span><span class="sxs-lookup"><span data-stu-id="1aefa-102">Suggestions for solving "Unlicensed Product" errors</span></span>
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a><span data-ttu-id="eea8b-102">Javaslatok a "nem licencelt termék" hibáinak megoldására</span><span class="sxs-lookup"><span data-stu-id="eea8b-102">Suggestions for solving "Unlicensed Product" errors</span></span>
 
-<span data-ttu-id="1aefa-103">Előfizetés, amely lehetővé teszi az ügyfél, például az Office 365 üzleti vagy üzleti Premium és [a felhasználó rendelkezzen a hozzárendelt licenc](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)licencek ellenőrizze.</span><span class="sxs-lookup"><span data-stu-id="1aefa-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span> <span data-ttu-id="1aefa-104">[Inaktiválás telepítését](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) ellenőrizheti, ha az előfizetés által támogatott telepítéseinek száma túllépte.</span><span class="sxs-lookup"><span data-stu-id="1aefa-104">[Deactivate an install](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) to check if you have exceeded the number of installs supported by your subscription.</span></span>
+<span data-ttu-id="eea8b-103">Győződjön meg arról, hogy rendelkezik olyan előfizetéssel, amely lehetővé teszi az ügyféllicencek (például az Office 365 Business vagy Business Premium) számára a licencet, és [biztosítja a felhasználó engedélyét](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="eea8b-103">Ensure you have a subscription that allows client licenses, such as Office 365 Business or Business Premium, and [ensure the user has a license assigned](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span> <span data-ttu-id="eea8b-104">[Inaktiválja a telepítést](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) annak ellenőrzéséhez, hogy túllépte-e az előfizetés által támogatott telepítések számát.</span><span class="sxs-lookup"><span data-stu-id="eea8b-104">[Deactivate an install](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) to check if you have exceeded the number of installs supported by your subscription.</span></span>
   
-<span data-ttu-id="1aefa-105">Ellenőrizze, hogy a felhasználó ugyanazt a fiókot, amely rendelkezik hozzárendelt licenc van bejelentkezni.</span><span class="sxs-lookup"><span data-stu-id="1aefa-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
+<span data-ttu-id="eea8b-105">Győződjön meg arról, hogy a felhasználó ugyanazzal a fiókkal jelentkezik be, amelyhez a licenc társítva van.</span><span class="sxs-lookup"><span data-stu-id="eea8b-105">Ensure the user is signing in with the same account that has the license assigned.</span></span>
   
-<span data-ttu-id="1aefa-106">Az [Aktiválás hibaelhárító](https://aka.ms/SARA-OfficeActivation-Alchemy)futtatása.</span><span class="sxs-lookup"><span data-stu-id="1aefa-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
+<span data-ttu-id="eea8b-106">Futtassa az [aktiválási hibaelhárítót](https://aka.ms/SARA-OfficeActivation-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="eea8b-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy).</span></span>
   
-<span data-ttu-id="1aefa-107">Ha lejárt az előfizetés állapotának ellenőrzése</span><span class="sxs-lookup"><span data-stu-id="1aefa-107">Check if your subscription status has expired</span></span>
+<span data-ttu-id="eea8b-107">Ellenőrizze, hogy lejárt-e az előfizetési állapot</span><span class="sxs-lookup"><span data-stu-id="eea8b-107">Check if your subscription status has expired</span></span>
   
-<span data-ttu-id="1aefa-108">Ellenőrizze az [Office 365 szolgáltatás egészségügyi oldalon](https://docs.microsoft.com/office365/enterprise/view-service-health) vannak-e ismert problémák a Service.</span><span class="sxs-lookup"><span data-stu-id="1aefa-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
+<span data-ttu-id="eea8b-108">Ellenőriz a [hivatal 365 szolgáltatás egészség oldal](https://docs.microsoft.com/office365/enterprise/view-service-health) -hoz lát ha vannak akármi tudni probléma-val a szolgáltatás.</span><span class="sxs-lookup"><span data-stu-id="eea8b-108">Check the [Office 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
   
-<span data-ttu-id="1aefa-109">[Hajtsa végre az Office Online javítása](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="1aefa-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="eea8b-109">[Előad egy online kijavít-ból Hivatal](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="eea8b-109">[Perform an Online Repair of Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
-<span data-ttu-id="1aefa-110">További hibaelhárítási megoldásokkal, lásd: [nem licencelt termék és az Office Aktiválás hibákat](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="1aefa-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="eea8b-110">További hibaelhárítási megoldásokért lásd: [licenc nélküli termék-és aktiválási hibák az Office-ban](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="eea8b-110">For additional troubleshooting solutions, see: [Unlicensed Product and activation errors in Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
