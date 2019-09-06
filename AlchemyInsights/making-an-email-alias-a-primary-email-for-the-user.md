@@ -1,5 +1,5 @@
 ---
-title: Így az e-mail alias a felhasználó elsődleges e-mail 723
+title: 723 hogy egy e-mail alias egy elsődleges e-mail a felhasználó
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: ba5ade5c914600725ed2aff0a3aa0097adfb188f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542379"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735247"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>Ellenőrizze az e-mail alias a felhasználó elsődleges címe
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a>E-mail alias létrehozása a felhasználó elsődleges címéhez
 
-Című témakör nyújt tájékoztatást, [adjunk hozzá egy felhasználó egy másik e-mail címről](https://support.office.com/article/0b0bd900-68b1-4bf5-808b-5d240a7739f4).
+További útmutatás: további [e-mail alias hozzáadása egy felhasználóhoz](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).
 
-**Megjegyzés**: a szervezet hibrid üzemmódban van, ha kell a helyszíni Exchange-szervezet elsődleges e-mail címének megváltoztatása. További tudnivalókért tanulmányozza a [postafiók hozzáadása vagy eltávolítása e-mail címmel](https://technet.microsoft.com/library/bb123794.aspx).
+**Megjegyzés**: Ha a szervezete hibrid üzemmódban van, akkor az intézményi Exchange-szervezet elsődleges e-mail címét módosítania kell. További információt a [postaláda e-mail címeinek hozzáadása vagy eltávolítása](https://technet.microsoft.com/library/bb123794.aspx)című témakörben talál.
