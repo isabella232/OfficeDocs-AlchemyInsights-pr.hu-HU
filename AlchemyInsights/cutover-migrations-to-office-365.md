@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.custom:
 - "695"
 - "3500010"
-ms.openlocfilehash: f50ac52c030a04b1125cff751b5b3e9dc538a566
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a2017060fceecf3172facc4cd75f52fc2e07f9f3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903759"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740575"
 ---
-# <a name="cutover-migrations-to-office-365"></a><span data-ttu-id="07c46-102">Átállásos áttelepítés Office 365-be</span><span class="sxs-lookup"><span data-stu-id="07c46-102">Cutover migration to Office 365</span></span>
+# <a name="cutover-migrations-to-office-365"></a><span data-ttu-id="6f78d-102">Átállásos áttelepítés Office 365-be</span><span class="sxs-lookup"><span data-stu-id="6f78d-102">Cutover migration to Office 365</span></span>
 
-<span data-ttu-id="07c46-103">Amikor regisztrál az Office 365-re, áttelepítheti a felhasználói postaládák tartalmát egy helyszíni Exchange-szervezetből az Office 365-be.</span><span class="sxs-lookup"><span data-stu-id="07c46-103">When you sign up for Office 365, you can migrate the contents of user mailboxes from an on-premises Exchange organization to Office 365.</span></span> <span data-ttu-id="07c46-104">Amikor mindezt egyszerre végzi el, átállásos áttelepítést hajt végre.</span><span class="sxs-lookup"><span data-stu-id="07c46-104">When you do this all at one time, it's called a cutover migration.</span></span> <span data-ttu-id="07c46-105">Az átállásos-áttelepítés akkor lehet jó, ha az Exchange támogatott verzióját használja, és 2000-nél kevesebb postaládát használ.</span><span class="sxs-lookup"><span data-stu-id="07c46-105">A cutover migration could be right for you if you're running a supported version of Exchange and have fewer than 2,000 mailboxes.</span></span> <span data-ttu-id="07c46-106">Az átállásos áttelepítésekről az [Átállásos áttelepítés Office 365-be](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx) című cikkben tájékozódhat.</span><span class="sxs-lookup"><span data-stu-id="07c46-106">To find out more about cutover migrations, take a look at: [Cutover migration to Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).</span></span>
+<span data-ttu-id="6f78d-103">Amikor regisztrál az Office 365-re, áttelepítheti a felhasználói postaládák tartalmát egy helyszíni Exchange-szervezetből az Office 365-be.</span><span class="sxs-lookup"><span data-stu-id="6f78d-103">When you sign up for Office 365, you can migrate the contents of user mailboxes from an on-premises Exchange organization to Office 365.</span></span> <span data-ttu-id="6f78d-104">Amikor mindezt egyszerre végzi el, átállásos áttelepítést hajt végre.</span><span class="sxs-lookup"><span data-stu-id="6f78d-104">When you do this all at one time, it's called a cutover migration.</span></span> <span data-ttu-id="6f78d-105">Az átállásos-áttelepítés akkor lehet jó, ha az Exchange támogatott verzióját használja, és 2000-nél kevesebb postaládát használ.</span><span class="sxs-lookup"><span data-stu-id="6f78d-105">A cutover migration could be right for you if you're running a supported version of Exchange and have fewer than 2,000 mailboxes.</span></span> <span data-ttu-id="6f78d-106">Az átállásos áttelepítésekről az [A levelezés áttelepítése az Exchange átállásos módszerével](https://docs.microsoft.com/Exchange/mailbox-migration/cutover-migration-to-office-365) című cikkben tájékozódhat.</span><span class="sxs-lookup"><span data-stu-id="6f78d-106">To find out more about cutover migrations, take a look at: [Migrate email using the Exchange cutover method](https://docs.microsoft.com/Exchange/mailbox-migration/cutover-migration-to-office-365).</span></span>
   
