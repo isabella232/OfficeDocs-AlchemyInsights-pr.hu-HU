@@ -1,5 +1,5 @@
 ---
-title: Az Outlook programban a weben nem támogatott 1800029 kapcsolódó számlák
+title: 1800029 csatlakoztatott fiókok nem támogatottak az Outlook a weben
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504770"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821804"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a>Kapcsolódó számlák már nem támogatottak.
+# <a name="connected-accounts-are-no-longer-supported"></a>A csatlakoztatott fiókok már nem támogatottak
 
-A Microsoft eltávolította képes új fiókokat Outlook webes egymással összefüggő funkcióját használva 2018. szeptember 15., és 2018. október 30. meglévő előtt 2018 szeptember 15 csatlakoztatott fiókok szinkronizálása leáll. A November 15, a csatlakoztatott fiókok beállítás ( **Beállítások** \> **Mail** \> **számlák**) törlődik az Outlook programból a weben.A további tudnivalókat lásd [egymással összefüggő már nem támogatja az Outlook programban a weben (Office 365 üzleti számlák)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+A Microsoft megszüntette a képességet, hogy új számlákat az Outlook az interneten a csatlakoztatott fiókok funkció szeptember 15-én, 2018, és leállítja szinkronizál a meglévő számlák október 30-án, 2018, hogy összekapcsolták előtt szeptember 15, 2018. November 15-én, a csatlakoztatott fiókok beállítás ( **Settings** \> **levelezési** \> **fiókok**) el lesz távolítva az Outlook a weben.További információért, a [csatlakoztatott fiókok már nem támogatottak az Outlook az interneten (Office 365 az üzleti fiókok)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-A későbbiekben is jelenjen a más fiókokból származó e-mailben: e-mailben is továbbíthatja a fiókok Outlook webes. További információ:
+Az e-mailek más fiókokból való folytatásnak: továbbra is továbbíthatja az e-maileket az Outlook programból az interneten. További információ:
   
-[Be- és kikapcsolása az Outlook.com automatikus továbbítás](https://go.microsoft.com/fwlink/?linkid=2038346)
+[Az automatikus továbbítás be-és kikapcsolása a Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[Egy másik fiók Gmail üzenetek automatikus továbbítása](https://support.google.com/mail/answer/10957?hl=en)
+[Gmail-üzenetek automatikus továbbítása másik fiókba](https://aka.ms/forward-gmail-messages)
   
-[Az automatikus e-mail továbbítási Yahoo Mail](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[Önműködő elektronikus levél előmozdítás-ban jehu felad](https://aka.ms/yahoo-email-forwarding)
   

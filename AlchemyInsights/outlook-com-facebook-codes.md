@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Facebook-kódok
+title: Outlook.com Facebook kódok
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546773"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822308"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nem kap az Outlook.com használatával Facebook-kódok
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nem részesülő Facebook kódok segítségével Outlook.com
 
-Ha egy új jelszót kérnek a Facebook, de nem kapott a új jelszó létrehozására szolgáló e-mail:
+Ha Ön kereslet egy új jelszó-ból Facebook de didnt ' kap-a jelszó orrgazdaság elektronikus levél:
 
-- Ellenőrizze a [levélszemét vagy a Levélszemét mappába](https://outlook.live.com/mail/junkemail).
-- Próbálja meg [újra a Facebook-jelszó alaphelyzetbe állítása](https://www.facebook.com/help/213395615347144?helpref=faq_content).
+- Ellenőriz [-a löncshús vagy dzsunka felad dosszié](https://outlook.live.com/mail/junkemail).
+- Megpróbál-hoz [orrgazdaság-a Facebook Jelszó újra](https://aka.ms/facebook-password-reset).
 
-Ha a jelszó nem állítható vissza, mert nem fér hozzá az e-mailen vagy mobil telefonszámát a fiókját, próbálja meg [A Facebook jelszó tippek visszaállítása](https://www.facebook.com/help/218815984812734).
+Ha Ön vidám ' orrgazdaság-a jelszó mert Ön vidám ' belépés a elektronikus levél vagy mozgatható telefonszám-ra-a számla, megpróbál [Facebooks ' jelszó orrgazdaság porkoláb](https://aka.ms/facebook-password-help).
