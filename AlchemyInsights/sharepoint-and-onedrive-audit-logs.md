@@ -1,5 +1,5 @@
 ---
-title: Klasszikus SharePoint naplójelentések
+title: Klasszikus SharePoint-Naplójelentések
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504393"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068025"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>A SharePoint és a OneDrive naplók
+# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint és OneDrive naplónapló
 
-**Megfelelés a SharePoint és OneDrive a Modern egységes ellenőrzési naplók**
+**SharePoint és OneDrive modern egyesített audit naplók a megfelelőségi**
 
-- [Be- és kikapcsolása a naplóvizsgálat Unified](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [Az egyesített Naplónaplózás be-és kikapcsolása](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-Nincs további beállításokra szükség a SharePoint- vagy OneDrive belül.
+Nincs szükség további konfigurálást a SharePoint vagy az OneDrive belül.
 
-- Naplóvizsgálat keresés segítségével ellenőrizheti a fájl, mappák, felhasználók, engedélyek tevékenység:
+- A naplóvizsgálat kereséssel ellenőrizheti a fájl (ok), a mappa (ok), a felhasználó (k) és az engedélyek használatát.
 
-    - [Fájl- és tevékenységek](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Mappa tevékenységek](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Megosztása és a hozzáférési kérelem tevékenységek](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Fájl-és oldaltevékenységek](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Mappatevékenységek](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Kérésmegosztási és hozzáférési tevékenységek](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
     - [Szinkronizálási tevékenységek](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [Webhely-felügyeleti tevékenységek](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Ezek az események visszakereséséhez kapcsolatban további információt lásd: [Keresés a naplóban](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+    - [Webhely-adminisztrációs tevékenységek](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- További információt az események lekéréséről [a naplózás keresése](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)című témakörben talál.
 
-**Klasszikus naplók SharePoint**
+**Klasszikus SharePoint-naplófájlok**
 
-- [Megtekintése és klasszikus SharePoint naplók engedélyezése](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Áttelepítette az SPO örökölt naplózását az egyesített Naplónaplóra (UAL). Ez lényegében azt jelenti, hogy minden SPO örökölt ellenőrzési jelentések most hajtott keresztül UAL, és a korábbi vizsgálati jelek átkerültek UAL.
 
-Minden helycsoport egy engedélyezendő naplózási szükségessége. 
+Kulcs megváltozik:
 
-**Megjegyzés**: javasoljuk, hogy a Modern egységes ellenőrzési naplók használata jobb és speciális ellenőrzési lehetőségek, mint a klasszikus naplókat.
+- A kivágás mint képesség nem áll rendelkezésre.
+- NEM érhető el az a szakasz, amelyben a naplózni kívánt eseményeket kiválasztja. Kérjük, olvassa el [ezt a dokumentumot](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) az alapértelmezetten elérhető naplózott események teljes listájért.
+- A **testreszabott jelentések** alatt lévő "hely" beállítás nem érhető el. 
+- "Dokumentumok megnyitása vagy letöltése" események nem érhetők el. 
 
