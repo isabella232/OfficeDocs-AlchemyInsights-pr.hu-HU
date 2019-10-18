@@ -21,14 +21,14 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36742411"
 ---
-# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="c8d84-102">A megosztott Outlook-naptárak különféle típusai és beállításuk módja</span><span class="sxs-lookup"><span data-stu-id="c8d84-102">Different types of shared calendars and how to set them up</span></span>
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="c8bc9-102">A megosztott Outlook-naptárak különféle típusai és beállításuk módja</span><span class="sxs-lookup"><span data-stu-id="c8bc9-102">Different types of shared calendars and how to set them up</span></span>
 
-- [<span data-ttu-id="c8d84-103">Megosztott postaláda létrehozása</span><span class="sxs-lookup"><span data-stu-id="c8d84-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
+- [<span data-ttu-id="c8bc9-103">Megosztott postaláda létrehozása</span><span class="sxs-lookup"><span data-stu-id="c8bc9-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
 
-- [<span data-ttu-id="c8d84-104">Helyiség- és berendezés-postaládák</span><span class="sxs-lookup"><span data-stu-id="c8d84-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+- [<span data-ttu-id="c8bc9-104">Helyiség- és berendezés-postaládák</span><span class="sxs-lookup"><span data-stu-id="c8bc9-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
 
-- [<span data-ttu-id="c8d84-105">Naptárcsoport létrehozása</span><span class="sxs-lookup"><span data-stu-id="c8d84-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
+- [<span data-ttu-id="c8bc9-105">Naptárcsoport létrehozása</span><span class="sxs-lookup"><span data-stu-id="c8bc9-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 
-- [<span data-ttu-id="c8d84-106">Outlook-naptár megosztása másokkal</span><span class="sxs-lookup"><span data-stu-id="c8d84-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="c8bc9-106">Outlook-naptár megosztása másokkal</span><span class="sxs-lookup"><span data-stu-id="c8bc9-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-<span data-ttu-id="c8d84-107">Ha nem látja más naptárakban a foglaltsági információkat, vagy ha mások nem látják a foglaltsági információkat az Ön naptárában, használja az [Office 365-höz készült Támogatási és helyreállítási segéd](https://diagnostics.office.com/) nevű eszközt.</span><span class="sxs-lookup"><span data-stu-id="c8d84-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="c8bc9-107">Ha nem látja más naptárakban a foglaltsági információkat, vagy ha mások nem látják a foglaltsági információkat az Ön naptárában, használja az [Office 365-höz készült Támogatási és helyreállítási segéd](https://diagnostics.office.com/) nevű eszközt.</span><span class="sxs-lookup"><span data-stu-id="c8bc9-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>

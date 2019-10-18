@@ -17,10 +17,10 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36520633"
 ---
-# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="18d9c-102">Az új Outlook.com ismertetése</span><span class="sxs-lookup"><span data-stu-id="18d9c-102">Learn about the new Outlook.com</span></span>
+# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="b990b-102">Az új Outlook.com ismertetése</span><span class="sxs-lookup"><span data-stu-id="b990b-102">Learn about the new Outlook.com</span></span>
 
-<span data-ttu-id="18d9c-103">[Itt tájékozódhat](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) az új Outlook.com változásairól, és kereshet az alábbi keresőmezővel.</span><span class="sxs-lookup"><span data-stu-id="18d9c-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
+<span data-ttu-id="b990b-103">[Itt tájékozódhat](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) az új Outlook.com változásairól, és kereshet az alábbi keresőmezővel.</span><span class="sxs-lookup"><span data-stu-id="b990b-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
   
-<span data-ttu-id="18d9c-104">Legörgetve láthatja az eredményeket.</span><span class="sxs-lookup"><span data-stu-id="18d9c-104">Scroll down to see the results.</span></span>
+<span data-ttu-id="b990b-104">Legörgetve láthatja az eredményeket.</span><span class="sxs-lookup"><span data-stu-id="b990b-104">Scroll down to see the results.</span></span>
   
 
