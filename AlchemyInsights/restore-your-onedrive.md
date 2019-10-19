@@ -1,5 +1,5 @@
 ---
-title: A OneDrive visszaállítása
+title: Visszaad-a OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
 ms.openlocfilehash: 2750a91a243543df073b016e41d3332a968123a1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36551669"
 ---
-# <a name="restore-your-onedrive"></a><span data-ttu-id="3bd3d-102">A OneDrive visszaállítása</span><span class="sxs-lookup"><span data-stu-id="3bd3d-102">Restore your OneDrive</span></span>
+# <a name="restore-your-onedrive"></a><span data-ttu-id="26813-102">Visszaad-a OneDrive</span><span class="sxs-lookup"><span data-stu-id="26813-102">Restore your OneDrive</span></span>
 
-<span data-ttu-id="3bd3d-103">Ha sok a OneDrive fájlok get törölve, overwritted, sérült vagy fertőzött malware, visszaállíthatja a teljes OneDrive az utolsó 30 napban egy korábbi időpontra.</span><span class="sxs-lookup"><span data-stu-id="3bd3d-103">If lots of your OneDrive files get deleted, overwritted, corrupted, or infected by malware, you can restore your entire OneDrive to a previous time within the last 30 days.</span></span>
+<span data-ttu-id="26813-103">Ha sok-ból-a OneDrive fájlokat kap töröl, overwritted, elrontott, vagy fertőzött mellett malware, tudod visszaad-a teljes OneDrive-hoz egy előző idő bent a utolsó 30 napok.</span><span class="sxs-lookup"><span data-stu-id="26813-103">If lots of your OneDrive files get deleted, overwritted, corrupted, or infected by malware, you can restore your entire OneDrive to a previous time within the last 30 days.</span></span>
   
-1. <span data-ttu-id="3bd3d-104">Ugrás a OneDrive a webböngészőben.</span><span class="sxs-lookup"><span data-stu-id="3bd3d-104">Go to your OneDrive in your web browser.</span></span>
+1. <span data-ttu-id="26813-104">Megy-a OneDrive-ban-a pókháló legel.</span><span class="sxs-lookup"><span data-stu-id="26813-104">Go to your OneDrive in your web browser.</span></span>
     
-2. <span data-ttu-id="3bd3d-105">Kattintson a beállítások ikonra a jobb felső részén, és válassza ki **a OneDrive visszaállítása**.</span><span class="sxs-lookup"><span data-stu-id="3bd3d-105">Click the Settings icon in the upper right, and then select **Restore your OneDrive**.</span></span>
+2. <span data-ttu-id="26813-105">Kettyenés a elintézés ikon-ban jobb felső, aztán kiválaszt **visszaad-a OneDrive**.</span><span class="sxs-lookup"><span data-stu-id="26813-105">Click the Settings icon in the upper right, and then select **Restore your OneDrive**.</span></span>
     
-3. <span data-ttu-id="3bd3d-106">Válasszon dátumot a listából, vagy válassza az **egyéni dátumot és időpontot**.</span><span class="sxs-lookup"><span data-stu-id="3bd3d-106">Select a date from the list, or choose **Custom date and time**.</span></span>
+3. <span data-ttu-id="26813-106">Jelöljön ki egy dátumot a listából, vagy válassza az **Egyéni dátumot és időpontot**.</span><span class="sxs-lookup"><span data-stu-id="26813-106">Select a date from the list, or choose **Custom date and time**.</span></span>
     
-4. <span data-ttu-id="3bd3d-107">Kattintson a **Visszaállítás** a tevékenységek visszavonja a kijelölt dátum utáni.</span><span class="sxs-lookup"><span data-stu-id="3bd3d-107">Click **Restore** to undo all the activities after the date you selected.</span></span> 
+4. <span data-ttu-id="26813-107">A kijelölt dátum utáni összes tevékenység visszavonásához kattintson a **visszaállítás** gombra.</span><span class="sxs-lookup"><span data-stu-id="26813-107">Click **Restore** to undo all the activities after the date you selected.</span></span> 
     
-[<span data-ttu-id="3bd3d-108">További súgó használata a fájlok visszaállítása</span><span class="sxs-lookup"><span data-stu-id="3bd3d-108">More help using Files Restore</span></span>](https://go.microsoft.com/fwlink/?linkid=872874)
+[<span data-ttu-id="26813-108">További segítség a fájlok visszaállításában</span><span class="sxs-lookup"><span data-stu-id="26813-108">More help using Files Restore</span></span>](https://go.microsoft.com/fwlink/?linkid=872874)
   
 
