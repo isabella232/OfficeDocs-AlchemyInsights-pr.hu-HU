@@ -1,5 +1,5 @@
 ---
-title: A levélszeméthez azt állítja, hogy a LinkedIn problémái
+title: Kérdések a kéretlen e-mail azt állítva, hogy a LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1276"
 - "8000079"
 ms.openlocfilehash: e0c2029ce40e4c105c7a4790f15555f9cd3b1fee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36536508"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="1e766-102">A levélszeméthez azt állítja, hogy a LinkedIn problémái</span><span class="sxs-lookup"><span data-stu-id="1e766-102">Issues with junk email claiming to be from LinkedIn</span></span>
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a><span data-ttu-id="b823b-102">Kérdések a kéretlen e-mail azt állítva, hogy a LinkedIn</span><span class="sxs-lookup"><span data-stu-id="b823b-102">Issues with junk email claiming to be from LinkedIn</span></span>
 
-<span data-ttu-id="1e766-103">TUDATÁBAN annak, hogy egyes felhasználók kapnak magáról a LinkedIn levélszeméthez vagyunk.</span><span class="sxs-lookup"><span data-stu-id="1e766-103">We're aware that some users are receiving junk email which claims to be from LinkedIn.</span></span>
+<span data-ttu-id="b823b-103">Voltak ' tud amit némely használók van felfogó dzsunka elektronikus levél melyik követel-hoz lenni-ból LinkedIn.</span><span class="sxs-lookup"><span data-stu-id="b823b-103">We're aware that some users are receiving junk email which claims to be from LinkedIn.</span></span>
 
-<span data-ttu-id="1e766-104">Az e-maileket szűrése egy beérkezett szabály használata ajánlott.</span><span class="sxs-lookup"><span data-stu-id="1e766-104">We recommend using an inbox rule to filter these emails.</span></span>
+<span data-ttu-id="b823b-104">Javasoljuk, hogy az e-mailek szűréséhez használjon beérkező üzenetekre vonatkozó szabályt.</span><span class="sxs-lookup"><span data-stu-id="b823b-104">We recommend using an inbox rule to filter these emails.</span></span>
 
-<span data-ttu-id="1e766-105">További információért olvassa el [az Outlook.com a Beérkezett üzenetekre vonatkozó szabályok](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)segítségével.</span><span class="sxs-lookup"><span data-stu-id="1e766-105">For more information, read how to [use inbox rules in Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="b823b-105">További információért olvassa el a [Beérkezett üzenetekre vonatkozó szabályok használatát a Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="b823b-105">For more information, read how to [use inbox rules in Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

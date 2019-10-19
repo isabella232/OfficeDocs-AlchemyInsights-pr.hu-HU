@@ -1,5 +1,5 @@
 ---
-title: Fekete háttérrel jelennek meg, vagy a cellaformázás helytelenül jelenik meg
+title: Fekete háttér jelenik meg, vagy a Cellaformázás nem látszik jobbra
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
 ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495969"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="05b92-102">Fekete háttérrel jelennek meg, vagy a cellaformázás helytelenül jelenik meg</span><span class="sxs-lookup"><span data-stu-id="05b92-102">A black background appears, or cell formatting doesn't look right</span></span>
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="4c63e-102">Fekete háttér jelenik meg, vagy a Cellaformázás nem látszik jobbra</span><span class="sxs-lookup"><span data-stu-id="4c63e-102">A black background appears, or cell formatting doesn't look right</span></span>
 
-<span data-ttu-id="05b92-103">Az Excel 2016 megjelenhet egy váratlan fekete háttér, vagy megjelenhet a cellaformázás, amely nem jelenik meg megfelelően.</span><span class="sxs-lookup"><span data-stu-id="05b92-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="05b92-104">Ez akkor fordulhat elő, élőfej vagy élőláb hozzáadása a lap elrendezése nézetben, és a cella mintázatos kitöltéssel alkalmazása után.</span><span class="sxs-lookup"><span data-stu-id="05b92-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="05b92-105">Ez a probléma javítását a 1708 (Build 8431.2094) verziója.</span><span class="sxs-lookup"><span data-stu-id="05b92-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="05b92-106">A javításhoz az Office legújabb verziójára frissíteni.</span><span class="sxs-lookup"><span data-stu-id="05b92-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="05b92-107">Válassza ki a **fájl** \> **fiók** \> **frissítési beállítások** \> **Frissítés most**.</span><span class="sxs-lookup"><span data-stu-id="05b92-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="4c63e-103">Az Excel 2016 programban váratlan fekete háttér jelenhet meg, vagy olyan cellaformázást lehet látni, amely nem jelenik meg megfelelően.</span><span class="sxs-lookup"><span data-stu-id="4c63e-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="4c63e-104">Ez akkor fordulhat elő, ha a Lap elrendezése nézetben felvesz egy élőfejet vagy élőlábat, és egy mintázatkitöltést alkalmaz egy cellára.</span><span class="sxs-lookup"><span data-stu-id="4c63e-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="4c63e-105">Ez probléma volt rögzített-ban változat 1708 (épít 8431,2094).</span><span class="sxs-lookup"><span data-stu-id="4c63e-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="4c63e-106">A kijavításához frissítse az Office legújabb verzióját.</span><span class="sxs-lookup"><span data-stu-id="4c63e-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="4c63e-107">A \> **fájlfiókfrissítési** \> **Beállítások** \> **frissítésének**kiválasztása. \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="4c63e-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 

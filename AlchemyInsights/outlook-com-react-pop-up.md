@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com reagál előugró
+title: 8000091 Outlook.com reagál felugró
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1413"
 - "8000091"
 ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545477"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="de140-102">Ig idő készen áll az Outlook.com</span><span class="sxs-lookup"><span data-stu-id="de140-102">Outlook.com is ready for prime time</span></span>
+# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="e13e1-102">Outlook.com készen áll a főműsoridőben</span><span class="sxs-lookup"><span data-stu-id="e13e1-102">Outlook.com is ready for prime time</span></span>
 
-<span data-ttu-id="de140-103">TUDATÁBAN annak, hogy egyes felhasználók megjelenhet az "Outlook.com készen áll-ig alkalommal" előugró vagyunk minden alkalommal, amikor azok bejelentkezési és dolgozik egy javítást.</span><span class="sxs-lookup"><span data-stu-id="de140-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
+<span data-ttu-id="e13e1-103">Voltak ' tud amit némely vásárlók május lát a "Outlook.com van kész részére első idő" pukkanás-megjelöl minden alkalommal ők jel--ban, és voltak ' működő-ra egy erősít.</span><span class="sxs-lookup"><span data-stu-id="e13e1-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
 
-<span data-ttu-id="de140-104">Sajnos ezzel kapcsolatban.</span><span class="sxs-lookup"><span data-stu-id="de140-104">Sorry about that.</span></span>
+<span data-ttu-id="e13e1-104">Sajnálom.</span><span class="sxs-lookup"><span data-stu-id="e13e1-104">Sorry about that.</span></span>
 
-[<span data-ttu-id="de140-105">További tudnivalók az új Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="de140-105">Learn more about the new Outlook.com.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[<span data-ttu-id="e13e1-105">Tudjon meg többet az új Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="e13e1-105">Learn more about the new Outlook.com.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

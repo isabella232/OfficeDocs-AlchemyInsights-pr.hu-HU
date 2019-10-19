@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554949"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a><span data-ttu-id="413de-102">Engedélyek öröklése a SharePoint működése</span><span class="sxs-lookup"><span data-stu-id="413de-102">How permissions inheritance works in SharePoint</span></span>
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a><span data-ttu-id="2e17c-102">Az engedélyek öröklődésének működése a SharePoint rendszerben</span><span class="sxs-lookup"><span data-stu-id="2e17c-102">How permissions inheritance works in SharePoint</span></span>
 
-<span data-ttu-id="413de-103">Alapértelmezés szerint a SharePoint engedélyek hierarchiájában magasabb felfelé öröklődnek.</span><span class="sxs-lookup"><span data-stu-id="413de-103">By default, permissions in SharePoint are inherited from higher up in the hierarchy.</span></span> <span data-ttu-id="413de-104">Így a fájl az engedélyeit örökli a mappából, amelynek az engedélyeit örökli az engedélyeit örökli annak engedélyeit örökli a webhelycsoport webhelyről származó könyvtárában lévő.</span><span class="sxs-lookup"><span data-stu-id="413de-104">So a file inherits its permissions from the folder, which inherits its permissions from the library, which inherits its permissions from the site, which inherits its permissions from the site collection.</span></span>
+<span data-ttu-id="2e17c-103">Alapértelmezés szerint a SharePoint rendszerben az engedélyek a hierarchiában feljebb lévő jogosultságoktól öröklődnek.</span><span class="sxs-lookup"><span data-stu-id="2e17c-103">By default, permissions in SharePoint are inherited from higher up in the hierarchy.</span></span> <span data-ttu-id="2e17c-104">Tehát egy fájl örökli a jogosultságokat a mappából, amely örökli a jogosultságokat a könyvtár, amely örökli a jogosultságokat a hely, amely örökli a jogosultságokat a helycsoport.</span><span class="sxs-lookup"><span data-stu-id="2e17c-104">So a file inherits its permissions from the folder, which inherits its permissions from the library, which inherits its permissions from the site, which inherits its permissions from the site collection.</span></span>
   
-<span data-ttu-id="413de-105">Egyedi engedélyek eltávolítása, és az öröklődés visszaállításával kapcsolatos információ [Szerkesztés, és a lista vagy tár engedélyeinek kezelése](https://go.microsoft.com/fwlink/?linkid=869946)témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="413de-105">For info about removing unique permissions and restoring inheritance, see [Edit and manage permissions for a list or library](https://go.microsoft.com/fwlink/?linkid=869946).</span></span>
+<span data-ttu-id="2e17c-105">Az egyedi engedélyek eltávolításával és az öröklődés visszaállításával kapcsolatban további információt a [listák vagy tárak engedélyeinek szerkesztése és kezelése](https://go.microsoft.com/fwlink/?linkid=869946)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="2e17c-105">For info about removing unique permissions and restoring inheritance, see [Edit and manage permissions for a list or library](https://go.microsoft.com/fwlink/?linkid=869946).</span></span>
   
 
