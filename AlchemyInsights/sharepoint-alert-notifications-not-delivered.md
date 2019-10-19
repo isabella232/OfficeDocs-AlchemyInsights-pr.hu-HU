@@ -14,10 +14,10 @@ ms.custom:
 - "9000118"
 - "1655"
 ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36744643"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Nem kézbesített SharePoint riasztási értesítések
@@ -27,7 +27,7 @@ Kérjük, ellenőrizze az e-mailben található Levélszemét mappát, mert néh
 Állapítsa meg, hogy az **értesítések nem kerülnek kézbesítésekre** , vagy ha egy adott fájlból vagy könyvtárból származó **egyedi figyelmeztetést** nem kézbesítnek.
 
 - A rendszer **nem kézbesíti az egyéni figyelmeztetéseket**: Ha egy adott fájlból vagy könyvtárból származó egyéni értesítés nincs kézbesítve, megkísérelheti annak törlését és újbóli létrehozásának megkísérlést. A riasztás újbóli létrehozásához lásd: [SharePoint-riasztások kezelése, megtekintése vagy törlése](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) .
-- Az **összes figyelmeztetés nem kézbesíthető**: Ha nem kézbesíti a több fájl vagy könyvtár figyelmeztetéseit, látogasson el a [szolgáltatás egészségügyi irányítópultba](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a SharePoint vagy Exchange alkalmazással esetlegesen előforduló figyelmeztetések/események ellenőrzéséhez. A kérdés tudna lenni-val a SharePoint éber képesség vagy késleltetés-ban elektronikus levél átmenő cserél. Ez akarat is lenni fontos-hoz jegyzék vajon más elektronikus levél van lét kézbesített, és ha nem, a kérdés van valószínű-val cserél késleltetés.
+- A szolgáltatás **nem kézbesíti az összes figyelmeztetést**: Ha a több fájl vagy tár értesítéseit nem kézbesíti a szolgáltató, látogasson el az [egészségügyi irányítópultra](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a SharePoint vagy az Exchange segítségével esetlegesen előforduló figyelmeztetések/események ellenőrzéséhez. A kérdés tudna lenni-val a SharePoint éber képesség vagy késleltetés-ban elektronikus levél átmenő cserél. Ez akarat is lenni fontos-hoz jegyzék vajon más elektronikus levél van lét kézbesített, és ha nem, a kérdés van valószínű-val cserél késleltetés.
 
 GYIK a figyelmeztetésekről:
 
@@ -41,7 +41,7 @@ Bővebb információ:
 - **Speciális O365 megfelelés-riasztási házirendek**: a figyelmeztetések beállításáról a [megfelelőségi értesítésházirendek](https://docs.microsoft.com/office365/securitycompliance/alert-policies)című témakörben olvashat bővebben.
 - **SharePoint-és OneDrive naplónaplók**: az események beolvasásáról további információt [a naplózás a](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)naplóban című témakörben talál.
 - **Riasztások által küldött Advanced fenyegetés védelem**: lásd [ATP SharePoint és onedrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- Az **adatvesztés megelőzésére irányuló figyelmeztetések**: tekintse [meg a DLP-házirendek e-mail értesítéseit](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Az **adatvesztéssel megakadályozók által küldött figyelmeztetések**: lásd [e-mail értesítések DLP-házirendekkel](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Kapcsolódó témakörök
 

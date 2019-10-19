@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: 423db4e5bbb85e75aee3548d5b6b46a64ebc6fa0
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750522"
 ---
 # <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Kapcsolódó webhelyek létrehozása vagy csoportosítása SharePoint Online szolgáltatásban – problémák
@@ -27,7 +27,7 @@ Letöltés [spo Management Shell](https://support.office.com/article/introductio
 
  További információ a PowerShell használatbaveléshez: [Ismerkedés a SharePoint Online Management Shell alkalmazással](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
 
-Vegye ki a webhelyet a törölt webhelyekről a [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell parancsmaggal.
+Vegye ki a webhelyet a törölt webhelyekről az [Eltávolítás-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell-parancsmaggal.
 
 Ha csoportos kapcsolatban lévő webhelyet hoz létre, és figyelmeztetést kap, akkor már létezik egy másik, azonos aliasnévvel rendelkező csoport, és az Office 365 már meglévő csoportjait is ellenőrzi [a felügyeleti központból](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). A probléma megoldásához törölje a meglévő csoportot, ha már nincs rá szükség, vagy hozza létre a webhelyet egy másik aliasnévvel.
 

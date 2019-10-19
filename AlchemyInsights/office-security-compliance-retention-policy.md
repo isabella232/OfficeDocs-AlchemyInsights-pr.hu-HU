@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753762"
 ---
 # <a name="more-info-about-retention-policies"></a>További információ az adatmegőrzési szabályzatról
@@ -26,13 +26,13 @@ A legtöbb szervezet, az adatok mennyisége és összetettsége, a napi-elektron
 
 ## <a name="a-from-security-and-compliance-center"></a>A)-ból biztonság és engedékenység központ
 
-- Ugrás a biztonság és a megfelelés > adatirányítás > megtartása
+- Megy biztonság és engedékenység > adat kormányzás > visszatartás
   - Lásd [ezt a](https://docs.microsoft.com/office365/securitycompliance/retention-policies) cikket
 
 - Megy biztonság és engedékenység > eDiscovery> haladó eDiscovery 
   - Lásd [ezt a](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) cikket
 
-- Tovább a biztonsági és megfelelési > besorolások >-visszatartás
+- Tovább a biztonsági és megfelelési > besorolások > visszatartás
   - Lásd ezeket a cikkeket!
     - [Érzékenységi Címkék](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Címkék-áttekintés](https://docs.microsoft.com/office365/securitycompliance/labels)

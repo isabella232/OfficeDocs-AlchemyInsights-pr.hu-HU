@@ -1,5 +1,5 @@
 ---
-title: Az Outlook programban a weben a kézbesítésről szóló jelentések
+title: Jelentések az Outlook webes Outlookban való kézbesítését követően
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 1b39decd55f0bf63746a28866f880d42dd4d3001
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557107"
 ---
-# <a name="issues-with-email-delivery"></a>E-mail kézbesítési problémáinak
+# <a name="issues-with-email-delivery"></a>Kérdések az e-mail kézbesítést
 
-Ha egy elküldött e-mail üzenet kézbesítése probléma merül fel, az Office 365 tudatja, e-mail küldése. Az e-mailt kap a kézbesítési állapotjelzés, más néven DSN vagy Pattogás üzenet. A leggyakoribb típusa a mutatja, hogy az üzenet kézbesítése sikertelen kézbesítésről szóló jelentéssel (NDR), nevezzük. Kézbesítés valami elírás található e-mail cím egyszerűen okozhatja. Sikertelen kézbesítésről szóló jelentések tartalmazzák a hibakódot, amely azt jelzi, hogy miért nem kézbesíti az e-mail, megoldások segítenek az e-mail szállított, a rendszergazdák számára a web és a technikai részletek további súgóhivatkozás.
+Mikor ott ' egy probléma szállít egy elektronikus levél üzenet Ön küldött, Hivatal 365 küld egy elektronikus levél-hoz enged Ön tud. A kapott e-mail a kézbesítési állapot értesítés, más néven DSN vagy visszafordulási üzenet. A leggyakoribb típus a kézbesítés sikertelenségéről tájékoztató jelentés (NDR), amely közli, hogy az üzenetet nem kézbesíti a rendszer. Nem szállítás okozhatja valami olyan egyszerű, mint a sajtóhiba egy e-mail címet. A kézbesíthetetlenségi jelentések tartalmaznak egy hibakódot, amely azt jelzi, hogy miért nem lett kézbesítve az e-mailek, megoldásokat kínál az Ön e-mail kézbesített címére, egy hivatkozásra a weben történő további segítségért, valamint a rendszergazdák technikai részleteiről.
 
-Megtudhatja, hogy miért az üzenet kézbesítése sikertelen kézbesítésről szóló jelentések megtekintéséhez, lásd a [E-mail jelentések az Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+A kézbesíthetetlenségi jelentések listájának megtekintéséhez és a kézbesítés sikertelenségéről tájékoztató üzenet jelenik [meg az Exchange Online e-mail kézbesítést nem tartalmazó jelentéseiben](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).

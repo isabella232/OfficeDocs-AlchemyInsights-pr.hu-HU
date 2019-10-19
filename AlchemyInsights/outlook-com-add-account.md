@@ -1,5 +1,5 @@
 ---
-title: 9000236 Outlook.com fiók hozzáadása
+title: 9000236 Outlook.com Add fiók
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,26 +12,26 @@ ms.custom:
 - "1819"
 - "9000236"
 ms.openlocfilehash: a7eed96ea74b037adaa39bbe2d91936d65fe54c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538202"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>Az e-mail fiókok hozzáadása Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Összead-a más elektronikus levél számlák-hoz Outlook.com
 
-Ha Outlook.com más e-mail fiókok hozzáadása, Outlook.com segítségével küldhet és e-mail üzeneteket olvasnak ezeket a fiókokat Outlook.com elhagyása nélkül. Minden fiókhoz hozzáadhat Outlook.com a csatlakoztatott fiók neve.
+Ha más e-mail fiókokat is felvesz a Outlook.com, akkor a Outlook.com segítségével e-maileket küldhet és olvashat az ilyen fiókból anélkül, hogy elhagyná Outlook.com. A Outlook.com minden fiókját egy csatlakoztatott fióknak nevezzük.
 
-Megjegyzés: Az Outlook.com fiók szinkronizálása a csatlakoztatott fiókról egyirányú csak. A csatlakoztatott fiókját Outlook.com küldött e-mail nem jelenik meg a csatlakoztatott fiók Elküldött elemek.
+Megjegyzés: a csatlakoztatott fiók és a Outlook.com fiók közötti szinkronizálás csak egyirányú. A csatlakoztatott fiókból az Outlook.com használatával küldött e-mail nem fog megjelenni a csatlakoztatott fiók elküldött elemei között.
 
-A csatlakoztatott fiók hozzáadása:
+Csatlakoztatott fiók hozzáadása:
 
-1. Nyissa meg a [szinkronizálás E-mail beállításait](https://go.microsoft.com/fwlink/?linkid=875264).
-2. **A Gmail** vagy **más e-mail fiókok**csoportban **kapcsolódó számlák**.
-3. A csatlakozás a fiók lapon adja meg a megjelenítendő nevet (a nevet a címzettek fogunk látni, amikor Ön kap egy e-mailt) és a teljes e-mail címét és az e-mail fiók jelszavát, amelyhez kapcsolódni az Outlook.com-fiókját.
+1. Nyissa meg a [szinkronizálási e-mail beállításokat](https://go.microsoft.com/fwlink/?linkid=875264).
+2. A **csatlakoztatott fiókok**területen válassza a Gmail vagy **más e-mail fiókok** **szolgáltatást** .
+3. A Kapcsolódás a fiókhoz oldalon adjon meg egy megjelenítendő nevet (a címzettek láthatják, ha Ön e-mailt kap tőle), valamint annak az e-mail fióknak a teljes e-mail címét és jelszavát, amelyet a Outlook.com fiókjához szeretne csatlakoztatni.
 
-Bármely partner már csatlakozott az Outlook.com fiók e-mailben is elküldheti. Az e-mail szerkesztésekor jelölje **ki** , és válassza ki, melyik használni kívánt e-mail címet, vagy [az alapértelmezett cím a frissítés](https://go.microsoft.com/fwlink/?linkid=875264).
+Tudod küld elektronikus levél-ból akármi számla youve ' összekapcsolt-hoz-a Outlook.com számla. Amikor e-mailt hoz, válassza ki **a** használni kívánt e-mail címet, vagy [frissítse az alapértelmezett címből](https://go.microsoft.com/fwlink/?linkid=875264)lehetőséget.
 
-További információért olvassa el a [Hozzáadás a más e-mail fiókok Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+További információkért olvassa el [a további e-mail fiókok hozzáadása a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Ha szeretne létrehozni egy új e-mail címet, amely Outlook.com ugyanazt a fiókot használja, olvassa el [és e-mail alias törlése](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Ha ön akar-hoz teremt egy új elektronikus levél cím amit használ ugyanaz Outlook.com számla, olvas [összead vagy eltávolít egy elektronikus levél álnév](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).

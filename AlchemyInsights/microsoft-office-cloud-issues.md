@@ -11,10 +11,10 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754086"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Tapasztal problémákat felhő szolgáltatás?
@@ -23,5 +23,5 @@ Ha problémák merülnek fel egy felhőalapú szolgáltatással kapcsolatban, a 
 
 **Értesítési szabályzat**
 
-A szolgáltatás eseményekor a Microsoft felismeri, hogy az időszerű, célzott és pontos kommunikáció létfontosságú az ügyfelek számára. Mikroszkóp bejelentendő Hivatal 365 ügyintéző mellett korszerűsítő a bérlő-különleges [szolgáltatás egészség műszerfal (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) -on Hivatal 365 admin bejárat. A szolgáltatási incidensek frissítései óránkénti lépésszám alatt állnak, vagy ha más lépésszám szükséges, akkor azt a RENDSZERÁLLAPOT-érvényesítők közleményével kapcsolatban meg kell adni. További információ: [Hogyan viselkedni ellenőriz hivatal 365 szolgáltatás egészség](https://docs.microsoft.com/office365/enterprise/view-service-health).
+A szolgáltatás eseményekor a Microsoft felismeri, hogy az időszerű, célzott és pontos kommunikáció létfontosságú az ügyfelek számára. A Microsoft az Office 365 rendszergazdáit az Office 365 felügyeleti portálon lévő bérlő-specifikus [szolgáltatásállapot-irányítópult (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) frissítésével értesíti. A szolgáltatási incidensek frissítései óránkénti lépésszám alatt állnak, vagy ha ettől eltérő lépésszám szükséges, akkor azt az SHD kommunikációs kiküldetése során kell megadni. További információ: [Hogyan viselkedni ellenőriz hivatal 365 szolgáltatás egészség](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

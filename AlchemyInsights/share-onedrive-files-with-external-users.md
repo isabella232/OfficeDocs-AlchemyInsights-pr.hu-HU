@@ -1,5 +1,5 @@
 ---
-title: OneDrive fájlok megoszthatók a külső felhasználók
+title: OneDrive-fájlok megosztása külső felhasználókkal
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
 ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549221"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>OneDrive fájlok megoszthatók a szervezeten kívülieknek
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Osszon meg fájlokat a OneDrive a szervezeten kívüli személyek
 
-1. Az alkalmazás indító segítségével a böngésző OneDrive ugorhat. 
+1. Használ a app katapultszerkezet-hoz megy OneDrive-ban-a pókháló legel. 
     
-2. Jelölje ki a fájlt vagy mappát meg szeretné osztani, és válassza a **megosztás**. 
+2. Jelölje ki a megosztani kívánt fájlt vagy mappát, majd válassza a **Share**. 
     
-3. Ha a kapcsolódás típusa "az emberek \<a szervezet\>," a lefelé mutató nyílra, és válassza a következők egyikét: 
+3. Ha a hivatkozástípus a "személyek \<a szervezetben\>" értékre van állítva, kattintson a lefelé mutató nyílra, és válasszon az alábbiak közül: 
     
-  - **Mindenki számára** hozzáférést biztosít mindenkinek, aki megkapja ezt a hivatkozást, hogy közvetlenül tőle kapta meg, vagy a továbbított mástól. Ez magában foglalhatja a vállalat dolgozói ellenőriznek. 
+  - **Bárki** hozzáférhet bárkinek, aki megkapja ezt a linket, függetlenül attól, hogy azt közvetlenül kapja-e vagy valaki mástól továbbította. Ez magában foglalhatja a szervezeten kívüli személyeket is. 
     
-  - Hozzáférést biztosít a **meghatározott személyek** csak a számára ad meg, annak ellenére, hogy mások már igénybe veheti. Ha emberek továbbítja a megosztási meghívást, csak olyan személyek, akik már fut az access az elem tudják a hivatkozásra. 
+  - **Bizonyos személyek** csak a megadott személyek számára férnek hozzá, de mások esetleg már hozzáférhetnek a hozzáféréshez. Ha a személyek továbbítják a megosztási meghívást, akkor csak azok a személyek használhatják a csatolást, akik már hozzáférhetnek az elemhez. 
     
     > [!NOTE]
-    > Ha az alábbi opciók egyikét nem érhető el, vagy ha más kapcsolattípus alapértelmezés szerint megjeleníteni, a szervezetszintű beállítások módosításához az OneDrive admin center fogja, és a bal oldali ablaktáblán kattintson a **megosztás** . [tudj meg többet](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Ha valamelyik lehetőség nem érhető el, vagy ha azt szeretné, hogy egy másik hivatkozástípus alapértelmezés szerint megjelenjen, a szervezeti szintű beállításokat az OneDrive Admin Center letöltőközpontjából, majd a bal oldali ablaktáblán a **megosztás** parancsra kattintva változtathatja meg. [tudj meg többet](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Alapértelmezés szerint **a Szerkesztés engedélyezése** be van kapcsolva. Ha azt szeretné, hogy a személyek csak megtekinthetik a fájlokat, törölje a jelölőnégyzet jelölését. 
+4. Alapértelmezés szerint a **Szerkesztés engedélyezése** beállítás be van kapcsolva. Ha azt szeretné, hogy a felhasználók csak a fájlok megtekintésére, törölje a jelölőnégyzet jelölését. 
     
-5. Ha azt szeretné, adja meg egy üzenetet, és a megosztani kívánt személyek nevét.
+5. Adja meg a megosztani kívánt személyek nevét és üzenetét, ha kívánja.
     
-6. Ha kész elküldeni a hivatkozást, kattintson a **Küldés**gombra. 
+6. Ha készen áll a csatolás elküldéséhez, kattintson a **Küldés**gombra. 
     
 [tudj meg többet](https://go.microsoft.com/fwlink/?linkid=871861)
   

@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552987"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>A SharePoint Online elemek visszaállítása
+# <a name="restore-items-in-sharepoint-online"></a>Elemek visszaállítása a SharePoint Online szolgáltatásban
 
-Ha törli az elemeket a SharePoint Online, azok összesen 93 nap vagyunk megőrizni. Tartózkodnak a webhely Lomtár a teljes használati ideje, kivéve, ha üres, vagy az elemek törlése. Ebben az esetben a cikkek lépjen a webhelycsoport lomtárába, ahol tartózkodnak a fennmaradó 93 nap. Az idő végén az elemek véglegesen törlődnek. A webhelyről törölt elemek visszaállítása hálózati meghajtó:
+Ha elemeket törlünk a SharePoint Online szolgáltatásban, akkor összesen 93 napig őrződnek meg. A webhely Lomtárában egész idő alatt maradnak, hacsak nem üríti ki vagy nem törli az elemeket. Ebben az esetben az elemek a webhelycsoport lomtárába kerülnek, ahol a 93 nap hátralevő részében maradnak. Az idő végén az elemek véglegesen törlődnek. A törölt elemek visszaállítása a webhely lomtárából:
   
-1. Látogasson el a webhelyre, és kattintson a bal oldali ablaktáblában kattintson a **Lomtár** . 
+1. Megy a telek és kettyenés **újra feldolgoz tartó** -ban bal táblaüveg. 
     
-    Ha nem látjuk **Lomtár** a bal oldali ablaktáblában, kattintson a beállítások ikonra a jobb felső részén, és kattintson a **webhely tartalmát**. A Lomtár jobb szélén a parancssáv tetején van.
+    Ha a bal oldali ablaktáblában nem látja a **Lomtárat** , kattintson a jobb felső sarokban található Beállítások ikonra, majd kattintson a **webhely tartalma**lehetőségre. A Lomtár a lap tetején lévő parancssáv jobb szélén van.
     
-2. A **Lomtár** lapon jelölje ki őket, majd a megjelenő pipára visszaállítani kívánt elemeket. 
+2. A **Lomtár** lapon jelölje ki a visszaállítani kívánt elemeket, és kattintson a megjelenő pipa ikonra. 
     
 3. Kattintson a **Visszaállítás** elemre.
     
-[A webhelycsoport lomtárába törölt elemek visszaállítása](https://go.microsoft.com/fwlink/?linkid=866439)
+[A törölt elemek visszaállítása a webhelygyűjtemény lomtárából](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

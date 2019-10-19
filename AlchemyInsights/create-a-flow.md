@@ -1,5 +1,5 @@
 ---
-title: A folyamat létrehozása
+title: Folyamatvezérlés létrehozása
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
 ms.openlocfilehash: c9a874c1b2a5d6c7d5e22aeb23b50d61b88c9da3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516205"
 ---
-# <a name="microsoft-flow"></a>Microsoft áramlás
+# <a name="microsoft-flow"></a>Microsoft-adatfolyam
 
-Microsoft Flow segít a gyakori feladatok automatizálása. Ezen munkafolyamatok listák és tárak beállítása. Lista vagy tár a SharePoint Online vagy a OneDrive folyamat hozzáadása című témakörben talál [egy folyamat létrehozása](https://go.microsoft.com/fwlink/?linkid=869408).
+A Microsoft flow segít a gyakori feladatok automatizálásában. Segítségével beállíthat munkafolyamatokat a listákhoz és tárakhoz. A SharePoint Online vagy az OneDrive egy listához vagy tárhoz adásáról további információ az [adatfolyam létrehozása](https://go.microsoft.com/fwlink/?linkid=869408)című témakörben található.
   
-[Videók a Microsoft áramlás](https://go.microsoft.com/fwlink/?linkid=864641)
+[Videók a Microsoft flow-ról](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[A Flow a Microsoft webhelyén](https://go.microsoft.com/fwlink/?linkid=864642)
+[Microsoft flow-webhely](https://go.microsoft.com/fwlink/?linkid=864642)
   
 

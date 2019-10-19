@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 kapuk javasolt megoldások
+title: Dinamika 365 portálok ajánlott megoldások
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,27 +11,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: a7c6358af738ee1d7f1b65ade5a496d55f7fea27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553073"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745507"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a>Javasolt megoldások Dynamics 365 kapuk
+# <a name="dynamics-365-portals-recommended-solutions"></a>Dynamics 365 portálok ajánlott megoldások
 
-* [Részletes hiba jelenik meg a portál megtekintése](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Hogyan viselkedni Kilátás részletes szolgál hiba mutatott-ra az én-m bejárat](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [A portál visszaállítása](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Hogyan viselkedni orrgazdaság egy bejárat](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [A portál a kiszolgálóoldali gyorsítótárának kiürítéséről](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [A portál kiszolgálóoldali gyorsítótárának kiürítése](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [A célközönség és a Dynamics 365 portál típusának módosítása](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [Hogyan változtassuk meg a közönség és típusa a Dynamics 365 Portal](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [A portál alap URL-Címének módosítása](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [Portálwebhely URL-címének módosítása](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [A portál külső identitásszolgáltató konfigurálása](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Külső identitásszolgáltató konfigurálása portálra](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
-* [Gyakran ismételt kérdések](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
+* [Gyakran feltett kérdések](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Bevezetés a saját Dynamics 365 portál](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Első lépések a My Dynamics 365 Portal-on](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
