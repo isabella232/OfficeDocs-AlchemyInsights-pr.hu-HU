@@ -1,5 +1,5 @@
 ---
-title: AttributeValueMustBeUnique hiba
+title: Hiba AttributeValueMustBeUnique
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
 ms.openlocfilehash: 5ac56fa78c66cf3b246bc0cc01f040e27310d629
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527001"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Hiba: AttributeValueMustBeUnique
 
-A leggyakoribb oka a AttributeValueMustBeUnique hiba a különböző SourceAnchor (immutableId) két objektum rendelkezik a ProxyAddresses és/vagy UserPrincipalName attribútum ugyanazt az értéket. A AttributeValueMustBeUnique hiba javításához:
+Az AttributeValueMustBeUnique hiba leggyakoribb oka, hogy két objektum különböző SourceAnchor (immutableId), értéke megegyezik a ProxyAddresses és/vagy UserPrincipalName attribútumokkal. -Hoz erősít a AttributeValueMustBeUnique hiba:
   
-1. Az ismétlődő proxyAddresses, userPrincipalName vagy más attribútum értéke a hibát okozó meghatározása. Az ütközés két (vagy több) objektumok részt is azonosítja. A szinkronizálás Azure AD csatlakozás egészségügyi által létrehozott jelentés segít azonosítani a két objektum.
+1. Azonosságot megállapít a duplázott proxyAddresses, userPrincipalName vagy más tulajdonság érték amit ' okozás a hiba. Azt is azonosítsa, hogy mely két (vagy több) objektum vesz részt a konfliktusban. Ez a jelentés segít a két objektum azonosításában, amennyiben az Azure AD Connect Health szinkronizálta a szinkronizálást.
     
-2. Melyik objektum továbbra is ismétlődő értéket, és melyik objektumot nem kell azonosítani.
+2. Azonosítsa, hogy melyik objektumnak kell folytatnia a duplikált értéket, és hogy melyik objektumnak kell lennie.
     
-3. Távolítsa el az ismétlődő értéket az objektumot, nem kell ezt az értéket. Fontos megjegyezni, hogy kell a változtatásokat a címtárban, ha az objektum származó. Bizonyos esetekben szükség lehet az ütközés objektumok törlése.
+3. Távolítsa el a duplikált értéket az objektumból, amelynek nem kellett volna ezt az értéket tartalmaznia. Ne feledje, hogy meg kell tennie a változást a könyvtárban, ahol az objektum származik. Bizonyos esetekben előfordulhat, hogy törölnie kell egy ütköző objektumot.
     
-4. A módosítást a helyiségben AD lehetővé teszik a Azure AD csatlakozás szinkronizálni a módosítás lehet javítani a hibát.
+4. Ha a helyszíni Active Directory-ban módosítja a változást, akkor a Azure AD Connect segítségével a hibát kijavítottuk.
     
 

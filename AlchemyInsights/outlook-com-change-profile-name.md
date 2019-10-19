@@ -1,5 +1,5 @@
 ---
-title: A profil neve az Outlook.com módosítása
+title: Változtassa meg a profil nevét a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546722"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>A profil neve az Outlook.com módosítása
+# <a name="change-your-profile-name-in-outlookcom"></a>Változtassa meg a profil nevét a Outlook.com
 
-1. Keresse fel [a Microsoft fiókinformáció](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. Válassza a **Szerkesztés nevét**.
-3. Adja meg a Keresztnév és Vezetéknév, majd válassza a **Mentés**.
+1. Keresse fel [a Microsoft-fiókjának](https://go.microsoft.com/fwlink/p/?linkid=860841)adatait.
+2. Kiválaszt **sajtó alá helyez név**.
+3. Adja meg a vezetéknevet és az utónevet, majd válassza a **Mentés**.
 
-Hagyjon 24 óráig módosítások hatályba lépni a megfelelő profil nevét.
+A profilnév módosításainak érvénybe léptetéséhez maximum 24 órát adjon meg.

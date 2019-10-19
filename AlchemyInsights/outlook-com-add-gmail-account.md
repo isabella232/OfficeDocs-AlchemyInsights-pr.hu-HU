@@ -1,5 +1,5 @@
 ---
-title: A Gmail fiókot hozzáadhat Outlook.com
+title: Összead gmail számla-hoz Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538130"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>A Gmail-fiók hozzáadása Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Összead-a Gmail számla-hoz Outlook.com
 
-1. Nyissa meg a [szinkronizálás E-mail beállításait](https://go.microsoft.com/fwlink/?linkid=875264).
-2. A **csatlakoztatott fiókok**válassza a **Gmail**.
-3. Írja be a megjelenítendő nevet (a nevet a címzettek fogunk látni, amikor Ön kap egy e-mailt).
-4. Válassza ki, ha Outlook.com importálnia kell az e-mail, a Gmail és az importált e-mail tárolására.
-5. Válassza az **OK gombra** a Google bejelentkezési lap megnyitásához.
+1. Nyissa meg a [szinkronizálási e-mail beállításokat](https://go.microsoft.com/fwlink/?linkid=875264).
+2. A **csatlakoztatott fiókok**területen válassza a **Gmail szolgáltatást**.
+3. Adjon meg egy megjelenítendő nevet (a címzettek láthatják, ha egy e-mail üzenetet kapnak a felhasználóról).
+4. Választ ha Outlook.com kellet volna behoz-a elektronikus levél-ból Gmail és hol behoz elektronikus levél lesz raktározott.
+5. Az **OK** gombra való Ugrás a Google bejelentkezési oldalára.
 
-Outlook.com-fiókját a csatlakoztatott fiók szinkronizálása nem egyirányú. E-mail küldése a Gmail-fiókját Outlook.com a Gmail az elküldött elemek nem fog megjelenni.
+A csatlakoztatott fiókból a Outlook.com fiókhoz való szinkronizálás csak egyirányú. Elektronikus levél küldött-ból-a Gmail számla használ Outlook.com akarat nem feltűnik-ban küldött cikk-ban Gmail.
 
-Elküldheti e-mailben Outlook.com csatlakoztatott Gmail-fiókjából. E-mail szerkesztésekor jelölje **ki** , és válassza a Gmail-cím, vagy [az alapértelmezett cím a frissítés](https://go.microsoft.com/fwlink/?linkid=875264).
+Tudod küld elektronikus levél-ban Outlook.com-ból-a összekapcsolt gmail számla. Amikor egy e-mailt, válassza **ki és válassza ki a** Gmail-cím, vagy [frissítse az alapértelmezett a címe](https://go.microsoft.com/fwlink/?linkid=875264).
 
-További tudnivalókért lásd: [Hozzáadás a más e-mail fiókok Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+További információ: [a másik e-mail fiók hozzáadása a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

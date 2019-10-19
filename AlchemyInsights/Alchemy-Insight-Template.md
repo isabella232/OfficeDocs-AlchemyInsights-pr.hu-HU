@@ -1,5 +1,5 @@
 ---
-title: ugyanaz, mint a fájlnév a legcélszerűbb
+title: ugyanaz mint filenév van legjobb
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
 ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/19/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "35800047"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Szükséges Alkímia fej H1, H2 meg nem működnek.
-Gyakorlati tanácsokat és iránymutatásokat Alkímia szerzői:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Kötelező Alchemy fejléc H1, H2's nem működik.
+A legjobb gyakorlatok és iránymutatások Alchemy authoring:
 
-1. **Nem ágyazódnak egymásba Alkímia elképzelések mappákban**- Ezzel megszünteti az URL-szerkezet. Azt történő rögzítésének a keresést.
-1. A **AlchemyInsights** mappában található fájlok kisbetűs fájlnevek ex tereket kötőjellel kell rendelkeznie. ***how-to-enable-per-tartás***.
-    1. Az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) Szabályazonosító vagy hibasor Azonosítóját tartalmazza a ms.custom mezőben. ex. ***MS.Custom: 100021***
-1. A sablonként használni a metaadatokat a többi fájl tetején.
-1. Az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net)keresse meg a szakasz le **vevő-Insight címe:** és a betekintést a H1 címe, amely a kiindulási pont használatát. 
+1. Ne **fészkel alkímia Insights a mappák**-Ez megtöri az URL struktúrát. Mi vagyunk látszó-ba rögzítő ez.
+1. Az **Alchemyinsights** mappában lévő fájloknak kisbetűs fájlnevekkel kell rendelkezniük, a szóközök pl. kötőjelet kell tükrözniük. ***hogyan kell-Enable-perek-Hold***.
+    1. A Rule ID, vagy a Bucket ID azonosítót az [alkímia partner portálja](https://alchemyportal.azurewebsites.net) tartalmazza a MS. Custom mezőben. Ex. ***MS. Custom: 100021***
+1. Sablonként használhatja a fájl tetején lévő többi metaadatot.
+1. Az [alkímia partner portálon](https://alchemyportal.azurewebsites.net), navigálni le a szakaszt **ügyfél Insight cím:** és használni, hogy a kiindulási pont a H1 címét a betekintést. 
     > [!NOTE]
-    > Alkímia ismereteknek kell csak egyetlen H1 tetején vagy azok gyártási megszakad. H2s nem teszik, így használata **félkövér** vagy más egyezmények külön szakaszokban jeléül.
-1. Ezután töltse ki a szövegtörzs, az Alkímia szabály lap vevő elképzelések részében a tervezet anyag használata
-    1. Felsorolásjeles listák rendben.
-    1. Számozott listák túl
-    1. **Félkövér** és *dőlt* a-ok
-    1. Hivatkozások mindig kell lennie, vagy **"webes hivatkozásokat" / külső** vagy **felhasználói felületének elemeit mély kapcsolatokat**, nem belső hivatkozásokat.
-    1. Képek nem hivatalosan támogatott most, de szerepel az ütemtervben.
+    > Alchemy Insights kell lennie csak egy H1 a tetején, vagy fognak törni a termelést. H2s nem teszik sem így használja **merész** vagy más egyezmények jelzi külön szakaszok.
+1. Következő, töltse ki a szövegtörzs segítségével a tervezet anyagot az ügyfél Insights szakaszában az alkímia szabály oldal
+    1. A felsorolásjeles listák jól
+    1. Számozott listák is
+    1. **Félkövér** és *dőlt* is a-ok
+    1. Linkek mindig vagy **"linkeket web"/külső** vagy **mély-linkek UI elemek**, nem a belső linkek.
+    1. Képek nem hivatalosan támogatott ebben az időben, de ez az ütemterv.
 
-És ez már valóban egy kicsit túl hosszú. Legjobb gyakorlat az, körülbelül 400 karakter---
+És ez tényleg már egy kicsit túl hosszú. A legjobb gyakorlat mintegy 400 karakter---------------------------------
 
-Ha készen áll a tartalom, húzza a élő ágat. Ezután menjen az [Alkímia Partner portal](https://alchemyportal.azurewebsites.net) , és írja be a fájlnevet az URL-cím mezőben. 
+Egyszer-a elégedett van kész, húz ez-hoz él ág. Ezután menj az [alkímia partner portálra](https://alchemyportal.azurewebsites.net) és írd be a fájlnevet az URL mezőbe. 

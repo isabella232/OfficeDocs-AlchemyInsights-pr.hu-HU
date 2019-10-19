@@ -1,5 +1,5 @@
 ---
-title: A SharePoint Online webhely létrehozása
+title: Webhely létrehozása a SharePoint Online szolgáltatásban
 ms.author: stevhord
 author: spowriter
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515916"
 ---
 # <a name="create-a-site"></a>Webhely létrehozása
 
-A SharePoint Online különböző típusú webhelyeket hozhat létre. Ehhez az új SharePoint-felügyeleti központ, lásd: [hely létrehozása](https://go.microsoft.com/fwlink/?linkid=866295). Lehetővé teszi a felhasználók számára, hogy saját információk [kezelése hely létrehozása a SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296)talál.
+A SharePoint Online szolgáltatásban különböző típusú webhelyeket hozhat létre. További tudnivalókat az új SharePoint Admin Center [webhelyen a webhely létrehozása](https://go.microsoft.com/fwlink/?linkid=866295)című témakörben talál. A felhasználók saját webhelyeik létrehozásának engedélyezésével kapcsolatban további információt a [webhely létrehozásának kezelése a SharePoint Online szolgáltatásban](https://go.microsoft.com/fwlink/?linkid=866296)című témakörben talál.
  
-Az új webhely-típusokra vonatkozó információ lásd a [csoport csatlakozott webhelyek](https://go.microsoft.com/fwlink/?linkid=866292) vagy [kommunikációs helyek](https://go.microsoft.com/fwlink/?linkid=866294).
+Az új webhelytípusokkal kapcsolatban a [kapcsolódó csoportwebhelyek](https://go.microsoft.com/fwlink/?linkid=866292) és [kommunikációs helyek](https://go.microsoft.com/fwlink/?linkid=866294)csoportosítása című témakörben talál további információt.
     
 
 

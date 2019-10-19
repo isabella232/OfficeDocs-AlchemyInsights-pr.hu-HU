@@ -1,5 +1,5 @@
 ---
-title: OneDrive, fájlok feltöltésével kapcsolatos problémák megoldása
+title: Erősít probléma fájlok feltöltése a OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 5/18/2018
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525158"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>OneDrive, fájlok feltöltésével kapcsolatos problémák megoldása
+# <a name="fix-problems-uploading-files-to-onedrive"></a>Erősít probléma fájlok feltöltése a OneDrive
 
-Próbálja meg, ha egy fájl feltöltése nem:
+Megpróbál ez ha egy reszelő szokás ' feltölt:
   
-- Nevezze át a fájlt, majd próbálkozzon újra. Egyes fájlok nevét és a karaktereket a fájlnevekben nem engedélyezett. 
+- Nevezze át a fájlt, majd próbálkozzon újra. Egyes fájlnevek és a fájlnevekben szereplő karakterek nem engedélyezettek. 
     
-- Ha a fájl szinkronizálás kihozza a OneDrive mappába (például helyezze át az asztalon), amikor a OneDrive szinkronizálás állapota jelenik meg "Naprakész," helyezze vissza. 
+- A fájl szinkronizálása után helyezze át a fájlt az OneDrive mappából (például helyezze át az asztalra), és amikor az OneDrive Sync-állapot "naprakész" állapotként jelenik meg, helyezze vissza. 
     
 [További hibaelhárítási tippek](https://go.microsoft.com/fwlink/?linkid=873155)
   

@@ -1,5 +1,5 @@
 ---
-title: Igénylése a Microsoft Intune iOS-eszközök problémáinak elhárítása
+title: IOS-eszközökkel kapcsolatos problémák elhárítása a Microsoft Intune-ben
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,30 +10,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
 ms.openlocfilehash: bdbfe7bae00a4c5cfa0edbe9a37522cc98e52401
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507005"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Igénylése a Microsoft Intune iOS-eszközök problémáinak elhárítása
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>IOS-eszközökkel kapcsolatos problémák elhárítása a Microsoft Intune-ben
 
-Most a probléma megoldásához kövesse az alább felsorolt erőforrások áttekintése. 
+A probléma megoldásához tekintse át az alább felsorolt erőforrásokat. 
   
-Néhány gyakori hibaüzenetek és a megoldás lépéseit:
+Gyakori hibaüzenetek és megoldási lépések:
   
-- **Elérhető eszközt kap** A felhasználó rendelkezik az eszköz által megszabott mint igényelt további eszközöket. Tekintse át [az eszköz eltávolítása](https://docs.microsoft.com/intune/devices-wipe) vagy [módosítása az eszköz által megszabott](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)e dokumentumokat.
+- A **Device Cap elérte** A felhasználó több, az eszközkorlátnál igényléssel rendelkező eszközzel rendelkezik. Ellenőrizze ezeket a dokumentumokat az [eszköz eltávolításához](https://docs.microsoft.com/intune/devices-wipe) vagy [az eszközkorlát megváltoztatásához](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- A szolgáltatás **nem támogatott. Nincs tanúsítványigénylési házirend:** Apple leküldéses értesítési szolgáltatás (hozzáférésipont-nevek tartoznak) kell konfigurálni vagy megújítani. [Ez a dokumentum](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) útmutatást ehhez áttekintése. 
+- **Ez a szolgáltatás nem támogatott. Nem besorozás politika:** Alma támadás hirdetés szolgáltatás (APNS) szükséges-hoz lenni configured vagy megújít. Olvassa el [ezt a dokumentumot](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) , hogy hogyan kell ezt megtenni. 
     
-- **Felhasználói licenc érvénytelen vagy ismeretlen felhasználónév:** A felhasználónak kell egy Intune vagy EMS licencet kap. Tekintse át ezeket a dokumentumokat keresztül licenc hozzárendelése: [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) vagy [Azure portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Érvénytelen felhasználói licenctípus, vagy a felhasználó neve nem ismerhető fel:** A felhasználónak Intune-vagy EMS-licencet kell rendelni. Tekintse át ezeket a dokumentumokat, és rendeljen hozzá licencet az [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) vagy az [Azure Portal webhelyen](https://docs.microsoft.com/azure/active-directory/license-users-groups)keresztül.
     
-A probléma megoldásához további erőforrások:
+További források a probléma megoldásához:
   
-1. [Intune hibaelhárítás Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) segítségével azonosíthatja és megoldhatja a beiktatási gyakori hibák. [Ez a dokumentum](https://docs.microsoft.com/intune/help-desk-operators) további részletekért tekintse át. 
+1. Az [Intune – hibaelhárítás portál](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) használatával diagnosztizálhatja és megoldhatja a gyakori igénylési hibákat. További részletekért olvassa el [ezt a dokumentumot](https://docs.microsoft.com/intune/help-desk-operators) . 
     
-2. Tekintse át ezeket a dokumentumokat, amelyek megakadályozzák a tanúsítványigénylési és -megoldások egyes gyakori hibák listája: [Útmutató a hibaelhárítás](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) és a [Hibaelhárítás doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Tekintse át ezeket a dokumentumokat az olyan gyakori hibák listájához, amelyek megakadályozzák a tanúsítványigénylést és az egyes felbontásokat: [hibaelhárítási útmutató](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) és a [doc-hibaelhárítás](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-3. [Útmutató a Microsoft Intune iOS-eszközök igénylésére](https://docs.microsoft.com/intune/ios-enroll).
+3. [Információ az iOS-eszközök Microsoft Intune szolgáltatással történő igényléséről](https://docs.microsoft.com/intune/ios-enroll).
     
 

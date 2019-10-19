@@ -1,5 +1,5 @@
 ---
-title: Egy korábbi verzió visszaállítása
+title: Előző fájlverzió visszaállítása
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
 ms.openlocfilehash: 3d612b3e729b471cafd8304d8afe0f569f257e49
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552353"
 ---
-# <a name="restore-a-previous-file-version"></a>Egy korábbi verzió visszaállítása
+# <a name="restore-a-previous-file-version"></a>Előző fájlverzió visszaállítása
 
-Online korábbi verziók lásd:, és állítsa vissza a OneDrive vagy a SharePoint a fájlok régi verzióit. Korábbi verziók együttműködik az összes fájltípus, beleértve a PDF-fájlok, CAD-fájlok, fényképek és videók. Egy korábbi verzió visszaállításához:
+-Val online változat történelem, tudod lát és visszaad régebb változat-ból-a fájlokat-ban OneDrive vagy SharePoint. A korábbi verziók minden fájltípushoz (például PDF, CAD-fájlok, fényképek és videók) is használható. Előző fájlverzió visszaállítása:
   
-1. Nyissa meg a SharePoint-dokumentumtárhoz vagy OneDrive helyét.
+1. Nyissa meg a SharePoint-dokumentumtárat vagy az OneDrive helyet.
     
-2. Kattintson a bal oldalán jelölje ki azt a fájlt, és kattintson a **korábbi verziók**. Ha a korábbi verziók nem jelenik meg a parancssávon, kattintson a további ( **...** ). 
+2. Kattintással jelölje ki a fájl bal oldalán lévő fájlt, és kattintson a **korábbi verziók**elemre. Ha a verzióelőzmények a parancssávon nem látható, kattintson a további ( **...** ) gombra. 
     
-3. A verziót szeretné megtekinteni, vagy további ( **...** ) gombra kattintva a jobb változat, és kattintson a **Visszaállítás**gombra.
+3. Kattintson a megtekinteni kívánt verzióra, vagy kattintson a további ( **...** ) lehetőségre a verziótól jobbra, majd kattintson a **visszaállítás**gombra.
     
 

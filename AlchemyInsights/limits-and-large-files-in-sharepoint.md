@@ -1,5 +1,5 @@
 ---
-title: Korlátozások és a nagy fájlok a SharePoint szolgáltatásban
+title: Korlátok és nagyméretű fájlok a SharePoint szolgáltatásban
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497589"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Fájlokat nem lehet feltölteni a SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>A SharePoint Online webhelyre nem feltölthető fájlok
 
-Ha a fájl feltöltése nem a SharePoint online, ellenőrizze, hogy:
+Ha egy fájl nem tölthető fel a SharePoint Online szolgáltatásban, győződjön meg arról, hogy:
   
-- 15 GB-nál kisebb.
+- -A ' kevésbé mint 15 GB-ban méret.
     
-- A teljes elérési útját a fájlnévvel együtt legfeljebb 400 karakter.
+- A teljes elérési út, a fájlnevet is beleértve, kevesebb, mint 400 karakter.
     
-- A fájlnév nem tartalmazhatja a karaktereket " \* : \< \> ? / \ | és nem szerepel a listában [Érvénytelen](https://go.microsoft.com/fwlink/?linkid=866430)nevek.
+- A fájlnév nem tartalmazza a " \* :? \< \> / \ | és nem szerepel az [érvénytelen nevek](https://go.microsoft.com/fwlink/?linkid=866430)listáján.
     
-Próbálunk, a OneDrive asztali alkalmazás segítségével feltölteni a fájlt, ha [megszorításai és korlátai, fájlok és mappák szinkronizálásakor](http://go.microsoft.com/fwlink/p/?LinkID=717734) vagy [szinkronizálási problémák megoldásához OneDrive](https://go.microsoft.com/fwlink/?linkid=866431)talál.
+Ha a fájlt a OneDrive asztali alkalmazás használatával próbálja feltölteni, olvassa el a [korlátozások és korlátozások a fájlok és mappák szinkronizálásakor](http://go.microsoft.com/fwlink/p/?LinkID=717734) vagy a [onedrive szinkronizálási problémák kijavítása](https://go.microsoft.com/fwlink/?linkid=866431)közben című témakört.
   
 

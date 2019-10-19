@@ -1,5 +1,5 @@
 ---
-title: Felhasználók hozzáférésének biztosítása a SharePoint és a OneDrive
+title: Ad használók belépés-hoz SharePoint és OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
 ms.openlocfilehash: 1be9763ce7766c6261f0c1dae78ced6727c7a88d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36523765"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Felhasználók hozzáférésének biztosítása a SharePoint és a OneDrive
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Ad használók belépés-hoz SharePoint és OneDrive
 
 > [!NOTE]
-> Több felhasználó, aki korábban az access OneDrive vagy a SharePoint webhely nem érhető el, ha a szolgáltatás átmeneti probléma lehet. [Ellenőrizze a szolgáltatás egészségügyi irányítópult](https://portal.office.com/adminportal/home#/servicehealth)
+> Ha egy OneDrive vagy SharePoint webhely nem érhető el több olyan felhasználó számára, akik korábban már hozzáfértek, akkor lehet, hogy ideiglenes szervizhiba történt. [A szolgáltatásállapot-irányítópult ellenőrzése](https://portal.office.com/adminportal/home#/servicehealth)
   
-Ha emberek tudnak bejelentkezni, és használja a SharePoint és a OneDrive a szervezetben, szükség fiókokat adja őket, és győződjön meg arról, hogy a licenc, amely hozzáférést nyújt a SharePoint és a OneDrive. A legegyszerűbb módja a felhasználók hozzáadása a Microsoft 365 felügyeleti központban van.
+Ha ön akar emberek-ban-a szervezet-hoz képesnek lenni megtenni jel-ban és használ SharePoint és OneDrive, sírnod kell összead számlák nekik és győződj meg nekik van egy engedély amit ad őket belépés-hoz SharePoint és OneDrive. A felhasználók hozzáadásának legegyszerűbb módja a Microsoft 365 Admin Center.
   
-1. Ugrás az [aktív felhasználók a Microsoft 365 felügyeleti központ lapján](https://portal.office.com/adminportal/home#/users), és kattintson a **felhasználó hozzáadása**.
+1. Nyissa meg a [Microsoft 365 Admin Center aktív felhasználók lapját](https://portal.office.com/adminportal/home#/users), és kattintson a **felhasználó felvétele**gombra.
     
-2. Töltse ki az információkat a felhasználó számára, és ellenőrizze, hogy a **terméklicencek**, licenc tartozik és **SharePoint Online** van-e jelölve. 
+2. Töltse ki a felhasználó adatait, és győződjön meg arról, hogy a **terméklicencek**alatt van hozzárendelve licenc, és a **SharePoint Online** beállítás van kijelölve. 
     
-Fontos megjegyezni, hogy ha külső szervezeten belüli megosztását teszi lehetővé a felhasználók is megosztása SharePoint és OneDrive a szervezeten kívüli személyeknek. Nem szükséges, hogy ezeket a külső felhasználók licenceket. Szintén nem kell fiókok hozzáadása, kivéve, ha a megosztás beállítása "Csak meglévő, külső felhasználóknak." Ebben az esetben ha az emberek nem a szervezet könyvtárban, akkor Azure AD admin közepén Vendég felhasználóként hozzáadni.
+Ne feledje, hogy ha a szervezeten belül engedélyezi a külső megosztást, a felhasználók megoszthatják a SharePoint és az OneDrive tartalmakat a szervezeten kívüli emberekkel. Ezeket a külső felhasználói licenceket nem kell megadni. Azt is nem kell hozzá fiókokat, kivéve, ha a megosztás van beállítva, hogy "csak a meglévő külső felhasználók." Ebben az esetben, ha a személyek nem a szervezet könyvtárában vannak, akkor Vendégfelhasználóként a Azure AD admin központban kell azokat hozzáadnunk.
   
 

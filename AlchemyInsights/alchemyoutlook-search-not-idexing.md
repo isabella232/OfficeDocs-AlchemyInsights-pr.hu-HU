@@ -1,5 +1,5 @@
 ---
-title: Alkímia - Outlook Keresés nem idexing
+title: Alchemy-Outlook keresés nem idexing
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
 ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505833"
 ---
-# <a name="outlook-search-not-indexing"></a>Nem indexelő Outlook Keresés
+# <a name="outlook-search-not-indexing"></a>Az Outlook-keresés nem indexel
 
-Tudomásunk az Outlook keresési problémák kapcsolódó legújabb biztonsági frissítések a Windows.
+Tisztában vagyunk a Windows legújabb biztonsági frissítéseivel kapcsolatos, az Outlook keresési problémáin.
   
-Az Outlook programban történő keresésekor jelenhet meg a hibák közül: **Mi okozta a hibát, és a keresés nem hajtható végre**, vagy **lehet, hogy a keresési eredmények hiányosak, mert az elemek indexelése még folyamatban van**. A javítás kiadták választható Windows-frissítésként. Telepítse a megfelelő látja a probléma a Windows-verzió egy: 
+Az Outlook programban való keresés során a következő hibaüzenetek valamelyike jelenhet meg: **valami elromlott, és a keresés nem fejezhető**be, vagy a **keresési eredmények hiányosak lehetnek, mert a cikkek még mindig indexeltek**. A javítást egy választható Windows-frissítésnek adták ki. Kérjük, telepítse az egyik megfelelő a Windows-verzió, amit lát ez a probléma: 
   
-> [A Windows 7 - 2017. június 27. frissítése](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7-június 27, 2017 frissítés](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Windows 8.1 - 2017. június 27. frissítése](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8,1-június 27, 2017 frissítés](https://support.microsoft.com/kb/4022720.aspx)
     
-> [Windows 10 verzió 1703 - frissítés 2017. június 27.](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 Version 1703-június 27, 2017 frissítés](https://support.microsoft.com/kb/4022716.aspx)
     
-A legfrissebb információkat talál a cikk: [Outlook ismert problémák az június 2017 biztonsági frissítést](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) a probléma #5. 
+A legfrissebb információkért olvassa el a következő cikket: #5 [Outlook által ismert problémák a júniusi 2017 biztonsági frissítésekkel](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) kapcsolatban. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: SharePoint-lista vagy tár engedélyeinek módosítása
+title: SharePoint-lista vagy-tár engedélyeinek módosítása
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
 ms.openlocfilehash: 9033e8da6b3032b47b761b89e18af643100afaa0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519085"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>SharePoint-lista vagy tár engedélyeinek módosítása
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>SharePoint-lista vagy-tár engedélyeinek módosítása
 
-1. Nyissa meg a SharePoint-webhelyen, webböngészővel, és nyissa meg a listát vagy tárat.
+1. Lépjen a SharePoint-webhelyre egy webböngészőben, és nyissa meg a listát vagy tárat.
     
-2. Kattintson a beállítások ikonra a jobb felső részén, és kattintson a **lista**vagy a **dokumentumtár beállításait** . (Ha a parancs nem jelenik meg, kattintson a **tár** vagy **lista** lapon nyissa meg a menüszalagon, és kattintson a **Lista** vagy a **Dokumentumtár beállításait** a menüszalagon.) 
+2. Kattintson a jobb felső sarokban látható beállítások ikonra, majd kattintson a **könyvtárbeállítások** vagy a **Listabeállítások**elemre. (Ha nem látja a parancsot, válassza a **médiatár** vagy a **lista** fület a szalag megnyitásához, majd kattintson a **Műsortár beállítások** vagy **lista beállításai** parancsra a szalagon.) 
     
-3. **Engedélyek és kezelés**területén kattintson az **engedélyek a lista** vagy **a dokumentumtár engedélyeit**.
+3. Az **engedélyek és kezelés**területen kattintson a **dokumentumtár**engedélyeinek **engedélyei** elemre.
     
-Vegye figyelembe, hogy alapértelmezés szerint SharePoint-listák és tárak saját engedélyek öröklése a webhely. Ha megszünteti az engedélyek öröklődése, a meglévő engedélyekkel a lista vagy tár, és mindent, ami azt másolható. Ha később módosítja a webhely engedélyeit, a módosítások a lista vagy tár és az elemeket nem kell alkalmazni.
+Ne feledje, hogy alapértelmezés szerint a SharePoint-listák és-tárak a webhelytől öröklik engedélyeiket. Ha megszegi az engedélyek öröklődését, az aktuális engedélyek a listába vagy tárba kerülnek, és minden benne található. Ha a webhely engedélyei később módosulnak, a módosítások nem lesznek alkalmazva a listára vagy tárra és az abban lévő elemekre.
   
 

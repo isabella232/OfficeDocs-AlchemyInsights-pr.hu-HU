@@ -1,5 +1,5 @@
 ---
-title: Microsoft csapatok - vendégként való hozzáférés
+title: Microsoft-csapatok-vendéghozzáférés
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -7,25 +7,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "311"
+- "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0f46024ed7460579da0095f437dfccc1ffa7cdda
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666986"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37590388"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft csapatok - vendégként való hozzáférés
+# <a name="microsoft-teams---guest-access"></a>Microsoft-csapatok-vendéghozzáférés
 
-Nem kell bekapcsolása és beállítása a vendégként való hozzáférés szolgáltatás a Microsoft Teams?
+Segítségre van szüksége a Microsoft csapatok Guest Access funkciójának bekapcsolásával és beállításával kapcsolatban?  
 
-Az alábbi lépéseket kell elvégeznie:
+Először ellenőrizze, hogy követte-e a [Guest Access ellenőrzőlista](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist)lépéseit. Egyszer minden azok lép van befejezett, sírnod kell [vár valameddig 24 óra](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) részére a elintézés-hoz hatással van.
 
-1. Vendégként való hozzáférés engedélyezése.
-1. Vendég felhasználók hozzáadása a csapat.
-1. A Vendég felhasználói jogok beállítása.
+Ha biztos benne, hogy elvégezte a Feladatlista lépéseit, és már több mint 24 órája van, menjen előre, és próbáljon [felvenni egy vendéget a csapatba](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-További információt, beleértve az útmutató videók lásd: [Microsoft csapatok a vendégként való hozzáférés](https://docs.microsoft.com/microsoftteams/guest-access).
+További információk, például az útmutató videók a [Microsoft-csapatok vendéghozzáférése](https://docs.microsoft.com/microsoftteams/guest-access)című témakörben találhatók.

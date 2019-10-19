@@ -1,5 +1,5 @@
 ---
-title: ConsistencyGuid / sourceAnchor viselkedés
+title: ConsistencyGuid/sourceAnchor viselkedés
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
 ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516986"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor viselkedés
+# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid/sourceAnchor viselkedés
 
-Azure AD csatlakozás (1.1.524.0 verzió, és utána) most lehetővé teszi az msDS-ConsistencyGuid sourceAnchor attribútum használatát. Ez a funkció használatakor Azure AD csatlakozás automatikusan beállítja a szinkronizálási szabályok:
+Azúrkék AD Connect (verzió 1.1.524.0 és utána) most megkönnyíti az msDS-ConsistencyGuid azonosító sourceAnchor attribútumként való használatát. Ha ezt a funkciót használja, a Azure Connect program automatikusan beállítja a szinkronizálási szabályokat:
   
-- A sourceAnchor attribútum a felhasználói objektum msDS-ConsistencyGuid használják. ObjectGUID más objektumtípusok esetében használatos.
+- Használja a felhasználói objektumok sourceAnchor attribútumaként az msDS-ConsistencyGuid azonosítót. Az ObjectGUID objektum más objektumtípusokhoz használatos.
     
-- Bármely adott helyszíni AD felhasználói objektum, amelynek msDS-ConsistencyGuid attribútumot nem lakott, Azure AD csatlakozás írások az objectGUID értéket vissza a helyszíni Active Directory msDS-ConsistencyGuid attribútumot. Miután az msDS-ConsistencyGuid attribútumot nem üres, Azure AD csatlakozás majd exportálja az objektum Azure AD.
+- Bármely olyan intézményi Active Directory felhasználói objektumhoz, amelynek msDS-ConsistencyGuid attribútuma nincs kitöltve, a Azure AD Connect az objectGUID értékét visszaírja az intézményi Active Directory msDS-ConsistencyGuid attribútumához. Miután az msDS-ConsistencyGuid attribútum ki van töltve, a Azure AD Connect ezután exportálja az objektumot azúrkék AD-ba.
     
- **Megjegyzés:** Egyszer helyszíni AD objektum Azure AD csatlakozás (azaz, importálja a összekötő AD helyet, és a Metaverse vetített) importálja, az sourceAnchor értékét már nem módosíthatja. Adhatja meg a sourceAnchor értékét egy adott helyszíni AD az objektum, az msDS-ConsistencyGuid attribútumot konfigurálása előtt Azure AD csatlakozás lesz importálva. 
+ **Megjegyzés:** Miután egy intézményi Active Directory-objektumot importált a Azure AD Connect (azaz az AD Connector térbe, a metaverse értékre vetített) programba, már nem változtathatja meg a sourceAnchor értékét. Egy adott intézményi Active Directory-objektumhoz tartozó sourceAnchor azonosító megadásához konfigurálja az msDS-ConsistencyGuid attribútumot az Azure AD Connect programba történő importálás előtt. 
   
-SourceAnchor és ConsistencyGuid további információt talál a következő: [Azure AD csatlakozás: tervezési koncepciók](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+A SourceAnchor és a ConsistencyGuid azonosítóról további információt a következő címen olvashat: [Azure ad Connect: tervezési fogalmak](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

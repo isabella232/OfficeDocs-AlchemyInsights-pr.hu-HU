@@ -1,5 +1,5 @@
 ---
-title: Outlook.com hogyan kérhet támogatást
+title: Outlook.com Hogyan juthat támogatáshoz
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "1326"
 - "8000080"
 ms.openlocfilehash: 9e77e1bb55477ec1279bd9e0cae5a2f4875afac7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36536473"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>Hogyan kérhet támogatást az Outlook.com
+# <a name="how-to-get-support-in-outlookcom"></a>Hogyan juthat támogatás Outlook.com
 
-Sajnos Outlook.com nem kínál Telefonos tanácsadás, de van dedikált csapat, aki segíteni tud.
-Írja be a kérdést vagy a probléma a fenti **Súgó** mezőbe írja le, és válassza a **Súgó**.
+Sajnáljuk, Outlook.com nem nyújt telefonos támogatást, de van dedikált csapat, akik segíthetnek.
+Adja meg kérdését, vagy írja le kérdését a fenti **súgómezőbe** , majd válassza a **Súgó**pontot.
 
 [Segítség a Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

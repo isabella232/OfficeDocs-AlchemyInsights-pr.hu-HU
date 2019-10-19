@@ -1,5 +1,5 @@
 ---
-title: 9000215 Outlook.com-előfizetések
+title: 9000215 Outlook.com előfizetések
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511813"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Előfizetések és unsubscribing
+# <a name="subscriptions-and-unsubscribing"></a>Előfizetések és előfizetés megszüntetése
 
-Ha meg szeretné kapni a hírlevelek vagy promóciók, kétféleképpen Outlook.com leiratkozhat:
+Ha le szeretné állítani a hírlevelek vagy promóciók fogadását, kétféle módon iratkozhat fel a Outlook.com:
 
-1. A Beérkezett üzenetek mappában jelölje be a hírlevél vagy promóciós e-mail. A betekintő ablaktábla tetején válassza a **Lemondás**.
-2. Nyissa meg az [Outlook.com előfizetések beállítások](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Beállítások** > **az összes Outlook-beállítások megtekintése** > **E-mail** > **előfizetések**), és válassza a **Lemondás**.
+1. A Beérkezett üzenetek mappában jelöljön ki egy hírlevelet vagy promóciós e-mailt. A betekintő ablaktábla tetején válassza a **leiratkozás**lehetőséget.
+2. Nyissa meg [a Outlook.com előfizetések beállításai](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Beállítások** > **megtekintése Outlook beállítások** > **e-mail** > **előfizetések**) és válasszuk a **leiratkozás**.
 
 Megjegyzések:
 
-- Nem minden ügyfélnek pillanatában is élvezhetik ezt a szolgáltatást.
-- Ez a szolgáltatás csak akkor látható, ha a vállalat jegyzett e-mail küldése e-mailt kapott.
+- Nem minden ügyfél részesülhet ez a funkció abban a pillanatban.
+- Csak akkor látja ezt a funkciót, ha kapott egy e-mailt a vállalattól, amelyen az előfizetett e-mailt küldi.

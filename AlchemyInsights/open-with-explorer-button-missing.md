@@ -1,5 +1,5 @@
 ---
-title: Megnyitás Explorer gomb hiányzik a
+title: Megnyitás az Explorer gombjának hiányával
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
 ms.openlocfilehash: 35b12036dfa056b4c5928223133e58259d7edc3e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36543063"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a>A Megnyitás Explorer gomb hiányzik.
+# <a name="the-open-with-explorer-button-is-missing"></a>Hiányzik a Megnyitás az Intéző programmal gomb
 
-SharePoint-és OneDrive a modern tapasztalat a **Megnyitás Intézővel** gomb nem jelenik meg. Nyissa meg a dokumentumtár fájl Explorer, tallózással keresse meg az Internet Explorer, és válassza a Nézet menü \> **Intéző nézetben**. A Microsoft Edge, Google Chrome vagy Firefox nem érhető el a **fájl Explorer megjelenítési** beállítást. 
+A **nyit-val Felfedező** gomb nem ' feltűnik-ban korszerű tapasztalat-ból SharePoint és OneDrive. Ha a fájltallózó alkalmazásban szeretne megnyitni egy dokumentumtárat, tallózással keresse meg azt az Internet Explorer programban, \> és válassza a Nézet menü **nézetét a fájlkezelő**alkalmazásban. A **megtekintés a Fájltallózban** lehetőség nem érhető el a Microsoft Edge, a Google Chrome vagy a Firefox böngészőben. 
   
 > [!NOTE]
-> Megnyitás Explorer támogatott csak az Internet Explorer böngészőn keresztül. Ehelyett [Új ügyfél OneDrive szinkronizálása a SharePoint-fájlok szinkronizálása](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) előíró [Fájlok igény](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). OneDrive az összes fájl elérhető helyi tárolóhely használata nélkül. 
+> Az Intézővel megnyitva csak az Internet Explorer használható. Helyett, [szinkronizál SharePoint fájlokat-val a új OneDrive szinkronizál ügyfél](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) melyik szolgáltat [fájlokat-ra-követelés](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Belépés minden-a fájlokat-ban OneDrive nélkül használ helyi raktározás hely. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Modern csoportwebhely létrehozása
+title: Hozzon létre egy modern Team site
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516319"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Az Office 365 csoport csatlakozó csoportwebhely létrehozása
+# <a name="create-an-office-365-group-connected-team-site"></a>Az Office 365 csoporthoz csatlakoztatott csoportwebhely létrehozása
 
-1. Kattintson az alkalmazás indító a bal felső sarokban, és válassza ki a **SharePoint**. Ha nem látjuk a SharePoint szelvény, kattintson az **összes apps**.
+1. Kattintson az alkalmazásindító a bal felső sarokban, és válassza a **SharePoint**. Ha a SharePoint-mozaikot nem látja, kattintson a **minden alkalmazás**lehetőségre.
     
-2. A SharePoint-kezdőlap tetején kattintson a **webhely létrehozása** , majd válassza a **csoportwebhely** lehetőséget. 
+2. A SharePoint-Kezdőlap felső részén kattintson a **webhely létrehozása** parancsra, és válassza ki a **csoportwebhely** lehetőséget. 
     
     > [!NOTE]
-    > A webhely létrehozása parancs nem jelenik meg, ha a webhelykészítés nem engedélyezhető a szervezetben. Az engedélyezéshez, lásd a [webhelykészítés kezelése](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Ha nem látható a hely létrehozása parancs, előfordulhat, hogy a webhely létrehozása nincs engedélyezve a szervezeten belül. Engedélyezéséhez olvassa el a [webhely létrehozásának kezelése](https://go.microsoft.com/fwlink/?linkid=2009644)című témakört. 
   
-3. Kövesse a képernyőn a hely nevét, és hozzon létre egy e-mail címet, az Office 365 csoport, és kattintson a **Tovább gombra**. Más tulajdonosok csoport és a tagok is hozzáadhat. Kattintson a **Befejezés** gombra.
+3. Kövesse a képernyőn megjelenő lépéseket a webhely elnevezéséről, és hozzon létre egy e-mail címet az Office 365 csoporthoz, majd kattintson a **tovább**gombra. További csoporttulajdonosok és tagok is hozzáadhatók. Kattintson a **Befejezés** gombra.
   
- **Megjegyzés:** A csoportwebhely létrehozása nélkül csatlakozik egy csoporthoz, hajtsa végre a fenti lépéseket, de nem csoportwebhely a 2. Adja meg a többi beállítást. Ez végigvezeti Önt egy csoport nélkül csoportwebhely létrehozása. 
+ **Megjegyzés:** Ha csoport nélkül szeretne csoportwebhelyet létrehozni, kövesse a fenti lépéseket, de ne a 2. lépésben válassza a csoportwebhely lehetőséget. válasszuk az egyéb opciók lehetőséget. Ez végigvezeti a csoportwebhely létrehozán a csoport nélkül. 
     
 

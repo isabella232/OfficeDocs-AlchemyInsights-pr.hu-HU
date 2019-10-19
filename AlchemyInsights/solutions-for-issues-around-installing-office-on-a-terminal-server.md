@@ -1,5 +1,5 @@
 ---
-title: Problémák körül egy terminálkiszolgálóra telepíti az office megoldások
+title: Megoldások a terminálkiszolgálón telepített Office-problémák megoldásához
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501477"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Problémák körül egy terminálkiszolgálóra telepíti az office megoldások
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Megoldások a terminálkiszolgálón telepített Office-problémák megoldásához
 
-Megosztott számítógép-aktiválás használatához rendelkeznie kell az Office 365 terv, amely tartalmazza az Office 365 ProPlus.
+A megosztott számítógép aktiválásához rendelkeznie kell egy Office 365-tervvel, amely tartalmazza az Office 365 ProPlus programot.
   
-- Ellenőrizze, hogy a megosztott számítógép-aktiválásnak engedélyezve van az Office 365 ProPlus
+- Ellenőrizze, hogy a megosztott számítógép aktiválása engedélyezve van-e az Office 365 ProPlus
     
-- Győződjön meg arról, hogy sikerült-e az Office 365 ProPlus aktiválás
+- Ellenőrizze, hogy az Office 365 ProPlus aktiválása sikeresen megtörtént-e
     
-- Tekintse át a megosztott számítógép-aktiválásnak hibaüzenetek jelennek meg:
+- A megosztott számítógép-aktiválás hibaüzeneteinek áttekintése:
     
-  - "A fiókban található termékek nem használható megosztott számítógép esetekben az Office aktiválása"
+  - "A fiókjában található termékek nem használhatók az Office aktiválásához a megosztott számítógépes forgatókönyvekben"
   
-Ez a hiba azt jelenti, hogy nincs olyan Office 365 terv, amely tartalmazza az Office 365 ProPlus.
+Ez a hiba azt jelenti, hogy nincs Office 365-terv, amely tartalmazza az Office 365 ProPlus.
     
   - "Nem licencelt termék"
     
-  - Ellenőrizze, hogy a felhasználó az Office 365 ProPlus van rendelve licenc.
+  - Ellenőrizze, hogy a felhasználó kap-e licencet az Office 365 ProPlus számára.
     
-  - Ellenőrizze, hogy a felhasználó aláírja a saját felhasználói fiók be az Office 365
+  - Ellenőrizze, hogy a felhasználó az Office 365 felhasználói fiókkal bejelentkezik-e
     
-  - Ellenőrizze, hogy a megosztott számítógép és az Internet közötti kapcsolat.
+  - Ellenőrizze, hogy van-e kapcsolat a megosztott számítógép és az internet között.
     
-Más hibaelhárítási tippeket talál: [az Office 365 ProPlus megosztott számítógépen aktiválási problémák elhárítása](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+További hibaelhárítási tippeket a következő témakörökben talál: az [Office 365 ProPlus által használt, megosztott számítógépes aktiválással kapcsolatos problémák elhárítása](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

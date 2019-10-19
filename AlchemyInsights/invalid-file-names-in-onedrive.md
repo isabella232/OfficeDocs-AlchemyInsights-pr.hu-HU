@@ -1,5 +1,5 @@
 ---
-title: A fájlneveket OneDrive
+title: Érvénytelen fájlnevek az OneDrive-ban
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36498201"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Érvénytelen fájl- és mappanevek OneDrive és SharePoint
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Érvénytelen fájl-és mappanevek az OneDrive és a SharePoint rendszerben
 
-Ezek a karakterek a fájl- és mappanevek nem engedélyezett " \* : \< \> ? / \ | 
+Ezek a karakterek nem engedélyezettek fájl-és mappanevekben \< \> " \* :? / \ | 
   
-Egyes szervezetek még nincs # és be van kapcsolva: % támogatása. Ezek a karakterek engedélyezése a szervezetben, lásd: [# és % támogatás engedélyezése](https://go.microsoft.com/fwlink/?linkid=862611). 
+Egyes szervezetek még nem támogatják a # és% bekapcsolt. Ha meg szeretné tudni, hogyan engedélyezheti ezeket a karaktereket a szervezeten belül, olvassa el a [# és% support engedélyezése](https://go.microsoft.com/fwlink/?linkid=862611)című témakört. 
   
-[További információ a fájl és mappa korlátozása](https://go.microsoft.com/fwlink/?linkid=866430)
+[További információ a fájl-és mappanév-korlátozásokról](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

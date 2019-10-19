@@ -1,5 +1,5 @@
 ---
-title: Felhasználói engedélyek
+title: Felhasználói jogosultságok
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 5/21/2018
@@ -9,33 +9,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36531937"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a>A OneDrive és a SharePoint felhasználói engedélyek
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a>Felhasználó engedély-ban SharePoint és OneDrive
 
-Ha a felhasználó a szervezet nem tudja elérni a SharePoint- vagy OneDrive, ellenőrizze, hogy a licenc, amely tartalmaz SharePoint és OneDrive rendelkeznek. 
+Ha egy felhasználó-ban-a szervezet isnt ' képes-hoz belépés SharePoint vagy OneDrive, győződj meg nekik van egy engedély amit beleértve SharePoint és OneDrive. 
   
-1. Ugrás az [aktív felhasználók lapján a Microsoft 365 felügyeleti központban](https://portal.office.com/adminportal/home#/users) , és válassza ki a felhasználót. 
+1. Nyissa meg a [Microsoft 365 Admin Center aktív felhasználók lapját](https://portal.office.com/adminportal/home#/users) , és válassza ki a felhasználót. 
     
-2. Ellenőrizze, hogy a **terméklicencek**, licenc tartozik és **SharePoint Online** van-e jelölve. 
+2. Győződjön meg arról, hogy a **terméklicencek**alatt van hozzárendelve licenc, és a **SharePoint Online** beállítás van kijelölve. 
     
- Adja meg a felhasználó hozzáférése egy SharePoint-webhelyen: 
+ Ahhoz, hogy engedélyt adjon egy felhasználónak a SharePoint-webhelyhez való hozzáféréshez: 
   
-1. Nyissa meg a böngészőben.
+1. Nyissa meg a webhelyet egy webböngészőben.
     
-2. Ha a webhelyet az Office 365 csoporthoz tartozik, kattintson a beállítások ikonra a jobb felső részén, és kattintson a **webhely engedélyei**. **Személyek meghívása**gombra, és válassza a tagok hozzáadása az Office 365 csoport, vagy csak a webhely megosztása. 
+2. Ha a hely Office 365-csoporthoz tartozik, kattintson a jobb felső sarokban található Beállítások ikonra, majd kattintson a **webhely engedélyei**elemre. Kattintson a **személyek meghívása**gombra, majd adja hozzá a tagokat az Office 365 csoporthoz, vagy osszon meg csak a webhelyet. 
     
-    A kommunikációs webhely **megosztás webhelyen** kattintson a jobb felső, írja be a személy nevét, és válassza ki a megfelelő engedélyszintet (olvasás, Szerkesztés vagy teljes hozzáférés). 
+    Kommunikációs webhely esetén kattintson a jobb felső sarokban a **webhely megosztása** gombra, írja be a személy nevét, majd válassza ki a jogosultsági szintet (olvasás, szerkesztés vagy teljes vezérlés). 
     
-    Klasszikus csoportwebhelyet kattintson a **megosztás** jobb felső. Adja meg a nevét a személyt szeretnénk meghívni, vagy írja be, hogy ossza meg mindenkivel a szervezetben mindenki. Kattintson a **megosztás**gombra.
+    Klasszikus csoportwebhely esetén kattintson a **megosztás** gombra a jobb felső sarokban. Írja be a meghívni kívánt személy nevét, vagy írja be a mindenki nevet a szervezet minden résztvevőjének. Kattintson a **megosztás**elemre.
     
 > [!NOTE]
-> Ha egy helyen, de a tulajdonosa nem tagja, felkérhet személyeket, hogy a webhely, de a felkérést fog generálni a hozzáférés iránti kérelem, amely vagy jóváhagyta vagy elutasította a webhely tulajdonosával. 
+> Ha Ön tagja egy webhelynek, de nem tulajdonosa, akkor felkérhet személyeket a webhelyre, de a meghívás olyan hozzáférési kérelmet fog generálni, amelyet a webhely tulajdonosa jóváhagyhat vagy visszautasított. 
   
-[Útmutató: a felhasználó egy fájl vagy mappa megosztása](https://go.microsoft.com/fwlink/?linkid=533408)
+[Fájl vagy mappa megosztása a felhasználóval](https://go.microsoft.com/fwlink/?linkid=533408)
   
 

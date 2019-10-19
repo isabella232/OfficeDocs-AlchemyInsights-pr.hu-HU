@@ -1,5 +1,5 @@
 ---
-title: Csoport hozzáadása egy SharePoint-webhely
+title: Csoport hozzáadása SharePoint-webhelyhez
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495213"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Csoport hozzáadása egy SharePoint-webhely
+# <a name="add-a-group-to-a-sharepoint-site"></a>Csoport hozzáadása SharePoint-webhelyhez
 
-Office 365 csoporttulajdonosok bizonyos SharePoint-csoportwebhelyek (köztük a Microsoft Teams létrehozott) kezeli. SharePoint-webhelyek és a tartalom is megosztható Office 365 csoportok, valamint a SharePoint-csoportokat. SharePoint-csoport összes rendelkező felhasználók ugyanazokat a helyek és a tartalom gyűjteménye. Klasszikus helyek javasoljuk, hogy csoportok segítségével kényelmesen rendelhet ugyanazzal az engedélyszinttel engedélyek hozzárendelése egy személyhez, hanem egyszerre több embernek egyidejűleg.
+Egyes SharePoint csoportwebhelyeket (beleértve a Microsoft csapatok által létrehozott csoportokat is) az Office 365 csoport tulajdonosai kezelnek. A SharePoint-webhelyek és-tartalmak megoszthatók az Office 365 csoportokkal és a SharePoint-csoportokkal is. A SharePoint-csoport olyan felhasználók csoportja, akik a webhelyekhez és a tartalmhoz azonos engedélykészletet rendelkeznek. A klasszikus webhelyekhez azt ajánljuk, hogy csoportok használatával kényelmesen rendelje ugyanazt az engedélyszintet egyszerre több személyhez ahelyett, hogy az engedélyeket egyszerre egy személlyel társítaná.
   
-Kezelése az Office 365 csoport tagjai:
+Kezelése Office 365 csoport tagjai:
   
-1. Ugrás a [csoportok lapon a Microsoft 365 felügyeleti központban](https://portal.office.com/adminportal/home#/groups).
+1. Nyissa meg a [Microsoft 365 felügyeleti központ csoportok lapját](https://portal.office.com/adminportal/home#/groups).
     
-2. Válasszon egy csoportot a tulajdonosok és a tagok megjelenítéséhez. Hozzáadása vagy eltávolítása, kattintson a **Szerkesztés** hivatkozásra **tulajdonosai** vagy **tagjai** sorában. 
+2. Jelöljön ki egy csoportot, amely a tulajdonosait és tagjait látja. Személyek hozzáadásához vagy eltávolításához kattintsunk a **tulajdonosok** vagy a **tagok** sor **Szerkesztés** hivatkozására. 
     
-A kommunikációs webhely megosztása az Office 365 csoport:
+Kommunikációs webhely megosztása egy Office 365-csoporttal:
   
-1. Látogasson el a böngészőben, majd kattintson a **megosztási webhely** jobb felső részén található. 
+1. Megy a telek-ban egy legel és kettyenés **osztozik telek** -ban jobb felső. 
     
-2. Írja be a csoport nevét, és válassza ki a megfelelő engedélyszintet (olvasás, Szerkesztés vagy teljes hozzáférés).
+2. Írja be a csoport nevét, majd válassza ki a jogosultsági szintet (olvasás, szerkesztés vagy teljes vezérlés).
     
-Klasszikus webhely használata a SharePoint-csoport létrehozása:
+Klasszikus webhellyel használandó SharePoint-csoport létrehozása:
   
-1. Látogasson el a böngészőben, majd kattintson a beállítások ikonra a jobb felső részén.
+1. Megy a telek-ban egy legel és kettyenés a elintézés ikon-ban jobb felső.
     
-2. A **webhely beállításai**parancsra, és a **felhasználók és engedélyek**területen kattintson a **webhely engedélyei**.
+2. Kattintson a **webhely beállításai**elemre, majd a **felhasználók és engedélyek**területen kattintson a **webhely engedélyei**lehetőségre.
     
-3. Az engedélyek lapon kattintson a **Csoport létrehozása**.
+3. Az engedélyek lapon kattintson a **csoport létrehozása**gombra.
     
-[Klasszikus csoportwebhely csatlakozni az új Office 365 csoport](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Klasszikus csoportwebhely csatlakoztatása új Office 365-csoporthoz](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[További tudnivalók a SharePoint-csoportok használata](https://go.microsoft.com/fwlink/?linkid=874658)
+[További információ a SharePoint-csoportokkal való munkával kapcsolatban](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Intune feltételes hozzáférés
+title: Feltételes elérés Intune szolgáltatással
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504996"
 ---
-# <a name="conditional-access-with-intune"></a>Intune feltételes hozzáférés
+# <a name="conditional-access-with-intune"></a>Feltételes elérés Intune szolgáltatással
 
-**A feltételes hozzáférésű** használata Intune 3 lépésből áll: 
+A **feltételes hozzáférés** Intune szolgáltatással 3 lépést igényel: 
   
-- Hozzon létre egy **Feltételes házirend** határozza meg, milyen erőforrásokat védett, és feltételeket kell e források eléréséhez kell megfelelni. Például egy eszközt kell megfelelő vállalati e-mail megnyitása előtt. 
+- Hozzon létre egy olyan **feltételes hozzáférési házirendet** , amely meghatározza a védelem alatt álló erőforrásokat, és hogy milyen feltételeknek kell megfelelni az erőforrásokhoz való hozzáféréshez. Például egy eszköznek kompatibilisnek kell lennie a vállalati e-mail hozzáférés előtt. 
     
-- Hozzon létre egy **Megfelelési házirend** , amely az eszköznek kompatibilisnek minősültek teljesítendő beállítások is megadhatók. Például egy eszköznek rendelkeznie kell legalább 6 számjegyű PIN-kód előtt kompatibilis számít. 
+- A **megfelelőségi házirend** létrehozásával meghatározhatja, hogy mely beállításokat kell teljesíteni ahhoz, hogy az eszköz megfelelőnek minősüljenek. Például egy eszköznek legalább 6 számjegyből álló tüskétnek kell lennie ahhoz, hogy megfeleljen a szabványnak. 
     
-- **Megfelelés irányelveinek** és a **Feltételes hozzáférési házirendek** a kívánt felhasználói csoportok célzott biztosítása. Ehhez néha Azure az Active Directoryban a felhasználók adott csoportjaira létrehozása. 
+- A **megfelelőségi házirendek** és a **feltételes hozzáférés házirend** biztosítása a felhasználók kívánt csoportjait célozza. Ehhez szükség lehet arra, hogy a Azure Active Directoryban a felhasználók meghatározott csoportjait lehessen létrehozni. 
     
-Tudjon meg többet:
+Bővebben:
   
-- [A feltételes hozzáférés gyakorlati tanácsok](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Gyakorlati tanácsok a feltételes hozzáféréshez](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Bevezetés a feltételes hozzáférést biztosító](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Ismerkedés a feltételes hozzáféréssel](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

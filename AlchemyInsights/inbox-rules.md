@@ -13,18 +13,18 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36499641"
 ---
 # <a name="inbox-rules"></a>Beérkezett üzenetekre vonatkozó szabályok
 
-Postaládában található Beérkezett üzenetekre vonatkozó szabályok használatával kapcsolatos további tudnivalókért lásd:
+A beérkezett üzenetekre vonatkozó szabályok saját postaládában való használatáról a következő témakörökben talál további információt:
 
-- [E-mail üzenetek kezelése szabályok használatával az Outlook programban a PC-n](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
+- [Kezelheti az e-mail üzenetek segítségével szabályok az Outlook PC-hez](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
 
-- [Beérkezett üzenetekre vonatkozó szabályok segítségével az Outlook programban a weben az üzenetek kezelése](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
+- [Üzenetek kezelése a webes Outlook beérkezett üzenetekre vonatkozó szabályainak használatával](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-Beérkezett üzenetekre vonatkozó szabályok az Exchange Online PowerShell is kezelheti. További tudnivalókért lásd: [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (Nézet), [Új-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (létrehozás) [Eltávolítása-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Törlés), a [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (módosítása meglévő), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (meglévő letiltása) és [engedélyezése-InboxRule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(engedélyezni a már meglévő).
+A beérkezett üzenetekre vonatkozó szabályokat az Exchange Online PowerShell eszközben is kezelheti. További információ: [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (nézet), [New-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (létrehozás), [Eltávolítás-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Törlés), [set-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (meglévő módosítás), [disable-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (meglévő letiltása) és [Engedélyezés-inboxrule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(meglévő engedélyezése).

@@ -1,5 +1,5 @@
 ---
-title: Naplózási eredmények üresek.
+title: A naplózási eredmények üresek
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
 ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517429"
 ---
-# <a name="auditing-results-are-blank"></a>Naplózási eredmények üresek.
+# <a name="auditing-results-are-blank"></a>A naplózási eredmények üresek
 
- **A naplójelentések klasszikus helyek**
+ **Klasszikus webhelyekre vonatkozó könyvvizsgálói jelentések**
   
-Az ellenőrzési jelentést a SharePoint-webhelycsoport megtekintéséhez a webhelycsoport rendszergazdája kell lennünk. Adja hozzá saját felhasználónevét a rendszergazdák, lásd: [Hozzáadás webhely gyűjtemény rendszergazdák egyben a globális vagy a SharePoint felügyeleti](https://go.microsoft.com/fwlink/?linkid=869390). A napló használatával kapcsolatos információ lásd a [naplózási jelentések megtekintése](https://go.microsoft.com/fwlink/?linkid=395237). 
+Egy SharePoint-webhelycsoport naplózási jelentésének megtekintéséhez a webhelycsoport rendszergazdájának kell lennie. Ha rendszergazdaként szeretné hozzáadni önmagát, olvassa el [a webhelycsoport-rendszergazdák hozzáadása globális vagy SharePoint-](https://go.microsoft.com/fwlink/?linkid=869390)rendszergazdaként című témakört. A naplózási napló használata során a [Naplójelentések megtekintése](https://go.microsoft.com/fwlink/?linkid=395237)című témakörben talál információt. 
   
- **Keresés az Office 365 napló**
+ **Keresés az Office 365 eseménynaplójában**
   
-A globális dolgozni a napló az Office 365 felügyeleti kell a [biztonsági &amp; kompatibilitási központ](https://protection.office.com). Mielőtt elkezdené, naplózás bekapcsolása. Ezt követően az ellenőrzési napló keresés is futtathatja. 
+Az Office 365 globális rendszergazdaként kell dolgoznunk az ellenőrzési naplóban a [ &amp; biztonsági megfelelőségi központban](https://protection.office.com). Mielőtt hozzákezd, kapcsolja be a naplózást. Ezután futtathatja a naplóvizsgálatot. 
   
-[Útmutató: keresés a naplóban](https://go.microsoft.com/fwlink/?linkid=708432).
+[További információ a naplózási naplóban való keresésről](https://go.microsoft.com/fwlink/?linkid=708432).
   
 

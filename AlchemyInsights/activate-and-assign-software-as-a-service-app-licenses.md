@@ -1,5 +1,5 @@
 ---
-title: Aktiválja és szoftver-mint-a-service app licencek hozzárendelése
+title: Szoftver-mint-szolgáltatás app licencek aktiválása és hozzárendelése
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "9000563"
 - "2422"
 ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36385722"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktiválja és szoftver-mint-a-service app licencek hozzárendelése 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Szoftver-mint-szolgáltatás app licencek aktiválása és hozzárendelése 
 
-## <a name="to-activate-apps"></a>Apps aktiválása
+## <a name="to-activate-apps"></a>Az alkalmazások aktiválása
 
-1. A felügyeleti központ, keresse meg a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot, majd kattintson az **alkalmazások** fülre.
+1. Az admin központban lépjen a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, majd válassza az **apps** fület.
 
-2. Keresse meg és jelölje ki a kezelni kívánt alkalmazás.
+2. Keresse meg és jelölje ki a kezelni kívánt alkalmazást.
 
-3. A **licencek**válassza az **a hibaüzenet jelenik meg a fiók beállítása**.  
+3. A **licencek**területen válassza **a fiók beállítása hibát a hibaüzenetben**.  
 
-## <a name="to-assign-app-licenses"></a>App licencek hozzárendelése
+## <a name="to-assign-app-licenses"></a>Alkalmazáslicencek hozzárendelése
 
-1. A felügyeleti központ, keresse meg a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot, majd kattintson az **alkalmazások** fülre.
+1. Az admin központban lépjen a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, majd válassza az **apps** fület.
 
-2. Keresse meg és jelölje ki a kezelni kívánt alkalmazás.  
+2. Keresse meg és jelölje ki a kezelni kívánt alkalmazást.  
 
-3. A **Beállítások & műveletek**jelölje ki a hivatkozást, **a publisher portál**kezelés.
+3. A **beállítások & műveletek**területen jelölje ki a a **közzétevő portálján kezelendő**hivatkozást.

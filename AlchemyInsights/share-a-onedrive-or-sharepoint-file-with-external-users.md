@@ -1,5 +1,5 @@
 ---
-title: A külső felhasználók OneDrive vagy a SharePoint fájl megosztása
+title: OneDrive vagy SharePoint-fájl megosztása külső felhasználókkal
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
 ms.openlocfilehash: 3db4ed57a1daf32cf8bcc95c716baf4a06380874
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549617"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>A külső felhasználók OneDrive vagy a SharePoint-fájl vagy mappa megosztása
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>OneDrive vagy SharePoint fájl vagy mappa megosztása külső felhasználókkal
 
-1. A böngészőben keresse meg a fájl vagy mappa megosztása, jelölje ki azt, és kattintson a **megosztani**kívánt.
+1. A böngészőben nyissa meg a megosztani kívánt fájlt vagy mappát, jelölje ki, majd kattintson a **megosztás**gombra.
     
-2. A küldési kapcsolat párbeszédpanelt kattintson a lefelé mutató nyílra kattintva módosítható a kapcsolat típusát.
+2. A hivatkozás küldése párbeszédpanelen a lefelé mutató nyílra kattintva módosíthatja a csatolás típusát.
     
-3. Alatt, **aki szeretné, hogy erre a hivatkozásra kattintva a munka**a select **bárki,** Ha azt szeretné, hogy a címzettek is képes megosztani a kapcsolatot, vagy **meghatározott személyek** adnak hozzáférést csak az emberek, adja meg. 
+3. Az, hogy **ki szeretné ezt a hivatkozást**, válassza ki **bárkit** , ha azt szeretné, hogy a címzettek megoszthatják a hivatkozást vagy az **adott személyeket** , hogy csak a megadott személyeknek adjanak hozzáférést. 
     
-    Ha ezek a beállítások nem érhetők el, akkor ellenőrizze, hogy azok a szervezet és a webhelycsoport éppen engedélyezett. Ehhez [kapcsolja be- vagy kikapcsolása a SharePoint Online megosztása külső](https://go.microsoft.com/fwlink/?linkid=866426)talál.
+    Ha ezek a beállítások nem érhetők el, ellenőrizze, hogy engedélyezve vannak-e a szervezet és a webhelycsoport számára. Ehhez tekintse át [a külső megosztás be-és kikapcsolása a SharePoint Online szolgáltatásban](https://go.microsoft.com/fwlink/?linkid=866426)című témakört.
     
-4. **Kattintsunk a gombra.**
+4. Kattintson az **alkalmaz**gombra.
     
-5. Adja meg a megosztani kívánt személyek nevét, és kattintson a **Küldés**gombra.
+5. Írja be a megosztani kívánt személyek nevét, majd kattintson a **Küldés**gombra.
     
 

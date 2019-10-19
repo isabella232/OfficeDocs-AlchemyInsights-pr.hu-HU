@@ -1,5 +1,5 @@
 ---
-title: A SharePoint megosztása
+title: Megosztás SharePoint-ban
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
 ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549473"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>A SharePoint Online megosztása
+# <a name="how-to-share-in-sharepoint-online"></a>Megosztás a SharePoint Online szolgáltatásban
 
-A webhely megosztása:
+A webhely megosztásához:
   
-1. Nyissa meg a böngészőben.
+1. Nyissa meg a webhelyet egy webböngészőben.
     
-2. Ha a webhelyet az Office 365 csoporthoz tartozik, kattintson a beállítások ikonra a jobb felső részén, és kattintson a **webhely engedélyei**. **Személyek meghívása**gombra, és válassza a tagok hozzáadása az Office 365 csoport, vagy csak a webhely megosztása. 
+2. Ha a hely Office 365-csoporthoz tartozik, kattintson a jobb felső sarokban található Beállítások ikonra, majd kattintson a **webhely engedélyei**elemre. Kattintson a **személyek meghívása**gombra, majd adja hozzá a tagokat az Office 365 csoporthoz, vagy osszon meg csak a webhelyet. 
     
-    A kommunikációs webhely **megosztás webhelyen** kattintson a jobb felső, írja be a személy nevét, és válassza ki a megfelelő engedélyszintet (olvasás, Szerkesztés vagy teljes hozzáférés). 
+    Kommunikációs webhely esetén kattintson a jobb felső sarokban a **webhely megosztása** gombra, írja be a személy nevét, majd válassza ki a jogosultsági szintet (olvasás, szerkesztés vagy teljes vezérlés). 
     
-    Klasszikus csoportwebhelyet kattintson a **megosztás** jobb felső. Adja meg a nevét a személyt szeretnénk meghívni, vagy írja be, hogy ossza meg mindenkivel a szervezetben mindenki. Kattintson a **megosztás**gombra.
+    Klasszikus csoportwebhely esetén kattintson a **megosztás** gombra a jobb felső sarokban. Írja be a meghívni kívánt személy nevét, vagy írja be a mindenki nevet a szervezet minden résztvevőjének. Kattintson a **megosztás**elemre.
     
-[Útmutató a fájl vagy mappa megosztása](https://go.microsoft.com/fwlink/?linkid=511430)
+[Tudnivalók a fájlok és mappák megosztásáról](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

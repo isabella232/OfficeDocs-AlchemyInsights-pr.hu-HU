@@ -1,5 +1,5 @@
 ---
-title: 8000077 tud bejelentkezni a Hotmail-vagy Outlook.com?
+title: 8000077 vidám ' jel-ban-hoz Hotmail vagy Outlook.com?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
 ms.openlocfilehash: 4e89fa1746360dc6b41f25b71558b1b957edd4d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36518545"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Tud bejelentkezni a Hotmail-vagy Outlook.com?
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Nem tud bejelentkezni a Hotmail vagy a Outlook.com?
 
-Az Outlook.com fiók aktív maradjon, meg kell jelentkeznie a számlára legalább egyszer minden 365 nap. 365 nap inaktivitás után az e-mail törölve lesz, és nem állítható helyre.
+-Hoz eltartás-a Outlook.com számla aktivál, Önnek kell jel-ban-hoz számla legalább egyszer mindegyik 365 napok. Után 365 napok-ból tétlenség,-a elektronikus levél lesz töröl és nem tud lenni meggyógyult.
   
-Ha 365 napon belül már regisztrált, de még mindig nem érhető el az Outlook.com vagy a Hotmail-fiókját, [Jelentkezzen be vagy ki Outlook.com részben](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)olvashat.
+Ha youve ' aláíró-ban bent 365 napok de csendes vidám ' belépés-a Hotmail vagy Outlook.com számla, olvas [Hogyan viselkedni jel-ban-hoz vagy kívül Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

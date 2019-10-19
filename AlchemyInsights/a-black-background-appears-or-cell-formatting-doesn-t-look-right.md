@@ -1,5 +1,5 @@
 ---
-title: Fekete háttérrel jelennek meg, vagy a cellaformázás helytelenül jelenik meg
+title: Fekete háttér jelenik meg, vagy a Cellaformázás nem látszik jobbra
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
 ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495969"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Fekete háttérrel jelennek meg, vagy a cellaformázás helytelenül jelenik meg
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Fekete háttér jelenik meg, vagy a Cellaformázás nem látszik jobbra
 
-Az Excel 2016 megjelenhet egy váratlan fekete háttér, vagy megjelenhet a cellaformázás, amely nem jelenik meg megfelelően. Ez akkor fordulhat elő, élőfej vagy élőláb hozzáadása a lap elrendezése nézetben, és a cella mintázatos kitöltéssel alkalmazása után. Ez a probléma javítását a 1708 (Build 8431.2094) verziója. A javításhoz az Office legújabb verziójára frissíteni. Válassza ki a **fájl** \> **fiók** \> **frissítési beállítások** \> **Frissítés most**.
+Az Excel 2016 programban váratlan fekete háttér jelenhet meg, vagy olyan cellaformázást lehet látni, amely nem jelenik meg megfelelően. Ez akkor fordulhat elő, ha a Lap elrendezése nézetben felvesz egy élőfejet vagy élőlábat, és egy mintázatkitöltést alkalmaz egy cellára. Ez probléma volt rögzített-ban változat 1708 (épít 8431,2094). A kijavításához frissítse az Office legújabb verzióját. A \> **fájlfiókfrissítési** \> **Beállítások** \> **frissítésének**kiválasztása. ****
   
 

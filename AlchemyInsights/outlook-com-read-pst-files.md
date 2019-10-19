@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 9000199 PST fájlok
+title: 9000199 PST fájlok Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,14 +14,14 @@ ms.custom:
 - "1771"
 - "9000199"
 ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535609"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>PST adatfájlok az Outlook.com
+# <a name="pst-data-files-in-outlookcom"></a>PST adatfájlok a Outlook.com
 
-Nincs lehetőség az Outlook importálni. Adatfájl PST böngésző segítségével Outlook.com-fiókját.
+Outlook-t nem lehet importálni. PST adat reszelő-hoz-a Outlook.com számla használ egy legel.
 
-Importálni egy. PST fájl adatait az Outlook asztali alkalmazás kell használnia. További információért olvassa el a [e-mail, névjegyek és naptár importálása az Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Importálni. PST adatfájlra, az Outlook asztali alkalmazást kell használnia. Ha többet szeretne megtudni, olvassa el [az importálási e-maileket, a névjegyeket és a naptárat az Outlook. pst fájlból.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)

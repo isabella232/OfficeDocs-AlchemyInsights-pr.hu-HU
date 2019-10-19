@@ -1,5 +1,5 @@
 ---
-title: Microsoft tennivaló engedélyezése
+title: A Microsoft tennivaló engedélyezése
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527545"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>A Microsoft To-Do engedélyezése
+# <a name="how-to-enable-microsoft-to-do"></a>A Microsoft to-do engedélyezése
 
-Használhatja a Microsoft To-Do, az admin engedélyeznie kell az alkalmazás minden felhasználói fiókhoz. Keresse fel a [szolgáltatások &amp; -bővítmények oldal](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) az Office 365 felügyeleti beállítások oldal tennivaló ahhoz, hogy minden felhasználó számára. 
+A Microsoft to-do használatához az adminisztrátornak minden felhasználó fiókjában engedélyeznie kell az alkalmazást. Lépjen az Office 365 felügyeleti beállítások oldal [ &amp; szolgáltatások bővítmények oldalára](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) , hogy engedélyezze a tennivaló minden felhasználó számára. 
   
-A Microsoft To-Do funkciókat használja az Exchange Online szinkronizálás és a felhasználók tennivaló cikkek tárolására. Microsoft To-Do használni, a felhasználó nem egy érvényes Exchange Online postaládát.
+A Microsoft to-do az Exchange online szolgáltatásainak segítségével szinkronizálja és tárolja a felhasználók tennivaló elemeit. A Microsoft tennivaló használatához a felhasználónak érvényes Exchange Online postaládára van szüksége.
   
-További információkért lásd: [Microsoft tennivaló előnézet felügyelete](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+További információt a [Microsoft to-do előnézet felügyelete](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)című témakörben talál.
   
- **Megjegyzés**: Ha a hibaüzenet egy 501 próbál bejelentkezni a [http://todo.microsoft.com](http://todo.microsoft.com), próbálja meg [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **Jegyzék**ha Ön kap egy 501 hiba mikor kipróbálás-hoz fatörzs- [http://todo.microsoft.com](http://todo.microsoft.com)ba, [https://to-do.microsoft.com](https://to-do.microsoft.com)megpróbál.
   
 

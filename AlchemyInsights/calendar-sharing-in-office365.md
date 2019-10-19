@@ -1,5 +1,5 @@
 ---
-title: 410 naptár megosztása Office365
+title: 410 naptár megosztása a Office365
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.assetid: 7ec088d3-8629-435e-a222-8722bc99f9c6
 ms.custom: 410
 ms.openlocfilehash: f76c16275605a5716d4e20b569c10498763a8204
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36518257"
 ---
-# <a name="calendar-sharing-in-office-365"></a>A naptár megosztása az Office 365 rendszerben
+# <a name="calendar-sharing-in-office-365"></a>Naptármegosztás az Office 365-ben
 
-Ha a naptárban vagy egyéb naptárak problémák, használja a [Microsoft terméktámogatási és helyreállítási Segéd az Office 365](https://diagnostics.office.com/).
+Ha problémája van a naptár vagy más naptárak elérésével, használja a [Microsoft támogatási és helyreállítási asszisztenst az Office 365](https://diagnostics.office.com/).
   
-További információ a naptár megosztása [másokkal Outlook naptár megosztása](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx)című témakörben talál.
+A naptár megosztásával kapcsolatos további tudnivalókért tanulmányozza az [Outlook-naptár megosztása](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx)másokkal című témakört.
   
 

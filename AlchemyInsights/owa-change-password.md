@@ -1,5 +1,5 @@
 ---
-title: Változtassa meg az Outlook programban a weben
+title: Jelszó megváltoztatása az Outlook-ban a weben
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,12 +12,12 @@ ms.custom:
 - "8000002"
 - "1990"
 ms.openlocfilehash: 18aef4096e936138c85f22f343500f5f233f903f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510481"
 ---
 # <a name="change-your-office-365-password"></a>Az Office 365-jelszó módosítása
 
-Ha szeretne módosítani vagy az Office 365-jelszó alaphelyzetbe állítása, nyissa meg közvetlenül a lapon: [a Microsoft-jelszó alaphelyzetbe állítása](https://go.microsoft.com/fwlink/p/?linkid=841910)
+Ha módosítania vagy alaphelyzetbe kell állítania az Office 365 jelszavát, közvetlenül erre az oldalra is mehetsz: [a Microsoft jelszavának alaphelyzetbe állítása](https://go.microsoft.com/fwlink/p/?linkid=841910)

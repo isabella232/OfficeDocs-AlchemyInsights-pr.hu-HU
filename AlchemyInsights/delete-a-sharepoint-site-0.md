@@ -1,5 +1,5 @@
 ---
-title: A SharePoint-webhely törlése
+title: SharePoint-webhely törlése
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514036"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Az Office 365 csoporthoz tartozó webhelyek törlése
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Office 365-csoporthoz tartozó webhelyek törlése
 
-Amikor a felhasználók egy új csoportwebhely létrehozása SharePoint otthonról, vagy új csoportwebhelyet hoz létre az új SharePoint-felügyeleti központ, a megfelelő Office 365 csoport automatikusan létrejön. Office 365 csoport kapcsolódó webhelyek is jönnek létre, a Microsoft Teams az Office 365 csoport vagy egy csoport létrehozásakor. Az Office 365 csoporthoz tartozó SharePoint webhely törlése az Office 365 csoport maga törölnie kell. 
+Ha a felhasználók új csoportwebhelyet hoztak létre a SharePoint Home alkalmazásból, vagy új csoportwebhelyet hoz létre az új SharePoint admin központból, automatikusan létrejön egy megfelelő Office 365-csoport. Office 365 csoport-összekapcsolt csapat telek van is teremtett amikor vagy teremt egy hivatal 365 csoport vagy egy csapat-ban Mikroszkóp fuvaros. Az Office 365-csoporthoz tartozó SharePoint-webhelyek törléséhez törölnie kell az Office 365-csoportot. 
   
-1. Ugrás a [csoportok lapon a Microsoft 365 felügyeleti egység](https://portal.office.com/adminportal/home#/groups).
+1. Nyissa meg a [Microsoft 365 felügyeleti központ csoportok lapját](https://portal.office.com/adminportal/home#/groups).
     
 2. Jelölje be a csoport melletti jelölőnégyzetet.
     
-3. Válassza a **Törlés**.
+3. Válassza a **delete (Törlés**)-t.
     
-Megjegyzés: Ha töröl egy csoportot, lehet a késedelem a SharePoint rendszerből a webhely eltávolítása előtt.
+Megjegyzés: Amikor töröl egy csoportot, a webhely a SharePoint alkalmazásból való eltávolításakor késhet.
   
-**Kommunikációs vagy klasszikus területekhez törlése:**
+**Kommunikációs webhelyek vagy klasszikus webhelyek törlése:**
 
-1. Látogasson el a webhelyre.
+1. Ugrás a portálra.
   
-2. Kattintson a **Beállítások** ikonra a jobb felső részén. 
+2. Kattintson a **Beállítások** ikonra a jobb felső sarokban. 
   
-3. A **webhely beállításai**lehetőségre. A **Hely adatait** vagy a **Webhelyműveletek** **hely törlése**gombra, és válassza a **Törlés**.
+3. Kattintson a **webhely beállításai**lehetőségre. A **webhely adatai** vagy a **Webhelyműveletek**csoportban kattintson **a webhely törlése**elemre, majd kattintson a **Törlés**gombra.
   
-**A SharePoint-webhelycsoport törlése:**
+**SharePoint-webhelycsoport törlése:**
 
-Hely törlése:
+Webhely törléséhez:
   
-1. Az új SharePoint felügyeleti központ a helyek lapon kattintson a törölni kívánt hely melletti **jelölőnégyzetet** . 
+1. Az új SharePoint felügyeleti központ helyek lapján kattintson a törölni kívánt webhely melletti **jelölőnégyzetbe** . 
     
-2. A menüszalag eszköztáron kattintson a **törlése.**
+2. Kattintson a menüszalag eszköztárának **Törlés gombjára.**
     
-**A webhely törölt véletlenül?**
+**Törölt egy webhelyet véletlenül?**
 
-Lásd a [webhelycsoport törölt visszaállítása](https://go.microsoft.com/fwlink/?linkid=867660).
+További információ: [törölt helycsoport visszaállítása](https://go.microsoft.com/fwlink/?linkid=867660).
   
 
