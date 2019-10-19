@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
 ms.openlocfilehash: 90dfe7323b5f0ae37e963b413327bee2bc6b3d33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542498"
 ---
 # <a name="manage-access-requests"></a>Hozzáférési kérelmek kezelése
 
-Amikor egy felhasználó megkísérel hozzáférni egy elemet a SharePoint szolgáltatásban, és nincs engedélyük, azok megjelenik egy üzenet, hogy a cikk hozzáférési engedéllyel kell. A felhasználó kérheti jóváhagyhatja vagy elutasíthatja a kérelmet (bizonyos esetekben az adott elem vagy a csoporthoz való csatlakozásra) hozzáférés és a webhely tulajdonosával. Ha valaki, aki nem a webhely tulajdonosa megosztja a webhely egy másik személlyel, a webhely tulajdonosa is kap hozzáférési kérést az új felhasználó. Jóváhagyhatja vagy elutasíthatja az access kéri:
+Amikor egy felhasználó megkísérel hozzáférni egy SharePoint-elemhez, és nem rendelkezik engedéllyel, egy üzenet jelenik meg, amelyre az elemhez hozzáférési engedélyre van szükség. A felhasználó hozzáférést kérhet (bizonyos esetekben az adott elemhez, vagy csatlakozhat a csoporthoz), a webhely tulajdonosa pedig jóváhagyhatja vagy visszautasíthatja a kérést. Ha az a személy, aki nem a webhelytulajdonos, egy másik személlyel megosztja a webhelyet, akkor a webhely tulajdonosa is kap egy hozzáférési kérelmet az új felhasználóhoz. Hozzáférési kérelmek jóváhagyása vagy elutasítása:
   
-1. Látogasson el a webhelyre, és kattintson a beállítások ikonra a jobb felső részén kattintson a **Webhely beállításai**. (Ha nem látjuk a webhely beállításai, kattintson a **webhely engedélyei**, és kattintson a **Speciális engedélyek beállításait**. Keresse meg a "Megjelenítése hozzáférési kérelmeket és az ajánlati." nevű hivatkozást tartalmazó fejléc)
+1. Nyissa meg a webhelyet, kattintson a jobb felső sarokban található Beállítások ikonra, majd kattintson a **webhely beállításai**lehetőségre. (Ha a webhely beállításai nem látható, kattintson a **webhely engedélyei**elemre, majd a **speciális engedélyek beállításai**lehetőségre. Keres egy zászló amit birtokol egy láncszem hívott â € ť mutat belépés kereslet és meghívások.
     
-2. A **felhasználók és engedélyek**területen kattintson a **hozzáférési kérelmeket és az ajánlati**. (Ez nem jelenik meg, ha nincs hozzáférési kérelmek került sor.)
+2. A **felhasználók és engedélyek**területen kattintson a **hozzáférési kérelmek és a meghívások**elemre. (Ha ez nem jelenik meg, nem történt hozzáférési kérelem.)
     
-3. Külön-külön felhasználói engedélyt adni, kattintson a **Jóváhagyás** vagy **Elutasítás**. Jelöljön ki egy adott jogosultsági szintet, először kattintson a személy neve mellett található három pont (...). Azt is megteheti vegye fel a felhasználót a webhely engedéllyel rendelkező csoport. Kommunikációs helyek és klasszikus csoportwebhelyek ezt megteheti a webhely beállításai lapon. Az Office 365 csoporthoz tartozó helyek a felhasználó is hozzá a csoporthoz.
+3. Ha a felhasználói engedélyt egyenként szeretné megadni, kattintson a **jóváhagyás** vagy a **visszautasítás**gombra. Ha egy adott jogosultsági szintet szeretne kiválasztani, először kattintson az adott személy neve melletti három pont (...) nevére. Azt is megteheti, hogy hozzáadja a felhasználót a webhelyhez engedéllyel rendelkező csoporthoz. Kommunikációs webhelyekhez és klasszikus csoportwebhelyekhez ezt a webhely beállításai oldalon lehet megtenni. Az Office 365 csoporthoz tartozó webhelyek esetén a felhasználót hozzáadhatja a csoporthoz.
     
     [Hozzáférési kérelmek kezelése](https://go.microsoft.com/fwlink/?linkid=2008747)
     
-    [További információ a jogosultsági szintek](https://go.microsoft.com/fwlink/?linkid=867071)
+    [További információ a jogosultsági szintekről](https://go.microsoft.com/fwlink/?linkid=867071)
     
 

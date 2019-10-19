@@ -1,5 +1,5 @@
 ---
-title: Hol juthatok hozzá a szoftver-mint-a-service (szoftver) apps?
+title: Hol csinál én kap szoftver-mint-egy-szolgáltatás (SaaS) apps?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,12 +13,12 @@ ms.custom:
 - "9000562"
 - "2421"
 ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558547"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Hol juthatok hozzá a Microsoft-partnerek szoftver-mint-a-service (szoftver) apps?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Honnan kaphatok szoftver-mint-a-szolgáltatás (SaaS) apps-ból Mikroszkóp társas viszony?
 
-Ügyfelek keresése, kutatási és szoftver apps [AppSource](http://www.appsource.com/)vásárolni.
+Vásárlók tud keres, kutatás, és megvásárol SaaS apps-ból [Appsource](http://www.appsource.com/).

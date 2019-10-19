@@ -1,5 +1,5 @@
 ---
-title: A hatáskör-átruházás 606 információk
+title: 606 információk a delegációról
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,23 +13,23 @@ ms.custom:
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
 ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661730"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Az Outlook és az Outlook a weben hibaelhárítási delegálása
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Az Outlook és az Outlook alkalmazás delegálásának hibaelhárítása a weben
 
-**Hibaelhárítás a Éva eszközzel:**
+**Hibaelhárítás a SaRA eszközzel:**
 
-1. Töltse le és telepítse az eszközt Éva [Itt](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-1. Jelölje be **az Outlook**, majd a **Naptár problémák lépnek**.
-1. **Igen** mondja ki az érintett számítógépen.
-1. Adja hozzá az érintett felhasználó e-mail címe.
-1. Jelölje be **a meghatalmazott engedélyei vannak problémáim**.
-1. A következő sorba Ha engedélyeket adó személy, írja be az e-mail címet a delegált. Ha engedélyt kapott és a meghatalmazott, adja meg az e-mail címet, az a személy, aki engedélyt kapott.
-1. Tovább menüben, válassza a lehetőséget, amely illeszkedik a forgatókönyv.
-1. A következő menüből válassza ki a jogosultsági szint.
-1. Ebben a szakaszban Éva eszköz automatikus ellenőrzéseket hajt végre, és lehetséges megoldás biztosít, vagy a is biztosít a további hibaelhárításhoz használható diagnosztikai naplóban.
-1. A naplókat is megtalálhatja a Éva eredmények mappában található C:\Users\Username\AppData\Local\SaraResults.
+1. Töltse le és telepítse SaRA eszköz [itt](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. Kiválaszt **kilátás**, akkor **Im ' birtoklás kérdés-val az én-m naptár**.
+1. Igent **mond az** érintett gépre.
+1. Adja meg az érintett felhasználó e-mail címét.
+1. Válassza **az I 'm meghatalmazotti engedélyekkel kapcsolatos problémákat**.
+1. A következő parancssorban, ha az engedélyt adó személy, adja meg a meghatalmazott e-mail címét. Ha megkapta az engedélyeket, és Ön a meghatalmazott, írja be annak a személynek az e-mail címét, aki az engedélyt adta.
+1. A következő menüben válassza ki a forgatókönyvhöz illeszkedő opciót.
+1. A következő menüben válassza ki a jogosultsági szintet.
+1. -On ez színpad, Szaraband szerszám akarat előad gyorsbüfé ellenőriz és ez akarat beszerez ön-val lehetséges határozat vagy vagylagosan akarat beszerez egy tüneti fatörzs amit lehet használt részére tovább hibakeresés.
+1. Megtalálhatod a tuskók-ban Szaraband eredmények dosszié elhelyezett-on CUsersUser: \ appdatalocal: \.

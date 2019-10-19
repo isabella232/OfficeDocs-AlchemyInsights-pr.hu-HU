@@ -1,5 +1,5 @@
 ---
-title: XLS-fájlok nem nyílnak meg dupla kattintásra
+title: XLS fájl nem volt megnyitva a dupla kattintás
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530749"
 ---
-# <a name="excel-file-doesnt-open"></a>Excel-fájl nem nyílik meg
+# <a name="excel-file-doesnt-open"></a>Az Excel-fájl nem nyílik meg
 
-Hajtsuk végre a következőket:
+Megpróbál egy-ból ezek javaslatok:
 
-**Válassza ki az Excel alapértelmezés szerint**
+**Az Excel kiválasztása alapértelmezettként**
 
-* Kattintson a jobb gombbal a munkalapon, **a Megnyitás**parancsra, és válassza a **Excel**
+* Kattintson a jobb gombbal a munkalapra, válassza a **Megnyitás ezzel**, majd válassza az **Excel**
 
-**Gyors helyreállítás futtatása**
+**Futtasson gyors javítást**
 
-1. Ugrás a **Vezérlőpult > programok > programok és szolgáltatások**.
+1. Lépjen a **vezérlőpult > programok > programok és szolgáltatások**.
 
-2. Jelölje ki a javítani kívánt Office-termék, és válassza a **Módosítás**.
+2. Jelölje ki a javítani kívánt Office-terméket, majd kattintson a **módosítás**gombra.
 
-3. Válassza a **Helyreállítás** lehetőséget, és válassza a **javítás**.
+3. Válassza a **gyorsjavítási** lehetőséget, majd kattintson a **javítás**gombra.
 
-**Távolítsa el a nem használt Office verzió**
+**A nem használt Office-verziók eltávolítása**
 
-1. Nyissa meg a **Vezérlőpult > Program eltávolítása**, és válassza az eltávolítani kívánt Office-verzió.
+1. Menjen a **vezérlőpultról > a program eltávolítása**gombra, majd válassza ki az eltávolítani kívánt Office-verziót.
 
 2. Kattintson az **Eltávolítás**gombra.
 
 3. Indítsa újra a számítógépet.
 
-**A fájlkiterjesztések Office megnyitni az Office beállítása hibaelhárító futtatása**
+**A hibaelhárító futtatásával állíthatja be az Office fájlkiterjesztéseit az Office**
 
-1. Ez a hibaelhárító futtatása: https://aka.ms/diag_officefile.
+1. A hibaelhárító futtatása: https://aka.ms/diag_officefile.
 
-2. Attól függően, a böngésző **megnyitása** vagy **mentése** az asztalra a hibaelhárítót, és majd **futtassa** azt.
+2. A böngészőtől függően **nyissa meg** vagy **mentse** a hibaelhárítót az asztalra, majd **futtassa** .

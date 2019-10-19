@@ -1,5 +1,5 @@
 ---
-title: Yammer minden vállalat csoport kezelése
+title: Yammer az összes vállalatcsoport kezelése
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1019"
 - "6000003"
 ms.openlocfilehash: 30b258de51ff0140520cf05ca09e6b0a8b872f22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558043"
 ---
-# <a name="all-company-group"></a>Minden vállalat csoport
+# <a name="all-company-group"></a>Minden vállalatcsoport
 
-A **Vállalat minden** csoport automatikusan létrejön egy Yammer hálózat létrehozásakor. Egy alapértelmezett rendszer-csoport nem átnevezett vagy törölt. Mindenki küldhet a **Vállalat összes** csoport, de csak Yammer a hálózati rendszergazdák közleményeket küldhet a csoport. Ezen **Csoport elképzelések**Eljegyzési kapcsolatos információk megtekintése az **Összes vállalat** csoport.
+Az **all Company** csoport automatikusan létrejön, amikor létrehoz egy yammer hálózatot. Ez egy alapértelmezett Rendszercsoport, amely nem nevezhető át és nem törölhető. Mindenki tud felad-hoz **minden társaság** csoport, de egyetlen yammer hálózat ügyintéző tud felad kihirdetés-hoz csoport. A **Group Insights**segítségével információkat tekintheti meg az **összes vállalatcsoport** szerepvállalás terén.
 
-[A Yammer csoport kezelése](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)témakörben talál további információt.
+További információt a [csoport kezelése Yammer-ben](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)című témakörben talál.

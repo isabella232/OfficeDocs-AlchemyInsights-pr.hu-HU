@@ -1,5 +1,5 @@
 ---
-title: Hozzáférés megtagadva a Project Web App-webhely
+title: A Project Web App-webhelyhez való hozzáférés megtagadva
 ms.author: efrene
 author: efrene
 manager: pamg
@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661226"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Adja meg a Project Online felhasználók
+# <a name="give-users-permissions-in-project-online"></a>Felhasználók engedélyeinek megadása a Project online programban
 
-Felhasználók hozzáférésének biztosítása a SharePoint-jogosultsági módban Project Web App-webhelyet:
+Hozzáférés a felhasználóknak a Project Web App-webhelyhez SharePoint-jogosultsági mód használatával:
 
-1. Jelentkezzen be rendszergazdaként a Project Online
-2. A Project Web App kezdőlapon kattintson a **megosztás** a jobb felső sarokban.
-3. A **Megosztás a Project Web App** párbeszédpanelen írja be a **Személyek meghívása** mezőbe való hozzáférést biztosíthat a kívánt személy felhasználói nevét.
-4. Válassza a **Beállítások megjelenítése**, és a **jogosultsági szint** menüben válassza a **Projektmenedzserek a Project Web App**.
-5. Kattintson a **megosztás**.
+1. Rendszergazdaként jelentkezzen be a Project online-be.
+2. A Project Web App kezdőlapon a jobb felső sarokban válassza a **megosztás** pontot.
+3. A **Project Web App megosztása** párbeszédpanelen írja be annak a személynek a felhasználónevét, akinek hozzáférést szeretne adni a **személyek meghívása** mezőben.
+4. Válassza a **show Options lehetőséget**, majd a **jogosultsági szint kiválasztása** menüben válassza ki a **projektmenedzserek lehetőséget a Project Web App alkalmazáshoz**.
+5. Válassza a **Share**.
 
-Projektengedélyek üzemmódban, vagy további információt talál a [személyek hozzáadása a Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Ha a Project engedélymódja módot használja, további információért olvassa el a következő témakört: [személyek hozzáadása a Project online projekthez](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

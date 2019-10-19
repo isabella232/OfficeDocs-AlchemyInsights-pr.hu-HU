@@ -1,5 +1,5 @@
 ---
-title: Előre fizetett előfizetési ülések hozzáadása
+title: Helyek hozzáadása előre kifizetett előfizetéshez
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660974"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Előre fizetett előfizetési ülések hozzáadása
+# <a name="add-seats-to-a-prepaid-subscription"></a>Helyek hozzáadása előre kifizetett előfizetéshez
 
-Előre fizetett Office 365-licencet a 25 karakteres alfanumerikus kód, adják meg. Miután megvásárolta a szükséges licenceket, később is hozzáadhatja az előfizetéshez. 
+A prepaid Office 365 licencek kiállítása 25 karakteres alfanumerikus kódként. A szükséges licencek megvásárlása után hozzáadhatja azokat az előfizetéshez. 
 
-1. A felügyeleti központ, keresse meg a **Számlázási** > [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
+1. Az admin központban látogasson el a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) oldalára.
 
-2. Az előfizetés-licenceket hozzáadni kívánt található. A **licencek** szakaszban jelölje be a **További licencek hozzáadása**.
+2. Keresse meg azt az előfizetést, amelyhez hozzá szeretné adni a licenceket. A **licencek** részben válassza a **további licencek hozzáadása engedélyt**.
 
-3. A **További licencek hozzáadása** párbeszédpanelen jelölje be **az új és nem használt termékkulcs használata**, majd kattintson a **Tovább gombra**.
+3. A **további licencek hozzáadása** ablaktáblán jelölje be az **új és fel nem használt termékkulcs használata**választógombot, majd kattintson a **Tovább gombra**.
 
-4. Írja be a termékkulcsot, majd kattintson a **Tovább gombra**.
+4. Belép a termék kulcs, akkor kiválaszt **következő**.
 
     > [!NOTE]
-    > Ha egynél több termékkulcsot, jelöljön ki **egy másik termék kulcs hozzáadása** adja meg őket.
+    > Ha egynél több termékkulccsal rendelkezik, a beírésükhöz jelölje be a **másik termékkulcs hozzáadása** választógombot.
 
-5. Tekintse át a rendelés részletei, majd válassza a **Redeem**.
+5. Áttekintés-a rend részlet, akkor kiválaszt **visszavásárol**.
 
-További információért lásd: [licencek hozzáadása vagy bővítése a termékazonosító kulccsal fizetett előfizetéssel](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+További információ: [licencek hozzáadása vagy kiterjesztése a termékkulcs használatával fizetett előfizetésre](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

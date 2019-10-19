@@ -1,5 +1,5 @@
 ---
-title: 1385-office-365-riasztás-házirendek
+title: 1385-Office-365-Alert-politikák
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,35 +13,35 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661298"
 ---
-# <a name="office-365-alert-policies"></a>Office 365 riasztási házirendek
+# <a name="office-365-alert-policies"></a>Az Office 365 riasztási házirendek
 
-Az Office 365 biztonsági & Megfelelési központba ajánlatok [alapértelmezett figyelmeztetési házirendek](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) indító riasztások az Office 365 Enterprise vagy Office 365 US kormány E1/G1, E3/G3 vagy E5/G5 előfizetéssel rendelkező szervezetek számára. Ezért a rendszergazdák által küldött Office365Alerts@microsoft.com egy tárgy, például a figyelmeztető e-mail értesítést jelenhet "egy alacsony-súlyossági riasztás: *Figyelmeztetési szabály nevét*". Riasztási értesítések elküldése akkor történik, ha a figyelmeztetéseket a gyakori tevékenységekhez, például amikor a felhasználók:
+A Hivatal 365 biztonság & engedékenység központ felajánl [hiba éber politikák](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) amit ravasz riadókészültségbe helyez részére szervezetek-val egy hivatal 365 vállalat vagy hivatal 365 minket kormányzat E1/G1, E3/G3, vagy E5/G5 aláírás. Azért, admins május kap egy éber elektronikus levél hirdetés küldött mellett Office365Alerts@microsoft.com-val egy alárendelt vonal mint "egy alacsony-szigorúság éber: *név-ból éber politika*". A riasztási értesítések akkor kerülnek elküldésre, amikor a gyakori tevékenységek figyelmeztetései aktiválódnak, például a felhasználók:
 
-- Hozzon létre a Beérkezett üzenetekre vonatkozó szabályok, amelyek továbbítják az e-mailben.
-- Engedélyeket a postafiók.
-- Ossza meg vagy nagyszámú SharePoint fájlmegosztás fájlok törlése.
-- Elektronikus adatok feltárása keresések létrehozása és a keresési eredményeket.
+- Hozd létre a beérkező leveleket tartalmazó szabályokat.
+- Rendelje hozzá az engedélyeket a postafiókhoz.
+- Számos fájlt megoszthat vagy törölhet a SharePoint-fájlmegosztáson.
+- Hozzon létre eDiscovery keresést, és exportálja a keresési eredményeket.
 
-Tekintse át, és jár el a figyelmeztetést:
+A riasztás felülvizsgálata és a velük való cselekvés:
 
-1. Látogasson el a [biztonsági & kompatibilitási központ](https://protection.office.com) , és jelentkezzen be.
-2. Kattintson a **riasztások** > **Figyelmeztetések megtekintése**.
-3. Kattintson a riasztás menü oldal a figyelmeztetéssel kapcsolatos információk megjelenítése.
+1. Lépjen a [biztonsági &-megfelelőségi központba](https://protection.office.com) , és jelentkezzen be.
+2. Kattintson a **figyelmeztetések** > **megtekintése figyelmeztetésekre**.
+3. Kattintson egy figyelmeztetésen, hogy megjelenjen egy flyout oldal a riasztáshoz.
 
-Riasztás, például [eltávolítja a gyanús beérkezett szabály](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)is végezhet műveleteket. Vagy a riasztási úszó oldalon **feloldása** gombra kattintva egyszerűen zárjuk a figyelmeztetés.
+A Riasztásnaplóban lépéseket tehet, például [egy gyanús beérkezett üzenetekre vonatkozó szabály eltávolítását](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Vagy tudod egyszerűen zár a éber mellett csattanó **határozat** -on éber flyout oldal.
 
-Riasztási házirendek kezelése és konfigurálása További információt lásd [a cikk](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+A figyelmeztetési házirendek konfigurálásával és kezelésével kapcsolatban további információt [a jelen cikkben](https://docs.microsoft.com/office365/securitycompliance/alert-policies)talál.
 
-**Fontos**: Alert e-mail értesítéseket a Microsoft soha nem kéri, hogy tegye a következőket:
+**Fontos**: a Microsoft által küldött értesítő e-mailek soha nem kérik, hogy tegye meg a következőket:
 
-- Adja meg a jelszót
-- A fiók biztonsági adatainak ellenőrzése
-- Újból hitelesíteni magát
+- Adjon meg egy jelszót
+- Ellenőrizze fiókja biztonsági adatait.
+- Újra hitelesítse magát
 
-Ehhez hasonló egy e-mail üzenetet kap, ha nem a Microsoft küldte el, és kell tekinteni egy adatlopó csalilevélre. Ha ebben az esetben olvassa, [jelentse a Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Ha ilyen e-mail üzenetet kap, azt a Microsoft nem küldte el, ezért adathalászati csalilevélként kell tekinteni. Ha ez megtörténik, [jelentse a Microsoftnak](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

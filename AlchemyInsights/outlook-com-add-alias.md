@@ -1,5 +1,5 @@
 ---
-title: 9000238 Outlook.com alias hozzáadása
+title: 9000238 Outlook.com Add alias
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542703"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Az e-mail alias hozzáadása az Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>Összead egy elektronikus levél álnév-ban Outlook.com
 
-Az alias egy további e-mail címet, amely a azonos Beérkezett üzenetek, a Névjegyalbum és a fiók beállításait használja, mint az elsődleges e-mail címét. Választhat, amelyek e-mail címét a levelet küldeni, és bejelentkezhet Outlook.com-fiókját az aliasok bármilyen – mindegyikük ugyanazt a jelszót használja.
+Az alias egy olyan további e-mail cím, amely ugyanazokat a postaládát, partnerlistát és fiókbeállításokat használja, mint az elsődleges e-mail cím. Kiválaszthatja, hogy melyik e-mail címre küldje a levelet, és bármelyik aliasával bejelentkezhet a Outlook.com fiókba – mindannyian ugyanazt a jelszót használják.
 
-Egy e-mail cím hozzáadása:
+E-mail cím hozzáadása:
 
-1. Ugrás az [alias hozzáadása](https://go.microsoft.com/fwlink/p/?linkid=864833). Ha a rendszer kéri, jelentkezzen be a Microsoft-fiók.
+1. Lépjen az [alias hozzáadásához](https://go.microsoft.com/fwlink/p/?linkid=864833). Ha a rendszer kéri, jelentkezzen be Microsoft-fiókjába.
 2. **Az alias hozzáadása**csoportban vagy:
-    1. Hozzá aliasként, és hozzon létre egy új Outlook.com e-mail címet.
-    2. Adja hozzá egy létező e-mail címet alias.
-3. Válassza ki a **Hozzáadás aliasát**.
+    1. Hozzon létre egy új Outlook.com e-mail címet, és adja hozzá aliasként.
+    2. Meglévő e-mail cím hozzáadása aliasnévként.
+3. Válassza az **alias hozzáadása**-t.
 
-További információk [felvétele](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)és eltávolítása az Outlook.com e-mail alias.  
+Tudjon meg többet arról, hogyan [vehet fel vagy távolíthat el e-mail aliast a Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Olvassa el a [Csatlakozás egy másik e-mail fiók](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) Outlook.com-fiókját.
+Olvassa el, [Hogyan csatlakoztasson egy másik e-mail fiókot](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) a Outlook.com fiókjához.

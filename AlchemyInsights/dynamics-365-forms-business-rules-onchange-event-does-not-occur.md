@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 képezi az üzleti szabályok - üzleti szabály nem Firing-űrlap
+title: Dynamics 365 Forms üzleti szabályok-üzleti szabály nem égetés űrlap
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1926"
 - "6200018"
 ms.openlocfilehash: cbdedd2c5fcf5517243e60e36d86479d6c3f7814
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529021"
 ---
-# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>Módosításra esemény fordul elő, ha a mező módosul programozott
+# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>A OnChange esemény nem következik be, ha a mező programozás útján módosul
 
-A *módosításra* esemény fordul elő, ha a mező módosul a programozás útján használja a *attribútum.* [Értékbeállítás](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) módszer. Ha azt szeretné futtatni kell használni az érték beállítása után a *módosításra* esemény eseménykezelők a *attribútum formContext.data.entity.* [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) módszer a kódban.
+A *OnChange* esemény nem fordul elő, ha a mező programozás útján, az *attribútum* használatával módosul. [SetValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metódus. Ha azt szeretné, hogy a *OnChange* eseményhez tartozó eseménykezelők futásra kerüljenek, akkor a *formcontext. Data. Entity attribútumot* kell használnia. [Fireonchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) módszer a kódban.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)
