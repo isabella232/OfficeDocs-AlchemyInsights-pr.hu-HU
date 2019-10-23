@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376681"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637779"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>A lobby-beállítások és a részvételi szint szabályozása
 
-Ezek a beállítások vezérlik, hogy a résztvevők milyen értekezletet várnak el az előtérben, mielőtt felvételt kapnak az értekezletbe, és az értekezleten részt vehetnek. A PowerShell eszközzel frissítheti a még nem végrehajtott értekezletházirend-beállításokat (a "hamarosan" felirat látható) a csapatok felügyeleti központjában.  Lásd lentebb egy példát PowerShell cmdlet, amely lehetővé teszi az összes felhasználó számára, hogy megkerülje a lobby.  
+Ha azt szeretné, hogy mindenki, beleértve a betárcsázást, a külső és a névtelen felhasználók megkerüljék a lobby, használhatja a PowerShell segítségével tegye meg. Itt egy példa a szervezet globális értekezleti házirendjének módosítására:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+Ez a parancsmag jelenleg a Skype for Business PowerShell modul használatát igényli. -Hoz kap beállít-hoz használ ez cmdlet, kijelenti magát igazgató politikák keresztül PowerShell.
+
+Beállíthat egy új házirendet, amelyet ezután a felhasználókra kell alkalmaznia. Ha módosítja a globális házirendet, az automatikusan a felhasználókra is érvényes lesz. A házirendek érvénybe léptetéséhez legalább 4, illetve legfeljebb 24 órát kell várnia a házirend módosítására.
+
+Ügyeljen arra, hogy felülvizsgálja az alábbi dokumentációt, mielőtt ezeket a változtatásokat, hogy megértsék, hogy pontosan mi ez lehetővé teszi.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>A lobby értekezleti vezérlőelemcsoportjainak ismertetése
 
 - A [személyek automatikus beismerése](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) szervező házirend, amely azt vezérli, hogy az emberek közvetlenül csatlakoznak-e vagy várnak az előcsarnokban, amíg egy hitelesített felhasználó be nem ismerte őket.
 
@@ -30,15 +40,4 @@ Ezek a beállítások vezérlik, hogy a résztvevők milyen értekezletet várna
 
 - Az [előcsarnok beállításainak felülbírálása a szervezők számára](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**hamarosan**) egy szervező házirend, amely azt szabályozza, hogy az értekezlet szervezője felülírhatja-e az adott rendszergazda által beállított lobby beállításokat a **felhasználók automatikus beismerése** és a **betárcsázás engedélyezése felhasználókat, hogy megkerüljék az előcsarnokot,** amikor új találkozót ütemeznek.
 
-**Megjegyzés:** Olvassa el az [Értekezletházirendek kezelése a csapatokban](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) című témakört, amely a Microsoft csapatok találkozóházirendjeinek teljes áttekintésére nyújt áttekintést. 
-
-
-**PowerShell példa**
-
-Ha azt szeretné, hogy mindenki, köztük a külső vagy névtelen felhasználók is megengedjék a lobby megkerülési lehetőséget, a PowerShell segítségével is végrehajthatja ezt a feladatot.  Itt egy példa a szervezet globális értekezletházirendjének módosítására.   
-
-(Mindenképpen nézze át a dokumentációt, mielőtt ezeket a változtatásokat megérne, hogy pontosan ezt is lehetővé teszi.)
-
-Set-CsTeamsMeetingPolicy-identitás globális-AutoAdmittedUsers "mindenki"-AllowPSTNUsersToBypassLobby $True
-
-További információ: [set-CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Megjegyzés:** Olvassa el az [Értekezletházirendek kezelése a csapatokban](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) című témakört, amely a Microsoft csapatok találkozóházirendjeinek teljes áttekintésére nyújt áttekintést.
