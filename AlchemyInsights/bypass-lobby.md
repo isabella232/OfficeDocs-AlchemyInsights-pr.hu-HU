@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637779"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654258"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>A lobby-beállítások és a részvételi szint szabályozása
 
@@ -24,7 +24,7 @@ Ha azt szeretné, hogy mindenki, beleértve a betárcsázást, a külső és a n
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Ez a parancsmag jelenleg a Skype for Business PowerShell modul használatát igényli. -Hoz kap beállít-hoz használ ez cmdlet, kijelenti magát igazgató politikák keresztül PowerShell.
+Ez a parancsmag jelenleg a Skype for Business PowerShell modul használatát igényli. -Hoz kap beállít-hoz használ ez cmdlet, kijelenti magát [igazgató politikák keresztül PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Beállíthat egy új házirendet, amelyet ezután a felhasználókra kell alkalmaznia. Ha módosítja a globális házirendet, az automatikusan a felhasználókra is érvényes lesz. A házirendek érvénybe léptetéséhez legalább 4, illetve legfeljebb 24 órát kell várnia a házirend módosítására.
 

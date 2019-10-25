@@ -3,7 +3,6 @@ title: SharePoint-tároló
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502716"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658259"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>A SharePoint Online adattárolásának kezelése
+# <a name="manage-your-sharepoint-online-storage"></a>A SharePoint Online-tárhely kezelése
 
-A legtöbb szervezet SharePoint-tároló kezeli automatikusan, nem kell egy webhelycsoport korlátokat. Ellenőrizze, hogy mennyi SharePoint-tároló van:
-  
-- Az új SharePoint felügyeleti központ, a képernyő jobb felső sarkában a helyek lapon keresse meg a rendelkezésre álló és a teljes tárolási.
+Ismerje meg [, hogyan számítják ki a bérlő raktárat](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) a terv alapján.
 
-Információ a korlát kiszámításának módjáról lásd a [SharePoint Online határértékeket](https://go.microsoft.com/fwlink/p/?LinkID=856113). Kiegészítő tárhelyet vásárolnia, lásd: [az előfizetés módosítása tárolóhelyet](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-Egyes webhelyek tárolására figyelésével kapcsolatos információ PowerShell és webhely adatgyűjtési tárolása, kezelése témakörben [kezelése hely gyűjtemény tárolási korlátok](https://go.microsoft.com/fwlink/?linkid=867833)
+A legtöbb vállalatnál a SharePoint-tároló kezelése automatikusan megtörténik, így nem kell webhelygyűjteményenként korlátokat beállítani.
+
+Útmutató a [szervezet teljes és rendelkezésre álló tárolóhelyének megtekintéséhez](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+
+További információ a [webhelycsoport egyes tárolási korlátainak kezeléséről](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+
+Ha webhelye nincs a helyén, vagy meg szeretné tudni, hogy mely tár vagy lista használja a helyet, ugorjon a **webhely beállításai** > **tárolói metrikájához** (webhelycsoport-rendszergazdai engedélyek szükségesek).
+
+Útmutató a [webhelyek tárolási korlátainak a PowerShell eszközzel történő figyeléséhez](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+
+Megtanulják, hogyan kell [megvásárolni extra tárhely](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
   

@@ -1,5 +1,5 @@
 ---
-title: OneDrive tároló
+title: OneDrive raktározás
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661046"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658295"
 ---
-# <a name="manage-your-onedrive-storage"></a>A OneDrive adattárolásának kezelése
+# <a name="manage-your-onedrive-storage"></a>Az OneDrive tárhely kezelése
 
-Az új és meglévő OneDrive felhasználók alapértelmezett tárolási módosítása:
-  
-- A [tárterület lap a OneDrive admin Center](https://admin.onedrive.com/?v=StorageSettings), és adja meg új összeg GB.
+Az OneDrive tárolóhely nem számít az általános Bérlőkvóta felé. 
 
-A tárolási terület beállítás vonatkozik minden felhasználó, akinek még nem adott tárolási korlátok beállítása. Olyan felhasználók számára a tárhely módosításához használjuk a Microsoft PowerShell kell. Ennek módjáról olvashat a [PowerShell segítségével a felhasználók OneDrive tárolóhely módosítása](https://go.microsoft.com/fwlink/?linkid=866402)témakörben talál. Mekkora tárterületet ellenőrzéséhez használjuk a saját OneDrive, lásd: [Manage a OneDrive üzleti tárolására](https://go.microsoft.com/fwlink/?linkid=866429). Információ arról, hogy a tároló, amely tartalmaz minden tervet [üzleti szolgáltatás leírás OneDrive](https://go.microsoft.com/fwlink/p/?LinkID=826071)talál.
+Útmutató [a OneDrive tárolóhely felhasználónkénti/tervenkénti kiosztásáról](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
+
+Ismerje meg, [mekkora tárolóhelyet használ az OneDrive-ban](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
+
+Megtanulják [, hogyan kell kérni OneDrive tárolási kvóta segítségével PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
+
+Mikroszkóp akarat kezdetben beszerez 1 TB által felhasználó, melyik admins tud növekszik-hoz valameddig 5 TB által felhasználó. Ismerje meg, hogyan [állíthatja be az OneDrive felhasználók alapértelmezett tárolóterét](https://docs.microsoft.com/onedrive/set-default-storage-space).
+
+Útmutató [egy adott felhasználó OneDrive tárolóhelyének módosításához](https://docs.microsoft.com/onedrive/change-user-storage).
+
+Ismerje meg [, hogyan állíthatja be a globális rendszergazdák az OneDrive Storage quota-t a PowerShell használatával minden felhasználóra](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
   
