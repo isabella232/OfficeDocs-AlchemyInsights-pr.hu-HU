@@ -12,10 +12,10 @@ ms.custom:
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
 ms.openlocfilehash: 6e7947afed1223fa55a2aa5710573c03cd804416
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36740359"
 ---
 # <a name="disable-access-to-yammer"></a>Hozzáférés tiltása Yammer-hez
