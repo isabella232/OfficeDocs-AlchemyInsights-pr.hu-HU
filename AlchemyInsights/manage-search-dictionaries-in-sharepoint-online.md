@@ -12,15 +12,15 @@ ms.custom:
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
 ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36754410"
 ---
-# <a name="manage-search-dictionaries"></a><span data-ttu-id="6108d-102">Keresőszótárak kezelése</span><span class="sxs-lookup"><span data-stu-id="6108d-102">Manage search dictionaries</span></span>
+# <a name="manage-search-dictionaries"></a><span data-ttu-id="ebc54-102">Keresőszótárak kezelése</span><span class="sxs-lookup"><span data-stu-id="ebc54-102">Manage search dictionaries</span></span>
 
-<span data-ttu-id="6108d-103">A SharePoint Online szolgáltatásban a keresési szótárak a SharePoint Online Kifejezéstárolóban kezelhetők, amely az új SharePoint admin központban található.</span><span class="sxs-lookup"><span data-stu-id="6108d-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="6108d-104">A keresési szótárak hozzáadásáról és szerkesztéséről további információt a [Keresőszótárak kezelése](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="6108d-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
+<span data-ttu-id="ebc54-103">A SharePoint Online szolgáltatásban a keresési szótárak a SharePoint Online Kifejezéstárolóban kezelhetők, amely az új SharePoint admin központban található.</span><span class="sxs-lookup"><span data-stu-id="ebc54-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="ebc54-104">A keresési szótárak hozzáadásáról és szerkesztéséről további információt a [Keresőszótárak kezelése](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="ebc54-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="6108d-105">Ha nem lát a keresési szótár kifejezéskészlet jelenik meg a kifejezést Store, kérjük várjon 24 órát.</span><span class="sxs-lookup"><span data-stu-id="6108d-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="6108d-106">Ha a szótár még mindig nem jelenik meg 24 óra elteltével, kérjük, jelentkezzen be a támogatási jegyen.</span><span class="sxs-lookup"><span data-stu-id="6108d-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
+<span data-ttu-id="ebc54-105">Ha nem lát a keresési szótár kifejezéskészlet jelenik meg a kifejezést Store, kérjük várjon 24 órát.</span><span class="sxs-lookup"><span data-stu-id="ebc54-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="ebc54-106">Ha a szótár még mindig nem jelenik meg 24 óra elteltével, kérjük, jelentkezzen be a támogatási jegyen.</span><span class="sxs-lookup"><span data-stu-id="ebc54-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
   

@@ -14,20 +14,20 @@ ms.custom:
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
 ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36742267"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="5b4cc-102">A DNS-rekordok frissítése, hogy a webhely megmaradjon a jelenlegi tárhelyszolgáltatónál</span><span class="sxs-lookup"><span data-stu-id="5b4cc-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="84c18-102">A DNS-rekordok frissítése, hogy a webhely megmaradjon a jelenlegi tárhelyszolgáltatónál</span><span class="sxs-lookup"><span data-stu-id="84c18-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-<span data-ttu-id="5b4cc-103">Az Office 365 nyilvános webhely másik tárhelyszolgáltatónál való áthelyezése során valószínűleg módosítani kell a tartomány rekordjait.</span><span class="sxs-lookup"><span data-stu-id="5b4cc-103">As part of the process of moving your Office 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
+<span data-ttu-id="84c18-103">Az Office 365 nyilvános webhely másik tárhelyszolgáltatónál való áthelyezése során valószínűleg módosítani kell a tartomány rekordjait.</span><span class="sxs-lookup"><span data-stu-id="84c18-103">As part of the process of moving your Office 365 Public Website to another hosting provider, you'll likely need to make changes to your domain records.</span></span>
   
-1. <span data-ttu-id="5b4cc-104">Az admin központban, menjen a **Setup** \> **domain** és válassza ki a domain nevet meg akarja változtatni.</span><span class="sxs-lookup"><span data-stu-id="5b4cc-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span>
+1. <span data-ttu-id="84c18-104">Az admin központban, menjen a **Setup** \> **domain** és válassza ki a domain nevet meg akarja változtatni.</span><span class="sxs-lookup"><span data-stu-id="84c18-104">In the admin center, go to **Setup** \> **Domains** and choose the domain name you want to change.</span></span>
 
-2. <span data-ttu-id="5b4cc-105">Adja meg az adatokat, hogy összhangba hozza a website-val-a új tárhely szolgáltató.</span><span class="sxs-lookup"><span data-stu-id="5b4cc-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
+2. <span data-ttu-id="84c18-105">Adja meg az adatokat, hogy összhangba hozza a website-val-a új tárhely szolgáltató.</span><span class="sxs-lookup"><span data-stu-id="84c18-105">Enter the information that aligns to your website with your new hosting provider.</span></span>
 
-<span data-ttu-id="5b4cc-106">További információ: a [DNS-rekordok frissítése, hogy megmaradjon a webhely a jelenlegi tárhelyszolgáltatónál](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="5b4cc-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).</span></span>
+<span data-ttu-id="84c18-106">További információ: a [DNS-rekordok frissítése, hogy megmaradjon a webhely a jelenlegi tárhelyszolgáltatónál](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="84c18-106">To learn more, see [Update DNS records to keep your website with your current hosting provider](https://docs.microsoft.com/office365/admin/dns/update-dns-records-to-retain-current-hosting-provider).</span></span>
   
-<span data-ttu-id="5b4cc-107">A nyilvános webhely megszüntetéséről további információt a [SharePoint Online nyilvános webhelyek megszüntetett](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span><span class="sxs-lookup"><span data-stu-id="5b4cc-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span></span>
+<span data-ttu-id="84c18-107">A nyilvános webhely megszüntetéséről további információt a [SharePoint Online nyilvános webhelyek megszüntetett](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span><span class="sxs-lookup"><span data-stu-id="84c18-107">To learn more about the public site discontinuation, see [SharePoint Online Public Websites to be discontinued](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).</span></span>

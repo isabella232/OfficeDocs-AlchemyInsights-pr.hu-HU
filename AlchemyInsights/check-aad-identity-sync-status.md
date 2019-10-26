@@ -14,21 +14,21 @@ ms.custom:
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
 ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36738523"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="d3504-102">A AAD identitás szinkronizálási állapotának ellenőrzése</span><span class="sxs-lookup"><span data-stu-id="d3504-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="f8d0c-102">A AAD identitás szinkronizálási állapotának ellenőrzése</span><span class="sxs-lookup"><span data-stu-id="f8d0c-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="d3504-103">A szinkronizálási állapot ellenőrzése egyszerű:</span><span class="sxs-lookup"><span data-stu-id="d3504-103">Checking sync status is easy:</span></span>
+<span data-ttu-id="f8d0c-103">A szinkronizálási állapot ellenőrzése egyszerű:</span><span class="sxs-lookup"><span data-stu-id="f8d0c-103">Checking sync status is easy:</span></span>
   
-- <span data-ttu-id="d3504-104">Jelentkezzen be a Microsoft 365 felügyeleti központba, és a kezdőlapon válassza a **Dirsync állapota** parancsot.</span><span class="sxs-lookup"><span data-stu-id="d3504-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
+- <span data-ttu-id="f8d0c-104">Jelentkezzen be a Microsoft 365 felügyeleti központba, és a kezdőlapon válassza a **Dirsync állapota** parancsot.</span><span class="sxs-lookup"><span data-stu-id="f8d0c-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
 
-- <span data-ttu-id="d3504-105">Váltakozva, mehetsz-hoz \> használók aktivál használók, és-on Aktivál használók oldal, választ \> több címtár synchronization.</span><span class="sxs-lookup"><span data-stu-id="d3504-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="f8d0c-105">Váltakozva, mehetsz-hoz \> használók aktivál használók, és-on Aktivál használók oldal, választ \> több címtár synchronization.</span><span class="sxs-lookup"><span data-stu-id="f8d0c-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
 
-- <span data-ttu-id="d3504-106">A címtár-szinkronizálás ablaktáblán válassza az Ugrás a DirSync-kezelés pontra.</span><span class="sxs-lookup"><span data-stu-id="d3504-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
+- <span data-ttu-id="f8d0c-106">A címtár-szinkronizálás ablaktáblán válassza az Ugrás a DirSync-kezelés pontra.</span><span class="sxs-lookup"><span data-stu-id="f8d0c-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
 
-<span data-ttu-id="d3504-107">Ha probléma van a címtár-szinkronizálással, a hibák megjelennek ezen a lapon.</span><span class="sxs-lookup"><span data-stu-id="d3504-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="d3504-108">Az esetlegesen előforduló különböző hibákról további információt az [Office 365 címtár-szinkronizálási hibák megtekintése](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="d3504-108">For more information about different errors you might encounter, see [View directory synchronization errors in Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
+<span data-ttu-id="f8d0c-107">Ha probléma van a címtár-szinkronizálással, a hibák megjelennek ezen a lapon.</span><span class="sxs-lookup"><span data-stu-id="f8d0c-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="f8d0c-108">Az esetlegesen előforduló különböző hibákról további információt az [Office 365 címtár-szinkronizálási hibák megtekintése](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="f8d0c-108">For more information about different errors you might encounter, see [View directory synchronization errors in Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
   
