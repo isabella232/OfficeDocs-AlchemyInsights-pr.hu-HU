@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1926"
 - "6200018"
-ms.openlocfilehash: cbdedd2c5fcf5517243e60e36d86479d6c3f7814
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 3cdd2175083e864b3bffc57a70bb6c6220843fad
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36529021"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769341"
 ---
 # <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>A OnChange esemény nem következik be, ha a mező programozás útján módosul
 
-A *OnChange* esemény nem fordul elő, ha a mező programozás útján, az *attribútum* használatával módosul. [SetValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metódus. Ha azt szeretné, hogy a *OnChange* eseményhez tartozó eseménykezelők futásra kerüljenek, akkor a *formcontext. Data. Entity attribútumot* kell használnia. [Fireonchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) módszer a kódban.
+A *OnChange* esemény nem fordul elő, ha a mező programozás útján, az *attribútum* használatával módosul. [SetValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metódus. Ha azt szeretné, hogy a *OnChange* esemény eseménykezelőit az érték beállítása után futtassuk, akkor a kódban a *formcontext. Data. entitás attribútumnak* a [fireonchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) metódust kell használnia.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)

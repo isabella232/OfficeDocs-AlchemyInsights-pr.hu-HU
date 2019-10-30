@@ -1,9 +1,8 @@
 ---
-title: 714 Allowing külső feladók e-mail terjesztési listák
+title: 714, amely lehetővé teszi a külső feladók e-mail terjesztési listák
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506553"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768226"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Terjesztési csoportok üzeneteket küldeni külső feladók engedélyezése
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>A külső feladók küldhetnek üzeneteket a terjesztési csoportoknak
 
-Ha a szervezeten kívüli felhasználók fogadási hibák üzeneteket küldenek a terjesztési csoportok, vagy szeretné ellenőrizni, hogy a terjesztési csoportok külső feladóktól érkező levelek fogadására vannak beállítva, kövesse az alábbi lépéseket:
+Ha a szervezeten kívüli felhasználók hibaüzeneteket kapnak, amikor üzeneteket küldenek a terjesztési csoportoknak, vagy ellenőrizni szeretné, hogy a terjesztési csoportok a külső feladótól érkező levelek fogadására vannak-e konfigurálva, kövesse az alábbi lépéseket:
 
-1. Ugrás az [Office 365 rendszergazdai portál](https://portal.office.com/adminportal/home#/groups)a **csoportok** csomópontra.
+1. Az Office 365 felügyeleti központban lépjen a **csoportok** > [csoportjai](https://portal.office.com/adminportal/home#/groups) lapra.  
 
-2. A terjesztési csoport választása, és be a csoport tulajdonságai Beúszás ki, amely akkor jelenik meg, kattintson a **Szerkesztés** , amely tartalmazza a **külső feladók engedélyezése**című szakaszában.
+2. Válassza ki a terjesztési csoportot, majd a Csoporttulajdonságok ablaktáblában válassza ki a **Beállítások** lapot.
 
-3. A **részletes adatainak szerkesztése** Beúszás ki, amely akkor jelenik meg, ellenőrizze, hogy **a terjesztési csoport e-mail üzenet küldhető a szervezeten kívüli személyeknek engedélyezze a.** be **kapcsolva**, és kattintson a **Mentés**gombra.
+3. Jelölje be a **külső feladók engedélyezése a csoportnak e-mailben**választógombot, majd válassza a **Mentés**lehetőséget.

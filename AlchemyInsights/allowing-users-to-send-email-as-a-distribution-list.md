@@ -1,9 +1,8 @@
 ---
-title: 717 felhasználóknak e-mailt küldeni terjesztési listaként
+title: 717 lehetővé teszi a felhasználók számára, hogy küldjön e-mailt, mint terjesztési listát
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 8fcd76ee85c5108aa6209952085d0488b1883256
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f4e00d742831f88f6609c55d13e3dfba8ffe3d5
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506164"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768262"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a>E-mail küldése a terjesztési csoport, felhasználók
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a>E-mailek terjesztési csoportként való elküldéséhez a felhasználók számára
 
-A felhasználók üzeneteket egy létező terjesztési csoport jelenik meg, kövesse az alábbi lépéseket:
+A következő lépésekkel engedélyezheti a felhasználóknak meglévő terjesztési csoportból látszólag érkező üzenetek küldését:
 
-1. A [felügyeleti központ Exchange](https://outlook.office365.com/ecp/) **címzettek** Ugrás \> **csoportok**.
+1. Az [Exchange Admin Center letöltőközpontban](https://outlook.office365.com/ecp/)lépjen a **címzettcsoportokra** \> ****.
 
-2. Jelölje ki a módosítani kívánt terjesztési csoportot, és kattintson a **Szerkesztés**gombra.
+2. Jelölje ki a módosítani kívánt terjesztési csoportot, majd kattintson a **Szerkesztés**gombra.
 
-3. A csoport tulajdonságainak keresse meg a **csoport delegálás** lapon adja meg a felhasználóknak is elküldhető vagy a terjesztési csoport.
+3. A csoport tulajdonságainál lépjen a **csoport delegálása** lapra, és adja meg azokat a felhasználókat, akik a terjesztési csoport nevében elküldhetnek vagy küldhetők.
 
-További tudnivalók: [E-mail beállításokat](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
+További információ: [e-mail beállítások](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).

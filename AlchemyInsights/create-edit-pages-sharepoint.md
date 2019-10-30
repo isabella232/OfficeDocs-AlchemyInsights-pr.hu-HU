@@ -8,14 +8,14 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: c11d226c3c7105cea3abcc180a00262bb6e4244f
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 1bcaa2d45179e38a47569fba172300a259c5b661
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36754806"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769521"
 ---
-# <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>A SharePoint-webhelyen lévő modern oldalak létrehozása és szerkesztése
+# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>A SharePoint-webhelyek modern oldalainak létrehozása és szerkesztése
 
 A fájlok és az oldalak gyorsan és egyszerűen szerkeszthetők, és minden eszközön jól néznek. További információért kérjük, látogasson el az alábbi linkekre.
 

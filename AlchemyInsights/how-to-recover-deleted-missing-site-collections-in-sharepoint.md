@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c452169a260dd8b6f2aea32729c4228e54c18e77
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756138"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769017"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>Hiányzó vagy törölt webhelycsoportok helyreállítása
 
-A hiányzó vagy törölt webhelycsoportok helyreállítása.
+A hiányzó vagy törölt webhelycsoportok SharePoint szolgáltatásban való helyreállásáról további tudnivalókat a következő cikkekben talál.
 
 [Törölt webhelyek visszaállítása](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
@@ -27,6 +27,6 @@ A hiányzó vagy törölt webhelycsoportok helyreállítása.
 
 Ha nem találja a webhelyet, keresse meg a naplóban az [Office 365 biztonsági &amp; megfelelőség központban](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**Megjegyzés**: a "modern" csoportwebhelyek nem láthatók a **klasszikus** SharePoint admin felhasználói felületen. A "modern" webhelyek listáját az [új SharePoint felügyeleti központból](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)is elérheti.
+**Megjegyzés:** A "modern" csoportwebhelyek nem láthatók a **klasszikus** SharePoint admin felhasználói felületen. A "modern" webhelyek listáját az [új SharePoint felügyeleti központból](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)is elérheti.
 
 

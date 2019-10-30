@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754194"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768803"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Probléma elhárítása-a felhasználó nem található a címtárban
 
-Ha a felhasználók "a felhasználó nem található" hibaüzenetet kapnak a címtárban. Próbálkozzon újra, ahol a probléma típusa felhasználó nem szerepel a címtárban.
+Ha használók van kap hiba üzenet "felhasználó vidám ' lenni alapít"-ban címtár, legyen szíves megpróbál újra hol a kérdés típus van felhasználó nem-ban címtár.
 
 A probléma elhárításához hajtsa végre a következő lépéseket.
 
@@ -29,7 +29,7 @@ További információért tekintse meg, [hogyan kezelheti a Microsoft-</a> fiók
 
 Adja hozzá a "/_layouts/15/People.aspx/membershipgroupid = 0" parancsot (a dupla idézőjelek között) a webhely URL-címének végéhez. 
 
-Például: https://_lt_ "contoso">. SharePoint. com/_layouts/15/People. aspx/membershipGroupId = 0.
+Példa: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Válassza ki a felhasználót a listáról.
 

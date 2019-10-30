@@ -2,7 +2,6 @@
 title: A külső felhasználó nem tudja elfogadni a megosztási meghívást
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735895"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769125"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>A külső felhasználó nem tudja elfogadni a megosztási meghívást
 
-Ha egy külső felhasználó nem tudja elfogadni a megosztási meghívást, kérjük, próbálja meg az alábbi linkekre látogatni: 
+Ha egy külső felhasználó van képtelen-hoz elfogad egy SharePoint vagy OneDrive cserépdarab meghív, legyen szíves megpróbál látogatás a láncszemek alul: 
 
 - ["Hozzáférés megtagadva", "engedélyre van szüksége a webhelyhez való hozzáféréshez", vagy "a felhasználó nem található a könyvtárban" hiba a SharePoint Online szolgáltatásban és az OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - ["A szervezet irányelvei nem teszik lehetővé az ilyen felhasználókkal való megosztást" hiba egy elem vagy hely megosztásakor a SharePoint Online rendszerben vagy az OneDrive for Business alkalmazásban.](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)

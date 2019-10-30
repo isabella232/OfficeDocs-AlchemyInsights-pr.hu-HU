@@ -1,5 +1,5 @@
 ---
-title: OneDrive vagy SharePoint fájlfeltöltés
+title: Fájlok feltöltése a OneDrive vagy SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532513"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769881"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>OneDrive vagy SharePoint fájlfeltöltés
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Fájlok feltöltése a OneDrive vagy SharePoint
 
-1. Nyissa meg a böngészőben, arra a helyre, ahová a fájlfeltöltés.
+1. A webböngészőben nyissa meg azt a helyet, ahová a fájlokat fel szeretné tölteni.
     
-2. Nyissuk meg az Intézőt, és keresse meg a feltölteni kívánt fájlok.
+2. Nyissa meg a file Explorer és keresse meg a kívánt fájlokat feltölteni.
     
-3. Jelölje ki a fájlokat, és húzza át őket a OneDrive vagy a SharePoint hely. Megjegyzés: Ha használja a Microsoft Edge, a Mozilla FireFox vagy Google Chrome, feltöltheti egy mappa és a benne található fájlokat.
+3. Kiválaszt a fájlokat és húz őket-hoz elhelyezés-ban OneDrive vagy SharePoint. Megjegyzés: Ha Microsoft Edge, Mozilla FireFox vagy Google Chrome böngészőt használ, akkor feltölthet egy mappát és annak összes fájlját.
     
-> [!NOTE]
->  Fel tudnak tölteni fájlokat 15 GB méretű. > (beleértve a fájlnevet) fájl teljes elérési útját, nem több mint 400 karakter hosszúságú lehet. Ha több mint 100, [a OneDrive-szinkronizálás ügyfél](https://go.microsoft.com/fwlink/?linkid=866427)fájlok feltöltéséhez szükséges >. 
+**Megjegyzések:**
+- Tölthet fel fájlokat akár 15 GB-os méretben. 
+- A fájl teljes elérési útja (beleértve a fájlnevet is) legfeljebb 400 karakter hosszúságú lehet. 
+- Ha Ön szükség-hoz feltölt több mint 100 fájlokat, [használ a OneDrive szinkronizál ügyfél](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

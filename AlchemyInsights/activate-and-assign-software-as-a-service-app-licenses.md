@@ -3,7 +3,6 @@ title: Szoftver-mint-szolgáltatás app licencek aktiválása és hozzárendelé
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 9ea12fcd222f10890b0e6ee66a185d6f4acb4073
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36385722"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766317"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Szoftver-mint-szolgáltatás app licencek aktiválása és hozzárendelése 
 
@@ -27,7 +26,7 @@ ms.locfileid: "36385722"
 
 2. Keresse meg és jelölje ki a kezelni kívánt alkalmazást.
 
-3. A **licencek**területen válassza **a fiók beállítása hibát a hibaüzenetben**.  
+3. A **licencek**csoportban jelölje be a **fiók beállítása**választógombot.  
 
 ## <a name="to-assign-app-licenses"></a>Alkalmazáslicencek hozzárendelése
 

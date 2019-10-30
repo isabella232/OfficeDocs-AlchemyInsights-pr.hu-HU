@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: fc222b2ea469f4f4d5233e87f7c9fd291bb5794c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344205"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768875"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>A csapatok telepítése önálló vagy új vagy meglévő Office-telepítéseknél
 
-A Microsoft csapatok most már része az *új létesítmények* az Office 365 ProPlus, Office 365 Business, és az Office for Mac. További információ: [Mikor indul el a Microsoft csapatok az Office új telepítéseinek részeként?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+A Microsoft csapatok az Office 365 ProPlus, Office 365 Business és Office for Mac *új telepítéseinek* részét képezik. További információ: [Mikor indul el a Microsoft csapatok az Office új telepítéseinek részeként?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
 Továbbá, összerezzenés-val változat 1906-ban havonkénti csatornáz, fuvaros lesz *hozzáadott-hoz létező beszerelések* -ból Hivatal 365 ProPlus (és Hivatal 365 teendő)-ra berendezés futás Windows amikor vagy korszerűsíteni-a létező bevezetés-hoz legutolsó változat. További információt a [meglévő Office-telepítések](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus) című témakörben talál.
 

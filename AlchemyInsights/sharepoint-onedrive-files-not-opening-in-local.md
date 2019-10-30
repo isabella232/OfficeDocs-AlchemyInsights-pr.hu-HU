@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750846"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766785"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Problémák a SharePoint-ból származó Office-fájlok megnyitásakor
 
@@ -29,5 +29,5 @@ Ha a helyi Office-ügyfeleken problémák merülnek fel az Office-fájlok és a 
 
 További információért vagy részletekért kérjük, hivatkozunk a cikkre, [megoldunk problémákat a dokumentumok megnyitásakor a SharePoint könyvtárakban](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Megjegyzés**: ha alapértelmezés szerint a böngészőben vagy a kliensben nyitunk meg egy dokumentumot, akkor lehet, hogy módosítania kell a könyvtárbeállítást. Ehhez navigáljon a könyvtár problémák > váltó ikon a jobb felső sarokban > könyvtár beállításai > speciális beállítások > dokumentumok megnyitása a böngészőben.
+**Megjegyzés:** Ha a program alapértelmezés szerint a böngészőben vagy az ügyfélszámítógépen nyitja meg a dokumentumokat, előfordulhat, hogy módosítania kell a könyvtárbeállítást. Ehhez navigáljon a könyvtár problémák > váltó ikon a jobb felső sarokban > **könyvtár beállítások** >  **Speciális beállítások** > **megnyitása dokumentumokat a böngészőben**.
 
