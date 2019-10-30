@@ -1,9 +1,8 @@
 ---
-title: 718 hozzáadása külső partnerek / személyek kívüli szervezet egy terjesztési listára
+title: 718 külső partnerek/a szervezeten kívüli személyek felvétele terjesztési listára
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: e31a9f4213a69e84f78fcd00b767edb04bd9ec4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494565"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766641"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="b9def-102">Terjesztési csoport külső e-mail címek hozzáadása</span><span class="sxs-lookup"><span data-stu-id="b9def-102">Add external email addresses to a distribution group</span></span>
+# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="84916-102">Külső e-mail címek hozzáadása terjesztési csoporthoz</span><span class="sxs-lookup"><span data-stu-id="84916-102">Add external email addresses to a distribution group</span></span>
 
-<span data-ttu-id="b9def-103">Először a szervezet a külső e-mail cím egy kapcsolattartó létrehozásához.</span><span class="sxs-lookup"><span data-stu-id="b9def-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="b9def-104">Ezután hozzáadhatja az ügyfél a terjesztési csoportot.</span><span class="sxs-lookup"><span data-stu-id="b9def-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="b9def-105">További tudnivalókért lásd: [terjesztési csoport külső felhasználó hozzáadása?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="b9def-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
+<span data-ttu-id="84916-103">Először létre kell hoznia egy névjegyet a szervezeten belül a külső e-mail címhez.</span><span class="sxs-lookup"><span data-stu-id="84916-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="84916-104">Ezután hozzáadhatja a névjegyet a terjesztési csoporthoz.</span><span class="sxs-lookup"><span data-stu-id="84916-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="84916-105">További információt a [külső felhasználók hozzáadása terjesztési csoporthoz](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="84916-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
 
-<span data-ttu-id="b9def-106">Ha azt szeretné, hogy a külső felhasználók tudnak üzeneteket küldeni a terjesztési csoport, ellenőrizze a csoport a külső feladóktól érkező levelek fogadására van beállítva.</span><span class="sxs-lookup"><span data-stu-id="b9def-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="b9def-107">További tudnivalókért tanulmányozza a [szállítási kezelés](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="b9def-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
+<span data-ttu-id="84916-106">Ha azt szeretné, hogy a külső felhasználók üzeneteket tudjanak küldeni a terjesztési csoportnak, ellenőrizze, hogy a csoport a külső feladók leveleinek fogadására van-e beállítva.</span><span class="sxs-lookup"><span data-stu-id="84916-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="84916-107">További információ: kézbesítés- [kezelés](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="84916-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
