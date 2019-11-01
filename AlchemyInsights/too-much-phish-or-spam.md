@@ -1,5 +1,5 @@
 ---
-title: 665 túl sok phish fogad el, vagy a postaláda spam?
+title: 665 Ön még túl sok Phish vagy spam a postafiókjába?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,15 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 4ed84484431d430840c5c31c4275e366758f508f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
+ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665906"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911633"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Akkor túl sok phish fogadó, vagy a postaláda spam?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ön még túl sok Phish vagy spam a postafiókjába?
 
-A Microsoft 365 rendszergazdaként a legkönnyebben meghatározni, miért adathalász vagy a kéretlen üzenetek kézbesítésének elküldése a Microsoft Explorer [Beadványok](https://protection.office.com/reportsubmission)minta. Azonnali visszajelzést kapjanak a kapcsolódó üzenetek szűrése jelenik meg, és miért nincsenek problémák.
+Mint egy Mikroszkóp 365 admin, a legjobb út-hoz meghatároz miért egy phishing vagy löncshús üzenet volt kézbesített van-hoz alávet a minta-hoz Mikroszkóp-ban [behódolások Felfedező](https://protection.office.com/reportsubmission). Youll ' kap azonnali visszacsatolás kapcsolódó-hoz üzenet szűrő és miért vannak kérdés.
 
-Ahhoz, hogy azt a easer, a felhasználók közvetlenül jelentő keresztül a [jelentésüzenet bővítmény](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)a Microsoft engedélyezheti.
+Hogy egyszerűbbé váljon, lehetővé teheti a felhasználók számára, hogy a [jelentésüzenet-bővítmény](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)segítségével közvetlenül a Microsofttól számolhatnak be.
+
+**Tudtad?**: most már be mintákat közvetlenül az [üzenetek nyomkövetését](https://protection.office.com/messagetrace) és E5/ATP Plan 2 a vevők nyújthatnak be mintákat a [fenyegetés Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
