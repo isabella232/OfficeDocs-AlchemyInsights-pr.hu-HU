@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660938"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921816"
 ---
 # <a name="update-payment-details"></a>Fizetési adatok frissítése
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660938"
 4. Végezze el módosításokat, majd válassza a **Mentés** lehetőséget.
 
 5. Ha törölni szeretné ezt a fizetési módot, válassza a **Törlés** elemet.
+
+**Hibaelhárítás**
+
+Ha problémákat tapasztal a lap betöltésekor, próbálkozzon a weblap megnyitásával egy másik böngészőben vagy egy privát böngészőablakban, például egy InPrivate-ablakban a Microsoft Edge, illetve egy inkognitóablakban a Google Chrome böngésző esetén. 
 
 További információt a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása az Office 365 Vállalati verzióban](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) és a [Hitelkártyákkal és bankszámlákkal kapcsolatos problémák elhárítása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts) című cikkben talál.
