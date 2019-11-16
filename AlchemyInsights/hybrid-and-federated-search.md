@@ -12,14 +12,14 @@ ms.custom:
 - "9000653"
 - "2505"
 ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768981"
 ---
-# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="cfd0b-102">Hibrid és összevont keresések</span><span class="sxs-lookup"><span data-stu-id="cfd0b-102">Hybrid and federated searches</span></span> 
+# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="9db3f-102">Hibrid és összevont keresések</span><span class="sxs-lookup"><span data-stu-id="9db3f-102">Hybrid and federated searches</span></span> 
 
-<span data-ttu-id="cfd0b-103">A Microsoft SharePoint Online szolgáltatásban a hibrid és az összevont keresés használatával kapcsolatos tudnivalókat a [hibrid keresés a SharePoint szolgáltatásban](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="cfd0b-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
+<span data-ttu-id="9db3f-103">A Microsoft SharePoint Online szolgáltatásban a hibrid és az összevont keresés használatával kapcsolatos tudnivalókat a [hibrid keresés a SharePoint szolgáltatásban](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="9db3f-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
 
-<span data-ttu-id="cfd0b-104">A hibrid összevont keresés megtervezéséről lásd: [a SharePoint Server hibrid összevont keresésével kapcsolatos terv](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="cfd0b-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
+<span data-ttu-id="9db3f-104">A hibrid összevont keresés megtervezéséről lásd: [a SharePoint Server hibrid összevont keresésével kapcsolatos terv](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="9db3f-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
