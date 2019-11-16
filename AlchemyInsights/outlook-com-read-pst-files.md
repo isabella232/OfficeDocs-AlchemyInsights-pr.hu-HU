@@ -14,14 +14,14 @@ ms.custom:
 - "1771"
 - "9000199"
 ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36535609"
 ---
-# <a name="pst-data-files-in-outlookcom"></a><span data-ttu-id="7ebe3-102">PST adatfájlok a Outlook.com</span><span class="sxs-lookup"><span data-stu-id="7ebe3-102">PST data files in Outlook.com</span></span>
+# <a name="pst-data-files-in-outlookcom"></a><span data-ttu-id="97862-102">PST adatfájlok a Outlook.com</span><span class="sxs-lookup"><span data-stu-id="97862-102">PST data files in Outlook.com</span></span>
 
-<span data-ttu-id="7ebe3-103">Outlook-t nem lehet importálni. PST adat reszelő-hoz-a Outlook.com számla használ egy legel.</span><span class="sxs-lookup"><span data-stu-id="7ebe3-103">It's not possible to import an Outlook .PST data file to your Outlook.com account using a browser.</span></span>
+<span data-ttu-id="97862-103">Outlook-t nem lehet importálni. PST adat reszelő-hoz-a Outlook.com számla használ egy legel.</span><span class="sxs-lookup"><span data-stu-id="97862-103">It's not possible to import an Outlook .PST data file to your Outlook.com account using a browser.</span></span>
 
-<span data-ttu-id="7ebe3-104">Importálni. PST adatfájlra, az Outlook asztali alkalmazást kell használnia.</span><span class="sxs-lookup"><span data-stu-id="7ebe3-104">To import a .PST data file, you must use the Outlook desktop app.</span></span> <span data-ttu-id="7ebe3-105">Ha többet szeretne megtudni, olvassa el [az importálási e-maileket, a névjegyeket és a naptárat az Outlook. pst fájlból.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="7ebe3-105">To learn more, read [Import email, contacts, and calendar from an Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
+<span data-ttu-id="97862-104">Importálni. PST adatfájlra, az Outlook asztali alkalmazást kell használnia.</span><span class="sxs-lookup"><span data-stu-id="97862-104">To import a .PST data file, you must use the Outlook desktop app.</span></span> <span data-ttu-id="97862-105">Ha többet szeretne megtudni, olvassa el [az importálási e-maileket, a névjegyeket és a naptárat az Outlook. pst fájlból.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="97862-105">To learn more, read [Import email, contacts, and calendar from an Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
