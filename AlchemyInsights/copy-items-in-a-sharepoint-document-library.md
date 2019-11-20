@@ -1,5 +1,5 @@
 ---
-title: Elemek másolása SharePoint dokumentumtár
+title: Elemek másolása SharePoint-dokumentumtárban
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,29 +13,33 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 3b63262a289261bc1e040f745096645e7f2c784c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516359"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711794"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a>Elemek másolása SharePoint dokumentumtár
+# <a name="copy-items-in-a-sharepoint-document-library"></a>Elemek másolása SharePoint-dokumentumtárban
 
-1. A webböngészőben tallózással keresse meg a fájlokat, mappákat vagy másolni, és kattintson a **másolni**kívánt hivatkozások.
-
-    > [!NOTE]
-    > **Másolása** nem érhető el, a klasszikus élményét SharePoint Online használata esetén.
-  
-2. A **cél kiválasztása**válassza ki a helyet, elemeket másolni szeretné. Ha az objektumot egy másik helyre másoljuk vagy alwebhely, és nem látja a listában, a **webhelyeket** másolhatja helyek teljes listájának megtekintéséhez gombra.
+1. Webböngészőben tallózzon a másolni kívánt fájlokra, mappákra vagy hivatkozásokra, majd kattintson a **Másolás**gombra.
 
     > [!NOTE]
-    > Ha más webhelyek felsorolt elemek másolásakor nem jelenik meg,-helyeken keresztül történő másolása még nem lett konfigurálva. Az engedélyezéshez a beállítások lapot a SharePoint felügyeleti egység, és kattintson az **OK gombra**.
+    > A másolás nem érhető el **,** ha a SharePoint Online klasszikus élményét használja.
   
-    Hozzon létre egy új mappát másolni a fájlokat, válasszon ki egy helyet a mappahierarchia, kattintson az **Új mappa**, írja be a mappa nevét, és kattintson a jelölőnégyzet be van jelölve a név mentése.
+2. A **célhely kiválasztása**területen jelölje ki azt a helyet, ahová az elemeket másolni szeretné. Ha másik webhelyre vagy alwebhelyre másolja, és nem jelenik meg a listában, kattintson a **helyek tallózása** elemre a másolni kívánt helyek teljes listájának megtekintéséhez.
 
-3. Kattintson a **Másolás ide**parancsra.
+    > [!NOTE]
+    > Ha nem látja az elemek másolásakor felsorolt más webhelyeket, akkor a helyek közötti másolás nem lett konfigurálva. -Hoz képessé tesz ez, megy a elintézés oldal-ból SharePoint admin központ és kettyenés **rendben van**.
+  
+    Ha új mappát szeretne létrehozni a fájlok másolásához, jelöljön ki egy helyet a mappahierarchiában, kattintson az **új mappa**elemre, adja meg a mappa nevét, majd kattintson a jelölőnégyzetbe a név mentéséhez.
+
+3. Kettyenés **másol itt**.
 
 > [!NOTE]
-> Egyszerre legfeljebb 500 MB-os fájlok és mappák másolhatja. Ha használja a **Másolás** dokumentumok korábbi verziói csak a legújabb > származik.
+> Egyszerre akár 500 MB fájlokat és mappákat is másolhat. > ha olyan dokumentumokkal együtt használja a **Másolás** programot, amelyeknek van verzióelőzményei, a program csak a legújabb verziót másolja.
   
+További információ:
+
+ - [Áthelyezni vagy másolni a fájlokat a SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office támogatási cikke)
+ - [Mozog fájlokat-ból akármi dosszié hivatalban 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (mikroszkóp tech Közösség blog cikk)   
