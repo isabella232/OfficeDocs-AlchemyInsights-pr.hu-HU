@@ -1,9 +1,8 @@
 ---
-title: Telepítse át az adatokat nyilvános mappa Office 365
+title: Nyilvános mappa adatainak áttelepítése az Office 365 szolgáltatásba
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 9bf21c6377d4587032cac0549d6e57ee0749c437
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
+ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544360"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "39202596"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>Telepítse át az adatokat nyilvános mappa Office 365
+# <a name="migrate-public-folder-data-to-office-365"></a>Nyilvános mappa adatainak áttelepítése az Office 365 szolgáltatásba
 
-Ha nem rendelkezik nyilvános mappákat, hogy az Office 365 rengeteg, azokat a legegyszerűbben lenne másolni az adatokat. PST-fájlok, majd ezt követően importálhatja azokat az Office 365. Kis mennyiségű adat egyszerű húzással történő nyilvános mappa egy. PST fájl elegendő lehet. Ha több adatot, mint a (legfeljebb 30GB), [dokumentált folyamat](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) PST fájlokba exportálja a mappákat használó van.
+Ha Ön dont ' volna sok nyilvános tartók-hoz hoz-ba Hivatal 365, a a legkönnyebb út-hoz hoz őket akar lenni-hoz másol a adat-ba. PST fájlokat aztán behoz őket-ba Hivatal 365. Kis mennyiségű adat esetén a nyilvános mappa egyszerű húzása a. PST fájl is elegendő. Ha több adat, mint hogy (akár 30GB), már [dokumentált egy folyamatot](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , amely segítségével exportálni MAPPÁKAT a PST fájl.
   
-Az Office 365 a nyilvános mappák lakhelyet nagyobb szervezetek van elérhető számos útmutatók:
+Részére nagyobb szervezetek ki van mozgó nyilvános tartók-ba Hivatal 365, már van nekünk idegenvezetők elérhető:
   
-- [Örökölt nyilvános mappák áttelepítése](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Az Exchange 2010-es és korábbi)
+- [Örökölt nyilvános mappák áttelepítése](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
 
-- [A nyilvános mappák Exchange 2013 áttelepítése](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [Az Exchange 2013, Exchange 2016, vagy Exchange 2019 nyilvános mappák áttelepítése](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-- [A nyilvános mappák Exchange 2016 áttelepítése](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-
-[Nyilvános mappák Office 365 csoportok](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx)áttelepítése lehetőség is van.
+Lehetősége van [nyilvános mappák áttelepítésére is az Office 365-csoportokba](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
   
