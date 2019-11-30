@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: d85206cd0fc4844187665369191839da54f49d84
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 005e2ce7b0aa8711b6d8073e2a771ca415918715
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376678"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627612"
 ---
 # <a name="join-a-meeting-in-teams"></a>Csatlakozz a csapatoknak
 
@@ -24,6 +24,6 @@ Ha csatlakozni szeretne a csapatok találkozója, először állítsa be az ért
 
 - Azon értekezleti házirendek beállítása, amelyek azt vezérlik, hogy ki csatlakozhat az értekezlethez a [résztvevőknek vagy a vendégeknek](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
 
-- A Microsoft csapatok [PowerShell-parancsmagjaival](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview) házirend-módosításokat lehet módosítani.    
+- A Microsoft csapatok [PowerShell-parancsmagjaival](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) házirend-módosításokat lehet módosítani.    
 
 **Megjegyzés:** A házirend-módosítások életbe léptetéséhez akár 24 óráig is eltarthat.

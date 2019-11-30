@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376676"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627576"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Értekezletházirendek kezelése a Microsoft teamben
 
@@ -24,7 +24,7 @@ Az értekezletre vonatkozó házirendek a szervezet felhasználói által üteme
 
 A következő forrásokból tájékozódhat az értekezletre vonatkozó házirendekkel kapcsolatban:
 
-- A házirendek létrehozásával, a módosításokkal és a felhasználóknak a házirendhez való hozzárendelésével kapcsolatos tudnivalókat [az értekezletházirendek kezelése a csapatokban](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)című témakörben talál.
+- A házirendek létrehozásával, a módosításokkal és a felhasználóknak a házirendhez való hozzárendelésével kapcsolatos tudnivalókat [az értekezletházirendek kezelése a csapatokban](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)című témakörben talál.
 
 - A házirendek módosításának PowerShell-parancsmagokkal való használatához lásd a [csapatok PowerShell – áttekintés](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)című témakört. 
     - Meg kell használni a [Skype for Business PowerShell modult](https://www.microsoft.com/download/details.aspx?id=39366) az olyan csapatoknak, amelyek a házirendeket tárgyalnak. 

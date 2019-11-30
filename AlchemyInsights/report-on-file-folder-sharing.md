@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: bd64ba291732568c3a5f1a107e88884220e200f8
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: 8dbad3df0c53a1167d5399efcfd9c0f7a71f928a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554331"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627360"
 ---
 # <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Jelentés egy SharePoint-webhely fájl-és mappamegosztásával kapcsolatban
 
 Létrehozhat egy CSV-fájlt, amely részletezi minden egyedi fájlt, felhasználót, engedélyt és hivatkozást egy adott SharePoint-webhelyen vagy egy OneDrive könyvtáron. Ez segít megérteni, hogyan használják a megosztást, és hogy az egyes fájlok vagy mappák megoszthatók-e a vendégekkel.
 
-További információt a [fájl-és mappamegosztással kapcsolatban a SharePoint-webhelyen című jelentésben](https://docs.microsoft.com/en-us/sharepoint/sharing-reports)olvashat.
+További információt a [fájl-és mappamegosztással kapcsolatban a SharePoint-webhelyen című jelentésben](https://docs.microsoft.com/sharepoint/sharing-reports)olvashat.
 
 > [!NOTE]
 > Ez a funkció jelenleg az első release bérlők és fokozatosan gördülő ki az összes produkciós bérlők.
