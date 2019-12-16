@@ -1,7 +1,7 @@
 ---
-title: SharePoint migration 503-as hibával szabályozása
-ms.author: efrene
-author: efrene
+title: A SharePoint áttelepítésének szabályozása 503 hibával
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: b0545c792e81fe733107a6157f4d57aa7bbc9fba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503601"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054055"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a><span data-ttu-id="4fe31-102">SharePoint migration 503-as hibával szabályozása</span><span class="sxs-lookup"><span data-stu-id="4fe31-102">SharePoint migration throttling with 503 errors</span></span>
+# <a name="sharepoint-migration-throttling-with-503-errors"></a><span data-ttu-id="82383-102">A SharePoint áttelepítésének szabályozása 503 hibával</span><span class="sxs-lookup"><span data-stu-id="82383-102">SharePoint migration throttling with 503 errors</span></span>
 
-<span data-ttu-id="4fe31-103">SharePoint online áttelepítése és fogadása az 503-as hiba jelenik meg.</span><span class="sxs-lookup"><span data-stu-id="4fe31-103">It appears you are migrating to SharePoint Online and receiving 503 errors.</span></span> <span data-ttu-id="4fe31-104">Azt is segítséget, a lehető legrövidebb időn belül, hajtsa végre az alábbi lépéseket.</span><span class="sxs-lookup"><span data-stu-id="4fe31-104">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+<span data-ttu-id="82383-103">Úgy tűnik, akkor átkerül a SharePoint Online és fogadása 503 hibák.</span><span class="sxs-lookup"><span data-stu-id="82383-103">It appears you are migrating to SharePoint Online and receiving 503 errors.</span></span> <span data-ttu-id="82383-104">Kérjük, kövesse az alábbi lépéseket, hogy mi segítünk Önnek a lehető leghamarabb.</span><span class="sxs-lookup"><span data-stu-id="82383-104">Please follow the steps below so we may assist you as soon as possible.</span></span> 
 
-1. <span data-ttu-id="4fe31-105">Kattintson az **ügyfélszolgálatot**, majd **Új szolgáltatás kérése**.</span><span class="sxs-lookup"><span data-stu-id="4fe31-105">Click **Contact Support**, and then **New Service Request**.</span></span>
-2. <span data-ttu-id="4fe31-106">A cím és leírás mezőbe írja be a **SharePoint Migration szabályozás az 503**.</span><span class="sxs-lookup"><span data-stu-id="4fe31-106">For the title and description, type **SharePoint Migration Throttling with 503**.</span></span>
-3. <span data-ttu-id="4fe31-107">A jegy benyújtást követően frissítse azt az alábbi adatokkal:</span><span class="sxs-lookup"><span data-stu-id="4fe31-107">Once the ticket has been submitted, please update it with the following information:</span></span>
-    - <span data-ttu-id="4fe31-108">Az áttelepítés (például, hogy hány TBs?) mennyi maradt.</span><span class="sxs-lookup"><span data-stu-id="4fe31-108">How much left of migration (for example, how many TBs?).</span></span>
-    - <span data-ttu-id="4fe31-109">Áttelepítés indítása és záró dátuma.</span><span class="sxs-lookup"><span data-stu-id="4fe31-109">Migration start and end date.</span></span>
-    - <span data-ttu-id="4fe31-110">Írja le, ahol telepít át a tartalmat, például a SharePoint Server, mező, GDrive, fájlmegosztások, stb...</span><span class="sxs-lookup"><span data-stu-id="4fe31-110">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
-    - <span data-ttu-id="4fe31-111">Megbecsüli a szabályozás hibák (például x szabályozása óránként?) száma és mikor volt a szabályozás történik.</span><span class="sxs-lookup"><span data-stu-id="4fe31-111">Estimate the number of throttling errors (for example, x throttle per hour?) and when did the throttling happen.</span></span>
-    - <span data-ttu-id="4fe31-112">Mely-áttelepítő eszköz akkor használ (például SPMT vagy ShareGate).</span><span class="sxs-lookup"><span data-stu-id="4fe31-112">Which migration tool you are using (for example, SPMT or ShareGate).</span></span>
+1. <span data-ttu-id="82383-105">Kattintson a **ügyféltámogatás**elemre, majd az **új Szolgáltatáskérelem**lehetőségre.</span><span class="sxs-lookup"><span data-stu-id="82383-105">Click **Contact Support**, and then **New Service Request**.</span></span>
+2. <span data-ttu-id="82383-106">A cím és a Leírás beírásához írja be a **SharePoint Migration throttling a 503**.</span><span class="sxs-lookup"><span data-stu-id="82383-106">For the title and description, type **SharePoint Migration Throttling with 503**.</span></span>
+3. <span data-ttu-id="82383-107">Ha a jegyet már benyújtották, kérjük, frissítse a következő információkkal:</span><span class="sxs-lookup"><span data-stu-id="82383-107">Once the ticket has been submitted, please update it with the following information:</span></span>
+    - <span data-ttu-id="82383-108">Az áttelepítésből mennyi maradt (például hány TBs?).</span><span class="sxs-lookup"><span data-stu-id="82383-108">How much left of migration (for example, how many TBs?).</span></span>
+    - <span data-ttu-id="82383-109">Áttelepítési kezdési és befejezési dátum.</span><span class="sxs-lookup"><span data-stu-id="82383-109">Migration start and end date.</span></span>
+    - <span data-ttu-id="82383-110">Írja le, hogy hova szeretné áttelepíteni a tartalmat, például SharePoint Server, box, GDrive, fájlmegosztásokat stb.</span><span class="sxs-lookup"><span data-stu-id="82383-110">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
+    - <span data-ttu-id="82383-111">Becsülje meg a szabályozási hibák számát (például x fojtás óránként?), és mikor történt a szabályozás.</span><span class="sxs-lookup"><span data-stu-id="82383-111">Estimate the number of throttling errors (for example, x throttle per hour?) and when did the throttling happen.</span></span>
+    - <span data-ttu-id="82383-112">A használt áttelepítési eszköz (például SPMT vagy ShareGate).</span><span class="sxs-lookup"><span data-stu-id="82383-112">Which migration tool you are using (for example, SPMT or ShareGate).</span></span>
 
 
