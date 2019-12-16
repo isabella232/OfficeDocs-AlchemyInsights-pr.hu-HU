@@ -1,7 +1,7 @@
 ---
-title: SharePoint migration 503-as hibával szabályozása
-ms.author: efrene
-author: efrene
+title: A SharePoint áttelepítésének szabályozása 503 hibával
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: b0545c792e81fe733107a6157f4d57aa7bbc9fba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503601"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054055"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint migration 503-as hibával szabályozása
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>A SharePoint áttelepítésének szabályozása 503 hibával
 
-SharePoint online áttelepítése és fogadása az 503-as hiba jelenik meg. Azt is segítséget, a lehető legrövidebb időn belül, hajtsa végre az alábbi lépéseket. 
+Úgy tűnik, akkor átkerül a SharePoint Online és fogadása 503 hibák. Kérjük, kövesse az alábbi lépéseket, hogy mi segítünk Önnek a lehető leghamarabb. 
 
-1. Kattintson az **ügyfélszolgálatot**, majd **Új szolgáltatás kérése**.
-2. A cím és leírás mezőbe írja be a **SharePoint Migration szabályozás az 503**.
-3. A jegy benyújtást követően frissítse azt az alábbi adatokkal:
-    - Az áttelepítés (például, hogy hány TBs?) mennyi maradt.
-    - Áttelepítés indítása és záró dátuma.
-    - Írja le, ahol telepít át a tartalmat, például a SharePoint Server, mező, GDrive, fájlmegosztások, stb...
-    - Megbecsüli a szabályozás hibák (például x szabályozása óránként?) száma és mikor volt a szabályozás történik.
-    - Mely-áttelepítő eszköz akkor használ (például SPMT vagy ShareGate).
+1. Kattintson a **ügyféltámogatás**elemre, majd az **új Szolgáltatáskérelem**lehetőségre.
+2. A cím és a Leírás beírásához írja be a **SharePoint Migration throttling a 503**.
+3. Ha a jegyet már benyújtották, kérjük, frissítse a következő információkkal:
+    - Az áttelepítésből mennyi maradt (például hány TBs?).
+    - Áttelepítési kezdési és befejezési dátum.
+    - Írja le, hogy hova szeretné áttelepíteni a tartalmat, például SharePoint Server, box, GDrive, fájlmegosztásokat stb.
+    - Becsülje meg a szabályozási hibák számát (például x fojtás óránként?), és mikor történt a szabályozás.
+    - A használt áttelepítési eszköz (például SPMT vagy ShareGate).
 
 

@@ -1,23 +1,23 @@
 ---
 title: Erősít 0x8004de40 hiba-ban OneDrive
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: aa0e0a63ac1e365a7cdce018626740446040a664
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 48b29f57763ca22a71a23b2afddcac0e8e8a95db
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755850"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052039"
 ---
 # <a name="fix-0x8004de40-error-in-onedrive"></a>Erősít 0x8004de40 hiba-ban OneDrive
 
-Ha 0x8004de40 hibakódot kap az OneDrive-nál:
+Ha 0x8004de40 jelű hibát kap az OneDrive esetében:
 
 - Újraindít a érintett számítógép rövid idő összekapcsolt-hoz-a Acitve címtár birtok.
 - Ha egy újraindítás nem oldja meg a problémát, akkor elválaszt, és csatlakoztassa a készüléket Azure ad. 

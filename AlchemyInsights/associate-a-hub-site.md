@@ -1,7 +1,7 @@
 ---
-title: A központi webhelyen társítása
-ms.author: efrene
-author: efrene
+title: Központi webhely társítása
+ms.author: pebaum
+author: pebaum
 ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: ec9b1a8541b1f54f93f38814a402d516788312c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ff623699d54700c781d64fb4e0d5df0edb675a37
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517825"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050347"
 ---
-# <a name="associate-a-hub-site"></a>A központi webhelyen társítása
+# <a name="associate-a-hub-site"></a>Központi webhely társítása
 
-A központi webhelyen meglévő webhely társítása, tegye a következőket:
+Ha egy meglévő webhelyet szeretne társítani a központi helyhez, tegye a következőt:
   
-1. A webhely **beállításai** (a fogaskerék ikon jelzi a jobb felső sarokban), és válassza a **hely adatait**.
+1. A webhelyen jelölje ki a **Beállítások** (a jobb felső sarokban lévő fogaskerék ikon), majd válassza a **helyadatok**pontot.
 
-2. **Módosítsa a telephelyek információit** panelen a **Hub a webhely társításának** menüben válassza ki a központi webhelyen, amelyet hozzá szeretne rendelni a webhelyet, és válassza a **Mentés**. A webhely megjelenésének, a hub megfelelően változik, és a központi webhely navigációs sáv tetején jelenik meg.
+2. A **webhely adatainak szerkesztése** panelen, a **központi telephely társítása** menüben jelölje ki azt a központi helyet, amelyet a webhelyhez szeretne társítani, majd válassza a **Mentés**parancsot. A webhely kinézet úgy változik, hogy illeszkedjen a hubhoz, és a központi telephely navigációs sávját legfelsõ részén fogja megjeleníteni.
 
  > [!Note]
->Ha nincs hely a Hub társítás lehetőség vagy helyek szerepelnek, elosztó helyek nem lesz engedélyezve vagy nincs jogosultsága helyek társítja a központi webhelyen. Forduljon a rendszergazdához további információt.
+>Ha a hub webhelytársítás beállítás nem található, vagy nem szerepel hely a listán, akkor előfordulhat, hogy a hub helyek nincsenek engedélyezve, vagy nincs engedélye a helyek központi helyhez való hozzárendelésekor. További információért forduljon a rendszergazdához.
 >
->Nincs társítható egy központi webhely webhelyek száma nem korlátozott.
+>A hubhoz tartozó helyhez hozzárendelhető helyek száma nincs limitben.
   

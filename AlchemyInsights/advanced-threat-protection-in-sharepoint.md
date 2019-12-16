@@ -1,7 +1,7 @@
 ---
-title: Speciális veszély védelmi SharePoint és OneDrive
-ms.author: efrene
-author: efrene
+title: Speciális fenyegetés védelem a SharePoint és a OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,23 +12,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 74ab1bc37c43bdb48ff44f3073c3df4adf8c4f3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4043e9716ebdf5236df7ec0ead32d1a738fbc23
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493881"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050419"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Speciális veszély védelmi (ATP) a SharePoint és a OneDrive
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Haladó fenyeget védelem (ATP)-ban SharePoint és OneDrive
 
-A következő témakörökben található:
-- [Ígérethez rendelkezésre álló mennyiség, a SharePoint, a OneDrive, és](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Fenyegetés Explorer és a valós idejű észlelési](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+Lásd az alábbiakat:
+- [ATP SharePoint, OneDrive és a csapatok](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Fenyegetés Felfedező és telekügynök nyomozás](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 
 További információ:
 
-- [A Sao víruskeresés](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Adattitkosítás ODB és Sao](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [A SharePoint rendszerben az adatok védelme](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Ransomware észlelése és a fájlok visszaállítása](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Vírus nyomozás-ban SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Adattitkosítás az ODB és az SPO-ban](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Adatok védelme a SharePoint-rendszerben](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
+- [Ransomware nyomozás és visszaszerzés fájlokat](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

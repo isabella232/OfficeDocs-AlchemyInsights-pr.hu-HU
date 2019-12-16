@@ -1,7 +1,7 @@
 ---
-title: Munkafolyamat – hibaelhárítás
-ms.author: efrene
-author: efrene
+title: Munkafolyamat-hibaelhárítás
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bda58c3e7f186fec2057258ed17747690c7a3248
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558079"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049303"
 ---
-# <a name="workflow-troubleshooting"></a>Munkafolyamat – hibaelhárítás
+# <a name="workflow-troubleshooting"></a>Munkafolyamat-hibaelhárítás
 
-SharePoint-munkafolyamatok hibakeresésről további információért tekintse át a következőket:
-- Hibakeresés a munkafolyamat hasonlít az előző verziók.  További tudnivalókért lásd: [Hibakeresés SharePoint-munkafolyamatok](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- Hibaelhárításával kapcsolatos további tudnivalókért lásd: [Hibaelhárítás SharePoint Server munkafolyamat érvényesség-ellenőrzési hibák](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+A SharePoint-munkafolyamatok hibakeresésére vonatkozó további tudnivalókért tanulmányozza a következőket:
+- A korábbi verziókhoz hasonló hibakeresési munkafolyamatok.  További információt a SharePoint- [munkafolyamatok hibakeresése](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)című témakörben talál.
+- További információt a hibaelhárításról a [SharePoint Server munkafolyamat-érvényesítési hibáinak elhárítása](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)című témakörben talál.
  
 
 ## <a name="related-topics"></a>Kapcsolódó témakörök
-Próbálkozzon a SharePoint Online Microsoft Flow szeretne?
-- [Folyamat létrehozása](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [A SharePoint és az áram](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Szeretné kipróbálni a Microsoft flow-t a SharePoint Online szolgáltatásban?
+- [Átfolyás létrehozása](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint-és adatfolyam](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
 

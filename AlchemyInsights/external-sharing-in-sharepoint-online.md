@@ -1,7 +1,7 @@
 ---
 title: Külső megosztás a SharePoint Online szolgáltatásban
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735967"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049771"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Külső megosztás a SharePoint Online szolgáltatásban
 
-Ha a szervezet olyan munkát végez, amely dokumentumok megosztását vonja maga után, vagy együttműködik közvetlenül a szállítókkal, ügyfelekkel vagy ügyfelekkel, akkor a [SharePoint Online külső megosztási szolgáltatásaival](https://docs.microsoft.com/sharepoint/external-sharing-overview) tartalmakat oszthat meg a Szervezet.
+Ha a szervezet olyan munkát végez, amely dokumentumok megosztását vagy közvetlenül a szállítókkal, ügyfelekkel vagy ügyfeleivel való együttműködést foglal magában, akkor a [SharePoint Online külső megosztási szolgáltatásaival](https://docs.microsoft.com/sharepoint/external-sharing-overview) tartalmat oszthat meg a szervezeten kívüli emberekkel.
 
 A külső megosztással kapcsolatos további információért kérjük, látogasson el az alábbi linkekre:
 

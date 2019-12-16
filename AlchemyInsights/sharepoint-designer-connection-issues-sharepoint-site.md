@@ -1,7 +1,7 @@
 ---
-title: A SharePoint Designer kapcsolódási problémák
-ms.author: efrene
-author: efrene
+title: SharePoint Designer-csatlakozási problémák
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: a4aeaeaea5743c276b907c78317ff30f5610be81
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508425"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051715"
 ---
-# <a name="sharepoint-designer-connection-issues"></a>A SharePoint Designer kapcsolódási problémák 
+# <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer-csatlakozási problémák 
 
-Ha a SharePoint Designer SharePoint-webhelyekhez csatlakozási problémákat tapasztalja, próbálkozzon a következő közös megoldásokat.
+Ha a SharePoint Designer kapcsolódási problémákat tapasztal a SharePoint-webhelyeken, próbálja meg a következő közös megoldásokat.
 
-1. lépés: Ellenőrizze, hogy a SharePoint Designer 2013 frissül [a SharePoint Designer Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) és a [2016. augusztus 2. frissítés a SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
+1. lépés: Ellenőrizze, hogy a SharePoint Designer 2013 a [SharePoint Designer Service Pack 1 csomaggal](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) frissítve van-e és az [augusztusi 2, 2016 a SharePoint Designer 2013 frissítés](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
 
 
 
-2. lépés: A helyi gyorsítótárban található fájlok törlése:
+2. lépés: a helyi gyorsítótárfájlok törlése:
 
 1. Zárja be a SharePoint Designer 2013.
 
-2. A helyi számítógépen a következő mappákban található összes fájl eltávolításához.
+2. A helyi számítógépen távolítsa el a következő mappákban található fájlokat.
 
-    - %APPDATA%\Microsoft\Web server Extensions\Cache
+    - %APPDATA%\Microsoft\Web szolgál Extensions\Cache
     - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
     - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
-3. Nyissa meg a SharePoint Designer 2013, és adja meg a fiók ismételten kattintva ellenőrizze, hogy az működik.
+3. Nyit SharePoint Tervező 2013 és belép a számla újra-hoz lát ha ez szerkezet.
 
-3. lépés: a [Modern Office 2013 eszköz a Windows-hitelesítés engedélyezése](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
+Lép 3: [képessé tesz korszerű hitelesítés részére hivatal 2013-ra Windows berendezés](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
 
-4. lépés: Rendszergazdák kell **Egyéni parancsfájl engedélyezi** a SharePoint felügyeleti központ beállításaiban a SharePoint Designer kapcsolat engedélyezésére. Lásd a [engedélyezése vagy tiltása egyéni parancsfájl](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) további információt.
+4. lépés: a rendszergazdáknak engedélyezni kell az **egyéni parancsfájl** beállítást a SharePoint Admin Center beállításaiban a SharePoint Designer-kapcsolat engedélyezéséhez. További információt az [egyéni parancsfájl engedélyezése vagy tiltása](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) című témakörben talál.
 
 

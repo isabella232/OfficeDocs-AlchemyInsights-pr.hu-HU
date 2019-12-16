@@ -1,7 +1,7 @@
 ---
-title: OneDrive PUID eltérés
-ms.author: efrene
-author: efrene
+title: A OneDrive PUID-eltérés
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,21 +12,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cbf508a1a031b7dbe60d9b060df2f08211a3dc17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 58fe40f0fe29b75ea3e736d447d626d2fdf5391a
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521352"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049087"
 ---
-# <a name="onedrive-puid-mismatch"></a>OneDrive PUID eltérés
-Úgy tűnik, hogy az üzleti OneDrive való [eltérés PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) tapasztalja. Azt is segítséget, a lehető legrövidebb időn belül, hajtsa végre az alábbi lépéseket:
+# <a name="onedrive-puid-mismatch"></a>A OneDrive PUID-eltérés
+Ez feltűnik Ön tapasztalás egy [PUID eltérés](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) -ban OneDrive részére teendő. Kérjük, kövesse az alábbi lépéseket, hogy mi segítünk Önnek a lehető leghamarabb:
 
-1. Kattintson az **ügyfélszolgálatot**, majd **Új szolgáltatás kérése**.
-2. Hagyja üresen a cím és leírás szerint **PUID Mismatch OneDrive webhelyen**.
-3. A jegy benyújtást követően frissítse azt az alábbi adatokkal:
-    - OneDrive webhely URL-CÍMÉT, amely hatással van.
-    - Egyszerű felhasználónév (UPN) az érintett felhasználó.
+1. Kattintson a **ügyféltámogatás**elemre, majd az **új Szolgáltatáskérelem**lehetőségre.
+2. Hagy a cím és leírás mint **PUID eltérés-ra OneDrive telek**.
+3. Ha a jegyet már benyújtották, kérjük, frissítse a következő információkkal:
+    - OneDrive telek URL amit van mesterkélt.
+    - Az érintett felhasználó egyszerű felhasználóneve (UPN)
 
 
 

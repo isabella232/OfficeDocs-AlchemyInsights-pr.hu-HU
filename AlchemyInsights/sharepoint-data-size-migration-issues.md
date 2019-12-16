@@ -1,7 +1,7 @@
 ---
-title: Problémák a SharePoint online adatok áttelepítése során
-ms.author: efrene
-author: efrene
+title: Az adatok SharePoint Online szolgáltatásba való áttelepítésekor felmerülő problémák
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504357"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051751"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problémák a SharePoint online adatok áttelepítése során
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Az adatok SharePoint Online szolgáltatásba való áttelepítésekor felmerülő problémák
 
-Úgy tűnik, hogy az adatok több mint 100TB telepít át a SharePoint online. Azt is segítséget, a lehető legrövidebb időn belül, hajtsa végre az alábbi lépéseket. 
+Ez feltűnik Ön átvonuló felső 100TB-ból adat-hoz SharePoint Online. Kérjük, kövesse az alábbi lépéseket, hogy mi segítünk Önnek a lehető leghamarabb. 
 
-1. Jelöljön ki **Új szolgáltatás kérése**, **Új szolgáltatás kérése**. 
-2. A cím és leírás szerint **több mint 100 TB SharePoint migration**hagyja.
-3. A jegy benyújtást követően frissítse azt az alábbi adatokkal: 
+1. Válassza az **új Szolgáltatáskérelem**, majd az **új Szolgáltatáskérelem**. 
+2. Hagy a cím és leírás mint **SharePoint elköltözés felső 100TB**.
+3. Ha a jegyet már benyújtották, kérjük, frissítse a következő információkkal: 
 
     - Az áttelepítés becsült mérete.
-    - Ha szeretné indítani, és az áttelepítés befejezése becslése.
-    - Írja le, ahol telepít át a tartalmat, például a SharePoint Server, mező, GDrive, fájlmegosztások, stb...
+    - Becslést, amikor meg szeretné kezdeni, és fejezze be a migráció.
+    - Írja le, hogy hova szeretné áttelepíteni a tartalmat, például SharePoint Server, box, GDrive, fájlmegosztásokat stb.
 
 
   

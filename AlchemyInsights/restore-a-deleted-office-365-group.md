@@ -1,7 +1,7 @@
 ---
-title: Visszaállíthatók a törölt Office 365
-ms.author: kaarins
-author: kaarins
+title: Törölt Office 365-csoport visszaállítása
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 3/23/2018
 ms.audience: Admin
@@ -13,20 +13,20 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: e1f0ecaeca3154096c952c0a5018805ac46d8d3f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2e89b479f8cfc0ee0e590b64d09abae8a678e1cc
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509255"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048834"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Visszaállíthatók a törölt Office 365
+# <a name="restore-a-deleted-office-365-group"></a>Törölt Office 365-csoport visszaállítása
 
-A törölt csoport 30 napig maradnak meg. A törölt csoport visszaállítása:
+A törölt csoportok 30 napig őrződnek meg. Törölt csoport visszaállítása:
   
-1. A [felügyeleti központ Exchange](https://outlook.office365.com/ecp/) **címzettek** kiválasztása a bal oldali ablaktáblában, és válassza a **csoport**. Ha egy csoport törölve lett kevesebb, mint 30 nappal ezelőtt, szerepelni fog a listán, és az Állapot oszlop törölni fogja felsorolni.
+1. Az [Exchange felügyeleti központban](https://outlook.office365.com/ecp/)jelölje ki a **címzettek** csoportot a bal oldali ablaktáblán, majd válassza a **csoportok**parancsot. Ha egy csoport 30 napnál rövidebb idő alatt törölve lett, az meg fog jelenni a listában, és az Állapot oszlopban a törölt dátum lesz látható.
 
-2. Jelölje ki a csoportot a parancssávon kattintson a **Visszaállítás** gombra, vagy kattintson a jobb oldali ablaktáblában "Visszaállításához kattintson ide" hivatkozásra.
+2. Jelölje ki a csoportot, majd kattintson a parancssávon a **visszaállítás** gombra, vagy kattintson a részletek ablaktáblán a "kattintson ide a visszaállításhoz" hivatkozásra.
 
-További információért, vagy arról, hogy miként használja a PowerShell csoportokat úgy állíthatja vissza lásd: [állítsa vissza a törölt csoport Office 365](https://go.microsoft.com/fwlink/?linkid=867802).
+További információért, illetve a csoportok PowerShell segítségével történő visszaállításának módjáról lásd [a törölt Office 365 csoport visszaállítása](https://go.microsoft.com/fwlink/?linkid=867802)című témakört.
   
