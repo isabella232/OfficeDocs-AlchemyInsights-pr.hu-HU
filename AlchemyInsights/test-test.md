@@ -1,7 +1,7 @@
 ---
 title: A SharePoint Online Kifejezéstárolóból hiányzó feltételek
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 10/30/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 0f9efe980987c9ffc64fcf9d5d72a67f0a622867
-ms.sourcegitcommit: 23772ebd25a86a879ced40b10566a35e76a79eb5
+ms.openlocfilehash: 28913b8e57e39d51e8957b7408c19337a119c589
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/05/2019
-ms.locfileid: "36762065"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053515"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>A BitLocker-titkosítás engedélyezése az Intune szolgáltatással
 
 Az Intune végpont-védelmi házirend a Windows-eszközök Boitlocker-titkosítási beállításainak az alábbiakban leírt módon történő konfigurálására használható: Windows10 (és újabb) beállítások az eszközök védelmére az Intune szolgáltatással
 
-Tisztában kell lennie azzal, hogy számos újabb, Windows 10 operációs rendszert futtató eszköz támogatja az automatikus BitLocker titkosítást, ami az MDM-házirend alkalmazása nélkül aktiválódik. Ez hatással lehet a házirendek alkalmazására, ha a nem alapértelmezett beállítások vannak konfigurálva. További részleteket a GYIK-ban találhat.
+Tisztában kell lennie azzal, hogy sok újabb Windows 10-es rendszerű eszköz támogatja az automatikus BitLocker titkosítást, ami az MDM-házirend alkalmazása nélkül aktiválódik. Ez hatással lehet a házirendek alkalmazására, ha a nem alapértelmezett beállítások vannak konfigurálva. További részleteket a GYIK-ban találhat.
 
 
 FAQ  Q: a rendszer mely kiadásai támogatják az eszközök titkosítását a végponti védelmi házirend segítségével?

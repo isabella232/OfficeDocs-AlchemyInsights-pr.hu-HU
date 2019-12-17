@@ -1,7 +1,7 @@
 ---
-title: DLP esetleg szükséges egyéni típusok
-ms.author: stephow
-author: stephow-MSFT
+title: A DLP-nek szüksége lehet egy egyéni típusra
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530353"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052903"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP esetleg szükséges egyéni típusok
+# <a name="dlp-might-need-a-custom-type"></a>A DLP-nek szüksége lehet egy egyéni típusra
 
-A veszteség megelőzése (DLP) házirend azonosítására és bizalmas adatok védelmére a szervezetben. Bizonyos esetekben szükség lehet létrehozni saját **egyéni** bizalmas adatok védelme érdekében a szervezet adatait.
+Az adatvesztésmegelőzési (DLP) házirend segítségével azonosíthatja és megvédheti a bizalmas adatokat a szervezeten belül. Egyes esetekben szükség lehet arra, hogy a szervezeti adatok védelme érdekében **Egyéni** , bizalmas adattípusra legyen szüksége.
 
-Például a szervezet kell azonosítani és alkalmazotti azonosítót vagy más néhány jellemző a org. formátumú adatok védelme Ha igen, olvassa el a következő cikkek további információt.
+Előfordulhat például, hogy a szervezetnek azonosítania kell és meg kell védenie az alkalmazotti azonosítókat vagy más adatokat a szervezet bizonyos formátumában. Ha igen, további információért olvassa el az alábbi cikkeket.
   
- **Testreszabhatja a beépített érzékeny adatok típusa**
+ **Beépített érzékeny adattípus testreszabása**
   
-Ha a beépített érzékeny adatok típusa felel meg igényeinek, pár beállításokból állnak, testreszabhatja [a beépített érzékeny adatok típusa](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Például akkor is hozzáadása vagy eltávolítása a kulcsszavak hozzáadása vagy eltávolítására dátum és cím, alátámasztó bizonyítékokat.
+Ha egy beépített érzékeny adattípus csak néhány csíp, akkor tudja, [testre szabhatja a beépített érzékeny információ típusát](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Hozzáadhat vagy eltávolíthat kulcsszavakat, vagy hozzáadhat vagy eltávolíthat olyan alátámasztó bizonyítékokat, mint például dátum vagy cím.
   
- **Hozzon létre egy egyéni bizalmas információ típusa**
+ **Egyéni szenzitív adattípus létrehozása**
   
-De ha azonosítására és más típusú érzékeny adatok védelmére teljesen van szüksége, [Hozzon létre egy egyéni bizalmas információ típust](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) a felhasználói felületen, a biztonsági & Megfelelési központba.
+Ha azonban egy másik típusú érzékeny információt is azonosítani és védeni kell, akkor [létrehozhat egy egyedi, érzékeny adattípust](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) a biztonsági & megfelelőségi központ felhasználói felületén.
   
-**Hozzon létre egy egyéni bizalmas információ típusa kompatibilitási központ PowerShell biztonsági &**
+**Egyéni érzékeny adattípus létrehozása a biztonsági & megfelelőségi központ PowerShell eszközzel**
 
-Végül a felhasználói felület nem rendelkeznek a szükséges beállításokat, ha hozhat [létre egy egyéni bizalmas adatok biztonsági & kompatibilitási központ PowerShell típust](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). XML-fájl elindításával, minden elérhető beállítás használható.
+Végül, ha a felhasználói felület nem biztosítja az összes szükséges lehetőséget, létrehozhat [egy egyéni érzékeny adattípustípust is a biztonsági & a megfelelőségi központ PowerShell parancshéjban](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Az XML-fájllal kezdve minden rendelkezésre álló opciót igénybe lehet használni.

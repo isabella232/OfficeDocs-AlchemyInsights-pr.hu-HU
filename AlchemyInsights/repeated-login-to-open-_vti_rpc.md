@@ -1,7 +1,7 @@
 ---
-title: Ismételt bejelentkezés _vti_rpc megnyitása
-ms.author: dludwig
-author: dludwig
+title: Ismételt bejelentkezés a megnyit_vti_rpc
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -14,14 +14,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: ef59ee1085bbd163eaa31845036619322038fa34
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d28370db130278074beb06a5379553f26b2c684c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552286"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054235"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a>Ismételt bejelentkezés _vti_rpc megnyitása
+# <a name="repeated-login-to-open-_vti_rpc"></a>Ismételt bejelentkezés a megnyit_vti_rpc
 
-A OneDrive fájlok használata az Office 2016 használatakor is megjelenik az üzenet: "Mondja el a _vti_rpc megnyitásához használni kívánt fiókot." Ez a probléma javítását a verzió 1708 (16.0.8431.2094). A javításhoz az Office legújabb verziójára frissíteni. Válassza ki a **fájl** \> **fiók** \> **frissítési beállítások** \> **Frissítés most**.
+Mikor működő-ra OneDrive fájlokat használ Hivatal 2016, szabad lát a üzenet: "mond minket a számla ön akar-hoz használ-hoz nyit _vti_rpc." Ez probléma volt rögzített-ban változat 1708 (16.0.8431.2094). A kijavításához frissítse az Office legújabb verzióját. A \> **fájlfiókfrissítési** \> **Beállítások** \> **frissítésének**kiválasztása. ****
   

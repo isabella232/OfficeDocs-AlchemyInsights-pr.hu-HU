@@ -1,7 +1,7 @@
 ---
-title: Állítsa vissza a törölt OneDrive
-ms.author: kaarins
-author: kaarins
+title: Visszaállítani a törölt OneDrive
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 5/15/2018
 ms.audience: Admin
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: 80582bdcc38a92f85282826aa63822ddf0cb1994
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a6db2e22c001cb809465c63da494121c06178b64
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509327"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054199"
 ---
-# <a name="restore-a-deleted-onedrive"></a>Állítsa vissza a törölt OneDrive
+# <a name="restore-a-deleted-onedrive"></a>Visszaállítani a törölt OneDrive
 
-Felhasználó törlése, miután érheti el a felhasználó OneDrive a Microsoft 365 felügyeleti központ 30 napig. Más felhasználók továbbra is elérhető a megosztott tartalom a OneDrive a hosszú ideig is beállítjuk a OneDrive admin központban. (Ez beállítása című témakörben talál [meg az alapértelmezett fájl adatmegőrzési törölt OneDrive felhasználók](https://go.microsoft.com/fwlink/?linkid=874267).) Ezután az OneDrive átkerül a Lomtár 93 napra, és akkor az törlődik.
+A felhasználó törlése után a felhasználó OneDrive-ja elérhető a Microsoft 365 Admin Center segítségével 30 napig. Más felhasználók továbbra is hozzáférhetnek a megosztott tartalomhoz az OneDrive-ban, hogy mennyi ideig van beállítva az OneDrive admin központban. (A beállítás módjáról [a törölt OneDrive felhasználók alapértelmezett fájlmegőrzési módjának beállítása](https://go.microsoft.com/fwlink/?linkid=874267)című témakörben olvashat.) Után amit idő, a OneDrive van mozgott-hoz újra feldolgoz tartó részére 93 napok, aztán-a ' töröl.
   
-Után az első 30 napot, amikor a törölt felhasználói már nem jelenik meg a Microsoft 365 felügyeleti központ, a felhasználó OneDrive PowerShell keresztül érheti el. Info [állítsa vissza a törölt OneDrive](https://go.microsoft.com/fwlink/?linkid=874269)talál.
+A kezdeti 30 nap után, amikor a törölt felhasználó már nem jelenik meg a Microsoft 365 Admin Center, elérheti a felhasználó OneDrive keresztül PowerShell. További információ: [a törölt OneDrive visszaállítása](https://go.microsoft.com/fwlink/?linkid=874269).
   
 

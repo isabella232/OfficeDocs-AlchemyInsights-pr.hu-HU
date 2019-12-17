@@ -1,7 +1,7 @@
 ---
-title: OneDrive fenntartását és törlés
-ms.author: efrene
-author: efrene
+title: OneDrive megtartása és törlése
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521569"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053335"
 ---
-# <a name="onedrive-retention-and-deletion"></a>OneDrive fenntartását és törlés
+# <a name="onedrive-retention-and-deletion"></a>OneDrive megtartása és törlése
 
-- Visszaállítható [a törölt felhasználói OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) magát. Vannak a Lomtár 93 napra. 
+- Tudod [visszaad egy töröl használók OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) önmaga. Ezek a Recycle Bin a 93 Days. 
 
-- [Ez a cikk](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) további információt talál:
-    - Hogyan kell egy másik felhasználó hozzáférést biztosíthat a törölt felhasználói OneDrive.
-    - Mi történik a felhasználó OneDrive, a szervezet számára az Office 365 fiókkal törlésekor.
-    - Hogyan konfigurálható az automatikus hozzáférés delegálása.
-    - OneDrive törlési folyamat működése.
+- Lásd [ezt a cikket](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) tanulni:
+    - Hogyan viselkedni ad másik felhasználó belépés-hoz egy töröl használók ' OneDrive.
+    - Mi történik-hoz egy használók ' OneDrive amikor vagy töröl a használók ' hivatal 365 számla részére-a szervezet.
+    - Az automatikus hozzáférés-delegálás konfigurálása.
+    - Hogyan működik az OneDrive törlési folyamat?
 
-- Biztonsági és Megfelelési központba adatmegőrzési és tartás iránt érdeklődik?:
-    - [Adatmegőrzési szabályok OneDrive és a SharePoint-webhelyek](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [elektronikus adatok feltárása tartsa OneDrive és a SharePoint-webhelyek](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Érdekli a biztonsági és megfelelőségi központ visszatartása és megtartása?:
+    - [Az OneDrive és a SharePoint webhelyek adatmegőrzési irányelvei](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [eDiscovery ragaszkodik részére OneDrive és SharePoint telek](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 
