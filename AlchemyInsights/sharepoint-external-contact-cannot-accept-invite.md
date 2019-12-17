@@ -1,18 +1,18 @@
 ---
 title: A külső kapcsolat nem tudja elfogadni a megosztási meghívással
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e2e777db93bfba4ff5ad6f17afdb8d820e2d5594
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6f69b57b63e2f1abaa22ef496c2969d45b968802
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744211"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40043973"
 ---
 # <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>A külső kapcsolat nem fogad el SharePoint-meghívást
 

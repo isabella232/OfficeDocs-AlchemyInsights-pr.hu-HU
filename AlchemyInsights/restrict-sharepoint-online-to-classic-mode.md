@@ -1,7 +1,7 @@
 ---
 title: A SharePoint Online klasszikus üzemmódra korlátozása
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 3/27/2018
 ms.audience: ITPro
 ms.topic: article
@@ -12,12 +12,12 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: b58a1c3fc331c739080542917d8945c090ec0d94
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752070"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048762"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>A SharePoint Online klasszikus üzemmódra korlátozása
 

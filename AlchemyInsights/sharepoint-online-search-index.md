@@ -1,37 +1,37 @@
 ---
-title: A SharePoint Online keresés
-ms.author: efrene
-author: efrene
+title: Keresés a SharePoint Online szolgáltatásban
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507633"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044045"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>A bejárási és indexelési a SharePoint Online tartalom
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Tartalomfeltérképezés és indexelés a SharePoint Online szolgáltatásban
 
-Tartalom bejárása legyen, és hozzáadódnak a keresési index számára, hogy mi azok keres a SharePoint Online keresése. Automatikusan a bejárt tartalmat alapján előre definiált bejárási ütemezés (a bejárás ütemezése nem lehet módosítani). A webbejáró veszi fel tartalmat, amely a legutóbbi bejárás óta megváltozott, és frissíti az indexet. A bejárt tartalmat, és az index frissítése érdekében vegye figyelembe az alábbiakat:
+A tartalmat bejárnia kell, és hozzá kell adnia a keresési indexhez ahhoz, hogy megtalálja a keresést a SharePoint Online szolgáltatásban. A program a tartalmat előre definiált bejárási ütemezés alapján automatikusan feltérképezi (a bejárási ütemezés nem módosítható). A webbejáró felveszi az utolsó bejárás óta módosult tartalmat, és frissíti az indexet. A tartalombejárás és az index frissítése érdekében vegye figyelembe a következőket:
 
-- Ellenőrizze, hogy azáltal, [hogy a webhely tartalma kereshető](https://docs.microsoft.com/sharepoint/make-site-content-searchable)tartalom található.
+- Győződjön meg arról, hogy tartalma megtalálható a [webhely tartalmának kereshetővé tétele](https://docs.microsoft.com/sharepoint/make-site-content-searchable)érdekében.
 
-- Felügyelt tulajdonság módosítása után, vagy ha megváltoztatta hozzárendelése bejárt és kezelt tulajdonságai, a webhely bejárását előtt kell a változások megjelennek a keresési indexben. 
+- Miután módosította a felügyelt tulajdonságot, vagy módosította a bejárt és kezelt tulajdonságok hozzárendelését, a webhelyet újra kell bejárnia ahhoz, hogy a módosítások megjelenjenek a keresési indexben. 
 
-    A módosítások megjelennek a keresési sémában, és nem a tényleges hely, mert a webbejáró nem automatikusan újra indexeli a webhelyet. 
+    Mivel a módosítások a keresési sémában történtek, és nem az aktuális webhelyre, a webbejáró nem fogja automatikusan újra indexelni a webhelyet. 
 
-    További információért lásd: [manuálisan kérheti a bejárási és indexelési újra a hely, a tár vagy lista](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+    További információt a [webhelyek, tárak és listák kézi vagy újraindexelésének manuális kérése](https://docs.microsoft.com/sharepoint/crawl-site-conten)című témakörben talál.
 
-- Várjon, amíg manuálisan a bejárás és teljes újraindexelése megtekintéséhez, ha még mindig fennáll a probléma bekérése után legalább 24 órán keresztül. 
+- A bejárás és a teljes újraindex manuális kérése után várjon legalább 24 órát, és ellenőrizze, hogy a probléma továbbra is fennáll-e. 
 
-    Ha 24 óránál hosszabb idő telt el azóta a bejárás és a teljes újraindexelése kezdeményezett, jelentkezzen be a támogatási eset. Sok esetben azt már dolgozik a megoldáson. Adja meg a megoldás végrehajtásához legalább 24 órán keresztül.
+    Ha több mint 24 óra telt el mióta kezdeményezte a feltérképezés és a teljes re-index, kérjük, jelentkezzen egy támogatási ügyben. Sok esetben már dolgozunk a megoldásban. Kérjük, hogy a megoldás befejezéséhez legalább 24 órát adjon nekünk.
 
 > [!IMPORTANT]
-> Ha egy webhely (könyvtár) a dokumentum vagy lista törölve lett, és még mindig szerepel a keresési eredmények a felhasználók kell kapnia egy **Hiba 404 fájl nem található** az elérésére tett kísérlet során. A probléma további vizsgálatához támogatási eset kell naplózásra. 
+> Ha egy webhelyet, dokumentumot (könyvtárat) vagy listát töröltek, és még mindig láthatók a keresési eredményekben, a felhasználóknak hibaüzenetet kell kapniuk, **404 a fájl nem található** , amikor megpróbálnak hozzáférni hozzá. Ezt a kérdést a további kivizsgálás támogatási eseteként kell naplóznia. 
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Bevezetés a SharePoint Online használatbaveléshez
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 74ac6eb23552ccd70de3efabeb2eed7caf249dba
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 6ecd33e81f9918c5b4baac8da264ad79773a20f9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750126"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044205"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>Webhely-és Oldalnavigáció SharePoint-webhelyeken
 
-A webhely-és Oldalnavigáció alapelveit és bevált gyakorlatait egyaránt alkalmazni kell a klasszikus és a modern SharePoint-architektúrákra. A navigáció végrehajtásának lehetőségei azonban eltérnek a webhelyek és az intranet keretétől. A klasszikus SharePoint-webhelyhierarchiák (alwebhelyekkel rendelkező webhelyek) örökölt navigációs élményei például nem érhetők el a modern élményben, de a [hub webhelyek](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) nagyszerű módot nyújtanak a helyközi navigációs funkciók elérésére korábban elérhető felügyelt navigációs és helyhierarchiák a klasszikus SharePoint.
+A webhely-és Oldalnavigáció alapelveit és bevált gyakorlatait egyaránt alkalmazni kell a klasszikus és a modern SharePoint-architektúrákra. A navigáció végrehajtásának lehetőségei azonban eltérnek a webhelyek és az intranet keretétől. A klasszikus SharePoint-webhelyhierarchiák (alwebhelyekkel rendelkező webhelyek) örökölt navigációs élményei például nem érhetők el a modern élményben, de a [hub-webhelyeken](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) nagyszerű lehetőség van a korábban a felügyelt navigálást és a webhelyhierarchiákat tartalmazó, több webhelyen elérhető navigációs funkciók elérésére a klasszikus SharePoint szolgáltatásban.
 
  A navigálási lehetőségekről további információért kérjük, látogasson el az alábbi linkekre.
 
