@@ -32,4 +32,4 @@ Ha lejár az előfizetése, illetve lemondta vagy a Microsoft letiltotta az elő
 
 3. Erősítse meg a fizetési adatait. Ugyanitt módosíthatja meglévő fizetési adatait. Miután befejezte a fizetési mód megadását, válassza az **Újraaktiválás** lehetőséget.
 
-Bővebb információkkal kapcsolatban tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription) című részt.
+További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription) című részt.

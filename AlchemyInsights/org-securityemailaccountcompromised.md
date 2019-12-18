@@ -27,4 +27,4 @@ Számos lépéssel fokozhatja a biztonságot az Office 365-ös szervezetében:
 
 - **A postaláda-naplózás bekapcsolása**: A postaláda-naplózás segítségével könnyebben megállapíthatja, hogy mi történt, amikor feltörtek egy felhasználói fiókot.
 
-További információt az [Office 365 biztonsági ütemterv](https://docs.microsoft.com/office365/securitycompliance/security-roadmap) témakörben talál.
+További információt az [Office 365 biztonsági ütemtervet](https://docs.microsoft.com/office365/securitycompliance/security-roadmap) ismertető témakörben talál.

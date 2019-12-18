@@ -31,6 +31,6 @@ ms.locfileid: "36664394"
 > [!NOTE]
 > Ha az előfizetést egy másik rendszergazda vásárolta, akkor Ön nem fogja tudni frissíteni az előfizetés hitelkártya- vagy bankszámlaadatait. Ha a kártya hamarosan lejár, és a másik rendszergazda nem tudja frissíteni az adatait, a szolgáltatás megszakadását úgy előzheti meg, hogy egy másik hitelkártyát vagy bankszámlát ad hozzá az előfizetéshez.
 
-4. Frissítse igény szerint hitelkártya vagy bankszámla adatait (a hitelkártyán szereplő vagy a bankszámlához tartozó nevet, a számlázási címet, a telefonszámot vagy az érvényességi dátumot), majd válassza a **Mentés** > **Kész** gombot.
+4. Frissítse igény szerint hitelkártya- vagy bankszámlaadatait (a hitelkártyán szereplő vagy a bankszámlához tartozó nevet, a számlázási címet, a telefonszámot vagy az érvényességi dátumot), majd válassza a **Mentés** > **Kész** gombot.
 
 További információt a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása az Office 365 Vállalati verzióban](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) című cikkben talál.
