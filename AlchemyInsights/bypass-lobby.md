@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626350"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889084"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>A lobby-beállítások és a részvételi szint szabályozása
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>A lobbybeállítások és a részvétel szintje a csapatokban
 
-Ha azt szeretné, hogy mindenki, beleértve a betárcsázást, a külső és a névtelen felhasználók megkerüljék a lobby a Microsoft csapatok, használhatja a PowerShell segítségével csinálni. Itt egy példa a szervezet globális értekezleti házirendjének módosítására:
+Ha azt szeretné, hogy mindenki, köztük a Betárcsázás, a külső és a névtelen felhasználók is megengedjék **a lobby megkerülési**feladatát, használja a PowerShell eszközt a feladat elvégzéséhez. Itt egy példa a szervezet globális értekezletházirendjének módosítására.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Ez a parancsmag jelenleg a Skype for Business PowerShell modul használatát igényli. -Hoz kap beállít-hoz használ ez cmdlet, kijelenti magát [igazgató politikák keresztül PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Ez a parancsmag jelenleg a Skype for Business PowerShell modul használatát igényli. -Hoz kap felállít-hoz használ ez cmdlet, kijelenti magát [igazgató politikák keresztül PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Beállíthat egy új házirendet, amelyet ezután a felhasználókra kell alkalmaznia. Ha módosítja a globális házirendet, az automatikusan a felhasználókra is érvényes lesz. A házirendek érvénybe léptetéséhez legalább 4, illetve legfeljebb 24 órát kell várnia a házirend módosítására.
+Miután beállította a házirendet, alkalmaznia kell azt a felhasználókra; vagy ha módosította a globális házirendet, az automatikusan a felhasználókra is érvényes lesz. A házirendek érvénybe léptetéséhez legalább **4 órát kell várni 24 óráig** , ha a házirend megváltozik. 
 
 Ügyeljen arra, hogy felülvizsgálja az alábbi dokumentációt, mielőtt ezeket a változtatásokat, hogy megértsék, hogy pontosan mi ez lehetővé teszi.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>A lobby értekezleti vezérlőelemcsoportjainak ismertetése
+
+Ezek a beállítások vezérlik, hogy a résztvevők milyen értekezletet várnak el az előtérben, mielőtt felvételt kapnak az értekezletbe, és az értekezleten részt vehetnek. A PowerShell eszközzel frissítheti a még nem végrehajtott értekezletházirend-beállításokat (a "hamarosan" felirat látható) a csapatok felügyeleti központjában. Lásd lentebb egy példát PowerShell cmdlet, amely lehetővé teszi az összes felhasználó számára, hogy megkerülje a lobby.
 
 - A [személyek automatikus beismerése](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) szervező házirend, amely azt vezérli, hogy az emberek közvetlenül csatlakoznak-e vagy várnak az előcsarnokban, amíg egy hitelesített felhasználó be nem ismerte őket.
 
