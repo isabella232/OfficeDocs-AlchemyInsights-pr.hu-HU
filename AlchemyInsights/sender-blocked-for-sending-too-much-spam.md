@@ -12,20 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
+ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741034"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40886403"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>A fiók túl sok levélszemét küldése miatt le van tiltva
 
-Ha egy Office 365-fiók túl sok levélszemét küldése miatt le van tiltva, előfordulhat, hogy feltörték a feladó fiókot. A következőket kell tennie:
-  
-1. [Állapítsa meg, hogy feltörték-e a fiókot](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account#symptoms-of-a-compromised-office-365-email-account). Ha igen, végezze el a [Teendők Office 365-ös e-mail-fiók feltörésére](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) című cikk lépéseit.
+Rendszergazdaként, ha az egyik felhasználója számára korlátozva van az e-mail küldés, [Ön is feldolhatja a fiók tiltását](https://protection.office.com/?hash=/restrictedusers) **támogatási eset megnyitása nélkül**. A felhasználó egy órával a korlátozás eltávolítása után egy órán belül újra képessé válik az e-mailek küldésére.
 
-2. Lépjen a Korlátozott jogú felhasználók területre, és **[oldja fel a fiók zárolását](https://protection.office.com/?hash=/restrictedusers)** a Biztonsági és megfelelőségi központban. Ennek elvégzése után *1 órán belül* helyre kell állnia a fiók üzenetküldési képességének.
-
-3. Ha meg szeretné előzni, hogy a jövőben feltörjék a fiókját, kövesse az [Office 365 biztonsági ütemterv](https://docs.microsoft.com/office365/securitycompliance/security-roadmap) című cikk ajánlásait.
-  
+A szolgáltatás megakadályozza, hogy a felhasználó e-mailt küldjön egy sérült fiókra és/vagy kimenő levélszemétre utaló bizonyíték észlelése után. A megelőzés érdekében végezze el a [Teendők Office 365-ös felhasználói e-mail-fiók feltörése esetén](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) című cikk lépéseit.
