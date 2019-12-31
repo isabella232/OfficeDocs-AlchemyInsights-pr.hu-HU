@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "737"
 - "6500003"
+- "9000725"
+- "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 53638195d0c1a0c73ff70c38ab7c3cea49d0a53a
+ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736111"
+ms.lasthandoff: 12/30/2019
+ms.locfileid: "40908532"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="bde44-102">Microsoft-csapatok engedélyezése és használata</span><span class="sxs-lookup"><span data-stu-id="bde44-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="5d790-102">Microsoft-csapatok engedélyezése és használata</span><span class="sxs-lookup"><span data-stu-id="5d790-102">Enable and Use Microsoft Teams</span></span>
 
-<span data-ttu-id="bde44-103">Ha Ön dont ' volna belépés-hoz Mikroszkóp fuvaros egyáltalán, kijelenti magát [Hogyan csinál én kap belépés-hoz Mikroszkóp fuvaros](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span><span class="sxs-lookup"><span data-stu-id="bde44-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span></span>
+<span data-ttu-id="5d790-103">Ha Ön dont ' volna belépés-hoz Mikroszkóp fuvaros egyáltalán, kijelenti magát [Hogyan csinál én kap belépés-hoz Mikroszkóp fuvaros](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span><span class="sxs-lookup"><span data-stu-id="5d790-103">If you don’t have access to Microsoft Teams at all, check out [How do I get access to Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).</span></span>
 
-<span data-ttu-id="bde44-104">Ha már van Microsoft csapata, és tudnia kell, hogyan kell konfigurálni és kezelni, akkor tekintse át [a Microsoft csapatok beállításainak kezelése a szervezethez](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)című témakört.</span><span class="sxs-lookup"><span data-stu-id="bde44-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Manage Microsoft Teams settings for your organization](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span></span>
+<span data-ttu-id="5d790-104">Ha már van Microsoft csapata, és tudnia kell, hogyan kell konfigurálni és kezelni, akkor tekintse át [a Microsoft csapatok beállításainak kezelése a szervezethez](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)című témakört.</span><span class="sxs-lookup"><span data-stu-id="5d790-104">If you already have Microsoft Teams and need to know how to configure and manage it, see [Manage Microsoft Teams settings for your organization](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).</span></span>
