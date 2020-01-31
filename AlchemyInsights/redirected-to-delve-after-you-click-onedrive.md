@@ -1,5 +1,5 @@
 ---
-title: OneDrive a Business web OneDrive átirányítja a delve
+title: A OneDrive Vállalati web onedrive átirányítja a Delve-re
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 8ba296c6986c767939ef51076551f95719d11aa2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
+ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752250"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "41571209"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Ha rákattint a OneDrive, a delve
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Átirányítva a Delve-re, miután a OneDrive-ra kattintott
 
-A probléma megoldásához az Office 365 rendszergazdájának meg kell adnia a felhasználóknak a saját webhelyek webhely létrehozásának jogát. Ez van mert a OneDrive részére teendő oldal van teremtett-ra az én-m telek.
+Tekintse meg részletes [hibaelhárítási útmutatónkat.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-Ezt a jogot az alábbi lépésekkel engedélyezheti:
+A probléma megoldásához az Office 365 rendszergazdájának meg kell adnia a felhasználóknak a Saját helyek webhely létrehozásának jogát. Ennek az az oka, hogy a OneDrive Vállalati verzió lap a Saját webhelyek lapon jön létre.
 
-1. Kattintson a SharePoint felügyeleti központ **felhasználói profilok**elemére.
+A jog megadásához kövesse az alábbi lépéseket:
 
-2. A **személyek** szakaszban kattintson a **felhasználói engedélyek kezelése**elemre.
+1. A SharePoint Felügyeleti központban kattintson a **felhasználói profilok**elemre.
 
-3. Adja hozzá azokat a felhasználókat, akiknek engedélyük van saját webhelyeik webhelyének létrehozásához. Alapértelmezés szerint ez a beállítás mindenki számára be van állítva, **kivéve a külső felhasználókat**.
+2. A **Kapcsolatok** csoportban kattintson a **Felhasználói engedélyek kezelése**gombra.
 
-4. Miután hozzáadta a felhasználót, felhasználókat vagy csoportot, győződjön meg arról, hogy a felvett felhasználó, felhasználó vagy csoport ki van jelölve, görgessen az **engedélyek** szakaszhoz, majd jelölje be a **személyes webhely létrehozása melletti jelölőnégyzetet (a személyes tároláshoz, hírcsatornhoz és követte tartalom)**.
+3. Adjon hozzá olyan felhasználókat, akiknek engedélyre van szükségük a Saját helyek webhely létrehozásához. Alapértelmezés szerint ez a beállítás **a külső felhasználók kivételével mindenki**re van állítva.
 
-5. Kettyenés **rendben**van, aztán volna a felhasználó legel-hoz OneDrive oldal-hoz teremt a telek.
+4. Miután felvette a felhasználót, a felhasználókat vagy a csoportot, győződjön meg arról, hogy a hozzáadott felhasználó, felhasználók vagy csoportok be van jelölve, görgessen az **engedélyek** szakaszhoz, majd jelölje be a **Személyes webhely létrehozása (személyes tároláshoz, hírcsatorna és követett tartalomhoz szükséges)** jelölőnégyzetet.
+
+5. Kattintson az **OK**gombra, majd a webhely létrehozásához keresse meg a felhasználót a OneDrive lapon.
