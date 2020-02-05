@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0ecb317a0dfb760e459b35b6bff86006c06dc0d6
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053047"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770497"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Office 365-csoporthoz tartozó SharePoint-webhely törlése
 
-A globális rendszergazdák és a SharePoint rendszergazdák mostantól törölhetik az Office 365-csoporthoz tartozó webhelyeket. Ha törli ezeket a helyeket, akkor törli a csoportot és annak összes erőforrással rendelkező csoportját, beleértve az Outlook postafiókját és naptárát, valamint a csapatok csatornáit is.
+A globális rendszergazdák és a SharePoint-rendszergazdák mostmár törölhetik az Office 365-csoporthoz tartozó webhelyeket. Ezeknek a webhelyeknek a törlésével törli a csoportot és annak összes erőforrását, beleértve az Outlook postaládáját és naptárát, valamint a Teams-csatornákat.
   
 Fontos:
 
-- Tudod visszaszerez töröl telek részére 93 napok. További információt a törölt webhelyek megtekintése és visszaállítása című témakörben talál. Ne feledje, hogy a törölt csoportokat 30 napon belül vissza kell állítani.
-- Ha a hely adatmegőrzési házirend része, előfordulhat, hogy nem tudja törölni, amíg a webhelyet el nem távolítja a [biztonsági &amp; előírásoknak való megfelelést felügyelő felügyeleti központból](https://protection.office.com/?rfr=AdminCenter#/retention). További információ az [adatmegőrzési szabályok áttekintése](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) című témakörben található.
+- A törölt webhelyeket 93 napig állíthatja helyre. A törölt csoportokat 30 napon belül vissza kell állítani. A törölt webhelyeket közvetlenül a SharePoint Felügyeleti központból tekintheti meg [és állíthatja vissza.](https://admin.microsoft.com/sharepoint) [A törölt csoportok megtekintése és visszaállítása,](https://outlook.office.com/people/group/deleted)válassza a **Csoportok kezelése**, majd a **Törölt**lehetőséget.
+- Ha a webhely egy adatmegőrzési szabály része, előfordulhat, hogy nem tudja törölni, amíg a webhelyet el nem távolítja a [Biztonsági &amp; megfelelőségi felügyeleti központból.](https://protection.office.com/?rfr=AdminCenter#/retention) További [információ: Adatmegőrzési szabályzatok áttekintése.](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)
   
-[A törölt helyek megtekintéséhez és visszaállításához az új SharePoint felügyeleti központban válassza a](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center) **törölt webhelyek**parancsot. Jelölje ki a törölt webhelyet, és válassza a visszaállítás vagy a törlés (ami véglegesen törli a webhelyet) választógombot. Aktív hely törléséhez jelölje ki az **aktív** helyeket, jelölje ki a webhelyet, és válassza a **Törlés**lehetőséget. További információ: [helyek kezelése az új SharePoint felügyeleti központban](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+A [törölt helyek megtekintéséhez és visszaállításához](https://admin.microsoft.com/sharepoint)jelölje ki a törölt helyet, és válassza a **Visszaállítás** vagy **a Törlés** lehetőséget (amely véglegesen törli a webhelyet). [Az aktív webhely törlése](https://admin.microsoft.com/sharepoint) közvetlenül a SharePoint Felügyeleti központból a webhely kijelölésével, majd a **Törlés**gombra kattintva. További információt [a Webhelyek kezelése az új SharePoint Felügyeleti központban](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)című témakörben talál.
   

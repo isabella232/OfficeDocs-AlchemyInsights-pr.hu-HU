@@ -1,5 +1,5 @@
 ---
-title: Társ-menedzsment
+title: Közös vezetés
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: fe7dcebf847fbd7d91632e93e2253bf62ac659aa
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910316"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770893"
 ---
-# <a name="co-management"></a>Társ-menedzsment
+# <a name="co-management"></a>Közös vezetés
 
-**Előfeltételek a config Manager hibrid és Intune közötti áttelepítéséhez**
+**A Config Manager Hybrid-ről az Intune-ra való áttelepítés előfeltételei**
 
-- Olvassa el [ezt a cikket](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Adjon hozzá Intune licencet a felhasználóknak](https://docs.microsoft.com/intune/licenses-assign).
-- A Társtulajdonkezelés konfigurálásakor használja a [szegélyböngészőt](https://www.microsoft.com/windows/microsoft-edge) .
+- Tekintse át [ezt a cikket](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
+- [Intune-licenc hozzáadása a felhasználókhoz.](https://docs.microsoft.com/intune/licenses-assign)
+- Használja az [Edge böngészőt](https://www.microsoft.com/windows/microsoft-edge) a társkezelés konfigurálásakor.
 
-**Hogyan kell telepíteni a config Manager kliens Intune-vezérelt eszközök**
+**A Config Manager-ügyfél telepítése intune-kezelt eszközökre**
 
-További információ: [Intune MDM-kezelt Windows-eszközök](https://docs.microsoft.com/sccm/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Lásd: [Intune MDM által felügyelt Windows-eszközök](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-**Mi van, ha én csak azt szeretném változtatni MDM hatóság?**
+**Mi a teendő, ha csak meg akarom változtatni az MDM jogosultságát?**
 
-Az MDM hatóság támogatási eset megnyitása nélkül is megváltoztatható. Kérjük, olvassa el az alábbi dokumentációt, hogy segítse az MDM hatóság megváltoztatását:
-- [MDM hatóság módosítása a Konfigurációkezelőtől az Intune önálló](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
-- [Változás MDM hatóság Intune önálló config Manager](https://docs.microsoft.com/intune-classic/deploy-use/prerequisites-for-enrollment#what-to-do-if-you-choose-the-wrong-mdm-authority-setting)
+Az MDM Authority támogatási eset megnyitása nélkül módosítható. Kérjük, tekintse át az alábbi dokumentációt, hogy segítse az MDM-szolgáltató módosítását:
+
+- [MDM-jogosultság módosítása a Configuration Managerről önálló Intune-ra](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [MDM-jogosultság módosítása az Intune önállóról a Configuration Managerre](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

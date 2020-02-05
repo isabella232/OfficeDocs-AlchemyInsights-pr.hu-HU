@@ -1,5 +1,5 @@
 ---
-title: Eszközök tanúsítványigénylési váró állapotban vannak
+title: Az eszközök a Beléptetésre váró állapotban vannak
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 46bb390bd89d82bab8099f15f086746800cb4261
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800397"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770317"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>"Vár beiktató" állapotban vannak eszközök
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Az eszközök "Igénylésre vár" állapotban vannak
 
-Asztali Analytics diagnosztikai adatokat az eszköz nem rendelkezik. 
+A Desktop Analytics nem rendelkezik diagnosztikai adatokkal ehhez az eszközhöz. 
 
-Ez a probléma akkor fordulhat elő, mert nemrégiben az eszköz a cél gyűjteménybe, és azt még nem küldött adatokat. Azt is jelentheti, az eszköz nem megfelelően kommunikál a szolgáltatás, és a legújabb diagnosztikai adatok 28 napnál régebbi.
+Ez a probléma azért fordulhat elő, mert nemrég adta hozzá az eszközt a célgyűjteményhez, és még nem küldött adatokat. Ez azt is jelentheti, hogy az eszköz nem kommunikál megfelelően a szolgáltatással, és a legújabb diagnosztikai adatok több mint 28 naposak.
 
-Győződjön meg arról, hogy az eszköz képes kommunikálni a szolgáltatás. További tudnivalókért lásd: [Végpontok](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints).
+Győződjön meg arról, hogy az eszköz képes kommunikálni a szolgáltatással. További információt a [Végpontok](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)című témakörben talál.
 
-A awainting tagság állapotáról további információt lásd a [Monitor kapcsolaton egészségügyi](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+A beigénylésre váró állapotról a [Kapcsolat állapotának figyelése](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)című témakörben talál további információt.
