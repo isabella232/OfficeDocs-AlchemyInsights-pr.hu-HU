@@ -1,5 +1,5 @@
 ---
-title: A csapatok bejelentkezési problémái
+title: Csapatok bejelentkezési problémái
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2688"
 - "9000744"
-ms.openlocfilehash: c9bd5cd72507e95121c2d839878fde43e35b733e
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 71ed6c31efd20079531c5f51482010959d83b61e
+ms.sourcegitcommit: d4955c77097bf22b25913589955bb91bf9f56304
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376677"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41932210"
 ---
-# <a name="troubleshooting-teams-sign-in"></a>Hibaelhárítás csapatok bejelentkezés 
+# <a name="troubleshooting-teams-sign-in"></a>A Teams bejelentkezéselhárítása 
 
-Birtoklás kérdés jel-ban-hoz Mikroszkóp fuvaros? További információért lásd a következő cikkeket.
+Problémái vannak a Microsoft Teams bejelentkezésével? További információt az alábbi cikkekben talál.
 
-- [Miért nem sikerül bejelentkezni a Microsoft csapatba?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f?ui=en-US&rs=en-US&ad=US)
-- [Mikroszkóp fuvaros van megragadt-ban egy logika hurok-ban él vagy Internet Felfedező](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
-- [Office 365 a hallgatói és szolgáltatási fiókok nem tudnak bejelentkezni a Microsoft-munkacsoportokra](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/office-365-accounts-cannot-sign-in)
-- [-A állapot kód van 4c7 hibaüzenetet kapja hiba-val Mikroszkóp fuvaros](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
-- [Hogyan jutok hozzáférést a Microsoft csapatok?](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b?ui=en-US&rs=en-US&ad=US)
+- [Miért nem sikerül bejelentkeznem a Microsoft Teamsbe?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f?ui=en-US&rs=en-US&ad=US)
+- [A Microsoft Teams beragadt egy bejelentkezési hurokba az Edge-ben vagy az Internet Explorerben](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
+- [Az állapotkód 4c7-es hiba a Microsoft Teams nél](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
+- [Hogyan férhetek hozzá a Microsoft Teamshez?](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b?ui=en-US&rs=en-US&ad=US)
