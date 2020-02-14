@@ -1,5 +1,5 @@
 ---
-title: Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft csapatok
+title: Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft Teams tanait
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 0e96a1296193e33240aaed5947010d91b9351a51
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
+ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328793"
+ms.lasthandoff: 02/13/2020
+ms.locfileid: "41962299"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Te hiányzol ki! Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft csapatok
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Ezt ne hagyja ki! Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft Teams tanait
 
-Vannak oktatók és a személyzet képes hozzáférni csapatok, de a diákok nem tudják, vagy az F1 licenccel rendelkező felhasználók nem férhetnek hozzá csapatok?
+Az oktatók és a munkatársak hozzáférhetnek a Teamshez, de a diákok nem férhetnek hozzá a Teamshez, vagy az F1-ben licencelt felhasználók nem férhetnek hozzá a Teamshez?
 
-A csapatokat explicit módon engedélyezni kell a diákoknak és az F1 licenceknek. További útmutatást a következő témakörökben talál: [Office 365 hallgatói és szolgáltatási fiókok nem tudnak bejelentkezni a Microsoft teambe](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/office-365-accounts-cannot-sign-in). 
-
-Bővebb útmutatást a csapatok számára lehetővé teszi, hogy az iskola [beállítása az oktatási csapatokat](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+A csapatoknak explicit módon engedélyezniük kell a diákok és az F1-licencek használatát. A Teams for Education [konfigurálása](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education)című részben részletesebb útmutatást talál arról, hogyan engedélyezheti a Teams-t az iskoládban. 
