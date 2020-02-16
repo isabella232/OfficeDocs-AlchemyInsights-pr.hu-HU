@@ -1,5 +1,5 @@
 ---
-title: Értekezlet-házirend beállításai
+title: Értekezletházirend-beállításai
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,25 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2657"
 - "9000734"
-ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+- "2657"
+ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627576"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042846"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Értekezletházirendek kezelése a Microsoft teamben
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Értekezlet-szabályzatok kezelése a Microsoft Teamsben
 
-Az értekezletre vonatkozó házirendek a szervezet felhasználói által ütemezett értekezletekhez rendelkezésre álló szolgáltatások vezérlésének ellenőrzésére szolgálnak. Az értekezletre vonatkozó házirendek egyes funkciói még nem valósulhatnak meg a csapatok admin központban (ezeket a dokumentációban "hamarosan" felirattal kell címkézni). Ebben az esetben, vagy ha Ön szerzés egy hiba szeret "mi vidám ' korszerűsíteni a politika éppen most de megpróbál ez újra később"-ban Mikroszkóp fuvaros admin központ, mi ajánl amit ön használ PowerShell-hoz teremt vagy módosít fuvaros találkozó politikák. 
+**Megjegyzés: Akár 24 órát is igénybe vehet, amíg a házirend-módosítások érvénybe lépnek a felhasználók számára.** Előfordulhat, hogy nem tudja azonnal módosítani az újonnan létrehozott házirendeket; várjon 4 órát, és próbálja meg újra módosítani az újonnan létrehozott házirendet.
 
-A következő forrásokból tájékozódhat az értekezletre vonatkozó házirendekkel kapcsolatban:
+Az értekezlet-házirendek a szervezet felhasználói által ütemezett értekezletek résztvevői számára elérhető funkciók szabályozására szolgálnak. Előfordulhat, hogy az értekezlet-házirendek egyes funkciói még nincsenek megvalósítva a Teams felügyeleti központban (ezek a dokumentációban a "hamarosan" címkével vannak ellátva). Ebben az esetben, vagy ha olyan hibaüzenetjelenik meg, mint a "Jelenleg nem tudjuk frissíteni a szabályzatot, de próbálkozzon később" a Microsoft Teams felügyeleti központban, azt javasoljuk, hogy a PowerShell használatával hozzon létre vagy módosítsa a Teams értekezlet-szabályzatait. 
 
-- A házirendek létrehozásával, a módosításokkal és a felhasználóknak a házirendhez való hozzárendelésével kapcsolatos tudnivalókat [az értekezletházirendek kezelése a csapatokban](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)című témakörben talál.
+Az értekezlet-szabályzatokról az alábbi forrásokban talál további információt:
 
-- A házirendek módosításának PowerShell-parancsmagokkal való használatához lásd a [csapatok PowerShell – áttekintés](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)című témakört. 
-    - Meg kell használni a [Skype for Business PowerShell modult](https://www.microsoft.com/download/details.aspx?id=39366) az olyan csapatoknak, amelyek a házirendeket tárgyalnak. 
-    - A további tudnivalókért tanulmányozza a [*-csteamsmeetingpolicy parancsmagok dokumentációját](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) .
+- Ha többet szeretne tudni a házirendek létrehozásáról, a módosításokról és a felhasználók házirendhez való hozzárendeléséről, olvassa el [Az értekezlet-irányelvek kezelése a Csoportokban című témakört.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
-**Megjegyzés:** A házirend-módosítások érvénybe léptetéséhez akár 24 óráig is eltarthat. Előfordulhat, hogy azonnal nem tudja módosítani az újonnan létrehozott házirendeket; várjon 4 órát, majd próbálja meg újra módosítani az újonnan létrehozott házirendet. Ha-a ' csendes birtoklás probléma, megpróbál PowerShell.  
+- Ha a PowerShell-parancsmagokkal szeretne házirend-módosításokat végrehajtani, olvassa el a [Teams PowerShell – áttekintés című témakört.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
+    - A [Skype Vállalati verzió PowerShell-modult](https://www.microsoft.com/download/details.aspx?id=39366) kell használnia a Teams értekezlet-szabályzataihoz. 
+    - További információt a [*-CsTeamsMeetingPolicy parancsmagok dokumentációjában](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) talál.
+
