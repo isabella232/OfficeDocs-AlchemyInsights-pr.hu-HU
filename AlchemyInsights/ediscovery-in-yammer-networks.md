@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033871"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162914"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>elektronikus adatfeltárás a Yammer-hálózatokban
 
 Most antól az Office 365-ben is végezhet e-adatfeltárási kereséseket a Yammer-tartalomra vonatkozóan.  Elektronikus adatfeltárás-keresések vagy a Yammer-tartalom exportálása a következőket igényli:
 
-1. A Yammer-üzenetek és -fájlok felderíthetővé való felderítéséhez először át kell telepítenie a Yammer nagyvállalati hálózatát natív módba.
-
-   > [!NOTE] 
-   >Ha Ön 2020. január 9-től új Office 365-ös ügyfél, és a Yammer-hálózat már natív módban van, az adatok az elektronikus adatfeltárással már felderíthetők.
+1. A Yammer-üzenetek és -fájlok felderíthetővé való felderítéséhez először át kell telepítenie a Yammer nagyvállalati hálózatát natív módba. **Megjegyzés: ha Ön új Office 365-ügyfél 2020.**
 
 2. Az ügyfelekből való kilépéshez a Yammer elektronikus adatfeltárása akkor lesz elérhető, ha a Natív mód igazítása eszköz megjelent, és a Natív mód áttelepítése befejeződik a Yammer számára a bérlőben.
 
