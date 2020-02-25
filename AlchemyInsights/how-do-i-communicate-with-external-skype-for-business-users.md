@@ -1,5 +1,5 @@
 ---
-title: Hogyan kommunikálhatok külső Skype üzleti felhasználókkal
+title: Hogyan kommunikálhatok a Skype Vállalati verzió külső felhasználóival?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: e8eefb9c0f01ad42f725f178fa23b15850364a44
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305159"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265090"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a><span data-ttu-id="e3063-102">Külső kommunikáció engedélyezése a Skype for Business alkalmazással</span><span class="sxs-lookup"><span data-stu-id="e3063-102">Allow external communications with Skype for Business</span></span> 
+# <a name="allow-external-communications-with-skype-for-business"></a><span data-ttu-id="43649-102">Külső kommunikáció engedélyezése a Skype Vállalati verzióval</span><span class="sxs-lookup"><span data-stu-id="43649-102">Allow external communications with Skype for Business</span></span> 
 
-<span data-ttu-id="e3063-103">Engedélyezi, hogy a Skype üzleti felhasználók kapcsolatba kerüljenek a szervezeten kívüli felhasználókkal?</span><span class="sxs-lookup"><span data-stu-id="e3063-103">Do you want to allow your Skype for Business users to contact users outside your organization?</span></span> 
+<span data-ttu-id="43649-103">Engedélyezi, hogy a Skype Vállalati verzió felhasználói kapcsolatba lépjenek a szervezeten kívüli felhasználókkal?</span><span class="sxs-lookup"><span data-stu-id="43649-103">Do you want to allow your Skype for Business users to contact users outside your organization?</span></span> <span data-ttu-id="43649-104">Lásd: [A felhasználók kapcsolatba léphetnek a Skype Vállalati verzió külső felhasználóival.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)</span><span class="sxs-lookup"><span data-stu-id="43649-104">See [Allow users to contact external Skype for Business users](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).</span></span>
 
-[<span data-ttu-id="e3063-104">A Skype üzleti felhasználóival való kapcsolatfelvétel engedélyezése a felhasználók számára</span><span class="sxs-lookup"><span data-stu-id="e3063-104">Allow users to contact external Skype for Business users</span></span>](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
+<span data-ttu-id="43649-105">A külső kommunikáció megfelelő működéséhez megfelelően kell beállítani a DNS-rekordokat.</span><span class="sxs-lookup"><span data-stu-id="43649-105">Your DNS records MUST be set up correctly for external communications to function properly.</span></span> <span data-ttu-id="43649-106">Itt [](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) ellenőrizheti, hogy van-e konkrét utasításunk a DNS-rekordok szolgáltatónál történő beállítására vonatkozóan.</span><span class="sxs-lookup"><span data-stu-id="43649-106">Check [here](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) to see if we have specific instructions on how to set DNS records with your provider.</span></span> 
 
-<span data-ttu-id="e3063-105">A megfelelő működéshez a külső kommunikációhoz helyesen kell beállítani a DNS-rekordokat.</span><span class="sxs-lookup"><span data-stu-id="e3063-105">Your DNS records MUST be set up correctly for external communications to function properly.</span></span> <span data-ttu-id="e3063-106">Ellenőrizze [itt](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) , hogy ha van konkrét utasítást, hogy hogyan állítsa be a DNS-rekordokat a szolgáltató.</span><span class="sxs-lookup"><span data-stu-id="e3063-106">Check [here](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) to see if we have specific instructions on how to set DNS records with your provider.</span></span> 
+<span data-ttu-id="43649-107">Csak azt szeretné, hogy a Skype Vállalati verzió felhasználói kapcsolatba lépjenek a Skype-felhasználókkal?</span><span class="sxs-lookup"><span data-stu-id="43649-107">Do you only want to enable your Skype for Business users to contact Skype consumer users?</span></span> <span data-ttu-id="43649-108">Lásd:</span><span class="sxs-lookup"><span data-stu-id="43649-108">See:</span></span>
 
-<span data-ttu-id="e3063-107">Ha azt szeretné, hogy a csoportok felhasználói kapcsolatba tudjanak lépni a szervezeten kívüli felhasználókkal (beleértve a Skype for Business felhasználókat is), tekintse át [a külső elérés kezelése a Microsoft csoportokban](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people)című témakört.</span><span class="sxs-lookup"><span data-stu-id="e3063-107">If you want your Teams users to be able to contact users outside of your organization (including Skype for Business users), review [Manage external access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people).</span></span> 
+- <span data-ttu-id="43649-109">[A Skype Vállalati verzió felhasználói skype-névjegyeket vehetfel.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)</span><span class="sxs-lookup"><span data-stu-id="43649-109">[Let Skype for Business users add Skype contacts](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts).</span></span> 
+
+- <span data-ttu-id="43649-110">[Partner felvétele a Skype Vállalati verzióban](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).</span><span class="sxs-lookup"><span data-stu-id="43649-110">[Add a contact in Skype for Business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).</span></span>
+
+
+<span data-ttu-id="43649-111">Ha azt szeretné, hogy a Teams-felhasználók kapcsolatba léphessenek a szervezeten kívüli felhasználókkal (beleértve a Skype Vállalati verzió felhasználóit is), olvassa el [a Külső hozzáférés kezelése a Microsoft Teamsben](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people)című részt.</span><span class="sxs-lookup"><span data-stu-id="43649-111">If you want your Teams users to be able to contact users outside of your organization (including Skype for Business users), review [Manage external access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people).</span></span> 
