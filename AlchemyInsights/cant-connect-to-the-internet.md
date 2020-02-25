@@ -1,5 +1,5 @@
 ---
-title: Nem lehet kapcsolódni az internethez
+title: Nem lehet csatlakozni az internethez
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,39 +11,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 222e4b1d282d9d75f08fa2739c13eb7a0ec072c9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627956"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265054"
 ---
-# <a name="fix-network-connection-issues"></a>Hálózati kapcsolódási problémák megoldása
+# <a name="fix-network-connection"></a>Hálózati kapcsolat javítása
 
-A hálózati kapcsolódási problémák megoldásához először próbálkozzon a hálózati hibaelhárító futtatásával. 
+A hálózati csatlakozási problémák megoldásához először próbálja meg futtatni a Hálózati hibaelhárítót. 
 
-A tálca keresőmezőjébe írja be a **hálózati hibaelhárító**kifejezést, majd válassza a **hálózati problémák felismerése és javítása**.
+1. [Nyissa meg a Hibaelhárítási beállítások at](ms-settings:troubleshoot).
 
-**Megjegyzés:** Ha segítségre van szüksége a Windows 7 vagy Windows 8,1 rendszert futtató számítógéppel való internetkapcsolathoz, olvassa el a [hálózati kapcsolódási problémák megoldása a Windows](https://support.microsoft.com/help/15287) rendszerben című témakört. 
+2. Az **Internetkapcsolatok**csoportban válassza **a Hibaelhárító futtatása**lehetőséget.
 
-Ha vezeték nélküli (Wi-Fi) kapcsolatot használ, győződjön meg arról, hogy az eszközhöz be van kapcsolva a Wi-Fi (beleértve a fizikai Wi-Fi-kapcsolót), és a repülőgép üzemmódja nincs bekapcsolva.
+Ha Wi-Fi-kapcsolatot használ, győződjön meg arról, hogy a Wi-Fi be van kapcsolva az eszközén (beleértve a fizikai Wi-Fi kapcsolót is), és hogy a repülési mód nincs bekapcsolva.
 
-Ha vezetékes (Ethernet) kapcsolatot használ, ellenőrizze, hogy a kábel megfelelően csatlakozik-e a számítógéphez és az útválasztóhoz vagy a modemhez.
+Ethernet-kapcsolat használata esetén győződjön meg arról, hogy a kábel biztonságosan csatlakozik a számítógéphez és az útválasztóhoz vagy a modemhez.
 
-Ha ez nem működik, próbálja meg újraindítani a PC, modem, és az útválasztó (ha van ilyen):
+Ha ez nem működik, próbálja meg újraindítani a számítógépet, a modemet és az útválasztót (ha van):
 
-1. Húzza ki a modem és az útválasztó tápkábelét. Ha a modemen van akkumulátoros mentés, az akkumulátort el kell távolítani, hogy teljesen kikapcsold a tápkábelt.
+1. Húzza ki a hálózati áramot a modemről és az útválasztóról. Ha a modem akkumulátorral rendelkezik, a teljes áramellátás kikapcsolásához ki kell kapcsolnia az akkumulátort.
+
 2. Várjon körülbelül 30 másodpercet. Ha eltávolította az akkumulátort a modemből, tegye vissza.
-3. Dugja be a tápkábelt a modemhez és az útválasztóhoz.
-4. Miközben várja a modemet és az útválasztót, hogy teljesen bekapcsoljon, indítsa újra a számítógépet. Választ **elkezd** > **erő** > **újból kifejt**. (Győződj meg Ön kiválaszt **újból kifejt**, nem **becsuk legyőz**.)
+
+3. Csatlakoztassa a modem és az útválasztó tápkábelét.
+
+4. Amíg megvárja, amíg a modem és az útválasztó teljesen bevan kapcsolva, indítsa újra a számítógépet: **Indítsa el** > az**energiaújraindítást.****** > 
 
 **Speciális hibaelhárítás**
 
-További hibaelhárítási lépéseket a [hálózati kapcsolódási problémák elhárítása a Windows 10](https://support.microsoft.com/help/10741?ocid=SMC10741%2F)rendszerben című témakörben talál. Ez a cikk további technikai információkat tartalmaz az internetkapcsolat javításáról, például:
+A további hibaelhárítási lépésekről [a Wi-Fi-kapcsolattal kapcsolatos problémák megoldása a Windows rendszerben című témakörben található.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) 
 
-- A hálózati parancsok futtatásához a parancssor használatával
-- A hálózati adapter illesztőprogramjának frissítése
-- Annak ellenőrzése, hogy a tűzfal vagy a víruskereső szoftver zavarja-e az internetkapcsolatot
-- A hálózati újraindítás használata a hálózati eszközök újratelepítéséhez
-
-**Megjegyzés:** Ha-a ' nem kényelmes használ a több műszaki hibakeresés lép, tudod beszélgetés-hoz egy személy többért segít mellett kiválasztás a **kapcsolat minket** gomb.
+Ha nem szívesen használja a technikai hibaelhárítási lépéseket, [lépjen kapcsolatba velünk.](https://support.microsoft.com/contactus)
