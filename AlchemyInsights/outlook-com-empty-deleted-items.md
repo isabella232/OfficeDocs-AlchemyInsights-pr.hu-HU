@@ -1,8 +1,9 @@
 ---
-title: Kiüríti a törölt elemek mappát a Outlook.com
+title: A Törölt elemek mappa kiürítése a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768694"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277933"
 ---
-# <a name="empty-the-deleted-items-folder"></a>A törölt elemek mappa kiürítése
+# <a name="empty-the-deleted-items-folder"></a>A Törölt elemek mappa kiürítése
 
--Hoz tisztítás minden-a töröl kilátás üzenet, megy-a [töröl cikk dosszié](https://outlook.live.com/mail/deleteditems) és kiválaszt **üres dosszié**, akkor kiválaszt **visszaszerez elemek töröl abból a-ból dosszié** fenti a üzenet oldalra dől és kiválaszt **üres dosszié** újra.
+1. Nyissa meg a Törölt elemek mappát, és válassza a **Mappa kiürítése**parancsot.
+2. Válassza a Lap tetején a **Helyreállítható elemek lehetőséget,** majd ismét válassza a **Mappa kiürítése** lehetőséget.
 
-Ha sok üzenetet törölt, előfordulhat, hogy az elemek áthelyezése vagy törlése a törölt elemek mappából lehetséges. Kérjük, hagyja nyitva a böngészőablakot, amíg az elemeket el nem törli.
+**Nem lehet kiüríteni a Törölt elemek mappát**
 
-Ha az üzenetek nem törlődnek megfelelően, próbálkozzon kevesebb üzenetszám törlésével.
+- Ha sok e-mailt törölt, eltarthat egy ideig, amíg ezek az elemek átkerülnek a Törölt elemek mappába, vagy törlődnek onnan. Hagyja nyitva a böngészőablakot a törlés közben.
+- Ha az e-mail törlése továbbra sem sikerül megfelelően, válasszon egy kisebb köteget a törölni kívánt kötegre.
+- Ha a törölt e-mail visszatér, annak az lehet az oka, hogy a közelmúltban sok e-mailt törölt. Próbálkozzon később.
