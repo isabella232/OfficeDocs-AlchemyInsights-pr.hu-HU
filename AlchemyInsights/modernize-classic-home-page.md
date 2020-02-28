@@ -11,16 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: f012aedd1d133b8706b4dbdc296ae6ca19942a06
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
+ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855775"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322756"
 ---
 # <a name="modernize-the-classic-home-page"></a>A klasszikus kezdőlap modernizálása
 
 A klasszikus SharePoint-csoport webhelyének kezdőlapjainak legutóbbi frissítése hatással van a klasszikus csoportwebhelyek kezdőlapjára (STS#0), ha egy kezdőlap *csak a dobozon kívüli alapértelmezett kijelzőket* tartalmazza, például az első lépések, a dokumentumtár és a hírcsatorna.
+
+Tekintse meg a változást [itt.](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif) 
 
 **Megjegyzés: A testreszabott tartalmat tartalmazó klasszikus csoportwebhelyek nem frissülnek automatikusan.**
 
