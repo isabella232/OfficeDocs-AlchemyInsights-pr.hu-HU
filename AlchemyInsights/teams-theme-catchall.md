@@ -11,28 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
+ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626386"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42371524"
 ---
-# <a name="teams-common-issues-and-resolutions"></a>Csapatokkal kapcsolatos gyakori kérdések és állásfoglalások
+# <a name="teams-common-issues-and-resolutions"></a>Csapatok gyakori kérdések és megoldások
 
-Ha pontosabb választ szeretne adni a Microsoft csapatokkal kapcsolatos problémáról, röviden fogalmazza meg a kérdést, és szerepelje az Ön által látott vagy használt funkciók hibáit.
+Ha konkrétabb választ szeretne kapni egy Microsoft Teams-problémával kapcsolatban, röviden fogalmazza át a kérdését, és adja meg a látott hibákat vagy az Ön által használt funkciókat.
 
-Íme néhány további források:
+Ha segítségre van szüksége a Távoli dolgozók (WFH) támogatásához a Teamsben, olvassa el a Microsoft Teams távoli dolgozók támogatása című [témakört.](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
 
-- **Lehetővé teszi, hogy csapatok vendég hozzáférés:** Tekintse át a [csapatok hozzáférési ellenőrzőlistáját](https://docs.microsoft.com/microsoftteams/guest-access-checklist) , és győződjön meg arról, hogy minden lépés befejeződött.
-- **A csapatok bejelentkezéssel kapcsolatos hibaelhárítás:** Első, győződj meg a [Mikroszkóp fuvaros szolgáltatás van egészséges](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Akkor ellenőriz részére akármi mindennapi hiba kód és áttekintés [miért én birtoklás baj jel-ban-hoz Mikroszkóp fuvaros?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Szükség lehet az [identitásmodellek és a hitelesítés felülvizsgálatára is a Microsoft teamekben](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
+Íme néhány további forrás:
+
+- **A Teams vendéghozzáférésének engedélyezése:** Tekintse át a [Teams vendéghozzáférés-ellenőrzőlistáját,](https://docs.microsoft.com/microsoftteams/guest-access-checklist) és győződjön meg arról, hogy minden lépés befejeződött.
+- **A Teams bejelentkezéselhárítása:** Először győződjön meg arról, hogy a [Microsoft Teams szolgáltatás kifogástalan.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Ezután ellenőrizze a gyakori hibakódokat, és olvassa [el, hogy miért nem tudok bejelentkezni a Microsoft Teamsbe?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Előfordulhat, hogy át kell tekintenie az [identitásmodelleket és a hitelesítést a Microsoft Teams ben](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication)is.
 - **Törölt csapat vagy csatorna visszaállítása:** 
-    - Lásd: [a törölt csoport visszaállítása a Microsoft-csapatokban](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/).
-    - A csoport törölt csatornái a csatorna törlése után legfeljebb 21 napig visszaállíthatók. 
-    - A törölt csatornák helyreállításához tekintse át [a csoport archiválása vagy visszaállítása](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7)című témakört.
-- **Törölt fájlok visszaállítása:** További információ: [törölt fájlok helyreállítása csapatokban](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
-- **Hiányzó telefonpad hibaelhárítása:**  
-    - Győződjön meg arról, hogy a felhasználónak van hozzárendelve [csapatok licence](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    - Ellenőrizze, hogy a felhasználó rendelkezik-e hozzárendelt [hívási tervvel](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    - Engedélyezze a felhasználóknak a [vállalati Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)-ot.
-- **A csapatokkal ismert problémák:** Olvassa el [a Microsoft csapatok ismert problémáit](https://docs.microsoft.com/microsoftteams/known-issues).
+    - Lásd: [Törölt csapat visszaállítása a Microsoft Teamsben](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/).
+    - A csoporton belüli törölt csatornák a csatorna törlését követően legfeljebb 21 napig állíthatók vissza. 
+    - Törölt csatorna helyreállításáról a [Csoport archiválása vagy visszaállítása](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7)területen jelenik meg.
+- **Törölt fájlok visszaállítása:** Lásd: [Törölt fájlok helyreállítása a Teamsben](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
+- **Hiányzó tárcsázó – problémamegoldás:**  
+    - Győződjön meg arról, hogy a [felhasználóhoz teams licenc](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)van rendelve.
+    - Győződjön meg arról, hogy a felhasználóhoz hozzárendelt [híváscsomag](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) van rendelve.
+    - Engedélyezze a felhasználókat az [Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)számára.
+- **Ismert problémák a Teamsszel:** Olvassa el [a Microsoft Teams ismert problémáit.](https://docs.microsoft.com/microsoftteams/known-issues)

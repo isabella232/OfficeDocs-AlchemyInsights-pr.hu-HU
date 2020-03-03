@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 3858a2cd2955f279aff77440abbd5e4642871bb8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
+ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278916"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42365139"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Képek rögzítésére, megjelölésére és megosztására a Metszet & vázlat használatával
 
@@ -27,9 +27,12 @@ A képernyővázlat neve mostantól **metszet& vázlat**. **A metszet gyors bev�
 2. Válasszon egy pontot a másolni kívánt terület szélén, és kattintson a bal gombbal a kurzorra. 
 
 3. A kurzor mozgatása a rögzíteni kívánt terület kiemeléséhez. A rögzített terület megjelenik a képernyőn.
+:::image type="content" source="media/snipone.png" alt-text="Kiemelt kijelölés képe":::
 
 A program a vágólapra menti a bevágott képet, amely készen áll az e-mailbe vagy dokumentumba való beillesztésre. 
 
 **Ha szeretné dicsőíteni vagy megtekinteni a képet:** 
 
 - Kattintson az értesítések ikonra a tálca jobb szélén; majd kattintson a képet, amit most rögzített. A metszet megnyílik a Metszet & Vázlat alkalmazásban.
+
+:::image type="content" source="media/sniptwo.png" alt-text="Képkép megjelenítése a képmetésalkalmazásban":::
