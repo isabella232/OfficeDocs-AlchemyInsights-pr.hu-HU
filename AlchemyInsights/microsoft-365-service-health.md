@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: bd36391f0536b2fe951926eceab02e6411b54f3d
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
+ms.openlocfilehash: 14de391dd1f020e29beb4b432e288b46bee3dd9a
+ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371632"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42558835"
 ---
 # <a name="microsoft-365-service-health"></a>A Microsoft 365 szolgáltatás állapota
 
 
-Ellenőrizze a szolgáltatás állapotát bármely szolgáltatás a Szolgáltatás állapotának irányítópultján. Ha az **új felügyeleti központot** választja a jobb felső sarokban, megjelenik az új Szolgáltatásállapot-beállítások.
+Ellenőrizze a szolgáltatás állapotát bármely szolgáltatás a [Szolgáltatás állapotának irányítópultján.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Ha az **új felügyeleti központot** választja a jobb felső sarokban, megjelenik az új Szolgáltatásállapot-beállítások.
 
 - Válassza a **Beállítások lehetőséget** a szolgáltatás **állapotáról szóló e-mail-értesítések**fogadásához.
 
