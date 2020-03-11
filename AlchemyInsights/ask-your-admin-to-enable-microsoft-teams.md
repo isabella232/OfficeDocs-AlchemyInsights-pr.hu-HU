@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962299"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573134"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="b90c1-102">Ezt ne hagyja ki!</span><span class="sxs-lookup"><span data-stu-id="b90c1-102">You're missing out!</span></span> <span data-ttu-id="b90c1-103">Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft Teams tanait</span><span class="sxs-lookup"><span data-stu-id="b90c1-103">Ask your admin to enable Microsoft Teams</span></span>
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="32c12-102">Ezt ne hagyja ki!</span><span class="sxs-lookup"><span data-stu-id="32c12-102">You're missing out!</span></span> <span data-ttu-id="32c12-103">Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft Teams tanait</span><span class="sxs-lookup"><span data-stu-id="32c12-103">Ask your admin to enable Microsoft Teams</span></span>
 
-<span data-ttu-id="b90c1-104">Az oktatók és a munkatársak hozzáférhetnek a Teamshez, de a diákok nem férhetnek hozzá a Teamshez, vagy az F1-ben licencelt felhasználók nem férhetnek hozzá a Teamshez?</span><span class="sxs-lookup"><span data-stu-id="b90c1-104">Are faculty and staff able to access Teams but students cannot, or are your F1 licensed users unable to access Teams?</span></span>
+<span data-ttu-id="32c12-104">Ha edu-bérlővel rendelkezik, manuálisan kell engedélyeznie a Microsoft Teamst.</span><span class="sxs-lookup"><span data-stu-id="32c12-104">If you have an EDU tenant, you need to enable Microsoft Teams manually.</span></span> <span data-ttu-id="32c12-105">Ehhez nyissa meg a Microsoft 365 Felügyeleti központ > **Szolgáltatások és bővítmények > Microsoft Teams című**>.</span><span class="sxs-lookup"><span data-stu-id="32c12-105">To do this, go to the Microsoft 365 admin center > **Services and add-ins > Microsoft Teams**.</span></span> <span data-ttu-id="32c12-106">Ha az új Teams felügyeleti központot használja, ki kell kapcsolnia **az Új felügyeleti központ** kipróbálása a **Szolgáltatások és bővítmények**megkereséséhez.</span><span class="sxs-lookup"><span data-stu-id="32c12-106">If you're using the new Teams admin center, you'll have to turn off **Try the new admin center** to find **Services and add-ins**.</span></span> 
 
-<span data-ttu-id="b90c1-105">A csapatoknak explicit módon engedélyezniük kell a diákok és az F1-licencek használatát.</span><span class="sxs-lookup"><span data-stu-id="b90c1-105">Teams must be explicitly enabled for students and F1 licenses.</span></span> <span data-ttu-id="b90c1-106">A Teams for Education [konfigurálása](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education)című részben részletesebb útmutatást talál arról, hogyan engedélyezheti a Teams-t az iskoládban.</span><span class="sxs-lookup"><span data-stu-id="b90c1-106">You can find more detailed instructions about how to enable Teams for your school in [Configure Teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span></span> 
+<span data-ttu-id="32c12-107">**FONTOS:** Előfordulhat, hogy a módosítások érvénybe lépéséhez legfeljebb 24 órát kell várnia.</span><span class="sxs-lookup"><span data-stu-id="32c12-107">**IMPORTANT**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
