@@ -1,5 +1,5 @@
 ---
-title: A W-Fi útválasztó jelszavának megváltoztatása
+title: W-Fi útválasztó jelszavának módosítása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,32 +11,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: ef7f9a4a40dec764f22c66bd9781c9141fb30d10
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: c0413d1a262d2b7c0245f0fae16b4b60d0a35e19
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796170"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584515"
 ---
-# <a name="change-your-wi-fi-router-password"></a>A Wi-Fi útválasztó jelszavának módosítása
+# <a name="change-your-wi-fi-router-password"></a>A Wi-Fi router jelszavának módosítása
 
-A Wi-Fi router jelszavának megváltoztatásához kövesse az alábbi lépéseket:
+A Wi-Fi-útválasztó jelszavának módosításához hajtsa végre az alábbi lépéseket:
 
-1. Kiválaszt **elkezd** > **elintézés** > **hálózat & Internet** > **hálózat és cserépdarab központ**.
+1. Válassza a**** >  **Beállítások indítása** > **hálózat & az Internet** > **Network and Sharing Center lehetőséget.**
 
-2. Az **aktív hálózatok megtekintése**területen keresse meg azt a hálózatot, amelyhez csatlakozik. Válassza ki a kék linket a **kapcsolatok**mellett.<br>
+2. Az **Aktív hálózatok megtekintése**csoportban keresse meg azt a hálózatot, amelyhez csatlakozik. Jelölje ki a **Kapcsolatok**melletti kék hivatkozást.<br>
 
-   **Megjegyzés:** Ha nem csatlakozik a Wi-Fi-hez, akkor a jelszó megváltoztatása előtt csatlakoznia kell a hálózathoz.
+   **Megjegyzés:** Ha nem csatlakozik a Wi-Fi-hálózathoz, a jelszó módosítása előtt csatlakoznia kell.
 
-3. Válasszuk a **részletek**.
+3. Válassza a **Részletek**lehetőséget.
 
-4. Keresse meg az IPv4 alapértelmezett átjárót, és jegyezze fel az időszakokkal együtt a számsorozatot. Például: 192.168.0.1, 192.168.1.1, 10.0.0.1, vagy 10.0.1.1
+4. Keresse meg az IPv4 alapértelmezett átjáróját, és vegye figyelembe ezt a számsor, beleértve a időszakokat is. Például: 192.168.0.1, 192.168.1.1, 10.0.0.1 vagy 10.0.1.1
 
-5. Nyisson meg egy böngészőt, írja be ezt a számsorozatot, beleértve az időszakokat a címsorba, és nyomja meg az ENTER gombot az útválasztó konfigurációs oldalára.
+5. Nyisson meg egy böngészőt, írja be ezt a számsort, beleértve a címsorba az időszakokat is, és nyomja le az Enter billentyűt az útválasztó konfigurációs lapjának megnyitásához.
 
 6. Amikor megnyílik az útválasztó konfigurációs lapja, adja meg felhasználónevét és jelszavát.<br>
-   - Ha önnek van soha változtatott a hiba username és jelszó részére a útvonal, youll ' valószínű képesnek lenni megtenni talál ez információ-ban-a útvonal ' kézi.
+   - Ha még soha nem módosította az útválasztó alapértelmezett felhasználónevét és jelszavát, akkor valószínűleg megtalálhatja ezeket az információkat az útválasztó kézikönyvében.
 
-   - Ha további segítségre van szüksége a weblapra, lépjen kapcsolatba az útválasztó gyártójával.
+   - Ha további támogatásra van szüksége, forduljon az útválasztó gyártójához, jelentkezzen be erre a weboldalra.
 
-7. Ha már bejelentkezett, keresse meg a vezeték nélküli beállításokat. Most már meg kell tudnia változtatni a Wi-Fi jelszavát.
+7. Miután bejelentkezett, keresse meg a Vezeték nélküli beállításokat. Most már módosíthatja a Wi-Fi jelszavát.

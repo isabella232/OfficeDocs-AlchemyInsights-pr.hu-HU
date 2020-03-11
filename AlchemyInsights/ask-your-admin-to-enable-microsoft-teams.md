@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962299"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573134"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Ezt ne hagyja ki! Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft Teams tanait
 
-Az oktatók és a munkatársak hozzáférhetnek a Teamshez, de a diákok nem férhetnek hozzá a Teamshez, vagy az F1-ben licencelt felhasználók nem férhetnek hozzá a Teamshez?
+Ha edu-bérlővel rendelkezik, manuálisan kell engedélyeznie a Microsoft Teamst. Ehhez nyissa meg a Microsoft 365 Felügyeleti központ > **Szolgáltatások és bővítmények > Microsoft Teams című**>. Ha az új Teams felügyeleti központot használja, ki kell kapcsolnia **az Új felügyeleti központ** kipróbálása a **Szolgáltatások és bővítmények**megkereséséhez. 
 
-A csapatoknak explicit módon engedélyezniük kell a diákok és az F1-licencek használatát. A Teams for Education [konfigurálása](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education)című részben részletesebb útmutatást talál arról, hogyan engedélyezheti a Teams-t az iskoládban. 
+**FONTOS:** Előfordulhat, hogy a módosítások érvénybe lépéséhez legfeljebb 24 órát kell várnia.
