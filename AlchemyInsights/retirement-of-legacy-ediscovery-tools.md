@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157612"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600373"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Az örökölt elektronikus adatfeltárási eszközök nyugdíjba vonulása
 
@@ -37,7 +37,7 @@ A Microsoft 365 Megfelelőségi központ új és továbbfejlesztett elektronikus
     - [SetHoldOnPostaládák](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnpostaládák](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 – speciális elektronikus adatfeltárás 1.0-s út](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 – speciális elektronikus adatfeltárás 1.0-s út](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **A nyugdíjba vonulás határideje:**
 - 2020. április 1. A Microsoft támogatási szolgálata a továbbiakban nem támogatja az EAC-ben a helyszíni elektronikus adatfeltárást & tart.
@@ -46,9 +46,9 @@ A Microsoft 365 Megfelelőségi központ új és továbbfejlesztett elektronikus
 
 **További információ:**
 
- - [Örökölt elektronikus adatfeltárási keresések áttelepítése a Microsoft 365 megfelelőségi központjába](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Örökölt elektronikus adatfeltárási eszközök nyugdíjba vonulása](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Gyakran feltett kérdések a helybeni elektronikus adatfeltárásról és a helybeni visszatartjaról](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Örökölt elektronikus adatfeltárási keresések áttelepítése a Microsoft 365 megfelelőségi központjába](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Örökölt elektronikus adatfeltárási eszközök nyugdíjba vonulása](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Gyakran feltett kérdések a helybeni elektronikus adatfeltárásról és a helybeni visszatartjaról](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 

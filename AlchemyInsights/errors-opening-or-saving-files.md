@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031616"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600134"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>A Word-fájlok megnyitásával vagy mentésének hibák elhárítása
 
@@ -25,7 +25,7 @@ Ha problémái vannak a Word-dokumentumok megnyitásával vagy mentésével, pr�
 - [Telepítse az Office frissítéseit.](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5) A legújabb Office-frissítések listáját a [Legújabb frissítések](https://docs.microsoft.com/officeupdates/office-updates-msi)című témakörben található.
 - [A sérült dokumentumok elhárítása a Wordben](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Office-alkalmazás javítása](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Ha a dokumentum nyomon követett módosításokat tartalmaz, használja a [Word javaslatait, vagy nem válaszol, ha a probléma megoldásához túlzott annektálozott módosítások vagy megjegyzések állnak](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) fenn.
+- Ha a dokumentum nyomon követett módosításokat tartalmaz, használja a [Word javaslatait, vagy nem válaszol, ha a probléma megoldásához túlzott annektálozott módosítások vagy megjegyzések állnak](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) fenn.
 
 Ha az alábbihoz hasonló hibaüzenetet kapott, használja az Office Hibaüzenet e javaslatait, [ha a rendszerleíró adatbázis házirend-beállításai blokkolnak egy fájlt:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
 
