@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 982079c674e387018dc9f262400b0fc44b4da9fd
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
+ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42559019"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42632669"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>A Tartalomvédelmi védelem használata a Microsoft 365-tel
 
-Az Office 365-alkalmazások és -szolgáltatások tartalomvédelmi szolgáltatásának használata előtt aktiválnia kell a Tartalomvédelmi szolgáltatást (RMS).
+Az Office 365-alkalmazások és -szolgáltatások tartalomvédelmi szolgáltatásának használata előtt aktiválnia kell a [Tartalomvédelmi szolgáltatást (RMS).](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms)
 
 1. A **Microsoft 365 Felügyeleti központ**licenckövetelményeiről és aktiválásáról a Tartalomvédelmi szolgáltatás aktiválása a Microsoft [365 Felügyeleti központból](https://docs.microsoft.com/azure/information-protection/activate-office365)című témakörben talál. **Megjegyzés:** Globális adminisztrációs fiók szükséges.
 
