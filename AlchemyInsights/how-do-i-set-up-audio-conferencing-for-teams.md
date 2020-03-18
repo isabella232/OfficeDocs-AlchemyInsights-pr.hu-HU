@@ -1,24 +1,42 @@
 ---
-title: Hangkonferencia beállítása a csapatok számára
+title: Hogyan állíthatom be a hangkonferenciát a Teamshez
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: eb875a0659327e0669c449a4b16037f2c7fc0eb2
-ms.sourcegitcommit: 60166417054fddd68750f1ce5898af79d9de1dfa
-ms.translationtype: MT
+ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
+ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37383940"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42692397"
 ---
-# <a name="phone-systems-and-audio-conferencing-for-teams"></a><span data-ttu-id="8c320-102">Telefonos rendszerek és hangkonferencia csapatok számára</span><span class="sxs-lookup"><span data-stu-id="8c320-102">Phone Systems and Audio Conferencing for Teams</span></span>
+# <a name="microsoft-teams--audio-conferencing"></a><span data-ttu-id="9078d-102">Microsoft Teams – Hangkonferencia</span><span class="sxs-lookup"><span data-stu-id="9078d-102">Microsoft Teams – Audio Conferencing</span></span>
 
-<span data-ttu-id="8c320-103">A Microsoft-csapatokban található értekezletről és konferenciára vonatkozó további információkért lásd: [értekezletek és konferenciák Microsoft csapatokban](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page).</span><span class="sxs-lookup"><span data-stu-id="8c320-103">For more information about meetings and conferencing in Microsoft Teams, see [Meetings and conferencing in Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page).</span></span>
+<span data-ttu-id="9078d-103">Segítségre van szüksége a hangkonferencia bekapcsolásához vagy beállításáhozés a Microsoft Teamsben?</span><span class="sxs-lookup"><span data-stu-id="9078d-103">Need help turning on, or setting up Audio Conferencing in Microsoft Teams?</span></span> <span data-ttu-id="9078d-104">A felhasználó nemrégiben lett létrehozva?</span><span class="sxs-lookup"><span data-stu-id="9078d-104">Has this user been recently created?</span></span>  <span data-ttu-id="9078d-105">Ha igen, akkor a beállítások érvénybe lépéséhez várnia kell 2–24 órát.</span><span class="sxs-lookup"><span data-stu-id="9078d-105">If so you will need to wait 2 – 24 hrs for the settings to take effect.</span></span>    
+
+<span data-ttu-id="9078d-106">Ha ellenőrizni szeretné, hogy a felhasználó rendelkezik-e a hangkonferenciára vonatkozó licenccel és alapértelmezettként beállított nem ingyenes számmal:</span><span class="sxs-lookup"><span data-stu-id="9078d-106">To verify that the user is licensed for Audio Conferencing and has a Default Toll Number:</span></span>
+
+1. <span data-ttu-id="9078d-107">Válassza az [Aktív felhasználók](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) elemet, majd jelölje ki a kérdéses felhasználót.</span><span class="sxs-lookup"><span data-stu-id="9078d-107">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) and then select the user in question.</span></span>
+
+2. <span data-ttu-id="9078d-108">A felügyeleti központ verziójától függően válassza a **Licencek és appok** lehetőséget, vagy kattintson a **Szerkesztés** elemre a **Terméklicencek** panelen.</span><span class="sxs-lookup"><span data-stu-id="9078d-108">Depending on admin center version, choose either **Licenses and Apps** or click **Edit** on **Product licenses**.</span></span>
+
+3. <span data-ttu-id="9078d-109">Ellenőrizze, hogy a felhasználó rendelkezik-e licenccel a **Hangkonferencia, Microsoft Teams** és a **Skype Vállalati online verzió (2. csomag)** esetén.</span><span class="sxs-lookup"><span data-stu-id="9078d-109">Confirm that the user has licenses selected for **Audio Conferencing, Microsoft Teams**, and **Skype for Business Online (Plan 2)**.</span></span>
+
+4. <span data-ttu-id="9078d-110">A **Felügyeleti központokban** kattintson **Az összes megjelenítése**, majd a **Teams** lehetőségre.</span><span class="sxs-lookup"><span data-stu-id="9078d-110">User **Admin centers** click **Show all** then click **Teams**.</span></span>
+
+5. <span data-ttu-id="9078d-111">A **Microsoft Teams Felügyeleti központban** kattintson az **Elavult portálverzió** lehetőségre.</span><span class="sxs-lookup"><span data-stu-id="9078d-111">In the **Microsoft Teams admin center**, click **Legacy portal**.</span></span>
+
+6. <span data-ttu-id="9078d-112">A **Skype Vállalati verzió felügyeleti központjában** kattintson a **hangkonferencia**, majd a **felhasználók** elemre.</span><span class="sxs-lookup"><span data-stu-id="9078d-112">In the **Skype for Business admin center**, click **audio conferencing** and then **users**.</span></span>
+
+7. <span data-ttu-id="9078d-113">Jelölje ki a kérdéses felhasználót, és ellenőrizze, hogy a felhasználó rendelkezik-e **alapértelmezett nem ingyenes telefonszámmal**.</span><span class="sxs-lookup"><span data-stu-id="9078d-113">Select the user in question and verify the user has a **Default Toll Number**.</span></span>
+
+<span data-ttu-id="9078d-114">További információért olvassa el a [Hanghíváscsomagok az Office 365 csomaghoz](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) című cikket, vagy hívja a Microsoft kereskedelmi számlázási csapatát a licencelésre vonatkozó kérdésekkel kapcsolatos segítségért.</span><span class="sxs-lookup"><span data-stu-id="9078d-114">For more information refer to [Calling Plans for Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) or call the Microsoft Commerce Billing team to help with licensing related questions.</span></span>
