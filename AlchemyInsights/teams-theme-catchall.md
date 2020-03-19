@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745006"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856469"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Ismert Teams-problémák és a megoldásuk
 
@@ -36,11 +36,11 @@ Minden Teams-ügyfélnek:
 
     Ha ellenőrizni szeretné, hogy a felhasználó rendelkezik-e a hangkonferenciára vonatkozó licenccel és alapértelmezettként beállított nem ingyenes számmal:
     1.    Válassza az Aktív felhasználók elemet, majd jelölje ki a kérdéses felhasználót.
-    2.    A felügyeleti központ verziójától függően válassza a Licencek és appok lehetőséget, vagy kattintson a Szerkesztés elemre a Terméklicencek panelen.
+    2.    A felügyeleti központ verziójától függően válassza a **Licencek és appok** lehetőséget, vagy kattintson a **Szerkesztés** elemre a **Terméklicencek** panelen.
     3.    Ellenőrizze, hogy a felhasználó rendelkezik-e licenccel a Hangkonferencia, Microsoft Teams és a Skype Vállalati online verzió (2. csomag) esetén.
-    4.    A Felügyeleti központokban kattintson Az összes megjelenítése, majd a Teams lehetőségre.
-    5.    A Microsoft Teams Felügyeleti központban kattintson az Elavult portálverzió lehetőségre.
-    6.    A Skype Vállalati verzió felügyeleti központjában kattintson a hangkonferencia, majd a felhasználók elemre.
+    4.    A Felügyeleti központokban kattintson **Az összes megjelenítése**, majd a **Teams** lehetőségre.
+    5.    A Microsoft Teams Felügyeleti központban kattintson az **Elavult portálverzió** lehetőségre.
+    6.    A Skype Vállalati verzió felügyeleti központjában kattintson a **hangkonferencia**, majd a **felhasználók** elemre.
     7.    Jelölje ki a kérdéses felhasználót, és ellenőrizze, hogy a felhasználó rendelkezik-e alapértelmezett nem ingyenes telefonszámmal.
     
     További információért olvassa el a [Hanghíváscsomagok az Office 365 Nagyvállalati E5 csomaghoz](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) című cikket, vagy hívja a Microsoft kereskedelmi számlázási csapatát a licencelésre vonatkozó kérdésekkel kapcsolatos segítségért.
