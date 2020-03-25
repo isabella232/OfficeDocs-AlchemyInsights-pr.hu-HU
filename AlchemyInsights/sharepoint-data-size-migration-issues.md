@@ -1,5 +1,5 @@
 ---
-title: Az adatok SharePoint Online szolgáltatásba való áttelepítésekor felmerülő problémák
+title: Problémák az adatok SharePoint Online-ba való áttelepítése közben
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b53a98480bab48497274c7358f7e606caa477f5a
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051751"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931696"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Az adatok SharePoint Online szolgáltatásba való áttelepítésekor felmerülő problémák
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problémák az adatok SharePoint Online-ba való áttelepítése közben
 
-Ez feltűnik Ön átvonuló felső 100TB-ból adat-hoz SharePoint Online. Kérjük, kövesse az alábbi lépéseket, hogy mi segítünk Önnek a lehető leghamarabb. 
+**Fontos:** Sok SharePoint Online- és OneDrive-ügyfél üzleti szempontból kritikus fontosságú alkalmazásokat futtat a háttérben futó szolgáltatással szemben. Ezek közé tartozik a tartalomáttelepítés, az adatveszteség-megelőzés (DLP) és a biztonsági mentési megoldások. Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive-szolgáltatások magas rendelkezésre állásúak és megbízhatóak maradjanak a távoli munkahelyi helyzetekben minden eddiginél jobban függő felhasználók számára.
 
-1. Válassza az **új Szolgáltatáskérelem**, majd az **új Szolgáltatáskérelem**. 
-2. Hagy a cím és leírás mint **SharePoint elköltözés felső 100TB**.
-3. Ha a jegyet már benyújtották, kérjük, frissítse a következő információkkal: 
+Ennek a célkitűzésnek a támogatása érdekében szigorúbb szabályozási korlátokat vezettünk be a háttéralkalmazásokra (áttelepítés, DLP és biztonsági mentési megoldások) a hétköznapokon. Meg kell várni, hogy ezek az alkalmazások elérése nagyon korlátozott átviteli ezekben az időkben. Azonban a régió esti és hétvégi óráiban a szolgáltatás készen áll arra, hogy jelentősen nagyobb mennyiségű kérést dolgozzon fel a háttéralkalmazásokból.
+
+**Több mint 100 TB adat áttelepítése**
+
+Úgy tűnik, több mint 100 TB adatot telepít át a SharePoint Online-ba. Kérjük, kövesse az alábbi lépéseket, hogy a lehető leghamarabb segíthessünk Önnek. 
+
+1. Válassza az **Új szolgáltatáskérelem**, majd **az Új szolgáltatáskérelem lehetőséget.** 
+2. Hagyja a címet és a leírást **SharePoint-áttelepítésként 100 TB-nál is.**
+3. A jegy beküldése után kérjük, frissítse a következő információkkal: 
 
     - Az áttelepítés becsült mérete.
-    - Becslést, amikor meg szeretné kezdeni, és fejezze be a migráció.
-    - Írja le, hogy hova szeretné áttelepíteni a tartalmat, például SharePoint Server, box, GDrive, fájlmegosztásokat stb.
+    - Becslés abból, hogy mikor szeretné elindítani és befejezni az áttelepítést.
+    - Írja le, hogy honnan telepíti át a tartalmat, például a SharePoint Server, a Box, a GDrive, a Fájlmegosztások stb.
 
 
   

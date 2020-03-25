@@ -1,5 +1,5 @@
 ---
-title: DLP házirend tippek nem működik
+title: A DLP házirendtippjei nem működnek
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -12,24 +12,30 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1619d50b98419f59a1f863983c4ec5bff01679b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 51b4472fa721443192eb542cac45965df67634df
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530310"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932588"
 ---
-# <a name="dlp-policy-tip-issues"></a>DLP házirend tipp problémák
+# <a name="dlp-policy-tip-issues"></a>DLP-házirend tippjével kapcsolatos problémák
 
-**DLP házirendek**használata esetén a felhasználók a házirend megsértése, a **házirend tippek**is értesíteni. Rendszergazdák konfigurálható a házirend tippek megjelenítése a DLP házirend tesztelése közben, vagy ha a házirend teljes kényszerítési módban van.
+**Fontos:** Sok SharePoint Online- és OneDrive-ügyfél üzleti szempontból kritikus fontosságú alkalmazásokat futtat a háttérben futó szolgáltatással szemben. Ezek közé tartozik a tartalomáttelepítés, az adatveszteség-megelőzés (DLP) és a biztonsági mentési megoldások. Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive-szolgáltatások magas rendelkezésre állásúak és megbízhatóak maradjanak a távoli munkahelyi helyzetekben minden eddiginél jobban függő felhasználók számára.
+
+Ennek a célkitűzésnek a támogatása érdekében szigorúbb szabályozási korlátokat vezettünk be a háttéralkalmazásokra (áttelepítés, DLP és biztonsági mentési megoldások) a hétköznapokon. Meg kell várni, hogy ezek az alkalmazások elérése nagyon korlátozott átviteli ezekben az időkben. Azonban a régió esti és hétvégi óráiban a szolgáltatás készen áll arra, hogy jelentősen nagyobb mennyiségű kérést dolgozzon fel a háttéralkalmazásokból.
+
+**DLP-házirendtippek**
+
+A **DLP-házirendek**használatakor a felhasználók értesítést kaphatnak a házirendek megsértéséről a **házirend-tippekkel.** A rendszergazdák beállíthatják, hogy a házirend-tippek a DLP-házirend tesztelése közben, vagy ha a házirend teljes kényszerítési módban van.
   
-A biztonsági és kompatibilitási központ teljes kényszerítési módban házirend tippek a DLP házirend konfigurálásához tegye a következőket:
+Ha a DLP-házirenddel kapcsolatos házirendtippeket teljes kényszerítési módban szeretné konfigurálni a Biztonsági és megfelelőségi központban, tegye a következőket:
   
-- Házirend tippek lett **engedélyezve** a DLP szabály segítségével biztosítja [Itt](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Győződjön meg arról, hogy a DLP-szabályban **engedélyezve** vannak a házirendtippek az [itt](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)leírt lépésekkel.
 
-- Biztosítása, a **tartalom megfelelő** **szükséges** indítja el a szabályt a cikkben leírt [Itt](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Győződjön meg arról, hogy a **tartalom megfelel** a [cikkben](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)ismertetett szabály aktiválásához **szükséges módon.**
 
-- Az OWA és az Outlook házirend tippek megjelenítése. Azonban **Outlook 2013 vagy újabb verzió**használata esetén a házirend tippek csak jelennek meg bizonyos feltételek mellett. Ezek a feltételek szerepelnek: [támogatott feltételek Outlook 2013 vagy újabb házirend tippek megjelenítése](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- A házirendtippek az OWA-ban és az Outlookban is megjelennek. Az Outlook **2013-as vagy újabb**verzióinak használatakor azonban a házirendtippek csak bizonyos körülmények között jelennek meg. Ezek a feltételek itt találhatók: [Az Outlook 2013-as vagy újabb verzióinak támogatott feltételei a házirendtippek megjelenítéséhez](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
 
-DLP házirend tippeket olvashat bővebben: [DLP-házirendek csoportházirend tippek megjelenítése](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+A DLP-házirendekkel kapcsolatos tippekről a Következő témakörben [olvashat: Házirendtippek megjelenítése a DLP-házirendekhez](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   
