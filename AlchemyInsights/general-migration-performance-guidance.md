@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 10a0069c41d2e5128b2592425d815364a83b730f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932481"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958540"
 ---
 # <a name="general-migration-performance-guidance"></a>Az áttelepítési teljesítményt ismertető általános útmutató
 
-**Fontos**: A SharePoint Online és a OneDrive számos felhasználója futtat a háttérben üzleti szempontból kritikus fontosságú alkalmazásokat a szolgáltatáson. Ezek közé tartoznak a tartalom áttelepítésére, az adatvesztés megelőzésére (DLP) és a biztonsági mentésre szolgáló megoldások. Ezekben a példátlan időkben különböző lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatás továbbra is magas rendelkezésre állással és megbízhatóan működjön a felhasználók számára, akik a távmunkára épülő helyzetekben minden eddiginél jobban függnek a szolgáltatástól.
-
-E cél elérése érdekében szigorúbb leszabályozási korlátokat vezettünk be a háttérben futó alkalmazásokra (áttelepítési, DLP- és biztonsági mentési megoldásokra) vonatkozóan hétköznap a nappali órákban. Számítania kell arra, hogy ezek az alkalmazások nagyon korlátozott átviteli sebességet biztosítanak majd ezekben az időszakokban. Az adott régió esti és hétvégi időszakaiban azonban a szolgáltatás készen áll arra, hogy lényegesen nagyobb mennyiségű, a háttéralkalmazásoktól érkező kérést dolgozzon fel.
+**Fontos**: Ezekben a korábban nem látott időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
 **Az áttelepítési teljesítményt ismertető útmutató**
 

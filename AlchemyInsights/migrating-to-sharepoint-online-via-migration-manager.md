@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 5aebf7903670e74f616c8f151749d760caf1d642
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: b25bf02e0ccddbb7524816cab0933f026a6a9224
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932181"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959008"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Áttérés a SharePoint Online-ra az Áttelepítéskezelő használatával
 
-**Fontos**: A SharePoint Online és a OneDrive számos felhasználója futtat a háttérben üzleti szempontból kritikus fontosságú alkalmazásokat a szolgáltatáson. Ezek közé tartoznak a tartalom áttelepítésére, az adatvesztés megelőzésére (DLP) és a biztonsági mentésre szolgáló megoldások. Ezekben a példátlan időkben különböző lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatás továbbra is magas rendelkezésre állással és megbízhatóan működjön a felhasználók számára, akik a távmunkára épülő helyzetekben minden eddiginél jobban függnek a szolgáltatástól.
-
-E cél elérése érdekében szigorúbb leszabályozási korlátokat vezettünk be a háttérben futó alkalmazásokra (áttelepítési, DLP- és biztonsági mentési megoldásokra) vonatkozóan hétköznap a nappali órákban. Számítania kell arra, hogy ezek az alkalmazások nagyon korlátozott átviteli sebességet biztosítanak majd ezekben az időszakokban. Az adott régió esti és hétvégi időszakaiban azonban a szolgáltatás készen áll arra, hogy lényegesen nagyobb mennyiségű, a háttéralkalmazásoktól érkező kérést dolgozzon fel.
+**Fontos**: Ezekben a korábban nem látott időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
 **Áttelepítéskezelő**
 
