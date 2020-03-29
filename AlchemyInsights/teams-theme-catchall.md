@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856469"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030402"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Ismert Teams-problémák és a megoldásuk
+
+**Fontos**: a Teams használatának közelmúltbeli növekedésének köszönhetően a Teams licencének egy felhasználóhoz rendelését követően a rendszer akár 24 órát is igénybe vehet a teljes beállításhoz. Addig is nem fogja tudni a Teams házirendjeit hozzájuk rendelni, és előfordulhat, hogy nem férnek hozzá a Teams néhány funkciójához, például a híváshoz és a hangkonferenciához.
+
+**Gyakori problémák és megoldásuk**
 
 Konkrétabb válaszért fogalmazza át a kérdését, és tüntessen fel minden Ön által tapasztalt hibát, illetve Ön által használt Teams-funkciót.
 
