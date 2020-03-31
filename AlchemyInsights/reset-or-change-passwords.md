@@ -8,23 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
 ms.custom:
+- "9002291"
+- "4428"
+- "1100004"
 - "735"
 - "826"
-- "1100004"
-ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: a07ceca6d1a39bc1517c12d9eb40ea50229aee33
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 67195ab9a52342647659162045cc4f536d001ab4
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36745291"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059846"
 ---
-# <a name="reset-or-change-office-365-business-passwords"></a>Orrgazdaság vagy cserél Hivatal 365 teendő jelszó
+# <a name="reset-or-change-passwords"></a>Jelszavak alaphelyzetbe állítása vagy módosítása
 
-A felhasználók módosíthatják saját jelszavukat a > [fiókbiztonság & adatvédelem](https://portal.office.com/account/#security)terén. ****
+A felhasználó megváltoztathatja saját jelszavát a **Saját fiók** > [biztonsága & adatvédelmi](https://portal.office.com/account/#security).
   
-Ha a felhasználó elfelejtette a jelszavát, egy admin tudja állítani a jelszót megy a **felhasználók** > [aktív felhasználók](https://portal.office.com/adminportal/home#/users), kiválasztja a felhasználó (k), és kiválasztja **jelszó alaphelyzetbe**.
+Ha a felhasználó elfelejtette a jelszavát, a rendszergazda alaphelyzetbe állíthatja a jelszót a **Felhasználók** > [aktív felhasználók ,](https://portal.office.com/adminportal/home#/users)válassza ki a felhasználó(ka)t, majd kattintson a Jelszó **alaphelyzetbe állítása gombra.**
   
-[Kattintson ide, ha](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)többet szeretne megtudni, vagy hogy a felhasználók visszaállítaniuk elfelejtettem a jelszavukat.
-  
+[Kattintson ide, ha többet szeretne megtudni,](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)vagy hogy a felhasználók alaphelyzetbe állíthassanak saját elfelejtett jelszavukat.
