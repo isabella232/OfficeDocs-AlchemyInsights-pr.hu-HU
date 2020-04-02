@@ -1,5 +1,5 @@
 ---
-title: Hitelkeret ellenőrzése állapotjelentés-kérés
+title: Hitelképesség-ellenőrzési állapotkérés
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: bd359cff76ef943b90157140888963282e9a5ce3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c7489cd4e37cc7a55c0db597aabc96c3a8592d0f
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386514"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105277"
 ---
-# <a name="credit-check-status-request"></a>Hitelkeret ellenőrzése állapotjelentés-kérés
+# <a name="credit-check-status-request"></a>Hitelképesség-ellenőrzési állapotkérés
 
-A sorrend a függőben lévő követel ellenőrzése. Ez általában 24 óra alatt befejeződött, de legfeljebb 48 óráig is eltarthat. Ha elkészült, az előfizetés állapota változik a folyamatban lévő aktív, és szolgáltatás elérhető lesz.
+A megrendelése hitelellenőrzésre vár. Ez általában 24 órán belül befejeződik, de akár 48 órát is igénybe vehet. Ha elkészült, az előfizetés állapota Függőben állapotról Aktívra változik, és a szolgáltatások használhatók lesznek.
+
+További információ: ha [hitelképesség-vizsgálatra lehet szükség.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft)

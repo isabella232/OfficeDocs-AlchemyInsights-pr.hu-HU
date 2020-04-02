@@ -1,5 +1,5 @@
 ---
-title: Értekezletlétrehozás
+title: Értekezlet létrehozása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,22 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 0775f12d3778f1f6f7a53ec47ddb8f0cd71dc1af
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376679"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105349"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Értekezlet ütemezése csapatokban
+# <a name="schedule-a-meeting-in-teams"></a>Értekezlet ütemezése a Teamsben
 
-Két módon ütemezheti az értekezletet: 
+**Fontos:** Ha problémái vannak egy értekezlet létrehozásával, vagy nem találja az értekezlet lehetőséget a Teamsben, győződjön meg arról, hogy az érintett felhasználó(k) [licencet kap(nak) egy Exchange Online-postaládához, és a postaláda engedélyezve van.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes)
 
-- Jelölje ki az értekezlet ikonjának **ütemezését** a csevegésben (ez a levélírás mező alatt található), és foglaljon értekezletet a csevegő személyén.
-- Válassza ki a **Naptár** ikont az alkalmazás bal oldalán, és jelölje ki az **Új értekezletet** a jobb felső sarokban, vagy jelöljön ki egy időtartományt a naptárban az ütemezési űrlap megnyitásához.
+Az értekezleteket kétféleképpen ütemezheti: 
 
-Az értekezletek ütemezéséhez hasonlóan az Outlook programban is megadunk címet, személyeket hívunk meg, és értekezleteket vehetünk fel.
+- Válassza az **Értekezlet ütemezése ikont** a csevegésben (ez az összeállítási mező alatt található) lehetőséget, ha értekezletet szeretne foglalni a csevegésben szereplő emberekkel.
+- Válassza a **Naptár** ikont az alkalmazás bal oldalán, és válassza az **Új értekezlet** lehetőséget a jobb felső sarokban, vagy válasszon egy időtartományt a naptárban az ütemezési űrlap megnyitásához.
 
-Az ütemezési űrlap jobb oldalán felvehet egy csatornát vagy egy személyt, vagy üresen is hagyhatja a személyes találkozót.
+Az Értekezlet Outlookban való ütemezéséhez hasonlóan címet ad az értekezletnek, meghívhat személyeket, és hozzáadhatja az értekezlet részleteit.
 
-Az értekezletek Microsoft csapatok közötti létrehozásával és ütemezésével kapcsolatos további tudnivalókért tanulmányozza az [értekezlet ütemezése csapatokban](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)című témakört.
+Az ütemezési űrlap jobb oldalán hozzáadhat egy csatornát vagy egyéni személyeket, vagy mindkettőt üresen hagyhatja egy privát találkozó ütemezéséhez.
+
+- Az értekezletek Microsoft Teamsben való létrehozásáról és ütemezéséről az [Értekezlet ütemezése a Teamsben című témakörben](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)talál további információt.
+
+- Az értekezletekre vonatkozó korlátozásokat és specifikációkat a [Microsoft Teams revonatkozó korlátozások és specifikációk (Limitek és specifikációk) (A Microsoft Teams revonatkozó) ben( A Microsoft Teams revonatkozó) témakörben tésheti](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)meg.
