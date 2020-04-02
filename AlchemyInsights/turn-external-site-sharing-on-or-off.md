@@ -1,5 +1,5 @@
 ---
-title: SharePoint-lista vagy-tár engedélyeinek testreszabása
+title: SharePoint-lista vagy tár engedélyeinek testreszabása
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 1220bbbcdd1316585746b6f0ad9f95f24373cb6e
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
+ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922271"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43100329"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="70116-102">Külső megosztás be-és kikapcsolása a webhelyen</span><span class="sxs-lookup"><span data-stu-id="70116-102">Turn external sharing on or off for a site</span></span>
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="b0f41-102">Külső megosztás be- és kikapcsolása webhelyen</span><span class="sxs-lookup"><span data-stu-id="b0f41-102">Turn external sharing on or off for a site</span></span>
 
-<span data-ttu-id="70116-103">Önnek kell lenni egy világ-vagy SharePoint admin-ban Hivatal 365-hoz cserél a külső cserépdarab elintézés részére egy telek (korábban hívott egy "telek gyűjtemény").</span><span class="sxs-lookup"><span data-stu-id="70116-103">You must be a global or SharePoint admin in Office 365 to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="70116-104">A webhelytulajdonosok nem módosíthatják ezt a beállítást.</span><span class="sxs-lookup"><span data-stu-id="70116-104">Site owners are not allowed to change this setting.</span></span> 
+<span data-ttu-id="b0f41-103">Az Office 365-ben globális vagy SharePoint-rendszergazdának kell lennie egy webhely külső megosztási beállításának módosításához (korábbi nevén "webhelycsoport").</span><span class="sxs-lookup"><span data-stu-id="b0f41-103">You must be a global or SharePoint admin in Office 365 to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="b0f41-104">A webhelytulajdonosok nem módosíthatják ezt a beállítást.</span><span class="sxs-lookup"><span data-stu-id="b0f41-104">Site owners are not allowed to change this setting.</span></span> 
 
-<span data-ttu-id="70116-105">További információt a [külső megosztás be-és kikapcsolása a webhelyen](https://docs.microsoft.com/sharepoint/change-external-sharing-site)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="70116-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>
+<span data-ttu-id="b0f41-105">További információt a Külső megosztás be- és kikapcsolása webhelyen című [témakörben talál.](https://docs.microsoft.com/sharepoint/change-external-sharing-site)</span><span class="sxs-lookup"><span data-stu-id="b0f41-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>
