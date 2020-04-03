@@ -1,5 +1,5 @@
 ---
-title: OneDrive beállítása
+title: A OneDrive beállítása
 ms.author: matteva
 author: pebaum
 ms.date: 6/8/2018
@@ -11,14 +11,14 @@ ms.custom:
 - "819"
 - "5800002"
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 4552d03c800bcb4a2f95db5beda5f4ab75ef03b5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 47635cd7fbe55b4d5dc2d38259877a7c0e184b51
+ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509210"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43116335"
 ---
-# <a name="use-the-onedrive-syn-client-to-sync-onedrive-or-sharepoint-files"></a><span data-ttu-id="22f59-102">Syn OneDrive ügyfélprogramot használja a OneDrive vagy a SharePoint-fájlok</span><span class="sxs-lookup"><span data-stu-id="22f59-102">Use the OneDrive syn client to sync OneDrive or SharePoint files</span></span>
+# <a name="use-the-onedrive-sync-client-to-sync-onedrive-or-sharepoint-files"></a><span data-ttu-id="08ed9-102">A OneDrive szinkronizálási ügyfélalkalmazás használata a OneDrive- vagy SharePoint-fájlok szinkronizálásához</span><span class="sxs-lookup"><span data-stu-id="08ed9-102">Use the OneDrive sync client to sync OneDrive or SharePoint files</span></span>
 
-<span data-ttu-id="22f59-103">Ügyfél OneDrive szinkronizálása [a OneDrive üzleti fájlok szinkronizálását](https://go.microsoft.com/fwlink/?linkid=533375) , vagy [szinkronizálása a SharePoint-fájlok](https://go.microsoft.com/fwlink/?linkid=871666) is.</span><span class="sxs-lookup"><span data-stu-id="22f59-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span>
+<span data-ttu-id="08ed9-103">[Szinkronizálhatja OneDrive Vállalati verziós fájljait,](https://go.microsoft.com/fwlink/?linkid=533375) vagy szinkronizálhatja a [SharePoint-fájlokat](https://go.microsoft.com/fwlink/?linkid=871666) a OneDrive szinkronizálási ügyfélalkalmazással.</span><span class="sxs-lookup"><span data-stu-id="08ed9-103">You can [sync your OneDrive for Business files](https://go.microsoft.com/fwlink/?linkid=533375) or [sync SharePoint files](https://go.microsoft.com/fwlink/?linkid=871666) with the OneDrive sync client.</span></span>
   
