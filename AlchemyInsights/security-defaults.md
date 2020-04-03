@@ -1,5 +1,5 @@
 ---
-title: A biztonság alapértelmezései
+title: Biztonsági alapértékek
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: f4bdee85b9afb9f89d2382441106ddd82394c16e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 47bba526630d1d8c27ef264e7ceefa3e17b274dc
+ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682161"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43118377"
 ---
-# <a name="security-defaults"></a>A biztonság alapértelmezései
+# <a name="security-defaults"></a>Biztonsági alapértékek
 
-A biztonság kezelése nehézséget okozhat, ha az azonossággal kapcsolatos közös támadások egyre népszerűbbek. Ezek a támadások közé tartozik a jelszó spray, visszajátszás, és az adathalászat.
+A biztonsági alapértelmezésekkel kapcsolatos tudnivalókat a [Mik a biztonsági alapértelmezések?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Az Azure Active Directoryban a biztonsági beállítások alapértelmezett beállításai megkönnyítik a biztonságos adatvédelmet és a szervezet védelmét. A biztonsági Alapértelmezések előre konfigurált biztonsági beállításokat tartalmaznak a gyakori támadásokra.
+Az Azure Active Directory (Azure AD) biztonsági beállításai megkönnyítik a biztonságot és a szervezet védelmét. A biztonsági alapértelmezések előre konfigurált biztonsági beállításokat tartalmaznak a gyakori támadásokhoz.
 
-A Microsoft a biztonsági alapbeállításokat mindenki számára elérhetővé teszi. A cél annak biztosítása, hogy minden szervezetnek legyen alapvető biztonsági szintje, többletköltség nélkül. Bekapcsolja a biztonsági alapértelmezéseket az Azure portálon. Az alapértelmezett biztonsági beállításokkal kapcsolatos további tudnivalókért tanulmányozza a [biztonsági alapértelmezett](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults) beállítások című témakört.
+A Microsoft mindenki számára elérhetővé teszi a biztonsági beállításokat. A cél annak biztosítása, hogy minden szervezet rendelkezik egy alapszintű biztonsági engedélyezve extra költség nélkül. Az Azure Portalon bekapcsolja a biztonsági alapértékeket.
