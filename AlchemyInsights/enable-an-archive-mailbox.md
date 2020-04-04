@@ -10,33 +10,47 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
+ms.sourcegitcommit: f1e9db2f762a4197c2922a0c8eaa77a3f482e38a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736291"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43132613"
 ---
 # <a name="enable-an-archive-mailbox"></a>Archív postaláda engedélyezése
 
-Archív postaláda-ban Hivatal 365 (is hívott *online levéltár*) beszerez használók-val további elektronikus levél raktározás. A felhasználók áthelyezhetnek vagy átmásolhatnak elemeket az archív postaládákba, és az adminisztrátorok létrehozhatnak egy archiválási házirendet, amely automatikusan áthelyezi az elemeket az archív postaládákba.
+Az Office 365-ben található archív postaládák (más néven *online archívumok* vagy *helyszíni archívumok) további e-mail*tárhelyet biztosítanak a felhasználóknak. A felhasználók áthelyezhetik vagy átmásolhatják az elemeket az archív postaládájukba, a rendszergazdák pedig létrehozhatnak egy archiválási házirendet, amely automatikusan áthelyezi az elemeket a postaládák archív rendszerébe.
   
-A következőképpen hozhat létre archív postaládát:
+Az archív postaládák at a következőképpen hozhat létre:
   
 1. Nyissa meg a [https://protection.office.com](https://protection.office.com) lapot.
 
-2. Jelentkezzen be az Office 365 segítségével a rendszergazdai fiókkal.
+2. Jelentkezzen be az Office 365-be rendszergazdai fiókjával.
 
-3. -Ban bal táblaüveg-ból biztonság &amp; engedékenység központ, kiválaszt **adat kormányzás** \> **archív**.
+3. A Biztonsági &amp; megfelelőségi központ bal oldali ablaktáblájában válassza az **Információirányítási** \> **Archívum lehetőséget.**
 
-4. Jelölje ki azt a felhasználót, akinek az archív postaládáját engedélyezni szeretné.
+4. Jelölje ki azt a felhasználót, akinek engedélyezni szeretné az archív postaládáját.
 
-5. A jobb oldali ablaktáblában válassza az **Engedélyezés** lehetőséget, majd válassza az **Igen** lehetőséget a figyelmeztető üzenetben az archív postaláda engedélyezéséhez.
+5. A jobb oldali jobb oldali ablaktáblában kattintson az **Engedélyezés** gombra, majd a figyelmeztető üzenetben az **Igen** gombra az archív postaláda engedélyezéséhez.
 
-Az archív postaládák tömeges engedélyezésével több felhasználó is kijelölhetők (a **SHIFT** vagy **CTRL** billentyűk használatával), majd az **Engedélyezés** gombra kattintva a részletek ablaktáblán.
+Az archív postaládák tömeges engedélyezéséhez több felhasználót is kijelöl (a **Shift** vagy a **Ctrl** billentyűvel), majd a részletek ablaktáblán az **Engedélyezés** gombra kattint.
   
+### <a name="shared-mailboxes"></a>Megosztott postaládák
+
+Egy megosztott postaláda archiválásának engedélyezéséhez Exchange Online Plan 2 licencre vagy Exchange Online Plan 1 licencre van szükség Exchange Online archiválási licenccel.  
+
+Megosztott postaláda archiválásának engedélyezése:
+
+1. Nyissa meg az [Exchange Felügyeleti központot,](https://outlook.office365.com/ecp) és jelentkezzen be a rendszergazdai fiókjával.
+
+2. Nyissa meg a Megosztott címzettek > **(Címzettek) (Címzettek) (** **Címzettek**) ( Ugrás
+
+3. Jelölje ki a megosztott postaládát.
+
+4. A jobb oldali, jobb oldali **ablaktáblában**kattintson az **Engedélyezés**gombra, majd az **Igen** gombra az archív postaláda engedélyezéséhez.
+
 További információ:
   
 - [Archív postaládák engedélyezése az Office 365-ben](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Archiválási és törlési házirend létrehozása az Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Archiválási és törlési házirend beállítása az Office 365-ben](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
