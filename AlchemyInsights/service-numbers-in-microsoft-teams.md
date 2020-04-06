@@ -10,17 +10,19 @@ ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: d0eccaf7d953dd6ac9f80394314dbdd71a1bccf5
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: b1bccc3ccdcbccfdbc68bbfd4ed40560b45f1797
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953854"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105313"
 ---
 # <a name="service-numbers-in-teams"></a>Szolgáltatási számok a Teamsben
 
 A szolgáltatási telefonszámok magasabb szintű hívási kapacitással rendelkeznek, mint a felhasználók vagy az előfizetők telefonszámai. 
 
-- [Tekintse át a ** szolgáltatási szám megszerzésének különböző módjait**](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers). 
+- [Tekintse át a szolgáltatási szám megszerzésének különböző módjait](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers). 
 
-- [Tekintse át, hogy miként **alakíthatja át a felhasználói számokat szolgáltatási számokká **](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s).
+- [Tekintse át, hogy miként alakíthatja át a felhasználói számokat szolgáltatási számokká](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s).
+
+További információt a [Szervezete telefonszámainak kezelése](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) című cikk tartalmaz.
