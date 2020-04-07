@@ -1,5 +1,5 @@
 ---
-title: A kifizetés elutasítva
+title: Fizetés elutasítva
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,25 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: dc4c4f55a16fb14dd76f47e23672dc04073fbe61
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164094"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160818"
 ---
-# <a name="update-or-add-a-new-payment-method"></a><span data-ttu-id="fe749-102">Új fizetési mód frissítése vagy hozzáadása</span><span class="sxs-lookup"><span data-stu-id="fe749-102">Update or add a new payment method</span></span>
+# <a name="payment-declined"></a><span data-ttu-id="ba3d0-102">Fizetés elutasítva</span><span class="sxs-lookup"><span data-stu-id="ba3d0-102">Payment declined</span></span>
 
-1. <span data-ttu-id="fe749-103">Nyissa meg a **Számlázási** > **számlák & Fizetési** > módok fizetési<a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">módok</a> lapot.</span><span class="sxs-lookup"><span data-stu-id="fe749-103">Go to the **Billing** > **Bills & Payments** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.</span></span>
-2. <span data-ttu-id="fe749-104">Válassza a **Fizetési mód hozzáadása** lehetőséget, vagy válassza a frissítéshez a kártyához vagy bankfiókhoz, majd válassza a **Szerkesztés**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="fe749-104">Select **Add a payment method** or pick the card or bank account to update and select **Edit**.</span></span>
-3. <span data-ttu-id="fe749-105">Frissítse a fizetési mód adatait (név a kártyán vagy bankszámlán, számlázási cím, telefonszám vagy lejárati dátum), majd válassza a **Mentés gombot.**</span><span class="sxs-lookup"><span data-stu-id="fe749-105">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then select **Save**.</span></span>
-4. <span data-ttu-id="fe749-106">Ne felejtse el módosítani, hogyan fizet az előfizetés(ek)ért az új fizetési módért.</span><span class="sxs-lookup"><span data-stu-id="fe749-106">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="fe749-107">Ennek módjára vonatkozó utasítások a következő szakaszban találhatók.</span><span class="sxs-lookup"><span data-stu-id="fe749-107">Instructions on how to do this are in the next section.</span></span>
+<span data-ttu-id="ba3d0-103">A Microsoft a számla dátumát követő 3-4 héten belül többször is megkísérli feltölteni a kártyát.</span><span class="sxs-lookup"><span data-stu-id="ba3d0-103">Microsoft will attempt to charge your card multiple times in the 3-4 weeks after the invoice date.</span></span>  <span data-ttu-id="ba3d0-104">Ha csak egy vagy két elutasítási értesítést kapott erre a számlázási időszakra vonatkozóan, a Microsoft automatikusan megkísérli újra megterhelni a fizetési eszközt.</span><span class="sxs-lookup"><span data-stu-id="ba3d0-104">If you have received only one or two decline notices for this billing period, Microsoft will automatically attempt to charge your payment instrument again.</span></span>  
 
-<span data-ttu-id="fe749-108">Ha új kártyát adott hozzá, és még mindig elutasító értesítést kap a régi hitelkártyán, előfordulhat, hogy az új kártyát hozzá kell rendelnie az előfizetéshez.</span><span class="sxs-lookup"><span data-stu-id="fe749-108">If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card to the subscription.</span></span>
+<span data-ttu-id="ba3d0-105">**Fontos:** Ha új kártyát adott hozzá, és továbbra is elutasítási értesítést kap a régi hitelkártyáról, előfordulhat, hogy az új kártyát az előfizetéshez kell társítania.</span><span class="sxs-lookup"><span data-stu-id="ba3d0-105">**Important**: If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card with the subscription.</span></span>
 
-1. <span data-ttu-id="fe749-109">Nyissa meg a **Számlázási** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">termékek & szolgáltatások</a></span><span class="sxs-lookup"><span data-stu-id="fe749-109">Go to **Billing** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a></span></span>
-2. <span data-ttu-id="fe749-110">Válassza ki az új kártyával vagy bankszámlával fizetni kívánt előfizetést.</span><span class="sxs-lookup"><span data-stu-id="fe749-110">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="fe749-111">A **Számlázás** szakasz fizetési mód melletti csoportban válassza a **Szerkesztés**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="fe749-111">Under the **Billing** section, next to the payment method, select **Edit**.</span></span>
-3. <span data-ttu-id="fe749-112">Válassza a **Módosítás** lehetőséget az aktuális fizetési mód mellett.</span><span class="sxs-lookup"><span data-stu-id="fe749-112">Select **Change** next to the current payment method.</span></span>
-4. <span data-ttu-id="fe749-113">A legördülő menüben válasszon ki egy másik fizetési módot, vagy adjon hozzá egy új fizetési módot.</span><span class="sxs-lookup"><span data-stu-id="fe749-113">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
+1. <span data-ttu-id="ba3d0-106">Nyissa meg **a Termékek > & szolgáltatások [számlázása .](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="ba3d0-106">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
 
-[<span data-ttu-id="fe749-114">Fizetési módok hozzáadása, frissítése vagy eltávolítása</span><span class="sxs-lookup"><span data-stu-id="fe749-114">Add, update, or remove your payment methods</span></span>](https://go.microsoft.com/fwlink/?linkid=2118133)
+2. <span data-ttu-id="ba3d0-107">Válassza ki az új kártyával vagy bankszámlával fizetni kívánt előfizetést.</span><span class="sxs-lookup"><span data-stu-id="ba3d0-107">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="ba3d0-108">A **Számlázás** csoportban, a fizetési mód mellett kattintson a **Szerkesztés**gombra.</span><span class="sxs-lookup"><span data-stu-id="ba3d0-108">Under the **Billing** section, next to the payment method, click **Edit**.</span></span>
+
+3. <span data-ttu-id="ba3d0-109">Kattintson a **Módosítás** gombra az aktuális fizetési mód mellett.</span><span class="sxs-lookup"><span data-stu-id="ba3d0-109">Click **Change** next to the current payment method.</span></span>
+
+4. <span data-ttu-id="ba3d0-110">Válasszon másik fizetési módot a legördülő menüből, vagy adjon hozzá egy új fizetési módot.</span><span class="sxs-lookup"><span data-stu-id="ba3d0-110">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
+
+<span data-ttu-id="ba3d0-111">**Új fizetési mód frissítése vagy hozzáadása**</span><span class="sxs-lookup"><span data-stu-id="ba3d0-111">**Update or add a new payment method**</span></span>
+
+1. <span data-ttu-id="ba3d0-112">Nyissa meg a \*\*Számlázási > számlák & > fizetési [módok >](https://go.microsoft.com/fwlink/p/?linkid=2018806) \*\* lapot.</span><span class="sxs-lookup"><span data-stu-id="ba3d0-112">Go to the **Billing > Bills & Payments > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** page.</span></span>
+
+2. <span data-ttu-id="ba3d0-113">Kattintson **a Fizetési mód hozzáadása**gombra, válassza ki a kártyát vagy a bankszámlát a frissítéshez, majd kattintson a Szerkesztés **gombra.**</span><span class="sxs-lookup"><span data-stu-id="ba3d0-113">Click **Add a payment method**, pick the card, or bank account to update and click **Edit**.</span></span>
+
+3. <span data-ttu-id="ba3d0-114">Frissítse a fizetési mód adatait (a kártyán vagy a bankszámlán szereplő név, a számlázási cím, a telefonszám vagy a lejárati dátum), majd kattintson a **Mentés gombra.**</span><span class="sxs-lookup"><span data-stu-id="ba3d0-114">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then click **Save**.</span></span>
+
+4. <span data-ttu-id="ba3d0-115">Ne felejtse el módosítani, hogyan fizet az előfizetés(ek)ért erre az új fizetési módra.</span><span class="sxs-lookup"><span data-stu-id="ba3d0-115">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="ba3d0-116">További információért lásd: [Fizetési mód hozzáadása, frissítése vagy eltávolítása](https://go.microsoft.com/fwlink/?linkid=2118133).</span><span class="sxs-lookup"><span data-stu-id="ba3d0-116">For more info, see [Add, update, or remove your payment methods](https://go.microsoft.com/fwlink/?linkid=2118133).</span></span> 
