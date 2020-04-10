@@ -13,26 +13,27 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 766df76bc1e19218b6de131115af414a8007a7a7
+ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771145"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43209422"
 ---
-# <a name="why-cant-i-edit-files"></a>Miért nem tudok fájlokat szerkeszteni?
+# <a name="why-cant-i-edit-files"></a>Miért nem tudom edzni a fájlokat?
 
-Tekintse meg gyorsan azokat az [okokat, amelyek miatt előfordulhat, hogy nem tudja megjezni a fájlt.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
+Vessen egy gyors pillantást néhány ok, [amiért nem tudja szerkeszteni a fájlt](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Ha kivétel, **kötelező** vagy **érvényesítési** oszlopokkal vagy metaadatokkal rendelkező tárakvannak, vagy ha a **Piszkozatelem-biztonság** beállítás értéke **csak azok a felhasználók, akik szerkeszthetik,** vagy csak azok **a felhasználók, akik jóváhagyhatják** az elemeket a tár Verzióbeállításaiban:
+Ha a Tárak a **Checkout, Kötelező** vagy **Érvényesítés** oszlopok vagy metaadatok, vagy ha **a Tervezet elem biztonság** a beállítás vagy csak a **felhasználók, akik szerkeszthetik,** vagy **csak a felhasználók, akik jóváhagyhatják elemeket** verzióbeállítások a tár:
 
-- SharePoint-dokumentumtárak esetén ezeket az elemeket írásvédettként szinkronizálja a program.
+- SharePoint-dokumentumtárak esetén ezek az elemek írásvédettként lesznek szinkronizálva.
 
-- A OneDrive-tárak esetében a OneDrive a szinkronizálási állapot mellett egy lakatikont (OneDrive-fájl zárolt ikont) jelenít meg, és a felhasználó addig nem tudja szinkronizálni a tárat, amíg az említett beállításokat el nem távolítja. 
+- OneDrive-tárak esetén a OneDrive a szinkronizálási állapot mellett egy lakatikont ( OneDrive-fájl zárolt ikont) jelenít meg, és a felhasználó nem fogja tudni szinkronizálni a tárat, amíg az említett beállításokat el nem távolította. 
 
-A Word vagy excel zárolt fájljairól az alábbi cikkekben olvashat bővebben.
+A Word vagy az Excel zárolt fájljaival kapcsolatos további információkért kérjük, olvassa el az alábbi cikkeket.
 
-- [Az Excel-fájl egy másik felhasználó általi szerkesztésre zárolva van](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Office-fájl szerkesztése közben "A feltöltés sikertelen" vagy "Nem sikerült automatikusan menteni" hibaüzenet jelenik meg](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
-- [A Word-fájl egy másik felhasználó által irasztott szerkesztésre](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Az Excel-fájl szerkesztésre zárolva van egy másik felhasználó számára](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
+- [A Word-fájl szerkesztésre zárolva van egy másik felhasználó számára](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
