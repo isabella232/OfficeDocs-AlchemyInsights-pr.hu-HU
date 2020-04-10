@@ -1,5 +1,5 @@
 ---
-title: Felügyeleti szerepkör és hozzárendelés
+title: A rendszergazdai szerepkör és hozzárendelése
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -7,26 +7,21 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.openlocfilehash: 5bee71c66ae81fda95df152405dfd689055a10cf
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737083"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43183399"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="402bd-102">Mik az adminisztrációs szerepek és hogyan társítuk őket?</span><span class="sxs-lookup"><span data-stu-id="402bd-102">What are admin roles and how do you assign them?</span></span>
+# <a name="admin-roles"></a><span data-ttu-id="1c289-102">Rendszergazdai szerepkörök</span><span class="sxs-lookup"><span data-stu-id="1c289-102">Admin roles</span></span>
 
-<span data-ttu-id="402bd-103">Úgy tûnik, van néhány kérdés az admin szerepeket.</span><span class="sxs-lookup"><span data-stu-id="402bd-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="402bd-104">Ezek a cikkek válaszolniuk kell minden kérdésre.</span><span class="sxs-lookup"><span data-stu-id="402bd-104">These articles should answer all your questions.</span></span>
-  
-- [<span data-ttu-id="402bd-105">A rendszergazdai szerepkörök bemutatása</span><span class="sxs-lookup"><span data-stu-id="402bd-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- <span data-ttu-id="1c289-103">A felügyeleti központban jelölje ki a [Szerepkörök](https://admin.microsoft.com/Adminportal/Home#/roles) elemet a hozzárendeléshez vagy rendszergazdai szerepkörökre vonatkozó további tudnivalókhoz.</span><span class="sxs-lookup"><span data-stu-id="1c289-103">Select [Roles](https://admin.microsoft.com/Adminportal/Home#/roles) in the admin center to assign or learn more about admin roles.</span></span>
 
-- [<span data-ttu-id="402bd-106">Rendszergazdai szerepkörök hozzárendelése</span><span class="sxs-lookup"><span data-stu-id="402bd-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
-<span data-ttu-id="402bd-107">Nem válaszolt a kérdésére?</span><span class="sxs-lookup"><span data-stu-id="402bd-107">Didn't answer your question?</span></span> <span data-ttu-id="402bd-108">nem gond!</span><span class="sxs-lookup"><span data-stu-id="402bd-108">No problem!</span></span> <span data-ttu-id="402bd-109">Használja a "hadd hívjunk meg" opciót, hogy beszéljen a támogató mérnök.</span><span class="sxs-lookup"><span data-stu-id="402bd-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
-  
+- <span data-ttu-id="1c289-104">Ezután jelölje ki a szerepkörneve(ke)t, és kattintson a **Szerepkör hozzárendelése** elemre, vagy kattintson a **Szerepkörök összehasonlítása** elemre további információért.</span><span class="sxs-lookup"><span data-stu-id="1c289-104">Then select the role name(s) and click **assign role**, or click **compare roles** to learn more.</span></span>
