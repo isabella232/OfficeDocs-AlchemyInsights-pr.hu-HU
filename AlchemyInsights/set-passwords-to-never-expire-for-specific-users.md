@@ -1,5 +1,5 @@
 ---
-title: Felállít SPF hivatalban 365
+title: Az SPF beállítása az Office 365-ben
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,18 +14,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: da90d6d9edbfa28e230200d552aa44565b434d9e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: bece763f0408199aadbd76899b2c59a3f05e0f94
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36818968"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286316"
 ---
-# <a name="set-passwords-to-never-expire"></a>Jelszó beállítása, hogy soha ne járjon le
+# <a name="set-passwords-to-never-expire"></a>Beállíthatja, hogy a jelszavak soha ne járjanak le
 
-Ha azt szeretné, hogy az összes jelszó soha ne járjon le, a Microsoft 365 Admin Center letöltőközpontban nyissa meg a **Beállítások** > [biztonsági &amp; adatainak védelme](https://portal.office.com/adminportal/home#/settings/security) lapot. Jelölje be a **jelszóházirend**melletti **Szerkesztés** választógombot, és **kapcsolja be a csúszkát.**
+Ha azt szeretné, hogy az ÖSSZES jelszó soha ne járjon le, a Microsoft 365 felügyeleti központban nyissa meg a **Beállítások** > [biztonsága &amp; adatvédelmi](https://portal.office.com/adminportal/home#/settings/security) lapot. Válassza a Szerkesztés **lehetőséget** a **Jelszó házirend**mellett, és kapcsolja be a csúszkát **be beállításra.**
   
-Részletesebb információért lásd: [a szervezet jelszólejárati házirendjének beállítása.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
+További információk: 
+
+- [Állítsa be a szervezet jelszóelévülési házirendet.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[Állítsa be a jelszót, hogy soha ne járjon le az egyes felhasználók](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+- [Beállíthatja, hogy a jelszó soha ne járjon le bizonyos felhasználók számára](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
+
+- [A jelszónak meg kell felelnie az összetettségi követelményeknek](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   
