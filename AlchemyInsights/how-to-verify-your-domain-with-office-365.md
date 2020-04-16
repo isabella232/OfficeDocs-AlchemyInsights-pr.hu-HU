@@ -1,5 +1,5 @@
 ---
-title: Hogyan igazolhatja a tartományt az Office 365
+title: A tartomány igazolása az Office 365-tel
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,16 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
-ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
+ms.openlocfilehash: ade67097172464fdf213b8af7af6639a25d48315
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36851722"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529606"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a>Hogyan igazolhatja a tartományt az Office 365
+# <a name="how-to-verify-your-domain-with-office-365"></a>A tartomány igazolása az Office 365-tel
 
-A tartomány ellenőrzéséhez hozzá kell adni egy TXT-rekordot a tartományregisztrálóhoz, hogy ellenőrizhesse a saját tartományát. Először kövesse a [tartomány hozzáadása varázslót](https://portal.office.com/adminportal/home#/Domains) a **Beállítások** \> **tartományok**kiválasztásával, majd a **tartomány hozzáadásával**.
+A tartomány igazolásához txt rekordot kell hozzáadnia a tartományregisztrálóhoz, hogy meggyőződjön arról, hogy Ön a tartomány tulajdonosa. Először kattintson a [Tartomány hozzáadása varázslóra](https://portal.office.com/adminportal/home#/Domains/Wizard) a **Telepítési** \> **tartományok gombra,** majd **a Tartomány hozzáadása parancsra.**
   
-Kövesse a [DNS-rekordok létrehozása az Office 365 DNS-szolgáltatójánál](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) című részt a tartomány HITELESÍTÉSÉHEZ a TXT rekord hozzáadásához.
-  
+A [DNS-rekordok létrehozása bármely OFFICE 365-beli DNS-szolgáltatónál](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) található Utasításokat követve vegyen fel Egy TXT rekordot a tartomány igazolására.
+
+Más tartományokkal kapcsolatos problémák esetén próbálkozzon a [Domains GYIK (Tartományok – gyakori kérdések ) (Tartományok – gyakori kérdések ) (Tartományok – gyakori kérdések) ( – gyaid.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
