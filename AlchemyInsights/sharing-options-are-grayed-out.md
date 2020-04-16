@@ -1,5 +1,5 @@
 ---
-title: A megosztási lehetőségek szürkén jelennek meg
+title: A megosztási hivatkozások szürkén jelennek meg
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: df9158f314ca32bdd5ade827caaa43e619f1e550
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: d0b080e853c59802da20982db948bb825f240239
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182713"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529678"
 ---
-# <a name="sharing-options-are-grayed-out"></a>A megosztási lehetőségek szürkén jelennek meg
+# <a name="sharing-links-are-grayed-out"></a>A megosztási hivatkozások szürkén jelennek meg
 
 Ha bizonyos megosztási lehetőségek szürkén jelennek meg a SharePoint Online-ból vagy a OneDrive-ból való megosztáskor, akkor kérjük, tekintse át [A megosztási lehetőségek szürkén jelennek meg a SharePoint Online-ból vagy a OneDrive-ból való megosztáskor](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive) című témakört.
