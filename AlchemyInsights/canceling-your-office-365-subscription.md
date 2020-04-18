@@ -1,5 +1,5 @@
 ---
-title: Az Office 365-előfizetés lemondása?
+title: Lemondja az Office 365-előfizetését?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,21 +12,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 54872bd5f3053e2ac72552feac122343e5afe54e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 05a20f539fbff1018b2869bc10fe597ff91187ce
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665438"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552563"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Az Office 365-előfizetés lemondása?
+# <a name="canceling-your-office-365-subscription"></a>Lemondja az Office 365-előfizetését?
 
-Azt is Sajnáljuk, hogy nyissa meg, de ha meg kívánja szakítani az előfizetést, az alábbiakban a beállítások:
+Sajnálni fogjuk, hogy elmegy, de ha le szeretné mondani az előfizetését, itt vannak a lehetőségek:
   
-- Ha a próbaverzió vevő, nincs mit megszakítja. Próba-előfizetések automatikusan megszűnik, hacsak nem adja meg a fizetési mód.
+- Ha Ön próba-ügyfél, nincs mit törölni. A próba-előfizetések automatikusan lejárnak, kivéve, ha megad egy fizetési módot.
 
-- Ha kevesebb, mint 25 hozzárendelt licencek, megszakíthatja az előfizetés online. Menjen a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások. A **Beállítások & műveletek** csoportban válassza az **előfizetés**.
+- Ha 25-nél kevesebb hozzárendelt licenccel rendelkezik, online lemondhatja az előfizetést. Nyissa meg a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot. A **Beállítások & műveletek csoportban** válassza **az Előfizetés lemondása**lehetőséget.
 
-- Ha több mint 25 hozzárendelt licencek, vagy eltávolíthatja a felhasználók kevesebb, mint 25 használ, vagy egy támogatási mérnök beszélgetni "tudassa velünk hívja meg" lehetőség használatával.
+- Ha 25-nél több hozzárendelt licenccel rendelkezik, eltávolíthatja a felhasználókat, amíg 25-nél kevesebb nem rendelkezik, vagy használhatja a "Szólítsuk önt" lehetőséget, hogy beszéljen egy támogatási szakemberrel.
+  
+**Visszatérítés: Minden arányos kreditet visszaküldünk Önnek a következő számlázási cikluson belül.** 
 
-További információért lásd a [előfizetés lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Megjegyzés:** Ha nem látja a lemondás lehetőségét, kattintson az előfizetésre a részletek megtekintéséhez, és meg kell jelennie az **Előfizetés lemondása** lehetőségnek a **Beállítások & műveletek ben.** 
+
+További információ: [Előfizetés lemondása.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

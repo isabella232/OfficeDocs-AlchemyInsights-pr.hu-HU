@@ -1,5 +1,5 @@
 ---
-title: Az Office 365-előfizetés lemondása?
+title: Lemondja az Office 365-előfizetését?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665542"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552671"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Az Office 365-előfizetés lemondása?
+# <a name="canceling-your-office-365-subscription"></a>Lemondja az Office 365-előfizetését?
 
-Sajnáljuk, hogy go!
+Sajnáljuk, hogy elmész!
   
-A szervezeti adatok alapján, úgy véljük, az aktuális előfizetések legalább 25 ülések rendelkezik. Online előfizetés törléséhez lépjen a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások. A **Beállítások & műveletek** csoportban válassza az **előfizetés**.
+A szervezeti adatok alapján úgy véljük, hogy az összes jelenlegi előfizetése kevesebb mint 25 hellyel rendelkezik. Az előfizetés online lemondásához nyissa meg a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot. A **Beállítások & műveletek csoportban** válassza **az Előfizetés lemondása**lehetőséget.
   
-További információért lásd a [előfizetés lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Visszatérítés: Minden arányos kreditet visszaküldünk Önnek a következő számlázási cikluson belül.** 
+
+**Megjegyzés:** Ha nem látja a lemondás lehetőségét, kattintson az előfizetésre a részletek megtekintéséhez, és meg kell jelennie az **Előfizetés lemondása** lehetőségnek a **Beállítások & műveletek ben.** 
+
+További információ: [Előfizetés lemondása.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription) 

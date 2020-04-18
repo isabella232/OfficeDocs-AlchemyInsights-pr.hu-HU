@@ -1,5 +1,5 @@
 ---
-title: Az Office Apps javítása A fiók hibás állapotban van üzenetben
+title: Az Office-alkalmazások javítása A fiók rossz állapotüzenetben van
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: e591c56dd207a5bcb3979be3f66052121100b162
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: b28865ff1da434a254c9051183074be35cdd0252
+ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "41969517"
+ms.lasthandoff: 04/17/2020
+ms.locfileid: "43547964"
 ---
-# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Az Office-alkalmazások javítása "A fiókja rossz állapotban van" hibaüzenet
+# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Az Office-alkalmazások kijavítása "A fiók rossz állapotban van" hibaüzenet
 
-A hiba megoldásához próbálkozzon az alábbi beállításokkal az érintett számítógépen:
+A hiba kijavításához próbálkozzon az alábbi lehetőségekkel az érintett számítógépen:
 
-- Nyisson meg egy Office-alkalmazást, válassza a > **Fájlfiók** > **kijelentkezése az összes fiókból**lehetőséget. **** Jelentkezzen be újra érvényes licenccel rendelkező felhasználói fiókkal. Részletes információt az [Office fiókok című témakörben](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)talál.
-- [Törölje az Office hitelesítő adatait](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) a Windows Hitelesítő adatok kezelője használatával.<br>
-  **Megjegyzés:** Az Office 2016 rendszerleíró elérési útjai 16.0-ra változtak. Például: \Software\Microsoft\Office\16.0\Common\Identity\
-- Az érintett számítógépen állítsa be az EnableADAL = 0 billentyűt a következő lépésekkel:  
-     1. Kattintson a jobb gombbal a Windows gombra, és válassza a **Futtatás parancsot.** A **Megnyitás** mezőbe írja be a **regedit parancsot,** majd kattintson az **OK**gombra.
-     2. Válassza az **Igen lehetőséget,** amikor a rendszerleíró adatbázis szerkesztője módosíthatja az eszközt.
-    3. A Rendszerleíróadatbázis-szerkesztőben adja hozzá az EnableADAL duplaszó értékét a HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity csoportban.
-- Ha a hiba akkor jelentkezik, amikor az Office 365-höz csatlakozik az Office 2013-ban, engedélyezze a [modern hitelesítést](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) az Office-ügyfél számára.
+- Nyisson meg egy Office-alkalmazást, és válassza a > **Fájlfiók** > **kijelentkezés az összes fiókból**lehetőséget. **File** Jelentkezzen be újra érvényes licenccel rendelkező felhasználói fiókkal. További információt a [Fiókok az Office-ban](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9) témakörben talál.
+- [Az Office hitelesítő adatainak törlése a](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) Windows hitelesítő adatok kezelőjével<br>
+  **Megjegyzés:** Az Office 2016 beállításjegyzék-elérési útjai 16.0-ra változtak. Például\ \Software\Microsoft\Office\16.0\Common\Identity\
+- Ha a hiba az Office 365-höz az Office 2013-on keresztül történő csatlakozáskor jelentkezik, engedélyezze a [modern hitelesítést](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) az Office-ügyfélszámára.
 
-További információt [az Office 365-be, az Azure-ba vagy az Intune-ba nem tudbe bejelentkezni nem tudó nem böngészőalkalmazások hibaelhárítása](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)című témakörben talál.
+További információt a [Nem böngészős alkalmazások hibaelhárítása, amelyek nem tudnak bejelentkezni az Office 365-be, az Azure-ba vagy az Intune-ba.](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
 

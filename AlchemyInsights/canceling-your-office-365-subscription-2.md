@@ -1,5 +1,5 @@
 ---
-title: Az Office 365-előfizetés lemondása?
+title: Lemondja az Office 365-előfizetését?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665474"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552599"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Az Office 365-előfizetés lemondása?
+# <a name="canceling-your-office-365-subscription"></a>Lemondja az Office 365-előfizetését?
 
-Sajnáljuk, hogy go!
+Sajnáljuk, hogy elmész!
   
-A szervezeti adatok alapján, úgy véljük, az aktuális előfizetések több mint 25 hozzárendelt licenccel rendelkezik. Eltávolíthatja a felhasználók mindaddig, amíg nem kevesebb, mint 25 van, majd nyissa meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások. A **Beállítások & műveletek** csoportban válassza az **előfizetés**.
+A szervezeti adatok alapján úgy véljük, hogy az összes jelenlegi előfizetése több mint 25 hozzárendelt licenccel rendelkezik. Eltávolíthatja a felhasználókat, amíg kevesebb, mint 25, majd nyissa meg a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) oldalon. A **Beállítások & műveletek csoportban** válassza **az Előfizetés lemondása**lehetőséget.
   
-Választhatja a **segítségre van szüksége** egy támogatási mérnök beszélgetni.
+Másik lehetőségként válassza a **Segítségre van szüksége,** hogy beszéljen egy támogatási szakemberrel.
   
-További információért lásd a [előfizetés lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Visszatérítés: Minden arányos kreditet visszaküldünk Önnek a következő számlázási cikluson belül.** 
+
+**Megjegyzés:** Ha nem látja a lemondás lehetőségét, kattintson az előfizetésre a részletek megtekintéséhez, és meg kell jelennie az **Előfizetés lemondása** lehetőségnek a **Beállítások & műveletek ben.** 
+
+További információ: [Előfizetés lemondása.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
