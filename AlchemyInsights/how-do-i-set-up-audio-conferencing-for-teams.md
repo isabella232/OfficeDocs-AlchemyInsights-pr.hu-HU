@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692397"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709941"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Hangkonferencia
 
-Segítségre van szüksége a hangkonferencia bekapcsolásához vagy beállításáhozés a Microsoft Teamsben? A felhasználó nemrégiben lett létrehozva?  Ha igen, akkor a beállítások érvénybe lépéséhez várnia kell 2–24 órát.    
+Segítségre van szüksége a hangkonferencia bekapcsolásához vagy beállításáhozés a Microsoft Teamsben? A felhasználó nemrégiben lett létrehozva?  Ha igen, akkor a beállítások érvénybe lépéséhez várnia kell 2–24 órát.
 
 Ha ellenőrizni szeretné, hogy a felhasználó rendelkezik-e a hangkonferenciára vonatkozó licenccel és alapértelmezettként beállított nem ingyenes számmal:
 
@@ -39,4 +39,4 @@ Ha ellenőrizni szeretné, hogy a felhasználó rendelkezik-e a hangkonferenciá
 
 7. Jelölje ki a kérdéses felhasználót, és ellenőrizze, hogy a felhasználó rendelkezik-e **alapértelmezett nem ingyenes telefonszámmal**.
 
-További információért olvassa el a [Hanghíváscsomagok az Office 365 csomaghoz](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) című cikket, vagy hívja a Microsoft kereskedelmi számlázási csapatát a licencelésre vonatkozó kérdésekkel kapcsolatos segítségért.
+További információért olvassa el a [Hanghíváscsomagok](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) című cikket, vagy hívja a Microsoft kereskedelmi számlázási csapatát a licencelésre vonatkozó kérdésekkel kapcsolatos segítségért.

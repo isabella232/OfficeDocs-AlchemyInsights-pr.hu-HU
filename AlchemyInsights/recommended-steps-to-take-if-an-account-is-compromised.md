@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745435"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719306"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Javasolt lépések egy fiók feltörése esetén
 
-[VIDEÓ: Feltört Office 365-fiók helyreállítása](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEÓ: Feltört fiók helyreállítása](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. Azonnal [állítson be új jelszót a felhasználónak](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Ne küldje el e-mailben az új jelszót a végfelhasználónak.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745435"
 
 5. Távolítsa el a fiókot minden [rendszergazdai szerepkörű csoportból](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles), amíg meg nem győződik arról, hogy a fiókot sikerült helyreállítani.
 
-Az adatokkal való jövőbeli visszaélések vagy a fiókok feltörésének minimalizálása érdekében azt javasoljuk, hogy olvassa el az [Office 365 biztonsági ütemtervet ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+Az adatokkal való jövőbeli visszaélések vagy a fiókok feltörésének minimalizálása érdekében javasoljuk, hogy olvassa el az [Microsoft 365 Biztonsági központ ütemtervet](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   
