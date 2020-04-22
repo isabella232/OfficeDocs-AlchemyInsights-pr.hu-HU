@@ -1,9 +1,9 @@
 ---
-title: Outlook.com a letiltott feladóktól érkező e-maileket kapni
+title: E-mailek fogadása letiltott feladóktól Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: b0610e1eb58a080e4acc334658286e8fdf3ecb50
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 56989e57c590fa8c16dbff493b1de88cc4424f18
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535573"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709337"
 ---
-# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="bd461-102">A letiltott feladóktól érkező e-maileket kapni</span><span class="sxs-lookup"><span data-stu-id="bd461-102">Receiving email from blocked senders</span></span>
+# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="73076-102">E-mailek fogadása letiltott feladóktól</span><span class="sxs-lookup"><span data-stu-id="73076-102">Receiving email from blocked senders</span></span>
 
-<span data-ttu-id="bd461-103">Blokkolt feladók e-mail továbbra is megjelenik a Beérkezett üzenetek Outlook.com, ha lehet, hogy a feladó elrejtése a valódi e-mail címét.</span><span class="sxs-lookup"><span data-stu-id="bd461-103">If email from a blocked sender still appears in your Outlook.com inbox, the sender might be hiding their real email address.</span></span> <span data-ttu-id="bd461-104">Ellenőrizze a feladó tényleges e-mail címe:</span><span class="sxs-lookup"><span data-stu-id="bd461-104">To check a sender's real email address:</span></span>
+<span data-ttu-id="73076-103">Ha egy letiltott feladótól érkező e-mail továbbra is megjelenik a Outlook.com beérkezett üzenetek között, előfordulhat, hogy a feladó elrejti a valódi e-mail címét.</span><span class="sxs-lookup"><span data-stu-id="73076-103">If email from a blocked sender still appears in your Outlook.com inbox, the sender might be hiding their real email address.</span></span> <span data-ttu-id="73076-104">A feladó valódi e-mail címének ellenőrzése:</span><span class="sxs-lookup"><span data-stu-id="73076-104">To check a sender's real email address:</span></span>
   
-1. <span data-ttu-id="bd461-105">Válassza ki a három pont</span><span class="sxs-lookup"><span data-stu-id="bd461-105">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- <span data-ttu-id="bd461-106">az üzenet ablakot, és válassza ki **az üzenet forrásának megtekintése**tetején.</span><span class="sxs-lookup"><span data-stu-id="bd461-106">at the top of the message window and select **View message source**.</span></span>
-2. <span data-ttu-id="bd461-107">A **forrásfájl** ablakban keresse meg a **Feladó** mezőben görgesse lefelé.</span><span class="sxs-lookup"><span data-stu-id="bd461-107">In the **Message source** window, scroll down until you find the **From** field.</span></span>
-3. <span data-ttu-id="bd461-108">Jelölje ki az e-mail cím belül, \< \> , és kattintson jobb gombbal a **másolandó**</span><span class="sxs-lookup"><span data-stu-id="bd461-108">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
-4. <span data-ttu-id="bd461-109">A másolt blokkolja a feladó címét használja.</span><span class="sxs-lookup"><span data-stu-id="bd461-109">Use the address you copied to block the sender.</span></span> <span data-ttu-id="bd461-110">Feladók blokkolása című témakörben talál [, az Outlook.com levélszemét vagy blokk feladók e-mail megjelölése](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="bd461-110">To learn how to block senders, see [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+1. <span data-ttu-id="73076-105">A három egyes ásó</span><span class="sxs-lookup"><span data-stu-id="73076-105">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="73076-106">az üzenetablak tetején, és válassza az **Üzenetforrás megtekintése**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="73076-106">at the top of the message window and select **View message source**.</span></span>
+2. <span data-ttu-id="73076-107">Az **Üzenet forrásablakban** görgessen lefelé, amíg meg nem találja a **Forrás mezőt.**</span><span class="sxs-lookup"><span data-stu-id="73076-107">In the **Message source** window, scroll down until you find the **From** field.</span></span>
+3. <span data-ttu-id="73076-108">Jelölje ki a benne \< \> lévő e-mail címet, és kattintson a jobb gombbal a **Másolásra**</span><span class="sxs-lookup"><span data-stu-id="73076-108">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
+4. <span data-ttu-id="73076-109">A másolt cím segítségével tiltsa le a feladót.</span><span class="sxs-lookup"><span data-stu-id="73076-109">Use the address you copied to block the sender.</span></span> <span data-ttu-id="73076-110">Ha tudni szeretné, hogyan tilthatja le a feladókat, olvassa el az [E-mailek megjelölése levélszemétként vagy letiltás a Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="73076-110">To learn how to block senders, see [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="bd461-111">További tudnivalókért tanulmányozza [az Outlook.com letiltott feladóktól érkező e-maileket kapni](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="bd461-111">For more information, see [Receiving email from blocked senders in Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="73076-111">További információ: [E-mailek fogadása letiltott feladóktól Outlook.com.For](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy)more information, see Receiving email from blocked senders in Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="73076-111">For more information, see [Receiving email from blocked senders in Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

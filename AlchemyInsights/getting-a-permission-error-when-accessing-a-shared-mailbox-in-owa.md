@@ -1,9 +1,9 @@
 ---
-title: 124. hozzáférési hiba lépett fel egy megosztott postaláda OWA-ban való elérésekor?
+title: 124 Engedélyhiba jelenik meg, amikor egy megosztott postaládához fér hozzá az OWA-ban?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5d1478c4bcfa6ed9f4430cd00bd033a690fe3b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735772"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708941"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="c4ddc-102">Engedélyhiba történt egy megosztott postaláda megnyitásakor a weben az Outlook programban?</span><span class="sxs-lookup"><span data-stu-id="c4ddc-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="37b29-102">Engedélyhibaüzenet jelenik meg, amikor megosztott postaládát nyit meg a Webes Outlookban?</span><span class="sxs-lookup"><span data-stu-id="37b29-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
 
-<span data-ttu-id="c4ddc-103">Ha Ön kap a hiba **valami elromlott. Nincs engedélye ennek a postafióknak a megnyitására.**</span><span class="sxs-lookup"><span data-stu-id="c4ddc-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="c4ddc-104">Amikor egy megosztott postafiókot próbál megnyitni az Outlook alkalmazásban a weben, előfordulhat, hogy fiókja nem rendelkezik a megosztott postaláda elérésére vonatkozó engedéllyel.</span><span class="sxs-lookup"><span data-stu-id="c4ddc-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="c4ddc-105">A szervezet rendszergazdája az osztott postafiók [létrehozása](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)című témakör utasításait követve társíthat fiókengedélyeit a megosztott postaládához.</span><span class="sxs-lookup"><span data-stu-id="c4ddc-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="37b29-103">Ha megkapod a **hibát, valami rosszul sült el. Nincs engedélye a postaláda megnyitására.**</span><span class="sxs-lookup"><span data-stu-id="37b29-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="37b29-104">amikor megosztott postaládát próbál megnyitni a Webes Outlookban, előfordulhat, hogy a fióknak nincs engedélye a megosztott postaláda elérésére.</span><span class="sxs-lookup"><span data-stu-id="37b29-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="37b29-105">A szervezet rendszergazdája a megosztott postaládához rendelheti a fiókengedélyeket a [Megosztott postaláda létrehozása](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)című témakör utasításait követve.</span><span class="sxs-lookup"><span data-stu-id="37b29-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   

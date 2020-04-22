@@ -1,9 +1,9 @@
 ---
-title: E-mailben kap egy TenantAccessBlockedException hiba elérésekor 127?
+title: 127 TenantAccessBlockedException hibaüzenetet kap az e-mailek elérésekor?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523981"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708905"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="97fd8-102">A TenantAccessBlockedException hiba jelenik meg e-mailben való hozzáféréskor?</span><span class="sxs-lookup"><span data-stu-id="97fd8-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="b95e5-102">TenantAccessBlockedException hibaüzenetet kap az e-mailek elérésekor?</span><span class="sxs-lookup"><span data-stu-id="b95e5-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="97fd8-103">Van néhány különböző okok miért jelenhet meg ez a hiba.</span><span class="sxs-lookup"><span data-stu-id="97fd8-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="97fd8-104">Például:</span><span class="sxs-lookup"><span data-stu-id="97fd8-104">For example:</span></span>
+<span data-ttu-id="b95e5-103">Több oka is lehet annak, hogy miért jelenik meg ez a hiba.</span><span class="sxs-lookup"><span data-stu-id="b95e5-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="b95e5-104">Például:</span><span class="sxs-lookup"><span data-stu-id="b95e5-104">For example:</span></span>
 
-- <span data-ttu-id="97fd8-105">Ellenőrizze, hogy az előfizetés **Számlázási** érvényes \> a Microsoft 365 felügyeleti központ [termékek & szolgáltatások](https://portal.office.com/adminportal/home#/subscriptions) lapján.</span><span class="sxs-lookup"><span data-stu-id="97fd8-105">Verify that your subscription is valid on the **Billing** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="b95e5-105">Ellenőrizze, hogy előfizetése érvényes-e a Microsoft 365 Felügyeleti központ **Számlázási** \> [termékek & szolgáltatáslapján.](https://portal.office.com/adminportal/home#/subscriptions)</span><span class="sxs-lookup"><span data-stu-id="b95e5-105">Verify that your subscription is valid on the **Billing** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions) page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="97fd8-106">Ellenőrzés minden lejárt határidejű a **Számlázási** értesítések \> a Microsoft 365 felügyeleti központ lapján [váltók & kifizetések](https://portal.office.com/adminportal/home#/billoverview) .</span><span class="sxs-lookup"><span data-stu-id="97fd8-106">Check for any past due notifications on the **Billing** \> [Bills & payments](https://portal.office.com/adminportal/home#/billoverview) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="b95e5-106">Ellenőrizze, hogy vannak-e késedelmes értesítések a **Számlázási** \> [számlák & fizetések](https://portal.office.com/adminportal/home#/billoverview) lapon a Microsoft 365 Felügyeleti központban.</span><span class="sxs-lookup"><span data-stu-id="b95e5-106">Check for any past due notifications on the **Billing** \> [Bills & payments](https://portal.office.com/adminportal/home#/billoverview) page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="97fd8-107">Ha a számlázási és előfizetési fiók nemrég frissítette, akkor a módosítások propagálásához időt vehet igénybe.</span><span class="sxs-lookup"><span data-stu-id="97fd8-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="97fd8-108">Próbálja meg újra néhány perc múlva, és ha a probléma továbbra is fennáll, lépjen kapcsolatba velünk.</span><span class="sxs-lookup"><span data-stu-id="97fd8-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="b95e5-107">Ha a fiók számlázása és előfizetései a közelmúltban frissültek, időbe telhet, amíg a módosítások propagálása megtörténik.</span><span class="sxs-lookup"><span data-stu-id="b95e5-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="b95e5-108">Próbálkozzon újra néhány perc múlva, és ha a probléma továbbra is fennáll, lépjen kapcsolatba velünk.</span><span class="sxs-lookup"><span data-stu-id="b95e5-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
