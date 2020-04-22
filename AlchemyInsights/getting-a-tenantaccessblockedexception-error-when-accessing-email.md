@@ -1,9 +1,9 @@
 ---
-title: E-mailben kap egy TenantAccessBlockedException hiba elérésekor 127?
+title: 127 TenantAccessBlockedException hibaüzenetet kap az e-mailek elérésekor?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523981"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708905"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>A TenantAccessBlockedException hiba jelenik meg e-mailben való hozzáféréskor?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>TenantAccessBlockedException hibaüzenetet kap az e-mailek elérésekor?
 
-Van néhány különböző okok miért jelenhet meg ez a hiba. Például:
+Több oka is lehet annak, hogy miért jelenik meg ez a hiba. Például:
 
-- Ellenőrizze, hogy az előfizetés **Számlázási** érvényes \> a Microsoft 365 felügyeleti központ [termékek & szolgáltatások](https://portal.office.com/adminportal/home#/subscriptions) lapján.
+- Ellenőrizze, hogy előfizetése érvényes-e a Microsoft 365 Felügyeleti központ **Számlázási** \> [termékek & szolgáltatáslapján.](https://portal.office.com/adminportal/home#/subscriptions)
 
-- Ellenőrzés minden lejárt határidejű a **Számlázási** értesítések \> a Microsoft 365 felügyeleti központ lapján [váltók & kifizetések](https://portal.office.com/adminportal/home#/billoverview) .
+- Ellenőrizze, hogy vannak-e késedelmes értesítések a **Számlázási** \> [számlák & fizetések](https://portal.office.com/adminportal/home#/billoverview) lapon a Microsoft 365 Felügyeleti központban.
 
-- Ha a számlázási és előfizetési fiók nemrég frissítette, akkor a módosítások propagálásához időt vehet igénybe. Próbálja meg újra néhány perc múlva, és ha a probléma továbbra is fennáll, lépjen kapcsolatba velünk.
+- Ha a fiók számlázása és előfizetései a közelmúltban frissültek, időbe telhet, amíg a módosítások propagálása megtörténik. Próbálkozzon újra néhány perc múlva, és ha a probléma továbbra is fennáll, lépjen kapcsolatba velünk.

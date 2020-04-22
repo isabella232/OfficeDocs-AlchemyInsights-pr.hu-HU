@@ -1,9 +1,9 @@
 ---
-title: Outlook.com hivatkozások nem működnek a Firefox
+title: Linkek Outlook.com nem működnek a Firefox
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "813"
 - "8000048"
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: de188644b301495eb29fd828fd460107656a28ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8ae65175bdb2e9d9bc4b624c3bfc7ab6f1eda803
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542559"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709481"
 ---
-# <a name="links-in-outlookcom-dont-work-in-firefox"></a>Outlook.com hivatkozások nem működnek a Firefox
+# <a name="links-in-outlookcom-dont-work-in-firefox"></a>Linkek Outlook.com nem működnek a Firefox
 
-Azok vagyunk Firefox böngészőben megtekintett Outlook.com e-mail üzenetekben lévő hivatkozások nem működnek. Mozilla [javítás dolgozik](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) , a Firefox, de addig a következő:
+Az Outlook.com e-mail üzenetekben található hivatkozások nem működnek, ha azokat a Firefox böngészőkben tekintik meg. Mozilla [dolgozik egy fix](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) a Firefox, de addig:
   
-- Használja a [Microsoft él](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) vagy más webböngésző.
-- E-mail megtekintése az olvasóablakban. További információért olvassa el [az Outlook.com postaláda megjelenésének](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)módosítása.
+- Használja a [Microsoft Edge-et](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) vagy egy másik webböngészőt.
+- Az e-mailek megtekintése az olvasóablakban. További információt [a Outlook.com postaláda megjelenésének módosításáról](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)talál.

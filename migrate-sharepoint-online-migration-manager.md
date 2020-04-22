@@ -1,9 +1,9 @@
 ---
-title: Áttérés a SharePoint Online szolgáltatásba az áttelepítés kezelőn keresztül
+title: Áttérés a SharePoint Online-ra az Áttelepítéskezelő használatával
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964188"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707189"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Áttérés a SharePoint Online szolgáltatásba az áttelepítés kezelőn keresztül
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Áttérés a SharePoint Online-ra az Áttelepítéskezelő használatával
 
-A modern SharePoint Admin Center-ben található Migration Manager végigvezeti az ügyfelek beállításán és a feladatok létrehozán. Megadhat globális vagy tevékenységszintű beállításokat, megtekintheti az összes feladat előrehaladását, valamint összesített összesítő és tevékenységszintű jelentéseket tölthet le.
+A modern SharePoint Felügyeleti központban található Áttelepítéskezelő végigvezeti az ügyfelek beállításának és a feladatok létrehozásának lépésein. Megadhatja a globális vagy tevékenységszint-beállításokat, megtekintheti az összes tevékenység előrehaladását, és letölthet összesített összefoglaló és tevékenységszintű jelentéseket.
 
-* [Lépések az áttelepítés-kezelővel](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [Telepítésáttelepítési kezelő ügyfelei](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [Az áttelepítés-kezelő beállításai](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [Első lépések az Áttelepítéskezelővel](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [Áttelepítéskezelő-ügyfelek beállítása](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [Az Áttelepítéskezelő beállításai](https://docs.microsoft.com/sharepointmigration/mm-settings)

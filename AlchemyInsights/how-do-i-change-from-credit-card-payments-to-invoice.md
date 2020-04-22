@@ -1,9 +1,9 @@
 ---
-title: Hogyan módosítható a hitelkártyás fizetések számla?
+title: Hogyan válthatok a hitelkártyás fizetésekről a számlára?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: fc469365c988c6c4fb754a2a0b85374a9d1ccd27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523117"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710013"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hogyan módosítható a hitelkártyás fizetések számla?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hogyan válthatok a hitelkártyás fizetésekről a számlára?
 
 > [!NOTE]
-> A számlával történő fizetési lehetőség csak akkor választható, ha az Office 365-előfizetésének díja elér egy bizonyos összeget (amely szolgáltatási helyenként változó). Nagyobb összegű számlás fizetések esetében hitelképesség-vizsgálatra lehet szükség. További információt [Az Office 365 Vállalati verziós előfizetés kifizetése](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription) című témakörben talál.
+> A számla alapján történő fizetés lehetősége csak akkor érhető el, ha az előfizetés egy bizonyos összegen felüli költséget jelent (amely a szolgáltatás helyétől függően változik). Nagyobb összegű számlás fizetések esetében hitelképesség-vizsgálatra lehet szükség. További információ: [Pay for your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
+1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
 
-2. Jelölje ki a módosítani kívánt előfizetés. **Számlázási** csoportjában válassza a **Szerkesztés** beállítás az aktuális fizetési módhoz.
+2. Válassza ki a módosítani kívánt előfizetést. A **Számlázás csoportban** válassza az Aktuális fizetési mód **Szerkesztés** beállítását.
 
-3. A **hogyan fizet az előfizetés módosítása** párbeszédpanelen válassza a **Módosítás**kiválasztása vagy hozzáadni egy másik fizetési módot, és válassza a **Mentés**.
+3. Az **Előfizetés fizetési módjának módosítása** párbeszédpanelen válassza a **Módosítás**lehetőséget, válasszon másik fizetési módot, majd válassza a **Mentés lehetőséget.**
 
    > [!NOTE]
-   > Ha ez a beállítás nem jelenik meg, azt jelenti, hogy hitelkártya vagy a bankszámla és a számla közötti váltás nem érhető el az előfizetés, mert az előfizetés nem felel meg a minimális költség összegét a számlázási számla. A számlás fizetéshez szükséges minimális költségösszeg földrajzi helytől függően eltér.
+   > Ha ez a beállítás nem jelenik meg, az azt jelenti, hogy a hitelkártyáról vagy bankszámláról a számlára való váltás nem érhető el az előfizetéshez, mert az előfizetés nem felel meg a számla szerinti számlázás minimális költségösszegének. A számlás fizetéshez szükséges minimális költségösszeg földrajzi helytől függően eltér.
   

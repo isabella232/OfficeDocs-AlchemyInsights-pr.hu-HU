@@ -1,9 +1,9 @@
 ---
-title: 1047 levélszemét szűrése 550 5.7.708 szolgáltatás nem érhető el. Hozzáférés megtagadva, nem fogadta el az az IP-forgalom
+title: 1047 AntiSpam 550 5.7.708 Szolgáltatás nem érhető el. Hozzáférés megtagadva, a forgalom nem fogadott el erről az IP-címről
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 97a1e855730baba32768109f0fc4da29fe8e4e93
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cd4f3d7f3783c70a00a2575a297cb4d92cdac80d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505113"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707877"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 a hozzáférés megtagadva, forgalom nem fogadta el az IP-a
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 Hozzáférés megtagadva, a forgalom nem fogadják el ezt az IP
 
-Ez akkor fordul elő, amikor e-mail küldésével ismert, alacsony hírnevét általában új ügyfelek által használt IP-címek.
+Ez a hiba akkor fordul elő, ha ismert, alacsony hírnévű IP-címekről küld e-mailt, amelyeket általában új ügyfelek használnak.
 
-Ha licencek vásárlása előtt kell küld e-mailben az IP-címeket, forduljon az ügyfélszolgálathoz kivételt kérni, amíg licencek vásárlása vagyunk.
+Ha a licencek vásárlása előtt e-mailt kell küldenie ezekről az IP-címekről, lépjen kapcsolatba az ügyfélszolgálattal, és kérjen kivételt, amíg meg nem tudja vásárolni a licenceket.

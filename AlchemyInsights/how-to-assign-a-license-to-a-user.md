@@ -1,5 +1,5 @@
 ---
-title: Hogyan lehet a licenc hozzárendelése egy felhasználóhoz
+title: Licenc hozzárendelése felhasználóhoz
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,27 +10,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "325"
-- "150008"
+- "651"
+- "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 122103d86dd96696bc524c5791d739af016e8371
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664250"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709553"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>Hogyan lehet a licenc hozzárendelése egy felhasználóhoz
+# <a name="how-to-assign-a-license-to-a-user"></a>Licenc hozzárendelése felhasználóhoz
 
-A felhasználó egy Office 365-licencet szolgáltatások eléréséhez szükséges. Itt található lépések hozzáadása, módosítása vagy eltávolítása licencre a felhasználó.
+A felhasználóknak licencre van szüksége a szolgáltatásokhoz való hozzáféréshez. Az alábbiakban a licenc felhasználótól való hozzáadásának, módosításának vagy eltávolításának lépéseit olvashatja.
   
-1. A felügyeleti központ, keresse meg a **felhasználók** \> [aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapján.
+1. A Felügyeleti központban nyissa meg a **Felhasználók** \> [Aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapot.
 
-2. Válassza ki a felhasználót, akihez hozzárendelése, módosítása vagy eltávolítása licencre kívánt nevét.
+2. Válassza ki annak a felhasználónak a nevét, akihez licencet szeretne rendelni, módosítani vagy eltávolítani.
 
-3. A **licencek és alkalmazások** lapon jelölje be a licencet, amelyet hozzá szeretne rendelni a felhasználóhoz.
+3. A **Licencek és alkalmazások** lapon válassza ki a felhasználóhoz rendelni kívánt licencet.
 
-    A licenchez társított összes szolgáltatás alapértelmezés szerint automatikusan hozzá van rendelve a felhasználóhoz. Korlátozza, hogy mely szolgáltatások érhetők el a felhasználó számára, törölje a jelölőnégyzetet, a szolgáltatások, amelyeket nem szeretnénk, hogy a felhasználó rendelkezik.
+    A licenchez társított összes szolgáltatás alapértelmezés szerint automatikusan hozzá van rendelve a felhasználóhoz. Ha korlátozni szeretné, hogy mely szolgáltatások érhetők el a felhasználó számára, törölje a jelet azoknak a szolgáltatásoknak a jelölőnégyzetéből, amelyeket nem szeretne, hogy a felhasználó megkapjon.
 
-4. Az ablaktábla alján kattintson a **módosítások mentése**.
+4. Az ablaktábla alján válassza a **Módosítások mentése lehetőséget.**
 
-További tudnivalókért lásd: [licencek felhasználókhoz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), illetve [felhasználói licencek eltávolításához](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+További információt a [Licencek hozzárendelése a felhasználókhoz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)és [a Licencek eltávolítása a felhasználóktól](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)című témakörben talál.

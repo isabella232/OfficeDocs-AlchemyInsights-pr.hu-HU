@@ -1,9 +1,9 @@
 ---
-title: Hogyan távolítsa el a hitelkártya adataimat?
+title: Hogyan távolíthatom el a hitelkártyaadataimat?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f8b44773767aa28750a7c444b22091359030c93f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664430"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709977"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a>Hogyan távolítsa el a hitelkártya adataimat?
+# <a name="how-do-i-remove-my-credit-card-information"></a>Hogyan távolíthatom el a hitelkártyaadataimat?
 
-1. A Microsoft 365 felügyeleti központ, keresse meg a **Számlázási** \> lap [fizetési módokat](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+1. A Microsoft 365 Felügyeleti központban lépjen a **Számlázás** \> [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra.
 
-2. A **Fizetési módok** lapon válassza ki a hitelkártya vagy bankszámla törlése.
+2. A **Fizetési módok** lapon válassza ki a törölni kívánt hitelkártyát vagy bankszámlát.
 
-3. A hitelkártya vagy bankszámla eltávolításához válassza a **törlése a fizetési mód.**
+3. A hitelkártya vagy bankszámla eltávolításához válassza a **Fizetési mód törlése lehetőséget.**
 
 > [!NOTE]
 > Az előfizetések díjának kiegyenlítésére jelenleg is használt hitelkártyákat vagy bankszámlákat nem lehet eltávolítani.
 
-4. A **Fizetési mód törlése** ablakban válassza a **Törlés**parancsot.
+4. A **Fizetési mód törlése** ablaktáblán válassza a **Törlés**lehetőséget.
 
-Több [hozzáadása, módosítása, vagy hitelkártya vagy az Office 365 rendszerben üzleti bankszámla eltávolítása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)című témakörben talál.
+További információ: [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)

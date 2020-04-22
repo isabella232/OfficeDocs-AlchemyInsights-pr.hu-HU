@@ -1,9 +1,9 @@
 ---
-title: 912. a fókuszban lévő Beérkezett üzenetek mappa beállítása a szervezet minden résztvevőjének
+title: 912 A fókuszált beérkezett üzenetek konfigurálása a szervezet minden tagja számára
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5cb38ae39ba1512ef7048fc669e26ff5cacc0bdc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738415"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705951"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Az fókuszban lévő Beérkezett üzenetek mappa be-és kikapcsolása mindenki számára
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>A Fókuszált beérkezett üzenetek be- és kikapcsolása mindenki számára
 
-Útmutatás: a [fókuszban lévő Beérkezett üzenetek konfigurálása a szervezet minden résztvevőjének](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
+További információt a [Fókuszált beérkezett üzenetek konfigurálása a szervezet minden tagja számára című témakörben talál.](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox)
 
-**Megjegyzés**: ehhez a művelethez szükség van az Exchange Online PowerShell parancshéjra. Szeretné ezt a Microsoft 365 Admin Center-ben csinálni? [Itt szavazzon rá!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Megjegyzés:** Ehhez az eljáráshoz Exchange Online PowerShell szükséges. Szeretné ezt inkább a Microsoft 365 felügyeleti központban megtenni? [Szavazzon itt!](https://go.microsoft.com/fwlink/p/?linkid=862489)

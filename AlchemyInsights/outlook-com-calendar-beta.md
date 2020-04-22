@@ -1,9 +1,9 @@
 ---
-title: 9000198 Outlook.com naptár Beta
+title: 9000198 Outlook.com Naptár Béta
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: 9355093f45b34d7da5d0920c6afca1438adbc940
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36821984"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710877"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Új naptár tapasztalatok érkező Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Új naptárélmények érkeznek a Outlook.com
 
-Az új megjelenés hozza a legjobb tervek és tanulsággal a mail tapasztalat a naptár.
+Az új megjelenés hozza a legjobb tervek és tanulságok a Mail tapasztalat a naptár.
 
-Élvezheti a modern design, amely csökkenti a vizuális rendetlenséget, és ad gyorsabb módon navigálhat a naptárban. Érdekes naptárakat is találhat kedvenc tevékenységei számára – a TÉVÉMŰSORTÓL kezdve a sportcsapatokban és rendezvényeken.
+A modern dizájn csökkenti a vizuális rendetlenséget, és gyorsabb annektálást biztosít a naptárban való navigáláshoz. A tv-műsoroktól a sportcsapatokig és eseményekig egyszerűbb érdekes naptárakat találni kedvenc tevékenységeihez.
 
-Bővítettük gyűjteménye esemény ikonok és frissíti a megjelenését és hangulatát a meglévőket, és most már automatikusan hozzáadja a megfelelő ikonokat az eseményeket, így könnyen látni, mi történik egy pillanat alatt.
+Bővítettük eseményikonok gyűjteményét, és frissítettük a meglévők megjelenését és hangulatát – és most antól automatikusan hozzáadunk releváns ikonokat az eseményekhez, így egy pillantással könnyedén láthatja, mi történik.
 
-Tudod ad visszacsatolás-ra új jellegét meghatározza átmenő a [Outlook.com naptár UserVoice csatornáz](https://go.microsoft.com/fwlink/?linkid=2103075).
+Az új funkciókról a [Outlook.com Calendar UserVoice csatornán](https://go.microsoft.com/fwlink/?linkid=2103075)keresztül adhat visszajelzést.

@@ -1,9 +1,9 @@
 ---
-title: Az Excel 2016 betűtípus-formázási problémái
+title: Betűtípus-formázási problémák az Excel 2016-ban
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 476a6ad39a16880e9513012a33efd4bec1f89efd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051967"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708641"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Az Excel betűtípus-formázási problémái
+# <a name="font-formatting-problems-in-excel"></a>Betűtípus-formázási problémák az Excelben
 
-Az Excel 2016-ben a betűtípus formázása esetleg nem megfelelően jelenik meg a cellában. Ez akkor fordulhat elő, ha a cella egynél több betűformázást tartalmaz. Ha például egyes karakterek félkövér betűvel vannak szedve, és mások nem félkövér betűkkel vannak, akkor előfordulhat, hogy nem jelenik meg a félkövér formátum. Ha ugyanabban a cellában különböző színű karakterek vannak, akkor előfordulhat, hogy a színek helytelenül jelennek meg. Mérnöki csapatunk tisztában van ezzel a problémával, és jelenleg is dolgozik a javításon. Időközben, megpróbál használ egy különböző betűkészlet. A probléma kijavításáig lehetőleg ne használjon többféle formázást egyazon cellán belül.
+Előfordulhat, hogy az Excel 2016-ban a betűtípus-formázás nem jelenik meg megfelelően a cellában. Ez akkor fordulhat elő, ha egy cella egynél több betűtípus-formázást tartalmaz. Ha például egyes karakterek félkövérek, mások nem félkövérek, előfordulhat, hogy nem jelennek meg a félkövér formátum. Vagy ha ugyanabban a cellában különböző színű karakterek vannak, előfordulhat, hogy a színek nem jelennek meg megfelelően. Mérnöki csapatunk tisztában van ezzel a problémával, és jelenleg is dolgozik egy javításon. Addig is próbáljon meg egy másik betűtípust használni. Vagy próbálja meg elkerülni, hogy többféle formázást használjon ugyanazon a cellán belül, amíg ez a probléma meg nem oldható.
   

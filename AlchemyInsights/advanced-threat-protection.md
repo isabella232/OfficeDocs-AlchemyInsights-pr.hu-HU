@@ -1,32 +1,32 @@
 ---
-title: Office 365 speciális veszély védelmi
+title: Office 365 komplex veszélyforrások elleni védelem
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664502"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710337"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 speciális veszély védelmi
+# <a name="office-365-advanced-threat-protection"></a>Office 365 komplex veszélyforrások elleni védelem
 
-- Biztonságos mellékletek, biztonságos kapcsolatok és adathalászat-vesznek részt az Office 365 speciális veszély védelmi (ATP). Vállalati E5, oktatási A5 és Microsoft 365 üzleti tartalmazzák az Ígérethez rendelkezésre áll. Más tervekben az ATP bővítmény előfizetés szükséges.
+- A biztonságos mellékletek, a biztonságos hivatkozások és az adathalászat elleni védelem az Office 365 Komplex veszélyforrások elleni védelem (ATP) részét képezik. A Nagyvállalati E5, az Education A5 és a Microsoft 365 Business Premium tartalmazza az ATP-t. Minden más csomaghoz bővítmény-ATP-előfizetés szükséges.
 
-- Kell rendelnie a megfelelő védelme érdekében a felhasználók Office 365 ATP licenceket. [Ez a témakör](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) útmutatást tömeges licencek vonatkozik a felhasználók talál.
+- Az Office 365 ATP-vel megfelelő licenceket kell hozzárendelnie a felhasználók védelméhez. Ebben a [témakörben](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) útmutatást talál arról, hogyan alkalmazhat licenceket a felhasználókra.
 
-- Office 365 globális rendszergazdák vagy a rendszergazdák biztonsági férhet hozzá a biztonsági & való **Fenyegetés Managmeent** Center szolgáltatásai Office 365 ATP \> **házirend**.
+- A globális rendszergazdák vagy biztonsági rendszergazdák hozzáférhetnek az Office 365 ATP szolgáltatásaihoz a Biztonsági & a **Threat Managmeent** \> házirend biztonsági & megfelelőségi **központjában.**
 
-- Biztonságos mellékletek és biztonságos kapcsolat a házirendek lehetnek hatókörű, a teljes szervezetre, különböző tartományok vagy kisebb csoportok.
+- A biztonságos mellékletek és a biztonságos kapcsolat házirendjei a teljes szervezet, adott tartományok vagy kisebb felhasználói csoportok hatókörét is hatókörben lehet tekinteni.
 
-- Nincs alapértelmezett biztonságos melléklet ATP házirend. Létre kell [hoznia egy házirendet](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) , és alkalmazza azt a felhasználók számára.
+- Nincs alapértelmezett ATP biztonságos csatolási házirend. Létre kell [hoznia egy házirendet,](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) és alkalmaznia kell azt a felhasználókra.
 
-- Van egy alapértelmezett ATP biztonságos kapcsolatok házirendjének a szervezetben mindenki számára. Ez a házirend szerkesztése, vagy egyéni házirendek létrehozása, [a](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies)témakör.
+- Van egy alapértelmezett ATP biztonságos hivatkozások házirend, amely a szervezet minden tagjára vonatkozik. A házirend szerkesztéséhez vagy egyéni házirendek létrehozásához olvassa el [ezt a témakört.](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies)

@@ -1,9 +1,9 @@
 ---
-title: Hasonlítsa össze az Office 365 tervek
+title: Microsoft-előfizetések összehasonlítása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: af35dbcf4995dda7faa11100d7f562a16079a3f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7f19715e6b036c9d8a5e44373aedc6e6aa11392
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520417"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706131"
 ---
-# <a name="compare-switch-or-purchase-office-365-plans"></a>Összehasonlítás, váltás vagy beszerzési Office 365 tervek
+# <a name="compare-switch-or-purchase-subscriptions"></a>Előfizetések összehasonlítása, váltása vagy vásárlása
   
-Office 365 tervek [üzleti](https://products.office.com/compare-all-microsoft-office-products?tab=2)és [vállalati szintű vállalkozások](https://products.office.com/business/compare-more-office-365-for-business-plans)tartoznak. Ezenkívül az Office 365 [oktatási intézmények](https://products.office.com/academic/compare-office-365-education-plans), [kormányzati szervezetek](https://products.office.com/government/compare-office-365-government-plans)és a [nonprofit](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)rendelkezésére áll.
+Az előfizetések [üzleti](https://products.office.com/compare-all-microsoft-office-products?tab=2)és [vállalati szintű vállalkozások](https://products.office.com/business/compare-more-office-365-for-business-plans)számára érhetők el . Ezenkívül a Microsoft 365 [elérhető az akadémiai intézmények](https://products.office.com/academic/compare-office-365-education-plans), kormányzati [szervezetek](https://products.office.com/government/compare-office-365-government-plans)és [nonprofit szervezetek](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)számára.
   
-Ha a szervezet minden terv összehasonlítása és árképzési iránt érdeklődik, tekintse át a [minden Office 365 terv összehasonlítása](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Ha a szervezet érdekelt az összes csomag és árképzés összehasonlításában, tekintse [át az Összes előfizetés összehasonlítása](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Ha a szervezet már megvásárolta az Office 365 tervet, és átválthat egy másik sémát, ezt megteheti a Microsoft 365 felügyeleti központ érdekli. Menjen a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot, majd válassza a **kapcsoló tervek** rendelkezésre álló új tervek listájának megtekintéséhez.
+Ha szervezete már megvásárolta az előfizetéseket, és szeretne másik csomagra váltani, ezt a Microsoft 365 Felügyeleti központból teheti meg. Nyissa meg a **Számlázási** \> [előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot, majd válassza a **Csomagváltás lehetőséget** az elérhető új csomagok listájának megtekintéséhez.
   
-A szervezet is keverjük össze, és egyezik meg az Office 365 tervek az igények és a felhasználók szolgáltatás követelményeinek. A felügyeleti központból, keresse fel a **Számlázási** \> [Beszerzési](https://go.microsoft.com/fwlink/p/?linkid=868433) szolgáltatások.
+A szervezet is keverheti és párosíthatja az előfizetéseket, hogy megfeleljen a felhasználók igényeinek és a szolgáltatás követelményeinek. A felügyeleti központból lépjen a **Számlázási** \> [beszerzési szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=868433) lapra.

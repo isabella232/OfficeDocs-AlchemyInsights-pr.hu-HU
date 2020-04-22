@@ -12,19 +12,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: ee5aa6792e9399bc6c16ff2cfd26abf6a843693a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f735bafec1e23d5f539295cf63aabf583681e208
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766677"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709013"
 ---
 # <a name="adding-external-users"></a>Külső felhasználók hozzáadása
 
-A lép részére összeadás külső/vendég használók lehet különböző függ-ra amire szükséged van őket-hoz képesnek lenni megtenni belépés. Válasszon a következők közül:
+A külső/vendég felhasználók hozzáadásának lépései eltérőek lehetnek attól függően, hogy mire van szüksége ahhoz, hogy hozzáférhessen. Kérjük, válasszon az alábbiak közül:
   
-- [A SharePoint Online külső megosztásának áttekintése](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+- [SharePoint Online külső megosztás – áttekintés](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Vendég belépés-ban Hivatal 365 csoportok](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Vendéghozzáférés az Office 365-csoportokban](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [A Microsoft-csapatok hozzáférése a vendéghez](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Vendéghozzáférés a Microsoft Teamsben](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

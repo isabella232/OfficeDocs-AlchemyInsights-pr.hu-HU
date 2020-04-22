@@ -1,9 +1,9 @@
 ---
-title: Outlook.com nem tud küld elektronikus levél
+title: Outlook.com nem tud e-mailt küldeni
 ms.author: lpyfer
 author: lpyfer
 manager: joallard
-ms.date: 10/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000251"
 - "1845"
 - "1841"
-ms.openlocfilehash: b04fa37bc4d56eafa397e00033919dcb56240ff5
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 5f6dbd98b899ff915a4706c5996c9d3c35be9773
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37698125"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710805"
 ---
-# <a name="unable-to-send-email-in-outlookcom"></a>Képtelen-hoz küld elektronikus levél-ban Outlook.com
+# <a name="unable-to-send-email-in-outlookcom"></a>Nem lehet e-mailt küldeni a Outlook.com
 
-Ha problémái vannak az Outlook.com-üzenetek küldésével, próbálja ki ezeket a megoldásokat.
+Ha problémái vannak az üzenetek Outlook.com küldésével, próbálkozzon ezekkel a megoldásokkal.
 
 1. Ellenőrizze a [szolgáltatás állapotát](https://go.microsoft.com/fwlink/p/?linkid=837482). 
-2. Ellenőrizze, hogy nincs-e bekapcsolva a [Küldés visszavonása](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
-3. Ha megtelt a Beérkezett üzenetek mappában, akkor nem tud új üzeneteket küldeni vagy fogadni. Ürítse ki a [kéretlen e-mail címét](https://outlook.live.com/mail/junkemail) a jobb egérgombbal a **Levélszemét** > **törlésére**.
-4. Ügyeljen arra, hogy az elküldeni kívánt személyek e-mail címei helyesen legyenek formázva.
-5. Ha 20-nál több kapcsolt fiókunk van, nem küldhetünk és fogadhatunk leveleket.
-6. Fiókja lehet átmenetileg blokkolva, mert észrevette, néhány szokatlan bejelentkezési tevékenység. Lásd: [az én Outlook.com fiók feloldása](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+2. Ellenőrizze, hogy a [Küldés visszavonása](https://outlook.live.com/mail/options/mail/messageContent/undoSend) nincs-e bekapcsolva.
+3. Ha a beérkezett üzenetek mappája megtelt, nem tud új üzeneteket küldeni vagy fogadni. A [levélszemét](https://outlook.live.com/mail/junkemail) kiürítése a Jobb gombbal a **Levélszemét** > **törlése az összes törlése parancsra**kattintva.
+4. Győződjön meg arról, hogy azoknak az embereknek az e-mail címei, akiknek küldeni szeretne, megfelelően vannak formázva.
+5. Ha 20-nál több csatlakoztatott fiókkal rendelkezik, nem tud e-maileket küldeni vagy fogadni.
+6. Előfordulhat, hogy a fiókját ideiglenesen letiltjuk, mert szokatlan bejelentkezési tevékenységet észleltünk. Lásd: [A Outlook.com fiók tiltásának feloldása.](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)
 
-További információ a [Outlook.com e-mail szinkronizálási problémáinak javításmódjáról](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+További információ [az Outlook.com e-mailek szinkronizálásával kapcsolatos problémák megoldásáról.](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)

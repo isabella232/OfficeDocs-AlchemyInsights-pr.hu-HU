@@ -1,9 +1,9 @@
 ---
-title: A Microsoft Office 365 mennyiségi licenc előfizetés aktiválása
+title: Microsoft mennyiségi licencelőfizetés aktiválása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661190"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708761"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>A Microsoft Office 365 mennyiségi licenc előfizetés aktiválása
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Microsoft mennyiségi licencelőfizetés aktiválása
 
-1. Jelentkezzen be a [portál mennyiségi licencelési szolgáltatás központ (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. Jelentkezzen be a [mennyiségi licencelési szolgáltatóközpont (VLSC) portáljára.](https://go.microsoft.com/fwlink/p/?LinkId=329762)
 
-2. Keresse meg az Office 365-előfizetés, és válassza az **Aktiválás**.
+2. Nyissa meg az előfizetést, és válassza **az Aktiválás gombot.**
 
-3. E-mailt a program elküldi az Online szolgáltatások (OLS) ügyfél.
+3. A rendszer e-mailt küld az Online Services (OLS) partnerének.
 
-4. Az aktiválás e-mail két lehetőséget biztosít: **Regisztráljon**, vagy **Jelentkezzen be**. Ha korábban már létrehozott egy vizsgálat, válassza a **Bejelentkezés**. Ha még nem rendelkezik az Office 365 bérlői, válassza a **regisztráció**.
+4. Az aktiválási e-mail két lehetőséget kínál: **Regisztráció**vagy **Bejelentkezés.** Ha korábban már létrehozott egy próbaverziót, válassza **a Bejelentkezés**lehetőséget. Ha még nem rendelkezik Microsoft 365-ös bérlővel, válassza **a Regisztráció**lehetőséget.
 
-5. Jelentkezzen be a Microsoft 365 felügyeleti központ ([https://admin.microsoft.com](https://admin.microsoft.com)) a meglévő Office 365 rendszergazdai hitelesítő adatokkal. Sikeres bejelentkezés után, megerősítve a vásárlás egy másik e-mail kap.
+5. Jelentkezzen be a Microsoft 365[https://admin.microsoft.com](https://admin.microsoft.com)Felügyeleti központba ( ) a meglévő rendszergazdai hitelesítő adatokkal. Miután sikeresen bejelentkezett, egy másik e-mailt fog kapni, amely megerősíti a vásárlást.
 
-6. Amikor már regisztrált, Ugrás a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon ellenőrizze, hogy a vásárolt Office 365-előfizetés a bérlő belül akkor aktiválódnak. (Is választhatja az **előfizetés** lapon az ellenőrzése, hogy letétbe helyezték az előfizetés részleteinek megtekintése a VLSC.)
+6. Miután bejelentkezett, a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon ellenőrizheti, hogy a megvásárolt előfizetések aktiválva vannak-e a bérlőn belül. (A VLSC **Előfizetés** lapján is megtekintheti az előfizetés letétbe helyezésének adatait.)

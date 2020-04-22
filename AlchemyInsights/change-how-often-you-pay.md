@@ -3,7 +3,7 @@ title: A fizetési idő módosításáról
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,13 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217866"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706829"
 ---
 # <a name="change-how-often-you-pay"></a>A fizetési idő módosításáról
 
-Amikor előfizetést vásárol, havi vagy éves számlázást választ. Az előfizetés számlázási módjának módosításához kövesse az alábbi lépéseket.
-
-1. A felügyeleti központban nyissa meg a **Termékek> [szolgáltatások számlázása &.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
-
-2. Keresse meg a módosítani kívánt előfizetést. A **Számlázás** csoportban a **havi vagy** az **évente számlázott**számlázás mellett kattintson a **Szerkesztés gombra.**
-
-3. Adja meg, hogy milyen gyakran szeretne díjat fizetni, majd kattintson a **Módosítás gombra.**
+ **Meg szeretné változtatni a fizetési gyakoriságot?** Ha módosítani szeretné, hogy milyen gyakran fizessen a Microsoft 365 vállalati előfizetésért, akár évesről havira, akár haviról évesre, ebben segíthetünk. Ugyanazt az előfizetést az új fizetési gyakorisággal kell megvásárolnia, és le kell mondania a régi előfizetést. Kérjük, használja a "Let us call you" opciót, hogy beszéljen egy támogató mérnökkel.

@@ -1,34 +1,34 @@
 ---
-title: MDM-jogosultság módosítása
+title: MDM-szolgáltató módosítása
 ms.author: sirkkuw
 author: Sirkkuw
-ms.date: 12/4/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: dd0489fad201f97c22eb2c80934816186fd26a20
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770965"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706793"
 ---
-# <a name="change-intune-mdm-authority"></a>Az Intune MDM-jogosultságának módosítása
+# <a name="change-intune-mdm-authority"></a>Az Intune MDM-szolgáltatójának módosítása
 
-Az MDM-jogosultságot támogatási eset megnyitása nélkül módosíthatja. Az alábbi dokumentumokban talál utasításokat:
+Az MDM-szolgáltatót támogatási eset megnyitása nélkül módosíthatja. Az utasításokat a következő dokumentumokban találja:
   
-- [Az MDM-jogosultság módosítása a Configuration Managerről az Intune önálló szolgáltatására](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [Az MDM-szolgáltató módosítása Configuration Managerről önálló Intune-ra](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Az MDM-jogosultság módosítása az Intune önálló ról a Configuration Managerre](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [Az MDM-szolgáltató módosítása az Intune önálló szolgáltatásáról a Configuration Managerre](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
- **MDM Hatóság Együttélés**
+ **MDM Hatóság egymás mellett létezése**
   
-- Mindkét MDM-hatóság egyidejűleg is aktív lehet, ha már engedélyezve van az Office 365 MDM, de ki szeretné próbálni az Intune MDM szolgáltatást.
+- Mindkét MDM-hatóság egyidejűleg is aktív lehet, ha már engedélyezve van az Office 365 MDM, de ki szeretné próbálni az Intune MDM-et.
     
-- Azok a rendszergazdák, akik már rendelkeznek O365 MDM aktívval, egyszerűen megjelölhetik az Intune MDM-et aktívként az Azure Portalról.
+- Azok a rendszergazdák, akik már rendelkeznek az O365 MDM aktív valam-lel, egyszerűen megjelölhetik az Intune MDM-et aktívként az Azure Portalról.
     
-- Ha rendelkezik Intune MDM-vel, de szeretné igénybe venni az Office 365 MDM-et: nyisson meg egy jegyet az alábbi oldalon, és egy támogatási ügynök segít ezt engedélyezni.
+- Ha intune-mm-je van, de szeretné használni az Office 365 MDM-et: nyisson meg egy jegyet az alábbiakban, és egy támogatási ügynök segít engedélyezni ezt.
     
 

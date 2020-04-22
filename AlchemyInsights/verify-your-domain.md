@@ -3,7 +3,7 @@ title: Verify your domain
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531361"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710445"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
- **A rekord valószínűleg még nem frissítette az interneten keresztül.**
+ **A bejegyzés valószínűleg nem frissült az interneten.**
   
-Ez általában csak pár percig tart nekünk, hogy az új rekord, de néha azt is eltarthat néhány óra. 
+Általában csak néhány percet vesz igénybe, hogy láthassuk az új rekordot, de néha akár néhány órát is igénybe vehet. 
   
-- Ha, amely már hosszú már várta, ellenőrizze, hogy másolja, és az ellenőrző TXT rekord a DNS-állomás, a pontos értéket beilleszteni. Nem tartalmazza az egyik gyakori probléma az "MS =" része a rekordot. Van szükségünk, amely túl!
+- Ha már ilyen régóta várt, ellenőrizze, hogy a pontos értéket másolta-e és illesztette-e be a DNS-szolgáltató TXT-ellenőrzési rekordjába. Az egyik gyakori probléma, hogy nem tartalmazza a rekord "MS=" részét. Arra is szükségünk van!
 
-- Egyes DNS-állomásokon kell menteni a zónafájl (hol tárolja a DNS-rekord) egy további lépésre, hogy frissíti az interneten keresztül. Ellenőrizze, hogy a módosítások mentett, Office 365 láthatja és ellenőrizni a bejegyzést.
+- Egyes DNS-állomásokon további lépést kell tennie a zónafájl (ahol a DNS-rekord tárolása) mentéséhez szükséges, hogy az az interneten keresztül frissüljön. Győződjön meg arról, hogy mentette a módosításokat, hogy a Microsoft láthassa és ellenőrizhesse a bejegyzést.

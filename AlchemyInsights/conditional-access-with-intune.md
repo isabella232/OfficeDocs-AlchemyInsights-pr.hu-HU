@@ -1,34 +1,34 @@
 ---
-title: Feltételes elérés Intune szolgáltatással
+title: Feltételes hozzáférés az Intune-nal
 ms.author: pebaum
 author: pebaum
-ms.date: 10/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c9c47d71b2da3840504d5b28c7c9e067b4c05fa5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36504996"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706023"
 ---
-# <a name="conditional-access-with-intune"></a>Feltételes elérés Intune szolgáltatással
+# <a name="conditional-access-with-intune"></a>Feltételes hozzáférés az Intune-nal
 
-A **feltételes hozzáférés** Intune szolgáltatással 3 lépést igényel: 
+A **feltételes hozzáférés** intune-nal való használata 3 lépést igényel: 
   
-- Hozzon létre egy olyan **feltételes hozzáférési házirendet** , amely meghatározza a védelem alatt álló erőforrásokat, és hogy milyen feltételeknek kell megfelelni az erőforrásokhoz való hozzáféréshez. Például egy eszköznek kompatibilisnek kell lennie a vállalati e-mail hozzáférés előtt. 
+- Hozzon létre egy **feltételes hozzáférési szabályzatot,** amely meghatározza, hogy milyen erőforrások at védenek, és milyen feltételeknek kell megfelelni az erőforrások eléréséhez. Egy eszköznek például megfelelőnek kell lennie a vállalati e-mailek elérése előtt. 
     
-- A **megfelelőségi házirend** létrehozásával meghatározhatja, hogy mely beállításokat kell teljesíteni ahhoz, hogy az eszköz megfelelőnek minősüljenek. Például egy eszköznek legalább 6 számjegyből álló tüskétnek kell lennie ahhoz, hogy megfeleljen a szabványnak. 
+- Hozzon létre egy **megfelelőségi szabályzatot** olyan beállítások meghatározásához, amelyeket teljesíteni kell ahhoz, hogy az eszköz megfelelőnek minősüljen. Egy eszköznek például legalább 6 számjegyből álló tűvel kell rendelkeznie ahhoz, hogy megfelelőnek minősüljön. 
     
-- A **megfelelőségi házirendek** és a **feltételes hozzáférés házirend** biztosítása a felhasználók kívánt csoportjait célozza. Ehhez szükség lehet arra, hogy a Azure Active Directoryban a felhasználók meghatározott csoportjait lehessen létrehozni. 
+- Annak **biztosítása, hogy mind a megfelelőségi szabályzatok,** mind a **feltételes hozzáférési házirendek** a kívánt felhasználói csoportokra irányuljanak. Ez szükség lehet a felhasználók adott csoportjainak az Azure Active Directoryban. 
     
 Bővebben:
   
-- [Gyakorlati tanácsok a feltételes hozzáféréshez](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [A feltételes hozzáféréssel kapcsolatos gyakorlati tanácsok](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Ismerkedés a feltételes hozzáféréssel](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [A feltételes hozzáférés – első lépések](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

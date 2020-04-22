@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 682a00364063d395ef9053fc7f6d99a299451c1b
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: a76f50555972957982f51d1369cc2030faede9a3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541773"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706239"
 ---
 # <a name="comments-in-microsoft-planner"></a>Megjegyzések a Microsoft Plannerben
 
@@ -32,4 +32,4 @@ A terveken belüli tevékenységekre vonatkozó megjegyzések tárolására a te
 
 - **Az eltávolított felhasználók e-maileket kapnak** – Ha a tervből való eltávolítását megelőzően egy felhasználó megjegyzést fűz egy tevékenységhez, az e-mail-beszélgetés magába fogja foglalni a felhasználót a tevékenységhez tartozó összes megjegyzés esetében.
 
-Részletes információt szerezhet a Microsoft Plannerben tett megjegyzésekről [A Microsoft Planner működése](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) és a [Megjegyzés fűzése egy tevékenységhez a Microsoft Plannerben](https://support.microsoft.com/hu-HU/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1) című témakörökből.
+Részletes információt szerezhet a Microsoft Plannerben tett megjegyzésekről [A Microsoft Planner működése](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) és a [Megjegyzés fűzése egy tevékenységhez a Microsoft Plannerben](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1) című témakörökből.

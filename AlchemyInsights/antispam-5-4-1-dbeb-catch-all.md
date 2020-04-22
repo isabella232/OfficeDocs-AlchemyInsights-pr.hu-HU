@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: 4f531a063d63aff239ef7dead869bb526e17fb35
-ms.sourcegitcommit: 2591e1f56e8943bddb9d3b77ba5b494ac49d4f30
+ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38672435"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707913"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Fix szállítási problémák hibakódot 550 5.4.1 Relay hozzáférés megtagadva
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Az 550 5.4.1-es hibakódú kézbesítési problémák megoldásának megoldása megtagadva
 
-Ez probléma előfordul mikor [korlátozás-hoz lát ha egy elektronikus levél cím van érvényes-hoz megakadályoz bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) Mikor tífusz a Hivatal 365 hálózat. Próbálkozzon a következőkkel:
+Ez a probléma akkor fordul [elő, ha ellenőrzi, hogy érvényes-e egy e-mail cím, hogy megakadályozza a visszapattanásokat](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) a Microsoft-hálózatba való belépéskor. Próbálkozzon a következőkkel:
 
-1. Állapítsa meg, hogy a probléma egy teljes tartományra vagy egy e-mail címre vonatkozik-e:
-    - Teljes tartomány: előfordul, hogy a tartományt szinkronizálni kell; megpróbál [elintézés a birtok-hoz belső aztán hát-hoz hiteles](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Egy e-mail cím: előfordul, hogy a címet szinkronizálni kell; megváltozó a SMTP helyettes cím aztán megváltozó ez hát tud segít.
-2. Állapítsa meg, hogy a probléma egy adott csoportra vagy nyilvános mappára vonatkozik-e. Egyes objektumtípusok esetében előfordulhat, hogy a Azure Active Directory szolgáltatásban kézzel kell létrehozni az objektumokat.
+1. Határozza meg, hogy a probléma egy teljes tartományra vagy egyetlen e-mail címre vonatkozik-e:
+    - Teljes tartomány: Néha a tartományt szinkronizálni kell; próbálja meg [a tartományt Belső, majd vissza mérvadó ra.](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)
+    - Egyetlen e-mail cím: Néha a címet szinkronizálni kell; megváltoztatása smtp proxy címét, majd megváltoztatja vissza segíthet.
+2. Határozza meg, hogy a probléma egy csoportra vagy nyilvános mappára vonatkozik-e. Bizonyos objektumtípusok esetében előfordulhat, hogy az objektumokat manuálisan kell létrehozni az Azure Active Directoryban.
 
-Ha szüksége van további segítségre, kérjük, nyissa meg a támogatási jegyet, és adja meg a kérdés kiterjedését (includidng a típusú objektum te küldeni), hogy mi segítünk Önnek jobb.
+Ha további segítségre van szüksége, nyisson meg egy támogatási jegyet, és adja meg a probléma hatókörét (beleértve az elküldött objektum típusát is), hogy jobban segíthessünk Önnek.

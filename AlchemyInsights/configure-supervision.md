@@ -1,31 +1,31 @@
 ---
-title: Felügyelet beállítása
+title: Felügyelet konfigurálása
 ms.author: robmazz
 author: robmazz
 manager: laurawi
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 0e693de897fe083e1afd9093789367bc58220846
-ms.sourcegitcommit: fbc613525a6302e61d78388ae821f842f186ad03
+ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34813841"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705915"
 ---
 # <a name="configure-supervision-policies"></a>Felügyeleti házirendek konfigurálása
 
-365 a Microsoft és az Office 365 felügyeleti házirendek lehetővé teszik Exchange e-mail, Skype Business Online, a Microsoft Teams és 3. fél kommunikációs küldött belül és kívül a szervezet figyelni. Kijelölt véleményezők megvizsgálhatjuk a figyelt üzeneteket felel meg a szervezet politikák, a kockázatkezelés és a szabályozási betartásának előírásait és osztályozás típusú elhárításának biztosítása érdekében.
+A Microsoft 365 felügyeleti házirendjei lehetővé teszik az Exchange-levelezés, a Skype Vállalati online verzió, a Microsoft Teams és a szervezeten kívül küldött külső kommunikáció figyelését. A kijelölt ellenőrzők megvizsgálhatják a figyelt üzeneteket, hogy megbizonyosodjanak arról, hogy azok megfelelnek a szervezet szabályzatainak, kockázatkezelési és szabályozási megfelelőségi szabványainak, és feloldhatják azokat egy besorolási típussal.
 
-A szervezet felügyelet házirendek segítségével kell:
+A felügyeleti házirendek szervezeten belüli használatához a következőket kell tenni:
 
-- A kommunikáció figyelemmel határozza meg.
-- Döntse el, aki hírközlési hajtja végre.
-- A telepítő felügyelet házirendek
+- Határozza meg a figyelni fogandó kommunikációt.
+- Döntse el, hogy ki végzi el a kommunikáció felülvizsgálatát.
+- Beállításfelügyeleti házirendek
 
 tudj meg többet:
 

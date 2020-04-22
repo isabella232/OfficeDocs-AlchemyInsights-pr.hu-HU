@@ -1,5 +1,5 @@
 ---
-title: A felhasználói postafiók átalakítása megosztott postafiók
+title: Felhasználói postaláda átalakítása megosztott postaládává
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 0a8ba0d7d74cacd34cbcea8dcab454d55c283280
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b1c44e0990d07686ef083d2045a164afc5f11033
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665294"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705555"
 ---
 # <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Felhasználói postaláda átalakítása megosztott postaládává
 
-Office 365 postafiók egy adott felhasználó megosztott postaládához való konvertálásakor minden meglévő e-mail és naptár elemek megmaradnak Ha több felhasználó férhet hozzá megosztott postafiókjából. Vissza a felhasználói postafiók (magán) konvertálhatja a megosztott postafiókjából.
+Amikor egy adott felhasználó postaládáját megosztott postaládává alakítja, az összes meglévő e-mail és naptárelem egy olyan megosztott postaládában marad meg, amelyhez több személy is hozzáférhet. A megosztott postaládát felhasználói (privát) postaládává is visszakonvertálhatja.
   
-További tudnivalók: [átalakítása megosztott postafiókjából felhasználói postafiókot](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).
+További információt a [Felhasználói postaláda átalakítása megosztott postaládává](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox)című témakörben talál.
   

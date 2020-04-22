@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286542"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706203"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Az ADFS-szel kapcsolatos gyakori problémák és megoldásuk
 
@@ -28,4 +28,4 @@ Az összevont tartomány konfigurációját a Microsoft Tudásbázis következő
 
 - [2647020](https://support.microsoft.com/help/2647020): „Sajnáljuk, de probléma merült fel a bejelentkezésekor“ és „80041317“ vagy „80043431“ hibaüzenet, amikor egy összevont felhasználó megpróbál bejelentkezni az Office 365-be, az Azure-ba vagy az Intune-ba.
 
-További információért olvassa el az [Összevont tartományok beállításainak frissítése vagy javítása az Office 365-ben, az Azure-ban vagy az Intune-ban](https://docs.microsoft.com/hu-HU/office365/troubleshoot/active-directory/update-federated-domain-office-365) című témakört.
+További információért olvassa el az [Összevont tartományok beállításainak frissítése vagy javítása az Office 365-ben, az Azure-ban vagy az Intune-ban](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365) című témakört.

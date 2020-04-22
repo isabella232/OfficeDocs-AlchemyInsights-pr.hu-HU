@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530181"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687404"
 ---
 # <a name="a1-license-for-microsoft-365"></a>A1-licenc Microsoft 365-höz
 
@@ -25,9 +25,9 @@ ms.locfileid: "43530181"
 
 - Ha az intézménye még nem állította be a Microsoft 365 Oktatási verziót, de szeretné ingyen hozzáadni az Office 365-öt, az e-mail-címe megadásával teheti meg az [első lépést](https://www.microsoft.com/education/products/office). 
 
-- Ha egy másik felsőoktatási csomagról szeretne az A1-es csomagra **váltani**, olvassa el a [Váltás másik csomagra](https://docs.microsoft.com/hu-HU/microsoft-365/commerce/subscriptions/switch-plans-manually) című témakört. 
+- Ha egy másik felsőoktatási csomagról szeretne az A1-es csomagra **váltani**, olvassa el a [Váltás másik csomagra](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually) című témakört. 
 
-- Ha felhasználókat szeretne az A1-es csomaghoz rendelni, olvassa el a [Licencek hozzárendelése a felhasználókhoz](https://docs.microsoft.com/hu-HU/microsoft-365/admin/manage/assign-licenses-to-users) című témakört. 
+- Ha felhasználókat szeretne az A1-es csomaghoz rendelni, olvassa el a [Licencek hozzárendelése a felhasználókhoz](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) című témakört. 
 
 **Fontos**: A módosítások érvénybe léptetése akár 24 órát is igénybe vehet. 
 
