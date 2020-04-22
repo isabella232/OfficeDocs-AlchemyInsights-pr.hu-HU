@@ -1,9 +1,9 @@
 ---
-title: Hogyan változtassuk nyelvet a Outlook.com
+title: Hogyan változtassuk meg a nyelvet Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3352bf86e926bf4242a2826b773b1d7cf4ac4faf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36541668"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711273"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="bb6c3-102">Változtathatjuk meg a nyelvet</span><span class="sxs-lookup"><span data-stu-id="bb6c3-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="545d3-102">A nyelv módosítása</span><span class="sxs-lookup"><span data-stu-id="545d3-102">Change your language</span></span>
 
-1. <span data-ttu-id="bb6c3-103">-Hoz cserél a nyelv-ban Kilátás, megy [**nyelv és idő**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) elintézés **(elintézés** \> **kilátás minden Kilátás elintézés** > **általános** > **nyelv és idő**).</span><span class="sxs-lookup"><span data-stu-id="bb6c3-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
+1. <span data-ttu-id="545d3-103">Az Outlook nyelvének beállításához nyissa meg a [**Nyelvi és időbeállítások**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) **(Beállítások** \> **Az Összes Outlook-beállítás** > **általános** > nyelv és**idő)** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="545d3-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
 
-2. <span data-ttu-id="bb6c3-104">Válassz nyelvet!</span><span class="sxs-lookup"><span data-stu-id="bb6c3-104">Choose your language.</span></span>
+2. <span data-ttu-id="545d3-104">Válassza ki a nyelvet.</span><span class="sxs-lookup"><span data-stu-id="545d3-104">Choose your language.</span></span>
 
-3. <span data-ttu-id="bb6c3-105">Válassza a **Mentés** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="bb6c3-105">Select **Save**.</span></span>
+3. <span data-ttu-id="545d3-105">Válassza a **Mentés** gombot.</span><span class="sxs-lookup"><span data-stu-id="545d3-105">Select **Save**.</span></span>
 
-<span data-ttu-id="bb6c3-106">További információ: [az időzóna és a nyelvi beállítások módosítása a Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="bb6c3-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="545d3-106">További információ: [Az időzóna és a nyelvi beállítások módosítása Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=873132)</span><span class="sxs-lookup"><span data-stu-id="545d3-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>

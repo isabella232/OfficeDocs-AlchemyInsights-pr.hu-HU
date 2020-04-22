@@ -1,9 +1,9 @@
 ---
-title: Amikor szervezet hibrid üzemmódban 744 létrehozása felhasználók
+title: 744 Felhasználók létrehozása hibrid módban
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 3300b746e60158db4feac5b1df9f9f95a30c0d9f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ccad7ce9f2cdfa2c11dc020a0bcb84eec1cf096
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514909"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715270"
 ---
-# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="5d34e-102">Felhasználók létrehozása a hibrid telepítések</span><span class="sxs-lookup"><span data-stu-id="5d34e-102">Create users in hybrid deployments</span></span>
+# <a name="create-users-in-hybrid-deployments"></a><span data-ttu-id="f8efc-102">Felhasználók létrehozása hibrid környezetekben</span><span class="sxs-lookup"><span data-stu-id="f8efc-102">Create users in hybrid deployments</span></span>
 
-<span data-ttu-id="5d34e-103">A szervezet egy helyszíni környezetbe és az Office 365 között egy hibrid telepítés esetén kell a helyszíni Active Directory valamennyi felhasználói objektumok létrehozása.</span><span class="sxs-lookup"><span data-stu-id="5d34e-103">When your organization is a hybrid deployment between an on-premises environment and Office 365, you need to create all user objects in your on-premises Active Directory.</span></span> <span data-ttu-id="5d34e-104">A felhasználói objektumok létrehozása a megfelelő szervezeti egység (OU), akkor is szinkronizálja a Office 365 szervezetbe.</span><span class="sxs-lookup"><span data-stu-id="5d34e-104">You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your Office 365 organization.</span></span>
+<span data-ttu-id="f8efc-103">Ha a szervezet egy helyszíni környezet és a Microsoft 365 közötti hibrid telepítés, létre kell hoznia az összes felhasználói objektumot a helyszíni Active Directoryban.</span><span class="sxs-lookup"><span data-stu-id="f8efc-103">When your organization is a hybrid deployment between an on-premises environment and Microsoft 365, you need to create all user objects in your on-premises Active Directory.</span></span> <span data-ttu-id="f8efc-104">A felhasználói objektumokat a megfelelő szervezeti egységben hozza létre, hogy azok szinkronizálódjanak a szervezetben.</span><span class="sxs-lookup"><span data-stu-id="f8efc-104">You create the user objects in the appropriate organizational unit (OU) so they're synchronized into your organization.</span></span>

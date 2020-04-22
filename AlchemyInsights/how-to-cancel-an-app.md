@@ -1,9 +1,9 @@
 ---
-title: Hogyan törölne egy alkalmazást
+title: Alkalmazás lemondása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2eb0e1f521baf1458530f8557f55fdda69d1a23f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542109"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711309"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="5d13c-102">Hogyan lehet törölni a szoftver-as-a-szolgáltatás apps</span><span class="sxs-lookup"><span data-stu-id="5d13c-102">How to cancel software-as-a-service apps</span></span> 
+# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="9b572-102">A szoftverszolgáltatás-alkalmazások lemondása</span><span class="sxs-lookup"><span data-stu-id="9b572-102">How to cancel software-as-a-service apps</span></span> 
 
-1. <span data-ttu-id="5d13c-103">A Microsoft 365 Admin Center letöltőközpontban, a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon válassza ki az **alkalmazások** lapot.</span><span class="sxs-lookup"><span data-stu-id="5d13c-103">In the Microsoft 365 admin center, to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="9b572-103">A Microsoft 365 Felügyeleti központban a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra kattintson az **Alkalmazások** lapra.</span><span class="sxs-lookup"><span data-stu-id="9b572-103">In the Microsoft 365 admin center, to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="5d13c-104">Keresse meg és jelölje ki a kezelni kívánt alkalmazást.</span><span class="sxs-lookup"><span data-stu-id="5d13c-104">Find and select the app you want to manage.</span></span>
+2. <span data-ttu-id="9b572-104">Keresse meg és jelölje ki a kezelni kívánt alkalmazást.</span><span class="sxs-lookup"><span data-stu-id="9b572-104">Find and select the app you want to manage.</span></span>
 
-3. <span data-ttu-id="5d13c-105">A **beállítások & műveletek**csoportban jelölje be az **előfizetés megszakítása**választógombot.</span><span class="sxs-lookup"><span data-stu-id="5d13c-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="9b572-105">A **Beállítások & műveletek csoportban**válassza az Előfizetés **lemondása**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="9b572-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>

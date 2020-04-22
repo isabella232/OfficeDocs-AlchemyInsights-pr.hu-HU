@@ -1,9 +1,9 @@
 ---
-title: Kapcsolattartók kiválasztása nem Outlook.com az e-mail szerkesztésekor
+title: Nem lehet névjegyeket kijelölni e-mailek írásakor Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: b74cabb36a6214c81ba90004225e1c08eeb1b262
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518617"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711669"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="7e9bf-102">Kapcsolattartók kiválasztása nem e-mail szerkesztésekor</span><span class="sxs-lookup"><span data-stu-id="7e9bf-102">Can't select contacts when composing email</span></span>
+# <a name="cant-select-contacts-when-composing-email"></a><span data-ttu-id="bb594-102">Nem lehet kijelölni a névjegyeket e-mailek írásakor</span><span class="sxs-lookup"><span data-stu-id="bb594-102">Can't select contacts when composing email</span></span>
 
-<span data-ttu-id="7e9bf-103">Új e-mailek szerkesztésekor, egyes felhasználók nem látja a kapcsolattartók listája, ha a **címzett** vagy a **másolat** gombra kattintanak.</span><span class="sxs-lookup"><span data-stu-id="7e9bf-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="7e9bf-104">Válasszunk ki egy névjegyet, kezdje el beírni a **címzett** vagy **Másolatot kap** mezőben, és jelenik meg a hozzájuk tartozó kapcsolattartókat.</span><span class="sxs-lookup"><span data-stu-id="7e9bf-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>
+<span data-ttu-id="bb594-103">Új e-mail írásakor egyes ügyfelek nem látják a névjegylistát, amikor a **Címzett** vagy a **Másolatot kap** gombra kattintanak.</span><span class="sxs-lookup"><span data-stu-id="bb594-103">When composing a new email, some customers don't see their list of contacts when they click the **To** or **Cc** buttons.</span></span> <span data-ttu-id="bb594-104">Névjegy kijelöléséhez kezdjen el gépelni a **Címzett** vagy a **Másolatot kap** mezőben, és megjelennek a kapcsolódó névjegyek.</span><span class="sxs-lookup"><span data-stu-id="bb594-104">To select a contact, start typing in the **To** or **Cc** fields and your related contacts will be displayed.</span></span>

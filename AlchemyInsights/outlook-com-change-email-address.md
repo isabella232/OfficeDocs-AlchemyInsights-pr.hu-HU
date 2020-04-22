@@ -1,9 +1,9 @@
 ---
-title: Az Outlook.com a saját e-mail cím módosítása
+title: Az e-mail címem módosítása a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "259"
 - "8000010"
 ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
-ms.openlocfilehash: 6a944bbd2fa77370c081b2464683efdc8e8f95a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bfca8cbf03b2561a433032e79c09727b83bacf43
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547781"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712928"
 ---
-# <a name="change-your-email-address"></a><span data-ttu-id="edb3c-102">Az e-mail cím módosítása</span><span class="sxs-lookup"><span data-stu-id="edb3c-102">Change your email address</span></span>
+# <a name="change-your-email-address"></a><span data-ttu-id="5f9a1-102">Az e-mail cím módosítása</span><span class="sxs-lookup"><span data-stu-id="5f9a1-102">Change your email address</span></span>
 
-<span data-ttu-id="edb3c-103">Változtassa meg az Outlook.com e-mail címet, szüksége lesz egy másikat és az elsődleges e-mail alias teszik.</span><span class="sxs-lookup"><span data-stu-id="edb3c-103">To change your Outlook.com email address, you'll need to add another one and make it your primary email alias.</span></span>
+<span data-ttu-id="5f9a1-103">A Outlook.com e-mail cím módosításához hozzá kell adnia egy másikat, és azt elsődleges e-mail aliassá kell tennie.</span><span class="sxs-lookup"><span data-stu-id="5f9a1-103">To change your Outlook.com email address, you'll need to add another one and make it your primary email alias.</span></span>
   
-<span data-ttu-id="edb3c-104">Kövesse az utasításokat a [hozzáadása vagy eltávolítása az Outlook.com e-mail alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="edb3c-104">Follow the instructions in [Add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="5f9a1-104">Kövesse az [E-mail alias hozzáadása vagy eltávolítása Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)című részben található utasításokat.</span><span class="sxs-lookup"><span data-stu-id="5f9a1-104">Follow the instructions in [Add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

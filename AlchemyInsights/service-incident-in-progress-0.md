@@ -1,8 +1,8 @@
 ---
-title: Folyamatban szolgáltatási eset
+title: Folyamatban lévő szolgáltatási incidens
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -17,19 +17,19 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: 4c139d72ca6370af1b28bfa9883669a7a1d4da88
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c9ce8d5cb969f20233565f778f3970b3ae77bd9c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551021"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716246"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="12144-102">Folyamatban szolgáltatási eset</span><span class="sxs-lookup"><span data-stu-id="12144-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="9b735-102">Folyamatban lévő szolgáltatási incidens</span><span class="sxs-lookup"><span data-stu-id="9b735-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="12144-103">Esetleg érintett szolgáltatás baleset által vagy tanácsadó, amely az éppen vizsgált.</span><span class="sxs-lookup"><span data-stu-id="12144-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="12144-104">A legfrissebb állapotát ellenőrizheti az [Egészségügyi szolgáltatás](https://admin.microsoft.com/adminportal/home#/servicehealth) weblapra.</span><span class="sxs-lookup"><span data-stu-id="12144-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="9b735-103">Előfordulhat, hogy egy szolgáltatási esemény vagy tanácsadó, amely jelenleg vizsgált.</span><span class="sxs-lookup"><span data-stu-id="9b735-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="9b735-104">A legfrissebb állapotot a [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) oldalon ellenőrizheti.</span><span class="sxs-lookup"><span data-stu-id="9b735-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="12144-105">A felhasználók kényelme érdekében találja meg az alábbi esemény összefoglalása:</span><span class="sxs-lookup"><span data-stu-id="12144-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="9b735-105">Az Ön kényelme érdekében az incidens összegzését az alábbiakban találja:</span><span class="sxs-lookup"><span data-stu-id="9b735-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="12144-106">**Esemény száma:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="12144-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="9b735-106">**Incidens száma:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="9b735-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
  
-> <span data-ttu-id="12144-107">Leírás hatása: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="12144-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="9b735-107">A hatás leírása: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="9b735-107">Impact description: {ImpactDescription}</span></span>
