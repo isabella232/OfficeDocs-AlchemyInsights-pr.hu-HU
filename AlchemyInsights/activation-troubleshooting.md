@@ -2,7 +2,7 @@
 title: Aktiválás – hibaelhárítás
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495573"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676427"
 ---
 # <a name="activation-troubleshooting"></a>Aktiválás – hibaelhárítás
 
-A **Vezérlőpult** \> **Programok és szolgáltatások**, az Office keresés. A Microsoft Office 365 ProPlus vagy a Microsoft Office 365 üzleti kell megjelennie. Ha a felsorolt Office több verziója jelenik meg, távolítsa el a nem használt verzió.
+A **Vezérlőpult** \> **programok és szolgáltatások**területén keresse meg az Office kifejezést. Meg kell jelenlennie a Microsoft 365 nagyvállalati verziós vagy microsoft 365 vállalati alkalmazásoknak. Ha a listában egynél több Office-verzió látható, távolítsa el a nem használt verziót.
   
-Nem távolítható el a Vezérlőpult segítségével sikeresen, ha használja a [támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy) eltávolíthatja a nem használt verzióját.
+Ha a Vezérlőpulton nem sikerült eltávolítania a telepítést, a [Támogatási és helyreállítási segéd segítségével](https://aka.ms/SARA-OfficeUninstall-Alchemy) távolítsa el a nem használt verziót.
   
-Ha még mindig nem licencelt Office, térjen vissza a **Vezérlőpult** \> **Programok és szolgáltatások**. Kattintson a jobb gombbal a többi Office-telepítés, és válassza a **Módosítás** (vagy módosítás) majd válassza a **Javítás Online**. Az online javítási cserehelyzetbe vehet igénybe. Ezután indítsa újra az Office és bejelentkezés a munka, vagy iskola figyelembe, ha a rendszer kéri.
+Ha az Office továbbra sem licencelt, lépjen vissza a **Vezérlőpult** \> **programok és szolgáltatások segédprogramjához.** Kattintson a jobb gombbal a fennmaradó Office-telepítésre, válassza a Módosítás (vagy Módosítás) **parancsot,** majd válassza az **Online javítás parancsot.** Az online javítás bizonyos ideig eltarthat. Ezután indítsa újra az Office-t és lépjen be a munkahelyi vagy iskolai fiókjába ha szükséges. 
   
-Ha még mindig nem licencelt Office, töltse le és futtassa az [aktiválási hibaelhárító](https://aka.ms/SARA-OfficeActivation-Alchemy) aktiválási problémák megoldásához az érintett számítógépen.
+Ha az Office még mindig nincs licenc nélkül, töltse le, majd futtassa az [aktiválási hibaelhárítót](https://aka.ms/SARA-OfficeActivation-Alchemy) az érintett számítógépen az aktiválási problémák megoldásához.
   
-További tudnivalókért lásd: [nem licencelt termék és az Office Aktiválás hibákat](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+További információt a Következő témakörben talál: [Nem licencelt termék és aktiválási hibák az Office-ban](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

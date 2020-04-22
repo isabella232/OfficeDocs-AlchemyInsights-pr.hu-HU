@@ -3,7 +3,7 @@ title: Elutasított hitelkártya
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665197"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705087"
 ---
 # <a name="declined-credit-card"></a>Elutasított hitelkártya
 
-Ha bankkártyával fizet, de a rendszer elutasítja a fizetést, e-mailben értesítjük arról, hogy nem sikerült feldolgozni a fizetést. Ellenőrizze, hogy a [hitelkártya adatait](https://go.microsoft.com/fwlink/p/?linkid=842054) - kártya száma, lejárati dátum, név és cím, város, állam és irányítószám beleértve hitelkártya - jelennek meg, pontosan úgy, ahogy azok a hitelkártya és a hitelkártya-kivonat. Frissítse a hitelkártyaadatokat, és azonnal benyújtja a kifizetés a [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon **Egyenleg kiegyenlítése** funkció használatával. 
+Ha bankkártyával fizet, de a rendszer elutasítja a fizetést, e-mailben értesítjük arról, hogy nem sikerült feldolgozni a fizetést. Ellenőrizze, hogy a [hitelkártya adatai](https://go.microsoft.com/fwlink/p/?linkid=842054) - kártyaszám, lejárati dátum, név a hitelkártyán és a cím, beleértve a várost, az államot és az irányítószámot - pontosan úgy jelennek-e meg, mint a hitelkártyán és a hitelkártya kivonatán. Frissítheti hitelkártyaadatait, és azonnal elküldheti a kifizetést a [Termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) oldalon található **Egyenleg kiegyenlítése** lehetőség használatával. 
 
-További információért lásd: "Mi történik, ha a hitelkártyája lejárt, és a fizetési lejárt határidejű?" az [üzleti előfizetés az Office 365 fizet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+További információ: "Mi a teendő, ha lejárt a hitelkártyám, és a fizetéslejárt?" című témakörben olvashat. a [Microsoft 365 vállalati előfizetésért](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)való fizetés.
   
 Ha továbbra is a hitelkártya elutasításáról szóló üzenetet kap, lépjen kapcsolatba a bankjával. Elképzelhető, hogy a hitelkártyája nincs aktiválva - ha például nemrég kapott egy új lejárati dátumú hitelkártyát postai úton, akkor előfordulhat, hogy aktiválnia kell, mielőtt használhatná. A bankjától továbbá megtudhatja azt is, ha a hitelkártyája esetleg nem támogatott az online, a nemzetközi vagy a rendszeres tranzakciókhoz.  
   
-További tudnivalókat lásd: [Hibaelhárítás hitelkártyák és bankszámlákhoz](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+További információt a [Hitelkártyák és bankszámlák hibaelhárítása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)című témakörben talál.

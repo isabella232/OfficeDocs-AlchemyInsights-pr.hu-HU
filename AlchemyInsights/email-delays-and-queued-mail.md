@@ -1,22 +1,22 @@
 ---
-title: Akkor megnéz e-mail késedelmet, vagy a levelek várólistára?
+title: Látja az e-mailek késését vagy a várólistára helyezett e-maileket?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765133"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703789"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Akkor megnéz e-mail késedelmet, vagy a levelek várólistára?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Látja az e-mailek késését vagy a várólistára helyezett e-maileket?
 
-Nemrégiben kezdett elavulttá régebbi Office 365 SMTP végpontjait. Az Office 365 cél értékek használhatók az MX rekordok és intelligens állomások 2012 előtt volt. Ha még mindig használ egy régebbi, akkor kell frissíteni az Office 365 végpont támogatott értékre. További információt talál a [támogatja a KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+A régebbi SMTP-végpontok elavulttal történt. Ezek a célértékek 2012 előtt használhatók voltak az MX-rekordokban és az intelligens gazdagépekben. Ha továbbra is használja az egyik régebbi értékeket, frissítenie kell a végpontot egy támogatott értékre. További információt a [KB támogatásban talál.](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo)

@@ -1,9 +1,9 @@
 ---
-title: Aktiválja a Visio
+title: A Visio aktiválása
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 50d1fc29ee4eafd6b6bbe0a873684ab471ba8f02
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495429"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43682294"
 ---
-# <a name="activate-visio"></a>Aktiválja a Visio
+# <a name="activate-visio"></a>A Visio aktiválása
 
-Mielőtt a felhasználó telepíti és aktiválja az asztali asztali Visio alkalmazás a Visio Online terv 2 mellékelt, a felhasználó kell rendelni egy [Visio licenc](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Ahhoz, hogy a felhasználó telepíthesse és aktiválhassa a Visio Online 2 csomagrészét képező asztali Visio alkalmazást, a felhasználónak Rendelkeznie kell [Visio-licenccel.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
 
-**Megjegyzés:** A Visio Online terv 1 Visio asztali verziója nem tartalmazza.
+**Megjegyzés:** A Visio Online 1 csomag nem tartalmazza a Visio asztali verzióját.
 
 A Visio aktiválása:
 
-1. Ha még nincs telepítve a Visio telepítése a [saját fiók portal](https://portal.office.com/account#installs) . Segítséget talál [A Visio telepítése](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
-2. Ha a telepítés befejeződött, nyissa meg a Visio alkalmazás. Visio valószínűleg automatikusan aktiválja, és azonnal használni is elindítható. Ha nem, a program kérheti jelentkezzen be. Ügyeljen arra, hogy jelentkezzen be az azonos munka vagy iskola fiók Visio licencet rendelt. Kövesse az utasításokat az aktiválás folytatásához. 
+1. Telepítse a Visio alkalmazást a [Saját fiók portálról,](https://portal.office.com/account#installs) ha még nincs telepítve. További segítségért tekintse át [A Visio telepítése](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) című témakört.
+2. Amikor befejeződött a telepítés, nyissa meg a Visio alkalmazást. A Visio valószínűleg automatikusan aktiválódik, így Ön azonnal megkezdheti a használatát. Ha nem így történik, a rendszer megkérheti Önt, hogy jelentkezzen be. Ügyeljen arra, hogy ugyanazzal a munkahelyi vagy iskolai fiókkal jelentkezzen be, mint amelyikhez Visio-licencet rendeltek. Az aktiválás folytatásához kövesse a megjelenő utasításokat. 
 
-Aktiválási problémák esetén az [Aktiválás hibaelhárító](https://aka.ms/SARA-OfficeActivation-Alchemy) futtatása az érintett számítógépen.
+Aktiválási problémák esetén futtassa az [Aktiválás hibaelhárítót](https://aka.ms/SARA-OfficeActivation-Alchemy) az érintett számítógépen.
 
-A részletes információkat lásd:<br>
-[A PC-n Office aktiválása](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Előfizetési értesítés jelenik meg az Office 365 alkalmazás megnyitásakor](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Office hiba "aktiválása a fiókban található termékek nem használható <app>"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Az Office nem licencelt termék és aktiválási hibák](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+Részletes információkért lásd:<br>
+[Az Office aktiválása PC-n](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Előfizetési értesítés jelenik meg microsoftos alkalmazás megnyitásakor](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+["A fiókjában talált termékek nem használhatók a fiók <app>ban található termékek aktiválására"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[„Nem licencelt termék” aktiválási hibaüzenetek az Office-ban](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

@@ -1,9 +1,9 @@
 ---
-title: Előre fizetett megújítása
+title: Előre fizetett megújítás
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666698"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666779"
 ---
-# <a name="prepaid-office-365-renewal"></a>Előre fizetett Office 365 megújítása
+# <a name="prepaid-microsoft-365-renewal"></a>Előre fizetett Microsoft 365-megújítás
 
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
+1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
 
-2. Keresse meg a kiterjeszteni kívánt előfizetés. **Számlázási** szakaszban **bővítése záró dátumának**kiválasztása.
+2. Keresse meg a kiterjeszteni kívánt előfizetést. A **Számlázás csoportban** válassza **a Befejezési dátum meghosszabbítása**lehetőséget.
 
-3. A **Bővítés előfizetés** ablaktáblán jelölje ki az **Új és nem használt termék kulcs használata**, majd kattintson a **Tovább gombra**.
+3. Az **Előfizetés kiterjesztése** ablaktáblán válassza **az Új és nem használt termékkulcs használata**lehetőséget, majd a **Tovább**gombot.
 
-4. Írja be a termékkulcsot, majd kattintson a **Tovább gombra**.
+4. Írja be a termékkulcsot, majd válassza a **Tovább gombot.**
 
 > [!NOTE]
-> Ha egynél több termékkulcsot, jelöljön ki **egy másik termék kulcs hozzáadása** adja meg őket.
+> Ha egynél több termékkulccsal rendelkezik, **a Másik termékkulcs hozzáadása** lehetőséget választva megadhatja azokat.
 
-5. Tekintse át a rendelés részletei, majd válassza a **Redeem**.
+5. Tekintse át a rendelés részleteit, majd válassza a **Beváltás**lehetőséget.
 
-További információért lásd: [licencek hozzáadása vagy bővítése a termékazonosító kulccsal fizetett előfizetéssel](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+További információ: [Licencek hozzáadása termékkulcs használatával fizetett előfizetéshez vagy annak bővítése.](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)

@@ -3,7 +3,7 @@ title: Nem látható terjesztési listák
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
-ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 320a52b23636cde50b34948f33d316a725415ef9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530461"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704563"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>A terjesztési csoport nem jelenik meg a csoportok listában
+# <a name="distribution-group-not-showing-in-groups-list"></a>A terjesztési csoport nem jelenik meg a Csoportok listában
 
-Az Exchange felügyeleti központ központjában az új terjesztési lista megjelenése előtt 60 percet is igénybe vehet.
+Az új terjesztési lista az Exchange Felügyeleti központban akár 60 percet is igénybe vehet.
   
-Ha most szeretne tagokat hozzáadni, vagy egyéb módosításokat kíván tenni, használja az [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)csoport csoportok funkcióját.
+Ha most tagokat szeretne felvenni, vagy egyéb módosításokat szeretne, használja az [Exchange Felügyeleti központ](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)Csoportok szolgáltatását.
   
 

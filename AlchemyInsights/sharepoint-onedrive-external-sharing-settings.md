@@ -1,5 +1,5 @@
 ---
-title: Külső megosztás be-és kikapcsolása a SharePoint rendszerben
+title: A külső megosztás be- és kikapcsolása a SharePointban
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053911"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692875"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Figyelmeztető üzenet: a szervezet irányelvei nem teszik lehetővé a megosztást ezekkel a felhasználókkal
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Figyelmeztető üzenet: A szervezet irányelvei nem teszik lehetővé a megosztást ezekkel a felhasználókkal
 
-A felhasználók figyelmeztető üzenetet tapasztalhatnak, amikor a szervezet külső felhasználóival próbálnak meg megosztani. Az üzenet az, **hogy a szervezet irányelvei nem teszik lehetővé az ilyen felhasználókkal való megosztást. Az Office 365 felügyeleti központ külső megosztáshoz való engedélyezésével engedélyezze azt**. Ez gyakran előfordul az első alkalommal, amikor megpróbálja megosztani a külső felhasználókkal, vagy amikor megosztunk új külső felhasználókkal.
+A felhasználók figyelmeztető üzenetet tapasztalhatnak, amikor a szervezet külső felhasználóival próbálnak megosztani. Az üzenet a **Szervezet szabályzatai nem teszik lehetővé, hogy ezekkel a felhasználókkal megossza. Az engedélyezéshez nyissa meg a Külső megosztás lehetőséget a Microsoft 365 Felügyeleti központban.** Ez gyakran előfordul az első alkalommal próbál megosztani a külső felhasználókkal, vagy ha megosztja az új külső felhasználókkal.
 
-Tekintse át a **SharePoint és OneDrive külső megosztás beállításait** a szervezetnél.
+Ellenőrizze a **szervezet SharePoint- és OneDrive-külső megosztási beállításait.**
 
-1. Válassza a [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)webhely **SharePoint**parancsát.
-3. Válassza a **megosztás** -t a külső megosztási beállítások megtekintéséhez.
+1. A [Microsoft 365 Felügyeleti központban](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)válassza a **SharePoint**lehetőséget.
+3. A Külső megosztás beállításainak megtekintéséhez válassza a **Megosztás** lehetőséget.
 
-Ellenőrizze egy adott webhely **külső megosztási beállításait** .
+Ellenőrizze egy adott webhely **külső megosztási beállításait.**
 
-1. Válassza a [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)webhely **SharePoint**parancsát.
-2. Válassza ki az **aktív webhelyeket** a rendelkezésre álló webhelyek megtekintéséhez.
-3. Jelölje ki az ellenőrizni kívánt webhelyet, majd jelölje ki a menüsávban megjelenő **megosztási** gombot a webhely beállításainak ellenőrzéséhez.
+1. A [Microsoft 365 Felügyeleti központban](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)válassza a **SharePoint**lehetőséget.
+2. Válassza **az Aktív helyek lehetőséget** az elérhető webhelyek megtekintéséhez.
+3. Jelölje ki az ellenőrizni kívánt webhelyet, majd a menüsorban megjelenő **Megosztás** gombra kattintva ellenőrizze a webhely beállításait.
 
-További információt a [külső megosztás – áttekintés](https://docs.microsoft.com/sharepoint/external-sharing-overview)című témakörben talál.
+További információt a [Külső megosztás – áttekintés című témakörben talál.](https://docs.microsoft.com/sharepoint/external-sharing-overview)

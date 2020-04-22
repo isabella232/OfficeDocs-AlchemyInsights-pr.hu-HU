@@ -1,5 +1,5 @@
 ---
-title: Az OneDrive for Business webhelyeknek való hozzáférés megtagadási problémáinak elhárítása
+title: Az Access által a OneDrive Vállalati verzió webhelyeire irányuló üzenetek hibáinak elhárítása
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 9d8aba4e53a1e0505a430296bb1c11713ea2ce7b
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a83936acf969926c113b28ceb22b006cdb96e2b4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051607"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692803"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Az OneDrive for Business webhelyeknek való hozzáférés megtagadási problémáinak elhárítása
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Az Access által a OneDrive Vállalati verzió webhelyeire irányuló üzenetek hibáinak elhárítása
 
-Ez a probléma leggyakrabban akkor jelentkezik, ha egy felhasználó törlődik, és ugyanazzal az egyszerű felhasználónévvel (UPN) újra létrehozza. Az új fiók a Passport egyedi AZONOSÍTÓI értékének használatával jön létre. Mikor a felhasználó megpróbál-hoz belépés egy telek gyűjtemény vagy-uk OneDrive, a felhasználó birtokol egy rossz PUID. A második forgatókönyv egy Active Directory szervezeti egységgel (OU) rendelkező címtár-szinkronizálást foglal magában. Ha a felhasználók már bejelentkezett a SharePoint-ba, majd egy másik szervezeti egységbe kerülnek, és újra átviszik a SharePoint-alkalmazással, akkor a problémát tapasztalhatják.
+Ez a probléma leggyakrabban akkor fordul elő, ha egy felhasználót törölnek, és újra létrehoznak ugyanazzal az egyszerű felhasználónévvel (UPN). Az új fiók egy másik PUID (Passport Unique ID) érték kel jön létre. Amikor a felhasználó megpróbál hozzáférni egy webhelycsoporthoz vagy a OneDrive-hoz, a felhasználó nem megfelelő PUID azonosítóval rendelkezik. A második forgatókönyv a címtár-szinkronizálás az Active Directory szervezeti egységgel (OU). Ha a felhasználók már bejelentkeztek a SharePointba, majd áthelyezték őket egy másik szervezeti egységbe, és újraszinkronizálták őket a SharePointtal, akkor ezt a problémát tapasztalhatják.
 
-1. A probléma megoldásához állítsa vissza az eredeti UPN-t a cikk lépéseinek segítségével, a [felhasználó visszaállítása az Office 365-ben](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
-2. Ha Ön nem tud visszaad a eredeti felhasználó Önnek kellene eltávolít a régi felhasználó-ból OneDrive telek használ ezek lép, [eltávolít egy felhasználó-ból felhasználó értesít oldalra dől](). 
-3. Után ez megtett, tudod igazol a felhasználó birtokol admin jogok-hoz OneDrive telek mellett alábbiak a lép-hoz [összead admins ' részére egy használók ' OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles?redirectSourcePath=%252fen-us%252farticle%252fmanage-user-profiles-in-the-sharepoint-admin-center-494bec9c-6654-41f0-920f-f7f937ea9723#add-and-remove-admins-for-a-users-onedrive)
+1. A probléma megoldásához állítsa vissza az eredeti felhasználói felületet a cikkben ismertetett lépésekkel, a Felhasználó visszaállítása a [Microsoft 365 alkalmazásban](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+2. Ha nem tudja visszaállítani az eredeti felhasználót, távolítsa el a régi felhasználót a OneDrive-webhelyről az alábbi lépésekkel, [távolítsa el a felhasználót a felhasználói adatok listájából](). 
+3. Miután ez megtörtént, ellenőrizheti, hogy a felhasználó rendszergazdai jogokkal rendelkezik-e a OneDrive-webhelyen, ha a [Rendszergazda hozzáadása a felhasználó OneDrive-jához](https://docs.microsoft.com/sharepoint/manage-user-profiles) című lépéseit követve ellenőrzi.
 
-A jogosultsági szintekkel kapcsolatos további tudnivalókért tanulmányozza a [SharePoint rendszerben a jogosultsági szintek ismertetése](https://docs.microsoft.com/sharepoint/understanding-permission-levels)című témakört.
+A jogosultsági szintekről a [SharePoint engedélyszintjeinek ismertetése](https://docs.microsoft.com/sharepoint/understanding-permission-levels)című cikkben olvashat bővebben.

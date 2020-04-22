@@ -1,5 +1,5 @@
 ---
-title: Hozzáférési szolgáltatások visszavonulása
+title: Hozzáférés szolgáltatások nyugdíjazás
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050491"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687260"
 ---
-# <a name="access-services-retirement"></a>Hozzáférési szolgáltatások visszavonulása
+# <a name="access-services-retirement"></a>Hozzáférés szolgáltatások nyugdíjazás
 
-Mint mi eredetileg jelentették be-ban MC97576, márciusban 2017, és állandó-hoz kommunikál felső a múlt év belépés szolgáltatás van lét nyugdíjas-ból Hivatal 365. A folyamat következő fázisa az Access web adatbázisok eltávolítása lesz, amelyek a SharePoint-listákat a mögöttes adattárolásként használják.
+Ahogy azt eredetileg az MC97576-ban, 2017 márciusában jelentettük be, és az elmúlt évben folytattuk a kommunikációt, az Access Services-t megszüntették. A folyamat következő fázisa az Access webadatbázisok eltávolítása lesz, amelyek a SharePoint-listákat használják alapul szolgáló adattárolóként.
 
-**Hogyan érint ez engem?**
+**Milyen hatással van ez rám?**
 
-Összerezzenés Június 2019, mi akarat megáll teremtés-ból új belépés adatbázisok-ban SharePoint Online és becsuk legyőz a szolgáltatás és akármi megmaradó Apps mellett április 2020.
+2019 júniusátantól leállítjuk az új Access-adatbázisok létrehozását a SharePoint Online-ban, és 2020 áprilisáig leállítjuk a szolgáltatást és a többi alkalmazást.
 
-**Mit kell tennem, hogy felkészüljünk erre a változra?**
+**Mit kell tennem, hogy felkészüljek erre a változásra?**
 
-Javasoljuk, hogy hozzon létre egy áttérési tervet a szervezet Access webes adatbázisaihoz. Az adminisztrátorok használhatják a [SharePoint Access alkalmazás ellenőrzőszámát](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) , hogy leltárt kapjanak a webhelyek által használt Access alkalmazásokról.
+Javasoljuk, hogy hozzon létre egy átmeneti tervet a szervezet Access webes adatbázisaihoz. A rendszergazdák a [SharePoint Access alkalmazásképolvasó](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) segítségével leltárt kaphatnak a webhelyek által használt Access-alkalmazásokról.
 
-Az Access webadatbázisok adatainak áttelepítése többféle módon történjen:
+Az Access webes adatbázisok adatainak áttelepítése többféleképpen is elérhető:
 
-- Importálás helyi Access-adatbázisba (. ACCDB) vagy Excel-fájlba.
-- Mi is ajánl exploring Mikroszkóp PowerApps mint egy vagylagos emelvény-hoz teremt nem-kód teendő megoldások részére pókháló és mozgatható berendezés.
+- Importálás helyi Access adatbázisba (. ACCDB) vagy egy Excel-fájlba.
+- Azt is javasoljuk, hogy vizsgálja meg a Microsoft PowerApps-et alternatív platformként, hogy kód nélküli üzleti megoldásokat hozzon létre webes és mobileszközökhöz.

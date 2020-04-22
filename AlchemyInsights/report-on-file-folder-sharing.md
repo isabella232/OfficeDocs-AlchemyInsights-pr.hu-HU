@@ -1,9 +1,9 @@
 ---
-title: Jelentés egy SharePoint-webhely fájl-és mappamegosztásával kapcsolatban
+title: Fájlok és mappák megosztásának jelentése egy SharePoint-webhelyen
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/16/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 8dbad3df0c53a1167d5399efcfd9c0f7a71f928a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627360"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43693164"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Jelentés egy SharePoint-webhely fájl-és mappamegosztásával kapcsolatban
+# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Fájlok és mappák megosztásának jelentése egy SharePoint-webhelyen
 
-Létrehozhat egy CSV-fájlt, amely részletezi minden egyedi fájlt, felhasználót, engedélyt és hivatkozást egy adott SharePoint-webhelyen vagy egy OneDrive könyvtáron. Ez segít megérteni, hogyan használják a megosztást, és hogy az egyes fájlok vagy mappák megoszthatók-e a vendégekkel.
+Létrehozhat egy CSV-fájlt, amely részletezi az adott SharePoint-webhelyen vagy OneDrive-tárban található összes egyedi fájlt, felhasználót, engedélyt és hivatkozást. Ez segít megérteni, hogyan használják a megosztást, és hogy vannak-e fájlok vagy mappák a vendégekkel.
 
-További információt a [fájl-és mappamegosztással kapcsolatban a SharePoint-webhelyen című jelentésben](https://docs.microsoft.com/sharepoint/sharing-reports)olvashat.
+További információ: [Jelentés a sharePoint-webhelyen lévő fájl- és mappamegosztásról](https://docs.microsoft.com/sharepoint/sharing-reports).
 
 > [!NOTE]
-> Ez a funkció jelenleg az első release bérlők és fokozatosan gördülő ki az összes produkciós bérlők.
+> Ez a funkció jelenleg üzembe helyezett első kiadás bérlők és fokozatosan gördülő ki az összes éles környezetben bérlők.

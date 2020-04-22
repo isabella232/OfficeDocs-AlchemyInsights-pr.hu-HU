@@ -1,9 +1,9 @@
 ---
-title: Törlés 1800001 profil
+title: 1800001 Profil törlése
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 8/29/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,30 +13,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: da0897bf834c7b96eb5e6035457ef664c486c7ae
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b3822a7b90048cb8f0447eeb80ca1c457a17918e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513217"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704835"
 ---
 # <a name="delete-a-profile"></a>Profil törlése
 
-A profil törléséhez használja az alábbi lépéseket.
+Profil törléséhez kövesse az alábbi lépéseket.
   
-1. Az Outlook programban válassza a **fájl** \> **Fiókbeállítások** \> **Profilok kezelése**.
+1. Az Outlook ban válassza **a Fájlfiók** \> **beállításainak** \> **kezelése a profilokat.**
 
-2. Válassza ki a **Profilok megjelenítése**.
+2. Válassza a **Profilok megjelenítése**lehetőséget.
 
-3. A **Posta** párbeszédpanelen jelölje ki a törölni kívánt profilt, majd kattintson az **Eltávolítás**gombra.
+3. A **Posta** párbeszédpanelen jelölje ki a törölni kívánt profilt, majd kattintson az **Eltávolítás gombra.**
 
     > [!NOTE]
-    > Az Outlook is figyelmezteti, hogy a profil törlése eltávolítja a kapcsolat nélküli adatok. Bármely az Outlook-adatfájlok (.pst) tárolt adatok nem vesznek el, vagy on-line fiókjához, például Outlook.com, Exchange vagy Office 365 fiókok adatokat tárolja.
+    > Az Outlook figyelmeztetheti, hogy a profil törlése eltávolítja az offline adatokat. Az Outlook-adatfájlokban (.pst) vagy az online fiókokban tárolt adatok , például Outlook.com, exchange- vagy Microsoft 365-fiókokban tárolt adatok nem vesznek el.
   
-[Profilok kezelése](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) vagy az identitásokat az Outlook for Mac **Mac az Outlook** -profilok kezelése, vagy hajtsa végre az alábbi lépéseket.
+A **Mac Outlook** profilkezeléséről a Profilok és [identitások kezelése a Mac Outlookban](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) című témakörben vagy az alábbi lépésekkel.
   
-1. Nyissa meg az **alkalmazások** mappát a Keresőben.
+1. A Finderből nyissa meg az **Alkalmazások** mappát.
 
-2. CTRL + kattintás vagy kattintson a jobb gombbal **A Microsoft Outlook**, és jelölje be a **Csomag tartalmának megjelenítése**.
+2. Ctrl+kattintson vagy kattintson a jobb gombbal a **Microsoft Outlook**elemre , majd válassza a **Csomag tartalomának megjelenítése parancsot**.
 
-3. Jelölje ki a **tartalmát** \> **Megosztott támogatja**, és majd launch **Outlook profil kezelőjét**.
+3. Válassza **a Tartalom** \> **megosztott támogatása**lehetőséget, majd indítsa el az **Outlook Profilkezelő t.**

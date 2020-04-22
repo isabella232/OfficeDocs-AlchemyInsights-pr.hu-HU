@@ -1,5 +1,5 @@
 ---
-title: Adathely
+title: Adatok helye
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,27 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: ec8fb91dfe77cb251579ce23eb0579b114b101d9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627848"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655284"
 ---
-# <a name="data-location"></a>Adathely
+# <a name="data-location"></a>Adatok helye
 
-Tudod kilátás a elhelyezés-ból-a Hivatal 365 bérlő-ban admin központ vagy mellett összekötő pálca-hoz cserél online keresztül PowerShell.
+Megtekintheti a bérlő helyét a felügyeleti központban, vagy az Exchange Online-hoz a PowerShellen keresztül való csatlakozással.
 
 
-**Admin központ:**
-1. Jelentkezz be az [Admin Centerbe](https://admin.microsoft.com/Adminportal/Home).
-2. Válassza a **Beállítások** > **szervezeti profilja**beállítást.
-3. Az **adathely**területen válassza a **nézet részletei nézetet**.
+**Felügyeleti központ:**
+1. Jelentkezzen be a [felügyeleti központba](https://admin.microsoft.com/Adminportal/Home).
+2. Válassza a **Beállítások** > **szervezet profil lehetőséget.**
+3. Az **Adatok helye csoportban**válassza **a Részletek megtekintése**lehetőséget.
 
 
 **Powershell:**
-1. Csatlakozzon az Exchange Online rendszerhez a Windows PowerShell eszközzel.
-2. A bérlő tulajdonságainak listájának megjelenítéséhez futtassa a [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) parancsmagot. 
-3. Tekintse meg a OrganizationId tulajdonságot.
+1. Csatlakozzon az Exchange Online-hoz a Windows PowerShell használatával.
+2. A [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) parancsmag végrehajtása a bérlő tulajdonságainak listájának megjelenítéséhez. 
+3. Nézd meg a OrganizationId tulajdonát.
 
-Az EXO és az SPO adathelyének meghatározásához meghatározhatja, hogy az adatok [Hol találhatók az adott](https://products.office.com/where-is-your-data-located)helyen.
+Ha rendelkezik az EXO és az SPO adathelyével, meghatározhatja az adatok helyét más szolgáltatásokhoz, amelyeket [az Adatok helye](https://products.office.com/where-is-your-data-located)helye alapján használhat.

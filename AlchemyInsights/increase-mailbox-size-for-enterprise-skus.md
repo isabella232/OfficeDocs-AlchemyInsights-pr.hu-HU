@@ -1,9 +1,9 @@
 ---
-title: Az Enterprise SKUs postaláda méretének növelése
+title: A nagyvállalati nagyvállalati kék postaládaméretének növelése
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739279"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671243"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Mi a teendő, ha a postaláda mérete már 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Mi a teendő, ha a postaláda mérete már 100 GB
 
-Az E3 vagy E5 tervvel a postaláda mérete már 100 GB, és nincs mód annak növelésére. Helyett, töröl régi elektronikus levél, vagy megereszt elektronikus levél levéltáros-hoz készlet ez-ban felhő. 
+E3 vagy E5 csomag esetén a postaláda mérete már 100 GB, és nem lehet növelni. Ehelyett törölje a régi e-maileket, vagy kapcsolja be az e-mailek archiválását, hogy a felhőben tárolja. 
   
-Az e-mail archiválás engedélyezése:
+Az e-mailek archiválásának engedélyezése:
   
-1. A Microsoft 365 Admin Center webhelyén látogasson el az **Admin Centers** \> **Exchange**-ra. 
+1. A Microsoft 365 Felügyeleti központban nyissa meg az **Exchange** **felügyeleti központok at.** \> 
     
-2. Válassza ki a **címzettek** \> **postaládáit**, és jelöljön ki egy postaládát. 
+2. Válassza **a Címzettpostaládák** \> **lehetőséget,** és jelöljön ki egy postaládát. 
     
-3. -Ban részlet táblaüveg alatt **-ban-hely archív**, választ **képessé tesz**. 
+3. A részletek ablaktáblán a **Helyszíni archívum csoportban**válassza az **Engedélyezés**lehetőséget. 
     
-4. Után néhány jegyzőkönyv, egy új dosszié akarat feltűnik-ban-a használók ' Kilátás-on pókháló hívott *-ban-hely archív* , vagy-ban Kilátás app hívott *online archív- \<név\> * . -A felhasználó tud húz és csepp elektronikus levél-hoz archív. 
+4. Néhány perc múlva egy új mappa jelenik meg a felhasználó Webes *Outlookjában, a place-archive* , vagy az Outlook alkalmazásban, az *Online archívum \<- név\> * . A felhasználó áthúzhatja az e-maileket az archívumba. 
     
-Az archiváláshoz korlátlan mennyiségű tárhelyet lehet elérni. További információ a [korlátlan archiválás engedélyezése](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)című témakörben található.
+Az archiváláshoz korlátlan mennyiségű tárterületet érhet el. További információ: [Korlátlan archiválás engedélyezése.](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)
   
 

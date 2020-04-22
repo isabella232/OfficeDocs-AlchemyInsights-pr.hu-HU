@@ -1,27 +1,27 @@
 ---
-title: Skype Outlook.com eltávolítása
+title: Outlook.com A Skype eltávolítása
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000082
-ms.openlocfilehash: d1debdfb8f682cfa1d9889f29e2ea409d90185a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a2f55cfb3882488b3337369fb32057b8a49dc845
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545347"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666815"
 ---
-# <a name="how-do-i-turn-off-skype-in-outlookcom"></a>Hogyan kapcsolja ki az Outlook.com Skype?
+# <a name="how-do-i-turn-off-skype-in-outlookcom"></a>Hogyan kapcsolhatom ki a Skype-ot Outlook.com?
 
-Outlook.com nem lehet törölni a Skype, de letilthatja az értesítéseket:
+A Skype nem távolítható el Outlook.com, de letilthatja az értesítéseket:
 
-1. Nyitott <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+1. Nyit <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
  **Beállítások** > **Általános** > **[értesítések](https://outlook.live.com/mail/options/general/notifications)**. 
-2. A **társalgás és a hívást**tiltsa le a nem kívánt értesítéstípusokhoz.
+2. A **Csevegés és hívás**csoportban tiltsa le a már nem kívánt értesítéstípusokat.
 
-Skype használatával kapcsolatos további tudnivalókért olvassa el a [családjával és barátaival a Skype az Outlook.com beszélgetni](https://support.office.com/article/83c6a5b1-3921-479c-b9e9-e753ce59c1fa?wt.mc_id=Office_Outlook_com_Alchemy).
+A Skype használatáról a Outlook.com-ben a Családtagok és barátok beszélgetése [a Skype-on](https://support.office.com/article/83c6a5b1-3921-479c-b9e9-e753ce59c1fa?wt.mc_id=Office_Outlook_com_Alchemy)című részben című részben olvashat bővebben.

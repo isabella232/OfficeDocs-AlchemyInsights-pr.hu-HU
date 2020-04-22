@@ -1,30 +1,30 @@
 ---
-title: Az Office Deployment Tool (ODT) eszköz használatára vonatkozó kérdések
+title: Az Office deployment tool (ODT) használatával kapcsolatos kérdések
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 96d3f70f554f71c43d6458ec8debc099cd9fb040
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36553542"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698060"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Az Office Deployment Tool (ODT) eszköz használatára vonatkozó kérdések
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Az Office deployment tool (ODT) használatával kapcsolatos kérdések
 
-Töltse le az Office telepítőeszközét a [Microsoft letöltőközpontjából](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+Töltse le az Office telepítőeszközt a [Microsoft letöltőközpontjából.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
   
-A fájl letöltése után futtassa az önkicsomagoló végrehajtható fájlt, amely tartalmazza az Office telepítő végrehajtható fájlját (Setup. exe) és egy konfigurációs mintafájlt (Configuration. xml).
+A fájl letöltése után futtassa az önkicsomagoló végrehajtható fájlt, amely tartalmazza az Office deployment tool végrehajtható fájlját (setup.exe) és egy konfigurációs mintafájlt (configuration.xml).
   
- **-Hoz kizár vagy eltávolít Hivatal 365 ProPlus termékek-ból ügyfél számítógépek:**
+ **A Microsoft 365 nagyvállalati alkalmazások kizárása vagy eltávolítása az ügyfélszámítógépekről:**
   
-Mikor beiktatás Hivatal 365 ProPlus, tudod kizár különleges termékek. Ehhez kövesse az Office és az ODT telepítésének lépéseit, de adja meg az ExcludeApp elemet a konfigurációs fájlban. Például, ez a konfigurációs fájl telepíti az összes Office 365 ProPlus termékek, kivéve a Publisher:
+A Microsoft 365 nagyvállalati alkalmazások telepítésekor kizárhat bizonyos termékeket. Ehhez kövesse az Office ODT-val történő telepítésének lépéseit, de foglalja bele az ExcludeApp elemet a konfigurációs fájlba. Ez a konfigurációs fájl például a Publisher kivételével telepíti az összes Microsoft 365-ös alkalmazást a vállalati termékekhez:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +35,6 @@ Mikor beiktatás Hivatal 365 ProPlus, tudod kizár különleges termékek. Ehhez
 </Add>
 ```
 
-[Az Office-telepítőeszköz áttekintése](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
+[Az Office telepítőeszközének áttekintése](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
   
 

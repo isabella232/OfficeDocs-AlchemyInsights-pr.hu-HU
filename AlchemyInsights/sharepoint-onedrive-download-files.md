@@ -1,9 +1,9 @@
 ---
-title: Letölt vagy megakadályoz letölt-ból fájlokat-ból OneDrive vagy SharePoint
+title: Fájlok letöltése vagy letöltésének megakadályozása a OneDrive-ról vagy a SharePointból
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 3a71734876cd3563ff4284b8389db53cdef24c56
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 89276c911dcfb4e26dce21f3328de0ed0e6dc2ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051355"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43693019"
 ---
-# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Letölt vagy megakadályoz letölt-ból fájlokat-ból OneDrive vagy SharePoint
+# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Fájlok letöltése vagy letöltésének megakadályozása a OneDrive-ról vagy a SharePointból
 
-Tudod letölt fájlokat és tartók-ból OneDrive, vagy-ból SharePoint Online-hoz számítógépetek-val csak néhány csattan. További információért-ra letöltő fájlokat, száguldások és korlátoló letölt legyen szíves látogat a láncszemek alul.
+A OneDrive-ról vagy a SharePoint Online-ról néhány kattintással letöltheti a fájlokat és mappákat a számítógépre. A fájlok letöltésével, a sebességkorlátozással és a letöltések korlátozásával kapcsolatos további információkért kérjük, látogasson el az alábbi linkekre.
 
-- [Fájlok és mappák letöltése a OneDrive vagy SharePoint](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
-- [Fájlletöltés letiltása azúrkék AD feltételes hozzáféréssel](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Fájlok és mappák letöltése a OneDrive-ról vagy a SharePointból](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+- [Fájlletöltés blokkolása az Azure AD feltételes hozzáférésével](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
 
-- [Maximalizál feltölt és letölt sebesség](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [Maximalizálja a feltöltési és letöltési sebességet](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
 
-- [Erősít OneDrive szinkronizál probléma](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [A OneDrive szinkronizálási problémáinak megoldása](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [Letölt OneDrive részére teendő](https://onedrive.live.com/about/download/)
+- [A OneDrive Vállalati verzió letöltése](https://onedrive.live.com/about/download/)
 

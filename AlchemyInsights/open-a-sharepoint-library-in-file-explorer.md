@@ -1,9 +1,9 @@
 ---
-title: Nyissa meg a SharePoint-tár Intéző
+title: SharePoint-tár megnyitása a Fájlkezelőben
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 381326b9edc8e3f56f443551b95f1410fd3752a8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 231b026c42fddd3957b01fc7e383d7161f525e91
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548717"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698492"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Nyissa meg a SharePoint-tár Intéző
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>SharePoint-tár megnyitása a Fájlkezelőben
 
-1. Keresse meg azt a könyvtárat az Internet Explorer 10 vagy az Internet Explorer 11. 
+1. Tallózással keresse meg a tárat az Internet Explorer 10 vagy az Internet Explorer 11 böngészőben. 
     
-2. Kattintson a nézet ikonra a jobb felső részén, és kattintson az **Intéző nézetben**.
+2. Kattintson a jobb felső sarokban lévő Nézet ikonra, majd a Nézet a **Fájlkezelőben**parancsra.
     
 > [!NOTE]
-> Könyvtár fájl Intéző megnyitása jól jöhet, ha meg szeretnénk másolni vagy áthelyezni, több fájlok és mappák után, de a könyvtárban rendszeresen használni kívánt, ajánlott szinkronizálása. Explorer fájl megnyitásával kapcsolatos problémák elhárítása, lásd: [Nyissa meg az Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Info: szinkronizálás beállítása [az új OneDrive szinkronizálás ügyfél fájlok szinkronizálása SharePoint](https://go.microsoft.com/fwlink/?linkid=871666)talál. 
+> A Fájlkezelőben megnyitegy tárat, ha egyszer több fájlt és mappát kell másolnia vagy áthelyeznie, de ha rendszeresen szeretne dolgozni a tárban, javasoljuk, hogy szinkronizálja azt. A Fájlkezelőben megnyitott problémák elhárításáról a [Megnyitás az Intézőben című témakörben](https://go.microsoft.com/fwlink/?linkid=871665)található. A szinkronizálás beállításáról a [SharePoint-fájlok szinkronizálása az új OneDrive szinkronizálási ügyfélalkalmazással](https://go.microsoft.com/fwlink/?linkid=871666)című témakörben talál. 
   
 

@@ -1,9 +1,9 @@
 ---
-title: Helyreállítása a törölt e-maileket a Outlook.com
+title: Törölt e-mailek helyreállítása a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666959"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Helyreállítása a törölt e-mail Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Törölt e-mail Outlook.com helyreállítása
 
-1. A bal oldali ablaktáblán jelölje ki a **Törölt elemek**.
-2. Válassza ki a helyreállítani, és válassza ki a **visszaállítani**kívánt elemet.
-3. Ha az üzenet nem a törölt elemek, jelölje be az **ebből a mappából törölt elemek helyreállítása** az ablak tetején.
+1. A bal oldali ablaktáblában válassza a **Törölt elemek lehetőséget.**
+2. Jelölje ki a helyreállítani kívánt elemet, és válassza **a Visszaállítás**lehetőséget.
+3. Ha az üzenet nem a Törölt elemek mappában van, az ablak tetején jelölje be a **Mappából törölt elemek helyreállítása** jelölőnégyzetet.
 
- **A törölt elemek fontos információkat:**
+ **Fontos információk a törölt elemekről:**
   
-- A törölt elemek mappából eltávolított elemek 30 napig azok megtérülnek.
-- Ha még nem jelentkezett be a fiókjára 365 napig, az e-mail törölve lesz, és nem állítható helyre.
-- Nincs arra, hogy gyermeke fiókokból törölt e-mailben.
+- A Törölt elemek mappából eltávolított elemek 30 napig helyreállíthatók.
+- Ha 365 napja nem jelentkezett be a fiókjába, az e-mail címe törlődik, és nem lehet visszaírni.
+- A gyermekfiókokból törölt e-mailek nem állíthatók helyre.
 
-Többet megtudni, tanulmányozza a [visszaállítási törölt e-mailek az Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+További információ: [Törölt e-mailek visszaállítása a Outlook.com alkalmazásban.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)

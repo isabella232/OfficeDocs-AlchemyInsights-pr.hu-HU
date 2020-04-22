@@ -1,28 +1,28 @@
 ---
-title: Az Outlook webes fiókadatainak módosítása
+title: A fiókadatok módosítása a Webes Outlookban
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 861892a3e51727f00fcbbeedf1cf434589d7432a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36510589"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666995"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>Fiókinformációk módosítása az Outlook alkalmazásban a weben
+# <a name="change-account-information-in-outlook-on-the-web"></a>Fiókadatok módosítása a Webes Outlookban
 
-1. A lap tetején válassza ki a nevét vagy profilképét.
-1. Válassza ki **a fiókomat**.
-1. Válassza a **személyes infó**-t.
-1. Saját magáról adatokat adhat meg, illetve módosíthatja azokat.
+1. A lap tetején válassza ki a nevét vagy a profilképét.
+1. Válassza **a Saját fiók lehetőséget.**
+1. Válassza a **Személyes adatok lehetőséget.**
+1. Módosíthatja vagy hozzáadhatja saját adatait.
 
-*Megjegyzés:* Néhány részletet, mint az Ön nevét és munkaköri címét, lehet, hogy az Ön informatikai vagy humán erőforrás részleg. Ha szeretné frissíteni ezeket az adatokat, forduljon, vagy a rendszergazda.
+*Megjegyzés:* Előfordulhat, hogy bizonyos részleteket, például a nevét és a beosztását az informatikai vagy humánerőforrás-osztály adja meg. Ha frissíteni szeretnéd ezeket az adatokat, vedd fel a kapcsolatot velük vagy a rendszergazdával.
 
-További információ: a [fénykép-és fiókinformációk módosítása az Outlook alkalmazásban a weben](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+További információt a [Fénykép- és fiókadatok módosítása a Webes Outlookban című témakörben talál.](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)

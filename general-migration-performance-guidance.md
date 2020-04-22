@@ -1,9 +1,9 @@
 ---
-title: Általános migrációs teljesítményútmutatás
+title: Az áttelepítési teljesítményt ismertető általános útmutató
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 10/31/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "5300030"
 - "3179"
 ms.assetid: ''
-ms.openlocfilehash: 2a9d796966daa64e6db8ca0f5c951e65d2ff29c4
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 0f754fd4264d7800e4e02a295147cded46aca817
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913552"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692659"
 ---
-# <a name="general-migration-performance-guidance"></a>Általános migrációs teljesítményútmutatás
+# <a name="general-migration-performance-guidance"></a>Az áttelepítési teljesítményt ismertető általános útmutató
 
-Az áttérési teljesítményt a hálózati infrastruktúra, a fájlméret, az áttelepítési idő és a sávszélesség is befolyásolhatja. Ezek megértése segít megtervezni és hatékonyabbá teszi a migráció.
+Az áttelepítési teljesítményt befolyásolhatja a hálózati infrastruktúra, a fájlok mérete, az áttelepítés időpontja és a leszabályozás. Ezek megértése segítséget nyújthat az áttelepítés megtervezéséhez és a lehető leghatékonyabb elvégzéséhez.
 
-[Általános migrációs teljesítményútmutatás](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+[Az áttelepítési teljesítményt ismertető általános útmutató](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)

@@ -1,5 +1,5 @@
 ---
-title: Engedélyezés és a keresési napló
+title: Naplózási napló engedélyezése és keresése
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665078"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703645"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Engedélyezése, és keresse meg a naplóban
+# <a name="enable-and-search-the-audit-log"></a>A napló engedélyezése és keresése
 
-**Office 365**
+**Microsoft 365**
 
-Az Office 365 napló megkereséséhez kövesse az [alábbi lépéseket](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+A Microsoft 365 naplójában való kereséshez kövesse [az alábbi lépéseket.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
 **Exchange**
 
-- Az Exchange felügyeleti tevékenységek alapértelmezés szerint naplózza a rendszer.
+- Az Exchange felügyeleti tevékenységeit a rendszer alapértelmezés szerint naplózza.
 
-- Postaláda naplózása az Office 365 rendszerben alapértelmezés szerint engedélyezve van. További információért lásd [a cikk](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- A postaláda-naplózás alapértelmezés szerint engedélyezve van a Microsoft 365-ben. További információt [ebben a cikkben](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)talál.
 
-- Office 365 csoport postafiókokat és nyilvános mappa postafiókok Exchange online nem támogatják a naplózás.
+- Az Exchange Online Office 365 Csoportpostaláda- és nyilvánosmappa-postaládái nem támogatják a naplózást.
 
-**SharePoint- és OneDrive**
+**SharePoint és OneDrive**
 
-- Nincs SharePoint és OneDrive naplózásának engedélyezéséhez szükséges további konfigurálásra.
+- A SharePoint és a OneDrive naplózásának engedélyezéséhez nincs szükség további konfigurációra.
 
-- SharePoint- és OneDrive támogatja a következő típusú tevékenységek naplózása:
+- A SharePoint és a OneDrive a következő típusú tevékenységek naplózását támogatja:
 
-    - Fájl, mappa és a tevékenységek lap
-    - Megosztása és a hozzáférési kérelem tevékenységek
-    - Webhely-felügyeleti tevékenységek
-    - Fájl szinkronizálási tevékenységek
+    - Fájl-, mappa- és laptevékenységek
+    - Megosztási és hozzáférési kérelmekkel kapcsolatos tevékenységek
+    - Webhely-adminisztrációs tevékenységek
+    - Fájlszinkronizálási tevékenységek
 
-- Más Office 365 szolgáltatások ellenőrzött tevékenységeivel kapcsolatos tudnivalókért tanulmányozza [a jelen cikkben szereplő táblázatot](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Az egyéb szolgáltatások ban végzett ellenőrzött tevékenységekről [a cikkben található táblázatban](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)olvashat.
 
-- Gyakori kérdések [gyakran ismételt kérdések](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) a napló keresése itt.
+- Itt van a naplóban való kereséssel kapcsolatos [gyakori kérdések](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) listája.

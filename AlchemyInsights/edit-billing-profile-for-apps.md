@@ -1,9 +1,9 @@
 ---
-title: Az alkalmazások számlázási profil szerkesztése
+title: Alkalmazások számlázási profiljának szerkesztése
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606755"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703897"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Az alkalmazások számlázási profil szerkesztése
+# <a name="edit-billing-profile-for-apps"></a>Alkalmazások számlázási profiljának szerkesztése
 
-## <a name="to-change-the-billing-profile-on-apps"></a>A számlázási profiljában apps módosítása
+## <a name="to-change-the-billing-profile-on-apps"></a>Az alkalmazások számlázási profiljának módosítása
 
-1. Menjen a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot, majd kattintson az **alkalmazások** fülre.
+1. Nyissa meg a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot, majd válassza az **Alkalmazások** lapot.
 
-2. Keresse meg és jelölje ki a kezelni kívánt alkalmazás.  
+2. Keresse meg és jelölje ki a kezelni kívánt alkalmazást.  
 
-3. Mellett **Számlázási profilt**válassza a **Szerkesztés** , majd válassza az alkalmazás társítani szeretné a számlázási profil.
+3. A **Számlázási profil**csoportban válassza a **Szerkesztés** lehetőséget, és válassza ki azt a számlázási profilt, amelyet az alkalmazáshoz szeretne társítani.
 
 ## <a name="edit-billing-profiles"></a>Számlázási profilok szerkesztése
 
-1. Menjen a **Számlázási** > [váltók & kifizetések](https://go.microsoft.com/fwlink/p/?linkid=848039) lapon, majd kattintson a **profilok számlázási**.
+1. Nyissa meg a **Számlázási** > [számlák & fizetések](https://go.microsoft.com/fwlink/p/?linkid=848039) lapot, majd válassza a **Számlázási profilok lehetőséget.**
 
-2. Válassza ki a számlázási profil szerkesztése a listáról.
+2. Válassza ki a szerkeszthető listából a számlázási profilt.

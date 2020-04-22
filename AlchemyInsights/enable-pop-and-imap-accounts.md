@@ -1,24 +1,24 @@
 ---
-title: 934 engedélyezze a POP- és IMAP-fiókok
+title: 934 POP- és IMAP-fiókok engedélyezése
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 934
 ms.assetid: 2e07bd5a-5aad-41a9-aaba-6b2bedaf92f9
-ms.openlocfilehash: fc1a55f9f3d58ac35645ffd7aaea1692e05d716d
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 733b70f50991ba8d73c566e04521aec0d78889b7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752813"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703392"
 ---
-# <a name="pop-and-imap4-settings"></a>POP- és az IMAP4 beállításai
+# <a name="pop-and-imap4-settings"></a>POP- és IMAP4-beállítások
 
-A saját postafiók POP3 és IMAP4 kiszolgáló beállításai című témakörben talál [POP és IMAP e-mail az Outlook beállításait](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+A saját postaládája POP3- és IMAP4-kiszolgálóbeállításainak megkereséséhez olvassa el [az Outlook POP- és IMAP-levelezési beállításai című témakört.](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)
 
-A rendszergazdák engedélyezhetik és konfigurálhatják a POP3 és IMAP4 a helyszíni Exchange-szervezetek. További információt lásd [engedélyezése és konfigurálása az Exchange-kiszolgálók a POP3](https://technet.microsoft.com/library/bb124934.aspx) és az [engedélyezése és beállítása az Exchange kiszolgálókon IMAP4](https://technet.microsoft.com/library/bb124489.aspx).
+A rendszergazdák engedélyezhetik és konfigurálhatják a POP3-ot és az IMAP4-et a helyszíni Exchange-szervezetekben. További információt a [POP3 engedélyezése és konfigurálása Exchange-kiszolgálókon,](https://technet.microsoft.com/library/bb124934.aspx) valamint [Az IMAP4 engedélyezése és konfigurálása Exchange-kiszolgálókon](https://technet.microsoft.com/library/bb124489.aspx)című témakörben talál.

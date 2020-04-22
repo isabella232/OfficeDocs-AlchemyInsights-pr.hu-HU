@@ -1,5 +1,5 @@
 ---
-title: A külső felhasználókra vonatkozó szervezetházirend-beállítások
+title: Szervezeti házirend-beállítások külső felhasználókszámára
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,22 +10,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 18a313ef54d94374b475ebc7f98c8ad62c5b0ee7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054488"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642002"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>A külső felhasználókra vonatkozó szervezetházirend-beállítások
+# <a name="organization-policy-settings-for-external-users"></a>Szervezeti házirend-beállítások külső felhasználókszámára
 
-A felhasználók a következő figyelmeztető üzenetet láthatják, ha a szervezet külső felhasználóival próbálnak meg megosztani: 
+A felhasználók a következő figyelmeztető üzenetet láthatják, amikor a szervezet külső felhasználóival próbálnak megosztani: 
 
-   **A szervezet irányelvei nem teszik lehetővé az ilyen felhasználókkal való megosztást. Az Office 365 felügyeleti központ külső megosztáshoz való engedélyezésével engedélyezze azt.** 
+   **A szervezet szabályzatai nem teszik lehetővé, hogy ezekkel a felhasználókkal megossza. Az engedélyezéshez nyissa meg a Külső megosztás lehetőséget a Microsoft 365 Felügyeleti központban.** 
 
-Ez gyakran előfordul az első alkalommal, amikor megpróbálja megosztani a külső felhasználókkal, vagy amikor megosztunk új külső felhasználókkal. További információért olvassa el az alábbi cikket:
+Ez gyakran előfordul az első alkalommal próbál megosztani a külső felhasználókkal, vagy ha megosztja az új külső felhasználókkal. További információkért kérjük, olvassa el az alábbi cikket:
 
-[A szervezet irányelvei nem teszik lehetővé az ilyen felhasználókkal való megosztást.](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[A szervezet irányelvei nem teszik lehetővé a megosztást ezekkel a felhasználókkal](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 

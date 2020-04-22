@@ -1,5 +1,5 @@
 ---
-title: Licencekkel kapcsolatos kérdés
+title: Kérdés a licencekkel kapcsolatban
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0d3d788d913137d1083326ee5b69ce4ce5d4178d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768622"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698276"
 ---
-# <a name="questions-about-your-office-365-license"></a>Kérdése van az Office 365 licenccel
+# <a name="questions-about-your-microsoft-365-license"></a>Kérdések a Microsoft 365 licencével kapcsolatban
 
-Ha meg szeretné tudni, hogy hány licencet vásárolt, vagy hogy hány licencet rendel egy előfizetésből:
+Ha tudni szeretné, hogy hány licencet vásárolt, vagy hány licencet rendelt hozzá egy előfizetéshez:
   
 1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
 
-2. Keresse meg azt az előfizetést, amelyről többet szeretne megtudni. Láthatja a fizető licencek számát, és azt is, hogy hány közül lehet hozzárendelni.
+2. Keresse meg azt az előfizetést, amelyről többet szeretne tudni. Megtekintheti a kifizetett licencek számát és a hozzárendelhető licencek számát.
 
-Ha több licencet szeretne hozzáadni, vagy ha túl sok, a megvásárolt összeg beállításához válassza a **licencek hozzáadása/eltávolítása engedélyt** .
+Ha további licenceket szeretne hozzáadni, vagy ha túl sok van, válassza a **Licencek hozzáadása/eltávolítása** lehetőséget a megvásárolt összeg módosításához.

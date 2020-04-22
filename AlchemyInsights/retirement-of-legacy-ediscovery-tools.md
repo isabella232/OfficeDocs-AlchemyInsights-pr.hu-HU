@@ -1,5 +1,5 @@
 ---
-title: Az örökölt elektronikus adatfeltárási eszközök nyugdíjba vonulása
+title: Örökölt elektronikus adatfeltárási eszközök kivonása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600373"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43650570"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Az örökölt elektronikus adatfeltárási eszközök nyugdíjba vonulása
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Örökölt elektronikus adatfeltárási eszközök kivonása
 
-A Microsoft 365 Megfelelőségi központ új és továbbfejlesztett elektronikus adatfeltárási funkciójának köszönhetően a következő örökölt elektronikus adatfeltárási eszközök és parancslapok kerülnek kiakövetkező hónapokban:
+A Microsoft 365 Megfelelőségi központ új és továbbfejlesztett elektronikus adatfeltárási funkcióinak köszönhetően az elkövetkező hónapokban a következő örökölt elektronikus adatfeltárási eszközök és parancsmagok lesznek megszüntetve:
 
-- [Helybeni elektronikus adatfeltárás](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) és [helybeni adattraktaaz](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) Exchange felügyeleti központban.
+- [Helyben idétés](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) [helyben iratja](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) az Exchange Felügyeleti központban.
 
-- Az Exchange Online PowerShell-parancsmagok, amelyek támogatják a helybeni elektronikus adatfeltárást és a helybeni adattéseket. (Ezek a parancsmagok együttesen *-MailboxSearch parancsmagokként vannak azonosítva.) Ez a következő parancsmagokat foglalja magában:
+- Az Exchange Online PowerShell-parancsmagjai, amelyek támogatják a helyben i. adatfeltárást és a helyben tárolt helyeket. (Ezek a parancsmagok együttesen *-MailboxSearch parancsmagként vannak azonosítva.) Ez a következő parancsmagokat foglalja magában:
 
-    - [Új postaládakeresés](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Postaláda-keresés indítása](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Postaláda-keresés leállítása](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [Új postaláda-keresés](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Stop-MailboxSearch (Postaláda leállítása)](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Set-MailboxSearch (Set-MailboxSearch)](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- Az Exchange Online PowerShell [keresési postaláda-parancsmagja.](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps)
+- A [Keresési postaláda](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) parancsmag az Exchange Online PowerShellben.
 - Az Exchange Web Services API következő műveletei:
-    - [Kereshető postaládák bekeresése](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [SetHoldOnPostaládák](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [GetHoldOnpostaládák](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+    - [Kereshető postaládák beküldése](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 – speciális elektronikus adatfeltárás 1.0-s út](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Speciális elektronikus adatfeltárási v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**A nyugdíjba vonulás határideje:**
-- 2020. április 1. A Microsoft támogatási szolgálata a továbbiakban nem támogatja az EAC-ben a helyszíni elektronikus adatfeltárást & tart.
+**A nyugdíj idővonala:**
+- 2020. április 1. A Microsoft támogatási szolgálata a továbbiakban nem támogatja a helyben történő elektronikus adatfeltárást & az EAC-ben található visszatartásokat.
 
-- 202 &0. július 1. Ez azt jelenti, hogy csak a meglévő kereséseket és tartókat távolíthatja el.
+- 202 &0. július 1. Ez azt jelenti, hogy csak a meglévő kereséseket és visszatartja.
 
 **További információ:**
 
- - [Örökölt elektronikus adatfeltárási keresések áttelepítése a Microsoft 365 megfelelőségi központjába](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Örökölt elektronikus adatfeltárási eszközök nyugdíjba vonulása](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Gyakran feltett kérdések a helybeni elektronikus adatfeltárásról és a helybeni visszatartjaról](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Régi elektronikus adatfeltárási keresések és -visszatartások áttelepítése a Microsoft 365 megfelelőségi központba](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Az örökölt elektronikus adatfeltárási eszközök kivonása](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Gyakori kérdések a helyben történő elektronikus adatfeltárásról és a helyben történő adatlekérésekről](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 

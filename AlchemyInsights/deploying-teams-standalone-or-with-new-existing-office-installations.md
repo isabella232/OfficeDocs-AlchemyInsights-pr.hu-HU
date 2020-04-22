@@ -1,9 +1,9 @@
 ---
-title: Önálló vagy új vagy meglévő Office-telepítések üzembe helyezése a csapatok
+title: A Teams telepítése önállóként, illetve új vagy meglévő Office-telepítésekkel
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
-ms.date: 08/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: 3318e1b17cc99e927e1011f7ca9eca8dec616d59
-ms.sourcegitcommit: 4600dd4fb577bf5f5482a24616c2d9a6b81e8052
+ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054233"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704635"
 ---
-# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Önálló vagy új vagy meglévő Office-telepítések üzembe helyezése a csapatok
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>A Teams telepítése önállóként, illetve új vagy meglévő Office-telepítésekkel
 
-A Microsoft Teams mostantól ***Új telepítés esetén*** az Office 365 ProPlus, az Office 365 üzleti és az Office részét képező for Mac További tudnivalókért lásd: [Ha Microsoft Teams indul el az Office új telepítések erdőterülethez?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+A Microsoft Teams mostantól a Microsoft 365 nagyvállalati verzióinak, a Microsoft 365 vállalati alkalmazásoknak és a Mac Office-nak ***az új telepítései*** közé tartozik. További információ: [Mikor kezdi el a Microsoft Teams az Office új telepítéseit bevonni?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Ezenkívül verzió 1906 havi csatorna kezdve csapatok lesznek ***hozzáadódik a meglévő létesítmények*** Office 365 ProPlus (és az Office 365 üzleti) fut a Windows legújabb verziójára frissíti a telepített eszközök. További tudnivalókért lásd: [Office meglévő létesítmények mit?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
-
-> [!NOTE]
-> Ha nem szeretne várni a bevezetési ütemterv, telepítheti csapatok gépként a felhasználók [ezeket az utasításokat](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)követve vagy a felhasználók, csoportok telepítése a saját maguk is [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).
-
-Ha a szervezet nem telepíthető a csapatok, a lépések, ***Csapatok*** kizárni az Office [Új](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) vagy [meglévő](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) létesítmények van. Ha azt szeretné, hogy a csapatok telepítve kell lennie, de nem szeretné, hogy a felhasználó számára a telepítés után automatikusan elindul a csapatok, olvassa el [Microsoft csapatok megakadályozása a telepítés után automatikusan elinduljon](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
-
-A ***csoportok eltávolítása*** a Windows operációs rendszert futtató eszköz lásd: [Microsoft csoportok eltávolítása](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Több számítógépek vagy felhasználók karbantartása a Microsoft Teams lásd: [Microsoft csapatok telepítési tisztítása](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
-
-Számítógépek megosztott, távoli asztali szolgáltatások (RDS) vagy virtuális asztali infrastruktúra (VDI) használata, lásd: [megosztott számítógép és a Microsoft csapatok VDI környezetek](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
-
-Office for Mac használata, lásd: [Mac számítógépen Microsoft csapatok létesítmények](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Ezenkívül a Monthly Channel 1906-os verziójától kezdve a Teams hozzáadódik a Microsoft 365 Nagyvállalati (és Microsoft 365 vállalati alkalmazások) ***meglévő telepítéseihez*** a Windows rendszert futtató eszközökön, amikor a meglévő telepítést a legújabb verzióra frissíti. További információ: [Mi a helyzet a meglévő Office-telepítésekkel?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 > [!NOTE]
-> Csapatok telepítése után célszerű [automatikusan frissül](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) körülbelül kéthetente minőségi frissítéseket és új szolgáltatásokat. 
+> Ha nem szeretne megvárni ezt a bevezetési ütemezést, az [alábbi utasításokat](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) követve telepítheti a Teamst önállóként [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)a felhasználók számára, vagy beállíthatja, hogy a felhasználók maguk telepítsék a Teamst a rendszerből.
+
+Ha szervezete nem áll készen a Teams telepítésére, rendelkezünk azokkal a lépésekkel, amelyekkel ***kizárhatja*** a Csapatokat az [Office új](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) vagy [meglévő](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) telepítéseiből. Ha azt szeretné, hogy a Teams telepítve legyen, de nem szeretné, hogy a Teams automatikusan elinduljon a felhasználó számára a telepítés után, olvassa [el a Microsoft Teams automatikus indításának megakadályozása a telepítés után](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)című témakört.
+
+A Teams Windows rendszert futtató eszközről ***történő eltávolításáról*** a [Microsoft Teams eltávolítása](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81)című témakörben találhatók. Ha több célgépről vagy felhasználóról szeretné megtisztítani a Microsoft Teamst, olvassa el a [Microsoft Teams központi telepítésének karbantartása](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+
+Ha megosztott számítógépeket, távoli asztali szolgáltatások (RDS) vagy virtuális asztali infrastruktúrát (VDI) használ, olvassa el [a Megosztott számítógép- és VDI-környezetek microsoft teams-szel című témakört.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)
+
+Ha Mac Office-t használ, olvassa el [a Microsoft Teams maces telepítéseit.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
+
+> [!NOTE]
+> A Teams telepítése után körülbelül kéthetente [automatikusan frissül](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) új funkciókkal és minőségi frissítésekkel. 

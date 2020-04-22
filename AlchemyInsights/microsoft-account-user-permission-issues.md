@@ -1,5 +1,5 @@
 ---
-title: Probléma elhárítása-a felhasználó nem található a címtárban
+title: Hibaelhárítás – A felhasználó nem található a címtárban
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 0f1e427801107109e31486a4d300f53084880caf
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3b863c5e9962dd29ca2ed41d113041d74830f615
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054812"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702740"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Probléma elhárítása-a felhasználó nem található a címtárban
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Hibaelhárítás – A felhasználó nem található a címtárban
 
-Ha használók van kap hiba üzenet "felhasználó vidám ' lenni alapít"-ban címtár, legyen szíves megpróbál újra hol a kérdés típus van felhasználó nem-ban címtár.
+Ha a felhasználók a "felhasználó nem található" hibaüzenetet kapják a címtárban, próbálkozzon újra ott, ahol a probléma típusa nem a címtárban található.
 
-A probléma elhárításához hajtsa végre a következő lépéseket.
+A probléma elhárításához a következő lépések hajthatók végre.
 
-- Ellenőrizze, hogy az e-mail meghívót elfogadó fiók ugyanaz-e, mint a későbbi bejelentkezéshez használt fiók. Győződj meg a felhasználó van használ ugyanaz számla-hoz elfogad a meghív és jel levegőbe telek. 
+- Győződjön meg arról, hogy az e-mail meghívót elfogadó fiók ugyanaz a fiók, amelyet a későbbi bejelentkezéshez használnak. Győződjön meg arról, hogy a felhasználó ugyanazt a fiókot használja a meghívás elfogadásához és a webhelyre való bejelentkezéshez. 
 
-További információért tekintse meg, [hogyan kezelheti a Microsoft-</a> fiókjához tartozó aliasokat az Office 365 bejelentkezési adatainak](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)kezeléséhez. 
+További információ: [A</a> Microsoft 365-ös bejelentkezés isztanevek kezelése.](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases) 
 
-- Tallózzon a felhasználó által a hibát fogadó hely (ek) hez. 
+- Tallózással keresse meg azokat a webhelyeket, amelyekben a felhasználó megkapja a hibát. 
 
-Adja hozzá a "/_layouts/15/People.aspx/membershipgroupid = 0" parancsot (a dupla idézőjelek között) a webhely URL-címének végéhez. 
+Adja hozzá a "/_layouts/15/people.aspx/membershipgroupid=0"-t (a dupla idézőjelek között) a webhely URL-címének végéhez. 
 
-Példa: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Példa: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
-- Válassza ki a felhasználót a listáról.
+- Válassza ki a felhasználót a listából.
 
-- Kattintson a **felhasználói engedélyek eltávolítása** parancsra a menüszalagon. 
--  Adja vissza a felhasználót, és küldje el újra a meghívást a felhasználónak.
+- Kattintson **a Felhasználói engedélyek eltávolítása** a menüszalagról elemre. 
+-  Adja hozzá a felhasználót, és küldje el újra a meghívót a felhasználónak.
 

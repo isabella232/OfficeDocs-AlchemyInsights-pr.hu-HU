@@ -1,8 +1,8 @@
 ---
-title: 'Hibakód: 550 5.7.705 hozzáférés megtagadva, a bérlő túllépte a küszöböt'
+title: 'Hibakód: 550 5.7.705 Hozzáférés megtagadva, a bérlő túllépte a küszöbértéket'
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527221"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702992"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 a hozzáférés megtagadva, a bérlő túllépte a küszöböt
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Hozzáférés megtagadva, a bérlő túllépte a küszöbértéket
 
-Ez az üzenet akkor fordul elő, ha túl sok spam vagy tömeges levelek a szervezet által küldött, és azt helyezze el egy kimenő levelek.
-Gyakori oka helyszíni fertőzött kiszolgálók vagy feltört admin összekötők létrehozásához használt számlák. Bármelyik feltétel lehetővé teheti a levélszemét át a szervezet.
+Ez az üzenet akkor fordul elő, ha a szervezet túl sok levélszemetet vagy tömeges e-mailt küldött, és lezárjuk a kimenő leveleket.
+Gyakori okok a helyszíni kiszolgálók vagy az összekötők létrehozásához használt feltört rendszergazdai fiókok. Mindkét feltétel lehetővé teszi, hogy a levélszemét áthaladjon a szervezeten.
 
-A blokk eltávolításához kell megérteni és magyarázza el az OK, a támogatás munkatársával, valamint javítsa ki a hiba okát.
-Miután elkészült, kattintson a **lépjen kapcsolatba velünk** az alábbi.
+A blokk eltávolításához meg kell értenie és el kell magyaráznia az okát egy támogatási ügynöknek, valamint ki kell javítania az alapul szolgáló problémát.
+Kattintson **a Kapcsolatfelvétel gombra,** ha készen áll.
