@@ -1,5 +1,5 @@
 ---
-title: Problémák az Office alkalmazások a bejelentkezés
+title: Problémák az Office-appokba való bejelentkezéssel kapcsolatban
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 3622a3408b25b43090e9414ae5ffcfc2760264ee
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938238"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763003"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Problémák az Office alkalmazások a bejelentkezés
+# <a name="issues-signing-in-to-office-apps"></a>Problémák az Office-appokba való bejelentkezéssel kapcsolatban
 
-Office-alkalmazások bejelentkezési problémák kijavításához próbálkozzon a következőkkel:
+Az Office-appokkal kapcsolatos bejelentkezési problémák megoldásához próbálkozzon az alábbiakkal:
 
-- Távolítsa el az összes munka-számla, kivéve az érintett fiókot, Windows beállításai > **hozzáférés munkahelyi vagy iskolai**.
-- [Egyértelmű Office hitelesítő adatok](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) Windows hitelesítőadat-kezelővel.<br/>
-    **Megjegyzés:** A beállításjegyzék elérési utak az Office 2016 16,0 történő megváltoztak. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Egy Office alkalmazás megnyitásához válassza a **fájl** > **fiók** > **Kijelentkezés**. Jelentkezzen be egy érvényes licenccel rendelkező felhasználói fiókkal. Részletes információkért lásd: [fiókok hivatalban](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- For Mac lásd: [nem tud bejelentkezni az Office 2016 for Mac alkalmazás](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- Office 365 használatával Office 2013 való csatlakozás során a hibák esetén a modern Office ügyfél-hitelesítés engedélyezése
+- Távolítsa el az összes munkahelyi fiókot, kivéve az érintett fiókot, a Windows beállítások > **Access munkahelyi vagy iskolai**használatával.
+- [Az Office hitelesítő adatainak törlése a](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) Windows hitelesítő adatok kezelőjével<br/>
+    **Megjegyzés:** Az Office 2016 beállításjegyzék-elérési útjai 16.0-ra változtak. (Pl.: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Nyisson meg egy Office-alkalmazást, > és válassza a **Fájlfiók** > **Account****kijelentkezés lehetőséget.** Ezután jelentkezzen be egy érvényes licenccel rendelkező felhasználói fiókkal. További információt a [Fiókok az Office-ban](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9) témakörben talál.
+- Mac használata esetén: [Nem tudok bejelentkezni egy Mac Office 2016 appba](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Ha a hiba a Microsoft 365-höz való Csatlakozás koraz Office 2013-ban fordul elő, engedélyezze a modern hitelesítést az Office-ügyfélszámára.
 
 További információ:
-- [Nem tud bejelentkezni az Office 365, Azure vagy Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [A bejelentkezés után a frissítés Office 2016 kapcsolódási problémák Windows 10 16.0.7967 épül](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Sajnos a szervezet egy másik fiókot van már bejelentkezett a számítógépre" Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [ADFS használatakor Office modern hitelesítés bejelentkezési problémák elhárítása](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+- [Nem tud bejelentkezni a Microsoft 365-be, az Azure-ba vagy az Intune-ba](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+- [Csatlakozási problémák az Office 2016 16.0.7967-es frissítése után a bejelentkezéskor Windows 10-en](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
+- ["Sajnáljuk, a szervezet egy másik fiókja már be van jelentkezve ezen a számítógépen" az Office-ban](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
+- [Az Office modern hitelesítésével kapcsolatos bejelentkezési problémák elhárítása Az ADFS használatakor](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)

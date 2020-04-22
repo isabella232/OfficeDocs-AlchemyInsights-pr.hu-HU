@@ -1,44 +1,44 @@
 ---
-title: Hiányzó munkafolyamat-aktiválás nem sikerült
+title: A hiányzó munkafolyamat ot nem sikerült aktiválni
 ms.author: pebaum
 author: pebaum
-ms.date: 12/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 3df1ddc1059c4cd6cc3f9f42dc157d20be79a63a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2598111005c219c398b63ca374e8e99348efc02c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052615"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762103"
 ---
-# <a name="missing-workflow-failed-to-activate"></a>Hiányzó munkafolyamat-aktiválás nem sikerült
+# <a name="missing-workflow-failed-to-activate"></a>A hiányzó munkafolyamat ot nem sikerült aktiválni
 
-Microsoft SharePoint-webhelycsoportban listához vagy tárhoz nem adhat globálisan újrafelhasználható munkafolyamatot (például "jóváhagyás-SharePoint 2010").
+Microsoft SharePoint-webhelycsoportban nem adhat hozzá globálisan újrafelhasználható munkafolyamatot (például "Jóváhagyás – SharePoint 2010") listához vagy tárhoz.
   
 A probléma megoldásához hajtsa végre az alábbi lépéseket: 
   
-1. Nyissa meg a webhelycsoport gyökérwebhelyét a SharePoint Designer 2013 alkalmazásban.
+1. Nyissa meg a SharePoint Designer 2013 webhelycsoportgyökérwebhelyét.
   
-2. A **Webhelyobjektumok**területen válassza a **munkafolyamatok**témakört. 
+2. A **Webhelyobjektumok csoportban**válassza a **Munkafolyamatok**lehetőséget. 
   
-3. A **munkafolyamat** -szalag **új** szakaszában válassza az **újból felhasználható munkafolyamat**-t. 
+3. A **Munkafolyamatok** menüszalag **Új** szakaszában válassza az **Újrafelhasználható munkafolyamat lehetőséget.** 
   
-4. Az **újrahasználható munkafolyamat létrehozása** űrlapon adja meg a * * *Repair2010* * * nevet. A **Platformtípus**lapon kattintson a **SharePoint 2010 munkafolyamat**elemre, majd kattintson **az OK gombra**. 
+4. Az **Újrafelhasználható munkafolyamat létrehozása** képernyőn adja meg a ** *Repair2010* **nevet. A **Platformtípus csoportban**kattintson a **SharePoint 2010-munkafolyamat**elemre, majd az **OK**gombra. 
   
-1. A **munkafolyamat** -szalag **Mentés** szakaszában válassza a **Közzététel**. 
+1. A **Munkafolyamat** menüszalag **Mentés** szakaszában válassza a **Közzététel**lehetőséget. 
   
-2. A **munkafolyamat** menüszalagjának **kezelés** szakaszában jelölje ki a **globálisan közzéteszi**választógombot. A megerősítést kérő párbeszédpanelen kattintson az **OK gombra**. 
+2. A **Munkafolyamat** menüszalag **Kezelés** szakaszában válassza a **Globális közzététel**lehetőséget. A megjelenő megerősítést kérő párbeszédpanelen válassza az **OK gombot.** 
   
-3. A webböngészőben keresse meg a webhelycsoport gyökérwebhelyét, és kattintson a **webhelybeállítások** \> webhelycsoport- **szolgáltatásainak**elérésére. Majd a **munkafolyamatok** funkció váltása: 
+3. Keresse meg a webböngészőben a webhelycsoport gyökérwebhelyét, majd érje el a **Webhelybeállítások** \> **webhelycsoport szolgáltatásait.** Ezután kapcsolja be a **Munkafolyamatok** funkciót: 
   
-· Ha a szolgáltatás *aktiválva* van, kattintson az **inaktiválás elemre,** majd kattintson az **aktiválás**lehetőségre. 
+· Ha a szolgáltatás *aktiválva* van, kattintson **az Inaktiválás gombra,** majd az **Aktiválás gombra.** 
   
-· Ha a szolgáltatás *inaktív* , kattintson az **aktiválás**gombra. 
+· Ha a szolgáltatás *inaktiválva* van, kattintson az **Aktiválás gombra.** 
   
-További információért olvassa el a következő [cikket](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+További információkért kérjük, olvassa el a következő [cikket](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 

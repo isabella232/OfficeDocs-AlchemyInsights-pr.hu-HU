@@ -1,5 +1,5 @@
 ---
-title: Az Office-alkalmazások rögzítése sajnálom, mi van az ideiglenes kiszolgáló kérdések üzenet
+title: Az Office-alkalmazások javítása Elnézést, ideiglenes kiszolgálói problémák üzenettel kapcsolatosak
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 4b90f843843416408d7f3091325fe436dc3ec9df
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627992"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764119"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Az Office-alkalmazások kijavítása "sajnálom, mi van az ideiglenes szerver kérdések" üzenet
+# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Az Office-alkalmazások javítása "Sajnáljuk, ideiglenes kiszolgálóproblémák vannak" üzenet
 
-Ha ezt az üzenetet kapja, próbálkozzon a következőkkel:
+Ha ez az üzenet jelenik meg, próbálkozzon az alábbiakkal:
 
-1. Ellenőrizze a tűzfalat, a víruskereső szoftvert és a proxybeállításokat, és győződjön meg arról, hogy azok nem akadályozzák az Office alkalmazásokhoz való internet-hozzáférést. Lásd [az Office 365 URL-címeket és IP-címtartományokat](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Ellenőrizze a tűzfalat, a víruskereső szoftvert és a proxybeállításokat, és ellenőrizze, hogy azok nem akadályozzák-e az Office-alkalmazások internet-hozzáférését. Lásd [URL-címek és IP-címtartományok](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Megy **elkezd** > **fuss**, aztán típus **Services. msc**. Ellenőrizze, hogy a következő szolgáltatások futnak-e:
-    - Hálózati csatlakoztatott eszközök automatikus telepítése
-    - Hálózatilista-szolgáltatás
+2. Nyissa meg a**Futtatás** **indítása** > , majd írja be **a services.msc**. Győződjön meg arról, hogy a következő szolgáltatások futnak:
+    - Hálózati csatlakoztatott eszközök automatikus beállítása
+    - Hálózati lista szolgáltatás
     - Hálózati helyfigyelés
-    - Windows eseménynaplójában
+    - Windows eseménynapló
 
-Ha az egyik ilyen szolgáltatás nem fut, próbálja meg elindítani. Ha problémája van a szolgáltatás elindításával, futtassa a következő parancsot egy emelt szintű engedélyekkel rendelkező parancssorablak megnyitásával:
+Ha a szolgáltatások egyike nem fut, próbálja meg elindítani. Ha problémája van a szolgáltatás elindításával, futtassa a következő parancsot egy emelt szintű engedélyekkel rendelkező parancssor megnyitásával:
 
-**sfc vizsgált**
+**sfc /scannow**
 
-A parancs befejeződése után indítsa újra a számítógépet.
+A parancs befejezése után indítsa újra a számítógépet.
 
-Részletes információkért lásd: ["bocsánat, nem tudunk kapcsolódni a fiókjához. Próbálkozzon később, amikor aktiválja az Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+A részletes információt a ["Sajnáljuk, nem tudunk csatlakozni a fiókjához" című témakörben talál. Próbálkozzon később" hibaüzenet jelenik meg az aktiváláskor.](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

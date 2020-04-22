@@ -1,36 +1,36 @@
 ---
-title: Teljesítménnyel kapcsolatos problémák-SharePoint vagy OneDrive
+title: Teljesítménnyel kapcsolatos problémák–SharePoint vagy OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 0b55008cc83b4302801150239926439d8d198ae2
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 9fee9e3c63b9448f63b3dc98d98b3b28e03a7300
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049591"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763147"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Belső kiszolgálóhiba a SharePoint-vagy OneDrive-webhelyekre való navigáláskor
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Belső kiszolgálóhiba a SharePoint- vagy OneDrive-webhelyekre való navigáláskor
 
-Használók május kap egy 500 belső szolgál hiba mikor kísérlet-hoz hajózik-hoz SharePoint vagy OneDrive telek. 
+A felhasználók 500 belső kiszolgálói hibaüzenetet kaphatnak, amikor sharepoint- vagy OneDrive-webhelyekre próbálnak navigálni. 
 
-Kérjük, mielőtt a webhelyre navigálnál, próbálja meg törölni a böngésző gyorsítótárát.
+Mielőtt a webhelyre navigálna, próbálja meg törölni a böngésző gyorsítótárát.
 
 
-1. A Microsoft Edge böngészőben lépjen tovább... > beállítások
+1. A Microsoft Edge böngészőben lépjen a More... > Settings (Beállítások >
 
-2. A böngészési adatok törlése csoportban válassza ki **a törölni kívánt**
+2. A Böngészési adatok törlése csoportban válassza **a Törölni kívánt adatok kiválasztása lehetőséget.**
 
-3. Jelölje be a cookie-k és a mentett webhelyadatok jelölőnégyzetet, és válassza a **Törlés**.
+3. Jelölje be a Cookie-k és a mentett webhelyadatok jelölőnégyzetet, és jelölje **be a Törlés**lehetőséget.
 
-Megjegyzés: ezek a lépések eltérhetnek más böngészők, például a Firefox vagy a Chrome használata esetén.
+Megjegyzés: Ezek a lépések eltérőek lehetnek más böngészők, például a Firefox vagy a Chrome használata esetén.
 
-Ha ez nem oldja meg a problémát, ellenőrizheti, hogy van-e aktív karbantartás a bérlőnél az [Üzenetközpontba](https://portal.office.com/adminportal/home#/MessageCenter)való navigálással.
+Ha ez nem oldja meg a problémát, ellenőrizheti, hogy a bérlőn aktív karbantartás történik-e, ha az [Üzenetközpontra](https://portal.office.com/adminportal/home#/MessageCenter)navigál.
 
-Végül, biztosít ön látogat a [szolgáltatás egészség](https://portal.office.com/adminportal/home#/servicehealth) oldal-hoz ellenőriz részére akármi figyelmeztetéseket/eset amit május előfordul.
+Végül győződjön meg róla, hogy látogasson el a [Service Health](https://portal.office.com/adminportal/home#/servicehealth) oldalra, hogy ellenőrizze az esetlegesen előforduló tanácsokat/incidenseket.
 

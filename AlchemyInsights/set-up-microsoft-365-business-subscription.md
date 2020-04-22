@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: 1e0df466fc8234af8e4de17201065a85594f5ed2
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: e631beacddb6829eb226e889b67439118ffb2a05
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218209"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764479"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>A Microsoft 365 Vállalati verzióra szóló előfizetés beállítása
 
@@ -30,4 +30,4 @@ Ha lépésről lépésre haladó útmutatót szeretne látni a műveletről, tek
 
 - [Office-alkalmazások telepítése](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications?view=o365-worldwide)
 
-Ha további oktatást szeretne kapni, [végezze el a kisvállalatoknak és a Microsoft 365 új felhasználóinak készült teljes sorozatot](https://support.office.com/article/set-up-your-small-business-6ab4bbcd-79cf-4000-a0bd-d42ce4d12816?ui=en-US&rs=en-US&ad=US).
+Ha további oktatást szeretne kapni, [végezze el a kisvállalatoknak és a Microsoft 365 új felhasználóinak készült teljes sorozatot](https://support.office.com/article/set-up-your-small-business-6ab4bbcd-79cf-4000-a0bd-d42ce4d12816).

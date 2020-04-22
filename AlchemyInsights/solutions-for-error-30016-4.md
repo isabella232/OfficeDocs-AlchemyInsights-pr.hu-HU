@@ -1,9 +1,9 @@
 ---
-title: A 4-30016 megoldások
+title: Megoldások a 30016-4-es hiba megoldásaihoz
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/11/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: d6190c1686389f8c77ad5fea587212cc2700e9d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa9dfb5916768863004b5533fd8148e0ec478e24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501945"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757023"
 ---
-# <a name="solutions-for-error-30016-4"></a>A 4-30016 megoldások
+# <a name="solutions-for-error-30016-4"></a>Megoldások a 30016-4-es hiba megoldásaihoz
 
-Office 365 ProPlus eltávolítása a számítógépről, és a hibaüzenet jelenik meg, **Mi okozta a rossz 30016-4**, akkor a **% temp %** betűjel nem a **% ProgramFiles %** meghajtóra.
+Amikor megpróbálja eltávolítani a Microsoft 365 Apps for Enterprise-t a számítógépről, és a hibaüzenet et kapja, **hogy valami elromlott a 30016-4,** az azt jelenti, hogy a **%temp%** meghajtó a **%ProgramFiles%**-tól eltérő meghajtóra van leképezve.
   
-Megoldása érdekében töltse le és telepítse, a [támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+A javításhoz, a támogatási és helyreállítási segéd letöltéséhez [és telepítéséhez](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Megnyitása után az **Office eltávolítása termékek** jelölje ki a verziót szeretné eltávolítani, és kattintson a **Tovább gombra**.
+1. Amikor megnyílik, az **Office-termékek eltávolítása** területen válassza ki az eltávolítani kívánt verziót, és válassza a **Tovább**gombot.
 
-2. Továbbra is a képernyőn keresztül, és indítsa újra a számítógépet, amikor a rendszer kéri.
+2. Folytassa a képernyőkön végighaladva, és amikor a rendszer kéri, indítsa újra a számítógépet.
 
-    Újraindítás után a támogatási és helyreállítási segéd automatikusan újra megnyitja az eltávolítási folyamat befejezéséhez.
+    Az újraindítás után a támogatási és helyreállítási segéd automatikusan újra megnyílik az eltávolítási folyamat befejezéséhez.
 
-3. Kövesse a további utasításokat, és [telepítse újra az Office](https://portal.office.com/OLS/MySoftware.aspx) , vagy zárja be a Segéd.
+3. Kövesse a fennmaradó utasításokat, majd telepítse újra az [Office-t,](https://portal.office.com/OLS/MySoftware.aspx) vagy zárja be a segédet.

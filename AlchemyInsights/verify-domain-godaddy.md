@@ -1,5 +1,5 @@
 ---
-title: Tartomány ellenőrzése a GoDaddy segítségével
+title: A tartomány igazolása a GoDaddy segítségével
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 21bfa44d5b4a1c851207be6d5c983f77690ac406
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 3effadb7fcd509c557beffccafc2ba3394bac88f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326211"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766279"
 ---
-# <a name="verify-your-domain-with-godaddy"></a>Tartomány ellenőrzése a GoDaddy segítségével
+# <a name="verify-your-domain-with-godaddy"></a>A tartomány igazolása a GoDaddy segítségével
 
-A tartomány ellenőrzéséhez txt rekordot kell hozzáadnia a tartományregisztrálóhoz, hogy ellenőrizze, hogy ön a tartomány tulajdonosa-e. 
+A tartomány igazolásához txt rekordot kell hozzáadnia a tartományregisztrálóhoz, hogy meggyőződjön arról, hogy Ön a tartomány tulajdonosa. 
 
-Először kövesse a [Tartomány hozzáadása varázslót](https://portal.office.com/adminportal/home#/Domains) a **Beállítások** \> **tartományok**, majd a **Tartomány hozzáadása**gombra kattintva.
+Először válassza a [Tartomány hozzáadása varázslót](https://portal.office.com/adminportal/home#/Domains) a **Beállítások** \> **tartományok**, majd a Tartomány **hozzáadása parancsra**kattintva.
   
-A részletes útmutatásért olvassa el [a DNS-rekordok létrehozása az Office 365-hez készült GoDaddyben](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) című témakört.
+A [DNS-rekordok létrehozása a Microsoft 365-ös verzióhoz](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) című témakörben részletes útmutatást talál a DNS-rekordok létrehozása a Microsoft 365-ben című témakörben.

@@ -1,9 +1,9 @@
 ---
-title: Az Outlook nem a mappák szinkronizálása
+title: Az Outlook nem szinkronizálja a mappákat
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557324"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768691"
 ---
-# <a name="outlook-not-synching-folders"></a>Az Outlook nem a mappák szinkronizálása
+# <a name="outlook-not-synching-folders"></a>Az Outlook nem szinkronizálja a mappákat
 
-Ha az Outlook nem megfelelően mappák szinkronizálása, néhány dolgot próbálja meg azt megoldani.
+Ha az Outlook nem a várt módon szinkronizálja a mappákat, néhány dolgot megpróbálhatja kijavítani.
 
-1. A postaláda elsődleges vagy megosztott mappák számának csökkentése. [Ha túl sok elemek és mappák a gyorsítótárba helyezett üzemmód .ost vagy .pst fájl mappa megtekintéséhez az Outlook teljesítménnyel kapcsolatos problémák](https://support.microsoft.com/help/2768656).
-2. Az összes megosztott mappa gyorsítótárazásának tiltása.
-3. A másodlagos Exchange-postafiók beállításait át egy másik Exchange-fiókot a profilban.
+1. Csökkentse az elsődleges vagy megosztott postaládában lévő mappák számát. [Lásd: Az Outlook teljesítményével kapcsolatos problémák, ha túl sok elem vagy mappa van gyorsítótáras módban .ost vagy .pst fájlmappában.](https://support.microsoft.com/help/2768656)
+2. Az összes megosztott mappa gyorsítótárazásának letiltása.
+3. Módosítsa a másodlagos Exchange-postaláda konfigurációját egy második Exchange-fiókra a profiljában.
 
-További tudnivalókért tanulmányozza a [másodlagos alapú postafiókban, az Outlook mappákkal dolgozunk teljesítmény és szinkronizálási problémák](https://support.microsoft.com/help/3115602).
+További információt a [Teljesítmény- és szinkronizálási problémák, amikor az Outlook másodlagos postaládájában lévő mappákkal dolgozik.](https://support.microsoft.com/help/3115602)

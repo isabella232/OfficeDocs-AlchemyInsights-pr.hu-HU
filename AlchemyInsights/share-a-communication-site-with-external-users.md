@@ -1,32 +1,32 @@
 ---
-title: Kommunikációs webhely megosztása külső felhasználókkal
+title: Kommunikációs hely megosztása külső felhasználókkal
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 393ee0bb9c5ac01f2d948b1a772c7b9915caed87
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054163"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767503"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Kommunikációs webhely megosztása külső felhasználókkal
+# <a name="share-a-communication-site-with-external-users"></a>Kommunikációs hely megosztása külső felhasználókkal
 
-Az alábbi lépésekkel kapcsolhatja be a külső felhasználók megosztását a kommunikációs webhelyekhez: 
+A külső felhasználómegosztás kommunikációs webhelyeken történő bekapcsolásához kövesse az alábbi lépéseket: 
   
-1. A **modern Admin Center** megnyitása-Ha youâ €™ re-ban klasszikus admin központ youll ' lát egy **megpróbál ez most** vagy * * megpróbál a Sajtóbemutató * * gomb fentről jobb. Ez elviszi a modern Admin Center. 
+1. A **Modern Felügyeleti központ** megnyitása – Ha a klasszikus Felügyeleti központban vagy a **Try it now** vagy a ** Try the Preview ** (A jobb felső sarokban található verzióból * * gombot) fogja látni. Ez elviszi a Modern Admin Center. 
   
-2. Válassza ki az **aktív webhelyeket.**
+2. Válassza **az Aktív helyek lehetőséget.**
   
-3. Jelöljön ki egy olyan webhelyet, amelynek van **kommunikációs webhelysablonja**. 
+3. Válassza ki a **kommunikációs webhely sablont tartalmazó webhelyet.** 
   
-4. Válassza a **megosztás** képernyőgombot a felső menüből. 
+4. Válassza a **megosztás** gombot a felső menüből. 
   
- **Megjegyzés:** Ha egynél több webhely van kijelölve, a **megosztás** gomb le lesz tiltva. Csak egy webhelyet jelöljön ki. 
+ **Megjegyzés:** Ha egynél több webhely van kijelölve, a **Megosztás** gomb letiltva jelenik meg. Csak egy webhelyet jelöljön ki. 
   
 

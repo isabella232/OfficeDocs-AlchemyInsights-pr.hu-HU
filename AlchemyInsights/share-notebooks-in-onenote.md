@@ -1,9 +1,9 @@
 ---
-title: A web vagy a OneNote 2016 hogyan megosztás jegyzetfüzetek a OneNote programban
+title: Jegyzetfüzetek megosztása a Webes OneNote-ban vagy a OneNote 2016-ban
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 4648aa6e072e20fb5914e91faf25c2011d8aa6b5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 557e9f7736ac075a8f2619e6c11f115c9fca58e6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549293"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767431"
 ---
-# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>A OneNote jegyzetfüzet megosztása a weben vagy a OneNote 2016
+# <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>Jegyzetfüzetek megosztása a Webes OneNote-ban vagy a OneNote 2016-ban
 
-A OneNote programban webes megoszthatja feljegyzések vagy meghívott másoknak megtekintése és módosítása a jegyzetfüzetbe, vagy tudomásul veszi, hogy az e-mail, blog vagy weblapok is beilleszthet egy oldalnyi csatolást hoz létre. További tudnivalókért tanulmányozza [A OneNote használatát a webes feljegyzések másokkal megosztani](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
+A Webes OneNote-ban megoszthatja jegyzeteit, ha másokat is megkér a jegyzetfüzet megtekintésére és módosítására, vagy létrehozhat egy hivatkozást egy e-mailbe, blogba vagy weblapba beilleszthető jegyzetlapra. További információ: [A OneNote használata az interneten jegyzetek megosztásához másokkal](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
 
-A OneNote 2016 győződjön meg arról, a OneNote 2016 jegyzetfüzet van a OneDrive, így mások is hozzá. Megosztásához felkérése a levelek, vagy megosztási hivatkozás beolvasása. További információt talál [a OneNote 2016 másokkal a Windows Jegyzetfüzet megosztása](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)
+A OneNote 2016-ban győződjön meg arról, hogy OneNote 2016-jegyzetfüzete a OneDrive-on van, hogy mások is hozzájussanak. Megosztáshoz meghívhat személyeket e-mailben, vagy kaphat egy megosztási hivatkozást. További információt a [Windows OneNote 2016-jegyzetfüzet megosztása másokkal című témakörben talál.](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)

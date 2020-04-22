@@ -1,21 +1,21 @@
 ---
-title: Létesítési problémák a OneDrive és SharePoint
+title: Kiépítési problémák a OneDrive-on és a SharePointban
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: 5a34fe8821f4f0f314c43b58782cac4546faceac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d3eda12d4fff625325cc55251444b489459f09fa
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054343"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767935"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Létesítési problémák a OneDrive és SharePoint
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Kiépítési problémák a OneDrive-on és a SharePointban
 
-Mikor egy felhasználó van hozzáadott-hoz egy létező Hivatal 365 bérlő, ők május lát a SharePoint Online vagy OneDrive részére teendő ikonok listázott mint "elintézés megjelöl" amíg a kiépítési folyamat van befejezett. Részére újonnan teremtett számlák, használók szükség-hoz jel-ban-hoz Mikroszkóp 365 admin központ-val-uk saját számla, aztán kettyenés OneDrive-hoz kézi elkezd a ellátás-ból OneDrive telek.
+Ha egy felhasználót hozzáadegy meglévő bérlőhöz, a SharePoint Online- vagy a OneDrive Vállalati verzió ikonja "Beállítás" néven jelenik meg, amíg a létesítési folyamat be nem fejeződik. Újonnan létrehozott fiókok esetén a felhasználóknak saját fiókkal kell bejelentkezniük a Microsoft 365 Felügyeleti központba, majd a OneDrive gombra kattintva manuálisan el kell indítaniuk a OneDrive-webhely üzembe szolgáltatását.
   
-Ha több mint 24 óra telt el mióta először meglátta ezt a problémát, kérjük, jelentkezzen be a támogatási ügyben. Sok esetben már dolgozunk a megoldásban. Kérjük, hogy a megoldás befejezéséhez legalább 24 órát adjon nekünk.
+Ha több mint 24 óra telt el azóta, hogy először látta ezt a problémát, kérjük, jelentkezzen be egy támogatási esetet. Sok esetben már dolgozunk a megoldáson. Kérjük, adjon nekünk legalább 24 órát a megoldás befejezéséhez.
   

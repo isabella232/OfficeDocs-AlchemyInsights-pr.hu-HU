@@ -1,37 +1,37 @@
 ---
-title: A O365 Business Essentials előfizetés beállítása
+title: Az O365 Business Essentials-előfizetés beállítása
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744715"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767791"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>A O365 Business Essentials előfizetés beállítása
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>Az O365 Business Essentials-előfizetés beállítása
 
-Teremt Hivatal 365 számlák és összead-a birtok
+Microsoft 365-fiókok létrehozása és tartomány hozzáadása
   
-- Ebben a lépésben létre kell hoznia a felhasználók Office 365-ös fiókjait a beállítási varázslóval, és hozzá kell adnia a saját tartományát. A varázsló segítségével személyre szabhatja mindenki felhasználói AZONOSÍTÓJÁT és e-mail címét, mint a [Rob@contoso.com](mailto:rob@contoso.com).
+- Ebben a lépésben a Telepítő varázslóval microsoft 365-fiókokat hozhat létre a felhasználók számára, és hozzáadhatja saját tartományát. A varázsló lehetővé teszi, hogy személyre szabja mindenki felhasználói azonosítóját és e-mail címét a vállalkozásszámára, például [rob@contoso.com.](mailto:rob@contoso.com)
     
-- Látogasson el a [Microsoft 365 admin Centerbe](https://login.partner.microsoftonline.cn/).
+- Nyissa meg a [Microsoft 365 felügyeleti központját.](https://login.partner.microsoftonline.cn/)
     
-- A varázsló indításához válassza az **Ugrás a beállításra** lehetőséget. További információ: [tartomány hozzáadása az Office 365-](https://docs.microsoft.com/office365/admin/setup/add-domain)hez.
+- A varázsló indításához válassza az **Ugrás a beállításra** lehetőséget. További információ: [Tartomány hozzáadása a Microsoft 365-höz](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
 Levelek importálása
   
-- Helyezze át a meglévő e-mail és a kapcsolatok más e-mail rendszerek az Office 365 postafiókot, így láthatja, hogy minden egy helyen. Az áttelepítési beállításokhoz [áttelepítheti az e-maileket és a névjegyeket az Office 365 szolgáltatásba](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Helyezze át meglévő e-mailjeit és névjegyeit más levelezőrendszerekből a Microsoft 365 postaládájába, hogy mindezt egy helyen láthassa. Az áttelepítési beállításokhoz [telepítse át a levelezést és a névjegyeket a Microsoft 365-be.](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)
     
-- Összeköt elektronikus levél számlák
+- E-mail fiókok összekapcsolása
     
-  - Az Office 365-ös e-mailek Outlookban történő kezelése mellett más e-mail-fiókokat, többek között Gmail- és Yahoo-fiókokat is csatlakoztathat az Outlookhoz. Ez lehetővé teszi, hogy az összes e-mailt egyetlen helyen kezelje. Akár 5 e-mail-fiókot is csatlakoztathat az Outlookhoz. További részletekért lásd az [Outlook-fiókok csatlakoztatása az interneten (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) című témakört. 
+  - Az E-mailek Outlookban való kezelése mellett más e-mail fiókokat is csatlakoztathat az Outlookhoz, például gmailes és Yahoo-fiókjait is. Ez lehetővé teszi, hogy az összes e-mailt egyetlen helyen kezelje. Akár 5 e-mail-fiókot is csatlakoztathat az Outlookhoz. További információt az [E-mail fiókok csatlakoztatása a Webes Outlookban (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) című témakörben talál. 
     
 A Skype Vállalati verzió telepítése
   
@@ -39,8 +39,8 @@ A Skype Vállalati verzió telepítése
     
 Fájlok tárolása online
   
-- Ha meg szeretné tudni, hogy mely tárolóhelyek a legmegfelelőbb az Ön vállalkozása számára, akkor tekintse meg, [hol tárolhatja fájljait az Office 365-ben](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Az **-fiókok létrehozásakor minden felhasználó automatikusan kap** OneDriveOffice 365-felhőtárhelyet. A OneDrive segítségével elérhetik a fájlokat számítógépről, telefonról és táblagépről is. 
+- Ha meg szeretné tudni, hogy mely tárolási helyek a legmegfelelőbbek a vállalkozása számára, olvassa el a Fájlok tárolása a [Microsoft 365-ben ( Hol tárolhatja a fájlokat)](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)részt. Mindenki automatikusan megkapja a **OneDrive** felhőalapú tárterület-helyét, amikor Microsoft 365-fiókokat hoz létre számukra. A OneDrive segítségével elérhetik a fájlokat számítógépről, telefonról és táblagépről is. 
     
-A telepítés részletes lépései [ebben a cikkben](https://docs.microsoft.com/office365/admin/setup/setup)találhatók.
+A beállítás részletes lépései ebben a [cikkben](https://docs.microsoft.com/office365/admin/setup/setup)találhatók.
   
 

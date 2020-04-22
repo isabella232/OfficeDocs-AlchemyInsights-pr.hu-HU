@@ -1,9 +1,9 @@
 ---
-title: Intune bennfentes bug bejelentés
+title: Intune Insider hibabejelentés
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: beca7f1b13492997c3c0568f77afee308635e5cb
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663573"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765955"
 ---
-# <a name="intune-insider-bug-filing"></a>Intune bennfentes bug bejelentés
+# <a name="intune-insider-bug-filing"></a>Intune Insider hibabejelentés
 
-Köszönjük, hogy érdeklődést a Intune bennfentesek program. Ha-a ' már onboarded részére a Intune bennfentesek műsor, és szükség-hoz reszelő egy támogat kereslet, akkor:
+Köszönjük érdeklődését az Intune Insiders program iránt. Ha már be van táblázva az Intune Insiders programhoz, és támogatási kérelmet kell benyújtania, akkor:
 
-1. Írja le a problémát a fenti mezőbe.
-2. Hozzon létre egy új szolgáltatáskérelmet az alábbi lehetőségek használatával.
+1. Írja le a problémát a fenti mezőben.
+2. Hozzon létre egy új szolgáltatáskérelmet az alábbi beállításokkal.
 
-Az Intune ügyfélszolgálati mérnök Önnel is kapcsolatba fog lépni.
+Az Intune egyik támogatási mérnöke felveszi Önnel a kapcsolatot.
 
-Ha-a ' nem-ban Intune bennfentesek műsor, Köszönöm érdeklődését. Jelenleg nem toboroznak új résztvevőket.
+Ha nem az Intune Insiders programjában van, köszönjük érdeklődését. Jelenleg nem toborozunk új résztvevőket.

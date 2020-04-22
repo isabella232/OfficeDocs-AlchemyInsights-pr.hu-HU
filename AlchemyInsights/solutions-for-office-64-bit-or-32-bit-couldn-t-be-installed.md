@@ -1,9 +1,9 @@
 ---
-title: Megoldások "Office (64 bites vagy 32 bites) nem telepíthető.
+title: Az "Office (64 vagy 32 bites) megoldások nem telepíthetők
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: e32916d40a2cfebf71440573e5d35439ded26b5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cff7315b2a8967d99941c56ce0c62d025172895a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501213"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764191"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Megoldások az "Office (64 bites vagy 32 bites) nem telepíthető
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>Az "Office (64 vagy 32 bites) megoldások nem telepíthetők
 
-Az "Office (64 bites vagy 32 bites) nem telepíthető" hibát az okozza, hogy az Office 64 bites és 32 bites verziói nem lehet keverni.
+Az "Office (64 bites vagy 32 bites) hiba azért fordul elő, mert az Office 64 bites és 32 bites verziói nem keverhetők.
   
-Javítsa ki a hibát, és váltson a 32 bites, 64 bites hajtsa végre a következő sorrendben a következő.
+A hiba kijavításához és a 32 bitesről a 64 bitesre való váltáshoz a következőket kell tennie ebben a sorrendben.
   
-1. Töltse le és telepítse a [támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+1. Töltse le és telepítse a [Támogatási és helyreállítási segédet](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Megnyitása után az **Office eltávolítása termékek** jelölje ki a verziót szeretné eltávolítani, és kattintson a **Tovább gombra**.
+1. Amikor megnyílik, az **Office-termékek eltávolítása** területen válassza ki az eltávolítani kívánt verziót, és válassza a **Tovább**gombot.
 
-2. Továbbra is a képernyőn keresztül, és indítsa újra a számítógépet, amikor a rendszer kéri.
+2. Folytassa a képernyőkön végighaladva, és amikor a rendszer kéri, indítsa újra a számítógépet.
 
-    Újraindítás után a támogatási és helyreállítási segéd automatikusan újra megnyitja az eltávolítási folyamat befejezéséhez.
+    Az újraindítás után a támogatási és helyreállítási segéd automatikusan újra megnyílik az eltávolítási folyamat befejezéséhez.
 
-3. Kövesse a további utasításokat, és a megfelelő 32 bites vagy 64 bites verziójú [Office újratelepítése](https://portal.office.com/OLS/MySoftware.aspx) .
+3. Kövesse a fennmaradó utasításokat, és telepítse újra az [Office-t](https://portal.office.com/OLS/MySoftware.aspx) a megfelelő 32 vagy 64 bites verzióval.
 
-    Kövesse az [Office telepítése-PC](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
+    Az Office [telepítése PC-re](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA) című témakör lépéseinek követése
 
-További információért lásd az ["Office (64 bites vagy 32 bites) nem telepíthető" hiba telepítése közben](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
+További információt a telepítés során az ["Office (64 bites vagy 32 bites) nem telepíthető" hibaüzenet ben talál.](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
   

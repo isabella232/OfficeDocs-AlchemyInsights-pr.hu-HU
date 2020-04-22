@@ -1,5 +1,5 @@
 ---
-title: Jelentések az Outlook webes Outlookban való kézbesítését követően
+title: Nem kézbesítési jelentések a Webes Outlookban
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 2741f309a786ad04801ba2dd7a5b75cb30697b75
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e103af4765c658bdd2650dd51ead7191a8f587e9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768658"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768547"
 ---
-# <a name="issues-with-email-delivery"></a>Kérdések az e-mail kézbesítést
+# <a name="issues-with-email-delivery"></a>Az e-mailek kézbesítésével kapcsolatos problémák
 
-Mikor ott ' egy probléma szállít egy elektronikus levél üzenet Ön küldött, Hivatal 365 küld egy elektronikus levél-hoz enged Ön tud. A kapott e-mail a kézbesítési állapot értesítés, más néven DSN vagy visszafordulási üzenet. A leggyakoribb típus a kézbesítés sikertelenségéről tájékoztató jelentés (NDR), amely közli, hogy az üzenetet nem kézbesíti a rendszer. Nem szállítás okozhatja valami olyan egyszerű, mint a sajtóhiba egy e-mail címet. A kézbesíthetetlenségi jelentések tartalmaznak egy hibakódot, amely azt jelzi, hogy miért nem lett kézbesítve az e-mailek, megoldásokat kínál az Ön e-mail kézbesített címére, egy hivatkozásra a weben történő további segítségért, valamint a rendszergazdák technikai részleteiről.
+Ha probléma merül fel az Ön által küldött e-mail kézbesítése miatt, a Microsoft 365 e-mailt küld, hogy erről értesítést küldjön. A kapott e-mail egy kézbesítési állapotértesítés, más néven dsn vagy visszapattanó üzenet. A leggyakoribb típus neve sikertelen kézbesítésről szóló jelentés (NDR), amely jelzi, hogy az üzenet nem kézbesítve lett. A kézbesítés elmaradást okozhatja egy olyan egyszerű dolog, mint egy elírás egy e-mail címben. A jelentésekkel egy hibakód is szerepel, amely jelzi, hogy miért nem kézbesítették az e-maileket, megoldásokat az e-mailek kézbesítéséhez, egy hivatkozást az interneten nyújtott további segítségre, valamint technikai részleteket a rendszergazdák számára.
 
-A kézbesíthetetlenségi jelentések listájának megtekintéséhez és a kézbesítés sikertelenségéről tájékoztató üzenet jelenik [meg az Exchange Online e-mail kézbesítést nem tartalmazó jelentéseiben](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Ha meg szeretné tekinteni a nem kézbesítésről szóló jelentések listáját, és megtudhatja, hogy miért nem kézbesítették az üzenetet, olvassa el [a Kézbesítésről szóló kézbesítésről szóló jelentések küldése e-mailben](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)való elküldése az Exchange Online-ban.

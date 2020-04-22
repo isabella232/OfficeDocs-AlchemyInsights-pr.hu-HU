@@ -1,9 +1,9 @@
 ---
-title: Az Office 365 Minecraft Edition oktatás ingyenes
+title: Minecraft Edition ingyenes Office 365 Oktatási verzióval
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 11/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: e4e88f315b94e4b1318fada8abde8413233c41a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389650"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762067"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Az Office 365 Minecraft Edition oktatás ingyenes
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition ingyenes Office 365 Oktatási verzióval
 
-[Az Office 365 Minecraft Edition oktatás ingyenes](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Edition ingyenes Office 365 Oktatási verzióval](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: oktatás Edition** szükséges Windows 10
+- **A Minecraft: Education Edition** használatához Windows 10 szükséges
 
-- Kísérletek vagy az előfizetések **Minecraft: oktatás Edition** felkínált oktatás bérlők Azure Active Directory (Azure AD) által kezelt
+- A **Minecraft: Education Edition** próbaverzióit vagy előfizetéseit az Azure Active Directory (Azure AD) által felügyelt oktatási bérlők kínálják
 
-  - Ha az iskola nem rendelkezik egy Azure AD bérlői, az [Informatikai rendszergazda beállíthat egy](https://docs.microsoft.com/education/windows/school-get-minecraft) folyamatának részeként **Minecraft: oktatás Edition**.
+  - Ha az iskolája nem rendelkezik Azure AD-bérlővel, a rendszergazda a **Minecraft: Education Edition**beszerzése folyamatának részeként [beállíthat egyet.](https://docs.microsoft.com/education/windows/school-get-minecraft)
 
-  - Office 365 oktatást, amely tartalmazza az Office alkalmazások plusz 1 TB online tárolási online változatának felszabadul a tanárok és diákok számára. [Iratkozzon fel az Office 365 oktatási iskolája](https://products.office.com/academic/office-365-education-plan).
+  - Az Office 365 Oktatási verzió, amely az Office-alkalmazások online verzióit és az 1 TB-os online tárhelyet tartalmazza, tanárok és diákok számára ingyenes. [Regisztrálja iskoláját az Office 365 Oktatási verzióra.](https://products.office.com/academic/office-365-education-plan)
 
-  - Ha az iskola rendelkezik az Office 365 oktatási előfizetéssel, tartalmaz egy ingyenes előfizetés Azure AD. [Jegyzék a szabad Azure hirdetés előfizetés](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Ha iskolája rendelkezik Office 365 Oktatási-előfizetéssel, ingyenes Azure AD-előfizetést is tartalmaz. [Regisztrálja ingyenes Azure AD-előfizetését.](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
 
-[Megtudhatja, hogyan tanárok beszerzése és elosztása a Minecraft: oktatás Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Ismerje meg, hogyan szerezhetik be és terjeszthetik a tanárok a Minecraft: Education Edition kiadást.](https://docs.microsoft.com/education/windows/teacher-get-minecraft)
   
-[Információ rendszergazdák hogyan get és terjesztése a Minecraft: oktatás Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), és a Minecraft engedélyeinek kezelése.
+[Megtudhatja, hogy a rendszergazdák hogyan szerezhetik be és terjeszthetik](https://docs.microsoft.com/education/windows/school-get-minecraft)a Minecraft: Education Edition játékot, és hogyan kezelhetik a Minecraft engedélyeit.

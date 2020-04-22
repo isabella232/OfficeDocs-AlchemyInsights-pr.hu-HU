@@ -3,7 +3,7 @@ title: Outlook.com AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 4f0eb41b63d7654ea793952c7d7eac6e16856310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a2755867c118f4ced86add738e8de11c7364d25a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538274"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761062"
 ---
-# <a name="adblock"></a>AdBlock
+# <a name="adblock"></a>Adblock
 
-Egyes felhasználók jelenleg tapasztalt problémák olvasásakor és írásakor jelenik e-mail, a AdBlock kiterjesztés a Google Chrome használata esetén. A probléma megoldása:
+Egyes felhasználók jelenleg problémákat tapasztalnak az e-mailek olvasása kor vagy az e-mailek írásakor, amikor a Google Chrome-ot az AdBlock kiterjesztéssel használják. A probléma kerülő megoldása:
 
-1. Használja a [Microsoft él](https://www.microsoft.com/windows/microsoft-edge) vagy más webböngésző.
-1. Outlook.com kizárása a AdBlock beállításokat.Google Chrome jobb felső sarkában válassza ki a **AdBlock** , és válassza a **ne futtassa a tartomány oldalakon**.Frissítse a böngészőt Outlook.com újra betölteni.
+1. Használja a [Microsoft Edge-et](https://www.microsoft.com/windows/microsoft-edge) vagy egy másik webböngészőt.
+1. Zárja ki Outlook.com az AdBlock beállításaiból.A Google Chrome jobb felső sarkában válassza az **AdBlock** lehetőséget, majd a **Ne fusson a tartomány oldalain**.Frissítse a böngészőt, hogy újra betöltse Outlook.com.

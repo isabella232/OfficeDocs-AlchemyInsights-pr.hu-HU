@@ -1,29 +1,29 @@
 ---
-title: Office 365 speciális veszély védelmi (ATP) telepítése
+title: Az Office 365 Komplex veszélyforrások elleni védelem (ATP) beállítása
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 8dde7236bdee2bd0b83087282ff32b32af8bae30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dfd6e900bc364699c7c19bda795408d87ccb4333
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419910"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761672"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 speciális veszély védelmi (ATP)
+# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 komplex veszélyforrások elleni védelem (ATP)
 
-Office 365 ATP [Biztonságos mellékletek](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Biztonságos kapcsolatok](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [Speciális Anti-Phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)és többet tartalmaz. 
+Az Office 365 ATP [tartalmaz biztonságos mellékleteket,](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments)biztonságos [hivatkozásokat,](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links)speciális [adathalászat elleni védelmet](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)és egyebeket. 
 
-Ígérethez rendelkezésre álló előfizetések, például az Office 365 vállalati E5, az Office 365 oktatási A5 és Microsoft 365 üzleti szerepel. Ha előfizetése nem tartalmazza az Ígérethez rendelkezésre áll, mint egy bővítmény potenciálisan vásárolhat ATP. További [Office 365 ATP szolgáltatás ismertetése](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)című témakörben talál.
+Az ATP az előfizetések részét képezi, például az Office 365 Nagyvállalati E5 csomag, az Office 365 Education A5 és a Microsoft 365 Vállalati Prémium verzió. Ha előfizetése nem tartalmazza az ATP-t, potenciálisan vásárolhat ATP-t bővítményként. További információ: [Office 365 ATP-szolgáltatás leírása.](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
-## <a name="set-up-office-365-atp"></a>Állítsa be az Office 365 ATP
+## <a name="set-up-office-365-atp"></a>Az Office 365 ATP beállítása
 
-ATP védelem legyen érvényben konfigurálnia kell a házirendeket. Lásd a [az első lépések: beállítása az Office 365 speciális veszély védelmi](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Ahhoz, hogy az ATP-védelem érvényben legyen, házirendeket kell konfigurálnia. Rövid [útmutató: Az Office 365 Komplex veszélyforrások elleni védelem beállítása](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup)című témakörben talál.
 

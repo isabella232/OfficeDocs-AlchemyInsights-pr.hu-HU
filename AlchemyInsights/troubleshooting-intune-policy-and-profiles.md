@@ -1,9 +1,9 @@
 ---
-title: Intune házirend és profilok – problémamegoldás
+title: Az Intune-házirend és -profilok – problémamegoldás
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533629"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766675"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Hibaelhárítási Intune házirend és profilok
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Az Intune-házirendek és -profilok hibaelhárítása
 
-Ütközések elhárítása, nézze át a naplózott adatokat, és lásd a gyakori kérdésekre, valamint a meglévő házirendek megtekintéséhez a következő útmutatók segítségével.
+A meglévő házirendek megtekintéséhez, az ütközések elhárításához, a naplóadatok áttekintéséhez, valamint a gyakori kérdések és problémák megtekintéséhez az alábbi útmutatók segíthetnek.
 
-- [Házirendek és Intune a profilok – problémamegoldás](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Házirendek és profilok – problémamegoldás az Intune-ban](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [Gyakori kérdések, problémák és megoldások eszköz politikákkal és Intune a profilok](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Gyakori kérdések, problémák és megoldások az Intune-ban lévő eszközházirendekkel és -profilokkal](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Eszköz konfigurációs profilok figyelésére és Intune ütközések megtekintése](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Eszközkonfigurációs profilok figyelése és ütközések megtekintése az Intune-ban](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Eszköz megfelelőség és Intune a feltételes hozzáférésű – problémamegoldás](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Eszközmegfelelőség és feltételes hozzáférés – problémamegoldás az Intune-ban](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Megfelelés irányelveinek figyelésére és Intune ütközések megtekintése](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Megfelelőségi szabályzatok figyelése és ütközések megtekintése az Intune-ban](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Intune naplózási adatokat küldeni az Azure tárolására, hubok esemény vagy analytics jelentkezzen](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Az Intune naplóadatainak küldése az Azure storage-ba, eseményközpontokba vagy naplóelemzésbe](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Az áttekintésben [Eszközök konfigurálása](https://docs.microsoft.com/intune/device-profiles) vagy [megfelelés irányelveinek](https://docs.microsoft.com/intune/device-compliance-get-started).
+Tekintse meg az [eszközöket konfigurálását](https://docs.microsoft.com/intune/device-profiles) vagy [a megfelelőségi házirendek használatát.](https://docs.microsoft.com/intune/device-compliance-get-started)

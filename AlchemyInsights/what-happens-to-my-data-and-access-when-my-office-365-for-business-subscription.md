@@ -1,9 +1,9 @@
 ---
-title: Mi történik a saját adatok és az access, amikor az Office 365 üzleti előfizetés lejár?
+title: Mi történik az adataimmal és a hozzáférésemmel, amikor a Microsoft 365 vállalati verziós előfizetésem lejár?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 746f9b1553336e66f0c2bcb9e59b75e49b41d3b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531253"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766207"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Mi történik a saját adatok és az access, amikor az Office 365 üzleti előfizetés lejár?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Mi történik az adataimmal és a hozzáférésemmel, amikor a Microsoft 365 vállalati verziós előfizetésem lejár?
 
-Ha befejezi az Office 365-előfizetés – mert lejár, vagy úgy dönt, hogy Mégse – a Office 365 szolgáltatások, alkalmazások és ügyféladatokhoz való hozzáférés mehet keresztül több államok előtt az előfizetés teljesen ki van kapcsolva, vagy *deprovisioned*  . Ha tudatában az előmenetel, lesz jobban felszerelni, hogy visszatérjen az előfizetést egy aktív előtt túl későn, vagy – ha Elhagyod az Office 365 – az adatokat végül törlése előtt készítsen biztonsági másolatot.
+Ha az előfizetés eközben lejár – akár azért, mert lejár, vagy ha úgy dönt, hogy lemondja –, a szolgáltatásokhoz, alkalmazásokhoz és ügyféladatokhoz való hozzáféréstöbb állapoton megy keresztül, mielőtt az előfizetés teljesen ki lenne kapcsolva, vagy *megszűnne.* Ha tudatában van ennek a folyamatnak, jobban fel lesz szerelve ahhoz, hogy az előfizetést még az idő előtt visszaküldje egy aktív állapotba, vagy – ha elhagyja a Microsoftot – biztonsági másolatot kell küldenie az adatokról, mielőtt azokat végül törölné.
   
-Mielőtt az előfizetés ténylegesen eléri a lejárat, **az előfizetés számlázási ismétlődő**kezelés néhány lehetőség van.
+Mielőtt az előfizetés ténylegesen eléri a lejárati dátumát, van néhány lehetősége **az előfizetés ismétlődő számlázásának kezelésére.**
   
-- Ha **ismétlődő számlázási** már be van kapcsolva, nincs teendőjük. Az előfizetés számlázzák az **ismétlődő számlázási** dátum, és meg is kell fizetnie egy további év vagy hónap, attól függően, hogy a jelenlegi fizetési gyakoriság. Ha bármilyen okból kikapcsoljuk **ismétlődő számlázási** , akkor mindig [kapcsolja vissza a számlázási ismétlődő](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Ha **az ismétlődő számlázás** már be van kapcsolva, nem kell semmilyen műveletet végrehajtania. Az előfizetés számlázása az **ismétlődő számlázási** dátumon történik, és az aktuális fizetési gyakoriságtól függően további egy évvagy hónap után kell fizetnie. Ha bármilyen okból **kikapcsolta az ismétlődő számlázást,** bármikor [visszakapcsolhatja az ismétlődő számlázást.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)
 
-- Ha egy megnyitott mennyiségilicenc-alapú ügyfél egy előre, egy éves előfizetéssel rendelkező, lépjen kapcsolatba a partnere meg kell vásárolnia az új termékkulcsot. Aktiválja a [Mennyiségi licencelési központját](https://go.microsoft.com/fwlink/p/?LinkID=282016)mailben utasításokat kap. Új partner és a múltban együtt dolgoztunk a partner keresése, lásd: [az Office 365 partner vagy a viszonteladó keresése](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
+- Ha Ön egy előre fizetett, egyéves előfizetéssel rendelkező nyílt mennyiségi licencelési ügyfél, lépjen kapcsolatba partnerével, és vásároljon új termékkulcsot. A kulcs aktiválásához e-mailben kap utasításokat a [Mennyiségi licencelési szolgáltatóközpontban.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Ha meg szeretné tudni, hogyan találhat új partnert vagy partnert, akivel korábban együtt dolgozott, olvassa el [A Microsoft 365-partner vagy viszonteladó megkeresése című témakört.](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller)

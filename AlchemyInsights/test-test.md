@@ -1,8 +1,8 @@
 ---
-title: A SharePoint Online Kifejezéstárolóból hiányzó feltételek
+title: Hiányzó kifejezések a SharePoint Online Kifejezéstárból
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,43 +10,43 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 28913b8e57e39d51e8957b7408c19337a119c589
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 54ac2dbc1f45f88541c2338f3b55a777b4b57123
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053515"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766855"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>A BitLocker-titkosítás engedélyezése az Intune szolgáltatással
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Bitlocker titkosítás engedélyezése az Intune-nal
 
-Az Intune végpont-védelmi házirend a Windows-eszközök Boitlocker-titkosítási beállításainak az alábbiakban leírt módon történő konfigurálására használható: Windows10 (és újabb) beállítások az eszközök védelmére az Intune szolgáltatással
+Az Intune Endpoint Protection Policy segítségével konfigurálhatja a Boitlocker titkosítási beállításait a Windows-eszközökhöz a következő részben leírtak szerint: Windows10 (és újabb) beállítások az Eszközök Intune-t használó védelmére
 
-Tisztában kell lennie azzal, hogy sok újabb Windows 10-es rendszerű eszköz támogatja az automatikus BitLocker titkosítást, ami az MDM-házirend alkalmazása nélkül aktiválódik. Ez hatással lehet a házirendek alkalmazására, ha a nem alapértelmezett beállítások vannak konfigurálva. További részleteket a GYIK-ban találhat.
-
-
-FAQ  Q: a rendszer mely kiadásai támogatják az eszközök titkosítását a végponti védelmi házirend segítségével?
- A: az Intune végponti védelmi házirend beállításai a BitLocker kriptográfiai szolgáltatójának használatával vannak megvalósítva.Nem minden kiadás, sem a Windows rendszer nem támogatja a BitLocker kriptográfiai szolgáltatót. 
-      Ebben az időben a Windows Editions: Enterprise; Oktatás, mozgatható, mozgatható vállalat és profi (-ból épít 1809 elõre) van támogatott.
+Tudnia kell, hogy sok újabb, Windows 10-et futtató eszköz támogatja az automatikus bitlocker titkosítást, amely az MDM-házirend alkalmazása nélkül aktiválódik. Ez hatással lehet a házirend alkalmazására, ha nem alapértelmezett beállítások vannak konfigurálva. További részletekért lásd a GYIK-et.
 
 
-
-
-Kérdés ha egy berendezés van már encrypted-val BitLocker használ a OS hiba elintézés részére encryption módszer és rejtjel erő (XTS-AES-128) akarat alkalmaz egy politika-val különböző elintézés gépiesen ravasz ré hang-encryption-ból hajt-val a új elintézés?
-
-A: nem. Az új rejtjelezési beállítások alkalmazásához a meghajtónak először dekódolt kell lennie.
-
-Megjegyzés: az automatikus vezérléssel beiratkozott eszközök esetében a rendszer nem indítja el az automatikus titkosítást, amíg az Intune házirend nem lesz kiértékelve, amely lehetővé teszi a házirend-alapú beállítások használtát az operációsrendszer-Alapértelmezések helyett
+Gyakran  feltett kérdések: A Windows mely kiadásai támogatják az eszköztitkosítást a Végpontvédelmi szabályzat használatával?
+ A: Az Intune Végpontvédelmi házirend beállításai a Bitlocker csp használatával vannak megvalósítva.Nem minden windowsos kiadás és build támogatja a Bitlocker csp-t. 
+      Jelenleg windows os kiadások: Enterprise; Az oktatás, a mobil, a mobil vállalkozás és a profi (a build 1809-től) támogatottak.
 
 
 
 
-Q ha egy eszköz az Intune-házirend alkalmazása miatt titkosított, akkor a rendszer visszafejtette az adott házirend eltávolításakor?
+K: Ha egy eszköz már titkosítva Bitlocker segítségével az operációs rendszer alapértelmezett beállításait titkosítási módszer és a titkosítás erőssége (XTS-AES-128) fogja alkalmazni a politika különböző beállításokkal automatikusan elindítja újratitkosítása a meghajtó az új beállításokat?
 
-A: a titkosítással kapcsolatos házirendek eltávolítása nem eredményezi a konfigurált meghajtók visszafejtését.
+A: Nem. Az új titkosítási beállítások alkalmazásához a meghajtót először vissza kell fejteni.
+
+Megjegyzés: Az Autopilot szolgáltatással regisztrált eszközök esetében az OOBE során fellépő automatikus titkosítás csak az Intune-házirend kiértékelése után aktiválódik, amely lehetővé teszi, hogy a házirend-alapú beállításokat az operációs rendszer alapértelmezései helyett használják.
 
 
 
 
-K: Miért jelenik meg az Intune megfelelési házirend, hogy az eszközön nincs "BitLocker enabled", de?
+K Ha egy eszköz titkosítva van az Intune-házirend alkalmazása miatt, visszafejti a rendszer a házirend eltávolításakor?
 
-A: az Intune-megfelelőségi házirend "BitLocker-védelemmel ellátott" beállítása a Windows Eszközállapot-tanúsítási (DHA) ügyfelet használja. Ez az ügyfél csak az eszköz állapotát méri rendszerindításkor. Így ha egy eszköz nem lett újra indítva, mert a BitLocker titkosítás befejeződött, a DHA ügyfélszolgáltatás nem fogja aktívnak jelenteni a BitLocker-titkosítást.
+A: A titkosítással kapcsolatos házirend eltávolítása NEM eredményezi a konfigurált meghajtók visszafejtését.
+
+
+
+
+K: Miért mutatja az Intune megfelelőségi szabályzata, hogy az eszközömnem rendelkezik "Bitlocker engedélyezve", de az igen?
+
+Megjegyzés: Az Intune megfelelőségi házirendjének "Bitlocker-engedélyezése" beállítása a Windows eszközállapot-igazolási (DHA) ügyfelet használja. Ez az ügyfél csak a rendszerindításkor méri az eszköz állapotát. Tehát ha egy eszköz nem lett újraindítva a bitlocker titkosítás befejezése óta, a DHA ügyfélszolgáltatás nem jelenti a bitlocker aktívként való jelentését.

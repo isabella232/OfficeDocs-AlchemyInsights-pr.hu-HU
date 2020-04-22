@@ -1,8 +1,8 @@
 ---
-title: Proxy címe hiba megosztott postafiók létrehozása során.
+title: Proxycím-hiba megosztott postaláda létrehozása kor
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: cd3236c71868c2b625de407a9e4f160a8d47ddd1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a02c57da97e76cec1cd3bdcd84b92c73530bdfa1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554190"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767899"
 ---
-# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Proxy címe hiba megosztott postafiók létrehozása során.
+# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Proxycím-hiba megosztott postaláda létrehozása kor
 
-Kísérelt meg létrehozni egy megosztott postaládát, és a "Proxy címe a"SMTP:alias@domain.com"már használatban van..." hibaüzenetet, ha a kiválasztott e-mail cím már foglalt egy másik postaláda a szervezetben.
+Ha megosztott postaládát próbált létrehozni, és ezt a hibaüzenetet kapta: "A SMTP:alias@domain.com" proxycím már használatban van...", a választott e-mail címet már a szervezet egy másik postaládája veszi át.
   
-Keresse meg a felhasználó, csoport vagy megosztott postafiók, amely ezt az e-mail címét és az e-mail cím módosítása vagy törlésére van szüksége. Majd a felszabadított e-mail címmel rendelkező megosztott postafiókjából hozhat létre. A kezdőlap keresés segítségével találja meg.
+Meg kell találnia azt a felhasználót, csoportot vagy megosztott postaládát, amely rendelkezik ezzel az e-mail címmel, és törölnie kell, vagy módosítania kell az e-mail címét. Ezután létrehozhat egy megosztott postaládát a felszabadított e-mail címmel. A kezdőlap Keresés használatával megkeresheti azt.
   
-Ha nem szeretné törölni a létező e-mail címet, válassza az új e-mail címet a megosztott postaláda.
+Ha nem szeretné törölni a meglévő e-mail címet, válasszon új e-mail címet a megosztott postaládához.
   

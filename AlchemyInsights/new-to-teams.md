@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002403"
 - "4676"
-ms.openlocfilehash: b76b32c9d4ae721487cea33065121ecd45ae69a3
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: 050ed651a77b8cb68665de1c162f4dab385fa40c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541752"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761780"
 ---
 # <a name="new-to-teams"></a>Most ismerkedik a Teamsszel?
 
 A Teams használatának közelmúltbeli növekedése miatt akár 24 óráit is igénybe vehet a teljes beállítás. Előfordulhat, hogy addig nem fér hozzá pár Teams-funkcióihoz, például a hívásokhoz, az értekezletekhez és a naptárhoz. Addig is a gyors üzembe helyezés érdekében olvassa el az alábbi cikkeket: 
 
-- Tekintse meg az [üdvözlő videót](https://support.office.com/article/welcome-to-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12?wt.mc_id=otc_microsoft_teams&ui=en-US&rs=en-US&ad=US), hogy általános képet kapjon a Teamsről.
+- Tekintse meg az [üdvözlő videót](https://support.office.com/article/welcome-to-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12), hogy általános képet kapjon a Teamsről.
 
 - Nézzen meg pár rövid és [gyors bevezető videót](https://support.office.com/article/video-what-is-microsoft-teams-422bf3aa-9ae8-46f1-83a2-e65720e1a34d) a Teams áttekintéséhez.
 

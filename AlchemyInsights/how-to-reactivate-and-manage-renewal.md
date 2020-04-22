@@ -3,7 +3,7 @@ title: A megújítás újraaktiválása és kezelése
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739315"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763438"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Ismétlődő számlázás újraaktiválása és kezelése
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Az ismétlődő számlázás újraaktiválása és kezelése
 
-Úgy néz ki mint önnek van egy aláírás amit birtokol lejárt. Ha azt szeretné, hogy aktiválja, eretnekségek ' hogyan.
+Úgy néz ki, van egy előfizetés, amely lejárt. Ha szeretné újraaktiválni, a következőképpen.
   
-1. Az admin központban, menjen a **Számlázási** \> [termékek _amp_ szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) oldal.
+1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
 
-2. Keresse meg az újraaktiválni kívánt előfizetést. A **Számlázási** szakaszban válassza az **újraaktiválás**-t.
+2. Keresse meg az újraaktiválni kívánt előfizetést. A **Számlázás csoportban** válassza az **Újraaktiválás**lehetőséget.
 
-    Ha nem látja az **újraaktiválását** lehetőségként, használja a "segítségre van szüksége" gombot, hogy beszéljen egy támogatási szakemberhez az előfizetés újraaktiválásához.
+    Ha nem látja **az Újraaktiválás** lehetőséget, a "Segítségre van szüksége" gombbal beszélhet egy támogatási szakemberrel az előfizetés újraaktiválásához.
 
-3. Erősítse meg fizetési adatait. A meglévő fizetési adatokat itt frissítheti. Ha befejezte a fizetési mód beírását, válassza az **újraaktiválás**-t.
+3. Erősítse meg a fizetési adatait. Ugyanitt módosíthatja meglévő fizetési adatait. Ha befejezte a fizetési mód megadását, válassza az **Újraaktiválás**lehetőséget.
 
-További információ az [előfizetés újraaktiválása](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription)című témakörben található. 
+További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription) című részt. 
 
--Hoz kezel havonkénti vagy évenként turbékolás tudod pecek **visszatérő turbékolás** -ra vagy távoli.
+A havi vagy éves számlázás kezeléséhez be- és kikapcsolhatja **az ismétlődő számlázást.**
   
-1. Az admin központban, menjen a **Számlázási** \> [termékek _amp_ szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) oldal.
+1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
 
-2. Válassza ki azt az előfizetést, amelyhez az ismétlődő számlázást kezelni szeretné.
+2. Válassza ki azt az előfizetést, amelyre vonatkozóan kezelni szeretné az ismétlődő számlázást.
 
-3. A **számlázás**alatt, illetve a **megújítat** vagy a **kipárolgó**csoportban jelölje be a **Szerkesztés**választógombot.
+3. A **Számlázás csoportban**a **Megújítás vagy a** **Lejárat**lehetőséget válassza a **Szerkesztés**lehetőség.
 
-4. Az **ismétlődő számlázási beállítások** **ablaktáblán válassza a kikapcsolás** beállítást a kikapcsoláshoz. Ha az ismétlődő számlázás már ki van kapcsolva, válassza a **havonta** vagy **egyszer** a bekapcsolást.
+4. Az **Ismétlődő számlázási beállítások** ablaktáblán válassza a **Kikapcsolás** lehetőséget a kikapcsoláshoz. Ha az ismétlődő számlázás már ki van kapcsolva, válassza a **Havi** vagy **az Egyszer** lehetőséget a bekapcsoláshoz.
 
-5. Kiválaszt **alávet cserél**.
+5. Válassza **a Módosítás küldése**lehetőséget.
 
-További információ: [ismétlődő számlázás kikapcsolása vagy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)bekapcsolása.
+További információért lásd: [Ismétlődő számlázás be- és kikapcsolása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

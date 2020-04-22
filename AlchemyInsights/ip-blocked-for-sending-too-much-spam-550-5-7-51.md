@@ -1,24 +1,24 @@
 ---
-title: 1264 IP blokkolva túl sok (550 5.7.51) kéretlen levelek küldése
+title: 1264 IP blokkolt küldésére túl sok spam (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 64a829ed6e5d0d2a15e4eb4dfb5f70c1bd652ed6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 5734a51e78af29244867429af8e29ea4b54aa4cf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751669"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765883"
 ---
-# <a name="access-denied-banned-sender"></a>Hozzáférés megtagadva, betiltották a feladó
+# <a name="access-denied-banned-sender"></a>Hozzáférés megtagadva, kitiltott feladó
 
- **Hiba**: a távoli kiszolgáló RCPT TO paranccsal, a fogadó SMTP-hiba: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) oka: 550 5.7.511 hozzáférés megtagadva, betiltott feladó [*xx.xxx.x.xxx*]. 
+ **Hiba**: SMTP hiba távoli kiszolgálóról RCPT TO parancs, állomás: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) ok: 550 5.7.511 Hozzáférés megtagadva, tiltott feladó [*xx.xxx.x.xxx*]. 
 
-Az Office 365 keresztül e-mail küldésekor a hiba akkor jelentkezhet, ha az érintett fiók eltávolítása a blokkolt feladók listáján, a [https://sender.office.com](https://sender.office.com).
+Ha ez a hibaüzenet akkor jelenik meg, amikor e-mailt küld egy Microsoft [https://sender.office.com](https://sender.office.com)365-ös címzettnek, távolítsa el az érintett fiókot a letiltott feladók listájáról a következő helyen:

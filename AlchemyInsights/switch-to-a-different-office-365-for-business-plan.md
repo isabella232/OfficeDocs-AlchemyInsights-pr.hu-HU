@@ -1,5 +1,5 @@
 ---
-title: Váltás másik Office 365 Vállalati verziós csomagra
+title: Váltás másik Microsoft 365 vállalati verziós csomagra
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43548000"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763795"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Váltás másik Office 365 Vállalati verziós csomagra
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Váltás másik Microsoft 365 vállalati verziós előfizetésre
 
-Ha a vállalkozás a megváltozik, vagy további Office 365-funkciókra van szüksége, új csomagra válthat.
+Ha a vállalkozás megváltozik, vagy további funkciókra van szüksége, frissíthet egy új csomagra.
   
 1. A felügyeleti központban nyissa meg **a Számlázási \> [termékek & szolgáltatások lehetőséget.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 

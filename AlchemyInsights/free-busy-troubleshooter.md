@@ -1,5 +1,5 @@
 ---
-title: 607 elfoglaltsági hibaelhárító
+title: 607 Foglaltsághiba-elhárító
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664862"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765054"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problémák a naptár elfoglaltsági adatok megjelenítése
+# <a name="issues-seeing-calendar-freebusy-information"></a>Problémák a naptár elfoglaltsági adatainak megtekintésével kapcsolatban
 
-Ha nem látja más naptárakban a foglaltsági információkat, vagy ha mások nem látják a foglaltsági információkat az Ön naptárában, használja az [Office 365-höz készült Támogatási és helyreállítási segéd](https://diagnostics.office.com/) nevű eszközt.
+Ha más naptárakban nem láthatók a naptár elfoglaltsági adatai, vagy ha mások nem látják az elfoglaltsági adatokat a naptárban, használja a [Microsoft támogatási és helyreállítási segédjét.](https://diagnostics.office.com/)
   

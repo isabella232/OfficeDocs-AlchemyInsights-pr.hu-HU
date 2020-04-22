@@ -1,32 +1,32 @@
 ---
-title: 902 (szinkronizálási hibák miatt az ismétlődő objektumok)
+title: 902 (Szinkronizálási hibák ismétlődő objektumok miatt)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 777c2d8d530d03d58180f43b362ee065439b56b3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ea833e0c4aebe72bc5c02e3dc10c1edc4136dcc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507417"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767130"
 ---
-# <a name="sync-errors-due-to-duplicate-objects"></a>A szinkronizálási hibák miatt az ismétlődő objektumok
+# <a name="sync-errors-due-to-duplicate-objects"></a>Ismétlődő objektumok miatti szinkronizálási hibák
 
-Az alábbi hibaüzenetek egyike jelenhet directory szinkronizálásának befejeztével az Office 365 rendszerben:
+A Microsoft 365-ben a címtár-szinkronizálás befejezésekor az alábbi hibaüzenetek egyike jelenhet meg:
 
-- Nem lehet frissíteni az objektumot a Microsoft Online Services, mert a következő attribútumok az objektumhoz társított értékeket, amelyek esetleg már a helyi könyvtárban egy másik objektumhoz társított.
+- Az objektum nem frissíthető a Microsoft Online Services szolgáltatásban, mert az objektumhoz társított alábbi attribútumok olyan értékekkel rendelkeznek, amelyek már társítva lehetnek a helyi címtár egy másik objektumával.
 
-- A szinkronizált objektumok proxy címe megegyezik a Microsoft Online Services könyvtárban már létezik.
+- Már létezik ugyanazzal a proxycímmel rendelkező szinkronizált objektum a Microsoft Online Services címtárban.
 
-- Nem lehet frissíteni az objektum, mert a következő attribútumok az objektumhoz társított értékeket, amelyek esetleg már a helyi címtárszolgáltatás a másik objektumhoz társított: UserPrincipalName.
+- Az objektum nem frissíthető, mert az objektumhoz társított következő attribútumok olyan értékekkel rendelkeznek, amelyek már társítva lehetnek a helyi címtárszolgáltatások egy másik objektumával: UserPrincipalName.
 
-Azonosítására, és a probléma megoldásához töltse le és futtassa a [IdFix DirSync hiba javítására szolgáló eszköz](https://www.microsoft.com/download/details.aspx?id=36832).
+A probléma azonosításához és javításához töltse le és futtassa az [IdFix DirSync hibajavító eszközt.](https://www.microsoft.com/download/details.aspx?id=36832)
 
-További tudnivalókért lásd: [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).
+További információ: [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).
