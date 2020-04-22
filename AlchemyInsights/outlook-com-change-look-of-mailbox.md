@@ -3,26 +3,26 @@ title: Outlook.com a postaláda megjelenésének módosítása
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547683"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721941"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="bfa44-102">Az Outlook.com postaláda megjelenésének módosítása</span><span class="sxs-lookup"><span data-stu-id="bfa44-102">Change the look of your Outlook.com mailbox</span></span>
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a><span data-ttu-id="b5f16-102">A Outlook.com-postaláda megjelenésének módosítása</span><span class="sxs-lookup"><span data-stu-id="b5f16-102">Change the look of your Outlook.com mailbox</span></span>
 
-<span data-ttu-id="bfa44-103">Outlook.com az üzenet lista és az olvasási ablaktábla megjelenésének módosítása</span><span class="sxs-lookup"><span data-stu-id="bfa44-103">You can change the appearance of the message list and reading pane in Outlook.com.</span></span>
+<span data-ttu-id="b5f16-103">Az üzenetlista és az olvasóablak megjelenését módosíthatja Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="b5f16-103">You can change the appearance of the message list and reading pane in Outlook.com.</span></span>
 
-- <span data-ttu-id="bfa44-104">Az üzenetablakban elrendezésének módosításához nyissa meg a [betekintő ablaktábla](https://outlook.live.com/mail/options/mail/layout/readingPane) beállításai.</span><span class="sxs-lookup"><span data-stu-id="bfa44-104">To change the layout of the message window, open your [Reading pane](https://outlook.live.com/mail/options/mail/layout/readingPane) options.</span></span>
-- <span data-ttu-id="bfa44-105">Hogyan az e-mail van rendezve, az üzenetlista tetejére módosításához jelölje ki a **szűrőt** > **Rendezés** és válassza ki, hogyan szeretné rendezni az e-mail.</span><span class="sxs-lookup"><span data-stu-id="bfa44-105">To change how your email is sorted, at the top of the message list, select **Filter** > **Sort by** and choose how you want to sort your email.</span></span>
-- <span data-ttu-id="bfa44-106">Az üzenetek csoportosítása témakörök szerint, nyissa meg az [üzenet szervezeti](https://outlook.live.com/mail/options/mail/layout/conversations) beállítások.</span><span class="sxs-lookup"><span data-stu-id="bfa44-106">To group your messages by conversation, open your [Message organization](https://outlook.live.com/mail/options/mail/layout/conversations) options.</span></span>
-- <span data-ttu-id="bfa44-107">Koncentrált Beérkezett üzenetek be- és kikapcsolása, nyissa meg az [Elrendezés](https://outlook.live.com/mail/options/mail/layout/focused) beállításai.</span><span class="sxs-lookup"><span data-stu-id="bfa44-107">To turn Focused Inbox on or off, open your [Layout](https://outlook.live.com/mail/options/mail/layout/focused) options.</span></span>
+- <span data-ttu-id="b5f16-104">Az üzenetablak elrendezésének módosításához nyissa meg az [Olvasóablak](https://outlook.live.com/mail/options/mail/layout/readingPane) beállításait.</span><span class="sxs-lookup"><span data-stu-id="b5f16-104">To change the layout of the message window, open your [Reading pane](https://outlook.live.com/mail/options/mail/layout/readingPane) options.</span></span>
+- <span data-ttu-id="b5f16-105">Az e-mailek rendezési módjának módosításához az üzenetlista tetején válassza a **Rendezés szűrése** > **Sort by** lehetőséget, és válassza ki, hogyan szeretné rendezni az e-maileket.</span><span class="sxs-lookup"><span data-stu-id="b5f16-105">To change how your email is sorted, at the top of the message list, select **Filter** > **Sort by** and choose how you want to sort your email.</span></span>
+- <span data-ttu-id="b5f16-106">Az üzenetek beszélgetés szerint való csoportosításához nyissa meg az [Üzenetszervezés](https://outlook.live.com/mail/options/mail/layout/conversations) beállításait.</span><span class="sxs-lookup"><span data-stu-id="b5f16-106">To group your messages by conversation, open your [Message organization](https://outlook.live.com/mail/options/mail/layout/conversations) options.</span></span>
+- <span data-ttu-id="b5f16-107">A Fókuszált beérkezett üzenetek be- és kikapcsolására nyissa meg az [Elrendezés beállításait.](https://outlook.live.com/mail/options/mail/layout/focused)</span><span class="sxs-lookup"><span data-stu-id="b5f16-107">To turn Focused Inbox on or off, open your [Layout](https://outlook.live.com/mail/options/mail/layout/focused) options.</span></span>

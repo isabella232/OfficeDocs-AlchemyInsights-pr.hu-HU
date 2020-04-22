@@ -1,9 +1,9 @@
 ---
-title: Ismételt bejelentkezés a megnyit_vti_rpc
+title: Ismételt bejelentkezés a _vti_rpc megnyitásához
 ms.author: pebaum
 author: pebaum
 manager: jecon
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,14 +14,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: d28370db130278074beb06a5379553f26b2c684c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 4b063c5524fdf36e4fa7eb6e774773ed701a8526
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054235"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722776"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a><span data-ttu-id="e4137-102">Ismételt bejelentkezés a megnyit_vti_rpc</span><span class="sxs-lookup"><span data-stu-id="e4137-102">Repeated login to open _vti_rpc</span></span>
+# <a name="repeated-login-to-open-_vti_rpc"></a><span data-ttu-id="ab3b5-102">Ismételt bejelentkezés a _vti_rpc megnyitásához</span><span class="sxs-lookup"><span data-stu-id="ab3b5-102">Repeated login to open _vti_rpc</span></span>
 
-<span data-ttu-id="e4137-103">Mikor működő-ra OneDrive fájlokat használ Hivatal 2016, szabad lát a üzenet: "mond minket a számla ön akar-hoz használ-hoz nyit _vti_rpc."</span><span class="sxs-lookup"><span data-stu-id="e4137-103">When working on OneDrive files using Office 2016, you may see the message: "Tell us the account you want to use to open _vti_rpc."</span></span> <span data-ttu-id="e4137-104">Ez probléma volt rögzített-ban változat 1708 (16.0.8431.2094).</span><span class="sxs-lookup"><span data-stu-id="e4137-104">This problem was fixed in version 1708 (16.0.8431.2094).</span></span> <span data-ttu-id="e4137-105">A kijavításához frissítse az Office legújabb verzióját.</span><span class="sxs-lookup"><span data-stu-id="e4137-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="e4137-106">A \> **fájlfiókfrissítési** \> **Beállítások** \> **frissítésének**kiválasztása. \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="e4137-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="ab3b5-103">Ha az Office 2016-ot használó OneDrive-fájlokkal dolgozik, a következő üzenet jelenhet meg: "Mondja el, milyen fiókot szeretne használni _vti_rpc megnyitásához."</span><span class="sxs-lookup"><span data-stu-id="ab3b5-103">When working on OneDrive files using Office 2016, you may see the message: "Tell us the account you want to use to open _vti_rpc."</span></span> <span data-ttu-id="ab3b5-104">A problémát az 1708-as verzióban (16.0.8431.2094) javították.</span><span class="sxs-lookup"><span data-stu-id="ab3b5-104">This problem was fixed in version 1708 (16.0.8431.2094).</span></span> <span data-ttu-id="ab3b5-105">A probléma megoldásához frissítsen az Office legújabb verziójára.</span><span class="sxs-lookup"><span data-stu-id="ab3b5-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="ab3b5-106">\> Válassza a **Fájlfiók** \> **frissítési beállításainak** \> **frissítése most**lehetőséget. **File**</span><span class="sxs-lookup"><span data-stu-id="ab3b5-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   

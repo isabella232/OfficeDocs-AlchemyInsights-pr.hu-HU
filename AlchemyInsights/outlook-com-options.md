@@ -1,9 +1,9 @@
 ---
-title: 9000202 Outlook.com beállítások
+title: 9000202 Outlook.com opciók
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/27/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1770"
 - "9000202"
-ms.openlocfilehash: 6e52fd9f095464d158ade14ea4b51a0401d0f57e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ed0f85745754914291d4abeedca92c3204b28672
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535892"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745541"
 ---
-# <a name="how-to-find-options-in-outlookcom-settings"></a><span data-ttu-id="93673-102">Hogyan lehet megtalálni a beállítások az Outlook.com beállítások</span><span class="sxs-lookup"><span data-stu-id="93673-102">How to find options in Outlook.com settings</span></span>
+# <a name="how-to-find-options-in-outlookcom-settings"></a><span data-ttu-id="6de48-102">A beállítások megkeresése a Outlook.com beállításokban</span><span class="sxs-lookup"><span data-stu-id="6de48-102">How to find options in Outlook.com settings</span></span>
 
-<span data-ttu-id="93673-103">A lap tetején jelölje be a fogaskerék ikon jelzi.</span><span class="sxs-lookup"><span data-stu-id="93673-103">At the top of the page, select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="93673-104">Beállítások megnyitásához.</span><span class="sxs-lookup"><span data-stu-id="93673-104">to open Settings.</span></span> <span data-ttu-id="93673-105">A beállítások ablak alján jelölje be az [**összes Outlook-beállítások megtekintése**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span><span class="sxs-lookup"><span data-stu-id="93673-105">At the bottom of the Settings pane, select [**View all Outlook settings**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
+<span data-ttu-id="6de48-103">A lap tetején válassza a fogaskerék ikont</span><span class="sxs-lookup"><span data-stu-id="6de48-103">At the top of the page, select the gear icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="6de48-104">gombra a Beállítások megnyitásához.</span><span class="sxs-lookup"><span data-stu-id="6de48-104">to open Settings.</span></span> <span data-ttu-id="6de48-105">A Beállítások ablaktábla alján válassza [**az Összes Outlook-beállítás megtekintése**](https://outlook.live.com/mail/options/general/timeAndLanguage)lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="6de48-105">At the bottom of the Settings pane, select [**View all Outlook settings**](https://outlook.live.com/mail/options/general/timeAndLanguage).</span></span>
 
-<span data-ttu-id="93673-106">Ez jelenik meg az általános, E-mail, naptár, és (adott esetben) prémium és beállításokat.</span><span class="sxs-lookup"><span data-stu-id="93673-106">This will show your General, Email, Calendar, and (if applicable) Premium settings and options.</span></span>
+<span data-ttu-id="6de48-106">Ez megmutatja az Általános, E-mail, Naptár, és (ha van ilyen) Prémium beállításokat és beállításokat.</span><span class="sxs-lookup"><span data-stu-id="6de48-106">This will show your General, Email, Calendar, and (if applicable) Premium settings and options.</span></span>

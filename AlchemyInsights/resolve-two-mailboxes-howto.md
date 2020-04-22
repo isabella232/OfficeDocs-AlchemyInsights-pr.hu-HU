@@ -1,9 +1,9 @@
 ---
-title: 1374 megoldása két postaláda howto
+title: 1374 Két postaláda feloldása howto
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/2/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 15723e0b9b98dbee5c8ad4d0417f86a03fa08c7e
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 95d85d7737ae0684b2a2c017134104bd377695f1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37026596"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722520"
 ---
-# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="a210e-102">A felhasználónak két postaládájuk van</span><span class="sxs-lookup"><span data-stu-id="a210e-102">A user has two mailboxes</span></span>
+# <a name="a-user-has-two-mailboxes"></a><span data-ttu-id="cf013-102">Egy felhasználónak két postaládája van</span><span class="sxs-lookup"><span data-stu-id="cf013-102">A user has two mailboxes</span></span>
 
-<span data-ttu-id="a210e-103">Az Azure Active Directory Connect (AAD Connect) vagy a DirSync szolgáltatást használó hibrid környezetek miatt véletlenül a felhasználó két postaládát használhat: egy intézményi és egy a felhőben.</span><span class="sxs-lookup"><span data-stu-id="a210e-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one on-premises, and one in the cloud.</span></span> <span data-ttu-id="a210e-104">Duplikált postaláda hozható létre mindkét helyen.</span><span class="sxs-lookup"><span data-stu-id="a210e-104">A duplicate mailbox could be created in either place.</span></span>
+<span data-ttu-id="cf013-103">Az Azure Active Directory Connect (AAD Connect) vagy dirSync szolgáltatást használó hibrid környezetek véletlenül két postaládát okozhatnak a felhasználónak: egy helyszíni és egy a felhőben.</span><span class="sxs-lookup"><span data-stu-id="cf013-103">Hybrid environments that use Azure Active Directory Connect (AAD Connect) or DirSync might accidentally cause a user to have two mailboxes: one on-premises, and one in the cloud.</span></span> <span data-ttu-id="cf013-104">Mindkét helyen létrehozható ismétlődő postaláda.</span><span class="sxs-lookup"><span data-stu-id="cf013-104">A duplicate mailbox could be created in either place.</span></span>
 
-<span data-ttu-id="a210e-105">A probléma megoldásához tekintse át, [Hogyan lehet helyreállítani egy postaládát az Exchange Online és a helyi létesítmények között](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span><span class="sxs-lookup"><span data-stu-id="a210e-105">To resolve this issue, see [How to recover when a mailbox exists in both Exchange Online and on-premises](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span></span> <span data-ttu-id="a210e-106">Ha többet szeretne megtudni arról, hogyan kerülheti el ezt a folyamatot a jövőben, tekintse meg a [felhasználók postaládáját a helyi és az Exchange Online webhelyen. Segíts!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span><span class="sxs-lookup"><span data-stu-id="a210e-106">If you want to learn more about how to avoid this from happening in the future, see [My user has a mailbox both on-premises and in Exchange Online. Help!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span></span>
+<span data-ttu-id="cf013-105">A probléma megoldásához olvassa el [A postaláda helyreállítása az Exchange Online-ban és a helyszíni környezetben](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises)is.</span><span class="sxs-lookup"><span data-stu-id="cf013-105">To resolve this issue, see [How to recover when a mailbox exists in both Exchange Online and on-premises](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises).</span></span> <span data-ttu-id="cf013-106">Ha többet szeretne megtudni arról, hogyan kerülheti el ezt a jövőben, olvassa el [a Saját felhasználó postaládája a helyszíni és az Exchange Online-ban című témakört. Segítünk!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809)</span><span class="sxs-lookup"><span data-stu-id="cf013-106">If you want to learn more about how to avoid this from happening in the future, see [My user has a mailbox both on-premises and in Exchange Online. Help!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).</span></span>

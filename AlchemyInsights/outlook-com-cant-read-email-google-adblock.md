@@ -1,9 +1,9 @@
 ---
-title: Vidám ' olvas Outlook.com elektronikus levél-ban Google Króm-val AdBlock
+title: Nem lehet olvasni Outlook.com e-mail eket a Google Chrome-ban az AdBlock segítségével
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: e63e31ea008558d57b0582d306afd34df4715631
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: db2b9adb3b3c3ea2984886d1d4933d0622f1ada1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36537661"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43746897"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a><span data-ttu-id="3b70a-102">Vidám ' olvas elektronikus levél-ban Google Króm-val AdBlock</span><span class="sxs-lookup"><span data-stu-id="3b70a-102">Can't read email in Google Chrome with AdBlock</span></span>
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a><span data-ttu-id="dee0d-102">Nem lehet olvasni az e-maileket a Google Chrome-ban az AdBlock segítségével</span><span class="sxs-lookup"><span data-stu-id="dee0d-102">Can't read email in Google Chrome with AdBlock</span></span>
 
-<span data-ttu-id="3b70a-103">Ha Ön vidám ' olvas vagy alkot elektronikus levél mikor használ Google Króm-val a AdBlock kiterjesztés:</span><span class="sxs-lookup"><span data-stu-id="3b70a-103">If you can't read or compose email when using Google Chrome with the AdBlock extension:</span></span>
+<span data-ttu-id="dee0d-103">Ha nem tud e-mailt olvasni vagy írni, amikor a Google Chrome-ot az AdBlock kiterjesztéssel használja:</span><span class="sxs-lookup"><span data-stu-id="dee0d-103">If you can't read or compose email when using Google Chrome with the AdBlock extension:</span></span>
 
-- <span data-ttu-id="3b70a-104">Használja a [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) vagy más webböngészőt.</span><span class="sxs-lookup"><span data-stu-id="3b70a-104">Use [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) or another web browser.</span></span>
-- <span data-ttu-id="3b70a-105">A Outlook.com kizárása az AdBlock beállításból.</span><span class="sxs-lookup"><span data-stu-id="3b70a-105">Exclude Outlook.com from the AdBlock settings.</span></span> <span data-ttu-id="3b70a-106">Tetején jobb sarok-ból Google Króm, kiválaszt **Adblock** aztán kiválaszt **dont ' fuss-ra oldalak ezen birtok**.</span><span class="sxs-lookup"><span data-stu-id="3b70a-106">At the top right corner of Google Chrome, select **AdBlock** and then select **Don't run on pages on this domain**.</span></span> <span data-ttu-id="3b70a-107">Frissítse böngészőjét a Outlook.com ismételt betöltésének érdekében.</span><span class="sxs-lookup"><span data-stu-id="3b70a-107">Refresh your browser to load Outlook.com again.</span></span>
+- <span data-ttu-id="dee0d-104">Használja a [Microsoft Edge-et](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) vagy egy másik webböngészőt.</span><span class="sxs-lookup"><span data-stu-id="dee0d-104">Use [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) or another web browser.</span></span>
+- <span data-ttu-id="dee0d-105">Zárja ki Outlook.com az AdBlock beállításaiból.</span><span class="sxs-lookup"><span data-stu-id="dee0d-105">Exclude Outlook.com from the AdBlock settings.</span></span> <span data-ttu-id="dee0d-106">A Google Chrome jobb felső sarkában válassza az **AdBlock** lehetőséget, majd a **Ne fusson a tartomány oldalain**.</span><span class="sxs-lookup"><span data-stu-id="dee0d-106">At the top right corner of Google Chrome, select **AdBlock** and then select **Don't run on pages on this domain**.</span></span> <span data-ttu-id="dee0d-107">Frissítse a böngészőt, hogy újra betöltse Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="dee0d-107">Refresh your browser to load Outlook.com again.</span></span>

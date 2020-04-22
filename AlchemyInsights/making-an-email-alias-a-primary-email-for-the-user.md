@@ -1,9 +1,9 @@
 ---
-title: 723 hogy egy e-mail alias egy elsődleges e-mail a felhasználó
+title: 723 Az e-mail alias elsődleges e-mail létrehozása a felhasználó számára
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: 3e22655c7408863915ab22389f70d10956839ad8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c21e57befaf770301a7c8a42dd3ff9ff92394b70
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735247"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721934"
 ---
-# <a name="make-an-email-alias-the-primary-address-for-a-user"></a><span data-ttu-id="095dc-102">E-mail alias létrehozása a felhasználó elsődleges címéhez</span><span class="sxs-lookup"><span data-stu-id="095dc-102">Make an email alias the primary address for a user</span></span>
+# <a name="make-an-email-alias-the-primary-address-for-a-user"></a><span data-ttu-id="c6ef6-102">E-mail alias beállítása a felhasználó elsődleges címének</span><span class="sxs-lookup"><span data-stu-id="c6ef6-102">Make an email alias the primary address for a user</span></span>
 
-<span data-ttu-id="095dc-103">További útmutatás: további [e-mail alias hozzáadása egy felhasználóhoz](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).</span><span class="sxs-lookup"><span data-stu-id="095dc-103">For instructions, see [Add another email alias for a user](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).</span></span>
+<span data-ttu-id="c6ef6-103">További információt a [Felhasználó másik e-mail aliasának hozzáadása](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="c6ef6-103">For instructions, see [Add another email alias for a user](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user).</span></span>
 
-<span data-ttu-id="095dc-104">**Megjegyzés**: Ha a szervezete hibrid üzemmódban van, akkor az intézményi Exchange-szervezet elsődleges e-mail címét módosítania kell.</span><span class="sxs-lookup"><span data-stu-id="095dc-104">**Note**: If your organization is in Hybrid mode, you need to change the primary email address in your on-premises Exchange organization.</span></span> <span data-ttu-id="095dc-105">További információt a [postaláda e-mail címeinek hozzáadása vagy eltávolítása](https://technet.microsoft.com/library/bb123794.aspx)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="095dc-105">For more information, see [Add or remove email addresses for a mailbox](https://technet.microsoft.com/library/bb123794.aspx).</span></span>
+<span data-ttu-id="c6ef6-104">**Megjegyzés:** Ha a szervezet hibrid módban van, módosítania kell az elsődleges e-mail címet a helyszíni Exchange-szervezetben.</span><span class="sxs-lookup"><span data-stu-id="c6ef6-104">**Note**: If your organization is in Hybrid mode, you need to change the primary email address in your on-premises Exchange organization.</span></span> <span data-ttu-id="c6ef6-105">További információt a [Postaláda e-mail címeinek hozzáadása és eltávolítása című témakörben talál.](https://technet.microsoft.com/library/bb123794.aspx)</span><span class="sxs-lookup"><span data-stu-id="c6ef6-105">For more information, see [Add or remove email addresses for a mailbox](https://technet.microsoft.com/library/bb123794.aspx).</span></span>
