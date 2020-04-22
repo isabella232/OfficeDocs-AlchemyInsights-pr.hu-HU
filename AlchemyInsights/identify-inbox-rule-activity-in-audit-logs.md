@@ -1,9 +1,9 @@
 ---
-title: Beérkezett üzenetek szabály tevékenység naplók azonosítása
+title: A beérkezett üzenetek szabályának tevékenységének azonosítása a naplókban
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539172"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716426"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Beérkezett üzenetek szabály tevékenység naplók azonosítása
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>A beérkezett üzenetek szabályának tevékenységének azonosítása a naplókban
 
-Az Office 365 biztonsági & Megfelelési központba ellenőrzési napló keresés segítségével megtekinteni a Beérkezett üzenetek szabály eseményeket (létrehozása, módosítása és törlése a Beérkezett üzenetekre vonatkozó szabályok).
+A Microsoft 365 Biztonsági & megfelelőségi központban végzett naplókeresés sel megtekintheti a beérkezett üzenetekre vonatkozó szabályok eseményeit (a beérkezett üzenetekre vonatkozó szabályok létrehozása, módosítása és törlése).
 
-1. Jelentkezzen be az [Office 365 biztonsági & Megfelelési központba](https://protection.office.com/).
+1. Jelentkezzen be a [Microsoft 365 Biztonsági & megfelelőségi központjába.](https://protection.office.com/)
 
-2. Keresse fel a **keresési** > **Audit napló** keresőlap.
+2. Nyissa meg a **Keresési** > **napló keresési naplójának keresési** lapját.
 
-3. Jelöljük ki a dátumot a **Kezdő dátum** és **Záró dátum** mezőket.
+3. Válassza ki a dátumtartományt a **Kezdési dátum** és a **Záró dátum** mezőben.
 
-4. **Exchange postaláda tevékenységek**területen ellenőrizze a **tevékenységeket** a mező értéke **Új-InboxRule létrehozása/módosítása/engedélyezése/letiltása a Beérkezett üzenetek szabály**.
+4. Az **Exchange-postaláda-tevékenységek csoportban**ellenőrizze, hogy a **Tevékenységek** mező új **beérkezett üzenetekre vonatkozó létrehozási/módosítási/enable/disable beérkezett üzenetekre vonatkozó szabály értékre van-e állítva.**
 
-5. Kattintson a **Keresés**gombra.
+5. Kattintson a **Keresés gombra.**
 
-Az eredmények a válassza ki a tételt generál. Kattintson a részletek úszó **További információ**. A Beérkezett üzenetek Szabálybeállítások információt a **Paraméterek** mezőben jelenik meg.
+Az eredmények között jelöljön ki egy naplózási rekordot. A részletes úszó panelen kattintson a **További információ gombra.** A beérkezett üzenetek szabálybeállításaival kapcsolatos információk a **Paraméterek** mezőben jelennek meg.
 
-További tudnivalókért tanulmányozza a [meghatározása, ha az Üzenetfájl-szabályt létrehozó felhasználó](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+További [információ: Annak meghatározása, hogy a felhasználó létrehozott-e beérkezett üzenetekre vonatkozó szabályt.](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

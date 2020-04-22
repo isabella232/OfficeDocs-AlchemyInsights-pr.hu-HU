@@ -1,9 +1,9 @@
 ---
-title: Mennyiségi licencelési nagyvállalati szerződés megfelelő fiók aktiválása
+title: Hibás fiókkal aktivált mennyiségi licencszerződés
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: 1387a2ab32d57881ce7d4842dd5d278e789a5d0e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387495"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716210"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>Mennyiségi licencelési nagyvállalati szerződés megfelelő fiók aktiválása
+# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>Hibás fiókkal aktivált mennyiségi licencszerződés
 
-Ha megtalálta a nem megfelelő a bérlő a mennyiségi licencelés Enterprise Agreement keresztül vásárolt előfizetések aktivált, használja a "tudassa velünk hívja meg" beállítás beszélnie kell egy támogatási mérnök.
+Ha úgy találja, hogy a mennyiségi licencszerződés keretében vásárolt előfizetései nem a megfelelő bérlőn lettek aktiválva, kérjük, használja a "Let us call You" lehetőséget, hogy beszéljen egy támogatási szakemberrel.

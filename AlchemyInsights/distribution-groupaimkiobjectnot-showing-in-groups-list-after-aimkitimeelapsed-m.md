@@ -1,5 +1,5 @@
 ---
-title: A (a) {AimKIObject} terjesztési csoport nem jelenik meg a csoportok listában a (*) {Aimkitimeeltelt} perc után
+title: A(z) "{AimKIObject}" terjesztési csoport nem jelenik meg a Csoportok listában {AimKITimeElapsed} perc után
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -8,17 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c1a575b305701953c1b21bee6ebdff5e87072961
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530497"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715044"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>A (a) {AimKIObject} terjesztési csoport nem jelenik meg a csoportok listában a (*) {Aimkitimeeltelt} perc után
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>A(z) "{AimKIObject}" terjesztési csoport nem jelenik meg a Csoportok listában {AimKITimeElapsed} perc után
 
-Az Ön csoportja ("{AimKIObject}") jött létre {Aimkitimeeltelt} perccel ezelőtt. Ez általában nem tart tovább, mint 60 perc az új terjesztési csoport jelenik meg az Admin Center.
+A ({AimKIObject}) csoport {AimKITimeElapsed} létrehozása perccel ezelőtt készült. Általában nem tart tovább 60 percnél, amíg az új terjesztési csoport megjelenik a Felügyeleti központban.
   
-Előfordulhat, hogy az [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) címzettek > csoportok funkcióját használja a csoport kezeléséhez, vagy használja a "hívjuk meg Önt" opciót, hogy beszéljen egy támogató szakemberhez. 
+Az [Exchange Felügyeleti központ](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) Címzettek > csoportok szolgáltatásával kezelheti a csoportot, vagy használhatja a "Szólítsuk önt" lehetőséget, hogy beszéljen egy támogatási szakemberrel. 
   
-

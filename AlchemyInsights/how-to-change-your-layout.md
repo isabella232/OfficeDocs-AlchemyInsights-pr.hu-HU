@@ -1,9 +1,9 @@
 ---
-title: '8000059 Útmutató: az elrendezés módosítása'
+title: 8000059 Hogyan változtassuk meg az elrendezést
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "993"
 - "8000059"
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: be859fdc896f1e0489f31ea8f5f9a16a0ceeb6b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 583f13900746f8fbc722bfceecaa56052efab369
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541706"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711201"
 ---
 # <a name="how-to-change-your-layout"></a>Az elrendezés módosítása
 
-Akkor is könnyen Outlook.com beállítások módosítása, úgy néz ki, és a kívánt módon viselkedik. A legnépszerűbb lehetőségek az eszköztáron válassza ki a **beállításokat** .
+A beállítások at a Outlook.com egyszerűen módosíthatja, így úgy néz ki és viselkedik, ahogy szeretné. Válassza a **Beállítások lehetőséget** az eszköztáron a legnépszerűbb beállítások között.
 
-Minden elrendezési beállítás megtekintéséhez válassza ki a **Beállítások** > **levelezési** > [**Elrendezés**](https://outlook.live.com/mail/options/mail/layout).
+Az összes elrendezési beállítás megtekintéséhez válassza a **Beállítások** > **levélelrendezés** > [**lehetőséget.**](https://outlook.live.com/mail/options/mail/layout)
   

@@ -1,8 +1,8 @@
 ---
-title: Intune alkalmazás telepítési szabályazonosító 991
+title: Intune alkalmazástelepítési szabály azonosítója 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498273"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714008"
 ---
-# <a name="intune-app-deployment"></a>Intune App telepítés
+# <a name="intune-app-deployment"></a>Az Intune alkalmazás telepítése
 
-Intune alkalmazások telepítése a következő három folyamatot:
+Az alkalmazások intune-nal történő telepítése három lépésből áll:
   
-1. **Hozzáadása egy app** - az App Store-alkalmazás hozzáadása, vagy feltölteni egy sor az üzleti alkalmazások.
+1. **Alkalmazás hozzáadása** – Hozzáadhat egy App Store-alkalmazást, vagy feltölthet egy Üzletági alkalmazást.
 
-2. **Hozzárendelése egy app** - az alkalmazás telepítési kiterjedésének megállapításához.
+2. **Alkalmazás hozzárendelése** – Az alkalmazás központi telepítésének hatókörének meghatározása.
 
-3. **Alkalmazások figyelése** - apps telepítése állapotának megtekintése, felfedezett alkalmazások listázása és kezelése app áruházakból beszerzett apps.
+3. **Alkalmazások figyelése** – Megtekintheti az alkalmazások telepítési állapotát, listázhatja a felderített alkalmazásokat, és kezelheti az alkalmazásáruházakban vásárolt alkalmazásokat.
 
-Olvassa el a [Mi az Intune App kezelési](https://docs.microsoft.com/intune/app-management) forgatókönyvek és alkalmazások védelme és beállításával kapcsolatos tudnivalókat.
+Olvassa el [az Intune-alkalmazáskezelés](https://docs.microsoft.com/intune/app-management) című témakört, valamint az alkalmazások konfigurálásával és védelmével kapcsolatos információkat.
   

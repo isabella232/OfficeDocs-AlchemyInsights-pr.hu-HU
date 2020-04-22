@@ -1,9 +1,9 @@
 ---
-title: Az Office 365-előfizetés lemondása?
+title: Törli a Microsoft 365-előfizetését?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 58c4de02cf6833b05cc0579e1e9df11226acb298
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2525550ada33d33dddc391cb87080ba9af4a37b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520309"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711489"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Az Office 365-előfizetés lemondása?
+# <a name="canceling-your-microsoft-365-subscription"></a>Törli a Microsoft 365-előfizetését?
 
-Sajnáljuk, hogy nyissa meg, de a lehetőség az előfizetés:
+Sajnáljuk, hogy elmegy, de itt vannak a lehetőségek, hogy lemondja az előfizetést:
   
-- **A szervezeti adatok alapján, úgy véljük, az aktuális előfizetések próbaverziós előfizetések. Nincs szükség külön felmondásához próbaverzió mert próbaverziós előfizetések nem igényel, és nem kötelező a próbaidőszak vége után.**
+- **A szervezeti adatok alapján úgy véljük, hogy az összes jelenlegi előfizetése próba-előfizetés. Nincs szükség a próbaverziós előfizetés kifejezett lemondására, mert a próbaverziós előfizetések nem igényelnek fizetést, és a próbaidőszak lejárta után nincs kötelezettség.**
 
-- További előfizetés lemondása, vagy a lépésenkénti utasításokat, lásd a cikk: [előfizetés](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- Ha többet szeretne tudni az előfizetés lemondásáról vagy a részletes útmutatásról, olvassa el ezt a cikket: [Az előfizetés lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: Postaláda méretének növelése
+title: A postaláda méretének növelése
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,29 +12,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068306"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714044"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Váltás tervek a postaláda méretének növelésére
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Előfizetések váltása a postaláda méretének növeléséhez
 
-Ha-a Hivatal 365 postaláda méret van már 100 GB, ott ' nincs mód-hoz növekszik ez.
+Ha a postaláda mérete már 100 GB, nem lehet növelni.
   
-Ha a postaláda mérete 50 GB, megnövelheti 100 GB-ra, ha az [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) vagy [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software)értékre vált. Itt van a lép-hoz kapcsol-hoz egy különböző Hivatal 365 tervez:
+Ha a postaláda mérete 50 GB, az [Office 365 Nagyvállalati E3](https://products.office.com/business/office-365-enterprise-e3-business-software) vagy [az Office 365 Nagyvállalati E5](https://products.office.com/business/office-365-enterprise-e5-business-software)csomagra való váltással 100 GB-ra növelheti. Az alábbi lépésekkel válthat másik előfizetésre:
   
-1. A Microsoft 365 admin központban látogasson el a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) oldalára.
+1. A Microsoft 365 Felügyeleti központban nyissa meg a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
 
 2. Válassza ki a frissíteni kívánt előfizetést.
 
-3. Az előfizetés részletei oldalon válassza a **frissítés**-t.
+3. Az előfizetés részletei lapon válassza a **Frissítés**lehetőséget.
 
-4. Keresse meg a frissíteni kívánt tervet, majd válassza a **frissítés** képernyőgombot.
+4. Keresse meg azt a tervet, amelyre frissíteni szeretne, majd kattintson a **Frissítés gombra.**
 
-5. Írja be a szükséges licencek számát, válassza ki, hogy havonta vagy az egész évhez fizet-e, majd válassza a **pénztár**-t.
+5. Adja meg a szükséges licencek számát, válassza ki, hogy havonta vagy egész évre fizet-e, majd válassza a **Kivétel**lehetőséget.
 
-További tudnivalókat a [frissítés másik tervre](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)című témakörben talál.
+További részletekért tekintse [meg a frissítés egy másik csomagra](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-Ha önnek van egy [hivatal 365 tervez amit támogat egy-ban-hely archív](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), tudod is kap további elektronikus levél raktározás mellett felhatalmazó egy archív postaláda. Az archív postaláda további tárolóhelyet biztosít, és lehetővé teszi üzenetek áthelyezést, másolására és keresésére mind az elsődleges, mind az archív postaládában. Az archív postaládák engedélyezésére vonatkozó lépések az [archív postaláda engedélyezése](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)című témakörben találhatók.
+Ha olyan [előfizetéssel rendelkezik, amely támogatja a helyben történő archívumot, további e-mail](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)tárhelyet is beszerezhet egy archív postaláda engedélyezésével. Az archív postaládák további tárhelyet biztosítnak, és lehetővé teszik az üzenetek áthelyezését, másolását és keresését az elsődleges és az archív postaládában. Az archív postaládák engedélyezéséről az [Archív postaláda engedélyezése témakörben](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)található.

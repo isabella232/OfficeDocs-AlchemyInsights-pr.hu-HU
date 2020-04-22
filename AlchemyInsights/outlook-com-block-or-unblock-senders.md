@@ -1,9 +1,9 @@
 ---
-title: A Outlook.com feladó blokkolásának vagy tiltásának feloldása
+title: A feladók blokkolása vagy tiltásának feloldása Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768730"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717766"
 ---
-# <a name="block-or-unblock-senders"></a>Feladók blokkolása vagy Tiltás feloldása
+# <a name="block-or-unblock-senders"></a>A feladók blokkolása vagy tiltásának feloldása
 
-A letiltott feladók e-mail címeihez vagy tartományokhoz küldött üzenetek közvetlenül az Outlook levélszemét mappájába kerülnek. Elektronikus levél van gépiesen távoli-ból dzsunka elektronikus levél dosszié után 30 napok és van nem visszaszerezhető. Válasszon ki egy elemet, hogy mikor lesz eltávolítva.
+A letiltott feladóke e-mail címekről vagy tartományokból érkező üzenetek közvetlenül az Outlook levélszemét mappájába kerülnek. Az e-mailek 30 nap elteltével automatikusan törlődnek a Levélszemét mappából, és nem állíthatók helyre. Jelölje ki azt az elemet, amelyet látni szeretne, hogy mikor távolítja el.
 
-**Az Ön postaládájába:**
+**A beérkező üzenetek mappából:**
 
-- Az üzenetlistában jelölje ki az üzenetet, majd válassza a **Levélszemét** > **blokkolása**listaelemre.
-- **Megjegyzés:** A Levélszemét mappában lévő elem zárolása nem törlődik a törléshez.
+- Az üzenetlistában jelölje ki az üzenetet, majd válassza a > **Levélszemétblokkolás**lehetőséget. **Junk**
+- **Megjegyzés:** A Levélszemét mappában lévő elemek letiltása nem törli azt.
 
-**Beállítások:**
+**A beállításokból:**
 
-1. A [Levélszemét](https://outlook.live.com/mail/options/mail/junkEmail) -beállítások megnyitása.
-2. A **letiltott feladók és tartományok**területen válassza a **Hozzáadás**.
-3. Írja be a blokkolni kívánt tartomány e-mail címét, majd nyomja meg az ENTER billentyűt.
-4. Válassza a **Mentés** lehetőséget.
+1. Nyissa [meg a Levélszemét](https://outlook.live.com/mail/options/mail/junkEmail) beállításait.
+2. A **Letiltott feladók és tartományok csoportban**válassza a **Hozzáadás**lehetőséget.
+3. Írja be a blokkolni kívánt tartomány e-mail címét, és nyomja le az Enter billentyűt.
+4. Válassza a **Mentés** gombot.
 
-Egy feladó blokkolásának feloldásához jelölje ki a Kuka ikont annak az e-mail címnek vagy tartománynak a neve mellett, amelyet fel szeretne oldani.
+A feladó letiltásának feloldásához jelölje ki a feloldani kívánt e-mail cím vagy tartomány melletti kuka ikont.
 
-További információ: [e-mail levélszemét megjelölése levélszemétként vagy blokkküldők számára a Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+További információ: [E-mailek megjelölése levélszemétként vagy letiltás a Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)

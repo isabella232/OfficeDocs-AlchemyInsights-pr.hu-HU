@@ -1,9 +1,9 @@
 ---
-title: Külső e-mail továbbítás a naplókat a postafiókok azonosítása
+title: Külső e-mailek továbbításának azonosítása postaládákban a naplókban
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539103"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716462"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Ha külső e-mail továbbító van beállítva a postafiókok azonosítása
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Annak azonosítása, hogy mikor van konfigurálva a külső e-mailek továbbítása postaládákon
 
-Az Office 365 felhasználók külső e-mail továbbítási postafiók azt állítja be, ha a tevékenység részeként a **Set-Mailbox** parancsmag naplózza a rendszer. A könyvvizsgálati napló keresés használata a biztonsági & Megfelelési központba tevékenység tekintheti meg.
+Ha egy Microsoft 365-felhasználó külső e-mail továbbítást konfigurál egy postaládán, a rendszer a **set-mailbox** parancsmag részeként naplózza a tevékenységet. A tevékenységet a Biztonsági & megfelelőségi központban, a naplózási keresés sel láthatja.
 
-1. Jelentkezzen be az [Office 365 biztonsági & Megfelelési központba](https://protection.office.com/).
+1. Jelentkezzen be a [Microsoft 365 Biztonsági & megfelelőségi központjába.](https://protection.office.com/)
 
-2. Keresse fel a **keresési** > **Audit napló** keresőlap.
+2. Nyissa meg a **Keresési** > **napló keresési naplójának keresési** lapját.
 
-3. Jelöljük ki a dátumot a **Kezdő dátum** és **Záró dátum** mezőket. Nem kell adnia a felhasználónevet. Ellenőrizze, hogy a **tevékenységeket** a mező értéke **Minden tevékenység eredmény megjelenítése**.
+3. Válassza ki a dátumtartományt a **Kezdési dátum** és a **Záró dátum** mezőben. Nem kell megadnia felhasználónevet. Ellenőrizze, hogy a **Tevékenységek** mező az **összes tevékenység eredményeinek megjelenítése**beállításra van-e állítva.
 
-4. Kattintson a **Keresés**gombra.
+4. Kattintson a **Keresés gombra.**
 
-Az eredmények között kattintson a **Szűrés eredménye** , és a tevékenység szűrő mezőbe írja be **Set-Mailbox** . Válassza ki az eredmények tételt generál. Kattintson a **Részletek** úszó **További információt**. Akkor állapítható meg, ha a tevékenységhez kapcsolódó e-mail továbbító minden naplóbejegyzés részleteit megtekinteni.
+Az eredmények között kattintson az **Eredmények szűrése** gombra, és írja be a **Set-Mailbox (Postaláda** beállítása) mezőbe jelölőnégyzetet. Jelöljön ki egy naplózási rekordot az eredmények között. A **Részletek** úszó panelen kattintson a **További információ gombra.** Meg kell néznie az egyes naplózási rekordok részleteit annak megállapításához, hogy a tevékenység kapcsolódik-e az e-mailek továbbításához.
 
-- **ObjectId**: az alias érték a postafiók módosításának.
+- **ObjectId**: A módosított postaláda aliasértéke.
 
-- **Paraméterek**: _ForwardingSmtpAddress_ jelzi, hogy a cél e-mail címet.
+- **Paraméterek**: _A ForwardingSmtpAddress_ a cél e-mail címet jelzi.
 
-- **UserId**: A felhasználó e-mail továbbítási konfigurálva az **objektumazonosító** mezőben a postafiók.
+- **UserId**: Az a felhasználó, aki az **ObjectId** mezőben beállította az e-mailek továbbítását a postaládán.
 
-További információért lásd: [aki postaládához továbbítása e-mail beállítás meghatározása](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+További információt a [Postaláda e-mail-továbbítási beállításának meghatározása](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox)című témakörben talál.

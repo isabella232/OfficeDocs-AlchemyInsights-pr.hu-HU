@@ -3,7 +3,7 @@ title: Lejárt előfizetés
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665042"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714152"
 ---
 # <a name="expired-subscription"></a>Lejárt előfizetés
 
-Úgy tűnik, hogy van egy vagy több lejárt előfizetések. Ha azt szeretné, a szolgáltatás folytatása, az előfizetés újraaktiválása, vagy az új vásárolni.
+Úgy tűnik, hogy egy vagy több lejárt előfizetéssel rendelkezik. Ha folytatni szeretné a szolgáltatást, újra kell aktiválnia az előfizetést, vagy új vásárlást kell kezdeményeznie.
   
-**Újraaktiválása**
+**Újraaktiválás**
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
+1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
 
-2. Keresse meg az újraaktiválni kívánt előfizetés. Válassza ki a **Számlázási** szakasz **újraaktiválása**.
+2. Keresse meg az újraaktiválni kívánt előfizetést. A **Számlázás** részben válassza az **Újraaktiválás** lehetőséget.
 
-Ha nem látjuk **újraaktiválása** rendelkezésre álló műveletet, az előfizetés újraaktiválása tanácsadásra.
+Ha nem látható az **Újraaktiválás** lehetőség, hívja fel az ügyfélszolgálatot, és kérje az előfizetés újraaktiválását.
 
-3. Erősítse meg a fizetési adatait. A meglévő fizetési adatainak frissítése Ha befejezte a megadása a fizetési módot, válassza a **újraaktiválása**.
+3. Erősítse meg a fizetési adatait. Ugyanitt módosíthatja meglévő fizetési adatait. Miután befejezte a fizetési mód megadását, válassza az **Újraaktiválás** lehetőséget.
 
-További információért lásd: [az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription) című részt.
 
-**A vásárlás új**
+**Új vásárlás**
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [beszerzési](https://go.microsoft.com/fwlink/p/?linkid=868433) szolgáltatások.
+1. A felügyeleti központban nyissa meg a **Számlázási** \> [beszerzési szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=868433) lapot.
 
-2. Válassza ki az előfizetés megvásárlása, majd válassza a **vásárolni**kívánt.
+2. Válassza ki a megvásárolni kívánt előfizetést, majd válassza a **Vásárlás**lehetőséget.
 
-3. Írja be, hogy hány licencre van szüksége, és válassza ki, hogy havonta fizet-e vagy az egész évre. Adja meg, hogy automatikusan szeretne-e licenceket kiosztani a licenccel jelenleg nem rendelkező felhasználóknak. Válassza a **Kiveszi most**.
+3. Írja be, hogy hány licencre van szüksége, és válassza ki, hogy havonta fizet-e vagy az egész évre. Adja meg, hogy automatikusan szeretne-e licenceket kiosztani a licenccel jelenleg nem rendelkező felhasználóknak. Ezután válassza **a Kivétel most**lehetőséget.
 
-4. A fennmaradó lépésekkel kivétel befejezéséhez.
+4. A kivétel befejezéséhez kövesse a további lépéseket.
 
-További információért lásd: [egy másik előfizetést vásárolni](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+További információ: [Másik előfizetés vásárlása.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)

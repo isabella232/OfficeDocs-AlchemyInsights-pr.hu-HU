@@ -12,17 +12,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 6a33ce3662680ed5940db94161b7f925670e397f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 833e4142356a02b23e2465273bf63c42ee7e4f5b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665402"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715778"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Felhasználó nevének és e-mail címének módosítása
 
-Megváltozó egy használók ' név és elektronikus levél cím-ban Hivatal 365 van könnyű. Nyissa **meg a** \> felhasználók [aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapját, és válassza ki a felhasználót az adatok szerkesztéséhez. Tudod is használ ez cikk részére lép-mellett-lép oktatás:
+A felhasználó nevének és e-mail címének módosítása a Microsoft 365-ben egyszerű. Nyissa meg a **Felhasználók** \> [aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapot, és jelölje ki a felhasználót az adataik szerkesztéséhez. Ezt a cikket lépésről lépésre is használhatja:
   
-[Cserél egy felhasználó név és elektronikus levél cím hivatalban 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+[Felhasználónév és e-mail cím módosítása a Microsoft 365-ben](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
- **Jegyzék**ha Ön cserél a használók ' fő elektronikus levél cím,-uk régi elektronikus levél cím akarat csendes lenni érvényes részére felfogó elektronikus levél (ez történik gépiesen). Továbbá, ha a szervezete hibrid állapotban van, az összes e-mail és Felhasználónév módosítást az intézményi Active Directoryban kell elvégezni, majd szinkronizálni kell a felhővel.
+ **Megjegyzés:** Ha módosítja a felhasználó fő e-mail címét, a régi e-mail cím továbbra is érvényes lesz az e-mailek fogadására (ez automatikusan megtörténik). Emellett ha a szervezet hibrid állapotban van, az összes e-mail- és felhasználónév-módosítást a helyszíni Active Directoryban kell elvégezni, majd szinkronizálni kell a felhővel.

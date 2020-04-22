@@ -1,9 +1,9 @@
 ---
-title: 8000059 hogyan lehet módosítani a téma művelet (FMS)
+title: 8000059 Hogyan változtassuk meg a téma fellépés (FMS)
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/13/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "992"
 - "8000059"
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: cc1ada02113dce097d203bd8144e075ec5d9f80f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fe581021d53afdf61bd5a5cdfae471ede596f4c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541623"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711237"
 ---
-# <a name="how-to-change-your-theme"></a>A téma megváltoztatása
+# <a name="how-to-change-your-theme"></a>A téma módosítása
 
-Az Outlook.com vagy Outlook Webes téma megváltoztatása, menjen a **Beállítások** , és válasszon egy témát a **téma**. Az összes rendelkezésre álló témák megjelenítéséhez jelölje be az **összes megjelenítése** a **téma**.
+Ha módosítani szeretné a témát a Outlook.com vagy a Webes Outlookban, lépjen a **Beállítások** lapra, és válasszon egy témát **a Téma**csoportban. Az összes elérhető téma megtekintéséhez válassza az **Összes megtekintése** lehetőséget **a Téma**csoportban.
   

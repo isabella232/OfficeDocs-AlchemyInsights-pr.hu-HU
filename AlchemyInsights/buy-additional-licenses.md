@@ -12,28 +12,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664718"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712173"
 ---
-# <a name="buy-additional-office-365-licenses"></a>Office 365 további licencek vásárlása
+# <a name="buy-additional-licenses"></a>További licencek vásárlása
 
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
+1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
 
-2. Keresse meg az előfizetést, a licencek hozzáadása kívánt, és válassza a **licencek hozzáadása**.
+2. Keresse meg azt az előfizetést, amelyhez licenceket szeretne hozzáadni, majd válassza **a Licencek hozzáadása/eltávolítása**lehetőséget.
 
-    [Mi történik, ha nem látható a hozzáadása hivatkozásra?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [Mi a teendő, ha nem látom a Hozzáadás/eltávolítás hivatkozást?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. Az **összesen** mezőben adja meg az előfizetés szükséges licencek száma, és válassza a **Küldés módosítása**. Ha például 100 licence volt, és 5-öt szeretne hozzáadni, akkor a 105 értéket kell beírnia.
+3. Az **Összes licenc mezőbe** írja be az előfizetéshez szükséges licencek teljes számát, majd válassza **a Módosítás küldése lehetőséget.** Ha például 100 licence volt, és 5-öt szeretne hozzáadni, akkor a 105 értéket kell beírnia.
 
     > [!NOTE]
     > Ha hitelkártyával vagy bankszámláról vásárolta meg az előfizetést, minden megvásárolt új licenc azonnal elérhetővé válik, amint megérkezik a megrendelés megerősítése. Ha számla ellenében fizet, lehetséges, hogy meg kell várnia a hitelképesség-vizsgálat eredményét, mielőtt elérhetővé válnak az új licencei.
 
-Többet, olvassa el [az Office 365 üzleti előfizetés licenceket vásárolni](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+További információ: [Licencek vásárlása a Microsoft 365 vállalati verziós előfizetéséhez.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)  
 
 **További források**
 
-- [Licencek hozzárendelése az Office 365 rendszerben az üzleti felhasználók számára](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Licencek hozzárendelése felhasználókhoz a Microsoft 365 Vállalati verzióban](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

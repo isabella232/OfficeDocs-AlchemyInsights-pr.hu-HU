@@ -1,9 +1,9 @@
 ---
-title: 8000050 tud bejelentkezni az Outlook.com
+title: 8000050 Nem lehet bejelentkezni Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/31/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "842"
 - "8000050"
 ms.assetid: 4dedba59-2b0a-4783-a97e-0cdacc5059ec
-ms.openlocfilehash: 71a8f729e0192673489d3d6eab4284890e7d7665
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b6fbc3e7667b8827c444b0b824ecb7f92bd75a8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505439"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711597"
 ---
-# <a name="i-cant-sign-in-or-forgot-my-password"></a>Nem tud bejelentkezni, vagy elfelejtett jelszó
+# <a name="i-cant-sign-in-or-forgot-my-password"></a>Nem tudok bejelentkezni vagy elfelejtettem a jelszavamat
 
-Ha nem tud bejelentkezni egy másik fiókot, a fiók lehet, hogy ideiglenesen zárolható, mert azt néhány szokatlan bejelentkezési tevékenység első fellépése. Ha a fiók le van tiltva, olvassa el a [Tiltás feloldása az Outlook.com fiók](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
+Ha problémái vannak egy másik fiókba való bejelentkezéskor, előfordulhat, hogy a fiók ideiglenesen le van tiltva, mert szokatlan bejelentkezési tevékenységet észleltünk. Ha a fiók le van tiltva, olvassa el [a Outlook.com fiók tiltásának feloldása](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Ha elfelejtette jelszavát, [akkor a jelszó alaphelyzetbe állítása](https://go.microsoft.com/fwlink/p/?linkid=841909)is.
+Ha elfelejtette a jelszavát, [visszaállíthatja a jelszót.](https://go.microsoft.com/fwlink/p/?linkid=841909)
   
-Ha azt gyanítja, hogy van már megtámadott Outlook.com-fiókját, lásd: [saját Outlook.com fiók rendelkezik már megtámadott](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
+Ha azt gyanítja, hogy Outlook.com fiókját feltörték, olvassa el [a Outlook.com fiók feltörése.](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)
   
-Tudjon meg többet arról, [Ha nem tud bejelentkezni a Microsoft-fiókkal](https://go.microsoft.com/fwlink/p/?linkid=842227).
+További információ: [Ha nem tud bejelentkezni a Microsoft-fiókjába.](https://go.microsoft.com/fwlink/p/?linkid=842227)
   

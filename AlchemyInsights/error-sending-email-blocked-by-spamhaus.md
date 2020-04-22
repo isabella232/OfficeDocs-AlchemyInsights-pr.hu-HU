@@ -1,9 +1,9 @@
 ---
-title: Hiba a SpamHaus által blokkolt e-mail küldése
+title: Hiba a SpamHaus által blokkolt e-mail küldésekor
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 39213f6f1b96c2bef9ea071f43c38766debf64d1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ff4f7a155fe74f5b42a1bd43e67ef0a751d7fbd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527135"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714260"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>E-mail küldése a hiba: ügyfél-állomás segítségével Spamhaus blokkolva
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Hiba az e-mail küldésekor: Az ügyfélállomás blokkolva van a Spamhaus használatával
 
-Az IP-cím az üzenetet küldő tiltólistáján [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245)tulajdonában van. Spamhaus blokkolja indokai feltört számlák megosztása a nyilvános IP-címet és az internetszolgáltató (ISP) házirendek gépek veszélybe. Lehetséges javításokat a következők:
+Az üzenetet küldő IP-cím a [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245)tulajdonában lévő tiltólistán található. A Spamhaus által letiltott okok közé tartoznak a feltört fiókok, a nyilvános IP-címet megosztó feltört gépek és az internetszolgáltatóra vonatkozó házirendek. A lehetséges javítások a következők:
   
-- Blokkolt bejövő üzenetekhez az Office 365, ahol beállíthatja a forrás e-mail kiszolgálón szeretné okának és a blokk eltávolítása a Spamhaus webhelyről.
+- A blokkolt bejövő üzenetek, ahol ellenőrzik a forrás e-mail szerver, meg kell határoznia az okát, és távolítsa el a blokkot a Spamhaus honlapján.
 
-- Blokkolt bejövő üzenetekhez, ahol a forrás IP-cím tartozik valaki más Office 365 cím tulajdonosa szervizszerződésekből el kell távolítania a blokk a Spamhaus webhelyet. Ha az IP-címet a házirend blokk lista (PBL), a tulajdonos más statikus IP-cím, vagy távolítsa el a címet a PBL.
+- A blokkolt bejövő üzenetek esetében, ahol a forrás IP-cím valaki másé, a cím tulajdonosának el kell távolítania a blokkot a Spamhaus webhelyről. Ha az IP-cím szerepel a házirend-blokklistán (PBL), a tulajdonos másik statikus IP-címet rendelhet hozzá, vagy eltávolíthatja a címet a PBL-ből.
 
-- A zárolt kimenő üzeneteket az Office 365 tartományból Ha az üzenetek útválasztása 3. fél szolgáltatáson keresztül kaphat Ez a hiba. A "WHOIS" keresési eszköz segítségével keresse meg a blokkolt IP cím tulajdonosa.
+- A Microsofthoz csatlakoztatott tartományból letiltott kimenő üzenetek esetén ez a hibaüzenet akkor jelenhet meg, ha az üzenetek et egy külső szolgáltatáson keresztül továbbítják. A WHOIS kereséseszközével megkeresheti a blokkolt IP-cím tulajdonosát.

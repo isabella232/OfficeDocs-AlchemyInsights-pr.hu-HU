@@ -1,9 +1,9 @@
 ---
-title: Műveletnaplók törlése üzenet események azonosítása
+title: Üzenetesemények azonosítása a naplókban
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539211"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716498"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Naplók a törölt e-mailek
+# <a name="audit-logs-for-deleted-email-messages"></a>Törölt e-mail üzenetek naplóinak naplózása
 
-Január 2019 kezdődően a Microsoft van bekapcsolása alapértelmezés szerint a postafiók naplóvizsgálat. Ellenkező esetben üzenet események törlése egy adott felhasználó áttekintéséhez kell manuálisan engedélyezi a törlési műveletek naplózását. Ha a postaláda naplózása naplózási már engedélyezve van a szervezet számára, vagy az adott felhasználó, kövesse az alábbi lépéseket.
+2019 januárjától kezdve a Microsoft alapértelmezés szerint bekapcsolja a postaláda-naplózásnaplózást. Ellenkező esetben egy adott felhasználó üzeneteseményeinek ellenőrzéséhez manuálisan kell engedélyeznie a törlési műveleteket a naplózáshoz. Ha a postaláda naplózása már engedélyezve van a szervezetvagy az adott felhasználó számára, kövesse az alábbi lépéseket.
 
-1. Jelentkezzen be az [Office 365 biztonsági & kompatibilitási központ](https://protection.office.com/)
+1. Bejelentkezés a [Microsoft 365 Biztonsági & megfelelőségi központjába](https://protection.office.com/)
 
-2. Kattintson a **Keresés és a vizsgálat** , és válassza a **Könyvvizsgálati napló Search**.
+2. Kattintson **a Keresés és vizsgálat** gombra, és válassza a **Naplókeresés lehetőséget.**
 
-3. Jelöljük ki a dátumot a **Kezdő dátum** és **Záró dátum** mezőket. Adja meg a felhasználó (Törölt elemek a felhasználó) vizsgálja meg a használni kívánt felhasználónév. A **tevékenységek** mezőben jelölje ki a **Törölt elemek mappából törölt üzenetek** és a **Moved üzenetek a törölt elemek mappába**.
+3. Válassza ki a dátumtartományt a **Kezdési dátum** és a **Záró dátum** mezőben. Adja meg a vizsgálni kívánt felhasználó (az elemeket törölt felhasználó) felhasználónevét. A **Tevékenységek** mezőben jelölje be a **Törölt üzenetek mappából a Törölt üzenetek mappából,** és **az Áthelyezett üzenetek mappába**.
 
-4. Kattintson a **Keresés**gombra.
+4. Kattintson a **Keresés gombra.**
 
-Az eredmények a válassza ki a tételt generál. Kattintson a részletek úszó **További információ**. További információt a törölt elem (például a tárgy és a hely törlésekor a program a cikk) a **AffectedItems** mezőben jelenik meg. A **ClientInfoString** tulajdonság fogja mutatni, ha a törlés történt, az Outlook, az Outlook a weben (korábbi nevén az Outlook Web App), vagy bármely más eszköz.
+Az eredmények között jelöljön ki egy naplózási rekordot. A részletes úszó panelen kattintson a **További információ gombra.** A törölt cikkről (például a tárgysorról és a cikk törlésének helyéről) további információk jelennek meg az **Érintett elemek** mezőben. A **ClientInfoString** tulajdonság megmutatja, hogy a törlés megtörtént-e az Outlookban, a Webes Outlookban (korábbi nevén Outlook Web App) vagy bármely más eszközben.
 
-További információért lásd: [aki postaládához továbbítása e-mail beállítás meghatározása](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+További információt a [Postaláda e-mail-továbbítási beállításának meghatározása](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items)című témakörben talál.
 
-**Megjegyzés**: nem lehet beolvasni a törölt elemek a könyvvizsgálati napló szolgáltatásával. Beolvasni a törölt üzeneteket az Outlook programban a weben, lásd: [Törölt elemek az Outlook Web App helyreállítása](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Megjegyzés:** A naplószolgáltatás használatával nem lehet beolvasni a törölt elemeket. A törölt üzenetek beolvasása a Webes Outlookban a Törölt elemek helyreállítása az [Outlook Web Appban](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)című témakörben található.

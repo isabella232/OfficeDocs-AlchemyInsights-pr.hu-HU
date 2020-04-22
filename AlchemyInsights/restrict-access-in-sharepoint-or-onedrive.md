@@ -1,29 +1,29 @@
 ---
-title: Hozzáférés korlátozása a SharePoint vagy az OneDrive
+title: Hozzáférés korlátozása a SharePointban vagy a OneDrive-on
 ms.author: mikeplum
 author: MikePlumleyMSFT
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: e5458226fe33bd5cb3da1f608fb113b888fbfd16
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: ed8e97b20c96a7b46995c969074cc4cef3a787d9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36551453"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715886"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Hozzáférés korlátozása a SharePoint vagy az OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Hozzáférés korlátozása a SharePointban vagy a OneDrive-on
 
-A SharePoint és az OneDrive alkalmazásban a fájlokhoz, mappákhoz és listákhoz hasonló elemekhez való hozzáférést úgy korlátozhatja, hogy csak az elérni kívánt csoportoknak vagy személyeknek biztosít hozzáférést. Alapértelmezés szerint a SharePoint rendszerben az engedélyek a hierarchiában feljebb lévő jogosultságoktól öröklődnek. Tehát egy fájl örökli a jogosultságokat a mappából, amely örökli a jogosultságokat a könyvtár, amely örökli a jogosultságokat a hely.
+A SharePointban és a OneDrive-ban korlátozhatja a hozzáférést az olyan elemekhez, mint a fájlok, mappák és listák, mivel csak olyan csoportoknak vagy személyeknek biztosít hozzáférést, amelyekhez hozzá szeretne férni. Alapértelmezés szerint a SharePoint engedélyei a hierarchia magasabb szintű részétől öröklődnek. Így egy fájl örökli az engedélyeit a mappából, amely az engedélyeket a tárból örökli, amely az engedélyeket a webhelytől örökli.
   
-A megosztást magasabb szinten (például egy egész webhely megosztásával) megoszthatja, majd az öröklődés megszakadhat, ha nem szeretné megosztani a webhely összes elemét. Azonban ezt nem javasoljuk, mert a jogosultságokat a jövőben bonyolultabbá és bonyolultabbá teszi. Itt van, mit lehetne csinálni helyette:
+Magasabb szinten is megoszthatja (például egy teljes webhely megosztásával), majd megszakíthatja az öröklődést, ha nem szeretné megosztani a webhely összes elemét. Ezt azonban nem javasoljuk, mert a jövőben bonyolultabbá és zavarosabbá teszi az engedélyek karbantartását. Ehelyett a következőket teheti:
   
-- Ha például egy mappa teljes tartalmát meg szeretné osztani egy fájlon kívül, helyezze át a fájlt egy olyan új helyre, amely nincs megosztva.
+- Ha például egy mappa teljes tartalmát meg szeretné osztani, kivéve egy fájlt, helyezze át a fájlt egy új helyre, amely nincs megosztva.
     
-- Ha egy mappában két almappája van, és egy almappát szeretne megosztani az A és A B csoporttal, és csak az A csoport férhet hozzá a második almappához, ossza meg a szülőmappát az A csoporttal, és az első almappához vegye fel a B csoportot.
+- Ha egy mappában két almappa van, és egy almappát meg szeretne osztani az A és B csoporttal, és csak az A csoport számára engedélyezi a hozzáférést a második almappához, ossza meg a szülőmappát az A csoporttal, és adja hozzá a B csoportot az első almappához.
     
 [Fájl vagy mappa megosztásának leállítása](https://go.microsoft.com/fwlink/?linkid=2008861)
   

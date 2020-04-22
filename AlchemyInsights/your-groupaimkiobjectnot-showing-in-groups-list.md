@@ -1,24 +1,24 @@
 ---
-title: A csoportot a csoportok listában nem látható
+title: A csoport nem jelenik meg a Csoportok listában
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/8/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 1708cc461888d903531422f9d272db12e8dd142f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75d411dd42d1abd8784695c0d1a9a16718fe6838
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530805"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715814"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>A csoportok listában nem látható a csoport "{AimKIObject}"
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>A(z) "{AimKIObject}" csoport nem jelenik meg a Csoportok listában
 
-A terjesztési csoport "{AimKIObject}" nevű perccel ezelőtt készült {AimKITimeElapsed}. Mielőtt az új csoport megjelenik a felügyeleti központ legfeljebb 60 percig is eltarthat.
+A(z) "{AimKIObject}" nevű terjesztési csoport {AimKITimeElapsed} létrehozása perccel ezelőtt lett létrehozva. Az új csoport megnyithat a Felügyeleti központban akár 60 percet is.
   
-Ha azt szeretné, tagok hozzáadása, vagy más szerkesztések most, használja a csoportok szolgáltatás az [Exchange felügyeleti központ](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Ha most tagokat szeretne felvenni, vagy egyéb módosításokat szeretne, használja az [Exchange Felügyeleti központ](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)Csoportok szolgáltatását.
   
 

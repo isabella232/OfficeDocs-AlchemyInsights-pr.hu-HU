@@ -1,40 +1,40 @@
 ---
-title: A feltételes hozzáférésű figyelése
+title: Feltételes hozzáférés figyelése
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538748"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713720"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Az Exchange felügyeleti feltételes hozzáférés
+# <a name="monitoring-conditional-access-for-exchange"></a>Az Exchange feltételes hozzáférésének figyelése
 
-Célzott feltételes hozzáféréssel rendelkező felhasználók kapnak értesítést e-mailben, ha nem felel meg a szervezet hozzáférési követelmények. Úgy oldhatja meg, ajánlott egy vagy több a következő oldatokat:
+A feltételes hozzáféréssel rendelkező felhasználók értesítést kapnak e-mailben, ha nem felelnek meg a szervezet hozzáférési követelményeinek. A megoldáshoz az alábbi megoldások közül választhat:
   
-- Ha az eszköz feltételezhetőleg igényelt, tájékoztatja a felhasználót, hogy nyissa meg a vállalati portál app, és ellenőrizze, hogy a vállalati portál megjelenik. Ha nem, a felhasználó az eszközt kell igényelni.
+- Ha az eszköz vélelmezni kell, hogy regisztrált, javasoljuk a felhasználónak, hogy menjen a Céges portál alkalmazást, és ellenőrizze, hogy megjelenik-e a céges portálon. Ha nem, a felhasználónak regisztrálnia kell az eszközt.
     
-- Az Azure portálon Ugrás **Intune \> eszköz való**. Kattintson a **Monitor** **eszköz betartását**. Ellenőrizze, hogy a felhasználó eszköz van megjelölve, kompatibilis az eszköz megfelelési jelentés megtekintése. 
+- Az Azure Portalon nyissa meg az **Intune-eszköz \> megfelelősége.** A **Figyelő** csoportban kattintson **az Eszközmegfelelőség**elemre. Tekintse meg az eszköz megfelelőségi jelentését, és ellenőrizze, hogy a felhasználó eszköze megfelelőként van-e megjelölve. 
     
-- Az Azure portálon Ugrás **Intune \> eszköz való**. Kattintson a **Manage**, **házirendek**. Megfelelés irányelveinek listája ellenőrizze, hogy a profil a felhasználó eszköz van rendelve. Ha nincs profil van rendelve, majd Intune nem tudják megfelelési Eszközállapot megerősítéséhez. 
+- Az Azure Portalon nyissa meg az **Intune-eszköz \> megfelelősége.** A **Kezelés csoportban**kattintson a **Házirendek**gombra. A megfelelőségi szabályzatok listájában ellenőrizze, hogy egy profil hozzá van-e rendelve a felhasználó eszközéhez. Ha nincs hozzárendelve profil, akkor az Intune nem fogja tudni megerősíteni az eszköz megfelelőségi állapotát. 
     
-- A felhasználó a feltételes hozzáférésű hozzárendelés szerkesztése.
+- A felhasználó feltételes hozzáférési hozzárendelésének szerkesztése.
     
-1. Az Azure portálon Ugrás **Intune \> a feltételes hozzáférésű \> politika**
+1. Az Azure Portalon nyissa meg az **Intune \> feltételes hozzáférési \> szabályzatait**
     
-2. Jelölje ki a szabályzatot a listán
+2. Házirend kiválasztása a listából
     
-3. Kattintson a **felhasználók és csoportok**
+3. Kattintson **a Felhasználók és csoportok elemre.**
     
-4. Valaki, egy bizonyos házirend célozza meg, vegye fel őket a **belefoglalási** listába felvenni. Annak érdekében, hogy egy személy a házirend nincs megadva, adja hozzá őket a **kizárása** listához. 
+4. Ha egy bizonyos házirendet meg szeretne célozni valakire, vegye fel a **Belefoglalás listára.** Annak érdekében, hogy egy személy kikerüljön a házirendből, vegye fel őket a **Kizárás listára.** 
     
-További: [hogyan Monitor feltételes hozzáférést biztosító eszközök](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+További információ: [A feltételes hozzáférésű eszközök figyelése](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

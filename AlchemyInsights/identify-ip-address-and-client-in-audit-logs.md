@@ -1,9 +1,9 @@
 ---
-title: IP-cím és a naplókat az ügyfél azonosítása
+title: Ip-cím és ügyfél azonosítása a naplókban
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539031"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716390"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-cím és a naplókat az ügyfél azonosítása
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>Ip-cím és ügyfél azonosítása a naplókban
 
-Az IP-cím, amely megfelel az Office 365-felhasználó vagy rendszergazda által tevékenység jelenik meg a naplókat. Az ügyfél adatait is naplózza. Az alábbiakban a lépéseket, hogy ilyen információk azonosítása
+A Microsoft 365-felhasználó vagy -rendszergazda tevékenységének megfelelő IP-cím a naplókban jelenik meg. Az ügyféladatok is naplózva lesznek. Az alábbi lépésekkel azonosíthatók az ilyen információk
 
-1. Jelentkezzen be az [Office 365 biztonsági & Megfelelési központba](https://protection.office.com/).
+1. Jelentkezzen be a [Microsoft 365 Biztonsági & megfelelőségi központjába.](https://protection.office.com/)
 
-2. Keresse fel a **keresési** > **Audit napló** keresőlap.
+2. Nyissa meg a **Keresési** > **napló keresési naplójának keresési** lapját.
 
-   Ha érdekli az adott tevékenység, **tevékenységek** listából jelölje ki azt. Ha nem, minden tevékenység visszatér a kijelölt felhasználó (alapértelmezett beállítás).
+   Ha érdekel egy adott tevékenység, válassza ki a **Tevékenységek** listából. Ha nem, akkor a kijelölt felhasználó minden tevékenysége visszakerül (alapértelmezett beállítás).
 
-   **Megjegyzés**: egyes tevékenységek nem áll rendelkezésre a **tevékenységek** menü; azonban e könyvvizsgálati elemek **Minden tevékenységek eredményének megjelenítése** a kijelölt (alapértelmezett beállítás) esetén visszatér.
+   **Megjegyzés**: Előfordulhat, hogy bizonyos tevékenységek nem érhetők el a **Tevékenységek** menüben; ezek a naplózási elemek azonban akkor kerülnek visszaadásra, ha **az összes tevékenység eredményének megjelenítése** be van jelölve (alapértelmezett beállítás).
 
-3. A **felhasználók** mezőben adja meg a felhasználónevet, válassza ki a megfelelő dátumtartományt a tevékenység, és kattintson a **Keresés**.
+3. Adja meg a felhasználónevet a **Felhasználók** mezőben, válassza ki a tevékenységhez megfelelő dátumtartományt, majd kattintson a **Keresés gombra.**
 
-Az eredmények a tevékenység az eredmények ablaktáblájában az IP-cím látható. Válassza ki az elemzési rekord részletes információt a **Részletek** úszó (például ügyfél, felhasználó által végzett művelet, stb.).
+Az eredményekben az adott tevékenység IP-címét láthatja az eredmények ablaktáblában. Válassza ki a naplózási rekordot a **Részletek** úszó panelrészletes információinak megtekintéséhez (például Ügyfél, Műveletet végző felhasználó stb.).
 
-További tudnivalókért tanulmányozza [a feltört fiók elérésére használt számítógép IP-cím megkeresése](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+További információt [a feltört fiók eléréséhez használt számítógép IP-címének megkeresése](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account)című témakörben talál.

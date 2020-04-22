@@ -1,9 +1,9 @@
 ---
-title: E-mailek áthelyezése az archív postaládába
+title: E-mailek áthelyezése az Archív postaládába
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 5592bc7d4566e3498c33bbf9488db7f46ec58842
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: a5ad81e97df0ed5c337a622126173df94af80bb8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822164"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713648"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>E-mailek áthelyezése az archív postaládába
 
-1. Ellenőrizze, hogy az **archív postaláda** engedélyezve van-e. Ha nem, akkor az ebben a [cikkben](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) leírt lépésekkel engedélyezheti az archív postaládát.
+1. Ellenőrizze, hogy engedélyezve **van-e az archív postaláda.** Ha nem, a [cikkben](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) ismertetett lépésekkel engedélyezze az archív postaládát.
 
-2. Ha automatikusan szeretné archiválni az üzeneteket az archív postaládába, az **Áthelyezés az archiválandó** műveletre beállított adatmegőrzési címkét a **teljes postafiók (alapértelmezett) címke automatikus alkalmazására**kell állítani. Használja a lépéseket ide, hogy megteremtse a tag: [Archívum default tag](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Ha az üzeneteket automatikusan archiválni szeretné az archív postaládába, **be** kell állítania, hogy az automatikusan alkalmazza a **teljes postaláda -ra (alapértelmezett) címkét.** Az itt leírt lépésekkel hozhatja létre a címkét: [Archiválás i. címke](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Ezután adja hozzá az **archív** címkét az adatmegőrzési szabályhoz. Az Exchange felügyeleti központban válassza az **adatmegőrzési szabályok** > az **Áthelyezés az archív címkéhez** parancsot a > **Mentés**házirendbe.
+3. Ezután adja hozzá az **Archív** címkét az adatmegőrzési házirendhez. Az Exchange Felügyeleti központban válassza az **Adatmegőrzési házirendek** lehetőséget, > adja hozzá az **Áthelyezés az archívumba címkét** a Mentés > **házirendhez.**
 
-4. [Rendelje hozzá az adatmegőrzési szabályt](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) az adott felhasználó postaládájához. Ugyanez a házirend vonatkozik az **elsődleges** és az **archív** postaládára is.
+4. Most [rendelje hozzá az adatmegőrzési szabályt](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) az adott felhasználó postaládájához. Ugyanez a házirend lesz alkalmazva mind az **Elsődleges,** mind az **Archív** postaládára.
 
-Szükség lehet a kezelt mappák segédjének (MFA) futtatására, és az új beállításoknak a felhasználó postaládájára történő alkalmazására. Futtassa a következő parancsot, miközben [csatlakozik az EXO PowerShell-hoz](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) a kezelt mappa segéd indításához egy adott postafiókhoz:
+Szükség lehet arra, hogy a felügyelt mappasegédet (MFA) a felhasználó postaládájára kényszerítse és alkalmazza az új beállításokra. Futtassa a következő parancsot, miközben [az EXO PowerShellhez csatlakozik](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) egy adott postaláda felügyelt mappasegédének elindításához:
   
-Start-ManagedFolderAssistant-identitás<name of the mailbox>
+Start-ManagedFolderAssistant -Identitás<name of the mailbox>
 
-Az archiválási házirendek beállításával kapcsolatos további tudnivalókért tanulmányozza a [postaládák archiválási és törlési házirendjének beállítása](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users)című témakört.
+Az archiválási házirend beállításáról a [postaládák archiválási és törlési házirendjének beállítása](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users)című témakörben talál további információt.
   

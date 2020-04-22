@@ -1,5 +1,5 @@
 ---
-title: Hamisítást, adathalászatot vagy megszemélyesítést érintő problémák?
+title: Csalással, adathalászattal vagy megszemélyesítéssel kapcsolatos problémák?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
-ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
+ms.openlocfilehash: fa6503b7ec1c4e83030149ee460e6d84602d7f4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36716105"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713972"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Hamisítást, adathalászatot vagy megszemélyesítést érintő problémák?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Csalással, adathalászattal vagy megszemélyesítéssel kapcsolatos problémák?
 
-Ismerje meg, hogyan védi az Office 365 a:
+Ismerje meg, hogy a Microsoft hogyan védi Önt az:
 
 - [Svindli](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
@@ -26,12 +26,12 @@ Ismerje meg, hogyan védi az Office 365 a:
 
 További ajánlások:
 
-- Részére svelált feladó amit feltűnik-hoz jön-ból-a saját birtok, [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) és [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) tud segít.
+- A saját tartományából származónak tűnő hamis feladók számára az [SPF](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) és a [DKIM](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email) segíthet.
 
-- A saját tartományban lévő feladók ellenőrzése nem a levéláramlási szabályok (más néven átviteli szabályok) használatával, illetve a listaelemek engedélyezésére van konfigurálva. További információ: az [Office 365 levélszemétszűrőinek megkerülve](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Ellenőrizze, hogy a saját tartományában lévő feladók nincsenek beállítva a levélszemét-szűrés megkerülésére a levélforgalom-szabályok (más néven átviteli szabályok) használatával, vagy a listabejegyzések engedélyezése. További információt a [Figyelmeztetések a Microsoft levélszemétszűrőinek megkerülése ellen](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)című témakörben talál.
 
-- Ellenőrizze, hogy a felhasználók nem konfigurálta-e a [Biztonságos feladók listabejegyzéseit](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) , amelyek adathalászati támadásokat engedélyeznek.
+- Ellenőrizze, hogy a felhasználók nem konfigurálták-e [a megbízható feladók](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) at, és nem sorolták-e fel azokat a bejegyzéseket, amelyek lehetővé tehetik az adathalász támadásokat.
 
-- A Levélszemét mappa helyett fontolja meg a magas szintű biztonsággal rendelkező levélszemét és adathalász üzenetek karanténba helyezését. További információt a [karantén e-mail üzenetek az Office 365-ban](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages)című témakörben talál.
+- Fontolja meg a nagy megbízhatóságú levélszemét és adathalász üzenetek kézbesítését karanténba a Levélszemét mappa helyett. További információ: [E-mail üzenetek karanténja](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
 
-**A [Microsoft számára történő jelentéskészítés](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) a legjobb mód arra, hogy tudassa velünk a szűrők előadásáról ismert üzeneteket.**
+**[Az üzenetek microsoftos jelentéskészítési](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) módja a legjobb módja annak, hogy tudassa velünk, hogyan teljesítenek a szűrők.**

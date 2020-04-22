@@ -1,9 +1,9 @@
 ---
-title: Az Office 365 előfizetés lemondása
+title: A Microsoft 365-előfizetés lemondása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7d1e37d00876c117f7c83f960c05a350ed8a982c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665511"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711561"
 ---
-# <a name="cancelling-your-office-365-subscription"></a>Érvénytelenítés-a Hivatal 365 aláírás?
+# <a name="cancelling-your-microsoft-365-subscription"></a>Törli a Microsoft 365-előfizetését?
 
-Voltak ' szomorú-hoz lát ön megy, de itt van-a választások-hoz áthúz-a aláírás:
+Sajnáljuk, hogy elmegy, de itt vannak a lehetőségek, hogy lemondja az előfizetést:
   
-- Ha Ön egy próba-ügyfél, nincs mit szakítani. A próbaelőfizetések automatikusan lejárnak, ha nem ad meg fizetési módot.
+- Ha Ön próba-ügyfél, nincs mit törölni. A próba-előfizetések automatikusan lejárnak, kivéve, ha megad egy fizetési módot.
 
-- Ha 25-nél kevesebb licencet kap, akkor lemondhatja az előfizetést az interneten. Tovább a **Számlázási** \> [termékek _amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054). -Ban **elintézés & tettek** rész, választ **áthúz aláírás**.
+- Ha 25-nél kevesebb hozzárendelt licenccel rendelkezik, online lemondhatja az előfizetést. Nyissa meg **a Számlázási** \> [termékek & szolgáltatások .](https://go.microsoft.com/fwlink/p/?linkid=842054) A **Beállítások & műveletek csoportban** válassza **az Előfizetés lemondása**lehetőséget.
 
-- Ha több mint 25 hozzárendelt licencet használ, akkor vagy távolítsa el a felhasználókat, amíg nem kevesebb, mint 25, vagy használja a "nevezzünk meg" opciót, hogy beszéljen egy támogató mérnök.
+- Ha 25-nél több hozzárendelt licenccel rendelkezik, eltávolíthatja a felhasználókat, amíg 25-nél kevesebb nem rendelkezik, vagy használhatja a "Szólítsuk önt" lehetőséget, hogy beszéljen egy támogatási szakemberrel.
 
-További tudnivalókat [az előfizetés lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)című témakörben találhat.
+További információ: [Előfizetés lemondása.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

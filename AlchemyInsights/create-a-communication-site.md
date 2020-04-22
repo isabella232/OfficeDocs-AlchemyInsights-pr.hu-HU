@@ -1,30 +1,30 @@
 ---
-title: Kommunikációs webhely létrehozása
+title: Kommunikációs hely létrehozása
 ms.author: pebaum
 author: pebaum
-ms.date: 11/13/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: cb5207ef7348f0c7728d2752d1a7196dc712b566
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: efd118352e2f7a137a489c69956b3eac11f1ffb7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049915"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715598"
 ---
-# <a name="create-a-communication-site"></a>Kommunikációs webhely létrehozása
+# <a name="create-a-communication-site"></a>Kommunikációs hely létrehozása
 
-Ha a SharePoint Online szolgáltatásban szeretne létrehozni egy kommunikációs webhelyet, hajtsa végre az alábbi lépéseket: 
+Ha kommunikációs webhelyet szeretne létrehozni a SharePoint Online-ban, hajtsa végre az alábbi lépéseket: 
   
-1. A lap bal felső sarkában kattintson az alkalmazásindító ikonra, és válassza ki a SharePoint mozaikot. Ha nem látja a SharePoint-mozaikot, kattintson a **helyek** vagy az **összes alkalmazás** lehetőségre, ha a SharePoint nem látható. 
+1. A lap bal felső sarkában kattintson az alkalmazásindítóra, és válassza a SharePoint csempét. Ha nem látja a SharePoint csempét, kattintson a **Webhelyek** vagy **az Összes alkalmazás** elemre, ha a SharePoint nem látható. 
     
-2. A SharePoint-lap tetején kattintson a **webhely létrehozása** és a **kommunikációs hely**kiválasztása elemre. Kövesse a Webhelykészítő varázsló lépéseit. 
+2. A SharePoint-lap tetején kattintson a **Webhely létrehozása** gombra, és válassza a **Kommunikációs webhely**lehetőséget. Kövesse a webhelykészítő varázsló lépéseit. 
     
- **Megjegyzés**: Ha nem látja a **webhely létrehozása**lehetőséget, az önkiszolgáló webhelykészítés letiltható az Office 365-ben. A csoportwebhely létrehozásához lépjen kapcsolatba a szervezeten belül az Office 365 felügyeleti személlyel. A bérlő rendszergazdája a [webhely létrehozásának kezelése a SharePoint Online szolgáltatásban című témakörben engedélyezheti a szervezete számára az önkiszolgáló webhelykészítés engedélyezését.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Megjegyzés:** Ha nem látja a **Webhely létrehozása**lehetőséget, előfordulhat, hogy az önkiszolgáló webhelylétrehozása le van tiltva. Csoportwebhely létrehozásához lépjen kapcsolatba a Microsoft 365-öt a szervezetben felügyelő személlyel. Ha Ön bérlői rendszergazda, olvassa el [a Webhelylétrehozásának kezelése a SharePoint Online-ban lehetőséget adó webhely létrehozásának engedélyezéséhez a szervezet számára.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Megjegyzés:** Ha kommunikációs webhelyet próbál létrehozni, és az URL-cím véletlenszerű számokkal van hozzáfűzve, valószínű, hogy az adott URL-címmel rendelkező webhely már létezik a SharePoint-környezetben, vagy törölve lett, és a törölt helyek között (Lomtárban) is létezik. [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) Segítségével értékelje ki a Lomtárat, [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) és távolítsa el a webhelyet a Lomtárból. 
+ **Megjegyzés:** Ha kommunikációs webhelyet próbál létrehozni, és az URL-címet véletlenszerű számokkal fűzik hozzá, akkor valószínű, hogy az azonos URL-címmel rendelkező webhely már létezik a SharePoint-környezetben, vagy törölték, és továbbra is létezik a Törölt helyek (Lomtár) alkalmazásban. Itt [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) kiértékelheti a [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) lomtárt, és eltávolíthatja a helyet a lomtárból. 
   
 

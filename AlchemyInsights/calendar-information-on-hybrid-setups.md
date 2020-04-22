@@ -1,9 +1,9 @@
 ---
-title: Hibrid beállításnál 608 naptár adatai
+title: 608 Naptár információk a hibrid beállításokról
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: 76463159f18d3cfd03828f834454bad7b8dfc76f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c2a31c31905393a78817b21e6580b4c4d76c3aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518149"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712101"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Naptár elfoglaltsági problémák hibrid környezetben
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Naptár elfoglaltsági problémái hibrid környezetekben
 
-Ha a felhasználók megtekintsék a naptár elfoglaltsági adatok hibrid környezetben problémák merülnek fel, futtassa újra a hibrid konfigurációs varázsló. Hibrid konfigurálása varázslóval kapcsolatos további tudnivalókért lásd: [hibrid konfigurációs varázsló](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Ha a felhasználók nak problémái vannak a naptár elfoglaltsági adatainak megtekintésével hibrid környezetekben, futtassa újra a Hibrid konfiguráció varázslót. A Hibrid konfiguráció varázslóról további információt a [Hibrid konfiguráció varázsló ban talál.](https://go.microsoft.com/fwlink/p/?linkid=528149)
 
-Hibaelhárítási lépéseket hibrid környezetben, talál [egy hibrid telepítés hibaelhárítása](https://technet.microsoft.com/library/jj659053.aspx).
+A hibrid környezetekben ismertetett hibaelhárítási lépéseket a [Hibrid telepítés – problémamegoldás című témakörben talál.](https://technet.microsoft.com/library/jj659053.aspx)

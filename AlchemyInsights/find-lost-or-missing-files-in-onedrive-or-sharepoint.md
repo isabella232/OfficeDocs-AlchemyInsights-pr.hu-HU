@@ -1,9 +1,9 @@
 ---
-title: Elveszett vagy hiányzó fájlok keresése a OneDrive vagy SharePoint
+title: Elveszett vagy hiányzó fájlok keresése a OneDrive-on vagy a SharePointban
 ms.author: matteva
 author: pebaum
 manager: scotv
-ms.date: 4/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0cd8db0ea9de03d30001aa749e2c37330ad29ef2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525421"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716102"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Elveszett vagy hiányzó fájlok keresése a OneDrive vagy SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Elveszett vagy hiányzó fájlok keresése a OneDrive-on vagy a SharePointban
 
-- Ellenőrizze a Lomtárat úgy, hogy tallózással az OneDrive vagy a SharePoint webhelyre, és a bal oldali ablaktáblán a Lomtár parancsra kattint. (Ha a bal oldali ablaktáblában nem látja a Lomtárat, kattintson a Beállítások ikonra, majd válassza a **webhely tartalma**beállítást. A **Lomtár** a lap tetején lévő parancssáv jobb szélén van.) 
+- A Lomtárban a OneDrive-on vagy a weben található SharePoint-webhelyen való böngészéssel, majd a bal oldali ablaktáblában a Lomtár elemre kattintva ellenőrizheti a Lomtárban. (Ha a bal oldali ablaktáblában nem látható a Lomtár, kattintson a Beállítások ikonra, majd válassza a **Webhely tartalma**lehetőséget. **A Lomtár** a felső parancssáv jobb szélén található.) 
     
-- Ha szinkronizálja a számítógépen lévő fájlokat, ellenőrizze a Lomtárat a számítógépen. 
+- Ha szinkronizálja a számítógépen lévő fájlokat, ellenőrizze a lomtárban a számítógépen. 
     
-- Ha a keresett elem nem látható, és a közelmúltban törölték, a webhelycsoport rendszergazdája visszaállíthatja azt a webhelycsoport lomtárából. Ha a webhelycsoport rendszergazdája, olvassa el [a törölt elemek visszaállítása a webhelycsoport lomtárából](https://go.microsoft.com/fwlink/?linkid=866439)című témakört.
+- Ha nem látja a keresett elemet, és nemrég törölték, előfordulhat, hogy a webhelycsoport rendszergazdája vissza tudja állítani a webhelycsoport lomtárából. Ha Ön a webhelycsoport rendszergazdája, olvassa el a [Törölt elemek visszaállítása a webhelycsoport lomtárából című témakört.](https://go.microsoft.com/fwlink/?linkid=866439)
     
-[Több segít restoring töröl fájlokat és tartók-ban OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[További segítség a törölt fájlok és mappák visszaállításához a OneDrive-ban](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

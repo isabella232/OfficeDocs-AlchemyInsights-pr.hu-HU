@@ -1,5 +1,5 @@
 ---
-title: Több geo
+title: Multi-Geo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 2017b2d50b7170a6435ad8119b2a72f6066f89fa
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: cb9fef505e35e9d5888ab995d5cd3a43392b682f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554401"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713540"
 ---
-# <a name="office-365-multi-geo"></a>Az Office 365 multi-geo
+# <a name="microsoft-365-multi-geo"></a>Microsoft 365 multigeo
 
--Val Hivatal 365 multi--geo,-a szervezet tud kiterjed-a Hivatal 365 jelenlét-hoz sokszoros geográfiai vidék és/vagy országok bent-a létező bérlő. Lásd az alábbi linkekre további információkért.
+A Microsoft 365 Multi-Geo segítségével a szervezet kiterjesztheti a Microsoft 365-ös jelenlétét több földrajzi régióra és/vagy a meglévő bérlő országaira. További információt az alábbi linkeken talál.
 
-- [Az Office 365 multi-geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [Multi-geo képességek-ban OneDrive és SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
-- [Multi-geo képességek az Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
-- [Terv az Office 365 multi-geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
-- [A több geo beállítása](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
+- [Microsoft 365 multigeo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [Többföldrajzi alapú funkciók a OneDrive-on és a SharePoint Online-ban](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
+- [Többgeo-képességek az Exchange Online-ban](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
+- [A Microsoft 365 Multi-Geo terv](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Multi-Geo konfigurálása](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

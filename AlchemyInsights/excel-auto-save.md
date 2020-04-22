@@ -1,5 +1,5 @@
 ---
-title: Mi az az automatikus mentés?
+title: Mi az automatikus mentés
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 2def74d86b4c4a5e22879c568bff79b77515bccd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 63573912b4beb290a0289c53ccd543271c19a76a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769161"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714224"
 ---
-# <a name="what-is-autosave"></a>Mi az az automatikus mentés?
+# <a name="what-is-autosave"></a>Mi az automatikus mentés?
 
-AutoSave van egy vonás elérhető-ban Kitűnik, szó, és PowerPoint részére Hivatal 365 előfizetők amit megment-a reszelő gépiesen, mind kevés második, mint te dolgozik. 
+Az Automatikus mentés szolgáltatás a Microsoft 365-alapú Excel, Word és PowerPoint szolgáltatásban érhető el, amely munka közben néhány másodpercenként automatikusan menti a fájlt. 
 
-A gyakran feltett kérdések a következő témakörben találhatók: [Mi az automatikus mentés?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+A gyakori kérdésekről a [Mi az automatikus mentés?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)

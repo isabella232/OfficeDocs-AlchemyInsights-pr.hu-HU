@@ -1,8 +1,8 @@
 ---
-title: A SharePoint Online kifejezéstároló használata
+title: A SharePoint Online-kifejezéstár használata
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: c11c9cd8d0777d2e5dbdad61fdb0b8e4a25e53ca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: dda6d6f286b373177e36d7da4a46747f6b9b9f16
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049663"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717378"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>A SharePoint Online kifejezéstároló használata
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>A SharePoint Online-kifejezéstár használata
 
-A kifejezéstároló az Office 365 Global admin, SharePoint admin és term Store adminok számára érhető el, és megtalálható az új SharePoint Online felügyeleti központban.
+A Kifejezéstár globális rendszergazda, SharePoint-rendszergazda és Kifejezéstár-rendszergazdák számára érhető el, és az új SharePoint Online Felügyeleti központban található.
   
-A SharePoint Online kifejezéstároló és a SharePoint Online rendszerbeli rendszertan használatáról a [felügyelt metaadatok bemutatása](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)című témakörben olvashat bővebben.
+A SharePoint Online-kifejezéstároló és a SharePoint Online-rendszerbevaló konklúdi használatáról a [Felügyelt metaadatok – bevezetés](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)című témakörben olvashat bővebben.
   
-Ha olyan problémája van, amelynek a feltételei nem jelennek meg, vagy időnként nem jelenik meg, javasoljuk, hogy várjon 24 órát, majd jelentkezzen be egy támogatási kérelmet, ha a probléma továbbra is fennáll. Még akkor is ha 24 óra lehet hosszú idő, ott tudna lenni kasalot bálna kérdés vagy mi május már lenni működő-ra egy oldat-hoz ez probléma.
+Ha olyan probléma van, hogy a kifejezések nem jelennek meg, vagy időnként jelennek meg, javasoljuk, hogy várjon 24 órát, majd ha a probléma továbbra is fennáll, jelentkezzen be egy támogatási kérelmet. Annak ellenére, hogy a 24 óra hosszú idő lehet, lehet, hogy gyorsítótárazási probléma merül fel, vagy már dolgozunk a probléma megoldásán.
   

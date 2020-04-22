@@ -1,9 +1,9 @@
 ---
-title: Az e-mail név az Outlook.com módosítása
+title: Az e-mail név módosítása a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e1e6f476833bbb9f6830217c661176c15d440a4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537459"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712892"
 ---
 # <a name="change-your-email-name"></a>Az e-mail név módosítása
 
-Ha e-mail címét, és módosítani szeretné egy Outlook.com címzettek nevét az üzenet jelenik meg:
+Ha van egy Outlook.com e-mail címét, és meg szeretné változtatni a nevet címzettek látni fogja az üzenetekben:
   
-1. Válassza ki a fiókhoz tartozó kép, az oldal jobb felső sarkában.
-2. Válassza ki **a profilt**.
-3. Válassza a **Szerkesztés neve** változtatásokat, és válassza a **Mentés**.
+1. Válassza ki a fiókképét az oldal jobb felső sarkában.
+2. Válassza **a Saját profil lehetőséget.**
+3. A módosítások módosításához válassza a **Név szerkesztése** lehetőséget, majd a **Mentés**gombot.
 
-Hagyjon 24 óráig módosítások hatályba lépni a megfelelő profil nevét.
+Kérjük, hogy legfeljebb 24 órát várjon, amíg a profilnevének módosítása életbe lép.
   
-Ha több e-mail alias vagy cím az Outlook.com fiók kapcsolódik, válassza ki a címek történő e-mail küldéshez.
+Ha egynél több e-mail aliasvagy cím kapcsolódik a Outlook.com fiókjához, bármelyik címéről küldhet e-mailt.
   
-1. Üzenet szerkesztésekor, válassza a "..." a Levélírás ablak alján.
-1. Válassza a **Megjelenítése a** Feladó sor megjelenítéséhez.
-1. Jelölje **ki** , és válassza ki a használni kívánt tetszőleges e-mail címet kaptam, felett.
+1. Üzenet írásakor válassza a "..." lehetőséget. az összeállítási ablak alján.
+1. Válassza a **Megjelenítés a honnan** lehetőséget a From sor megjelenítéséhez.
+1. A Címzett sor felett válassza a **Származási** lehetőséget, és válassza ki, hogy melyik e-mail címet szeretné használni.
 
-További tudnivalókért tanulmányozza [az Outlook.com eltérő címről e-mail küldése](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+További információt az [E-mail küldése a Outlook.com másik címéről című témakörben talál.](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)

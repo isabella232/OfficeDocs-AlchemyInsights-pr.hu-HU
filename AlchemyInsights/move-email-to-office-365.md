@@ -1,5 +1,5 @@
 ---
-title: Office 365 e-mail áthelyezése
+title: E-mailek áthelyezése a Microsoft 365-be
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: bd0453307e39f4eeddf666e9a1b7f56adec89bec
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b8117d10f4e2062a3313488d626be9cb92654bd6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666878"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713612"
 ---
-# <a name="move-email-to-office-365"></a>Office 365 e-mail áthelyezése
+# <a name="move-email-to-microsoft-365"></a>E-mailek áthelyezése a Microsoft 365-be
 
-Áttelepítéséhez számos lehetőség van az Office 365 e-mail. Az [Office 365 e-mail áttelepítési tanácsadó](https://aka.ms/alchemyinsight-mailmigrationadvisor) segít kiválasztani a legjobb egy, a környezet és is végigvezeti Önt az e-mail áttelepítés.
+Számos lehetősége van a levelezés Microsoft 365-be való áttelepítésére. A [Microsoft 365 mail áttelepítési tanácsadója](https://aka.ms/alchemyinsight-mailmigrationadvisor) segít kiválasztani a környezetének leginkább, és végigvezeti a levelek áttelepítésén.
   
-További információt a beállítások az áttelepítés elindítása nélkül, lásd a [migráció görbére úgy döntenek](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
+Ha az áttelepítés megkezdése nélkül szeretne tudni a lehetőségekről, olvassa [el az Áttelepítési útvonal eldöntése című témakört.](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path)
 
-Is ellenőrizze az [Office 365 elfogadják a FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) oldal áttelepítés támogatott segítség Ha jogosult.
+Kérjük, ellenőrizze a [Microsoft 365 elfogadása fasttrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) oldalon segítséget segítséget az áttelepítés, ha jogosult.
   

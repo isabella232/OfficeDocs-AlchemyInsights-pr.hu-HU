@@ -1,5 +1,5 @@
 ---
-title: eDiscovery export eszköz
+title: elektronikus adatfeltárási exportálási eszköz
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,36 +14,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769305"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714772"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Vidám ' felszerel vagy fuss a eDiscovery export szerszám?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nem lehet telepíteni vagy futtatni az elektronikus adatfeltárásexportálási eszközt?
 
-Ha Ön vidám ' felszerel vagy fuss a Hivatal 365 eDiscovery export szerszám-hoz letölt kutatás eredmények, ellenőriz a következő dolog:
+Ha nem tudja telepíteni vagy futtatni az elektronikus adatfeltárási exportálási eszközt a keresési eredmények letöltéséhez, ellenőrizze az alábbi lehetőségeket:
   
-- A használt számítógép megfelel ezeknek az előfeltételeknek:
+- A használt számítógép megfelel az alábbi előfeltételeknek:
 
-  - 32-vagy 64-bites Windows 7 és újabb verziók
+  - A Windows 7 és újabb verzióinak 32 vagy 64 bites verziói
 
-  - Microsoft.NET-keretrendszer 4,7
+  - Microsoft .
 
   - Támogatott böngésző:
 
-  - Microsoft-oldal
+  - Microsoft Edge
 
     Vagy
 
-  - Az Internet Explorer 10-es és újabb verziói
+  - Internet Explorer 10-es és újabb verziók
 
-    Más böngészők, mint például a Google Chrome vagy a Mozilla Firefox nem támogatottak.
+    Más böngészők, például a Google Chrome és a Mozilla Firefox nem támogatottak.
 
-- A szervezet csatlakozhat a végponthoz Azure, ami ** \*. blob.Core.Windows.net** (a helyettesítő karakter az exportálási feladat egyedi azonosítója).
+- A szervezet csatlakozhat a végponthoz az ** \*** Azure-ban, amely .blob.core.windows.net (a helyettesítő karakter az exportálási feladat egyedi azonosítóját jelöli).
 
-- Az Office 365 biztonsági &amp; megfelelőség központban van hozzárendelve az Exportálás szerepkörhöz. Alapértelmezés szerint ez a szerepkör csak az eDiscovery Manager szerepkörcsoporthoz van hozzárendelve. További információ: [eDiscovery engedélyek hozzárendelése](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Az Exportálás szerepkör a Microsoft 365 Biztonsági &amp; megfelelőségi központban van hozzárendelve. Alapértelmezés szerint ez a szerepkör csak az elektronikus adatfeltárás-kezelő szerepkörcsoporthoz van rendelve. Lásd: [Elektronikus adatfeltárási engedélyek hozzárendelése](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-További információt a [Tartalomkeresési eredmények exportálása](https://docs.microsoft.com/office365/securitycompliance/export-search-results)című témakörben talál.
+További információt a [Tartalomkeresés eredményeinek exportálása című témakörben talál.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
   

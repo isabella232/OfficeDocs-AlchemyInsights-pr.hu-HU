@@ -1,9 +1,9 @@
 ---
-title: Office 365 kormányzati tervek és árképzés
+title: Office 365 Kormányzati csomagok és árak
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9efe8473b56f1483076f86fe19c2af52201155bc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522121"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713360"
 ---
-# <a name="office-365-government-plans"></a>Office 365 kormányzati tervek
+# <a name="office-365-government-plans"></a>Office 365 Kormányzati csomagok
 
-Office 365 az Egyesült Államok kormánya tervek készültek az Egyesült államokbeli kormányzati szervezetek egyedi igényeit. A szolgáltatások és lehetőségek az Office 365 szolgáltatások a szegmentált kormány felhő, amely lehetővé teszi a szervezetek amerikai megfelelőségi és biztonsági előírások közösségi rendelkeznek.
+Az Office 365-ös amerikai kormányzati tervek az amerikai kormányzati szervezetek egyedi igényeinek megfelelően készültek. Az Office 365-szolgáltatások összes funkcióját és funkcióját egy olyan szegmentált kormányzati felhőközösségben biztosítják, amely lehetővé teszi a szervezetek számára, hogy megfeleljenek az Egyesült Államok megfelelőségi és biztonsági szabványainak.
   
-- [Tekintse át a kormányzati tervek](https://products.office.com/government/compare-office-365-government-plans)
+- [A kormányzati tervek áttekintése](https://products.office.com/government/compare-office-365-government-plans)
 
-- [Hasonlítsa össze az összes Office 365-terv](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Az összes Microsoft 365-előfizetés összehasonlítása](https://products.office.com/business/compare-more-office-365-for-business-plans)
