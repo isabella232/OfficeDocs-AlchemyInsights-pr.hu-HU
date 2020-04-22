@@ -1,9 +1,9 @@
 ---
-title: Hol csinál én kap szoftver-mint-egy-szolgáltatás (SaaS) apps?
+title: Hol kaphatok szoftverszolgáltatásként (SaaS) alkalmazásokat?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e55d8731ad930056975bd2aa36bee2ce781ab720
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36558547"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765235"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="808cc-102">Honnan kaphatok szoftver-mint-a-szolgáltatás (SaaS) apps-ból Mikroszkóp társas viszony?</span><span class="sxs-lookup"><span data-stu-id="808cc-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="05772-102">Hol szerezhetem be a szoftverszolgáltatásként (SaaS) alkalmazásokat a Microsoft-partnerektől?</span><span class="sxs-lookup"><span data-stu-id="05772-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
 
-<span data-ttu-id="808cc-103">Vásárlók tud keres, kutatás, és megvásárol SaaS apps-ból [Appsource](http://www.appsource.com/).</span><span class="sxs-lookup"><span data-stu-id="808cc-103">Customers can search for, research, and purchase SaaS apps from [AppSource](http://www.appsource.com/).</span></span>
+<span data-ttu-id="05772-103">Az ügyfelek saaS-alkalmazásokat kereshetnek, kereshetnek és vásárolhatnak meg az [AppSource szolgáltatásból.](https://www.appsource.com/)</span><span class="sxs-lookup"><span data-stu-id="05772-103">Customers can search for, research, and purchase SaaS apps from [AppSource](https://www.appsource.com/).</span></span>

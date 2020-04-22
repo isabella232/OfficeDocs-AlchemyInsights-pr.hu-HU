@@ -1,44 +1,44 @@
 ---
-title: Hiányzó munkafolyamat-aktiválás nem sikerült
+title: A hiányzó munkafolyamat ot nem sikerült aktiválni
 ms.author: pebaum
 author: pebaum
-ms.date: 12/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 3df1ddc1059c4cd6cc3f9f42dc157d20be79a63a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2598111005c219c398b63ca374e8e99348efc02c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052615"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762103"
 ---
-# <a name="missing-workflow-failed-to-activate"></a><span data-ttu-id="af14f-102">Hiányzó munkafolyamat-aktiválás nem sikerült</span><span class="sxs-lookup"><span data-stu-id="af14f-102">Missing Workflow Failed to Activate</span></span>
+# <a name="missing-workflow-failed-to-activate"></a><span data-ttu-id="41da7-102">A hiányzó munkafolyamat ot nem sikerült aktiválni</span><span class="sxs-lookup"><span data-stu-id="41da7-102">Missing Workflow Failed to Activate</span></span>
 
-<span data-ttu-id="af14f-103">Microsoft SharePoint-webhelycsoportban listához vagy tárhoz nem adhat globálisan újrafelhasználható munkafolyamatot (például "jóváhagyás-SharePoint 2010").</span><span class="sxs-lookup"><span data-stu-id="af14f-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
+<span data-ttu-id="41da7-103">Microsoft SharePoint-webhelycsoportban nem adhat hozzá globálisan újrafelhasználható munkafolyamatot (például "Jóváhagyás – SharePoint 2010") listához vagy tárhoz.</span><span class="sxs-lookup"><span data-stu-id="41da7-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
   
-<span data-ttu-id="af14f-104">A probléma megoldásához hajtsa végre az alábbi lépéseket:</span><span class="sxs-lookup"><span data-stu-id="af14f-104">To resolve this issue, follow these steps:</span></span> 
+<span data-ttu-id="41da7-104">A probléma megoldásához hajtsa végre az alábbi lépéseket:</span><span class="sxs-lookup"><span data-stu-id="41da7-104">To resolve this issue, follow these steps:</span></span> 
   
-1. <span data-ttu-id="af14f-105">Nyissa meg a webhelycsoport gyökérwebhelyét a SharePoint Designer 2013 alkalmazásban.</span><span class="sxs-lookup"><span data-stu-id="af14f-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
+1. <span data-ttu-id="41da7-105">Nyissa meg a SharePoint Designer 2013 webhelycsoportgyökérwebhelyét.</span><span class="sxs-lookup"><span data-stu-id="41da7-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
   
-2. <span data-ttu-id="af14f-106">A **Webhelyobjektumok**területen válassza a **munkafolyamatok**témakört.</span><span class="sxs-lookup"><span data-stu-id="af14f-106">Under **Site Objects**, select **Workflows**.</span></span> 
+2. <span data-ttu-id="41da7-106">A **Webhelyobjektumok csoportban**válassza a **Munkafolyamatok**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="41da7-106">Under **Site Objects**, select **Workflows**.</span></span> 
   
-3. <span data-ttu-id="af14f-107">A **munkafolyamat** -szalag **új** szakaszában válassza az **újból felhasználható munkafolyamat**-t.</span><span class="sxs-lookup"><span data-stu-id="af14f-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
+3. <span data-ttu-id="41da7-107">A **Munkafolyamatok** menüszalag **Új** szakaszában válassza az **Újrafelhasználható munkafolyamat lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="41da7-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
   
-4. <span data-ttu-id="af14f-108">Az **újrahasználható munkafolyamat létrehozása** űrlapon adja meg a \* \* *Repair2010* \* \* nevet.</span><span class="sxs-lookup"><span data-stu-id="af14f-108">On the **Create Reusable Workflow** form, enter the name \*\* *Repair2010* \*\*.</span></span> <span data-ttu-id="af14f-109">A **Platformtípus**lapon kattintson a **SharePoint 2010 munkafolyamat**elemre, majd kattintson **az OK gombra**.</span><span class="sxs-lookup"><span data-stu-id="af14f-109">For **Platform Type**, click **SharePoint 2010 Workflow**, and then click **OK**.</span></span> 
+4. <span data-ttu-id="41da7-108">Az **Újrafelhasználható munkafolyamat létrehozása** képernyőn adja meg a \*\* *Repair2010* \*\*nevet.</span><span class="sxs-lookup"><span data-stu-id="41da7-108">On the **Create Reusable Workflow** form, enter the name \*\* *Repair2010* \*\*.</span></span> <span data-ttu-id="41da7-109">A **Platformtípus csoportban**kattintson a **SharePoint 2010-munkafolyamat**elemre, majd az **OK**gombra.</span><span class="sxs-lookup"><span data-stu-id="41da7-109">For **Platform Type**, click **SharePoint 2010 Workflow**, and then click **OK**.</span></span> 
   
-1. <span data-ttu-id="af14f-110">A **munkafolyamat** -szalag **Mentés** szakaszában válassza a **Közzététel**.</span><span class="sxs-lookup"><span data-stu-id="af14f-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
+1. <span data-ttu-id="41da7-110">A **Munkafolyamat** menüszalag **Mentés** szakaszában válassza a **Közzététel**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="41da7-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
   
-2. <span data-ttu-id="af14f-111">A **munkafolyamat** menüszalagjának **kezelés** szakaszában jelölje ki a **globálisan közzéteszi**választógombot.</span><span class="sxs-lookup"><span data-stu-id="af14f-111">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**.</span></span> <span data-ttu-id="af14f-112">A megerősítést kérő párbeszédpanelen kattintson az **OK gombra**.</span><span class="sxs-lookup"><span data-stu-id="af14f-112">In the confirmation dialog box that appears, select **OK**.</span></span> 
+2. <span data-ttu-id="41da7-111">A **Munkafolyamat** menüszalag **Kezelés** szakaszában válassza a **Globális közzététel**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="41da7-111">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**.</span></span> <span data-ttu-id="41da7-112">A megjelenő megerősítést kérő párbeszédpanelen válassza az **OK gombot.**</span><span class="sxs-lookup"><span data-stu-id="41da7-112">In the confirmation dialog box that appears, select **OK**.</span></span> 
   
-3. <span data-ttu-id="af14f-113">A webböngészőben keresse meg a webhelycsoport gyökérwebhelyét, és kattintson a **webhelybeállítások** \> webhelycsoport- **szolgáltatásainak**elérésére.</span><span class="sxs-lookup"><span data-stu-id="af14f-113">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**.</span></span> <span data-ttu-id="af14f-114">Majd a **munkafolyamatok** funkció váltása:</span><span class="sxs-lookup"><span data-stu-id="af14f-114">Then, toggle the **Workflows** feature:</span></span> 
+3. <span data-ttu-id="41da7-113">Keresse meg a webböngészőben a webhelycsoport gyökérwebhelyét, majd érje el a **Webhelybeállítások** \> **webhelycsoport szolgáltatásait.**</span><span class="sxs-lookup"><span data-stu-id="41da7-113">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**.</span></span> <span data-ttu-id="41da7-114">Ezután kapcsolja be a **Munkafolyamatok** funkciót:</span><span class="sxs-lookup"><span data-stu-id="41da7-114">Then, toggle the **Workflows** feature:</span></span> 
   
-<span data-ttu-id="af14f-115">· Ha a szolgáltatás *aktiválva* van, kattintson az **inaktiválás elemre,** majd kattintson az **aktiválás**lehetőségre.</span><span class="sxs-lookup"><span data-stu-id="af14f-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
+<span data-ttu-id="41da7-115">· Ha a szolgáltatás *aktiválva* van, kattintson **az Inaktiválás gombra,** majd az **Aktiválás gombra.**</span><span class="sxs-lookup"><span data-stu-id="41da7-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
   
-<span data-ttu-id="af14f-116">· Ha a szolgáltatás *inaktív* , kattintson az **aktiválás**gombra.</span><span class="sxs-lookup"><span data-stu-id="af14f-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
+<span data-ttu-id="41da7-116">· Ha a szolgáltatás *inaktiválva* van, kattintson az **Aktiválás gombra.**</span><span class="sxs-lookup"><span data-stu-id="41da7-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
   
-<span data-ttu-id="af14f-117">További információért olvassa el a következő [cikket](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="af14f-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
+<span data-ttu-id="41da7-117">További információkért kérjük, olvassa el a következő [cikket](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="41da7-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
   
 
