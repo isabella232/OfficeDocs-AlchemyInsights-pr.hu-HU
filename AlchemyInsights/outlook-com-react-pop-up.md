@@ -1,9 +1,9 @@
 ---
-title: 8000091 Outlook.com reagál felugró
+title: 8000091 Outlook.com React felbukkan
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3a8ca385a6cfdbbbd9ce5c61b4b2201359e3fd3e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36545477"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744549"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com készen áll a főműsoridőben
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com készen áll a főműsoridőre
 
-Voltak ' tud amit némely vásárlók május lát a "Outlook.com van kész részére első idő" pukkanás-megjelöl minden alkalommal ők jel--ban, és voltak ' működő-ra egy erősít.
+Tisztában vagyunk azzal, hogy egyes ügyfelek láthatják a "Outlook.com készen áll a főműsoridőben" előugró ablak ot minden alkalommal, amikor bejelentkezik, és dolgozunk egy javításon.
 
-Sajnálom.
+Elnézést ezért.
 
-[Tudjon meg többet az új Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[További információ az új Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

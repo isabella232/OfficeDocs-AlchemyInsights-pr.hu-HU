@@ -3,7 +3,7 @@ title: Törölt alwebhely visszaállítása
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 82ea3285b7ded867a179d81bb79ef204270eb038
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552275"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758684"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>A törölt SharePoint alwebhely visszaállítása
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Törölt SharePoint-alwebhely visszaállítása
 
-A webhelycsoport lomtárába kerül, ahol azok 93 napig tartott éppen törölt alwebhelyek kerülnek. Törölt alwebhely visszaállítása:
+A törölt alwebhelyeket a rendszer a Lomtár webhelycsoportba küldi, ahol 93 napig őrzi őket. Törölt alwebhely visszaállítása:
   
-1. Az új SharePoint-felügyeleti központ keresse meg a helyet, ahonnan az alwebhely törölve lett, és győződjön meg arról, hogy egy webhely gyűjtemény Admin 
+1. Az új SharePoint Felügyeleti központban keresse meg azt a webhelyet, ahonnan az alwebhelyet törölték, és győződjön meg arról, hogy webhelycsoport-rendszergazda. 
     
-2. Látogasson el a webhelyre. A bal oldali ablaktáblán kattintson a **Lomtár** . (Ha a Lomtár nem jelenik meg, kattintson a beállítások ikonra, és kattintson a **webhely tartalmát**. A Lomtár van jobb szélén a parancssáv felső részén.)
+2. Menj a helyszínre. Kattintson a **Lomtár** elemre a bal oldali ablaktáblában. (Ha nem látható a Lomtár, kattintson a Beállítások ikonra, majd a **Webhely tartalma parancsra.** A Lomtár a felső parancssáv jobb szélén található.)
     
-3. A lap alján kattintson a **második lépcsőben a Lomtár**.
+3. A lap alján kattintson a **Második szintű lomtár**elemre.
     
-4. Kattintson az alwebhely balra, és kattintson a **Visszaállítás**.
+4. Kattintson az alwebhely bal oldalára, majd a **Visszaállítás gombra.**
     
 

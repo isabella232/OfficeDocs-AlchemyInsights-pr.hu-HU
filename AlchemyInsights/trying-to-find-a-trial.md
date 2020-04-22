@@ -1,9 +1,9 @@
 ---
-title: Próbálja megtalálni egy vizsgálat?
+title: Próbálsz tárgyalást találni?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a5aabaa508e9765b38590f0e65cd5076183967ba
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533089"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732332"
 ---
-# <a name="trying-to-find-a-trial"></a>Próbálja megtalálni egy vizsgálat?
+# <a name="trying-to-find-a-trial"></a>Próbálsz tárgyalást találni?
 
-Ha azt szeretné, próbálja meg egy új szolgáltatás, a Microsoft 365 felügyeleti központ egy rendelkezésre álló előfizetések listája megtalálható próbaverzióhoz.
+Ha új szolgáltatást szeretne kipróbálni, a Microsoft 365 Felügyeleti központban megtalálhatja a próbaverzióra elérhető előfizetések listáját.
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [beszerzési](https://go.microsoft.com/fwlink/p/?linkid=868433) szolgáltatások.
+1. A felügyeleti központban nyissa meg a **Számlázási** \> [beszerzési szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=868433) lapot.
 
-2. Jelölje ki az igényeinek, és válassza az **ingyenes próbaverzió letöltése**.
+2. Válassza ki az igényeinek megfelelő előfizetést, majd válassza **az Ingyenes próbaverzió beszerezhetése**lehetőséget.
 
     > [!NOTE]
-    > Nem minden előfizetések állnak rendelkezésre, a próbaverziót. Előfizetés keresztül egér mozgatásakor az **ingyenes próbaverzió letöltése** gomb nem látható, ha ez azt jelenti, nem érhető el a próbaverziót.
+    > Nem minden előfizetés érhető el próbaverzióként. Ha nem látja az **Ingyenes próbaverzió gombot,** amikor egy előfizetés fölé egérke, az azt jelenti, hogy a próbaverzió nem érhető el.
   
-3. Adja meg a hitelkártya vagy egyéb fizetési módot biztosít további ellenőrzési biztonsági óvintézkedésként kérheti. Akkor nem kell fizetnie a próba-előfizetésre. Azt a fizetési adatait, a fájl megtartja, és nem használja ezt a jóváhagyása nélkül bármely beszerzési.
+3. Előfordulhat, hogy meg kell adnia egy hitelkártyát vagy más fizetési módot, hogy biztonsági intézkedésként további ellenőrzést biztosítson. Ezért az ingyenes próbaverzióért nem kell fizetnie. Fizetési adatait megőrizzük, és nem használjuk fel semmilyen vásárlásra az Ön jóváhagyása nélkül.
 
-4. Válassza ki, **próbálja meg most**.
+4. Válassza **a Kipróbálás most**lehetőséget.

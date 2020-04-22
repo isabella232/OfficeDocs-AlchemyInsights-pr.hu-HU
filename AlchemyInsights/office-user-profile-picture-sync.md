@@ -7,28 +7,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 4af871b33d4e5f438584076891fff7a430f41b5e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8f79e1c319fcb6c776e5a2ab8db9cb3a76265f87
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053371"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761528"
 ---
 # <a name="sync-a-users-profile-picture"></a>Felhasználó profilképének szinkronizálása
 
-Tudod összead vagy cserél-a arcél fénykép-ban Hivatal 365-ból Office.com, vagy rövid idő használ Hivatal 365 pályázatokat-ra számítógépetek vagy-ban egy legel-ra-a telefon. -A fénykép akarat feltűnik mindenhol ott ' egy arcél fénykép kör hivatalban 365.
+A Microsoft 365-ben hozzáadhatja vagy módosíthatja profilképét Office.com, illetve a számítógépen vagy a telefonon lévő böngészőben használt Microsoft-alkalmazások használata közben. A fénykép mindenhol megjelenik, ahol profilképkör van a Microsoft 365-ben.
 
--Hoz összead-a arcél fénykép-hoz Hivatal 365 részére teendő
+Profilkép hozzáadása a Microsoft 365 vállalati verzióhoz
 
-- Talál egy fénykép ön akar-hoz használ és készlet ez-ra számítógépetek, OneDrive, vagy más elhelyezés tudod eljut.
+- Keresse meg a használni kívánt fényképet, és tárolja a számítógépén, a OneDrive-on vagy más helyen, ahhoz, ahamely eljuthat.
 
-- Jel-ba Hivatal 365-val-a dolgozik vagy iskola számla-on [Office.com](http://www.office.com).
+- Jelentkezzen be a Microsoft 365-be munkahelyi vagy iskolai fiókjával [a office.com.](https://www.office.com)
 
-- Jelölje ki a lap jobb felső sarkában lévő kört, amely a monogramot vagy a személy ikonját mutatja.
+- Jelölje ki az oldal jobb felső sarkában lévő kört, amely en megjelenik a monogramja vagy egy személy ikonja.
 
-A saját fiókok ablaktáblán jelölje ki azt a kört, amely az adott személy monogramját vagy ikonját tartalmazza. Változtassa meg a fényképet a megjelenő előugró ablakban.
+A Saját fiókok ablaktáblán jelölje ki azt a kört, amelyen egy személy monogramja vagy ikonja látható. A megjelenő előugró ablakban módosíthatja a fényképet.
 
-Jegyzék Ha önnek van már feltöltött egy kép szabad akar-hoz megpróbál csattanó a SharePoint vagy OneDrive cserép-hoz ré hang-szinkronizál amit kép.
+Megjegyzés: Ha már feltöltött egy képet, érdemes lehet a SharePoint vagy a OneDrive csempére kattintania a kép újraszinkronizálásához.
 
-További információért tekintse meg [az Office 365 profilkép szinkronizálásával kapcsolatos tudnivalókat](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
+További információért látogasson el [a Microsoft 365 profilkép-szinkronizálásáról szóló információra.](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 

@@ -1,8 +1,8 @@
 ---
-title: Megoldása a "Nem az elfogadott tartomány" hiba
+title: Az "Nem elfogadott tartomány" hiba megoldása
 ms.author: pebaum
 author: pebaum
-ms.date: 5/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "839"
 - "1"
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
-ms.openlocfilehash: ec1ab2d24d81ddfc949344a72493f4ad0d98f7a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b5b5ee24400e7cc088308c12e8ff003b68186f9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559519"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724814"
 ---
-# <a name="got-a-parameter-cannot-be-found-error"></a>Kapott egy "Paraméter nem található" hibaüzenet?
+# <a name="got-a-parameter-cannot-be-found-error"></a>"A paraméter nem található" hibaüzenetet kap?
 
-Ha hibaüzenet jelenik meg a **"paraméter nem található, amely megfelel a paraméter neve" EmailAddresses "**, az azt jelenti, hogy egy kicsit tovább tart a bérlő vagy az egyéni tartomány beállításának befejezéséhez, ha nemrégiben egy Office 365.
+Ha a következő hibaüzenet jelenik **meg: "Nem található olyan paraméter, amely megfelel az "EmailAddresses" paraméternévnek,** az azt jelenti, hogy a Microsoft 365-nek egy kicsit tovább tart a bérlő vagy az egyéni tartomány beállítása, ha nemrég hozzáadott egyet.
   
 A beállítási folyamat akár 4 órát is igénybe vehet. Várjon, amíg befejeződik a beállítás, majd próbálkozzon újra.
   

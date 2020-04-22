@@ -1,5 +1,5 @@
 ---
-title: Tartomány ellenőrzése 1&1 IONOS rendszerrel
+title: A tartomány igazolása 1&1 IONOS rendszerrel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 429817368bac921f383d93e9d070d1bb8df9da59
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 02809440344fc9cd9329d56b1c67dd0b47947c82
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326358"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726142"
 ---
-# <a name="verify-your-domain-with-11-ionos"></a>Tartomány ellenőrzése 1&1 IONOS rendszerrel
+# <a name="verify-your-domain-with-11-ionos"></a>A tartomány igazolása 1&1 IONOS rendszerrel
 
-A tartomány ellenőrzéséhez txt rekordot kell hozzáadnia a tartományregisztrálóhoz, hogy ellenőrizze, hogy ön a tartomány tulajdonosa-e. 
+A tartomány igazolásához txt rekordot kell hozzáadnia a tartományregisztrálóhoz, hogy meggyőződjön arról, hogy Ön a tartomány tulajdonosa. 
 
-Először kövesse a [Tartomány hozzáadása varázslót](https://portal.office.com/adminportal/home#/Domains) a **Beállítások** \> **tartományok**, majd a **Tartomány hozzáadása**gombra kattintva.
+Először válassza a [Tartomány hozzáadása varázslót](https://portal.office.com/adminportal/home#/Domains) a **Beállítások** \> **tartományok**, majd a Tartomány **hozzáadása parancsra**kattintva.
   
-A [dns-rekordok létrehozása az 1&1 IONOS office 365-ben](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) című témakörben találja a részletes utasításokat.
+A [DNS-rekordok létrehozása az 1&1 IONOS for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) című témakörben részletes útmutatást talál.

@@ -1,8 +1,8 @@
 ---
-title: Folyamatban szolgáltatási eset
+title: Folyamatban lévő szolgáltatási incidens
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,19 +18,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: 7512c264fafddb993683929ad7ccc2a50ffc691c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c667331c4ba4f5fd7b03f0f8a7f26c669ddde6df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550625"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719733"
 ---
-# <a name="service-incident-in-progress"></a>Folyamatban szolgáltatási eset
+# <a name="service-incident-in-progress"></a>Folyamatban lévő szolgáltatási incidens
 
-Esetleg érintett szolgáltatás baleset által vagy tanácsadó, amely az éppen vizsgált. A legfrissebb állapotát ellenőrizheti az [Egészségügyi szolgáltatás](https://admin.microsoft.com/adminportal/home#/servicehealth) weblapra.
+Előfordulhat, hogy egy szolgáltatási esemény vagy tanácsadó, amely jelenleg vizsgált. A legfrissebb állapotot a [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) oldalon ellenőrizheti.
   
-A felhasználók kényelme érdekében találja meg az alábbi esemény összefoglalása:
+Az Ön kényelme érdekében az incidens összegzését az alábbiakban találja:
   
-> **Esemény száma:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Incidens száma:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Leírás hatása: {ImpactDescription}
+> A hatás leírása: {ImpactDescription}

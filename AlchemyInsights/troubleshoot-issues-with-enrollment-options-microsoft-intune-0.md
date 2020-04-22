@@ -1,9 +1,9 @@
 ---
-title: Beiktatási beállítások a Microsoft Intune kapcsolatos problémák elhárítása
+title: A Microsoft Intune regisztrációs beállításaival kapcsolatos problémák elhárítása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 9249fc562ef73078d508d7548275f336cc13caa1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3790d7407c0aeb5a9659226f0ed4a33090d519a5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506733"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43735194"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Beiktatási beállítások a Microsoft Intune kapcsolatos problémák elhárítása
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>A Microsoft Intune regisztrációs beállításaival kapcsolatos problémák elhárítása
 
-Most a probléma megoldásához kövesse az alább felsorolt erőforrások áttekintése.
+A probléma megoldásához tekintse át az alábbi forrásokat.
   
-- [Felülvizsgálat Intune TechNet közös problémák megoldására és a válaszok megkereséséhez](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Tekintse át az Intune TechNet-et, hogy válaszokat és megoldásokat találjon a gyakori problémákra.](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)
 
-- [Intune hibaelhárítás Portal](https://aka.ms/intunetroubleshooting) segítségével azonosíthatja és megoldhatja a beiktatási gyakori hibák. [Ez a dokumentum](https://docs.microsoft.com/intune/help-desk-operators) további részletekért tekintse át.
+- Az [Intune hibaelhárítási portáljával](https://aka.ms/intunetroubleshooting) diagnosztizálhatja és feloldhatja a gyakori regisztrációs hibákat. Tekintse át ezt a [dokumentumot](https://docs.microsoft.com/intune/help-desk-operators) további részletekért.
 
-- Tekintse át [ezt a dokumentumot](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) , amelyek megakadályozzák a tanúsítványigénylési és -megoldások egyes gyakori hibák listáját.
+- Tekintse át [ezt a dokumentumot](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) a gyakori hibák listájáért, amelyek megakadályozzák a regisztrációt és a megoldásokat.
 
-- [További tudnivalók a Microsoft Intune a beiktatási beállítások](https://docs.microsoft.com/intune/enrollment-options).
+- [További információ a Microsoft Intune regisztrációs lehetőségeiről.](https://docs.microsoft.com/intune/enrollment-options)

@@ -1,26 +1,26 @@
 ---
-title: "\"OneDrive fiók törlésre kerül\" üzenet"
+title: "\"A OneDrive-fiók törlődik\" üzenet"
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: a3aefb6685ed6dce166ad422ddaafd8f62f18bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 954003081073312562941352b73afe5fa07bd4d1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053299"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761206"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>"OneDrive számla törlésre kerül" üzenet
+# <a name="onedrive-account-will-be-deleted-message"></a>"A OneDrive-fiók törlődik" üzenet
 
-Ha Ön elfogadott egy elektronikus levél-ból email@mail.onedrive.com figyelmeztet amit "-a OneDrive számla lesz töröl" legyen szíves jegyzék Ez-a személyes OneDrive.com számla, nem-a OneDrive részére teendő számla. 
+Ha e-mailt kapott email@mail.onedrive.com figyelmeztetést, hogy "A OneDrive-fiókja törlődik", vegye figyelembe, hogy ez az Ön személyes OneDrive.com fiókja, nem pedig a OneDrive Vállalati verziós fiókja. 
   
-Ha-a ' nem persze vajon ön használ személyes OneDrive, jel-ban-onedrive.com-hoz életre kelt és áttekintés-a számla.
+Ha nem biztos abban, hogy személyes OneDrive-ot használ-e, jelentkezzen be onedrive.com a fiók újraaktiválásához és véleményezéséhez.
   
-További információ: [Miért kapok egy e-mailt mondván fiókja törlésre kerül?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+További információ: [Miért kaptam egy e-mailt arról, hogy a fiókod törlődik?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 

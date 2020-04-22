@@ -1,9 +1,9 @@
 ---
-title: Automatikus megújításának kezelése
+title: Automatikus megújítás kezelése
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 015a3e81b4f96d71f34439c2b8977fdbcb1ec567
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0e1fc4fc2c0905b957de6d6db9b4a19bda4965a7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661442"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762607"
 ---
-# <a name="manage-recurring-billing"></a>Az ismétlődő Számlázás kezelése
+# <a name="manage-recurring-billing"></a>Ismétlődő számlázás kezelése
 
-Bekapcsolhatja az ismétlődő számlázás be- és kikapcsolása a Microsoft 365 felügyeleti központban.
+Az ismétlődő számlázást a Microsoft 365 Felügyeleti központban kapcsolhatja be vagy ki.
   
-1. A felügyeleti központ, keresse meg a **Számlázási** \> [termékek &](https://go.microsoft.com/fwlink/p/?linkid=842054) szolgáltatások.
+1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
 
-2. A **Számlázás**, **a Renews** vagy **a Lejáróban**válassza a **Szerkesztés**.
+2. A **Számlázás**csoportban a **Megújítás vagy a** **Lejárat**lehetőséget válassza a **Szerkesztés**lehetőség re.
 
-3. **Ismétlődő számlázási beállítások** ablakában jelölje be **A KIKAPCSOLÁS** kapcsolhatja ki. Ha ismétlődő számlázási már ki van kapcsolva, jelölje be a **havonta** vagy **egyszer** kapcsolhatja be.
+3. Az **Ismétlődő számlázási beállítások** ablaktáblán válassza a **Kikapcsolás** lehetőséget a kikapcsoláshoz. Ha az ismétlődő számlázás már ki van kapcsolva, válassza a **Havi** vagy **az Egyszer** lehetőséget a bekapcsoláshoz.
 
-4. Jelölje be a **Küldés módosítása**.
+4. Válassza **a Módosítás küldése**lehetőséget.
 
-Ha további, lásd: [ismétlődő számlázási ki- és bekapcsolása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+További információért lásd: [Ismétlődő számlázás be- és kikapcsolása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

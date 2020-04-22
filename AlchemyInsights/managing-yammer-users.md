@@ -1,8 +1,8 @@
 ---
-title: Kezelése Yammer felhasználók
+title: A Yammer-felhasználók kezelése
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1a7d3aa3512732dd245856c3746aff7487080cab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734923"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762463"
 ---
 # <a name="managing-yammer-users"></a>A Yammer-felhasználók kezelése
 
-1. Az Office 365-től származó Yammer kezelésével kapcsolatos információkért tekintse meg a [Yammer kezelése felhasználók életciklusa alatt az office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)című témakört. Ez a következő adatokat tartalmazza:
+1. A Yammer-felhasználók Microsoft 365-ből való kezeléséről a [Yammer-felhasználók kezelése teljes életciklusuk során](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)című témakörben talál. Ez a következőkre vonatkozó részleteket foglalja magában:
 
   - Felhasználó létrehozása
 
   - Felhasználók törlése
 
-  - Ügyvezető Yammer felhasználók az Office 365
+  - A Yammer-felhasználók kezelése a Microsoft 365-től
 
-2. A felhasználóknak a Yammer admin konzolon való kezelésével kapcsolatban további információkat a [Yammer hozzáadása, blokkolása vagy eltávolítása](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) című témakörben talál. Ez a következőket foglalja magában:
+2. A Felhasználók Yammer-rendszergazdai konzolról való kezelésével kapcsolatos tudnivalókért olvassa el a [Yammer-felhasználók hozzáadása, letiltása vagy eltávolítása](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) című témakört. Ez a következőket foglalja magában:
 
   - Felhasználók meghívása vagy eltávolítása
 
   - Vendégfelhasználók meghívása
 
-  - A felhasználólista exportálása
+  - A felhasználói lista exportálása
 
-3. A külső felhasználók hozzáadásával, eltávolításával és kezelésével kapcsolatban további információt a [külső üzenetküldő résztvevők hozzáadása a Yammer hálózatához](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)című témakörben talál.
+3. A külső felhasználók hozzáadásáról, eltávolításáról és kezeléséről a [Külső üzenetküldő résztvevők hozzáadása a Yammer-hálózathoz](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)című témakörben talál további információt.

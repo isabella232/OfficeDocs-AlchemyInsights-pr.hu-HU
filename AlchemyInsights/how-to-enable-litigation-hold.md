@@ -1,9 +1,9 @@
 ---
-title: 976-hogyan--hoz-képessé tesz-peres ügyek-ragaszkodik
+title: 976-how-to-enable-peres-tartás
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398629"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720734"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Helyezzen el egy postafiókot jogtartam-
+# <a name="place-a-mailbox-on-legal-hold"></a>Postaláda elküldése jogi visszatartásra
 
-- Ha peres eljárás miatti tartásba vagy helyben történő tartásba szeretne helyezni egy postaládát, akkor egy Exchange Online Plan 2 licenc [Exchange Online Plan 2 licenc](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) szükséges. Ha egy postaládához egy Plan 1 licenc van rendelve, akkor külön Exchange Online archiválási [bővítménylicencet rendelhet hozzá.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
+- Ha egy postaládát peres eljárás tartásra vagy helyben tartásra szeretne helyezni, exchange online csomag 2 [licenccsere online csomag 2 licencre](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) van szükség. Ha egy postaláda 1-es csomaggal rendelkezik, külön Exchange Online archiválási bővítményt rendelhet [Az Exchange Online Archiválás bővítménylicenchez.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
 
-- Ha egyetlen felhasználóra szeretné engedélyezni a peres eljárás miatti tartást, [kövesse az alábbi lépéseket](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Ha a peres eljárás miatti tartás engedélyezett, a postaláda összes tartalma megmarad.
+- Ha egyetlen felhasználó peres eljárás miatti tartását szeretné engedélyezni, [kövesse az alábbi lépéseket.](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold) Ha a Peres eljárás miatti tartás engedélyezve van, a postaláda összes tartalma megmarad.
 
-- A szervezet összes postaládájában lévő tartalom megőrzéséhez használhat egy [egész szervezetre kiterjedő Office 365 adatmegőrzési házirendet](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Ne feledje, hogy a szervezeti szintű adatmegőrzési szabályok esetében az új felhasználók automatikusan hozzá lesznek rendelve a házirendhez.
+- A szervezet összes postaládájának tartalmának megőrzéséhez az [egész szervezetre kiterjedő adatmegőrzési szabályt](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)használhat. Vegye figyelembe, hogy a szervezeti szintű adatmegőrzési házirendek esetében az új felhasználók automatikusan hozzá lesznek rendelve a házirendhez.

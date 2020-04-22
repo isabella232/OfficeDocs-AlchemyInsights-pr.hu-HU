@@ -1,9 +1,9 @@
 ---
-title: Javítási .pst fájl importálása előtt
+title: .pst fájl javítása importálás előtt
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 3f273d9807a20048f33ce476e091ee2122a773d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552425"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720139"
 ---
-# <a name="repair-pst-file-before-importing"></a>Javítási .pst fájl importálása előtt
+# <a name="repair-pst-file-before-importing"></a>.pst fájl javítása importálás előtt
 
-Előtt az Outlook .pst fájl importálása, ellenőrizze a fájl nem sérült a fájl javítása által:
+Mielőtt importálna egy .pst fájlt az Outlook programban, ellenőrizze, hogy a fájl nem sérült-e a fájl javításával:
 
-1. Lépjen ki az Outlookból.
+1. Lépjen ki az Outlook programból.
 
-2. Keresse meg és futtassa `Scanpst.exe` az Office program mappájába (C:\Program Files (x86) \Microsoft Office\root\Office\<verzió\> vagy a C:\Program Files\Microsoft Office\root\Office\<verzió\>).
+2. Az Office-programmappában (C:\Program Files (x86)\Microsoft `Scanpst.exe` Office\root\Office\<Version\> vagy C:\Program Files\Microsoft Office\root\Office\<Version ) keresése és futtatása.\>
 
-3. A **Microsoft Outlook üzenetfájl-javító eszközt**, kattintson a **Tallózás** a .pst fájl (például a C:\Users\\<username\>\AppData\Local\Microsoft\Outlook). Jelölje ki a .pst fájlt, és kattintson a **Megnyitás**.
+3. A **Microsoft Outlook Beérkezett üzenetek javítása eszközben**kattintson a **Tallózás** gombra\\ a\>.pst fájl megkereséséhez (például a C:\Users<felhasználónév \AppData\Local\Microsoft\Outlook mappában). Jelölje ki a .pst fájlt, majd kattintson **a Megnyitás gombra.**
 
-4. Kattintson a **Start** a keresés megkezdéséhez.
+4. A vizsgálat megkezdéséhez kattintson az **Indítás** gombra.
 
-5. Ha hibákat a fájlban található, kattintson a **javítás**gombra, és kattintson az **OK gombra** , ha a helyreállítás befejeződött.
+5. Ha hibát talál a fájlban, kattintson a **Javítás**gombra, majd a javítás befejezéseután kattintson az **OK** gombra.
 
-6. Próbálja meg ismét importálni a .pst fájl az Outlook programban.
+6. Próbálja meg újra importálni a .pst fájlt az Outlook programban.
 
-További tudnivalókért lásd: [javítás Outlook-adatfájlok](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) és [az Outlook .pst fájlok importálásával kapcsolatos problémák](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+További információt az [Outlook-adatfájlok javítása](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) és [az Outlook .pst fájlok importálásával kapcsolatos problémák megoldása](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)című témakörben talál.

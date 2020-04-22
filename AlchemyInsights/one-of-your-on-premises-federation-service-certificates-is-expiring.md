@@ -1,9 +1,9 @@
 ---
-title: A helyi összevonási szolgáltatás tanúsítványok közül van lejáró
+title: Az egyik helyszíni összevonási szolgáltatástanúsítvány lejár
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
-ms.openlocfilehash: 00cbc77cb178d59a3115e44874a16f506e4408c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 24c369c61ad7cf7a9fe101ac29271c32e5159c1f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543567"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761385"
 ---
-# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>A helyi összevonási szolgáltatás tanúsítványok közül van lejáró
+# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>Az egyik helyszíni összevonási szolgáltatástanúsítvány lejár
 
-A probléma megoldásához kövesse az alábbi lépéseket:
+A probléma megoldásához hajtsa végre az alábbi lépéseket:
   
-- A Microsoft Azure Active Directory modult a Windows PowerShell telepítése a számítógépen (Ha a modul nincs még telepítve). Ehhez nyissa meg a [Grafikon Azure Active Directory PowerShell](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
+- Telepítse a Microsoft Azure Active Directory module for Windows PowerShell a számítógépre (ha a modul még nincs telepítve). Ehhez nyissa meg az [Azure Active Directory PowerShell for Graph-ot.](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
     
-- Kövesse az "1. eset: az AD FS-jogkivonat-aláíró tanúsítvány lejárt" részében a ["Hiba történt a webhely eléréséhez" hiba az Active Directory összevonási szolgáltatások összevont felhasználó bejelentkezik az Office 365, Azure, vagy Intune esetén](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+- Kövesse az AD FS "Az AD FS-jogkivonat-aláíró tanúsítvány lejárta" című szakaszának ["Hiba történt a webhely elérése közben" című hiba "Hiba történt a webhely elérése közben" című hiba lépéseit, amikor egy összevont felhasználó bejelentkezik az Office 365-be, az Azure-ba vagy az Intune-ba.](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
     
-- Kövesse t[frissíteni, vagy a beállításokat az Office 365, Azure, vagy Intune összevont tartomány javítása](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+- Kövesse a[t. T. Összevont tartomány beállításainak frissítése vagy javítása az Office 365-ben, az Azure-ban vagy az Intune-ban](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)című t.
     
-Összevonási tanúsítványok megújításával kapcsolatos további tudnivalókért lásd: [tanúsítvány-megújítási O365 és Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+Az összevonási tanúsítványok megújításáról az [O365 és az Azure AD tanúsítványmegújítása](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)című témakörben talál további információt.
   
 

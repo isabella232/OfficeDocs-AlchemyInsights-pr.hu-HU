@@ -1,9 +1,9 @@
 ---
-title: How-to-import-nk2-fájlok
+title: hogyan lehet importálni-nk2-fájlok
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770249"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759334"
 ---
-# <a name="how-to-import-nk2-files"></a>.Nk2 fájlok importálása 
+# <a name="how-to-import-nk2-files"></a>.nk2 fájlok importálása 
 
-Amikor elindítja a Microsoft Outlook 2013, Outlook 2016, Outlook 2019 vagy Outlook Office 365 első alkalommal, a becenév-gyorsítótárat (a *profilnév*.nk2 fájlt tárolni) importálja az alapértelmezett üzenettároló rejtett üzenet.
+Amikor először indítja el a Microsoft Outlook 2013, az Outlook 2016, az Outlook 2019 vagy a Microsoft 365 Outlook for Microsoft 365 programot, a becenév gyorsítótárát (a *profilnév*.nk2 fájlban tárolva) a rendszer rejtett üzenetbe importálja az alapértelmezett üzenettárolóban.
 
-.Nk2 fájlok importálása az Outlook 2013, Outlook 2016, Outlook 2019 vagy Outlook Office 365, győződjön meg arról, hogy az .nk2 fájlt a következő mappában: %appdata%\Microsoft\Outlook
+Ha .nk2 fájlt szeretne importálni az Outlook 2013,Outlook 2016, Outlook 2019 vagy Outlook for Microsoft 365 programba, győződjön meg arról, hogy az .nk2 fájl a következő mappában van: %appdata%\Microsoft\Outlook
 
-**Megjegyzés**: az .nk2 fájlt kell rendelkeznie a neve megegyezik az Outlook 2013 vagy Outlook 2016 profiljával. Alapértelmezés szerint a profil neve az "Outlook". A profilnév ellenőrzéséhez kövesse az alábbi lépéseket: 
-1. Kattintson a **Start**gombra, és kattintson a **Vezérlőpult parancsra**.
-2. Kattintson duplán a **Posta**elemre.
-3. A levelezés beállításai párbeszédpanelen válassza ki a **Profilok megjelenítése**.
-4. Válassza a **Start** > **futtatni**.
-5. A **Megnyitás** mezőbe írja be az *outlook.exe /importnk2*, és kattintson az **OK gombra**. 
+**Megjegyzés:** A .nk2 fájl nevének meg kell egyeznie a jelenlegi Outlook 2013- vagy Outlook 2016-profil nevével. Alapértelmezés szerint a profil neve "Outlook". A profil nevének ellenőrzéséhez kövesse az alábbi lépéseket: 
+1. Kattintson **a Start**menü **Vezérlőpult parancsára.**
+2. Kattintson duplán **a Posta**ikonra.
+3. A Levelezés beállítása párbeszédpanelen válassza a **Profilok megjelenítése**lehetőséget.
+4. Válassza **a Futtatás indítása** > **Run**lehetőséget.
+5. A **Megnyitás** mezőbe írja be az *outlook.exe /importnk2 parancsot,* majd kattintson **az OK gombra.** 
 
-Miután importálta az .nk2 fájlt, a fájl tartalmát egyesülnek a postaládában tárolt meglévő becenév-gyorsítótárát.
+Az .nk2 fájl importálása után a fájl tartalma a postaládában tárolt meglévő becenév-gyorsítótárba kerül.
 
-**Megjegyzés**: az .nk2 fájlt .old fájlnévkiterjesztéssel neve Outlook 2013, Outlook 2016, Outlook-2019 vagy Office 365 az Outlook következő indításakor. Ha szeretné újból importálni az .nk2 fájlt, először távolítsa el az .old kiterjesztésűre.
+**Megjegyzés:** A .nk2 fájl .nk2 fájlja az Outlook 2013, az Outlook 2016, az Outlook 2019 vagy a Microsoft 365 Outlook for Outlook 365 következő indításakor .n2 fájlnévkiterjesztéssel lett átnevezve. Ha újra importálni szeretné a .nk2 fájlt, először távolítsa el a .old fájlnévkiterjesztést.
 
-További tudnivalókért lásd: [Importálás vagy másolás egy másik számítógépre az automatikus kiegészítési lista](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+További információt [az Automatikus kiegészítési lista importálása vagy másolása másik számítógépre](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%)című témakörben talál.

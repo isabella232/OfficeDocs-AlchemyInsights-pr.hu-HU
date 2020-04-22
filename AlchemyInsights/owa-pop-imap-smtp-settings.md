@@ -1,31 +1,31 @@
 ---
-title: POP, IMAP és SMTP beállításait az Outlook programban a weben
+title: POP-, IMAP- és SMTP-beállítások a Webes Outlookban
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d106e02fbb7e67de707679bc226868b600c4f534
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556495"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721137"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Az Outlook a weben POP, IMAP & SMTP beállítások
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Pop, IMAP & SMTP-beállítások a Webes Outlookhoz
 
-Ha azt szeretné, az Office 365-fiók hozzáadása másik mail app, amely támogatja a POP, IMAP és SMTP, az alábbiakban a kézi kiszolgálóbeállítások lesz szüksége:
+Ha a Microsoft 365-fiókját hozzá szeretné adni egy másik, POP, IMAP vagy SMTP protokollt támogató levelezőalkalmazáshoz, az alábbiakra van szüksége a kiszolgáló manuális beállításaira:
   
 - **IMAP-kiszolgáló neve:** outlook.office365.com
 - **IMAP-port:** 993
 - **IMAP titkosítási módszer:** SSL/TLS
 - **POP-kiszolgáló neve:** outlook.office365.com  
-- **POP-port:** 995  
+- **POP port:** 995  
 - **POP titkosítási módszer:** SSL/TLS  
 - **SMTP-kiszolgáló neve:** smtp.office365.com
 - **SMTP-port:** 587
-- **SMTP titkosítási módszer:** STARTTLS
+- **SMTP titkosítási módszer:** STARTElS

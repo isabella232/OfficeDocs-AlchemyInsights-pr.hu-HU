@@ -1,9 +1,9 @@
 ---
-title: Blokk feladók az Outlook.com - spanyol
+title: Letiltja a feladókat Outlook.com - SPANYOL
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: 01b8a14bf11a6b32b806997911bb99e8ff45ba5e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 00cd42649e62908dc55d8ce45ec311b07d76286f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537805"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717600"
 ---
 # <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes en Outlook.com
 
-Puede bloquear los mensajes de las direcciones de correo electrónico específica o dominio llegue la Bandeja de entrada. Cuando agrega una dirección de correo electrónico o un dominio la lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese remitente la carpeta correo electrónico nem deseado.
+Puede bloquear los mensajes de las direcciones de correo electrónico específica o dominio llegue a la Bandeja de entrada. Cuando agrega una dirección de correo electrónico o un dominio a la lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese remitente a la carpeta correo electrónico no deseado.
 
-Aprender MAS para leer [Ayudar egy mantener el correo nem deseado y el correo nem deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Para aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

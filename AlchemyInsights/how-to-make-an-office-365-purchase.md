@@ -1,5 +1,5 @@
 ---
-title: Hogyan készítsünk egy Office 365 vásárlás
+title: Office 365-ös vásárlás?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,29 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 19e4a7ffd7f64f744eeba2a7a34390309bfe9bb8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921852"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759118"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>Hogyan készítsünk egy Office 365 vásárlás
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Microsoft 365-ös vásárlás
 
-Megvásárol-ban Hivatal 365 lehet gyártott-ban admin központ.
+A Microsoft 365-ben történő vásárlások a felügyeleti központban is elláthatók.
   
-- Az Office 365 előfizetés megvásárlásával kapcsolatban látogasson el a **Számlázási** \> [szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=868433) lapra.
+- Csomag megvásárlásához nyissa meg a **Számlázási** \> [szolgáltatások lapot.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-- További licencek vásárlásával kapcsolatban látogasson el a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra. Válassza ki azt az előfizetést, amelyhez licenceket kíván adni, majd válassza a **licencek hozzáadása/eltávolítása engedélyt**.
+- További licencek vásárlásához nyissa meg a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot. Válassza ki azt az előfizetést, amelyhez licenceket szeretne hozzáadni, majd válassza **a Licencek hozzáadása/eltávolítása**lehetőséget.
   
-További információ: [licencek vásárlása az Office 365-hez üzleti előfizetés esetén](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+További információ: [Licencek vásárlása a Microsoft 365 vállalati verziós előfizetéséhez.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)
 
 **Hibaelhárítás**
 
-Ha az oldal betöltésével kapcsolatban problémák merülnek fel, próbálja meg megnyitni a weblapot egy másik böngészővel, vagy próbálja meg megnyitni az oldalt egy privát böngészőablakot, például a Microsoft Edge programban egy InPrivate ablakot vagy egy Google Chrome-ban található inkognitóablakot. 
+Ha problémákat tapasztal a lap betöltésekor, próbálkozzon a weblap megnyitásával egy másik böngészőben vagy egy privát böngészőablakban, például egy InPrivate-ablakban a Microsoft Edge, illetve egy inkognitóablakban a Google Chrome böngésző esetén. 
 
-**További Forrásforrások**
+**További források**
   
-- [Licencek hozzárendelése felhasználókhoz az Office 365 Vállalati verzióban](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Licencek hozzárendelése felhasználókhoz a Microsoft 365 vállalati verzióban](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Az Office 365 törlése üzleti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [A Microsoft 365 Vállalati verzió lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

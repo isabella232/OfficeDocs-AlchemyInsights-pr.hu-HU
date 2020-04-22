@@ -1,9 +1,9 @@
 ---
-title: Igénylése a Microsoft Intune macOS-eszközök problémáinak elhárítása
+title: MacOS-eszközök Microsoft Intune-ban való regisztrálásával kapcsolatos problémák elhárítása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 6c2293852554ce9be066975c4b8937444e544779
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5322a6054294ff475323ade91a052e2dd678a37
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500001"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736124"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Igénylése a Microsoft Intune macOS-eszközök problémáinak elhárítása
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>MacOS-eszközök Microsoft Intune-ban való regisztrálásával kapcsolatos problémák elhárítása
 
-Most a probléma megoldásához kövesse az alább felsorolt erőforrások áttekintése.
+A probléma megoldásához tekintse át az alábbi forrásokat.
   
-1. [Intune hibaelhárítás Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) segítségével azonosíthatja és megoldhatja a beiktatási gyakori hibák. [Ez a dokumentum](https://docs.microsoft.com/intune/help-desk-operators) további részletekért tekintse át.
+1. Az [Intune hibaelhárítási portáljával](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnosztizálhatja és feloldhatja a gyakori regisztrációs hibákat. Tekintse át ezt a [dokumentumot](https://docs.microsoft.com/intune/help-desk-operators) további részletekért.
 
-2. Tekintse át [ezt a dokumentumot](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) , amelyek megakadályozzák a tanúsítványigénylési és -megoldások egyes gyakori hibák listáját.
+2. Tekintse át [ezt a dokumentumot](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) a gyakori hibák listájáért, amelyek megakadályozzák a regisztrációt és a megoldásokat.
 
-3. [Útmutató a Microsoft Intune macOS eszközök igénylésére](https://docs.microsoft.com/intune/macos-enroll).
+3. [Megtudhatja, hogy miként regisztrálhatja a macOS-eszközöket a Microsoft Intune-ban.](https://docs.microsoft.com/intune/macos-enroll)
 
-[Végfelhasználói kézikönyv macOS eszköz a Microsoft Intune igényléséhez kivétele](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Tekintse meg a végfelhasználói útmutatót a macOS-eszköz Microsoft Intune-ban való regisztrálásához](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

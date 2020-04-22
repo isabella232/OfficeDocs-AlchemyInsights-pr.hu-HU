@@ -1,9 +1,9 @@
 ---
-title: 1800014 az-app támogatása az Outlook mobile alkalmazás letöltése
+title: 1800014 Alkalmazáson belüli támogatás az Outlook mobilalkalmazáshoz
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: d7c0acfa834f68977d2a04468fb39ac50e41023f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42fcbe6f0e5433a60149a2b58b232e2ab895d7aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524233"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759080"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Az Outlook mobile alkalmazás-app segítség
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Alkalmazáson belüli támogatás beszerezni az Outlook mobilalkalmazást
 
-1. Az Outlook mobile alkalmazás **menü**megnyitása.
+1. Az Outlook mobilalkalmazásban nyissa meg a **Menüt**.
 
-2. A kérdőjel megnyitásához jelölje ki a **Help &amp; visszajelzést** képernyőn.
+2. A **súgóvisszajelzés &amp; ** képernyőjének megnyitásához jelölje ki a kérdőjelet.
 
-3. Koppintson a **Kapcsolatfelvétel a támogatási szolgálattal** , és magyarázza el a problémát.
+3. Koppintson **a Kapcsolatfelvétel az ügyfélszolgálattal,** és magyarázza el a problémát.
 
-4. Koppintson a **Küldés** és az-app értesítést kap, amikor a támogatási ügynök kapcsolatba lép Önnel.
+4. Koppintson **a Küldés** gombra, és értesítést kap az alkalmazáson belüli értesítésről, amikor egy támogatási ügynök kapcsolatba lép Önvel.
 
-[IOS és Android - app súgó](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)témakörben talál részletes útmutatást.
+Részletes útmutatást az [alkalmazáson belüli súgó beolvassa az iOS és androidos Outlookhoz.](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

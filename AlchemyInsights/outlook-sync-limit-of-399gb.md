@@ -1,9 +1,9 @@
 ---
-title: Az Outlook szinkronizálási korlátját 3.99 GB
+title: Az Outlook szinkronizálási korlátja 3,99 GB
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/29/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1773"
 - "9000169"
-ms.openlocfilehash: 8a31e9bfd325b395f142d0b34c927bdd97370a0d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7258056215713b5e6840f9d732f6b386db74574e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511426"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743239"
 ---
-# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Az Outlook-szinkronizálási állapotsor marad 3.99 GB
+# <a name="outlook-sync-status-bar-remains-at-399-gb"></a>Az Outlook szinkronizálási állapotsora 3,99 GB marad
 
-Próbálja meg csökkenteni a mappa tartalmának méretét, vagy nagy mappák szinkronizációs szűrő létrehozása, vagy annak közelében a 4 GB.
+Próbálja meg csökkenteni a mappa tartalmának méretét, vagy hozzon létre szinkronizálási szűrőt a nagy méretű, 4 GB-os vagy annak közelében lévő nagy mappákhoz.
 
-Lásd a sáv folyamatban állapot soha nem több, mint a kezdeti [szinkronizálás nagy mappák további információt](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)a fennmaradó 3.99 GB mutatja.
+További információért lásd: Az állapotsor állapota soha nem mutat 3,99 GB-nál többet [a nagy mappák szinkronizálása](https://support.microsoft.com/help/2738323/status-bar-progress-never-shows-more-than-3-99-gb-remaining-on-initial)után.

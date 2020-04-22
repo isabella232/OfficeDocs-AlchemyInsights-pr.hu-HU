@@ -1,29 +1,29 @@
 ---
-title: Az Outlook a webes fiók hozzáadása az Outlook for Windows
+title: Webes Outlook-fiók felvétele a Windows Outlookba
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f745546c991bae52046014dff836aeb54c779db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ffcc8ba50b98b693b48e13bb398a44289de305f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510985"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743203"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Az Outlook az Outlook a webes fiók hozzáadása
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Webes Outlook felvétele az Outlookba
 
-Lépések megegyeznek, hogy az első e-mail fiókot, vagy további e-mail fiókok Outlook hozzáadásakor.
+Ezek a lépések ugyanazok, függetlenül attól, hogy az első e-mail fiókját vagy további e-mail fiókjait adja hozzá az Outlookhoz.
 
-1. Válassza ki a **fájl** > **fiók**.
-1. A következő, lásd: az Outlook verziójától függ:
-    - Az **Office 365 az Outlook** és **Outlook 2016**adja meg e-mail címét, és kattintson a **Csatlakozás**gombra.
-    - Az **Outlook 2010**és **az Outlook 2013** adja meg a nevét, e-mail címét és jelszavát, és kattintson a **Tovább**gombra.
-1. Ha a rendszer kéri, írja be újra a jelszót, majd kattintson az **OK** > **Befejezés** elindítani az Outlook programban az e-mail fiókkal.
+1. Válassza **a Fiók** > **hozzáadása lehetőséget.**
+1. A következő lépés az Outlook verziójától függ:
+    - Az **Office 365-höz** és **az Outlook 2016-hoz**készült Outlook esetében adja meg az e-mail címét, és kattintson a **Csatlakozás gombra.**
+    - Az **Outlook 2013** és **az Outlook 2010**esetén adja meg nevét, e-mail címét és jelszavát, majd kattintson a **Tovább**gombra.
+1. Ha a rendszer kéri, adja meg újra a jelszavát, majd válassza **az OK** > **befejezés** lehetőséget az e-mail fiók használatának megkezdéséhez az Outlook programban.
 
-További tudnivalókért lásd: [az Outlook e-mail fiók hozzáadása](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)
+További információt az [E-mail fiók hozzáadása az Outlookba című témakörben talál.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)

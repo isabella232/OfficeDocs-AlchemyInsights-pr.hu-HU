@@ -1,9 +1,9 @@
 ---
-title: Előző fájlverzió visszaállítása
+title: Korábbi fájlverzió visszaállítása
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 3d612b3e729b471cafd8304d8afe0f569f257e49
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 4432e3f169378c9a694bd633d0a7f12ad057e7ad
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36552353"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742721"
 ---
-# <a name="restore-a-previous-file-version"></a>Előző fájlverzió visszaállítása
+# <a name="restore-a-previous-file-version"></a>Korábbi fájlverzió visszaállítása
 
--Val online változat történelem, tudod lát és visszaad régebb változat-ból-a fájlokat-ban OneDrive vagy SharePoint. A korábbi verziók minden fájltípushoz (például PDF, CAD-fájlok, fényképek és videók) is használható. Előző fájlverzió visszaállítása:
+Az online verzióelőzményekkel megtekintheti és visszaállíthatja fájljainak régebbi verzióit a OneDrive-on vagy a SharePointban. A verzióelőzmények minden fájltípussal működnek, beleértve a PDF-fájlokat, CAD-fájlokat, fényképeket és videókat. Korábbi fájlverzió visszaállítása:
   
-1. Nyissa meg a SharePoint-dokumentumtárat vagy az OneDrive helyet.
+1. Nyissa meg a SharePoint-dokumentumtárat vagy a OneDrive helyét.
     
-2. Kattintással jelölje ki a fájl bal oldalán lévő fájlt, és kattintson a **korábbi verziók**elemre. Ha a verzióelőzmények a parancssávon nem látható, kattintson a további ( **...** ) gombra. 
+2. A fájl tól balra kattintson a kijelöléséhez, majd a **Korábbi verziók parancsra.** Ha a parancssávon nem láthatóak a korábbi verziók, kattintson az Egyebek ( **...** ) gombra. 
     
-3. Kattintson a megtekinteni kívánt verzióra, vagy kattintson a további ( **...** ) lehetőségre a verziótól jobbra, majd kattintson a **visszaállítás**gombra.
+3. Kattintson a megtekinteni kívánt verzióra, vagy kattintson a verzió jobb oldalán található Egyebek ( **...** ) elemre, majd kattintson a **Visszaállítás gombra.**
     
 

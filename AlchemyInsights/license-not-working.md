@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "4764"
-ms.openlocfilehash: 2b82d6f19ff479ba4a3b1eb0cac168f38d2b2cd8
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 18361bf7f06775dfd481b1246707bacf25b48dea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530251"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719887"
 ---
 # <a name="license-not-working"></a>A licenc nem működik
 
@@ -26,7 +26,7 @@ A következőkben néhány megoldási lehetőséget próbálhat ki:
 
 - Próbája KI- és BEKAPCSOLNI a termék licencét, és ellenőrizze, hogy ez megoldja-e a problémát. 
 
-- Ha nem lát hozzárendelt licencet, gondoskodjon a licencek felhasználókhoz történő hozzárendeléséről. Lásd: [Licencek hozzárendelése a felhasználókhoz](https://docs.microsoft.com/en-us/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Ha nem lát hozzárendelt licencet, gondoskodjon a licencek felhasználókhoz történő hozzárendeléséről. Lásd: [Licencek hozzárendelése a felhasználókhoz](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 
 - Ellenőrizze, hogy nem járt-e le az előfizetése, és szükség esetén újítsa meg. Lásd: [Az előfizetés újraaktiválása](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription). 
 

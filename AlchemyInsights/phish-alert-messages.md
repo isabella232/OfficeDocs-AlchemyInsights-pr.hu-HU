@@ -1,38 +1,38 @@
 ---
-title: A "Phish-i bérlő vagy felhasználói override" házirend 2491 figyelmeztető e-mail üzenetek
+title: 2491 E-mail üzenetek riasztása a "Bérlő vagy felhasználó által felülbírálása miatt kézbesített adatlopó" házirendből
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 456b186ecea59422c791c79d4df056ad8446bc70
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 2e4efd504304da757687e697ff23374aeea31851
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391324"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758930"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Figyelmeztető e-mail üzenetek a "Phish-i bérlő vagy felhasználói override" házirend
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>E-mail üzenetek riasztása a "Bérlő vagy felhasználó felülbírálása miatt kézbesített adatlopó" házirendből
 
-"A bérlő vagy a felhasználó felülíró művelet miatt Phish szállítva" nevű alapértelmezett figyelmeztetési házirend van már építették ki a bérlők az Office 365 ATP P1 és P2 licencek. Ha ezt az értesítést kapott, a lépések a következők vizsgálatára:
+A "Bérlő vagy felhasználó felülbírálása miatt kézbesített adatphish" nevű alapértelmezett riasztási szabályzat ot vezették be az Office 365 ATP P1 és P2 licenccel rendelkező bérlők számára. Ha ezt a riasztást kapta, az alábbi lépéseket kell kivizsgálnia:
 
-1. A figyelmeztető üzenetet kattintson a **Nézet értesítést** , a **riasztások** lapon a biztonsági & Megfelelési központba a parancsra.
+1. A figyelmeztető üzenetben kattintson a **Riasztás megtekintése** gombra a Biztonsági & megfelelőségi központ **Riasztások** lapjára.
 
-2. Válassza ki a **lista megtekintése üzenet** vagy **üzenetek megtekintése a Explorer**beállítás jelenik meg figyelmeztető üzenet. Mindkét beállítás végrehajtása során a részleteket az üzenet, amely tartalmazza az üzenet azonosítóját. Megjegyzés: a fenyegetés Explorer hivatkozás automatikusan kiszűrheti a riasztási feltételeknek megfelelő üzeneteket. Szükség lehet a Dátumszűrő fenyegetés Explorer beállításához.
+2. Válassza ki a riasztást az **üzenetlista** megtekintéséhez vagy az Üzenetek megtekintése az **Intézőben**lehetőséghez. Mindkét lehetőség az üzenet részleteit tartalmazza, beleértve az üzenetazonosítót is. Vegye figyelembe, hogy a Fenyegetéskezelő hivatkozás automatikusan szűri a riasztási feltételeknek megfelelő üzeneteket. Előfordulhat, hogy módosítania kell a dátumszűrőt a Fenyegetéskezelőben.
 
-Az adathalász üzenetek kézbesítésének miatt egy kézzel beállított felülírása:
+Az adathalász üzenetet manuálisan konfigurált felülbírálás miatt kézbesítették:
 
-- Az engedélyezett feladót vagy tartományt, a felhasználó által beállított.
+- A felhasználó által beállított engedélyezett feladó vagy tartomány.
 
-- Az engedélyezett feladót vagy tartományt, állítják be a rendszergazdai egy kéretlen üzenetekre.
+- A rendszergazda által a levélszemét elleni házirendben beállított engedélyezett feladó vagy tartomány.
 
-- Az engedélyezett IP-címet a kapcsolat szűrő házirend.
+- Engedélyezett IP-cím egy kapcsolatszűrő-házirendben.
 
-- A mail Attribútumfolyam-szabály (más néven átviteli szabály), amely lehetővé teszi az üzenetek.
+- Olyan levélforgalom-szabály (más néven átviteli szabály), amely úgy van beállítva, hogy engedélyezze az üzeneteket.
 
-Ha úgy gondolja, hogy az üzenet helytelenül volt megjelölve phish, használja az Outlook [jelentés hozzáadása a](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) Microsoft message mintát küldjön.
+Ha úgy gondolja, hogy az üzenetet helytelenül jelölték meg adatlopóként, az Outlook [Jelentésüzenet bővítmény segítségével](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) küldjön üzenetmintákat a Microsoftnak.

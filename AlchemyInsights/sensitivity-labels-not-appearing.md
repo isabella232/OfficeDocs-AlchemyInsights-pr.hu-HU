@@ -1,9 +1,9 @@
 ---
-title: A érzékenységi címkék nem jelennek meg
+title: Nem megjelenő érzékenységi címkék
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048654"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758435"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>A érzékenységi címkék nem jelennek meg
+# <a name="sensitivity-labels-not-appearing"></a>Nem megjelenő érzékenységi címkék
 
-A érzékenységi címkék lehetővé teszik a kényes tartalmak osztályozását és védelmét. Ők lehet teremtett-ban Mikroszkóp 365 engedékenység központ, Mikroszkóp 365 Biztonság Központ, vagy hivatal 365 biztonság & engedékenység központ alatt osztályozás > érzékenység felirat. A szolgáltatásról az [érzékenységi címkék áttekintése](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)című témakör nyújt bővebb felvilágosítást.
+Az érzékenységi címkék lehetővé teszik az érzékeny tartalmak osztályozását és védelmét. Ezek a Microsoft 365 megfelelőségi központban, a Microsoft 365 biztonsági központban vagy a Microsoft 365 biztonsági & megfelelőségi központban hozhatók létre a Besorolási > az érzékenységi címkék alatt. A funkcióról az [Érzékenységi címkék áttekintése című témakörben olvashat bővebben.](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
 
-Ha beállította az érzékenységi címkéket, de azok nem jelennek meg az Office-alkalmazásokban, ellenőrizze a következőket:
+Ha konfigurálta az érzékenységi címkéket, de azok nem jelennek meg az Office-alkalmazásokban, ellenőrizze az alábbiakat:
 
-- Győződjön meg arról, hogy az érzékenységi címkét a kívánt felhasználók és csoportok számára [közzétették](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) .
+- Ellenőrizze, hogy az érzékenységi címke [közzé lett-e téve](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) a kívánt felhasználók és csoportok számára.
 
-- Ellenőrizze, hogy a felhasználó használ-e olyan alkalmazást, amely támogatja a érzékenységi címkéket – lásd: [érzékenységi címkék a dokumentumban](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Ellenőrizze, hogy a felhasználó olyan alkalmazást használ-e, amely támogatja az érzékenységi címkéket – tekintse meg [az érzékenységi címkéket a dokumentumban.](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)
 
-- Ha [áttelepíti a Azure adatvédelmet](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), vegye figyelembe az [itt](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)felsorolt szempontokat.
+- Ha az [Azure Information Protection címkéket telepíti át,](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)vegye figyelembe az [itt](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)felsorolt szempontokat.
 
-- Adatvesztés megelőzése (DLP) támogatás: jelenleg csak az adatmegőrzési címkéket lehet használni a DLP-házirendek feltételeként.  A DLP-házirend érzékenységi címkéinek támogatása még nem érhető el, de rajta dolgozunk.
+- Adatveszteség-megelőzési (DLP) támogatás: Jelenleg csak a megőrzési címkék használhatók feltételként a DLP-házirendekben.  A DLP-házirendben az érzékenységi címkék támogatása még nem érhető el, de dolgozunk rajta.
 
-- Ha egy érzékenységi címkén engedélyezve van a titkosítás, az alábbiak közül választhat:
+- Ha a titkosítás engedélyezve van egy érzékenységi címkén, a következő t választhatja:
     - Engedélyek hozzárendelése most
-    - A felhasználók hozzárendeljék az engedélyeket
+    - Engedélyek hozzárendelésének lehetővé teszi a felhasználók számára
 
 
-A lehetséges problémákról további információt a [érzékenységi címkékkel kapcsolatos ismert problémák](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)című témakörben talál.
+A lehetséges problémákról az [Ismert érzékenységi címkékkel kapcsolatos tudnivalók](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)című témakörben talál további információt.

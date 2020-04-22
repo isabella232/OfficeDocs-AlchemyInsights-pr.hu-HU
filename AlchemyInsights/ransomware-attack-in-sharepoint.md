@@ -1,8 +1,8 @@
 ---
-title: Ransomware támadás-ban SharePoint vagy OneDrive
+title: Zsarolóprogramok támadása a SharePointban vagy a OneDrive-on
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a95973cbb1a3b61c03c05bceeb9d85c17c6db5bb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a14b6b935c5cc123e16812ef217588903abae831
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054271"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742807"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware támadás-ban SharePoint vagy OneDrive
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Zsarolóprogramok támadása a SharePointban vagy a OneDrive-on
 
-1.  Ha segítségre van szüksége azzal kapcsolatban, hogy mi a teendő, ha egy rosszindulatú fájl megtalálható az OneDrive vagy a SharePoint vagy csapatok szolgáltatásban, olvassa el a [Mi a teendő, ha rosszindulatú fájlt](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)talál.
-2. Ha Ön látszó részére hogyan viselkedni Oltalmaz-a adat-ból ransomware, lát:
-    - [Az adatok védelme a SharePoint és az OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [Ransomware fenyegetés védelem](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+1.  Ha segítségre van szüksége, ha rosszindulatú fájlt talál a OneDrive-on vagy a SharePoint-on vagy a Teamsben, olvassa el [a Teendők, ha rosszindulatú fájlt talál.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
+2. Ha azt szeretné, hogyan védheti meg adatait a zsarolóprogramoktól, olvassa el a következő témakört:
+    - [Adatok védelme a SharePointban és a OneDrive-ban](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [Zsarolóprogramok veszélyforrások elleni védelem](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Van minden a fájlokat-ra-a OneDrive vagy SharePoint mesterkélt mellett ransomware vagy malware vagy crypto vírus? 
+3.  A OneDrive-on vagy a SharePoint-on lévő összes fájlt zsarolóprogramok, rosszindulatú programok vagy kriptográfiai vírusok érintik? 
 
-Azonnal megáll/szünet a OneDrive szinkronizál (ha akármi) vagy szétkapcsol Felfedező kilátás leképezés-hoz könyvtár-ból mesterkélt számítógép (ha akármi), aztán tudod visszaad-a teljes OneDrive vagy SharePoint könyvtár-hoz egy előző idő mellett használ a fájlokat visszaad vonás. 
+Azonnal állítsa le/szüneteltesse a OneDrive-szinkronizálást (ha van ilyen), vagy válassza le a tárra az érintett számítógépről (ha van ilyen) leképezett Explorer nézetet, majd a fájl-visszaállítási funkció val visszaállíthatja a teljes OneDrive- vagy SharePoint-tárat egy korábbi időpontra. 
 
-A visszaállításról további információt a következő témakörökben talál:
+A visszaállítással kapcsolatos további információkért lásd:
 
-- [OneDrive függvénytár visszaállítása](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [Dokumentumtár visszaállítása](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [OneDrive-tárak visszaállítása](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [Dokumentumtárak visszaállítása](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-További információt a speciális Veszélyvédelmi (ATP) című témakörben talál a következő témakörökben:
-- [ATP SharePoint, OneDrive és a csapatok](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Fenyegetés Explorer-nézetek](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+A komplex veszélyforrások elleni védelemről (ATP) további információt a következő témakörben talál:
+- [ATP sharepointhoz, OneDrive-hoz és Teams-hez](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [Fenyegetéskezelő nézetei](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
-További információ:
+További információk:
 
-- [Vírus nyomozás-ban SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Adattitkosítás az ODB és az SPO-ban](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [Ransomware nyomozás és visszaszerzés fájlokat](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Fenyegetés Felfedező és telekügynök nyomozás](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [Vírusészlelés az SPO-ban](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Adattitkosítás az ODB-ban és az SPO-ban](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Zsarolóprogramok észlelése és helyreállítása fájlok](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [Fenyegetéskezelő és valós idejű észlelések](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

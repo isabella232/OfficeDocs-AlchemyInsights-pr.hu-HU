@@ -1,9 +1,9 @@
 ---
-title: Jelentkezzen ki Outlook.com
+title: Kijelentkezés a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 02e4c5478f5ca880ece6cd70b3385ca78c724f28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 82e1926e267bd821b3374765878e6c7ce1e36d69
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557784"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743527"
 ---
-# <a name="how-to-sign-out-of-outlookcom"></a>Hogyan Outlook.com kijelentkezés
+# <a name="how-to-sign-out-of-outlookcom"></a>Hogyan lehet kijelentkezni a Outlook.com
 
-1. Válassza ki a nevet vagy a kép jobb felső sarkában.
+1. Válassza ki nevét vagy képét a jobb felső sarokban.
 
-    Ha nem jelenik meg a kép a képernyő tetejére, ellenőrizze, hogy ha ad blokkolása be van kapcsolva. Néha ez megakadályozza, hogy a kép megjelenítése.
+    Ha nem látható a kép a képernyő tetején, ellenőrizze, hogy be van-e kapcsolva a hirdetésletiltás. Néha ez akadályozza meg a kép megjelenítését.
 
-2. Válassza a **Kijelentkezés**.
+2. Válassza **a Kijelentkezés**lehetőséget.
 
-    Leállítja az automatikus bejelentkezés, törölje a jelet a jelölőnégyzetből a **bejelentkezve szeretnék** az oldalon, ahol adja meg a jelszót.
+    Ha nem szeretné automatikusan bejelentkezni, törölje a jelet a **Mindig bejelentkezve** azon az oldalon, ahol beírja a jelszavát.
 
-További információért lásd: [Jelentkezzen be, vagy Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+További információ: Bejelentkezés a Outlook.com vagy [azon kívül.](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)
   

@@ -1,8 +1,8 @@
 ---
-title: Office 2019 kapcsolatos kérdések
+title: Az Office 2019-el kapcsolatos kérdések
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: f00109e467c5ef853f9312f57a7f966288a0bb0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f02dcd8415414068b62497d647474c4b8f8d4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553614"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719805"
 ---
-# <a name="about-office-2019"></a>Office 2019 kapcsolatban
+# <a name="about-office-2019"></a>Az Office 2019-ről
 
-Office 2019 számára, akik nincsenek még készen áll a felhő, vagy nincs konkrét igény helyszíni vagy hibrid Office telepítési van. Ez magában foglalja a szolgáltatások, amelyek már szerepelnek az Office 365 az utolsó három évben egy értelmes részét, de nem része az Office 365.
+Az Office 2019 olyan ügyfelek számára készült, akik még nem állnak készen a felhőre, vagy speciális igényük van a helyszíni vagy hibrid Office-telepítésre. Olyan szolgáltatások jelentős részét tartalmazza, amelyek et már az elmúlt három évben hozzáadtak a Microsoft 365-höz, de nem része a Microsoft 365-nek.
   
-Office 365 ProPlus, Office, felhő-kompatibilis verziójának szolgáltatás a legtöbb termelő és legbiztonságosabb Office környezetet biztosít. Szolgáltatások a helyszíni verzióiban van túl a programcsomag hozzáférést biztosít, és folyamatosan új szolgáltatás frissítéseket kap.
+A Nagyvállalati Microsoft 365 alkalmazások, az Office felhőhöz kapcsolódó verziója a legtermelékenyebb és legbiztonságosabb Office-élményt nyújtja. Hozzáférést biztosít a szolgáltatások csomagjának túl, amit a helyszíni verziók, és megkapja az új funkció frissítések folyamatosan.
   
-Így ha az Office asztali alkalmazásokat az Office 365 előfizetése részeként már az Office legújabb verzióját.
+Ha tehát az asztali Office-alkalmazásokat a Microsoft 365-előfizetése részeként használja, akkor már rendelkezik az Office legújabb verziójával.
   
 További információ:
   
-[Office 2019 kereskedelmi for Windows és Mac Gyakran ismételt kérdések](https://support.microsoft.com/help/4133312)
+[Gyakori kérdések az Office 2019 Commercial for Windows és Mac](https://support.microsoft.com/help/4133312)
   
-[A főverziószám az Office 2019 tartózkodik, 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Az Office 2019 főverziószáma 16.0-nál marad](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Év jelölése az ügyfélalkalmazások Office 2016 és az Office 365 eltávolítja a Start menü tételek](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Az Office 2016 és a Microsoft 365 ügyfélalkalmazások évszerinti kijelölése törlődik a Start menü bejegyzéseiből](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   
