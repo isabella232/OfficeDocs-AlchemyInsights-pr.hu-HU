@@ -1,5 +1,5 @@
 ---
-title: Hozzáférési szolgáltatások visszavonulása
+title: Hozzáférés szolgáltatások nyugdíjazás
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050491"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687260"
 ---
-# <a name="access-services-retirement"></a><span data-ttu-id="a0656-102">Hozzáférési szolgáltatások visszavonulása</span><span class="sxs-lookup"><span data-stu-id="a0656-102">Access services retirement</span></span>
+# <a name="access-services-retirement"></a><span data-ttu-id="bdb5b-102">Hozzáférés szolgáltatások nyugdíjazás</span><span class="sxs-lookup"><span data-stu-id="bdb5b-102">Access services retirement</span></span>
 
-<span data-ttu-id="a0656-103">Mint mi eredetileg jelentették be-ban MC97576, márciusban 2017, és állandó-hoz kommunikál felső a múlt év belépés szolgáltatás van lét nyugdíjas-ból Hivatal 365.</span><span class="sxs-lookup"><span data-stu-id="a0656-103">As we originally announced in MC97576, in March 2017, and continued to communicate over the past year Access Services are being retired from Office 365.</span></span> <span data-ttu-id="a0656-104">A folyamat következő fázisa az Access web adatbázisok eltávolítása lesz, amelyek a SharePoint-listákat a mögöttes adattárolásként használják.</span><span class="sxs-lookup"><span data-stu-id="a0656-104">The next phase in this process will be the removal of Access Web Databases that use SharePoint lists as their underlying data storage.</span></span>
+<span data-ttu-id="bdb5b-103">Ahogy azt eredetileg az MC97576-ban, 2017 márciusában jelentettük be, és az elmúlt évben folytattuk a kommunikációt, az Access Services-t megszüntették.</span><span class="sxs-lookup"><span data-stu-id="bdb5b-103">As we originally announced in MC97576, in March 2017, and continued to communicate over the past year Access Services are being retired.</span></span> <span data-ttu-id="bdb5b-104">A folyamat következő fázisa az Access webadatbázisok eltávolítása lesz, amelyek a SharePoint-listákat használják alapul szolgáló adattárolóként.</span><span class="sxs-lookup"><span data-stu-id="bdb5b-104">The next phase in this process will be the removal of Access Web Databases that use SharePoint lists as their underlying data storage.</span></span>
 
-<span data-ttu-id="a0656-105">**Hogyan érint ez engem?**</span><span class="sxs-lookup"><span data-stu-id="a0656-105">**How does this affect me?**</span></span>
+<span data-ttu-id="bdb5b-105">**Milyen hatással van ez rám?**</span><span class="sxs-lookup"><span data-stu-id="bdb5b-105">**How does this affect me?**</span></span>
 
-<span data-ttu-id="a0656-106">Összerezzenés Június 2019, mi akarat megáll teremtés-ból új belépés adatbázisok-ban SharePoint Online és becsuk legyőz a szolgáltatás és akármi megmaradó Apps mellett április 2020.</span><span class="sxs-lookup"><span data-stu-id="a0656-106">Starting June 2019, we will stop creation of new Access databases in SharePoint Online and shut down the service and any remaining apps by April 2020.</span></span>
+<span data-ttu-id="bdb5b-106">2019 júniusátantól leállítjuk az új Access-adatbázisok létrehozását a SharePoint Online-ban, és 2020 áprilisáig leállítjuk a szolgáltatást és a többi alkalmazást.</span><span class="sxs-lookup"><span data-stu-id="bdb5b-106">Starting June 2019, we will stop creation of new Access databases in SharePoint Online and shut down the service and any remaining apps by April 2020.</span></span>
 
-<span data-ttu-id="a0656-107">**Mit kell tennem, hogy felkészüljünk erre a változra?**</span><span class="sxs-lookup"><span data-stu-id="a0656-107">**What do I need to do to prepare for this change?**</span></span>
+<span data-ttu-id="bdb5b-107">**Mit kell tennem, hogy felkészüljek erre a változásra?**</span><span class="sxs-lookup"><span data-stu-id="bdb5b-107">**What do I need to do to prepare for this change?**</span></span>
 
-<span data-ttu-id="a0656-108">Javasoljuk, hogy hozzon létre egy áttérési tervet a szervezet Access webes adatbázisaihoz.</span><span class="sxs-lookup"><span data-stu-id="a0656-108">We encourage you to create a transition plan for your organization’s Access web databases.</span></span> <span data-ttu-id="a0656-109">Az adminisztrátorok használhatják a [SharePoint Access alkalmazás ellenőrzőszámát](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) , hogy leltárt kapjanak a webhelyek által használt Access alkalmazásokról.</span><span class="sxs-lookup"><span data-stu-id="a0656-109">Admins can use the [SharePoint Access app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) to obtain an inventory of the Access apps that sites are using.</span></span>
+<span data-ttu-id="bdb5b-108">Javasoljuk, hogy hozzon létre egy átmeneti tervet a szervezet Access webes adatbázisaihoz.</span><span class="sxs-lookup"><span data-stu-id="bdb5b-108">We encourage you to create a transition plan for your organization's Access web databases.</span></span> <span data-ttu-id="bdb5b-109">A rendszergazdák a [SharePoint Access alkalmazásképolvasó](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) segítségével leltárt kaphatnak a webhelyek által használt Access-alkalmazásokról.</span><span class="sxs-lookup"><span data-stu-id="bdb5b-109">Admins can use the [SharePoint Access app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) to obtain an inventory of the Access apps that sites are using.</span></span>
 
-<span data-ttu-id="a0656-110">Az Access webadatbázisok adatainak áttelepítése többféle módon történjen:</span><span class="sxs-lookup"><span data-stu-id="a0656-110">There are several ways to migrate Access web databases data:</span></span>
+<span data-ttu-id="bdb5b-110">Az Access webes adatbázisok adatainak áttelepítése többféleképpen is elérhető:</span><span class="sxs-lookup"><span data-stu-id="bdb5b-110">There are several ways to migrate Access web databases data:</span></span>
 
-- <span data-ttu-id="a0656-111">Importálás helyi Access-adatbázisba (. ACCDB) vagy Excel-fájlba.</span><span class="sxs-lookup"><span data-stu-id="a0656-111">Importing to a local Access database (.ACCDB) or to an Excel file.</span></span>
-- <span data-ttu-id="a0656-112">Mi is ajánl exploring Mikroszkóp PowerApps mint egy vagylagos emelvény-hoz teremt nem-kód teendő megoldások részére pókháló és mozgatható berendezés.</span><span class="sxs-lookup"><span data-stu-id="a0656-112">We also recommend exploring Microsoft PowerApps as an alternative platform to create no-code business solutions for web and mobile devices.</span></span>
+- <span data-ttu-id="bdb5b-111">Importálás helyi Access adatbázisba (. ACCDB) vagy egy Excel-fájlba.</span><span class="sxs-lookup"><span data-stu-id="bdb5b-111">Importing to a local Access database (.ACCDB) or to an Excel file.</span></span>
+- <span data-ttu-id="bdb5b-112">Azt is javasoljuk, hogy vizsgálja meg a Microsoft PowerApps-et alternatív platformként, hogy kód nélküli üzleti megoldásokat hozzon létre webes és mobileszközökhöz.</span><span class="sxs-lookup"><span data-stu-id="bdb5b-112">We also recommend exploring Microsoft PowerApps as an alternative platform to create no-code business solutions for web and mobile devices.</span></span>

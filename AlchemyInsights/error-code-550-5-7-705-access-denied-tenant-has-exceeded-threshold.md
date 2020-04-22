@@ -1,8 +1,8 @@
 ---
-title: 'Hibakód: 550 5.7.705 hozzáférés megtagadva, a bérlő túllépte a küszöböt'
+title: 'Hibakód: 550 5.7.705 Hozzáférés megtagadva, a bérlő túllépte a küszöbértéket'
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527221"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702992"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="83475-102">550 5.7.705 a hozzáférés megtagadva, a bérlő túllépte a küszöböt</span><span class="sxs-lookup"><span data-stu-id="83475-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="3f72d-102">550 5.7.705 Hozzáférés megtagadva, a bérlő túllépte a küszöbértéket</span><span class="sxs-lookup"><span data-stu-id="3f72d-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="83475-103">Ez az üzenet akkor fordul elő, ha túl sok spam vagy tömeges levelek a szervezet által küldött, és azt helyezze el egy kimenő levelek.</span><span class="sxs-lookup"><span data-stu-id="83475-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="83475-104">Gyakori oka helyszíni fertőzött kiszolgálók vagy feltört admin összekötők létrehozásához használt számlák.</span><span class="sxs-lookup"><span data-stu-id="83475-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="83475-105">Bármelyik feltétel lehetővé teheti a levélszemét át a szervezet.</span><span class="sxs-lookup"><span data-stu-id="83475-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="3f72d-103">Ez az üzenet akkor fordul elő, ha a szervezet túl sok levélszemetet vagy tömeges e-mailt küldött, és lezárjuk a kimenő leveleket.</span><span class="sxs-lookup"><span data-stu-id="3f72d-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="3f72d-104">Gyakori okok a helyszíni kiszolgálók vagy az összekötők létrehozásához használt feltört rendszergazdai fiókok.</span><span class="sxs-lookup"><span data-stu-id="3f72d-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="3f72d-105">Mindkét feltétel lehetővé teszi, hogy a levélszemét áthaladjon a szervezeten.</span><span class="sxs-lookup"><span data-stu-id="3f72d-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="83475-106">A blokk eltávolításához kell megérteni és magyarázza el az OK, a támogatás munkatársával, valamint javítsa ki a hiba okát.</span><span class="sxs-lookup"><span data-stu-id="83475-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="83475-107">Miután elkészült, kattintson a **lépjen kapcsolatba velünk** az alábbi.</span><span class="sxs-lookup"><span data-stu-id="83475-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="3f72d-106">A blokk eltávolításához meg kell értenie és el kell magyaráznia az okát egy támogatási ügynöknek, valamint ki kell javítania az alapul szolgáló problémát.</span><span class="sxs-lookup"><span data-stu-id="3f72d-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="3f72d-107">Kattintson **a Kapcsolatfelvétel gombra,** ha készen áll.</span><span class="sxs-lookup"><span data-stu-id="3f72d-107">Click **Contact us** below once you're ready.</span></span>

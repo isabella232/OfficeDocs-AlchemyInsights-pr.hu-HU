@@ -1,9 +1,9 @@
 ---
-title: Alkalmazott elhagyása
+title: Távozó alkalmazott
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527833"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703717"
 ---
-# <a name="block-access-to-a-former-employee"></a><span data-ttu-id="88299-102">Zárolja a hozzáférést az olyan korábbi alkalmazott</span><span class="sxs-lookup"><span data-stu-id="88299-102">Block access to a former employee</span></span>
+# <a name="block-access-to-a-former-employee"></a><span data-ttu-id="8e3d6-102">Korábbi alkalmazott hozzáférésének letiltása</span><span class="sxs-lookup"><span data-stu-id="8e3d6-102">Block access to a former employee</span></span>
 
-<span data-ttu-id="88299-103">Van egy alkalmazott elhagyja, és blokkolja a hozzáférést az Office 365 adatok és e-mail van szükség?</span><span class="sxs-lookup"><span data-stu-id="88299-103">Have an employee leaving and need to block access to Office 365 data and email?</span></span> <span data-ttu-id="88299-104">Tegye a következőket.</span><span class="sxs-lookup"><span data-stu-id="88299-104">Do the following.</span></span>
+<span data-ttu-id="8e3d6-103">Távozott egy alkalmazott, és le kell tiltania az adatokhoz és az e-mailekhez való hozzáférést?</span><span class="sxs-lookup"><span data-stu-id="8e3d6-103">Have an employee leaving and need to block access to data and email?</span></span> <span data-ttu-id="8e3d6-104">Tegye a következőket.</span><span class="sxs-lookup"><span data-stu-id="8e3d6-104">Do the following.</span></span>
   
-1. <span data-ttu-id="88299-105">A felügyeleti központ, keresse meg a **felhasználók** \> [Aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapján.</span><span class="sxs-lookup"><span data-stu-id="88299-105">In the admin center, go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
+1. <span data-ttu-id="8e3d6-105">A felügyeleti központban nyissa meg a **Felhasználók** \> [aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapot.</span><span class="sxs-lookup"><span data-stu-id="8e3d6-105">In the admin center, go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-2. <span data-ttu-id="88299-106">Jelölje ki a letiltani kívánt felhasználó nevét.</span><span class="sxs-lookup"><span data-stu-id="88299-106">Select the name of the user you want to block.</span></span>
+2. <span data-ttu-id="8e3d6-106">Jelölje ki a blokkolni kívánt felhasználó nevét.</span><span class="sxs-lookup"><span data-stu-id="8e3d6-106">Select the name of the user you want to block.</span></span>
 
-3. <span data-ttu-id="88299-107">Csoportban a felhasználó nevét, a **blokk a felhasználó**.</span><span class="sxs-lookup"><span data-stu-id="88299-107">Under the user's name, select **Block this user**.</span></span>
+3. <span data-ttu-id="8e3d6-107">A felhasználó neve alatt válassza a **Felhasználó blokkolása**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="8e3d6-107">Under the user's name, select **Block this user**.</span></span>
 
-4. <span data-ttu-id="88299-108">Válassza **a bejelentkezés során a felhasználó blokkolja** \> **módosítások mentéséhez**.</span><span class="sxs-lookup"><span data-stu-id="88299-108">Choose **Block the user from signing in** \> **Save changes**.</span></span>
+4. <span data-ttu-id="8e3d6-108">Válassza **a A felhasználó bejelentkezésének letiltása a** \> Módosítások **mentése eszközben**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="8e3d6-108">Choose **Block the user from signing in** \> **Save changes**.</span></span>
 
-<span data-ttu-id="88299-109">**Megjegyzés**: egyes alkalmazások nem lehet közvetlen kijelentkezési.</span><span class="sxs-lookup"><span data-stu-id="88299-109">**Note**: Sign-out for some apps might not be immediate.</span></span> <span data-ttu-id="88299-110">A cikkben további műveleteket hajtson végre: [távolítsa el az Office 365 korábbi alkalmazott](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span><span class="sxs-lookup"><span data-stu-id="88299-110">Follow up with more actions in this article: [Remove a former employee from Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span></span>
+<span data-ttu-id="8e3d6-109">**Megjegyzés:** Előfordulhat, hogy egyes alkalmazások kijelentkezése nem azonnali.</span><span class="sxs-lookup"><span data-stu-id="8e3d6-109">**Note**: Sign-out for some apps might not be immediate.</span></span> <span data-ttu-id="8e3d6-110">A cikk további műveletének nyomon követése: [Korábbi alkalmazott eltávolítása](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span><span class="sxs-lookup"><span data-stu-id="8e3d6-110">Follow up with more actions in this article: [Remove a former employee](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span></span>
