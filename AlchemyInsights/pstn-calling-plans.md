@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154323"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556976"
 ---
-# <a name="pstn-calling-plans"></a><span data-ttu-id="c8694-102">Nyilvános telefonhálózati híváscsomagok</span><span class="sxs-lookup"><span data-stu-id="c8694-102">PSTN calling plans</span></span>
+# <a name="pstn-calling-plans"></a><span data-ttu-id="8f3ca-102">Nyilvános telefonhálózati híváscsomagok</span><span class="sxs-lookup"><span data-stu-id="8f3ca-102">PSTN calling plans</span></span>
 
-<span data-ttu-id="c8694-103">A Skype Vállalati verzió és a Microsoft Teams más felhasználóinak hívása ingyenes, de ha szeretné, hogy felhasználói hagyományos telefonszámokat is tudjanak hívni, és nincs még szolgáltatója a hanghívások lebonyolításához, akkor vásárolnia kell egy híváscsomagot. </span><span class="sxs-lookup"><span data-stu-id="c8694-103">Calls to other Skype for Business and Microsoft Teams users are free, but if you want your users to be able to call regular phones, and you don't already have a service provider to make voice calls, you need to buy a Calling Plan.</span></span> 
+<span data-ttu-id="8f3ca-103">Ha szeretné, hogy felhasználói hagyományos telefonszámokat is tudjanak hívni, és nincs még szolgáltatója a hanghívások lebonyolításához, akkor vásárolnia kell egy híváscsomagot.</span><span class="sxs-lookup"><span data-stu-id="8f3ca-103">If you want your users to be able to call regular phones, and you don't already have a service provider to make voice calls, you need to buy a Calling Plan.</span></span>
 
-- <span data-ttu-id="c8694-104">A vásárlási folyamat megkezdéséhez olvassa el a [Híváscsomag vásárlása](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) című témakört.</span><span class="sxs-lookup"><span data-stu-id="c8694-104">To start the purchasing process, see [How to buy a Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365).</span></span> 
+- <span data-ttu-id="8f3ca-104">A vásárlási folyamat megkezdéséhez olvassa el a [Híváscsomag vásárlása](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) című témakört.</span><span class="sxs-lookup"><span data-stu-id="8f3ca-104">See [How to buy a Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) to start the purchasing process.</span></span>
 
-- <span data-ttu-id="c8694-105">További információért lásd: [Telefonrendszer és híváscsomagok](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).</span><span class="sxs-lookup"><span data-stu-id="c8694-105">For more info, see [Phone System and Calling Plans](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).</span></span> 
+- <span data-ttu-id="8f3ca-105">A [Kommunikációs kreditek ](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) beállításával megakadályozhatja, hogy a felhasználók **elhasználják az összes percet**.</span><span class="sxs-lookup"><span data-stu-id="8f3ca-105">Setup [Communication Credits](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) to prevent users from **running out of minutes**.</span></span> <span data-ttu-id="8f3ca-106">Az árak megtekinthetők [itt](https://products.office.com/microsoft-teams/voice-calling).</span><span class="sxs-lookup"><span data-stu-id="8f3ca-106">See rates [here](https://products.office.com/microsoft-teams/voice-calling).</span></span> 
+
+- <span data-ttu-id="8f3ca-107">További információt a [Telefonos rendszer és a híváscsomagok](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) vagy a[Mi az a kommunikációs kredit?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits) témákban talál</span><span class="sxs-lookup"><span data-stu-id="8f3ca-107">For more info, see [Phone System and Calling Plans](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) or [What are Communication Credits?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span></span>
