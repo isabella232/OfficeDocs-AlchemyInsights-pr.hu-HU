@@ -2,7 +2,7 @@
 title: SharePoint Online szabályozása
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958724"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742211"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online szabályozása
 
-**Fontos:** Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is magas rendelkezésre állásúak maradjanak – további információkért látogasson el a [SharePoint Online ideiglenes szolgáltatásának korrekcióira.](https://aka.ms/ODSPAdjustments)
+**Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
 **Az 503-as kiszolgáló foglalt hiba**
 
 Előfordulhat, hogy a felhasználók 503-as kiszolgálófoglalt hibaüzenetet kapnak, amikor SharePoint- vagy OneDrive-webhelyekre próbálnak navigálni. 
 
-Ezt a hibát a SharePoint szolgáltatáson belüli szabályozás okozhatja. A SharePoint Online szabályozással állítja fenn a SharePoint Online-szolgáltatás optimális teljesítményét és megbízhatóságát. Szabályozás korlátozza a felhasználói műveletek számát vagy egyidejű hívások (parancsfájl vagy kód) az erőforrások túlzott használatának megelőzése érdekében. 
+Ezt a hibát a SharePoint szolgáltatáson belüli szabályozás okozhatja. A SharePoint Online a szabályozást használja a SharePoint Online szolgáltatás optimális teljesítményének és megbízhatóságának fenntartásához. A szabályozás korlátozza a felhasználói műveletek vagy a párhuzamos hívások számát (parancsprogrammal vagy kóddal) az erőforrások túlzott felhasználásának megelőzése érdekében. 
 
 A szabályozásról további információt a [SharePoint Online-ban található Szabályozás elkerülése című témakörben](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)talál.
 

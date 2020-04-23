@@ -1,9 +1,9 @@
 ---
-title: 1490-hibaelhárítás-elektronikus adatok feltárása-hibák
+title: 1490-hibaelhárítás-elektronikus adatfeltárási hibák
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559375"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759586"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Tartalom keresése hibáinak elhárítása
+# <a name="troubleshoot-content-search-errors"></a>Tartalomkeresési hibák elhárítása
 
-Problémákba ütközik, terhelés tartalom keresése az Office 365 vagy lekérdezése sikertelen, ha exportálja a keresési eredmények?
+Problémákat tapasztal a Tartalomkereséssel kapcsolatban, vagy hibákat tapasztal a keresési eredmények exportálásakor?
 
-Például jelent meg a következő keresések futtatásakor?
+Például a következőt kapja a keresések futtatásakor?
 
-- CS008 vagy CS012 hiba
+- CS008 vagy CS012 hibák
 
-- Kiszolgáló foglalt/időtúllépési hibák
+- Kiszolgáló foglaltsági/időkimenő hibái
 
-- Alkalmazáshiba történt.
+- Alkalmazáshiba történt
 
-Vagy a keresést, vagy exportálja az eredményeket a postafiókok (több mint 100 000 postafiókok) nagy számú, kap exportálási hibák?
+Vagy amikor nagyszámú (több mint 100 000 postaládából) származó találatot keres vagy exportál, exportálási hibákat kap?
 
-Az ilyen típusú hibákat a keresés sikertelen a tartalmak helyének újra. [Ez a cikk](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) további információt talál.
+Az ilyen típusú hibák esetében próbálkozzon újra a sikertelen tartalomhelyek keresésével. További információt ebben a [cikkben](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) talál.

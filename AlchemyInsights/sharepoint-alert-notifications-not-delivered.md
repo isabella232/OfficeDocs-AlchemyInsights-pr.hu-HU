@@ -1,9 +1,9 @@
 ---
-title: Nem kézbesített SharePoint riasztási értesítések
+title: A SharePoint riasztási értesítései nem kézbesítve
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047069"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742049"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Nem kézbesített SharePoint riasztási értesítések
+# <a name="sharepoint-alert-notifications-not-delivered"></a>A SharePoint riasztási értesítései nem kézbesítve
 
-Kérjük, ellenőrizze az e-mailben található Levélszemét mappát, mert néha a figyelmeztetések is oda mennek.
+Ellenőrizze az e-mailben található JUNK mappát, mivel néha figyelmeztetések jelenhetnek meg.
 
-Állapítsa meg, hogy az **értesítések nem kerülnek kézbesítésekre** , vagy ha egy adott fájlból vagy könyvtárból származó **egyedi figyelmeztetést** nem kézbesítnek.
+Határozza meg, hogy **az összes riasztás nem kézbesítve van-e,** vagy ha egy adott fájlból vagy tárból származó egyedi **riasztás** nem jelenik meg.
 
-- A rendszer **nem kézbesíti az egyéni figyelmeztetéseket**: Ha egy adott fájlból vagy könyvtárból származó egyéni értesítés nincs kézbesítve, megkísérelheti annak törlését és újbóli létrehozásának megkísérlést. A riasztás újbóli létrehozásához lásd: [SharePoint-riasztások kezelése, megtekintése vagy törlése](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) .
-- A szolgáltatás **nem kézbesíti az összes figyelmeztetést**: Ha a több fájl vagy tár értesítéseit nem kézbesíti a szolgáltató, látogasson el az [egészségügyi irányítópultra](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a SharePoint vagy az Exchange segítségével esetlegesen előforduló figyelmeztetések/események ellenőrzéséhez. A kérdés tudna lenni-val a SharePoint éber képesség vagy késleltetés-ban elektronikus levél átmenő cserél. Ez akarat is lenni fontos-hoz jegyzék vajon más elektronikus levél van lét kézbesített, és ha nem, a kérdés van valószínű-val cserél késleltetés.
+- **Egyéni riasztások nem kézbesítve:** Ha egy adott fájlból vagy tárból származó egyéni riasztás nem jelenik meg, megpróbálhatja törölni és újra létrehozni. A riasztás újbóli létrehozásához olvassa el A [SharePoint-értesítések kezelése, megtekintése és törlése](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) című témakört.
+- **Az összes riasztás nem jelenik meg:** Ha több fájlvagy tárak összes riasztása nem jelenik meg, látogasson el a [Szolgáltatásállapot irányítópultjára,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) és ellenőrizze, hogy vannak-e olyan tanácsok/incidensek, amelyek a SharePoint vagy az Exchange programban előfordulhatnak. A probléma lehet a SharePoint riasztási képesség vagy késedelmek e-mailek az Exchange-en keresztül. Azt is fontos megjegyezni, hogy más e-mail kézbesítése folyamatban van-e, és ha nem, akkor a probléma valószínűleg az Exchange késedelmeivel kapcsolatos.
 
-GYIK a figyelmeztetésekről:
+Gyakran feltett kérdések a riasztásokról:
 
-- Nem lehet értesítéseket küldeni a terjesztési csoportnak, csak a biztonsági és O365 csoportok támogatottak.
-- Ön nem tud megszokott éber elektronikus levél mintadeszkák; a Microsoft FLOW vagy a SharePoint Designer munkafolyamatot kell használnia ezeknek az eléréséhez.
+- Nem lehet riasztásokat küldeni a terjesztési csoportnak, csak a biztonság és az O365 csoportok támogatottak.
+- A figyelmeztető e-mail sablonok nem szabhatók testre; Ezek eléréséhez Microsoft FLOW vagy SharePoint Designer workflow szükséges.
 
-Bővebb információ:
+További információ:
 
-- **Riasztás beállítása**: a riasztások beállításáról további információt a következő témakörben talál: [Értesítés létrehozása a SharePoint-fájl vagy-mappa módosításának értesítésekor](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Értesítésekkel kapcsolatos hibaelhárítás**: a riasztások hibaelhárításával kapcsolatban a [felhasználók nem kapják meg a SharePoint Online riasztási értesítéseket](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Speciális O365 megfelelés-riasztási házirendek**: a figyelmeztetések beállításáról a [megfelelőségi értesítésházirendek](https://docs.microsoft.com/office365/securitycompliance/alert-policies)című témakörben olvashat bővebben.
-- **SharePoint-és OneDrive naplónaplók**: az események beolvasásáról további információt [a naplózás a](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)naplóban című témakörben talál.
-- **Riasztások által küldött Advanced fenyegetés védelem**: lásd [ATP SharePoint és onedrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- Az **adatvesztéssel megakadályozók által küldött figyelmeztetések**: lásd [e-mail értesítések DLP-házirendekkel](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **Riasztás beállítása**: A riasztások beállításáról a Riasztás [létrehozása értesítést kap, ha egy fájl vagy mappa megváltozik a SharePointban](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **Riasztások elhárítása**: A riasztások hibaelhárításával kapcsolatos további információt a [Felhasználók nem kapnak SharePoint Online-riasztási értesítésekről.](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)
+- **Speciális O365 megfelelőségi riasztási szabályzatok**: A riasztások beállításával kapcsolatos további tudnivalókért olvassa el a [Megfelelőségi riasztási szabályzatokat.](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
+- **SharePoint- és OneDrive-naplók**: Az események beolvasásáról a [Keresési naplóban](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)című témakörben talál további információt.
+- **A komplex veszélyforrások elleni védelem által küldött riasztások**: A [SharePoint és a OneDrive ATP-jének](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)megtekintése.
+- **Adatveszteség-megelőzési házirendek által küldött riasztások**: Lásd [a DLP-házirendek e-mail értesítéseit.](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
 
 ## <a name="related-topics"></a>Kapcsolódó témakörök
 
-Szeretné kipróbálni a Microsoft flow-t a SharePoint Online szolgáltatásban?
+Kiszeretné próbálni a Microsoft Flow-t a SharePoint Online-ban?
 
-- [Átfolyás létrehozása](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Folyamat létrehozása](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint-és adatfolyam](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint és Folyamat](https://flow.microsoft.com//blog/sharepoint-and-flow/)

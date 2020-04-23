@@ -3,7 +3,7 @@ title: 9000234 Outlook.com belső kiszolgálóhiba
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 5ba6eaacdc2f763948e7c34d50231fafe4138d5c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3f21b33866d0fe420c42b0c54350a43c99777f6f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536545"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760090"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>Az Outlook.com belső kiszolgáló hiba
+# <a name="internal-server-errors-in-outlookcom"></a>Belső kiszolgálóhibák a Outlook.com
 
-Jaj nem! "500 hiba" vagy "Belső kiszolgáló hiba" üzenet jelenik meg, ha velünk, és nem - sajnos ezzel kapcsolatban.
+Ó, ne! Ha a "Hiba 500" vagy a "Belső szerver hiba" üzenet jelenik meg, akkor mi vagyunk, és nem te - sajnálom.
 
-Tekintse meg az [Office szolgáltatás állapotának megtekintése lapon](https://portal.office.com/servicestatus) győződjön meg arról, nincs semmi más továbbmenne, de a legjobb megoldás, hogy a szünet néhány percig, majd a **CTRL** + **F5**billentyű lenyomásával frissítse a böngészőt.
+Nézze meg az [Office Szolgáltatás állapota lapot,](https://portal.office.com/servicestatus) hogy megbizonyosodjon arról, hogy semmi más nem történik, de a legjobb megoldás az, hogy néhány percig szünetet tart, majd frissítse a böngészőt a **CTRL** és az **F5**billentyű lenyomásával.

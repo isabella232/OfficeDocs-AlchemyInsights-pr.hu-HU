@@ -1,9 +1,9 @@
 ---
-title: Outlook.com másolás és beillesztés
+title: Outlook.com másolása beillesztés
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a02b2d86785a63ede7f49faa603d205b566b68e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8628a5dfe0b9e1d82bd7a43173221f6c1c107cbb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546910"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760486"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a>Másolja és illessze be az Outlook.com
+# <a name="copy-and-paste-in-outlookcom"></a>Másolás és beillesztés Outlook.com
 
-Másolás és Beillesztés gomb az Outlook.com nem, de a billentyűparancsok használhatók:
+Outlook.com nem tartalmaz másolási vagy beillesztési gombokat, de használhat billentyűparancsokat:
 
-**A PC:** CTRL + C billentyűkombinációval másoljuk, a CTRL + X Kivágás, és a CTRL + V billentyűkombinációval illessze be.
+**SZÁMÍTÓGÉPEN:** CTRL+C a másoláshoz, ctrl+X a kivágáshoz, és a BEILLESZTÉSHEZ a CTRL+V billentyűkombináció.
 
-**A Mac:** CMD + C billentyűkombinációval másoljuk, CMD + X Kivágás és beillesztés CMD + V.
+**Macen:** CMD+C másolásra, CMD+X kivágásra, CMD+V beillesztése.

@@ -1,5 +1,5 @@
 ---
-title: Hová telepíthető az Office
+title: Az Office telepítése honnan?
 ms.author: janellem
 author: janellem
 ms.audience: ITPro
@@ -11,25 +11,25 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: f920a41f3a6030263a7162d0ba060d9fe4e30f7b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f525cd085d3691c100df6ed6c3c1a06685fcc6b9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36659534"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765163"
 ---
 # <a name="install-office"></a>Az Office telepítése
 
--Hoz felszerel hivatal, használók must volna egy [hivatal 365 teendő termék](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) amit beleértve a iskolapad pályázatokat és egy [zárgondnok engedély](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+Az Office telepítéséhez a felhasználóknak rendelkezniük kell egy [Microsoft 365 vállalati verziós termékkel,](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) amely tartalmazza az asztali alkalmazásokat és a [hozzárendelt licencet.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
-Hivatal tud akkor lenni beiktatott alábbiak a lép alul:
+Az Office ezután az alábbi lépések szerint telepíthető:
   
-1. Tovább a [Portal.Office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
+1. Tovább a [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
 
-2. Az Office kezdőlapján válassza ki a kívánt nyelvet, majd válassza a **speciális** -t a 64 bites vagy a 32 bites verzió közötti választkiválasztásához.
+2. Az Office kezdőlapján válassza ki a kívánt nyelvet, majd a **Speciális** lehetőséget választva válasszon a 64 bites vagy a 32 bites verzió közül.
 
-3. Válassza az **Office telepítése**-t.
+3. Válassza **az Office telepítése**lehetőséget.
 
-További részletekért tekintse meg az [Office letöltése és telepítése vagy újratelepítése PC vagy Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)számítógépen című témakört.
+További információt az [Office letöltése és telepítése vagy újratelepítése PC-re vagy Mac gépre című témakörben talál.](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
   
-A Visio vagy a Project alkalmazással kapcsolatos konkrét útmutatásokért tanulmányozza a [Visio telepítése](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) vagy a [Project telepítése](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)című témakört.
+A Visio vagy a Project programmal kapcsolatos további tudnivalókat a [Visio telepítése](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) vagy a Project telepítése című témakörben [találja.](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)

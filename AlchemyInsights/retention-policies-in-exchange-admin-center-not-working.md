@@ -1,9 +1,9 @@
 ---
-title: Adatmegőrzési szabályok Exchange felügyeleti központ nem működik
+title: Nem működik az Exchange Felügyeleti központ adatmegőrzési házirendjei
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,53 +12,53 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551345"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742435"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Az Exchange felügyeleti központ adatmegőrzési szabályok
+# <a name="retention-policies-in-exchange-admin-center"></a>Adatmegőrzési házirendek az Exchange Felügyeleti központban
 
- **Hiba:** Az újonnan létrehozott, vagy az Exchange felügyeleti központban frissített adatmegőrzési szabályok nem alkalmazzák a postafiókokat vagy elemek nem kerülnek az archív postaládába áthelyezték vagy törölték. 
+ **Probléma:** Az Exchange Felügyeleti központban az újonnan létrehozott vagy frissített adatmegőrzési házirendek nem vonatkoznak a postaládákra, vagy az elemek nem kerülnek át az archív postaládába, és nem törlődnek. 
   
- **Alapvető okok:**
+ **Kiváltó okok:**
   
-- Ez azért lehet, mert a **Kezelt Mappakezelő** nem dolgozta fel a felhasználó postafiókját. A kezelt Mappakezelő próbálja feldolgozni a felhőalapú szervezet hét naponta minden postaláda. Ha módosítja egy adatmegőrzési címkét vagy különböző adatmegőrzési szabály alkalmazása egy postaládához, megvárhatja, mindaddig, amíg a kezelt mappa segítő dolgozza fel a postaláda, vagy a kezelt Mappakezelő feldolgozni egy adott el a Start-ManagedFolderAssistant parancsmag futtatása a postafiókot. Ez a parancsmag fut akkor hasznos, tesztelésére és hibaelhárítására adatmegőrzési vagy adatmegőrzési címke beállításai. További információért látogassa meg [futtatni a kezelt Mappakezelő](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Ennek az lehet az oka, hogy a **Felügyelt mappasegéd** nem dolgozta fel a felhasználó postaládáját. A Felügyelt mappasegéd hétnaponta egyszer próbálja meg feldolgozni a felhőalapú szervezet összes postaládáját. Ha módosítja az adatmegőrzési címkét, vagy más adatmegőrzési szabályt alkalmaz egy postaládára, megvárhatja, amíg a Felügyelt mappasegéd feldolgozza a postaládát, vagy a Start-ManagedFolderAssistant parancsmag futtatásával elindíthatja a Felügyelt mappasegédet egy adott postaláda feldolgozásához. A parancsmag futtatása adatmegőrzési házirend vagy adatmegőrzési címke beállításainak teszteléséhez vagy hibaelhárításához hasznos. További információt [a Felügyelt mappasegéd futtatása](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)című területen talál.
     
-  - **Megoldás:** Elindítani a kezelt Mappakezelő adott postaládához a következő parancsot futtassa:
+  - **Megoldás:** A következő parancs futtatásával indítsa el a felügyelt mappasegédet egy adott postaládához:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Ez is lehet jelentkezhet, ha **RetentionHold** volt **engedélyezett** a postaládához. Ha a postaláda került a RetentionHold, az a postaláda adatmegőrzési nem lehet feldolgozni ez idő alatt. Vonatkozó további információk a RetentionHold beállítást lásd: [Postaláda adatmegőrzési tartsa](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Ez akkor is előfordulhat, ha a **RetentionHold** **engedélyezve** van a postaládán. Ha a postaláda egy retentionholdra került, a postaláda adatmegőrzési szabálya ez idő alatt nem lesz feldolgozva. További informaton a RetentionHold beállítás lásd: [Postaláda megőrzése hold](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
     **Megoldás:**
     
-  - A RetentionHold beállítást az adott postafiókhoz [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)állapotának ellenőrzése:
+  - Ellenőrizze az RetentionHold beállítás állapotát az [EXO powershell adott postaládáján:](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Egy adott postaláda **letiltása** RetentionHold a következő parancsot futtassa:
+  - Futtassa a következő parancsot az RetentionHold **letiltásához** egy adott postaládán:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Most futtassa újra a kezelt mappa segéd:
+  - Most futtassa újra a Felügyelt mappasegédet:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Megjegyzés:** Ha a postafiók 10 MB-nál kisebb, a kezelt Mappakezelő nem dolgozza fel automatikusan a postafiókot.
+ **Megjegyzés:** Ha egy postaláda 10 MB-nál kisebb, a Felügyelt mappasegéd nem dolgozza fel automatikusan a postaládát.
  
-Adatmegőrzési szabályok az Exchange felügyeleti központban található további információ az alábbi témakörökben található:
-- [Adatmegőrzési címkéket és adatmegőrzési szabályok](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Postafiókok adatmegőrzési szabály alkalmazása](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [És adatmegőrzési címkék törlése](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Tartás típusának azonosítása fektetni postafiók](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+Az Exchange Felügyeleti központban található adatmegőrzési házirendekről az:
+- [Adatmegőrzési címkék és adatmegőrzési házirendek](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Adatmegőrzési szabály alkalmazása postaládákra](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Adatmegőrzési címkék hozzáadása vagy eltávolítása](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [A postaládára helyezett várakoztatás típusának azonosítása](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

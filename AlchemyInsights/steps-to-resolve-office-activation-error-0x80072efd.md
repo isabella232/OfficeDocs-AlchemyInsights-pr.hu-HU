@@ -1,8 +1,8 @@
 ---
-title: 'Office Aktiválás hiba: 0x80072EFD megoldásának lépései'
+title: Az Office 0x80072EFD aktiválási hibájának megoldásának lépései
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ ms.custom:
 - "915"
 - "2000021"
 ms.assetid: d071ce0c-c29e-4917-8860-950e5efd26af
-ms.openlocfilehash: b32abb6684e8a2a4a3fdac19045073d1ba598303
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: de9969a6c4aca318887589f1553c7060eff6b6f4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559735"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763948"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>Office Aktiválás hiba: 0x80072EFD megoldásának lépései
+# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>Az Office 0x80072EFD aktiválási hibájának megoldásának lépései
 
-Az Office Aktiválás hiba javításához ezek az oldatok próbálja:
+Próbálkozzon az alábbi megoldásokkal az Office aktiválási hibájának kijavításához:
   
-1. Ellenőrizze a [tűzfal](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall).
+1. Ellenőrizze a [tűzfalat](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall).
 
-2. Ellenőrizze, hogy a [víruskereső szoftver](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV).
+2. Ellenőrizze a [víruskereső szoftvert](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV).
 
-3. A [proxykiszolgáló beállításainak](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy) ellenőrzése
+3. A [proxybeállítások](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy) ellenőrzése
 
-4. Töltse le és telepítse a [támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeActivation-Alchemy) , és a **Aktiválás hibaelhárító**futtatása.
+4. Töltse le és telepítse a [támogatási és helyreállítási segédet,](https://aka.ms/SARA-OfficeActivation-Alchemy) és futtassa az **aktiválási hibaelhárítót.**

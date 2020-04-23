@@ -1,9 +1,9 @@
 ---
-title: Visszahívni vagy kicserélni egy e-mailt
+title: E-mail visszahívása vagy cseréje
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +13,33 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553434"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742757"
 ---
-# <a name="recall-or-replace-an-email-message-in-office-365"></a>Visszahívni vagy kicserélni egy e-mailt az Office 365 rendszerben
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>E-mail visszahívása vagy cseréje a Microsoft 365-ben
 
-- **Csak a szervezet tagjai által küldött visszahívása üzeneteket**is. Ha az üzenet a Gmail címre lett küldve, például nem emlékszünk rá.
-- Lehetőség van **csak a PC-változat az Outlook 2016 küldött üzenetek visszahívása**. A felhasználó Outlook for Mac és a weben az Outlook üzenetet küld, ha nem tudja visszahívni.
-- Ha egy rendszergazda, **üzenetek visszahívása a PowerShell segítségével a felhasználók nevében**is. Az admin center üzenetek nem tudja visszahívni. Görgessen le a "Search for és e-mailek törlése a szervezet" További információt.
+- Csak a **szervezeten belüli személyeknek küldött üzeneteket tudja visszahívni.** Ha például egy Gmail-címre küldték az üzenetet, nem tudja visszahívni.
+- Csak a **PC-re készült Outlook 2016-ból küldött üzeneteket lehet visszahívni.** Ha egy felhasználó üzenetet küld a Mac Outlookkal vagy a Webes Outlookkal, nem tudja visszahívni.
+- Ha Ön rendszergazda, a **PowerShell használatával visszahívhatja a felhasználók nevében küldött üzeneteket.** A felügyeleti központból nem lehet üzeneteket visszahívni. További információért görgessen le a "Levelezési üzenetek keresése és törlése a szervezetben" című részhez.
 
-**Visszahívása vagy kicserélése küldött e-mailben**
+**Az elküldött e-mail visszahívása vagy cseréje**
 
-1. A mappalistán az Outlook ablak a bal oldalon válassza az elküldött elemek mappába.
-2. Nyissa meg a visszahívni kívánt üzenetet. Az üzenet megnyitásához kattintson duplán. Jelölje ki az üzenetet, így jelenik meg az olvasóablakban nem engedélyezi, hogy az üzenet visszahívása.
-3. Válassza ki az üzenet lap **Műveletek** > **Az üzenet visszahívása**.
-4. **Törli az üzenet olvasatlan példányait** , vagy **törli olvasatlan példányait és cserélje le egy új üzenetet**, majd kattintson az **OK gombra**.
-5. Ha csere üzenetet küld üzenetet, írjuk meg az üzenetet, majd válassza a **Küldés**.
-6. A sikeres vagy sikertelen üzenet-visszahívásról függ, hogy a címzettek beállításait az Outlook programban.
+1. Az Outlook ablakbal bal oldalán lévő mappaablakban válassza az Elküldött elemek mappát.
+2. Nyissa meg a visszahívni kívánt üzenetet. Az üzenet megnyitásához kattintson duplán. Ha úgy jelöli ki az üzenetet, hogy az az olvasóablakban jelenjen meg, az nem teszi lehetővé az üzenet visszahívását.
+3. Az Üzenet lapon válassza a **Műveletek** > **visszahívása az üzenetet**lehetőséget.
+4. Válassza **az Üzenet olvasatlan példányainak törlése** vagy Az **olvasatlan másolatok törlése és lecserélése új üzenetre**lehetőséget, majd kattintson **az OK gombra.**
+5. Ha helyettesítő üzenetet küld, írja meg az üzenetet, majd válassza a **Küldés lehetőséget.**
+6. Az üzenetek visszahívásának sikere vagy sikertelensége a címzettek Outlook ban megadott beállításaitól függ.
 
-Kapcsolatban további információk, többek között a visszahívás, ellenőrizheti a [visszahívás vagy csere küldött e-mailben](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+További információt, például a visszahívás ellenőrzéséről az [Elküldött e-mailek visszahívása vagy cseréje](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)című témakörben talál.
 
-***Keresse meg, és a szervezet e-mailek törlése*** Keresse meg, és a szervezet e-mail üzenetek törlése a legegyszerűbb Ha globális Admin Ha Ön nem egy globális felügyeleti, a fiók az elektronikus adatok feltárása kezelő szerepkörcsoportot, vagy a megfelelési Keresés szerepkör hozzá kell adni. Üzenetek törlése, szüksége lesz a Szervezetkezelés szerepkör vagy a Keresés és a kiürítés szerepkör csatlakozni. Ezek a szerepkörök az engedélyeket a [biztonsági & kompatibilitási központ](https://protection.office.com/).
+***E-mailek keresése és törlése a szervezetben*** Ha e-maileket szeretne keresni és törölni a szervezetben, akkor a legegyszerűbb, ha ön globális rendszergazda. Ha ön nem globális rendszergazda, fiókját hozzá kell adni az elektronikus adatfeltárás-kezelő szerepkörcsoporthoz vagy a Megfelelőségi keresés felügyeleti szerepkörhöz. Az üzenetek törléséhez csatlakoznia kell a Szervezetkezelés szerepkörcsoporthoz vagy a Keresési és törlés felügyeleti szerepkörhöz. A szerepkörökhöz tartozó engedélyek a [Biztonsági & megfelelőségi központban](https://protection.office.com/)vannak hozzárendelve.
 
-1. [Keresés a tartalom létrehozása](https://docs.microsoft.com/office365/securitycompliance/content-search) az üzenet törlése.
-2. [Biztonsági & Megfelelési központba PowerShell kapcsolódni](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Hozzon létre egy tartalomkeresést](https://docs.microsoft.com/office365/securitycompliance/content-search) a törlandó üzenet megkereséséhez.
+2. [Csatlakozzon a Security & Compliance Center PowerShell hez.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps) 
 
-MFA használata, lásd: [Csatlakozás az Office 365 biztonsági & kompatibilitási központ PowerShell többtényezős hitelesítést használ](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Ha többtényezős hitelesítést használ, olvassa el [a Csatlakozás a Microsoft 365 biztonsági & compliance centerpowershell többtényezős hitelesítéssel című témakört.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps) 

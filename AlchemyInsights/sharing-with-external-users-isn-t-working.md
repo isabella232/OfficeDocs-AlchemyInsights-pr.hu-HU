@@ -1,9 +1,9 @@
 ---
-title: A külső felhasználókkal való megosztás nem működik
+title: Nem működik a megosztás külső felhasználókkal
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/18/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,32 +11,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: d4c8fc75ff8db2319b88a20bea9b3ee661f2e36e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36502233"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767251"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>A SharePoint-tartalom külső felhasználókkal való megosztását szolgáló problémák megoldása
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>A SharePoint-tartalmak külső felhasználókkal való megosztásával kapcsolatos problémák megoldása
 
-Győződjön meg arról, hogy a szervezeten belül be van kapcsolva a külső megosztás:
+Győződjön meg arról, hogy a külső megosztás be van kapcsolva a szervezetnél:
   
-1. Keresse fel a [Microsoft &amp; 365 felügyeleti központ szolgáltatások bővítmények lapját](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), és kattintson a **helyek**gombra.
+1. Nyissa meg a [Microsoft 365 Felügyeleti központ &amp; Szolgáltatások bővítményeit tartalmazó lapot,](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)és kattintson a Webhelyek **gombra.**
     
-2. Ellenőrizze, hogy a beállítás be van-e kapcsolva. Ha a "csak meglévő külső felhasználók" beállítás van kijelölve, ellenőrizze, hogy a külső felhasználó szerepel-e a Microsoft 365 felügyeleti központban.
+2. Ellenőrizze, hogy a beállítás be van-e kapcsolva. Ha a "Csak a meglévő külső felhasználók" jelölőnégyzet be van jelölve, ellenőrizze, hogy a külső felhasználó szerepel-e a Microsoft 365 Felügyeleti központban.
     
-Ellenőrizze, hogy be van-e kapcsolva a webhely külső megosztása. Részére egy klasszikus telek gyűjtemény:
+Győződjön meg arról, hogy a külső megosztás be van kapcsolva a webhelyen. Klasszikus webhelycsoport esetén:
   
-1. Az új SharePoint admin központban kattintson a bal oldali ablaktáblán a **helyek**elemre.
+1. Az új SharePoint Felügyeleti központban, a bal oldali ablaktáblában kattintson a **Webhelyek**elemre.
     
-2. Jelölje ki a webhelyet vagy webhelyeket, majd a szalagon kattintson a **megosztás**elemre.
+2. Jelölje ki a webhelyet vagy webhelyeket, és a menüszalagon kattintson a **Megosztás gombra.**
     
 Office 365-csoporthoz vagy kommunikációs webhelyhez tartozó csoportwebhely esetén:
   
-- Az új webhelytípusokhoz ugyanaz a megosztási beállítás van, mint a szervezeti szinten, kivéve, ha az egész szervezetre vonatkozó beállítás lehetővé teszi fájlok megosztását olyan hivatkozások segítségével, amelyekhez nem szükséges bejelentkezés. Ebben az esetben a webhelyek lehetővé teszik a megosztást új és meglévő külső felhasználókkal, akik bejelentkeznek. Az adott helyek beállításának megváltoztatásához használja az új SharePoint admin központot vagy a PowerShell parancshéjat. [További információ](https://go.microsoft.com/fwlink/?linkid=871863).
+- Ezek az új webhelytípusok ugyanazt a megosztási beállítást, mint a szervezeti szintű beállítás, kivéve, ha a szervezeti szintű beállítás lehetővé teszi a fájlok megosztását olyan hivatkozások használatával, amelyek nem igényelnek bejelentkezést. Ebben az esetben a webhelyek lehetővé teszik a megosztást a bejelentkező új és meglévő külső felhasználókkal. Adott webhelyek beállításának módosításához használja az új SharePoint Felügyeleti központot vagy a PowerShellt. [További információ](https://go.microsoft.com/fwlink/?linkid=871863).
     
 > [!NOTE]
-> Az egyes webhelyek külső megosztási beállításai korlátozóbbak lehetnek, mint a szervezet egészére kiterjedő beállítások, de a szervezet egészére érvényes beállítás esetében nem megengedőbb. 
+> A külső megosztási beállítás bármely webhelyesetében szigorúbb lehet, mint a szervezeti szintű beállítás, de nem lehet megengedőbb, mint a szervezeti szintű beállítás. 
   
 

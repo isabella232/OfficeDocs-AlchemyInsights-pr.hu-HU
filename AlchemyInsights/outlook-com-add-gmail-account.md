@@ -1,9 +1,9 @@
 ---
-title: Összead gmail számla-hoz Outlook.com
+title: Gmail-fiók hozzáadása a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 75e5c4b76192daa1793717c7e9534583e6c15c78
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36538130"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760918"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Összead-a Gmail számla-hoz Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Gmail-fiók felvétele a Outlook.com
 
-1. Nyissa meg a [szinkronizálási e-mail beállításokat](https://go.microsoft.com/fwlink/?linkid=875264).
-2. A **csatlakoztatott fiókok**területen válassza a **Gmail szolgáltatást**.
-3. Adjon meg egy megjelenítendő nevet (a címzettek láthatják, ha egy e-mail üzenetet kapnak a felhasználóról).
-4. Választ ha Outlook.com kellet volna behoz-a elektronikus levél-ból Gmail és hol behoz elektronikus levél lesz raktározott.
-5. Az **OK** gombra való Ugrás a Google bejelentkezési oldalára.
+1. Nyissa meg az [E-mail szinkronizálási beállításait.](https://go.microsoft.com/fwlink/?linkid=875264)
+2. A **Csatlakoztatott fiókok csoportban**válassza a **Gmail**lehetőséget.
+3. Adjon meg egy megjelenítendő nevet (a név címzettjei látni fogják, ha e-mailt kapnak Öntől).
+4. Megadhatja, hogy Outlook.com importálja-e az e-maileket a Gmailből, és hogy hol tárolja az importált e-maileket.
+5. Válassza **az OK gombot** a Google bejelentkezési oldalának megugrásához.
 
-A csatlakoztatott fiókból a Outlook.com fiókhoz való szinkronizálás csak egyirányú. Elektronikus levél küldött-ból-a Gmail számla használ Outlook.com akarat nem feltűnik-ban küldött cikk-ban Gmail.
+A csatlakoztatott fiókból a Outlook.com fiókkal történő szinkronizálás csak egyirányú. A Gmail-fiókjából Outlook.com használatával küldött e-mailek nem jelennek meg a Gmail Elküldött elemei között.
 
-Tudod küld elektronikus levél-ban Outlook.com-ból-a összekapcsolt gmail számla. Amikor egy e-mailt, válassza **ki és válassza ki a** Gmail-cím, vagy [frissítse az alapértelmezett a címe](https://go.microsoft.com/fwlink/?linkid=875264).
+A csatlakoztatott Gmail-fiókból Outlook.com küldhet e-maileket. E-mail írásakor válassza a **Származás** lehetőséget, és válassza ki gmail-címét, vagy [frissítse az alapértelmezett Címből lehetőséget.](https://go.microsoft.com/fwlink/?linkid=875264)
 
-További információ: [a másik e-mail fiók hozzáadása a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+További információ: [A többi e-mail fiók hozzáadása Outlook.com.](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)

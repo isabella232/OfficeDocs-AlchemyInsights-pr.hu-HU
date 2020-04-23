@@ -1,9 +1,9 @@
 ---
-title: 932-es frissítés AADConnect
+title: 932 Az AADConnect frissítése
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fcc5fddb5cfd15407d0533449035317d187931ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506085"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766495"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Frissítés Azure AD csatlakozás
+# <a name="upgrade-azure-ad-connect"></a>Az Azure AD Connect frissítése
 
-Azure AD csatlakozás, ami segít annak biztosítása érdekében, hogy a legújabb verzió fut, alapértelmezés szerint engedélyezve van a automatikus frissítés. Az automatikus frissítési beállítások ellenőrzéséhez használja a **Get-ADSyncAutoUpgrade** parancsmag Azure AD PowerShell. A parancsmag visszatér a következő értékek egyike:
+Alapértelmezés szerint az automatikus frissítés engedélyezve van az Azure AD Connect, amely segít biztosítani, hogy a legújabb verziót fut. Az automatikus frissítési beállítások ellenőrzéséhez használja a **Get-ADSyncAutoUpgrade** parancsmag az Azure AD PowerShellben. A parancsmag a következő értékek egyikét adja vissza:
 
-- **Engedélyezve**: automatikus frissítés engedélyezve van.
+- **Engedélyezve**: Az automatikus frissítés engedélyezve van.
 
-- **Letiltva**: az automatikus frissítés le van tiltva.
+- **Letiltva**: Az automatikus frissítés le van tiltva.
 
-- **Suspended**: A rendszer már nem jogosult az automatikus frissítések. Ez az érték nem lehet konfigurálni. azt állítja be a rendszer.
+- **Felfüggesztve**: A rendszer már nem jogosult automatikus frissítésekre. Ez az érték nem konfigurálható; A rendszer állítja be.
 
-További tudnivalókért lásd: [Automatikus frissítés](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+További információt az [Automatikus frissítés](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)című témakörben talál.
 
-Borzas AD csatlakozás legújabb verziójának letöltéséhez keresse fel [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).
+Az Azure AD Connect legújabb verziójának [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594)letöltéséhez nyissa meg a.y

@@ -1,9 +1,9 @@
 ---
-title: A munkafolyamat-e-mail nem kerül elküldésre
+title: A munkafolyamat-e-mail küldése nem történik meg
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 76b64323c9d34d49e9c6bd77c2cc7eff6d7c5402
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 391d3a2dcc2676a405065115f375c802d2492119
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049375"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766135"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>A munkafolyamat-e-mail nem lett elküldve SharePoint-listához vagy-tárhoz
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>A munkafolyamat-alapú e-mail nem küldő SharePoint-listához vagy tárhoz
 
-1. A munkafolyamatokból származó e-maileket nem küldi el a rendszer az összes felhasználónak vagy csak bizonyos felhasználóknak, vagy az **e-mail üzenetet nem lehet elküldeni. Győződj meg a elektronikus levél birtokol egy érvényes fogékony**.
+1. A munkafolyamatokból származó e-mail eket a rendszer nem küldi el minden felhasználónak, vagy csak egy adott felhasználónak, vagy a hibaüzenet jelenik **meg: Az e-mail nem küldhető el. Győződjön meg arról, hogy az e-mailnek érvényes címzettje van.**
 
-    Ellenőrizze, hogy a felhasználó szerepel-e az adott webhelycsoport **minden személy** engedélyei csoportjában (felhasználói adatok listájában).  Minta közvetlen URL: https://<tenant>. sharepoint.com/sites/<sitename>/_layouts/15/People.aspx? MembershipGroupId = 0
+    Ellenőrizze, hogy a felhasználó létezik-e az adott webhelycsoport **Minden személyek** engedélycsoportjában (felhasználói adatok listájában).  Minta közvetlen<tenant>URL:https:// .sharepoint.com/sites/<sitename>/_layouts/15/people.aspx? Tagsági csoportazonosító=0
 
-    - Ha a felhasználó nem létezik, győződjön meg arról, hogy a felhasználó be van jelentkezve az oldalra. 
-    - Ha külső felhasználó, akkor győződjön meg arról, hogy meghívásukat elfogadták.
-    - Ha a felhasználó az engedélycsoportban is szerepel, ellenőrizze, hogy az e-mail cím helyes-e.
-    - Ha a felhasználók e-mail címe nincs beállítva, akkor hozzon létre egy mintafigyelmeztetést arra a felhasználóra vonatkozóan, amely az adott felhasználói fióknak a SharePoint felhasználói profiljaihoz való szinkronizálását kényszeríti erre a webhelygyűjteményre.
+    - Ha a felhasználó nem létezik, ellenőrizze, hogy a felhasználó be van-e jelentkezve a lapra. 
+    - Ha külső felhasználóról van szó, győződjön meg arról, hogy a meghívást elfogadták.
+    - Ha a felhasználó létezik az engedélycsoportban, ellenőrizze, hogy az e-mail cím helyes-e.
+    - Ha a felhasználók e-mail címe nincs beállítva itt, akkor hozzon létre egy mintariasztást az adott felhasználó számára, amely kényszeríti az adott felhasználói fiók szinkronizálását a SharePoint felhasználói profiljaiból erre a webhelycsoportra.
  
-2. A munkafolyamatokból érkező e-maileket a rendszer a webhelycsoport rendszergazdáinak küldi, de a többi felhasználónak nem, és a **http tiltott és <span>https:</span>//URL/_vti_bin/Client.xvc.Sp.Utilities.Utility.sendEmail**hibát látja.
+2. A munkafolyamatokból származó e-maileket a rendszer elküldi a webhelycsoport rendszergazdáinak, de más felhasználóknak nem, és a HTTP Tiltott https hibát ** <span>látja:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    [Ha egy SharePoint-csoportnak küld e-mailt, tekintse át a hozzáférés megtagadva](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)választógombot.
+    Lásd: [Hozzáférés megtagadva, ha e-mailt küld egy SharePoint-csoportnak.](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)
 
-    Ellenőrizze azt is, hogy a **korlátozott hozzáférésű felhasználói engedély zárolási módja** helycsoport-szolgáltatás nem aktív-e.
+    Ellenőrizze azt is, hogy a **korlátozott hozzáférésű felhasználói engedélyek zárolási módú** webhelycsoport szolgáltatása nem aktív-e.
 
 
 ## <a name="related-topics"></a>Kapcsolódó témakörök
-Szeretné kipróbálni a Microsoft flow-t a SharePoint Online szolgáltatásban?
-- [Átfolyás létrehozása](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint-és adatfolyam](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Kiszeretné próbálni a Microsoft Flow-t a SharePoint Online-ban?
+- [Folyamat létrehozása](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint és Folyamat](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

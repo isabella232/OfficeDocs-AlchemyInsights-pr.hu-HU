@@ -1,8 +1,8 @@
 ---
-title: A jelszó-szinkronizálás állapotának ellenőrzése
+title: A jelszószinkronizálás állapotának ellenőrzése
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36555379"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765595"
 ---
 # <a name="enable-password-sync"></a>Jelszó-szinkronizálás engedélyezése
 
-1.  A Microsoft 365 Admin Center kezdőlapján válassza a **Dirsync állapot** parancsot. 
+1.  A Microsoft 365 Felügyeleti központ kezdőlapján válassza a **DirSync-állapot** lehetőséget. 
     
-     *Másik megoldásként az **aktív** **felhasználók számára is** \> használható, és az aktív felhasználók lapon **további** \> **címtár-szinkronizálást választhat.*** 
+     *Másik lehetőségként megis térhet a **Felhasználók** \> **aktív felhasználók hoz,** és az Aktív felhasználók lapon válassza a **További** \> **címtár-szinkronizálás lehetőséget.*** 
     
-2. A címtár-szinkronizálás ablaktáblán válassza az **Ugrás a DirSync-kezelés**pontra. 
+2. A Címtár-szinkronizálás ablaktáblán válassza az **Ugrás a DirSync-kezeléshez lehetőséget.** 
     
-3. Ekkor láthatja az állapotát, és változtatásokat fog eltenni:
+3. Most látni fogja az állapotát, és módosításokat hajt végre:
     
-    **Jelszó szinkronizálás engedélyezve:** (TRUE vagy FALSE). Itt adható meg, hogy a jelszó-szinkronizálás engedélyezett-e az intézményi és az Office 365 bérlő között. 
+    **Jelszó szinkronizálás engedélyezve:** (Igaz vagy Hamis). Itt adható meg, hogy engedélyezve van-e a jelszószinkronizálás a helyszíni és a bérlő között. 
     
-    **Utolsó jelszó Sync:** (utolsó alkalom, jelszó-szinkronizálás futott). Ez egy figyelmeztetést jelenít meg, és egy hibaelhárító eszközre mutató hivatkozást fog megjeleníteni, ha az utolsó szinkronizálás több mint három nappal ezelőtt történt. 
+    **Utolsó jelszószinkronizálás:** (A jelszó legutóbbi szinkronizálása futott). Ez figyelmeztetést és egy hibaelhárító eszközre mutató hivatkozást jelenít meg, ha az utolsó szinkronizálás több mint három nappal ezelőtt volt. 
     
 

@@ -1,9 +1,9 @@
 ---
-title: A Project online gyakran megkeresett témakörei
+title: A Project Online gyakran kért témakörei
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 30b13f65b20d88fc691a2d7d5639ce6877039763
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 03c82a04c6f5d65aef8823d6aa87056d380dd912
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122441"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768043"
 ---
-# <a name="project-online-frequently-requested-topics"></a>A Project online gyakran megkeresett témakörei
+# <a name="project-online-frequently-requested-topics"></a>A Project Online gyakran kért témakörei
 
-Íme néhány gyakran kért témakör a Project programban:
+Íme néhány gyakran kért témakör a Project programmal kapcsolatban:
 
-A Project program gyakran kért témakörei:
+Az alábbiakban a Project gyakran kért témaköreit olvashatja:
 1.  Kezdetekhez: 
-    -   [Bevezetés a Project online használatbaveléshez](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
-    -   [A Project online felügyeleti dokumentációja](https://docs.microsoft.com/projectonline/project-online) 
-    -   [Project online: a szoftverek határai és korlátai](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [Személyek, csoportok és erőforrások hozzáadása, majd a Project online megosztása](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [A Project Web App (PWA) teljesítményének finomhangolása a Project online programban](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  Kapcsolódás a [Project online Desktop klienshez](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
-5.  [A Project Professional telepítése és használata](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) 
+    -   [A Project Online – első lépések](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
+    -   [Project Online felügyeleti dokumentáció](https://docs.microsoft.com/projectonline/project-online) 
+    -   [Project Online: szoftverhatárok és -korlátok](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
+2.  [Személyek, csoportok és erőforrások hozzáadása, majd a Project Online megosztása](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  [A Project Web App (PWA) teljesítményének finomhangolása a Project Online-ban](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  Csatlakozás a [Project Online asztali ügyfélhez](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
+5.  [A Project Professional telepítése és használata](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 

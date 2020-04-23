@@ -1,9 +1,9 @@
 ---
-title: 8000089 Outlook.com megbízható feladók
+title: 8000089 Outlook.com biztonságos feladók
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 3196105d10f57b6448497938367d0506957127d2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36535357"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743635"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>STOP üzenetek a Levélszemét mappába
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Üzenetek bekerülése a Levélszemét mappába
 
-Vannak idő mikor ön dont ' akar üzenet-ból egy különleges személy vagy birtok-hoz végez-ban-a dzsunka elektronikus levél dosszié-ban Outlook.com. A megbízható feladók listáján szereplő címekről és tartományokról érkező üzenetek nem kerülnek át a Levélszemét mappába.
+Vannak esetek, amikor nem szeretné, hogy egy adott személy vagy tartomány üzenetei a Outlook.com levélszemét mappájába kerüljenek. A megbízható feladók listáján szereplő címekről vagy tartományokból érkező üzenetek nem kerülnek át a Levélszemét mappába.
 
-1. Nyissa meg a [megbízható feladók beállításait](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. A **megbízható feladók és tartományok**területen írja be a hozzáadni kívánt e-mail címet vagy tartományt, majd válassza a **hozzáad**-t.
-3. Ha levelezési listát szeretne felvenni a megbízható feladók listájára, adja meg a levelezési listát a **biztonságos levelezési listák** területen, és válassza a **Hozzáadás**-t.
-4. Válassza a **Mentés** lehetőséget.
+1. Nyissa meg a [megbízható feladók beállításait.](https://go.microsoft.com/fwlink/?linkid=2035804)
+2. A **Megbízható feladók és tartományok**csoportban adja meg a hozzáadni kívánt e-mail címet vagy tartományt, és válassza a **Hozzáadás**lehetőséget.
+3. Ha levelezési listát szeretne hozzáadni a megbízható feladókhoz, írja be a levelezési listát a **Biztonságos levelezési listák mezőbe,** és válassza a **Hozzáadás lehetőséget.**
+4. Válassza a **Mentés** gombot.
 
-Olvas több [-on fatuskó vagy felszabadít feladó-ban Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+További információ: [A feladók blokkolása vagy feloldása a Outlook.com.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)

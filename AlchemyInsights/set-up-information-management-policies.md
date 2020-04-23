@@ -1,30 +1,30 @@
 ---
-title: Adatkezelési házirendeket beállítása
+title: Adatkezelési házirendek beállítása
 ms.author: stevhord
 author: bentoncity
-ms.date: 6/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 3c4487c613d53e8b0e6b8f7a146c2ac988424e89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cef833cfe39cc7f7fc01f19019f56f7675d24733
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550013"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767539"
 ---
-# <a name="set-up-information-management-policies"></a>Adatkezelési házirendeket beállítása
+# <a name="set-up-information-management-policies"></a>Adatkezelési házirendek beállítása
 
-1. Ha a SharePoint-webhely alwebhelyeket, keresse meg a legfelső szintű webhely.
+1. Ha a SharePoint-webhely alwebhelyekkel rendelkezik, keresse meg a legfelső szintű webhelyet.
     
-2. Kattintson a **Beállítások**gombra, és kattintson a **Webhely beállításai**. Ha a webhely az Office 365 csoporthoz csatlakozik, kattintson a **Beállítások**gombra, kattintson a **Webhely tartalmát**, és kattintson a **Webhely beállításai**.
+2. Kattintson **a Beállítások**gombra, majd a **Webhely beállításai parancsra.** Ha a webhely egy csoporthoz kapcsolódó Office 365-webhely, kattintson a **Beállítások**gombra, kattintson **a Webhely tartalma parancsra,** majd a Webhely beállításai **parancsra.**
     
-3. **Helycsoport felügyelete**csoportban kattintson a **webhelycsoport-szolgáltatások**.
+3. A **Webhelycsoport felügyelete csoportban**kattintson **a Webhelycsoport szolgáltatásai elemre.**
     
-4. Kattintson a **Hely rekordok kezelése**, **Aktiválás**.
+4. A **Helyben rekordkezelés csoportban**kattintson **az Aktiválás gombra.**
     
-További információért lásd: [Bevezetés az adatkezelési házirendeket](https://go.microsoft.com/fwlink/?linkid=404239) és [létrehozási és adatkezelési házirendeket alkalmazni](https://go.microsoft.com/fwlink/?linkid=2003916).
+További információt az [Adatkezelési irányelvek és az](https://go.microsoft.com/fwlink/?linkid=404239) [Adatkezelési házirendek létrehozása és alkalmazása](https://go.microsoft.com/fwlink/?linkid=2003916)című témakörben talál.
   
 

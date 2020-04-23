@@ -1,8 +1,8 @@
 ---
-title: A SharePoint Online klasszikus üzemmódra korlátozása
+title: A SharePoint Online klasszikus módra korlátozása
 ms.author: pebaum
 author: pebaum
-ms.date: 3/27/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: b58a1c3fc331c739080542917d8945c090ec0d94
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c5ea5d264b62e4c349623bd431776207b38da470
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048762"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742471"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>A SharePoint Online klasszikus üzemmódra korlátozása
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>A SharePoint Online klasszikus módra korlátozása
 
-Egyes szervezeteknél továbbra is klasszikus üzemmódra van szükség. Bár nem tervezi, hogy távolítsa el a klasszikus mód a szemcsés szinten, már nem lehet korlátozni egy egész szervezet (bérlő) a klasszikus mód listák és tárak.
+Egyes szervezetektovábbra is megkövetelik a klasszikus mód élményt. Bár nem tervezi, hogy távolítsa el a klasszikus mód egy részletes szinten, már nem lehet korlátozni a teljes szervezet (bérlő) a klasszikus mód listák és tárak.
 
-A admin akarat volna a következő választások-hoz kezel egyén tetszik és könyvtárak-ban klasszikus mód használ szemcsés választ-ki kapcsol amit mi beszerez-nél alábbiak szintek:
+A rendszergazda a következő lehetőségekkel kezeli az egyes listákat és könyvtárakat klasszikus módban a következő szinteken biztosított részletes leiratkozási kapcsolókkal:
 
 - webhelycsoport
 - Oldalon
 - Lista
 - Könyvtár
 
-Továbbá azok a listák, amelyek bizonyos szolgáltatásokat és testreszabásokat használnak, amelyeket a modern nem támogat, továbbra is automatikusan klasszikus módra lesznek átkapcsolva.
+Ezenkívül a modern által nem támogatott bizonyos funkciókat és testreszabásokat használó listák továbbra is automatikusan klasszikus módba váltanak.
 
-Kezdet április 1, 2019, a folyamat-hoz megbénít a bérlő szinten opt out a modern lista és könyvtárak indul, és továbbra is a május 31, 2019.  Azok a listák és könyvtárak, amelyek klasszikus módban vannak bérlő opt-out eredményeként automatikusan eltolódnak a modern.
+2019. április 1-től a bérlői szint letiltásának folyamata elindul és folytatódik 2019. május 31-ig.  A bérlők letiltása miatt klasszikus módban lévő listák és tárak automatikusan átkerülnek a modern rendszerbe.
 
-Ha klasszikus üzemmódra van szüksége, olvassa el a további tudnivalókat [itt](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) , és a PnP PowerShell instrukció [itt](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) leírja azokat a lehetőségeket és eszközöket, amelyeket ma használhat a klasszikus üzemmód használatához.
+Ha klasszikus módra van szüksége, olvassa el a további információkat [itt](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) és a PnP Powershell utasítást [itt,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) amely leírja a ma a klasszikus mód használatához használható lehetőségeket és eszközöket.

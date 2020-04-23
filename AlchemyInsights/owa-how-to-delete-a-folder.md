@@ -1,9 +1,9 @@
 ---
-title: '8000016: mappa törlése'
+title: '8000016: Mappa törlése'
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b605a9fa656eb9439c8c9fd6087c6999233fcc3c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36556531"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742987"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Hogyan törölhetek egy mappát az Outlook a weben
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Mappa törlése a Webes Outlookban
 
-1. A mappalistán kattintson a jobb gombbal a törölni kívánt mappára vagy almappára.
-2. Válassza a **delete (Törlés) mappát**.
-3. Jóváhagyásához nyomjuk meg **az OK** gombot.
+1. A mappaablaktáblán kattintson a jobb gombbal a törölni kívánt mappára vagy almappára.
+2. Válassza **a Mappa törlése**lehetőséget.
+3. A megerősítéshez válassza az **OK gombot.**
 
-További információ: [üzenetmappák használata az Outlook alkalmazásban a weben](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+További információ: [Az üzenetmappák megmunkálata a Webes Outlookban](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)című témakörben talál.
 

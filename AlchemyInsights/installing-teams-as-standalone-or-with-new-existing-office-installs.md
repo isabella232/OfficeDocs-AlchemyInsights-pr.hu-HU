@@ -1,5 +1,5 @@
 ---
-title: A csapatok telepítése önálló, vagy új/meglévő Office telepítéseket
+title: A Teams telepítése önállóként vagy új/meglévő Office-telepítésekkel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 076eee129607e42ffceb329df06fa6fb6da51216
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768875"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763183"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>A csapatok telepítése önálló vagy új vagy meglévő Office-telepítéseknél
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>A Teams telepítése önállóként, illetve új vagy meglévő Office-telepítésekkel
 
-A Microsoft csapatok az Office 365 ProPlus, Office 365 Business és Office for Mac *új telepítéseinek* részét képezik. További információ: [Mikor indul el a Microsoft csapatok az Office új telepítéseinek részeként?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+A Microsoft Teams a Microsoft 365 nagyvállalati verziók, a Microsoft 365 vállalati alkalmazások és a Mac Office *új telepítésének* részét képezi. További információ: [Mikor kezdi el a Microsoft Teams az Office új telepítéseit bevonni?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Továbbá, összerezzenés-val változat 1906-ban havonkénti csatornáz, fuvaros lesz *hozzáadott-hoz létező beszerelések* -ból Hivatal 365 ProPlus (és Hivatal 365 teendő)-ra berendezés futás Windows amikor vagy korszerűsíteni-a létező bevezetés-hoz legutolsó változat. További információt a [meglévő Office-telepítések](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus) című témakörben talál.
+Ezenkívül a Monthly Channel 1906-os verziójától kezdve a Teams hozzáadódik a Microsoft 365 Nagyvállalati (és Microsoft 365 vállalati alkalmazások) *meglévő telepítéseihez* a Windows rendszert futtató eszközökön, amikor a meglévő telepítést a legújabb verzióra frissíti. További információ: [Mi a helyzet a meglévő Office-telepítésekkel?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
-A csapatok a felhasználók számára önállóan is telepíthetők, ha [követi ezeket az utasításokat](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), vagy ha a felhasználók maguk is telepíthetnek https://teams.microsoft.com/downloadscsapatokat maguknak.
+A Teamst az alábbi utasításokat [követve](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)telepítheti a Csapatokat önállóként a https://teams.microsoft.com/downloadsfelhasználók számára, vagy beállíthatja, hogy a felhasználók maguk telepítsék a Teamst a programból.
 
-A csapatok telepítése után ez az új funkciókkal és minőségi frissítésekkel, körülbelül kéthetente [automatikusan frissül](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) . 
+A Teams telepítése után körülbelül kéthetente [automatikusan frissül](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) új funkciókkal és minőségi frissítésekkel. 
 

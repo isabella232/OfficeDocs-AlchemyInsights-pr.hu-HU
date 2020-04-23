@@ -1,9 +1,9 @@
 ---
-title: A számlakimutatás értelmezése létrehozásakor?
+title: Mikor jön létre a számlakivonat?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530868"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759370"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>A számlakimutatás értelmezése létrehozásakor
+# <a name="when-is-the-billing-statement-generated"></a>Mikor jön létre a számlakivonat?
 
-Minden hónapban, amely jelzi, hogy az új számlázási utasítás áll rendelkezésre a Microsoft 365 felügyeleti közepén egy e-mailt kap. A számla két oldalt tartalmaz. 1. oldal az összegző számla, és a számla, rendelés, hogyan fizetést, és a terméktámogatási szolgálat elérhetőségi esedékes összeg általános információkat tartalmaz. A 2. oldal részleteket tartalmaz az egyes előfizetések számlázási tevékenységeiről.
+Minden hónapban kap egy e-mailt, amely arról tájékoztat, hogy az új számlakivonat elérhető a Microsoft 365 Felügyeleti központban. A számla két oldalt tartalmaz. 1. oldal a számla összegzése, és általános információkat tartalmaz a számláról, a rendelésről, az esedékes összegről, a fizetés módjáról és az ügyfélszolgálattal való kapcsolatfelvételmódjáról. A 2. oldal részleteket tartalmaz az egyes előfizetések számlázási tevékenységeiről.
   
-Ha többet szeretne megtudni a számlázási fogalmak, lásd [a számla ismertetése](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).
+Ha többet szeretne megtudni a számlázási fogalmakról, [olvassa el A számla ismertetése című témakört.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

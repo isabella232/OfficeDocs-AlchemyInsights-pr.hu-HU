@@ -1,24 +1,24 @@
 ---
-title: SharePoint Online-szabályozás
+title: SharePoint Online szabályozása
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 6914c8fc6f5856685d2c2cce33255381c358d2bc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: fbc72376e90b787d34c6b1606cb977600fab863e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044009"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767647"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online-szabályozás
+# <a name="sharepoint-online-throttling"></a>A SharePoint Online szabályozása
 
-A SharePoint Online az optimális teljesítmény és megbízhatóság fenntartására használja a SharePoint Online szolgáltatást. A fojtás korlátozza a felhasználói műveletek számát vagy az egyidejű hívásokat (parancsfájlokkal vagy kóddal) az erőforrások túlzott használatának megakadályozása érdekében. Ha csinálsz kap gázelvezető, 99%-ból idő ez miatt-ból szokás kód.
+A SharePoint Online a szabályozást használja a SharePoint Online szolgáltatás optimális teljesítményének és megbízhatóságának fenntartásához. A szabályozás korlátozza a felhasználói műveletek vagy a párhuzamos hívások számát (parancsprogrammal vagy kóddal) az erőforrások túlzott felhasználásának megelőzése érdekében. Ha nem kap szabályozott, 99%-ában az idő miatt az egyéni kódot.
   
-A szabályozásra vonatkozó további tájékoztatásért [Kerülje a SharePoint Online szolgáltatásban a sávszélesség vagy a Letiltás elkerülését](https://go.microsoft.com/fwlink/?linkid=2022019)
+A szabályozásról további információt a [SharePoint Online-ban található: A szabályozás elkerülése](https://go.microsoft.com/fwlink/?linkid=2022019)
   
 

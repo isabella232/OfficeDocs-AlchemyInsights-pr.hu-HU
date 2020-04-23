@@ -1,5 +1,5 @@
 ---
-title: Politikák catchall
+title: A szakpolitikák fogása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599954"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765553"
 ---
-# <a name="teams-policies"></a>Csapatok ravonatkozó irányelvei
+# <a name="teams-policies"></a>A Csapatok irányelvei
 
-A Microsoft Teams beállításait házirendek szabályozzák. A módosításhoz konfigurálnia kell a megfelelő házirendet, majd alkalmaznia kell azt a felhasználókra. A leggyorsabb módja ennek az összes felhasználó számára, ha módosítja a Global nevű alapértelmezett házirendet. 
+A Microsoft Teams beállításait házirendek szabályozzák. A módosításhoz konfigurálnia kell a megfelelő házirendet, majd alkalmaznia kell azt a felhasználókra. Ezt a leggyorsabban úgy lehet megtenni, ha minden felhasználó számára módosítja a Global nevű alapértelmezett házirendet. 
 
-**MEGJEGYZÉS** A házirend-módosítások ***végrehajtása legalább 4–48 órát***vesz igénybe. Ha egyéni házirendet hoz létre, legalább 4 órát kell várnia, mielőtt további módosításokat hajthat végre rajta. Ezután alkalmazhatja ezt a házirendet a felhasználókra. Ez azt jelenti, hogy az egyéni szabályzatok érvénybe léptetése akár 48 órát is igénybe vehet. A globális házirendek alapértelmezés szerint vannak beállítva az összes felhasználó számára, és a globális házirend módosításai érvénybe léptetése akár 24 órát is igénybe vehet. Ha egyéni házirendet hozott létre, alkalmazta azt a felhasználókra, és az még mindig nem lépett hatályba 48 óra elteltével, vagy módosította a globális házirendet, és legalább 24 órát várt, nyisson meg egy támogatási esetet.
+**MEGJEGYZÉS** A házirend ***módosításai érvénybe léptetéséhez legalább 4– 48 órát***vesz igénybe . Ha egyéni házirendet hoz létre, legalább 4 órát kell várnia, mielőtt további módosításokat hajthat végre rajta. Ezután alkalmazhatja ezt a házirendet a felhasználókra. Ez azt jelenti, hogy az egyéni házirendek érvénybe léptetése akár 48 órát is igénybe vehet. A globális házirendek az összes felhasználó alapértelmezettbeállítása, és a globális házirend módosításai akár 24 órát is igénybe vehetnek. Ha egyéni házirendet hozott létre, alkalmazta azt a felhasználókra, és 48 óra elteltével sem lépett érvénybe, vagy módosította a Globális házirendet, és legalább 24 órát várt, nyisson meg egy támogatási esetet.
 
-A csapatokra vonatkozó irányelvek a következő területekre oszthatók:
+A csapatházirendek a következő területekre oszthatók:
 
-- [A csapatok szabályzatai](https://docs.microsoft.com/MicrosoftTeams/teams-policies) szabályozzák a privát csoportok felhasználó általi felderítését a privát csatornák keresésében és létrehozásában.  
-- [Az értekezletszabályzatok](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) szabályozzák, hogy a felhasználók mit tehetnek a Teams-értekezletekkel, beleértve a lobby vezérlését is. Ha segítségre van szüksége a lobby-problémákkal kapcsolatban, például a Teams konfigurálása mindenki számára, olvassa [el a Lobby beállításainak és részvételi szinteknek](https://docs.microsoft.com/alchemyinsights/bypass-lobby)a vezérlése című témakört.
-- [Az üzenetkezelési szabályzatok](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) szabályozzák, hogy a felhasználók mit tehetnek a csevegéssel és az üzenetekkel, beleértve a csevegés be- és kikapcsolását, a csevegések törlését, az olvasási visszaigazolások kérését, a giphys és matricák használatát stb.
-- [Az alkalmazásbeállítási szabályzatok](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) szabályozzák, hogy mely alkalmazások érhetők el a felhasználók számára, beleértve az egyéni és harmadik féltől származó alkalmazásokat, valamint a megjelenésük sorrendjét.  
-- A Teams [adatmegőrzési irányelvei](https://docs.microsoft.com/microsoftteams/retention-policies) az Office 365 Biztonsági és megfelelőségi központjában találhatók.
-- A csapatok címjegyzék-irányelvei [hatókörrel végzett címtárkereséssel](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)vannak beállítva.
+- [A Teams-házirendek](https://docs.microsoft.com/MicrosoftTeams/teams-policies) szabályozzák a privát csapatok felhasználói felderítését a privát csatornák keresése és létrehozása során.  
+- [Az értekezlet-szabályzatok](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) szabályozzák, hogy a felhasználók mit tehetnek a Teams-értekezletekkel, beleértve az előszoba vezérlését is. Ha segítségre van szüksége az előcsarnokkal kapcsolatos problémákmegoldásához, például a Teams beállításának konfigurálása mindenki befogadására című témakörben, olvassa el [az Előszoba beállításainak és részvételi szintjének szabályozása című témakört.](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
+- [Az üzenetkezelési irányelvek](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) szabályozzák, hogy a felhasználók mit tehetnek a csevegéssel és az üzenetekkel, beleértve a csevegés be- és kikapcsolását, a csevegések törlését, az olvasási visszaigazolások kérését, a giphys és a matricák használatát stb.
+- [Az alkalmazásbeállítási szabályzatok](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) szabályozzák, hogy mely alkalmazások érhetők el a felhasználók számára, beleértve az egyéni és harmadik féltől származó alkalmazásokat is, és milyen sorrendben jelenjenek meg.  
+- A Teams [adatmegőrzési irányelvei](https://docs.microsoft.com/microsoftteams/retention-policies) a Microsoft 365 biztonsági és megfelelőségi központban találhatók.
+- A teams címjegyzék-házirendjei [a hatókörrel végzett címtárkeresésen](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)keresztül állíthatók be.

@@ -1,9 +1,9 @@
 ---
-title: Törölt elemek visszaállítása a SharePoint- vagy OneDrive
+title: Törölt elemek visszaállítása a SharePointból vagy a OneDrive-ból
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 588c774d56ab092e7d50321ca6be9e2dd4f03f16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551885"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742517"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Törölt elemek visszaállítása a SharePoint- vagy OneDrive
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Törölt elemek visszaállítása a SharePointból vagy a OneDrive-ból
 
-1. Ugrás a OneDrive vagy a SharePoint-webhelyen.
+1. Nyissa meg a OneDrive-ot vagy a SharePoint-webhelyet.
     
-2. A bal oldali ablaktáblán kattintson a **Lomtár** . 
+2. Kattintson a bal oldali ablaktáblában a **Lomtár** elemre. 
     
-3. Kattintson a bal oldalán található elemek vagy fájlok vissza kívánja állítani.
+3. Kattintson a visszaállítani kívánt elemek vagy fájlok bal oldalán.
     
 4. Kattintson a **Visszaállítás** elemre. 
     
-Ha SharePoint-webhelyről törölt fájlok, mappák, tárak, listák és listaelemek, akkor lépjen a Lomtárba kerül, ahol azok vagyunk elszállításának 93 nap valaki törli őket a Lomtárból. Azok vagyunk töröl a Lomtár (más néven a webhely Lomtárába kerül), ha azok a webhelycsoport lomtárába kerül a hátralévő idő lépjen, és majd véglegesen törli. Törölt helyek és helycsoportok ugorjon a webhelycsoport lomtárába 93 nap.
+Ha fájlokat, mappákat, tárakat, listákat és listaelemeket töröl egy SharePoint-webhelyről, azok a Lomtárba kerülnek, ahol 93 napig őrzik őket, kivéve, ha valaki törli őket erről a Lomtárból. Ha törli őket a Lomtárból (az úgynevezett webhely-lomtárból), a fennmaradó ideig a webhelycsoport Lomtárába kerülnek, majd véglegesen törlődnek. A törölt webhelyek és webhelycsoportok 93 napig közvetlenül a Lomtár webhelycsoportba kerülnek.
   
-[A webhelycsoport lomtárába elemek visszaállítása](https://go.microsoft.com/fwlink/?linkid=867800) (webhely webhelycsoport-rendszergazdák) 
+[A webhelycsoport Lomtárában lévő elemek visszaállítása](https://go.microsoft.com/fwlink/?linkid=867800) (webhelycsoportgazdák) 
   
-[Visszaállítás törli a webhelycsoportok](https://go.microsoft.com/fwlink/?linkid=867660) (globális vagy a SharePoint rendszergazdák az Office 365 rendszerben) 
+[Törölt webhelycsoportok visszaállítása](https://go.microsoft.com/fwlink/?linkid=867660) (globális vagy SharePoint-rendszergazdák a Microsoft 365-ben) 
   
-Az Office 365 csoporthoz tartozó helyek a csoport a webhely visszaállítása visszaállítási kell. Lásd: [állítsa vissza a törölt Office 365 csoport](https://go.microsoft.com/fwlink/?linkid=867802) (globális rendszergazda) 
+Az Office 365-csoporthoz tartozó webhelyek esetében vissza kell állítania a csoportot a hely visszaállításához. Lásd: [Törölt Office 365-csoport visszaállítása](https://go.microsoft.com/fwlink/?linkid=867802) (globális rendszergazda) 
   
 

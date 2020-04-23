@@ -1,30 +1,30 @@
 ---
-title: Az Office 365 speciális veszély védelmi (ATP) kapcsolatos problémák elhárítása
+title: Az Office 365 Komplex veszélyforrások elleni védelemmel (ATP) kapcsolatos problémák elhárítása
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dbdfe2ddcc4afd4477f66ffd060ddb7093af8fd6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 99bc985f2d66693aca45f0833ab47c043acc1324
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420306"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766747"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Office 365 ATP problémáinak elhárítása
+# <a name="troubleshoot-issues-with-office-365-atp"></a>Az Office 365 ATP-vel kapcsolatos problémák elhárítása
 
-- **Az e-mail üzenet kézbesítési értesítés késedelem**? Próbálja meg használni a dinamikus kiszállítás beállítást az ATP biztonságos mellékletek házirendek. E-mail üzenet kézbesítési késések így elkerülhető, miközben védi a címzettek a rosszindulatú fájlokat.
-- A **kívánt jelentés hamis pozitív vagy hamis negatív**? E hivatkozás segítségével a fájl elemzéséhez nyújt:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Tudja, hogy engedélyezze a biztonságos kapcsolatok ATP védelmet a szervezet tagjai között küldött e-mail**? Kövesse az alábbi lépéseket:
-    1. Ugrás a https://protection.office.com, és jelentkezzen be.
-    2. Ugrás a **fenyegetés kezelése** > **politika** > **Biztonságos kapcsolatokat**.
-    3. **A megadott címzetteknek érvényes házirendek**szerkesztése vagy hozzáadása egy házirend.
-    4. Válassza ki **a szervezeten belül elküldött üzenetek biztonságos hivatkozásokat alkalmaz**.
-    5. A házirend mentése, és lehetővé teszi a módosítások a datacenter keresztül haladva körülbelül 30 percig.
-- További segítség az Ígérethez rendelkezésre álló mennyiség, olvassa el az [Office 365 speciális veszély védelmi](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+- **Értesítés késések e-mail üzenet kézbesítés?** Próbálja meg a dinamikus kézbesítési beállítást az ATP biztonságos mellékletek házirendjeihez. Ezzel elkerülhető késés az e-mailek kézbesítése, miközben megvédi a címzetteket a rosszindulatú fájloktól.
+- **Hamis vagy hamis negatív okat szeretne jelenteni?** Ezen a hivatkozáson keresztül elküldheti a fájlt elemzésre:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Tudta, hogy engedélyezheti az ATP Safe Links védelmét a szervezeten belüli személyek között küldött e-mailek számára?** Hajtsa végre az alábbi lépéseket:
+    1. Nyissa https://protection.office.commeg a t, és jelentkezzen be.
+    2. Nyissa meg a **Fenyegetéskezelési** > **házirend** > **biztonságos hivatkozásait.**
+    3. Az **adott címzettekre vonatkozó házirendek**csoportban szerkesztse (vagy adja hozzá) a házirendet.
+    4. Jelölje be **A szervezeten belül küldött üzenetekre mutató biztonságos hivatkozások alkalmazása**jelölőnégyzetet.
+    5. Mentse a szabályzatot, és hagyjon körülbelül 30 percet arra, hogy a módosítások végighaladjanak az adatközponton.
+- Ha további segítségre van szüksége az ATP-vel kapcsolatban, olvassa el az [Office 365 Komplex veszélyforrások elleni védelem](https://docs.microsoft.com/office365/securitycompliance/office-365-atp)ben.

@@ -1,5 +1,5 @@
 ---
-title: Hol van Power pivot?
+title: Hol található a Power Pivot?
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -14,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769845"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765199"
 ---
-# <a name="where-is-power-pivot"></a>Hol van Power pivot?
+# <a name="where-is-power-pivot"></a>Hol található a Power Pivot?
 
-Vannak három okok miért ön erő nem lát erő Tengelyvégcsap:
+Három oka lehet annak, hogy miért nem jelenik meg a Power Pivot:
   
-**Az Excel-verzió nem tartalmazza**
+**Az Excel saját verziója nem tartalmazza**
   
-Nem minden változat-ból kitűnik tartalmaz erő Tengelyvégcsap. Frissítenie kell az Office egy olyan verziójára, amely tartalmazza a Power pivot. [Ellenőrizzük a támogatott verziók listáját.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Az Excel nem minden verziója tartalmazza a Power Pivot ot. Frissítenie kell az Office olyan verziójára, amely tartalmazza a Power Pivot programot. [Ellenőrizze a támogatott verziók listáját.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Ön kikötő ' engedélyezett erő Tengelyvégcsap**
+**Nem engedélyezte a Power Pivot ot**
   
-Ha olyan Excel-verzióval dolgozunk, amely támogatja az áramellátás kimutatását, ellenőrizzük, hogy a bővítmény engedélyezett-e:
+Ha az Excel olyan verziójában dolgozik, amely támogatja a Power Pivot programot, ellenőrizze, hogy a bővítmény engedélyezve van-e:
   
-1. Válassza a \> **fájlbeállítások** \> **bővítménye**lehetőséget. ****
+1. Válassza **a Fájlbeállítások** \> **Options** \> **bővítmények lehetőséget.**
 
-2. A **kezelés** legördülő listában válassza a com- **bővítmények programot** , és kattintson az **Ugrás**gombra.
+2. A **Kezelés legördülő** lista válassza a **COM-bővítmények** lehetőséget, és kattintson az **Ugrás**gombra.
 
-3. A **com-bővítmények** párbeszédpanelen jelölje be az **Excel Microsoft Power pivot**legördülő lista melletti jelölőnégyzetet, majd kattintson az **OK gombra**.
+3. A **Com Beépülő modul oka** párbeszédpanelen jelölje be a **Microsoft Power Pivot for Excel**jelölőnégyzetet, majd kattintson az **OK**gombra.
 
-**Több előfizetése vagy fiókjai vannak**
+**Több előfizetése vagy fiókja van**
   
-Előfordulhat, hogy különböző felhasználói fiókokhoz különböző Office 365-előfizetéseket rendel hozzá. Győződjön meg arról, hogy bejelentkezett egy, a Power pivot-t támogató Excel-verzióval rendelkező fiókba. Ellenőrizze a [támogatott verziók](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)listáját, és kövesse a [különböző Office-fiókok közötti váltáshoz](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)megjelenő utasításokat.
+Előfordulhat, hogy különböző Microsoft 365-előfizetések vannak hozzárendelve különböző felhasználói fiókokhoz. Győződjön meg arról, hogy olyan fiókba jelentkezett be, amelyen az Excel egy Olyan verziója található, amely támogatja a Power Pivot programot. Ellenőrizze a [támogatott verziók](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)listáját , és kövesse az utasításokat a [különböző Office-fiókok közötti váltáshoz](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

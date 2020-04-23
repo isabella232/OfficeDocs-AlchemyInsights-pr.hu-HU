@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739063"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765847"
 ---
 # <a name="issue-with-skype-for-business"></a>Problémája van a Skype Vállalati verzióval?
 
@@ -23,7 +23,7 @@ Azt észleltük, hogy a következő tartomány(ok) esetén olyan probléma áll 
   
 {HealthCheckString}
   
-A tartomány NS, CNAME vagy SRV rekordjainak (DNS-) beállításai nincsenek megfelelően konfigurálva a Skype Vállalati verzióhoz. Részletes útmutatást a [DNS-rekordok létrehozása bármely DNS-szolgáltatónál az Office 365 szolgáltatáshoz](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) című témakörben talál.
+A tartomány NS, CNAME vagy SRV rekordjainak (DNS-) beállításai nincsenek megfelelően konfigurálva a Skype Vállalati verzióhoz. Részletes útmutatást a [DNS-rekordok létrehozása bármely DNS-szolgáltatónál](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) című témakörben talál.
   
 A hiba elhárításához nyissa meg a Microsoft 365 Felügyeleti központ [Tartományok](https://admin.microsoft.com/adminportal/home#/Domains) lapját, és vegye igénybe segítségünket.
   
