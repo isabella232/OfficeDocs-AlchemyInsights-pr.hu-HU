@@ -1,9 +1,9 @@
 ---
-title: 1221-import-export-Outlook-email-Contacts-Calendar
+title: 1221-import-export-outlook-email-contacts-naptár
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545167"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724666"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Importálása és exportálása az Outlook e-mail, névjegyek és naptár elemek
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlookos e-mailek, névjegyek és naptári elemek importálása és exportálása
 
-1. Az Outlook programban kattintson a **fájl**.
+1. Az Outlookban kattintson a **Fájl** fülre.
 
-2. Kattintson a **Megnyitás & Export**, és kattintson az **Importálás és exportálás**.
+2. Kattintson a **Megnyitás és exportálás**, majd az **Importálás/exportálás** lehetőségre.
 
-    Az importálás és exportálás varázsló elindul.
+    Ezzel elindítja az Importálás és exportálás varázslót.
 
-Teljes készlet importálása és exportálása az Outlook, lásd [a cikk](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)útmutatást.
+Az Outlook importálási és exportálási utasításainak teljes készletét [ebben a cikkben](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)találja.
 
-Ha Ön rendszergazda és tömeges-importálás Office 365 postafiókok több PST fájlokat szeretne, lásd [a cikk](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Ha Ön rendszergazda, és több PST-fájlt szeretne tömegesen importálni a Microsoft 365-postaládákba, olvassa el [ezt a cikket.](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)

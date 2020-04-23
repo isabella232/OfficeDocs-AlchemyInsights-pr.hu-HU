@@ -1,9 +1,9 @@
 ---
-title: Az Outlook.com mappa törlése
+title: Mappa törlése a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "271"
 - "8000016"
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 29720d7f8272afea488b807c76d268d67df8bbee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c7c563c1f86930df24828f1ae478bea6602bb53
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546845"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723824"
 ---
-# <a name="delete-a-folder-in-outlookcom"></a>Az Outlook.com mappa törlése
+# <a name="delete-a-folder-in-outlookcom"></a>Mappa törlése a Outlook.com
 
-1. A bal oldali ablaktáblában kattintson jobb gombbal a mappa vagy almappa törlése, és jelölje be a **mappa törlése**.
-2. Kattintson az **OK gombra** megerősítéséhez.
+1. A bal oldali ablaktáblában kattintson a jobb gombbal a törölni kívánt mappára vagy almappára, és válassza a **Mappa törlése parancsot**.
+2. A megerősítéshez válassza az **OK gombot.**
 
-Többet, olvassa el [az Outlook.com üzenet mappákkal való munkára](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+További információ: [Az üzenetmappák megtekintése Outlook.com.](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)

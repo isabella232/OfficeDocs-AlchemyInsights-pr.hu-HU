@@ -1,9 +1,9 @@
 ---
-title: A díjat a hitelkártya-vagy banki kivonat azonosítása
+title: A terhelés azonosítása a hitelkártyán vagy a bankszámlakivonaton
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,17 +14,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 9b3c6f04a505da6b2737a486ed02c97aa6152504
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2935f673f93f575c6e658d693b4c24d30445a0d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540615"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724376"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>A díjat a hitelkártya-vagy banki kivonat azonosítása
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>A terhelés azonosítása a hitelkártyán vagy a bankszámlakivonaton
 
-Az Office 365 előfizetői díj leírása így néz ki:
+A Microsoft 365-előfizetés díjleírása a következőképpen néz ki:
   
 MSFT \* E012345ABC 0000 - MSBILL.INFO, WA
   
-A 10 alfanumerikus karakterlánc MSFT követő \* a számla száma, a költség vonatkozik. A számla keres, keresse fel a **Számlázási** \> [váltók & kifizetések](https://go.microsoft.com/fwlink/p/?linkid=848039) lapon megtekintheti a legutóbbi számlákat. A számla számát a számla dokumentum jobb felső sarkában közelében van.
+Az MSFT-t \* követő 10 karakterből álló alfanumerikus karakterlánc az a Számlaszám, amelyre a költség vonatkozik. A számla megkereséséhez lépjen a **Számlázási** \> [számlák & kifizetések](https://go.microsoft.com/fwlink/p/?linkid=848039) lapra a legutóbbi számlák megtekintéséhez. A számlaszám a számlabizonylat jobb sarkának közelében található.

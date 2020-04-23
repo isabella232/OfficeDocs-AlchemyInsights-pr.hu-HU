@@ -1,8 +1,8 @@
 ---
-title: Eltávolítja az Office
+title: Az Office eltávolítása
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,25 +12,25 @@ ms.custom:
 - "937"
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
-description: Az alábbi lépések bemutatják, hogyan Office eltávolítása a számítógépről.
-ms.openlocfilehash: a9d7b9b4239eeff76cb6934184224a2bcb5b98d3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+description: Az alábbi lépések az Office pc-ről való eltávolítását ismertetik.
+ms.openlocfilehash: 1b7475b5a1f6f926bd854e41a5d14cfc22b752c9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558439"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731330"
 ---
-# <a name="uninstall-office"></a>Eltávolítja az Office
+# <a name="uninstall-office"></a>Az Office eltávolítása
 
-Töltse le és telepítse a [támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+Töltse le és telepítse a [Támogatási és helyreállítási segédet](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. Megnyitása után az **Office eltávolítása termékek** jelölje ki a verziót szeretné eltávolítani, és kattintson a **Tovább gombra**.
+1. Amikor megnyílik, az **Office-termékek eltávolítása** területen válassza ki az eltávolítani kívánt verziót, és válassza a **Tovább**gombot.
 
-2. Továbbra is a képernyőn keresztül, és indítsa újra a számítógépet, amikor a rendszer kéri.
+2. Folytassa a képernyőkön végighaladva, és amikor a rendszer kéri, indítsa újra a számítógépet.
 
-    Újraindítás után a támogatási és helyreállítási segéd automatikusan újra megnyitja az eltávolítási folyamat befejezéséhez.
+    Az újraindítás után a támogatási és helyreállítási segéd automatikusan újra megnyílik az eltávolítási folyamat befejezéséhez.
 
-3. Kövesse a további utasításokat, és [telepítse újra az Office](https://portal.office.com/OLS/MySoftware.aspx) , vagy zárja be a Segéd.
+3. Kövesse a fennmaradó utasításokat, majd telepítse újra az [Office-t,](https://portal.office.com/OLS/MySoftware.aspx) vagy zárja be a segédet.
 
-Egyéb eltávolítási lehetőségek listája jelölje ki az [Office eltávolítása a számítógépről](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
+Az egyéb eltávolítási lehetőségek listájához válassza [az Office eltávolítása pc-ről](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)lehetőséget.
   

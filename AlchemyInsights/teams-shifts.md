@@ -1,9 +1,9 @@
 ---
-title: Műszak csapatok
+title: Csapatok váltásai
 ms.author: heidip
 author: heidip
 manager: dansimp
-ms.date: 3/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1686"
 - "9000161"
-ms.openlocfilehash: 7c5e736d0ac66fb5a1398494b9ffe1164324e344
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: cbd5363ba153299e0af2133858a49544a6c6c75c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328672"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737454"
 ---
-# <a name="using-teams-shifts"></a>A csapatok műszakok használata
+# <a name="using-teams-shifts"></a>A csapatváltások használata
 
-Ha többet szeretne megtudni a csapatok Eltolódásáról, például a Microsoft Staffhub-ról való áttérési módjáról, olvassa el [a csoportok eltolódik](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)című témakört. 
+Ha többet szeretne tudni a Shifts for Teams szolgáltatásról, többek között a Microsoft Staffhubról való áttelepítésről, olvassa el [a Műszakok csapatoknak témakört.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page) 
 
-A Microsoft Staffhub lesz [nyugdíjas](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) december 31-én, 2019. 
+A Microsoft Staffhub 2019. december 31-én [nyugdíjba vonul.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) 
 
