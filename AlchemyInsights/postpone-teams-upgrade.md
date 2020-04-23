@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 37263aefe56b673429eb773719413688b72457e7
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758864"
+ms.locfileid: "43785341"
 ---
 # <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>A Microsoft által vezérelt Teams-frissítés elhalasztása
 
-Ha a Microsoft által vezérelt automatikus frissítésről kapott kommunikációt a Skype Vállalati verzióról a Microsoft Teamsre, és az automatikus frissítést egy későbbi időpontra szeretné halasztani, globális rendszergazdája bejelentkezhet a [Teams Felügyeleti portálra,](https://admin.teams.microsoft.com/dashboard) és kiválaszthatja a **Halasztás gombot.** A bérlő Microsoft Teamsre történő automatikus frissítésének új dátumának megtekintéséhez frissítse a Teams felügyeleti portállapját.
+Ha a Microsoft által vezérelt automatikus frissítéssel kapcsolatban kapott kommunikációt a Skype Vállalati verzióról a Microsoft Teamsprogramra, és az automatikus frissítést egy későbbi időpontra szeretné halasztani, a globális rendszergazda bejelentkezhet a [Teams Felügyeleti portálra,](https://admin.teams.microsoft.com/dashboard) és miután a Microsoft Teams frissítés e-frissítése gombbal **kiválasztotta** a Frissítés állapotát gombot, válassza a **Halasztás gombot.** A bérlő Microsoft Teamsre történő automatikus frissítésének új dátumának megtekintéséhez frissítse a Teams felügyeleti portállapját.
 
 **Megjegyzés:** A **Halasztás** gomb csak akkor érhető el, ha megkapta az üzenetközpont értesítését az automatikus frissítésről. 
 
-A globális rendszergazdák a [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) programot is futtathatják, hogy többet megtudjanak az aktuális frissítési állapotukról. 
+A globális rendszergazdák a [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) programot is futtathatják, hogy többet megtudjanak az aktuális frissítési állapotukról.

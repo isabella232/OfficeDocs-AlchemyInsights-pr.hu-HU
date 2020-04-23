@@ -1,9 +1,9 @@
 ---
-title: Visszaad-a OneDrive
+title: A OneDrive visszaállítása
 ms.author: matteva
 author: pebaum
 manager: scotv
-ms.date: 4/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 2750a91a243543df073b016e41d3332a968123a1
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 395b4356667af463e2a63eb80a8f2ff24e3b2583
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36551669"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758648"
 ---
-# <a name="restore-your-onedrive"></a>Visszaad-a OneDrive
+# <a name="restore-your-onedrive"></a>A OneDrive visszaállítása
 
-Ha sok-ból-a OneDrive fájlokat kap töröl, overwritted, elrontott, vagy fertőzött mellett malware, tudod visszaad-a teljes OneDrive-hoz egy előző idő bent a utolsó 30 napok.
+Ha sok OneDrive-fájltörlődik, túlterhelt, sérült vagy rosszindulatú programmal fertőzött, az elmúlt 30 napban visszaállíthatja a teljes OneDrive-ot egy korábbi időpontra.
   
-1. Megy-a OneDrive-ban-a pókháló legel.
+1. Nyissa meg a OneDrive-ot a webböngészőben.
     
-2. Kettyenés a elintézés ikon-ban jobb felső, aztán kiválaszt **visszaad-a OneDrive**.
+2. Kattintson a beállítások ikonra a jobb felső sarokban, majd válassza **a OneDrive visszaállítása**lehetőséget.
     
-3. Jelöljön ki egy dátumot a listából, vagy válassza az **Egyéni dátumot és időpontot**.
+3. Jelöljön ki egy dátumot a listából, vagy válassza **az Egyéni dátum és idő**lehetőséget .
     
-4. A kijelölt dátum utáni összes tevékenység visszavonásához kattintson a **visszaállítás** gombra. 
+4. A **Visszaállítás gombra** kattintva vonja vissza az összes tevékenységet a kijelölt dátum után. 
     
-[További segítség a fájlok visszaállításában](https://go.microsoft.com/fwlink/?linkid=872874)
+[További segítség a Fájlvisszaállítás szolgáltatás sal](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

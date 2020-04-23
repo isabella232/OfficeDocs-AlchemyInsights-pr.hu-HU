@@ -1,9 +1,9 @@
 ---
-title: Outlook.com nem tudja fogadni az ellenőrző kódokat
+title: Outlook.com nem fogadhatellenőrző kódokat
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537697"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760810"
 ---
-# <a name="cant-get-verification-codes"></a>Nem sikerült beolvasni az ellenőrző kódok
+# <a name="cant-get-verification-codes"></a>Nem lehet beszerezni az ellenőrző kódokat
 
-Ha a másodlagos e-mail vagy a telefonszám nem elérhető, lépjen a Microsoft fiók [biztonsági alapismeretek](https://account.microsoft.com/security) lapra, jelölje ki a **nem kell ezeket** a bejelentkezési lapra, és kövesse az utasításokat a biztonsági információ csere.
+Ha nem tudja elérni a másodlagos e-mail címét vagy telefonszámát, nyissa meg a Microsoft-fiók [biztonsági alapjai lapját,](https://account.microsoft.com/security) válassza a **Nem rendelkezem ilyenekkel a** bejelentkezési lapon lehetőséget, és kövesse az utasításokat a biztonsági adatok cseréjéhez.
 
-*Megjegyzés:* A [Microsoft hitelesítő alkalmazás](https://go.microsoft.com/fwlink/?linkid=2016117) nem igényel egy ellenőrző kódot megadnia az internetkapcsolatot.
+*Megjegyzés:* A [Microsoft Authenticator alkalmazásnak](https://go.microsoft.com/fwlink/?linkid=2016117) nincs szüksége internetkapcsolatra ahhoz, hogy ellenőrző kódot biztosítson.
 
-Többet megtudni, olvassa el a [Microsoft fiók biztonsági adatai és az ellenőrzés kódok](https://support.microsoft.com/help/12428/).
+További információt a [Microsoft-fiók biztonsági adatai és ellenőrző kódjai között](https://support.microsoft.com/help/12428/)talál.

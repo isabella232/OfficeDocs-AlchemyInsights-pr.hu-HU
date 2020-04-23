@@ -1,9 +1,9 @@
 ---
-title: 1489-permissions-Required-for-ediscovery-Searches
+title: 1489-engedélyek-szükséges-for-ediscovery-keresések
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372130"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758910"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Elektronikus adatok feltárása kereséshez szükséges engedélyek
+# <a name="permissions-required-for-ediscovery-searches"></a>Az elektronikus adatfeltárási kereséshez szükséges engedélyek
 
-Tartalom keresések végrehajtásához a biztonsági & Megfelelési központba, a felhasználónak kell lennie legalább az elektronikus adatok feltárása Manager szerepkör csoportba, ami lehetővé teszi, keresés és hely rendelkezik a postafiókok, SharePoint-webhelyek és OneDrive helyek. Tagok is létrehozása és elektronikus adatok feltárása az esetek kezelése, felveheti és esetté tagokat távolíthat el, létrehozása és tartalom szerkesztésére, és speciális elektronikus adatok feltárása az eset adatokhoz hozzáférni.
+A Biztonsági & megfelelőségi központban végzett tartalomkereséshez a felhasználónak legalább az elektronikus adatfeltárás-kezelő szerepkörcsoport tagjának kell lennie, amely lehetővé teszi számukra, hogy kereséseket hajtsanak végre, és a postaládákban, SharePoint-webhelyeken és OneDrive-helyeken tárolóhelyeket helyezzenek el. A tagok létrehozhatnak és kezelhetnek elektronikus adatfeltárási eseteket, tagokat adhatnak és távolíthatnak el egy esethez, létrehozhatnak és szerkeszthetnek tartalomkereséseket, és hozzáférhetnek az esetadatokhoz a speciális elektronikus adatfeltárásban.
 
-Az Exchange felügyeleti központ (EAC) helyben elektronikus adatok feltárása keresések végrehajtásához a felhasználó az Exchange online felderítés kezelése szerepkör csoport tagjának kell lennie.
+Az Exchange Felügyeleti központban (EAC) végzett helyben történő elektronikus adatfeltárási kereséshez a felhasználónak az Exchange Online Felderítéskezelés szerepkörcsoportjának tagjának kell lennie.
 
-Elektronikus adatok feltárása engedélyekkel kapcsolatos további tudnivalókért lásd: 
+Az elektronikus adatfeltárási engedélyekről az: 
 
-- [A biztonsági & Megfelelési központba az elektronikus adatok feltárása engedélyek hozzárendelése](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Elektronikus adatfeltárási engedélyek hozzárendelése a Biztonsági & megfelelőségi központban](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [Elektronikus adatok feltárása engedélyeket az Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Elektronikus adatfeltárási engedélyek hozzárendelése az Exchange-ben](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Megjegyzés**: elektronikus adatok feltárása engedélyek hozzárendelése után várjon néhány percet, amíg az engedélyek szülőtől szeretne.
+**Megjegyzés:** Az elektronikus adatfeltárási engedélyek hozzárendelése után előfordulhat, hogy várnia kell néhány percet az engedélyek propagálására.

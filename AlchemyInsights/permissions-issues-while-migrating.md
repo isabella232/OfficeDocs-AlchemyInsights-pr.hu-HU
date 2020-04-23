@@ -1,30 +1,30 @@
 ---
-title: Áttelepítési problémák az áttelepítés során
+title: Engedélyekkel kapcsolatos problémák áttelepítés közben
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 95bfbfdf002e457230479a860058c1cf7ab1f8c2
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 077b7cf29ef6a40ef7f2aebef15e39a0f5df0fc3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054416"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758972"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Felhasználói profil és fénykép szinkronizáció
+# <a name="user-profile-and-photo-synchronization"></a>Felhasználói profil és fényképszinkronizálás
 
- **Profil Photo-szinkronizálás** -a felhasználók észreveheti, hogy profilfotóját nem szinkronizálja a SharePoint. Vagy, ők május volna próbált-hoz korszerűsíteni-uk arcél fénykép és a fénykép csendes feltűnik mint a régi fénykép. -Hoz biztosít a arcél fénykép mutat mint várt, a felhasználó akarat szükség-hoz elindít egy fénykép szinkronizál. 
+ **Profilkép-szinkronizálás** – A felhasználók észrevehetik, hogy profilfotójuk nem szinkronizálódik a SharePoint szolgáltatással. Vagy megpróbálhatták frissíteni a profilfotójukat, és a fénykép továbbra is régi fényképként jelenik meg. Annak érdekében, hogy a profilfotó a várt módon jelenjen meg, a felhasználónak el kell indítania egy fényképszinkronizálást. 
   
-A fénykép-szinkronizálás folyamatról további információt az [Office 365 a profilkép szinkronizálásával kapcsolatos információk](https://go.microsoft.com/fwlink/?linkid=2022634) című témakörben talál.
+A fényképszinkronizálási folyamatról a Microsoft [365 profilkép-szinkronizálásával kapcsolatos további tudnivalókcímű témakörben talál](https://go.microsoft.com/fwlink/?linkid=2022634) további információt.
   
-- **Profil szinkronizálása** -a Profilszinkronizálás befejezéséhez szükséges idő az ad importálási feladat által feldolgozandó változások (munka) számától függ. Ha sok változás van, az időzítőfeladatnak rengeteg munkája van, és hosszabb ideig tart, amíg a módosítások megjelennek a felhasználóiprofil-alkalmazásban. Ha az időzítőfeladat kis mennyiségű munkát végzett, a módosítások a felhasználóiprofil-alkalmazásban is sokkal gyorsabban megjelennek. 
+- **Profilszinkronizálás** – A profilszinkronizálás befejezéséhez szükséges idő az AD importálási feladat által feldolgozandó módosítások (munka) számától függ. Ha sok változás történik, az időzítőfeladatnak sok dolga van, és hosszabb ideig tart, amíg a módosítások megjelennek a felhasználói profil alkalmazásban. Ha az időzítőfeladatnak kis mennyiségű munkája van, a módosítások sokkal gyorsabban megjelennek a felhasználói profil alkalmazásban. 
   
-A Profilszinkronizálás folyamatról további információt a [a felhasználói profilok szinkronizálásával kapcsolatos információk a SharePoint Online szolgáltatásban](https://go.microsoft.com/fwlink/?linkid=2022639) című témakörben talál.
+A profilszinkronizálási folyamatról a [SharePoint Online-ban](https://go.microsoft.com/fwlink/?linkid=2022639) a felhasználói profilok szinkronizálásával kapcsolatos információk című témakörben olvashat bővebben.
     
-- **Korszerűsíteni arcél hivatalban delve** -töröl használók tud kezel-uk Hivatal 365 arcél. További információt a [Profil megtekintése és frissítése az Office delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)című témakörben talál.
+- **A Profil frissítése az Office Delve-ben** – a Delve-felhasználók kezelhetik Microsoft 365-profiljukat. További információt a [Profil megtekintése és frissítése az Office Delve-ben című témakörben talál.](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)
     
 

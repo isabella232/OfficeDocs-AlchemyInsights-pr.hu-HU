@@ -3,28 +3,28 @@ title: 9000215 Outlook.com előfizetések
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/26/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
-ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8968b278cb5e99c5ce6cae9c79e441546deb58ec
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511813"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722306"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Előfizetések és előfizetés megszüntetése
+# <a name="subscriptions-and-unsubscribing"></a>Előfizetések és leiratkozás
 
-Ha le szeretné állítani a hírlevelek vagy promóciók fogadását, kétféle módon iratkozhat fel a Outlook.com:
+Ha nem szeretne hírleveleket vagy promóciókat kapni, kétféleképpen leiratkozhat a Outlook.com:
 
-1. A Beérkezett üzenetek mappában jelöljön ki egy hírlevelet vagy promóciós e-mailt. A betekintő ablaktábla tetején válassza a **leiratkozás**lehetőséget.
-2. Nyissa meg [a Outlook.com előfizetések beállításai](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Beállítások** > **megtekintése Outlook beállítások** > **e-mail** > **előfizetések**) és válasszuk a **leiratkozás**.
+1. A beérkezett üzenetek között válasszon egy hírlevelet vagy promóciós e-mailt. Az olvasóablak tetején válassza a **Leiratkozás**lehetőséget.
+2. Nyissa meg [a Outlook.com előfizetési beállításait](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Beállítások** > **Az Összes Outlook-beállítás** > **e-mail-előfizetése)** > **Subscriptions**lehetőséget, és válassza a **Leiratkozás**lehetőséget.
 
 Megjegyzések:
 
-- Nem minden ügyfél részesülhet ez a funkció abban a pillanatban.
-- Csak akkor látja ezt a funkciót, ha kapott egy e-mailt a vállalattól, amelyen az előfizetett e-mailt küldi.
+- Jelenleg nem minden ügyfél élvezheti ezt a funkciót.
+- Ez a funkció csak akkor jelenik meg, ha e-mailt kapott az előfizetett e-mailt küldő vállalattól.

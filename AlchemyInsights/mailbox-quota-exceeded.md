@@ -1,5 +1,5 @@
 ---
-title: A postaláda-kvóta túllépve
+title: Postaládakvóta túllépve
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 7e1108cb4c9f2c5deecb32dc669800c5d23cc975
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 898c80d915ba24d9977b1f96063fa09f99c006fc
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286164"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784693"
 ---
-# <a name="mailbox-quota-exceeded"></a>A postaláda-kvóta túllépve
+# <a name="mailbox-quota-exceeded"></a>Postaládakvóta túllépve
 
-Túllépte a fiókra vonatkozó postaláda-kvótát. A jobb teljesítmény érdekében számos lépést tehet a beérkező üzenetek méretének csökkentéséhez.
+Túllépte a fiókhoz tartozó postaládakvótát. A jobb teljesítmény érdekében számos lépést tehet a beérkezett üzenetek méretének csökkentése érdekében.
 
-1. Régebbi beérkezett üzenetek törlése. Ezt gyorsan megteheti az alkalmazásban, ha egyéni Pöccintési mozgást állít be: **Beállítások > Pöccintési beállítások**. Ezzel a készlettel könnyedén végigpöccintheti a beérkezett üzenetekmappát, hogy kitörölje.
+1. Régebbi beérkezett üzenetek mappáinak törlése. Ezt gyorsan megteheti az alkalmazásban, ha egyéni Pöccintési mozgást állít be: **Beállítások > pöccintési beállítások**. Ezzel a készlettel könnyedén végigpöccintheti a beérkezett üzenetek et, hogy törölje azt.
 
-2. Ürítse ki a spam mappákat. Menj közvetlenül a spam mappákba, és nyomd meg **az üres spamet.**
+2. Ürítse ki a spam mappákat. Menjen közvetlenül a spam mappákba, és nyomja **meg az üres spam**.
 
-3. Androidon egyetlen kattintással kiürítheti a szemétmappákat. Menj közvetlenül a kukába, és nyomd meg **az üres szemetet**. 
+3. Androidon egyetlen kattintással kiürítheti a kukamappákat. Menjen közvetlenül a kukába, és nyomja **meg az üres szemetet**. 
 
-4. Mentse mellékleteit a OneDrive-ra, hogy ne tárolódjanak a postaládájában. További információt a Outlook.com tárolási korlátok című [témakörben](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) talál. 
+4. Mentse a mellékleteket a OneDrive-ra, hogy ne tárolják őket a postaládájában. További információt a [Outlook.com tárolási korlátok című témakörben](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) talál. 
 
-Ha Ön Office 365-felhasználó, postafiók-emelést is kérhet az informatikai rendszergazdától.
+Ha Ön Microsoft 365-felhasználó, kérheti a postaláda növelését is a rendszergazdatól.

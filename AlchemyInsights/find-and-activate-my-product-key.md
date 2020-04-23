@@ -11,33 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 8b661671afe9fa670decce63b9eb030b35cf072d
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417713"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716138"
 ---
 # <a name="find-and-activate-my-product-key"></a>A termékkulcs megkeresése és aktiválása
 
-Ha az Office 365 vállalati verziót [egy Microsoft Open License Programon](https://go.microsoft.com/fwlink/p/?LinkID=613298)keresztül vásárolta meg, a termékkulcs megkeresésével és aktiválásával című részt.
+Ha a Microsoft 365 vállalati verziót [microsoft open licencprogramon keresztül vásárolta,](https://go.microsoft.com/fwlink/p/?LinkID=613298)itt találja meg és aktiválja a termékkulcsot.
 
-1. Miután megvásárolta a termékkulcsot a(z) Office 365-partnertől, kapni fog egy e-mailt a Microsofttól, amelyben megtalálja az aktiválási hivatkozást.  **Megjegyzés:** Az e-mailt a mennyiségi licencszerződésben online rendszergazdaként felsorolt személy nek küldi el.  Ha nem tudja, hogy a szervezetében ki lett online rendszergazdaként megadva, kérdezze meg a(z) Office 365-partnerét.
+1. Miután megvásárolta a kulcsot egy Microsoft 365-partnertől, ellenőrizze, hogy a Beérkezett üzenetek mappában található-e egy aktiválási hivatkozást tartalmazó e-mail a Microsofttól.  **Megjegyzés:** Az e-mailt a rendszer a mennyiségi licencszerződésben online rendszergazdaként szereplő személynek küldi el.  Ha nem biztos abban, hogy ki van kijelölve online rendszergazdának, kérdezze meg microsoft 365-ös partnerét.
 
-2. Kövesse az e-mailben található hivatkozást, hogy bejelentkezz a munkahelyi vagy iskolai fiókjába, elfogadd a Nyitott licencszerződést, és megújítsd az előfizetést.  A részletes útmutatót részletesen töltse le az [Online szolgáltatások aktiválása: Office 365-előfizetés című](https://go.microsoft.com/fwlink/p/?LinkId=618100)PDF-útmutatóból. 
+2. Kövesse az e-mailben található hivatkozást, és jelentkezzen be munkahelyi vagy iskolai fiókjával, fogadja el a Nyílt licencszerződést, és újítsa meg az előfizetést.  Részletes útmutatóhoz töltse le az Online szolgáltatások [aktiválása: Microsoft 365 előfizetés pdf-útmutatóját.](https://go.microsoft.com/fwlink/p/?LinkId=618100) 
 
-**Megjegyzés:** A mennyiségi licencelést használó ügyfelek a [Mennyiségi licencelési szolgáltatóközpontban](https://go.microsoft.com/fwlink/p/?LinkID=282016)is aktiválhatják az előfizetéseket.  Ha tudni szeretné, hogyan, töltse le a PDF útmutatót, az [Active Online Services a Mennyiségi licencelési szolgáltatóközpontban](https://go.microsoft.com/fwlink/p/?LinkId=618096).
+**Megjegyzés**: A mennyiségi licenccel kapcsolatos ügyfelek a [Mennyiségi licencelési szolgáltatóközpontban](https://go.microsoft.com/fwlink/p/?LinkID=282016)is aktiválhatják az előfizetéseket.  Ennek módjáról a Mennyiségi [licencelési szolgáltatóközpont](https://go.microsoft.com/fwlink/p/?LinkId=618096)aktív online szolgáltatások pdf-útmutatóját töltheti le.
 
-Ha az Office 365 Vállalati prémium verziót kiskereskedelmi üzletben vásárolta, az alábbi lépésekkel meghosszabbíthatja a lejárati dátumot, vagy licencet adhat hozzá egy meglévő előfizetéshez.
+Ha a Microsoft 365 Business Premium Standardot kiskereskedelmi üzletből vásárolta, az alábbi lépésekkel hosszabbíthatja meg a lejárati dátumot, vagy adhat licencet egy meglévő előfizetéshez.
 
-**Megjegyzés:** Ha termékkulccsal szeretné meghosszabbítani a lejárati dátumot, vagy licencet szeretne hozzáadni a meglévő Office 365 Vállalati Prémium verziós előfizetéséhez, új és nem használt kulcsra van szüksége ugyanahhoz az Office 365-csomaghoz.  Az eredeti Office 365 termékkulcsot nem tudja használni, hiszen azt már korábban beváltotta.
+**Megjegyzés:** Ha termékkulcsot szeretne használni a lejárati dátum meghosszabbításához vagy licenc hozzáadásához a meglévő Microsoft 365 Business Premium Standard előfizetéshez, ugyanahhoz a Microsoft 365-előfizetéshez új és nem használt kulcsra van szükség.  Az eredeti Microsoft 365 termékkulcs megadása nem fog működni, mert a már beváltott kulcs nem használható újra.
 
-1. A felügyeleti központban nyissa meg a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapját.
+1. A felügyeleti központban nyissa meg a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
 
-2. Keresse meg azt az előfizetést, amelyhez meghosszabbítani szeretné a lejárati dátumot, vagy licenceket szeretne hozzáadni.  Kattintson [a befejezési dátum meghosszabbítása](https://go.microsoft.com/fwlink/p/?linkid=842054) vagy [további licencek hozzáadása gombra.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Keresse meg azt az előfizetést, amelyre meg szeretné hosszabbítani a lejárati dátumot, vagy licenceket szeretne hozzáadni.  Kattintson [a befejezési dátum meghosszabbítása](https://go.microsoft.com/fwlink/p/?linkid=842054) vagy [további licencek hozzáadása](https://go.microsoft.com/fwlink/p/?linkid=842054)elemre.
 
-3. Kattintson **az Új és nem használt termékkulcs használata,** majd a **Tovább**gombra.
+3. Kattintson **az Új és nem használt termékkulcs használata,** majd a Tovább **gombra.**
 
-4. Írja be a termékkulcsot, és kattintson a **Tovább**gombra.
+4. Írja be a termékkulcsot, és kattintson a **Tovább gombra.**
 
-5. Tekintse át a rendelés részleteit.  Ha minden helyesnek tűnik, kattintson a **Beváltás gombra.**
+5. Tekintse át a rendelés részleteit.  Ha minden rendben van, kattintson a **Beváltás gombra.**

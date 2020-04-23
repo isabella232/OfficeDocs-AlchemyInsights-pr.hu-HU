@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713288"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787999"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Tartalomkereső eszköz a releváns információk megkereséséhez
 
-A Biztonsági & megfelelőségi központ Tartalomkereső eszközével gyorsan megtalálhatja az Exchange-postaládákban található e-maileket, a SharePoint-webhelyeken és a OneDrive-helyeken található dokumentumokat, valamint a Skype Vállalati verzióban folytatott csevegéseket. A tartalomkereső eszközzel kereshet e-maileket, dokumentumokat és csevegéseket az Office 365 együttműködési eszközeiben, például a Microsoft Teamsben és az Office 365 Csoportokban.
+A Biztonsági & megfelelőségi központ Tartalomkereső eszközével gyorsan megtalálhatja az Exchange-postaládákban található e-maileket, a SharePoint-webhelyeken és a OneDrive-helyeken található dokumentumokat, valamint a Skype Vállalati verzióban folytatott csevegéseket. A tartalomkereső eszközzel e-maileket, dokumentumokat és csevegéseket kereshet a Microsoft 365 együttműködési eszközeiben, például a Microsoft Teamsben és az Office 365 Csoportokban.
 
 
 Mielőtt a Biztonsági [& megfelelőségi központ](https://sip.protection.office.com/homepage) [tartalomkeresését](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) használná, töltse ki a konfigurációs beállításokat, beleértve [az engedélyek konfigurálását,](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search) [a letöltési sebesség beállítását](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) és [az exportálási beállításokat.](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results)
@@ -28,4 +28,4 @@ A tartalomkeresésről a [követelmények és korlátok](https://docs.microsoft.
 
 Miután áttekintette a tartalomkeresés konfigurációs beállításait és korlátozásait, olvassa el [a</a> Tartalomkeresés használata a szervezetben a helyben található elemek, például az e-mailek, a dokumentumok és az azonnali üzenetküldési beszélgetések keresését című témakört.](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
-A Tartalomkeresés teljes lépésről lépésre című témakörben talál további információt a [Tartalom keresése az Office 365-ben című témakörben.](https://docs.microsoft.com/office365/securitycompliance/search-for-content)
+A Tartalomkeresés teljes lépésről lépésre című témakörben talál további információt a [Tartalom keresése a Microsoft 365-ben című témakörben.](https://docs.microsoft.com/office365/securitycompliance/search-for-content)

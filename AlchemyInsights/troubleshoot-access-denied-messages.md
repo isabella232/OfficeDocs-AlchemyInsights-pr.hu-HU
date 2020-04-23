@@ -1,34 +1,34 @@
 ---
-title: Hozzáférés-megtagadási üzenetek – problémamegoldás
+title: Hozzáférés megtagadott üzenetek hibáinak elhárítása
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1930edcfd14acc48ea77b66e2793654a3e6332cc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050707"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759802"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Hozzáférés-megtagadási üzenetek – problémamegoldás
+# <a name="troubleshoot-access-denied-messages"></a>Hozzáférés megtagadott üzenetek hibáinak elhárítása
 
-Ha valaki "hozzáférés megtagadva" üzenetet kapott a SharePoint rendszerben lévő megosztott mappához, előfordulhat, hogy a webhelycsoport rendszergazdája engedélyezte a "korlátozott hozzáférésű felhasználói engedélyek zárolási módját". Kikapcsolásához: 
+Ha valaki "Hozzáférés megtagadva" üzenetet kapott egy SharePoint-mappában lévő megosztott mappához, előfordulhat, hogy a webhelycsoport rendszergazdája engedélyezte a "Korlátozott hozzáférésű felhasználói engedélyek zárolási módját". A kikapcsoláshoz: 
   
-1. Tallózással keresse meg a webhelyet, kattintson a Beállítások ikonra, majd kattintson a **webhely beállításai**lehetőségre.
+1. Tallózással keresse meg a webhelyet, kattintson a Beállítások ikonra, majd a **Webhely beállításai parancsra.**
     
-2. A **Webhelycsoport felügyelete**csoportban kattintson a **webhelycsoport-szolgáltatások**elemre.
+2. A **Webhelycsoport felügyelete csoportban**kattintson **a Webhelycsoport szolgáltatásai elemre.**
     
-3. A **korlátozott hozzáférésű felhasználói engedély zárolási módja**mellett kattintson az **inaktiválás**gombra.
+3. A **Korlátozott hozzáférésű felhasználói engedélyek zárolási módja**mellett kattintson **az Inaktiválás gombra.**
     
-A hozzáférés megtagadva üzenetek akkor is előfordulhatnak a megosztott mappákban, ha a webhely közzétételi webhely. További információ a [hozzáférés megtagadva a megosztott mappához való hozzáféréskor](https://go.microsoft.com/fwlink/?linkid=2004317)című témakörben található.
+A megosztott mappák esetében is előfordulhat hozzáférés-megtagadási üzenet, ha a webhely közzétételi webhely. További információt a [Hozzáférés megtagadva megosztott mappák elérésekor (Hozzáférés megtagadva) témakörben talál.](https://go.microsoft.com/fwlink/?linkid=2004317)
   
-Ha valaki hozzáférés-megtagadási üzenetet kapott a hozzáférési kérelmek megtekintésekor, akkor a felhasználót webhelycsoport-rendszergazdaként vagy a webhely tulajdonosok csoportjának egy tagaként kell hozzáadni. További információért olvassa el a hozzáférési [kérelmek listájának hozzáférés megtagadva](https://go.microsoft.com/fwlink/?linkid=2004220)című témakört.
+Ha valaki "Hozzáférés megtagadva" üzenetet kapott a hozzáférési kérelmek megtekintésekor, a felhasználót webhelycsoport-rendszergazdaként vagy a webhely Tulajdonosok csoportjának tagjaként kell hozzáadni. További információt a [Hozzáférés-hozzáférés-kérelmek listájában](https://go.microsoft.com/fwlink/?linkid=2004220)talál.
   
-Ha egy felhasználó "hozzáférés megtagadva" üzenetet kapott, miután eltávolították őket az Active Directory címtárból, majd hozzáadta a biztonsági másolatot, akkor olvassa el [a hozzáférés megtagadva választógombot, amikor egy felhasználói fiók szinkronizálva van az Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).
+Ha egy felhasználó "Hozzáférés megtagadva" üzenetet kapott, miután eltávolították a helyszíni Active Directoryból, majd visszavették, olvassa el [a Hozzáférés megtagadva, ha egy felhasználói fiókot szinkronizál a Microsoft 365-tel.](https://go.microsoft.com/fwlink/?linkid=2004318)
   
 

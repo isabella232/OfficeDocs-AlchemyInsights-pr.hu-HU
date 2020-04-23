@@ -12,12 +12,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: cfe884a207490a19325ce059652de158c16dc801
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704087"
+ms.locfileid: "43788704"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP kérdések társadalombiztosítási számok
 
@@ -25,7 +25,7 @@ ms.locfileid: "43704087"
 
 **DLP-problémák az SSN-ekkel**
 
-Problémái vannak azzal, hogy **az Adatvesztés-megelőzés (DLP)** nem működik a **társadalombiztosítási számot (SSN)** tartalmazó tartalom esetében, amikor bizalmas információtípust használ az Office 365-ben? Ha igen, győződjön meg arról, hogy a tartalom tartalmazza a szükséges információkat, amit a DLP-házirend keres. 
+Problémái vannak azzal, hogy **a** Microsoft 365-ben bizalmas információtípushasználata esetén nem működik a **társadalombiztosítási számot (SSN)** tartalmazó tartalom használata? Ha igen, győződjön meg arról, hogy a tartalom tartalmazza a szükséges információkat, amit a DLP-házirend keres. 
   
 Például egy 85%-os megbízhatósági szinttel konfigurált SSN-házirend esetén a rendszer a következőket értékeli ki, és a szabály aktiválásához észlelni kell:
   

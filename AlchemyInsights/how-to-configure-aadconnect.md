@@ -1,9 +1,9 @@
 ---
-title: 646 hogyan kell beállítani a AADConnect
+title: 646 Az AADConnect konfigurálása
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541587"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722561"
 ---
-# <a name="configure-sync-features"></a>Szinkronizálási szolgáltatás konfigurálása
+# <a name="configure-sync-features"></a>Szinkronizálási szolgáltatások konfigurálása
 
-Azure AD csatlakozás tartalmaz számos szolgáltatása alapértelmezés szerint engedélyezve vannak, vagy később is engedélyezheti. Egyes szolgáltatások igényel további konfigurálást adott környezetben.
+Az Azure AD Connect számos olyan funkciót tartalmaz, amelyek alapértelmezés szerint engedélyezve vannak, vagy amelyeket később engedélyezhet. Egyes szolgáltatások további konfigurációt igényelnek bizonyos környezetekben.
 
-- Az objektumok [szűrése](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) korlátok Azure AD a rendszer szinkronizálja. Alapértelmezés szerint minden felhasználók, kapcsolatok, csoportok, és a Windows 10 számítógépfiókot szinkronizálódnak. Akkor figyelembe vehetjük vagy kihagyhatjuk objektumok tartományok, szervezeti egységek és más jellemzők alapján.
+- [A szűrés](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) korlátozza az objektumok szinkronizálását az Azure AD-vel. Alapértelmezés szerint a rendszer minden felhasználót, kapcsolattartót, csoportot és Windows 10-es számítógépfiókot szinkronizál. Tartományon, ous-okon vagy más attribútumokon alapuló objektumokat is felvehet vagy kizárhat.
 
-- [Kivonat jelszó-szinkronizálás](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) a jelszó kivonatértékét az Active Directory címtárból helyszíni Azure ad szinkronizálja. Ez lehetővé teszi a jelszavak kezelését egy helyről, de ugyanazt a jelszót mindkét helyszíni és cloud környezetekben. Mivel az Active Directory a mérvadó információforrás, használhatja a saját jelszóházirendek.
+- [A jelszókivonat-szinkronizálás](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) szinkronizálja a jelszókivonatot a helyszíni Active Directoryból az Azure AD-be. Ez lehetővé teszi a jelszókezelést egy helyen, de ugyanazt a jelszót használja mind a helyszíni, mind a felhőalapú környezetekben. Mivel az Active Directory a mérvadó forrás, használhatja a saját jelszóházirendeket.
 
-- [Az önkiszolgáló jelszó alaphelyzetbe állítása (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) lehetővé teszi a felhasználók alaphelyzetbe saját jelszavukat a felhőben továbbra is az a helyi jelszóházirend alkalmazása közben.
+- [Az önkiszolgáló jelszó-visszaállítás (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) lehetővé teszi a felhasználók számára, hogy alaphelyzetbe állítsák saját jelszavukat a felhőben, miközben továbbra is alkalmazzák a helyszíni jelszóházirendet.
 
-- [Eszköz visszaírása](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) lehetővé teszi a regisztrált Azure Active Directory írják vissza a helyszíni Active Directory, a feltételes hozzáférésre használható.
+- [Az eszközvisszaírás](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) lehetővé teszi, hogy az Azure AD-ben regisztrált eszközök visszaírhatók legyenek a helyszíni Active Directoryba, így feltételes hozzáféréshez használhatók.
 
-- [Véletlen rlés](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) alapértelmezés szerint engedélyezve van túl sok egyidejű objektum törlése (500-nál több objektumot szinkronizálás) elkerülése érdekében. Ez a beállítás a vállalata igényeinek megfelelően módosíthatja.
+- [A véletlen törlés megakadályozása](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) alapértelmezés szerint engedélyezve van a túl sok egyidejű objektumtörlés megakadályozása érdekében (szinkronizálásonként több mint 500 objektum). Ezt a beállítást a szervezet igényeinek megfelelően módosíthatja.
 
-- Expressz telepítés esetén alapértelmezés szerint engedélyezett [az automatikus frissítés](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) , és így biztosítható a Azure AD csatlakozás verziója mindig aktuális.
+- [Az automatikus frissítés](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) alapértelmezés szerint engedélyezve van az expressz telepítésekhez, és biztosítja, hogy az Azure AD Connect verziója mindig aktuális legyen.

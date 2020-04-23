@@ -1,8 +1,8 @@
 ---
-title: 1800018 a POP- és IMAP-kiszolgáló beállításainak keresése
+title: 1800018 A POP- és Az IMAP-kiszolgáló beállításainak megkeresése
 ms.author: pdigia
 author: pebaum
-ms.date: 6/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 3a18978d520f400672bc50a455fcd6bc45337b48
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 76d1dadc2bfcb0589ae26fc4051acbbf913d19a7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525313"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716066"
 ---
-# <a name="find-your-pop-or-imap-server-settings"></a>A POP vagy IMAP-kiszolgáló beállításainak keresése
+# <a name="find-your-pop-or-imap-server-settings"></a>A POP- vagy IMAP-kiszolgáló beállításainak megkeresése
 
-Ha nem tudja, milyen beállításokat kell hozzáadnia a POP vagy IMAP-fiók Outlook, megtekintheti őket a saját [POP és IMAP e-mail beállítások Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+Ha nem tudja, hogy milyen beállításokkal kell hozzáadnia pop- vagy IMAP-fiókját az Outlookhoz, akkor az [Outlook POP- és IMAP-levelezési beállításaiban](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)is megkeresheti őket.
   
 > [!NOTE]
-> Tudja [engedélyezni és konfigurálni a POP3 kiszolgáló Exchange 2016](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)is?
+> Tudta, hogy [a POP3-at exchange 2016-kiszolgálón is engedélyezheti és konfigurálhatja?](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)
   

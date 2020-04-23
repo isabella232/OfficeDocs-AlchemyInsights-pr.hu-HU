@@ -1,9 +1,9 @@
 ---
-title: Hibrid-konfiguráló varázsló
+title: Hibrid konfiguráció varázsló
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 2d982afb2aecd35296d0e978f3b1fc04068c4138
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5e9469bce87338978b79e37baad1d16ea3bb0310
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539145"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717030"
 ---
-# <a name="hybrid-configuration-wizard"></a>Hibrid-konfiguráló varázsló
+# <a name="hybrid-configuration-wizard"></a>Hibrid konfiguráció varázsló
 
-A hibrid konfigurációs varázsló nem egy alkalmazás, amely segít beállítani a helyszíni Exchange-szervezet között az Office 365 új hibrid telepítés. Ha már van egy hibrid telepítés beállítása, a varázsló segítségével frissítse a hibrid telepítési beállításait. További információért tekintse meg:
+A Hibrid konfiguráció varázsló egy olyan alkalmazás, amely segít a helyszíni Exchange-szervezet és a Microsoft 365 közötti új hibrid telepítés beállításával. Ha már van egy hibrid központi telepítés beállítása, a varázsló segít a hibrid telepítési beállítások frissítésében. További információkért látogasson el:
   
-- [Hibrid konfigurációs varázsló futtatása](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Hibrid konfiguráció futtatása varázsló](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
-- [Hibrid-konfiguráló varázsló](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [Hibrid konfiguráció varázsló](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 
-- [Hibrid konfigurációs varázsló GYIK](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [Hibrid konfiguráció varázsló – gyakori kérdések](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)

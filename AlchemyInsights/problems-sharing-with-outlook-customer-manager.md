@@ -1,9 +1,9 @@
 ---
-title: problems-Sharing-with-Outlook-Customer-Manager
+title: problémák-megosztás-with-outlook-ügyfél-menedzser
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 91e1e9fa8177d1db6df02dd3376edc6cdd05fb60
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8363481f87f4f153047269fd4c3e72f442fafcc6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554479"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758828"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problémák az Outlook Customer Manager megosztása
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problémák az Outlook Customer Manager rel való megosztással kapcsolatban
 
-Ha megosztási problémák Outlook Customer Manager nem javasoljuk, hogy először próbálja a böngésző gyorsítótár kiürítése. Ha például az Internet Explorer programban ugyanúgy:
+Ha megosztási problémái vannak az Outlook Customer Managerrel, javasoljuk, hogy először próbálja meg törölni a böngésző gyorsítótárát. Az Internet Explorer ben például a következőket teszi:
 
-1. Ugrás a **Beállítások** > **Általános** > beállítások a **Böngészési előzmények** > **és a adatbázisok**.
-2. Törölje a gyorsítótár fájlokat a webhely "outlookapps.com."
-3. Indítsa újra az Outlook.
+1. A **Böngészési előzmények** > **gyorsítótárai és adatbázisai****csoportban** **nyissa** > meg az Általános beállítások > beállításai lapot.
+2. "outlookapps.com" webhely gyorsítótárfájljainak törlése.
+3. Indítsa újra az Outlook programot.
 
-Megosztásával kapcsolatos további tudnivalókért lásd: [Outlook Customer Manager megosztásához](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+A megosztásról további információt az Információk megosztása az Outlook Customer Manager programban című [témakörben](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20)talál.
