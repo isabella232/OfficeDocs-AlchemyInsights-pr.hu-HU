@@ -1,9 +1,9 @@
 ---
-title: A mobil eszközön 725 e-mail alias
+title: 725 E-mail alias használata mobileszközön
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 8ac6a99cb481e6f80aeec90bd0cb51eca52bdba4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d187a6686d986efd18a486fe262bcca5409d93ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531721"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726286"
 ---
-# <a name="email-aliases-on-mobile-devices"></a><span data-ttu-id="7643f-102">Mobileszközök e-mail aliasok</span><span class="sxs-lookup"><span data-stu-id="7643f-102">Email aliases on mobile devices</span></span>
+# <a name="email-aliases-on-mobile-devices"></a><span data-ttu-id="b123d-102">E-mail aliasok mobileszközökön</span><span class="sxs-lookup"><span data-stu-id="b123d-102">Email aliases on mobile devices</span></span>
 
-<span data-ttu-id="7643f-103">E-mail alias csupán egy másik e-mail címet, egy postafiókra van konfigurálva, ezért az üzenetek küldése hozzá egy felhasználói név fogják szállítani a postaládák és a mobil eszközön olvasható.</span><span class="sxs-lookup"><span data-stu-id="7643f-103">An email alias is just another email address that's configured on a mailbox, so messages sent to a user's alias will be delivered to their mailbox and will be readable on their mobile device.</span></span> <span data-ttu-id="7643f-104">További konfigurálásra van szükség.</span><span class="sxs-lookup"><span data-stu-id="7643f-104">No additional configuration is needed.</span></span>
+<span data-ttu-id="b123d-103">Az e-mail alias csak egy újabb e-mail-cím, amely egy postaládán van konfigurálva, így a felhasználó aliasába küldött üzenetek a postaládájukba kerülnek, és olvashatók lesznek a mobileszközükön.</span><span class="sxs-lookup"><span data-stu-id="b123d-103">An email alias is just another email address that's configured on a mailbox, so messages sent to a user's alias will be delivered to their mailbox and will be readable on their mobile device.</span></span> <span data-ttu-id="b123d-104">Nincs szükség további konfigurációra.</span><span class="sxs-lookup"><span data-stu-id="b123d-104">No additional configuration is needed.</span></span>
 
-<span data-ttu-id="7643f-105">De a felhasználó nem az üzenetek megválaszolásakor vagy új üzeneteket, alias használatával a címről.</span><span class="sxs-lookup"><span data-stu-id="7643f-105">But, a user can't reply to messages or send new messages using an alias as their From address.</span></span> <span data-ttu-id="7643f-106">Az összes kimenő üzenet lesz az elsődleges e-mail cím.</span><span class="sxs-lookup"><span data-stu-id="7643f-106">All outgoing messages will be from their primary email address.</span></span>
+<span data-ttu-id="b123d-105">A felhasználó azonban nem válaszolhat az üzenetekre, és nem küldhet új üzeneteket alias használatával feladói címként.</span><span class="sxs-lookup"><span data-stu-id="b123d-105">But, a user can't reply to messages or send new messages using an alias as their From address.</span></span> <span data-ttu-id="b123d-106">Minden kimenő üzenet az elsődleges e-mail címükről lesz.</span><span class="sxs-lookup"><span data-stu-id="b123d-106">All outgoing messages will be from their primary email address.</span></span>

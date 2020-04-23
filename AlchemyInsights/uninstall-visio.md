@@ -1,9 +1,9 @@
 ---
-title: Távolítsa el a Visio
+title: A Visio eltávolítása
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: 50ad03e19b746c37949ddc85c17428d7dbd79efe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d4ef4295bda8c4845271162f8b0b591ea810eddd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506445"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43728789"
 ---
-# <a name="uninstall-visio"></a><span data-ttu-id="49ae8-102">Távolítsa el a Visio</span><span class="sxs-lookup"><span data-stu-id="49ae8-102">Uninstall Visio</span></span>
+# <a name="uninstall-visio"></a><span data-ttu-id="023f5-102">A Visio eltávolítása</span><span class="sxs-lookup"><span data-stu-id="023f5-102">Uninstall Visio</span></span>
 
-<span data-ttu-id="49ae8-103">Töltse le és telepítse a [támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="49ae8-103">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+<span data-ttu-id="023f5-103">Töltse le és telepítse a [Támogatási és helyreállítási segédet](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="023f5-103">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
   
-1. <span data-ttu-id="49ae8-104">Megnyitása után az **Office eltávolítása termékek** válassza ki a verziót Visio távolítsa el, és kattintson a **Tovább gombra**.</span><span class="sxs-lookup"><span data-stu-id="49ae8-104">When it opens, from **Uninstall Office products** select the version of Visio you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="023f5-104">Amikor megnyílik, az **Office-termékek eltávolítása** területen válassza ki az eltávolítani kívánt Visio verziót, és válassza a **Tovább**gombot.</span><span class="sxs-lookup"><span data-stu-id="023f5-104">When it opens, from **Uninstall Office products** select the version of Visio you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="49ae8-105">Továbbra is a képernyőn keresztül, és indítsa újra a számítógépet, amikor a rendszer kéri.</span><span class="sxs-lookup"><span data-stu-id="49ae8-105">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="023f5-105">Folytassa a képernyőkön végighaladva, és amikor a rendszer kéri, indítsa újra a számítógépet.</span><span class="sxs-lookup"><span data-stu-id="023f5-105">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="49ae8-106">Újraindítás után a támogatási és helyreállítási segéd automatikusan újra megnyitja az eltávolítási folyamat befejezéséhez.</span><span class="sxs-lookup"><span data-stu-id="49ae8-106">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="023f5-106">Az újraindítás után a támogatási és helyreállítási segéd automatikusan újra megnyílik az eltávolítási folyamat befejezéséhez.</span><span class="sxs-lookup"><span data-stu-id="023f5-106">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="49ae8-107">Kövesse a további utasításokat, és ha a Visio Online-előfizetés, Visio telepítheti az Office 365 [portal fiók](https://portal.office.com/account#installs).</span><span class="sxs-lookup"><span data-stu-id="49ae8-107">Follow remaining prompts, and if you have a subscription to Visio Online, you can reinstall Visio from the Office 365 [account portal](https://portal.office.com/account#installs).</span></span> <span data-ttu-id="49ae8-108">További súgó vagy a Visio a Visio Professional például nem előfizetéses verziók telepítése esetén tanulmányozza [A Visio telepítése](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span><span class="sxs-lookup"><span data-stu-id="49ae8-108">For additional help or help with installing non-subscription versions of Visio such as Visio Professional, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span> 
+3. <span data-ttu-id="023f5-107">Kövesse a fennmaradó utasításokat, és ha a Visio Online-előfizetéssel rendelkezik, újratelepítheti a Visio alkalmazást a Microsoft [365-fiókportálról.](https://portal.office.com/account#installs)</span><span class="sxs-lookup"><span data-stu-id="023f5-107">Follow remaining prompts, and if you have a subscription to Visio Online, you can reinstall Visio from the Microsoft 365 [account portal](https://portal.office.com/account#installs).</span></span> <span data-ttu-id="023f5-108">A Visio nem előfizetéses verzióinak, például a Visio Professional programnak a telepítésével kapcsolatos további segítségért vagy súgóért [olvassa el a Visio telepítése című](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)témakört.</span><span class="sxs-lookup"><span data-stu-id="023f5-108">For additional help or help with installing non-subscription versions of Visio such as Visio Professional, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span> 
     
-<span data-ttu-id="49ae8-109">Egyéb eltávolítási lehetőségek listája jelölje ki az [Office eltávolítása a számítógépről](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span><span class="sxs-lookup"><span data-stu-id="49ae8-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span>
+<span data-ttu-id="023f5-109">Az egyéb eltávolítási lehetőségek listájához válassza [az Office eltávolítása pc-ről](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936)lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="023f5-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).</span></span>
