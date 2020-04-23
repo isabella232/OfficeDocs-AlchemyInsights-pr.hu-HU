@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958540"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537743"
 ---
 # <a name="general-migration-performance-guidance"></a>Az áttelepítési teljesítményt ismertető általános útmutató
 
-**Fontos**: Ezekben a korábban nem látott időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
-**Az áttelepítési teljesítményt ismertető útmutató**
+**Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
-Az áttelepítési teljesítményt befolyásolhatja a hálózati infrastruktúra, a fájlok mérete, az áttelepítés időpontja és a leszabályozás. Ezek megértése segítséget nyújthat az áttelepítés megtervezéséhez és a lehető leghatékonyabb elvégzéséhez.
+**Migrálási lehetőségek**
 
-- [Az áttelepítési teljesítményt ismertető általános útmutató](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+A tartalmak SharePoint Online-ra való áttelepítéséhez különböző lehetőségek állnak rendelkezésre, az áthelyezni kívánt fájlok méretétől és mennyiségétől függően, kérjük, tekintse meg az [itt található](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online) lehetőségek listáját.
+
+A tartalom áttelepítésével kapcsolatos további információkat az alábbi hivatkozásokon talál.
+
+- [SharePoint Áttelepítőeszköz](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Első lépések az Áttelepítéskezelővel](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
