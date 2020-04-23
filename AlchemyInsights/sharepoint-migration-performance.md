@@ -1,5 +1,5 @@
 ---
-title: SharePoint áttelepítési teljesítmény
+title: Útmutatás a SharePoint áttelepítési teljesítmény kezeléséhez
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537779"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789304"
 ---
-# <a name="sharepoint-migration-performance"></a>SharePoint áttelepítési teljesítmény
+# <a name="sharepoint-migration-performance-guidance"></a>Útmutatás a SharePoint áttelepítési teljesítmény kezeléséhez
 
-**Fontos**: Ezekben a korábban nem látott időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
+Az áttelepítési teljesítményt befolyásolhatja a hálózati infrastruktúra, a fájlok mérete, az áttelepítés időpontja és a leszabályozás.
 
-**Áttelepítési teljesítmény**
-
-Az áttelepítési teljesítményt befolyásolhatja a hálózati infrastruktúra, a fájlok mérete, az áttelepítés időpontja és a leszabályozás. Ezek megértése segítséget nyújthat az áttelepítés megtervezéséhez és a lehető leghatékonyabb elvégzéséhez.
-
-További információkat az alábbi hivatkozásokon talál.
+Kérjük, hogy további információért keresse fel ezt a lapot:
 
 - [Az áttelepítési teljesítményt ismertető általános útmutató](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [A szabályozott és a blokkolt állapot elkerülése a SharePoint Online-ban](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [A SharePoint Áttelepítőeszköz letöltése és telepítése](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
