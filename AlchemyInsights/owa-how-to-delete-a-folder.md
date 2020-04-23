@@ -1,9 +1,9 @@
 ---
-title: '8000016: mappa törlése'
+title: '8000016: Mappa törlése'
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b605a9fa656eb9439c8c9fd6087c6999233fcc3c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36556531"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742987"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a><span data-ttu-id="06dd8-102">Hogyan törölhetek egy mappát az Outlook a weben</span><span class="sxs-lookup"><span data-stu-id="06dd8-102">How to delete a folder in Outlook on the web</span></span>
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a><span data-ttu-id="ff0ed-102">Mappa törlése a Webes Outlookban</span><span class="sxs-lookup"><span data-stu-id="ff0ed-102">How to delete a folder in Outlook on the web</span></span>
 
-1. <span data-ttu-id="06dd8-103">A mappalistán kattintson a jobb gombbal a törölni kívánt mappára vagy almappára.</span><span class="sxs-lookup"><span data-stu-id="06dd8-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
-2. <span data-ttu-id="06dd8-104">Válassza a **delete (Törlés) mappát**.</span><span class="sxs-lookup"><span data-stu-id="06dd8-104">Select **Delete folder**.</span></span>
-3. <span data-ttu-id="06dd8-105">Jóváhagyásához nyomjuk meg **az OK** gombot.</span><span class="sxs-lookup"><span data-stu-id="06dd8-105">Select **OK** to confirm.</span></span>
+1. <span data-ttu-id="ff0ed-103">A mappaablaktáblán kattintson a jobb gombbal a törölni kívánt mappára vagy almappára.</span><span class="sxs-lookup"><span data-stu-id="ff0ed-103">In the folder pane, right-click the folder or subfolder you want to delete.</span></span>
+2. <span data-ttu-id="ff0ed-104">Válassza **a Mappa törlése**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="ff0ed-104">Select **Delete folder**.</span></span>
+3. <span data-ttu-id="ff0ed-105">A megerősítéshez válassza az **OK gombot.**</span><span class="sxs-lookup"><span data-stu-id="ff0ed-105">Select **OK** to confirm.</span></span>
 
-<span data-ttu-id="06dd8-106">További információ: [üzenetmappák használata az Outlook alkalmazásban a weben](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span><span class="sxs-lookup"><span data-stu-id="06dd8-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
+<span data-ttu-id="ff0ed-106">További információ: [Az üzenetmappák megmunkálata a Webes Outlookban](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="ff0ed-106">To learn more, see [Working with message folders in Outlook on the web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).</span></span>
 

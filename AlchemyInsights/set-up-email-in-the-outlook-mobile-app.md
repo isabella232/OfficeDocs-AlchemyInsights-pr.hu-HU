@@ -1,9 +1,9 @@
 ---
-title: 1800014 e-mail beállítása az Outlook mobilalkalmazásban
+title: 1800014 A levelezés beállítása az Outlook mobilalkalmazásban
 ms.author: anahitab
 author: anahitab
 manager: dansimp
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: get-started-article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36734167"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767575"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="78068-102">E-mail beállítása az Outlook mobilalkalmazásban</span><span class="sxs-lookup"><span data-stu-id="78068-102">Set up email in the Outlook mobile app</span></span>
+# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="ac39c-102">A levelezés beállítása az Outlook mobilalkalmazásban</span><span class="sxs-lookup"><span data-stu-id="ac39c-102">Set up email in the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="78068-103">Kiválaszt **kap kezdett** ha-a ' első időd elintézés megjelöl elektronikus levél-ban mozgatható app.</span><span class="sxs-lookup"><span data-stu-id="78068-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="78068-104">Ellenkező esetben érintse meg a **menü** , **majd érintse meg** \> a **fiók** \> hozzáadása **e-mail fiók**hozzáadása menüpontot.</span><span class="sxs-lookup"><span data-stu-id="78068-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
+1. <span data-ttu-id="ac39c-103">Válassza **az Első lépések** lehetőséget, ha ez az első alkalom, hogy a mobilalkalmazásban állítja be a levelezést.</span><span class="sxs-lookup"><span data-stu-id="ac39c-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="ac39c-104">Ellenkező esetben koppintson a **Menü,** majd a **Fiók** \> hozzáadása **e-mail fiók** **hozzáadása** \> parancsra.</span><span class="sxs-lookup"><span data-stu-id="ac39c-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
 
-2. <span data-ttu-id="78068-105">Belép-a teli elektronikus levél cím és csap **folytatódik** vagy **összead számla**.</span><span class="sxs-lookup"><span data-stu-id="78068-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
+2. <span data-ttu-id="ac39c-105">Adja meg a teljes e-mail címét, és koppintson **a Folytatás** vagy a Fiók **hozzáadása elemre.**</span><span class="sxs-lookup"><span data-stu-id="ac39c-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
 
-3. <span data-ttu-id="78068-106">Adja meg e-mail fiókjának jelszavát, majd koppintson a **Bejelentkezés vagy a** **következő gombra**.</span><span class="sxs-lookup"><span data-stu-id="78068-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
+3. <span data-ttu-id="ac39c-106">Adja meg e-mail fiókjának jelszavát, és koppintson **a Bejelentkezés** vagy **a Tovább gombra.**</span><span class="sxs-lookup"><span data-stu-id="ac39c-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
 
-4. <span data-ttu-id="78068-107">Ha a [többtényezős hitelesítés](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) engedélyezve van, ellenőrizze a beállított módszer (6 jegyű kód, telefonhívás vagy Microsoft hitelesítő alkalmazás) használatát.</span><span class="sxs-lookup"><span data-stu-id="78068-107">If [multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
+4. <span data-ttu-id="ac39c-107">Ha a [többtényezős hitelesítés](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) engedélyezve van, ellenőrizze a beállított módszerrel (6 jegyű kód, telefonhívás vagy Microsoft Authenticator alkalmazás).</span><span class="sxs-lookup"><span data-stu-id="ac39c-107">If [multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
 
-5. <span data-ttu-id="78068-108">Ha további informatikai rendszergazdai házirendek vannak érvényben, koppintson az **aktiválás** elemre a engedélyezéséhez.</span><span class="sxs-lookup"><span data-stu-id="78068-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
+5. <span data-ttu-id="ac39c-108">Ha további rendszergazdai házirendek vannak érvényben, az **Aktiválás** elemre koppintva engedélyezheti őket.</span><span class="sxs-lookup"><span data-stu-id="ac39c-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
 
-6. <span data-ttu-id="78068-109">Az Outlook engedélyt kérhet a naptár, a névjegyek és egyéb információk elérésére.</span><span class="sxs-lookup"><span data-stu-id="78068-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="78068-110">Válassza az **Igen** vagy az **Engedélyezés**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="78068-110">Select **Yes** or **Allow**.</span></span>
+6. <span data-ttu-id="ac39c-109">Az Outlook engedélyt kérhet a naptár, a névjegyek és egyéb adatok eléréséhez.</span><span class="sxs-lookup"><span data-stu-id="ac39c-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="ac39c-110">Válassza az **Igen** vagy **az Engedélyezés**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="ac39c-110">Select **Yes** or **Allow**.</span></span>
 
-<span data-ttu-id="78068-111">Kap részletes felállít oktatás részére [Kilátás részére Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) vagy [Kilátás részére iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) itt.</span><span class="sxs-lookup"><span data-stu-id="78068-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
+<span data-ttu-id="ac39c-111">Az [Android Outlookés az](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) [iOS Outlook](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) részletes beállítási utasításait itt olvashatja el.</span><span class="sxs-lookup"><span data-stu-id="ac39c-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
   
- <span data-ttu-id="78068-112">**Segítségre van szükséged?**</span><span class="sxs-lookup"><span data-stu-id="78068-112">**Need help?**</span></span>
+ <span data-ttu-id="ac39c-112">**Segítségre van szüksége?**</span><span class="sxs-lookup"><span data-stu-id="ac39c-112">**Need help?**</span></span>
   
-- [<span data-ttu-id="78068-113">A mobiltelefonon történő e-mail beállítás hibaelhárítása</span><span class="sxs-lookup"><span data-stu-id="78068-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [<span data-ttu-id="ac39c-113">A levelezés beállítása mobilon – problémamegoldás</span><span class="sxs-lookup"><span data-stu-id="ac39c-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [<span data-ttu-id="78068-114">Get in-app segítséget az Outlook az iOS és Android</span><span class="sxs-lookup"><span data-stu-id="78068-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [<span data-ttu-id="ac39c-114">Alkalmazáson belüli súgó az iOS és az Android Outlookhoz</span><span class="sxs-lookup"><span data-stu-id="ac39c-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

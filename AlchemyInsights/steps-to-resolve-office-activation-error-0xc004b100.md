@@ -1,8 +1,8 @@
 ---
-title: Office Aktiválás a 0xC004B100 jelű hiba elhárításának lépései
+title: Az Office 0xc004b100-es aktiválási hibájának elhárításának lépései
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,17 +12,17 @@ ms.custom:
 - "1262"
 - "2000021"
 ms.assetid: 05d36350-3b1e-4a5b-bbb1-0791ae727b8a
-ms.openlocfilehash: 49ebcd433414a07becb035c36903d53a77f98872
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ac4692a9e0af76ce1516882177ab3b8cc61c20c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534385"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763970"
 ---
-# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a><span data-ttu-id="749dd-102">Office Aktiválás a 0xC004B100 jelű hiba elhárításának lépései</span><span class="sxs-lookup"><span data-stu-id="749dd-102">Steps to resolve Office activation error 0xc004b100</span></span>
+# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a><span data-ttu-id="bf797-102">Az Office 0xc004b100-es aktiválási hibájának elhárításának lépései</span><span class="sxs-lookup"><span data-stu-id="bf797-102">Steps to resolve Office activation error 0xc004b100</span></span>
 
-<span data-ttu-id="749dd-103">Próbálja meg ezeket az oldatokat az Office Aktiválás 0xC004B100 jelű hiba elhárításához:</span><span class="sxs-lookup"><span data-stu-id="749dd-103">Try these solutions to fix the Office activation error 0xc004b100:</span></span>
+<span data-ttu-id="bf797-103">Próbálkozzon az alábbi megoldásokkal a 0xc004b100 Office-aktiválási hiba kijavításához:</span><span class="sxs-lookup"><span data-stu-id="bf797-103">Try these solutions to fix the Office activation error 0xc004b100:</span></span>
   
-1. <span data-ttu-id="749dd-104">Hajtsa végre az [Office Online javítása](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="749dd-104">Perform an [Online Repair of Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
+1. <span data-ttu-id="bf797-104">Az [Office online javításának](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)végrehajtása.</span><span class="sxs-lookup"><span data-stu-id="bf797-104">Perform an [Online Repair of Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
 
-2. <span data-ttu-id="749dd-105">Töltse le és telepítse a [támogatási és helyreállítási Segéd](https://aka.ms/SARA-OfficeActivation-Alchemy) , és a **Aktiválás hibaelhárító**futtatása.</span><span class="sxs-lookup"><span data-stu-id="749dd-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
+2. <span data-ttu-id="bf797-105">Töltse le és telepítse a [támogatási és helyreállítási segédet,](https://aka.ms/SARA-OfficeActivation-Alchemy) és futtassa az **aktiválási hibaelhárítót.**</span><span class="sxs-lookup"><span data-stu-id="bf797-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>

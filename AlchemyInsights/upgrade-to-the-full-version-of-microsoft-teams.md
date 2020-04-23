@@ -1,8 +1,8 @@
 ---
-title: A teljes verziójának a Microsoft Teams
+title: Frissítés a Microsoft Teams teljes verziójára
 ms.author: pebaum
 author: pebaum
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 4fa566acd7fab0b43e4614c8a7c7ae76bcabaa5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74f242f4023e34d30787b91cb710bd658f1282ca
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506219"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766531"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="488bc-102">A teljes verziójának a Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="488bc-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="17dbc-102">Frissítés a Microsoft Teams teljes verziójára</span><span class="sxs-lookup"><span data-stu-id="17dbc-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="488bc-103">Kell frissíteni a szabad teljes változatát a Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="488bc-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="488bc-104">Lásd: [Frissítés a Microsoft Office 365-előfizetés verzió szabadon csapatok](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="488bc-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span></span>
+<span data-ttu-id="17dbc-103">Ingyenesverzióról a Microsoft Teams teljes verziójára szeretne frissíteni?</span><span class="sxs-lookup"><span data-stu-id="17dbc-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="17dbc-104">Lásd: [A Microsoft Teams ingyenes frissítése a Microsoft 365 előfizetéses verziójára](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="17dbc-104">See [Upgrade Microsoft Teams free to Microsoft 365 subscription version](https://docs.microsoft.com/microsoftteams/upgrade-freemium)</span></span>
 
-<span data-ttu-id="488bc-105">Ezek a követelmények teljesítéséhez szüksége:</span><span class="sxs-lookup"><span data-stu-id="488bc-105">You’ll need to meet these requirements:</span></span>
+<span data-ttu-id="17dbc-105">Az alábbi követelményeknek kell megfelelnie:</span><span class="sxs-lookup"><span data-stu-id="17dbc-105">You'll need to meet these requirements:</span></span>
 
-- <span data-ttu-id="488bc-106">Te vagy a személy, aki regisztrált csoportok ingyenes verzióját.</span><span class="sxs-lookup"><span data-stu-id="488bc-106">You’re the person who signed up for the current free version of Teams.</span></span>
-- <span data-ttu-id="488bc-107">Ha a saját tartomány, azt már nem lehet társított Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="488bc-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
-- <span data-ttu-id="488bc-108">Ha frissíti az adatokat átvinni, elő kell fizetnie a frissítési folyamat során.</span><span class="sxs-lookup"><span data-stu-id="488bc-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="488bc-109">Ha az Office 365 a frissítési folyamat kívül vásárolta, adatok nem lehet átvinni.</span><span class="sxs-lookup"><span data-stu-id="488bc-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+- <span data-ttu-id="17dbc-106">Te vagy az a személy, aki feliratkozott a Teams aktuális ingyenes verziójára.</span><span class="sxs-lookup"><span data-stu-id="17dbc-106">You're the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="17dbc-107">Ha saját tartománnyal rendelkezik, az már nem társítható az Azure Active Directoryhoz.</span><span class="sxs-lookup"><span data-stu-id="17dbc-107">If you have your own domain, it can't already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="17dbc-108">Ha frissítéskor szeretne adatokat átvinni, elő kell fizetnie a frissítési folyamat során.</span><span class="sxs-lookup"><span data-stu-id="17dbc-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="17dbc-109">Ha a frissítési folyamaton kívül vásárolt előfizetést, nem vihet át adatokat.</span><span class="sxs-lookup"><span data-stu-id="17dbc-109">If you bought a subscription outside of the upgrade process, you can't transfer data.</span></span>

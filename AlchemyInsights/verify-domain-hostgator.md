@@ -1,5 +1,5 @@
 ---
-title: Tartomány ellenőrzése a Hostgator segítségével
+title: A tartomány igazolása a Hostgator segítségével
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ff9c537b12d69253c091f4b7d2301397c273620f
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: aece5e267f5a9a03f374e75643cd9a5e4fa6c21d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326159"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765415"
 ---
-# <a name="verify-your-domain-with-hostgator"></a><span data-ttu-id="2af97-102">Tartomány ellenőrzése a Hostgator segítségével</span><span class="sxs-lookup"><span data-stu-id="2af97-102">Verify your domain with Hostgator</span></span>
+# <a name="verify-your-domain-with-hostgator"></a><span data-ttu-id="fb8ee-102">A tartomány igazolása a Hostgator segítségével</span><span class="sxs-lookup"><span data-stu-id="fb8ee-102">Verify your domain with Hostgator</span></span>
 
-<span data-ttu-id="2af97-103">A tartomány ellenőrzéséhez txt rekordot kell hozzáadnia a tartományregisztrálóhoz, hogy ellenőrizze, hogy ön a tartomány tulajdonosa-e.</span><span class="sxs-lookup"><span data-stu-id="2af97-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="fb8ee-103">A tartomány igazolásához txt rekordot kell hozzáadnia a tartományregisztrálóhoz, hogy meggyőződjön arról, hogy Ön a tartomány tulajdonosa.</span><span class="sxs-lookup"><span data-stu-id="fb8ee-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="2af97-104">Először kövesse a [Tartomány hozzáadása varázslót](https://portal.office.com/adminportal/home#/Domains) a **Beállítások** \> **tartományok**, majd a **Tartomány hozzáadása**gombra kattintva.</span><span class="sxs-lookup"><span data-stu-id="2af97-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="fb8ee-104">Először válassza a [Tartomány hozzáadása varázslót](https://portal.office.com/adminportal/home#/Domains) a **Beállítások** \> **tartományok**, majd a Tartomány **hozzáadása parancsra**kattintva.</span><span class="sxs-lookup"><span data-stu-id="fb8ee-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="2af97-105">A [dns-rekordok létrehozása az Office 365-ben](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) című témakörben található részletes útmutatásért olvassa el.</span><span class="sxs-lookup"><span data-stu-id="2af97-105">See [Create DNS records at Hostgator for Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) for step-by-step instructions.</span></span>
+<span data-ttu-id="fb8ee-105">A [DNS-rekordok létrehozása a Microsoft 365-ös állomáshoz](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) című témakörben részletes útmutatást talál.</span><span class="sxs-lookup"><span data-stu-id="fb8ee-105">See [Create DNS records at Hostgator for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) for step-by-step instructions.</span></span>

@@ -1,9 +1,9 @@
 ---
-title: Minden 8000090 Outlook.com kiválasztása
+title: 8000090 Outlook.com az összes
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6efc18bb8c906f273083026985ec21acfe0429ee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc4bf01b12e3864fc0112ef3e20410d2f7ccb0b5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535321"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743599"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a><span data-ttu-id="7172f-102">"Az egészet kijelölni" az Outlook.com módjáról</span><span class="sxs-lookup"><span data-stu-id="7172f-102">How to "select all" in Outlook.com</span></span>
+# <a name="how-to-select-all-in-outlookcom"></a><span data-ttu-id="17a84-102">Hogyan "válassza ki az összes" Outlook.com</span><span class="sxs-lookup"><span data-stu-id="17a84-102">How to "select all" in Outlook.com</span></span>
 
-<span data-ttu-id="7172f-103">Választhat az összes látható az összes üzenet esetén.</span><span class="sxs-lookup"><span data-stu-id="7172f-103">You can only select all if all messages are visible.</span></span> <span data-ttu-id="7172f-104">Ez az üzenet nem jelenik meg a véletlen műveletek elkerülése érdekében.</span><span class="sxs-lookup"><span data-stu-id="7172f-104">This is to prevent accidental actions on messages you cannot see.</span></span>
+<span data-ttu-id="17a84-103">Az összeset csak akkor jelölheti ki, ha az összes üzenet látható.</span><span class="sxs-lookup"><span data-stu-id="17a84-103">You can only select all if all messages are visible.</span></span> <span data-ttu-id="17a84-104">Ez megakadályozza a nem látható üzenetek véletlen műveleteit.</span><span class="sxs-lookup"><span data-stu-id="17a84-104">This is to prevent accidental actions on messages you cannot see.</span></span>
 
-<span data-ttu-id="7172f-105">**CTRL + kattintás** kijelöli az egyes üzenetek több.</span><span class="sxs-lookup"><span data-stu-id="7172f-105">**CTRL + click** selects multiple individual messages.</span></span>
+<span data-ttu-id="17a84-105">**CTRL + kattintás** több üzenet kijelölésével.</span><span class="sxs-lookup"><span data-stu-id="17a84-105">**CTRL + click** selects multiple individual messages.</span></span>
 
-<span data-ttu-id="7172f-106">**SHIFT + kattintás** kijelöli az összes üzenet között az első és utolsó üzenetet választja.</span><span class="sxs-lookup"><span data-stu-id="7172f-106">**SHIFT + click** selects all messages between the first and last message you select.</span></span>
+<span data-ttu-id="17a84-106">**Shift + kattintással** kijelöli az összes üzenetet az első és az utolsó kijelölt üzenet között.</span><span class="sxs-lookup"><span data-stu-id="17a84-106">**SHIFT + click** selects all messages between the first and last message you select.</span></span>
