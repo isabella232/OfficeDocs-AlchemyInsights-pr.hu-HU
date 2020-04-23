@@ -1,9 +1,9 @@
 ---
-title: '8000085: Outlook.com: nem tudja letölteni a fájlokat a Chrome böngészőben'
+title: '8000085: Outlook.com: Nem lehet letölteni a fájlokat a Chrome-ban'
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "8000085"
 - "1352"
 ms.assetid: ''
-ms.openlocfilehash: f8b62ce98c125360bb48c36339f9b9593fc5a55b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 67dd61fec153c2d35d62dfb9a92b7ac2550186b5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511597"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719540"
 ---
-# <a name="cant-download-files-in-chrome"></a>Nem tudja letölteni a fájlokat a Chrome böngészőben
+# <a name="cant-download-files-in-chrome"></a>Nem lehet letölteni a fájlokat a Chrome-ban
 
-**A probléma** A hibát, amely megakadályozza, hogy egyes ügyfelek nem tudnak fájlokat letölteni a Google Chrome böngésző használata során tudomására jutott vagyunk. 
+**Kiadás** Tudomásunkra került egy olyan probléma, amely megakadályozza, hogy egyes ügyfelek fájlokat töltsenek le a Google Chrome böngésző használata során. 
 
-**A megoldás** Használja a [Microsoft él](https://www.microsoft.com/en-gb/windows/microsoft-edge) vagy más webböngésző.
-További tudnivalók a [fájlok letöltése](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy)és mellékletek Outlook.com.
+**Kerülő megoldás** Használja a [Microsoft Edge-et](https://www.microsoft.com/windows/microsoft-edge) vagy egy másik webböngészőt.
+További információ a [fájlok és Outlook.com mellékletek letöltéséről.](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy)
 

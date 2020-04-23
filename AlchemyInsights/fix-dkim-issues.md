@@ -1,28 +1,28 @@
 ---
-title: DKIM telepítésével kapcsolatos problémák megoldása
+title: A DKIM beállításával kapcsolatos problémák megoldása
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 4d6dadbcbf71fe6e9ea56d6a82a7d8ababdd38ef
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: d725eb0d46dcbf1b5b6d77ca9f59fcafa5298bf1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765131"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717564"
 ---
-# <a name="fix-dkim-setup-issues"></a>DKIM telepítésével kapcsolatos problémák megoldása
+# <a name="fix-dkim-setup-issues"></a>A DKIM beállításával kapcsolatos problémák megoldása
 
-Ha az egyéni tartomány DKIM engedélyezése problémákat tapasztal, használja az alábbi lépéseket:
+Ha problémákat tapasztal a DKIM egyéni tartományhoz való engedélyezésével kapcsolatban, kövesse az alábbi lépéseket:
 
-- A legtöbb DKIM telepítésével kapcsolatos problémák kapcsolatos helytelen DNS-rekordokat. Ellenőrizze a DKIM CNAME rekordot (**nem** TXT rekord) megfelelően van formázva. További tudnivalókért tanulmányozza a [témakör](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+- A DKIM legtöbb beállítási problémája helytelen DNS-rekordokhoz kapcsolódik. Ellenőrizze, hogy a DKIM CNAME rekord **(nem** TXT rekord) megfelelően van-e formázva. További információt ebben a [témakörben talál.](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)
 
-- Miután létrehozása vagy frissítése a DKIM DNS-rekordokat a DNS-szolgáltatás a tartományba (általában a tartomány hivatalvezető), várja a DNS-rekordok terjesztése.
+- Miután létrehozta vagy frissítette a DKIM DNS-rekordjait a tartománydns-szolgáltatónál (általában a tartományregisztrálónál), várja meg, amíg a DNS-rekordok propagálnak.
 
-- Ha nem lehet létrehozni a DKIM DNS bejegyzések az admin center, csere \<CustomDomain\> az egyéni tartomány (például contoso.com) és futtatni ezt a parancsot az [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true`.
+- Ha nem tudja létrehozni a DKIM DNS-rekordokat a \<felügyeleti\> központban, lecserélheti az Egyéni tartományt az egyéni tartományra (például contoso.com), és futtathatja ezt a parancsot az [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)ben: `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true`.
