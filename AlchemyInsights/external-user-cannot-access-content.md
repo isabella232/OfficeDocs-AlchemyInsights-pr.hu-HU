@@ -1,5 +1,5 @@
 ---
-title: A külső felhasználó nem férhet hozzá a tartalomhoz
+title: A külső felhasználó nem tud hozzáférni a tartalomhoz
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,22 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: f64a1fb03d951fea5de86a8dd91669f3aa0f7067
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1702dcbf833b5f320620f9f6cc2f84aa3ab4c1d3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049735"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788632"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a><span data-ttu-id="f568f-102">A külső felhasználó nem férhet hozzá a SharePoint vagy az OneDrive tartalomhoz</span><span class="sxs-lookup"><span data-stu-id="f568f-102">External user cannot access SharePoint or OneDrive content</span></span>
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a><span data-ttu-id="f82a0-102">A külső felhasználó nem tudja elérni a SharePoint- vagy OneDrive-tartalmat</span><span class="sxs-lookup"><span data-stu-id="f82a0-102">External user cannot access SharePoint or OneDrive content</span></span>
 
-<span data-ttu-id="f568f-103">Ha egy külső felhasználó meghívást kapott, és nem tud hozzáférni a tartalomhoz, kérjük, próbálja meg meglátogatni az alábbi linkekre:</span><span class="sxs-lookup"><span data-stu-id="f568f-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
+<span data-ttu-id="f82a0-103">Ha egy külső felhasználó meghívást kapott, és nem tud hozzáférni a tartalomhoz, kérjük, látogasson el az alábbi linkekre:</span><span class="sxs-lookup"><span data-stu-id="f82a0-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
 
-- [<span data-ttu-id="f568f-104">"Hozzáférés megtagadva", "engedélyre van szüksége a webhelyhez való hozzáféréshez", vagy "a felhasználó nem található a könyvtárban" hiba a SharePoint Online szolgáltatásban és az OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="f568f-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="f568f-105">"A szervezet irányelvei nem teszik lehetővé az ilyen felhasználókkal való megosztást" hiba egy elem vagy hely megosztásakor a SharePoint Online rendszerben vagy az OneDrive for Business alkalmazásban.</span><span class="sxs-lookup"><span data-stu-id="f568f-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="f568f-106">Cserépdarab választások van szürke ki mikor cserépdarab-ból SharePoint Online vagy OneDrive</span><span class="sxs-lookup"><span data-stu-id="f568f-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="f568f-107">Hibaüzenet jelenik meg, amikor egy külső felhasználó elfogad egy SharePoint Online-meghívást egy másik fiókkal</span><span class="sxs-lookup"><span data-stu-id="f568f-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [<span data-ttu-id="f568f-108">OSE megosztási hibák SharePoint és OneDrive</span><span class="sxs-lookup"><span data-stu-id="f568f-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
-
-
-
+- [<span data-ttu-id="f82a0-104">A külső felhasználók engedélyhibákat kapnak a webhely elérésekor</span><span class="sxs-lookup"><span data-stu-id="f82a0-104">External users receive permission errors when accessing a site</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="f82a0-105">"A szervezet szabályzatai nem teszik lehetővé a megosztást ezekkel a felhasználókkal" hibaüzenet jelenik meg, amikor egy elemet vagy webhelyet megoszt a SharePoint Online-ban vagy a OneDrive Vállalati verzióban</span><span class="sxs-lookup"><span data-stu-id="f82a0-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="f82a0-106">A megosztási beállítások szürkén jelennek meg a SharePoint Online-ból vagy a OneDrive-ról történő megosztáskor</span><span class="sxs-lookup"><span data-stu-id="f82a0-106">Sharing options are grayed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

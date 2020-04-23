@@ -1,5 +1,5 @@
 ---
-title: A postaláda-kvóta túllépve
+title: Postaládakvóta túllépve
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 7e1108cb4c9f2c5deecb32dc669800c5d23cc975
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 898c80d915ba24d9977b1f96063fa09f99c006fc
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286164"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784693"
 ---
-# <a name="mailbox-quota-exceeded"></a><span data-ttu-id="ba15e-102">A postaláda-kvóta túllépve</span><span class="sxs-lookup"><span data-stu-id="ba15e-102">Mailbox Quota Exceeded</span></span>
+# <a name="mailbox-quota-exceeded"></a><span data-ttu-id="c59ce-102">Postaládakvóta túllépve</span><span class="sxs-lookup"><span data-stu-id="c59ce-102">Mailbox Quota Exceeded</span></span>
 
-<span data-ttu-id="ba15e-103">Túllépte a fiókra vonatkozó postaláda-kvótát.</span><span class="sxs-lookup"><span data-stu-id="ba15e-103">You have exceeded your mailbox quota for your account.</span></span> <span data-ttu-id="ba15e-104">A jobb teljesítmény érdekében számos lépést tehet a beérkező üzenetek méretének csökkentéséhez.</span><span class="sxs-lookup"><span data-stu-id="ba15e-104">There are several steps you can take to reduce the size of your inbox for better performance.</span></span>
+<span data-ttu-id="c59ce-103">Túllépte a fiókhoz tartozó postaládakvótát.</span><span class="sxs-lookup"><span data-stu-id="c59ce-103">You have exceeded your mailbox quota for your account.</span></span> <span data-ttu-id="c59ce-104">A jobb teljesítmény érdekében számos lépést tehet a beérkezett üzenetek méretének csökkentése érdekében.</span><span class="sxs-lookup"><span data-stu-id="c59ce-104">There are several steps you can take to reduce the size of your inbox for better performance.</span></span>
 
-1. <span data-ttu-id="ba15e-105">Régebbi beérkezett üzenetek törlése.</span><span class="sxs-lookup"><span data-stu-id="ba15e-105">Delete older inbox items.</span></span> <span data-ttu-id="ba15e-106">Ezt gyorsan megteheti az alkalmazásban, ha egyéni Pöccintési mozgást állít be: **Beállítások > Pöccintési beállítások**.</span><span class="sxs-lookup"><span data-stu-id="ba15e-106">You can do this quickly in the app by setting a custom Swipe motion: **Settings > Swipe Options**.</span></span> <span data-ttu-id="ba15e-107">Ezzel a készlettel könnyedén végigpöccintheti a beérkezett üzenetekmappát, hogy kitörölje.</span><span class="sxs-lookup"><span data-stu-id="ba15e-107">With this set, you can easily swipe your way through your inbox to clear it out.</span></span>
+1. <span data-ttu-id="c59ce-105">Régebbi beérkezett üzenetek mappáinak törlése.</span><span class="sxs-lookup"><span data-stu-id="c59ce-105">Delete older inbox items.</span></span> <span data-ttu-id="c59ce-106">Ezt gyorsan megteheti az alkalmazásban, ha egyéni Pöccintési mozgást állít be: **Beállítások > pöccintési beállítások**.</span><span class="sxs-lookup"><span data-stu-id="c59ce-106">You can do this quickly in the app by setting a custom Swipe motion: **Settings > Swipe Options**.</span></span> <span data-ttu-id="c59ce-107">Ezzel a készlettel könnyedén végigpöccintheti a beérkezett üzenetek et, hogy törölje azt.</span><span class="sxs-lookup"><span data-stu-id="c59ce-107">With this set, you can easily swipe your way through your inbox to clear it out.</span></span>
 
-2. <span data-ttu-id="ba15e-108">Ürítse ki a spam mappákat.</span><span class="sxs-lookup"><span data-stu-id="ba15e-108">Empty your spam folders.</span></span> <span data-ttu-id="ba15e-109">Menj közvetlenül a spam mappákba, és nyomd meg **az üres spamet.**</span><span class="sxs-lookup"><span data-stu-id="ba15e-109">Go directly into your spam folders and press **empty spam**.</span></span>
+2. <span data-ttu-id="c59ce-108">Ürítse ki a spam mappákat.</span><span class="sxs-lookup"><span data-stu-id="c59ce-108">Empty your spam folders.</span></span> <span data-ttu-id="c59ce-109">Menjen közvetlenül a spam mappákba, és nyomja **meg az üres spam**.</span><span class="sxs-lookup"><span data-stu-id="c59ce-109">Go directly into your spam folders and press **empty spam**.</span></span>
 
-3. <span data-ttu-id="ba15e-110">Androidon egyetlen kattintással kiürítheti a szemétmappákat.</span><span class="sxs-lookup"><span data-stu-id="ba15e-110">On Android, you may empty your trash folders with one click.</span></span> <span data-ttu-id="ba15e-111">Menj közvetlenül a kukába, és nyomd meg **az üres szemetet**.</span><span class="sxs-lookup"><span data-stu-id="ba15e-111">Go directly into your trash folder and press **empty trash**.</span></span> 
+3. <span data-ttu-id="c59ce-110">Androidon egyetlen kattintással kiürítheti a kukamappákat.</span><span class="sxs-lookup"><span data-stu-id="c59ce-110">On Android, you may empty your trash folders with one click.</span></span> <span data-ttu-id="c59ce-111">Menjen közvetlenül a kukába, és nyomja **meg az üres szemetet**.</span><span class="sxs-lookup"><span data-stu-id="c59ce-111">Go directly into your trash folder and press **empty trash**.</span></span> 
 
-4. <span data-ttu-id="ba15e-112">Mentse mellékleteit a OneDrive-ra, hogy ne tárolódjanak a postaládájában.</span><span class="sxs-lookup"><span data-stu-id="ba15e-112">Save your attachments to OneDrive so they aren't stored in your mailbox.</span></span> <span data-ttu-id="ba15e-113">További információt a Outlook.com tárolási korlátok című [témakörben](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) talál.</span><span class="sxs-lookup"><span data-stu-id="ba15e-113">See [Storage limits in Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) for more information.</span></span> 
+4. <span data-ttu-id="c59ce-112">Mentse a mellékleteket a OneDrive-ra, hogy ne tárolják őket a postaládájában.</span><span class="sxs-lookup"><span data-stu-id="c59ce-112">Save your attachments to OneDrive so they aren't stored in your mailbox.</span></span> <span data-ttu-id="c59ce-113">További információt a [Outlook.com tárolási korlátok című témakörben](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) talál.</span><span class="sxs-lookup"><span data-stu-id="c59ce-113">See [Storage limits in Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) for more information.</span></span> 
 
-<span data-ttu-id="ba15e-114">Ha Ön Office 365-felhasználó, postafiók-emelést is kérhet az informatikai rendszergazdától.</span><span class="sxs-lookup"><span data-stu-id="ba15e-114">If you are an Office 365 user, you may also request a mailbox increase from your IT admin.</span></span>
+<span data-ttu-id="c59ce-114">Ha Ön Microsoft 365-felhasználó, kérheti a postaláda növelését is a rendszergazdatól.</span><span class="sxs-lookup"><span data-stu-id="c59ce-114">If you are an Microsoft 365 user, you may also request a mailbox increase from your IT admin.</span></span>
