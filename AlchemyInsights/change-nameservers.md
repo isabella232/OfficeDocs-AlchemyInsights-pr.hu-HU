@@ -3,7 +3,7 @@ title: Névkiszolgálók módosítása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: 51532f42e7cbd39ebad3f0160465218c6e1454a2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 572f8befd84f55cb07a3535852a46e735d3ed620
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736651"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706757"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Tartomány névkiszolgálóinak frissítése az Office 365-re
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Tartomány névkiszolgálóinak frissítése, hogy a Microsoftra irányuljanak
 
 Megjegyzés: A névkiszolgáló-módosítások elterjedéséhez néha 48 órára is szükség lehet.
   
-A tartománya Office 365-ben való beállításához frissítenie kell a névkiszolgálói rekordokat a tartományregisztrálójánál. Hozza létre vagy szerkessze a névkiszolgálói rekordokat a tartományregisztrálójánál.
+A tartománya Microsoft 365-ben való beállításához frissítenie kell a névkiszolgálói rekordokat a tartományregisztrálójánál. Hozza létre vagy szerkessze a névkiszolgálói rekordokat a tartományregisztrálójánál.
   
 1. Nyissa meg a tartományregisztrálója webhelyét, és keresse meg a névkiszolgálók szerkesztésére szolgáló területet.
   
@@ -35,5 +35,5 @@ A tartománya Office 365-ben való beállításához frissítenie kell a névkis
 
 3. Mentse a módosításokat.
 
-Részletes útmutatást a következő cikkben talál: [A névkiszolgálók módosítása úgy, hogy az Office 365-öt bármely tartományregisztrálónál beállíthassa](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Részletes útmutatást a következő cikkben talál: [A névkiszolgálók módosítása bármely tartományregisztrálónál](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   
