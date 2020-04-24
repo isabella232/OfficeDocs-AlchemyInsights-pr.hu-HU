@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761996"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799125"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="03f47-102">Többszöri próbálkozás online fizetési eszközök felszámítására</span><span class="sxs-lookup"><span data-stu-id="03f47-102">Multiple attempts to charge online payment instruments</span></span>
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a><span data-ttu-id="a40ca-102">Többszöri próbálkozás online fizetési eszközök felszámítására</span><span class="sxs-lookup"><span data-stu-id="a40ca-102">Multiple attempts to charge online payment instruments</span></span>
 
-<span data-ttu-id="03f47-103">Többször is megpróbáljuk felszámítani az online fizetési eszközöket, mielőtt bármilyen intézkedést hoznánk a szolgáltatással.</span><span class="sxs-lookup"><span data-stu-id="03f47-103">We make multiple attempts to charge online payment instruments before taking any action on the service.</span></span> <span data-ttu-id="03f47-104">A fizetési mód kiválasztása után minden lejárt fizetési módot a kiválasztott fizetési móddal kell kifizetni.</span><span class="sxs-lookup"><span data-stu-id="03f47-104">After a payment method is selected, all past due amounts must be paid with the selected payment method.</span></span> <span data-ttu-id="03f47-105">Az előfizetés aktuális fizetési adatainak frissítéséhez kövesse a [Hitelkártya vagy bankfiók hozzáadása, frissítése vagy eltávolítása a Microsoft 365 vállalati verzióban című](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)részt.</span><span class="sxs-lookup"><span data-stu-id="03f47-105">To update the current payment information for your subscription, follow the steps in [Add, update, or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="a40ca-103">Ha a díj sikertelen, a rendszer a következő hetekben folytatja az egyenleg rendezését.</span><span class="sxs-lookup"><span data-stu-id="a40ca-103">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="a40ca-104">A fizetési adatokat bármikor frissítheti, hogy biztosítsa a következő terhelési kísérlet sikerességedet.</span><span class="sxs-lookup"><span data-stu-id="a40ca-104">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="a40ca-105">További információt a [Hitelkártya- vagy bankszámla hozzáadása, frissítése vagy eltávolítása a Microsoft 365 vállalati verzióban című témakörben talál.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)</span><span class="sxs-lookup"><span data-stu-id="a40ca-105">For more information, see [Add, update, or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
