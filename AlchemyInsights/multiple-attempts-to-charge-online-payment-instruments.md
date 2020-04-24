@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761996"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799125"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Többszöri próbálkozás online fizetési eszközök felszámítására
 
-Többször is megpróbáljuk felszámítani az online fizetési eszközöket, mielőtt bármilyen intézkedést hoznánk a szolgáltatással. A fizetési mód kiválasztása után minden lejárt fizetési módot a kiválasztott fizetési móddal kell kifizetni. Az előfizetés aktuális fizetési adatainak frissítéséhez kövesse a [Hitelkártya vagy bankfiók hozzáadása, frissítése vagy eltávolítása a Microsoft 365 vállalati verzióban című](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)részt.
+Ha a díj sikertelen, a rendszer a következő hetekben folytatja az egyenleg rendezését. A fizetési adatokat bármikor frissítheti, hogy biztosítsa a következő terhelési kísérlet sikerességedet. További információt a [Hitelkártya- vagy bankszámla hozzáadása, frissítése vagy eltávolítása a Microsoft 365 vállalati verzióban című témakörben talál.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
