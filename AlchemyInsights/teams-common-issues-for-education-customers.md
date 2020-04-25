@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856800"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739438"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>A Teams gyakori problémái az oktatási ügyfelek számára
 
@@ -29,7 +29,7 @@ Ha segítségre van szüksége a Teams telepítésével kapcsolatban a távoktat
 
 - **Most ismerkedik a Teamsszel?** Ezután a [Távoli tanítás és tanulás az Office 365 Oktatási verzióban](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) című cikket tanulmányozva megismerheti az iskola beállítására, az óravázlat-tervezésre, a virtuális értekezletekre és a diákokkal való tartalommegosztásra vonatkozó legújabb útmutatót.
 
-- Miután bekapcsolta a szolgáltatást, a felhasználók használhatják a Teams alkalmazást az [asztali- és mobilklienstelepítésével, vagy a  böngészőjéből.
+- Miután bekapcsolta a szolgáltatást, a felhasználók használhatják a Teams alkalmazást az [asztali-](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client) és [mobilkliens](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)telepítésével, vagy a https://teams.microsoft.com böngészőjéből.
 
 - **Teams-vendéghozzáférés engedélyezése:** Tekintse át a [Teams vendéghozzáférésének ellenőrzőlistáját](https://docs.microsoft.com/microsoftteams/guest-access-checklist), és győződjön meg arról, hogy minden lépést elvégzett.
     - [A Microsoft Teamsbeli vendéghozzáférés ismertetése](https://docs.microsoft.com/microsoftteams/guest-access)
@@ -45,12 +45,12 @@ Ha segítségre van szüksége a Teams telepítésével kapcsolatban a távoktat
     6. A Skype Vállalati verzió felügyeleti központjában kattintson a **hangkonferencia**, majd a **felhasználók** elemre.
     7. Jelölje ki a kérdéses felhasználót, és ellenőrizze, hogy a felhasználó rendelkezik-e alapértelmezett nem ingyenes telefonszámmal.
 
-    További információért olvassa el a [Hanghíváscsomagok az Office 365 Nagyvállalati E5 csomaghoz](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) című cikket, vagy hívja a Microsoft kereskedelmi számlázási csapatát a licencelésre vonatkozó kérdésekkel kapcsolatos segítségért.
+    További információért olvassa el a [Hanghíváscsomagok](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) című cikket, vagy hívja a Microsoft kereskedelmi számlázási csapatát a licencelésre vonatkozó kérdésekkel kapcsolatos segítségért.
 
     További források
 
     - [Értekezletek és konferenciák a Microsoft Teamsben](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Az Office 365 Hangkonferencia szolgáltatása](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Hangkonferencia](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Értekezletszabályzatok**: Az értekezletszabályzatok használhatók a szervezete felhasználói által ütemezett értekezletek résztvevőinek elérhető funkciók szabályozásához. Miután létrehozott egy szabályzatot, és elvégezte a módosításokat, felhasználókat rendelhet a szabályzathoz.
 

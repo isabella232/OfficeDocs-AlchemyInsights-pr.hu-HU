@@ -1,5 +1,5 @@
 ---
-title: Office 365 Oktatási csomagok vásárlása
+title: Microsoft 365 Oktatási csomagok vásárlása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195151"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789376"
 ---
-# <a name="purchase-office-365-education-plans"></a>Office 365 Oktatási csomagok vásárlása
+# <a name="purchase-microsoft-365-education-plans"></a>Microsoft 365 Oktatási csomagok vásárlása
 
-Ön jogosult az Office 365 Oktatási verzióra.  Így vásárolhatja meg:
+Ön jogosult a Microsoft 365 Oktatási verzióra.  Így vásárolhatja meg:
 
 1. Lépjen a **[Számlázás > Szolgáltatások vásárlása](https://portal.office.com/AdminPortal/Home#/catalog)** lehetőségre.
 
@@ -35,6 +35,6 @@ ms.locfileid: "43195151"
 
 **Távoktatás és távtanulás**
 
-- Kérjük, tanulmányozza a [Távoli tanítás és tanulás az Office 365 Oktatási verzióban](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) című cikket, hogy megismerhesse az iskola beállítására, az óravázlat-tervezésre, a virtuális értekezletekre és a diákokkal való tartalommegosztásra vonatkozó legújabb útmutatót.
+- Kérjük, tekintse át a [Távoktatás és távtanulás a Microsoft 365 Oktatási verzióban](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) című cikket, hogy megismerhesse az iskola beállítására, az óravázlat-tervezésre, a virtuális értekezletekre és a diákokkal való tartalommegosztásra vonatkozó legújabb útmutatást.
 
 - További informatikai útmutatást tartalmaz [A Microsoft Teams használatbavétele távoli tanuláshoz](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) és az [Átváltás távoli tanulásra](https://www.microsoft.com/education/remote-learning) című cikk.
