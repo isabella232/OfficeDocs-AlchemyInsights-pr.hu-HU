@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 4508c70331f8d83f9f3569c64d49e963af801eb9
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530295"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783973"
 ---
 # <a name="domain-transfers"></a>Tartomány átvitele
 
@@ -24,9 +24,9 @@ ms.locfileid: "43530295"
 
     - Bár a Microsofttól vásárolt tartományok nem támogatják a névkiszolgálói rekordok módosítását, a tartományregisztráció webszolgáltatóra történő átvitele helyett vegye fontolóra a [DNS-rekordok frissítését a webhelye esetében](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide).
 
-- A Microsofttól vásárolt tartomány nem vihető át Office 365-ös bérlők között. 
+- A Microsofttól vásárolt tartomány nem vihető át Microsoft 365-ös bérlők között. 
 
-    - Ugyanakkor lehetséges egy harmadik fél által üzemeltetett tartomány Office 365-ös bérlők közötti átvitele, ha [eltávolítja a tartományt az egyik bérlőről](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide), majd egy másiknál hitelesíti.
+    - Ugyanakkor egy harmadik fél által üzemeltetett tartományt átvihet Microsoft 365-ös bérlők között oly módon, hogy [eltávolítja a tartományt az egyik bérlőnél](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide), majd megerősíti a tartományt egy másiknál.
 
 - A harmadik fél által üzemeltetett tartományregisztrációt vagy számlázást nem lehet átvinni a Microsofthoz.
 

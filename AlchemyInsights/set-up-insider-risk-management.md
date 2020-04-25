@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059976"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784549"
 ---
 # <a name="set-up-insider-risk-management"></a>Az Insider Risk Management beállítása
 
@@ -26,13 +26,13 @@ A belső tagok miatti kockázatkezelés házirendjeivel azonosíthatja a kockáz
 
 - **Microsoft 365 E3**-előfizetés a Microsoft E5 megfelelőségi bővítménnyel.
 
-Ha nem rendelkezik meglévő **Microsoft 365 E5** csomaggal, és szeretné kipróbálni az Insider Risk Management szolgáltatást, felveheti a Microsoft 365-öt a meglévő Office 365-előfizetésébe, illetve feliratkozhat a Microsoft 365 Nagyvállalati E5 csomag próbaverziójára.
+Ha nem rendelkezik meglévő **Microsoft 365 E5** csomaggal, és szeretné kipróbálni a belső tagok miatti kockázat kezelésére szolgáló funkciót, felveheti a Microsoft 365-öt a meglévő előfizetésébe, illetve előfizethet a Microsoft 365 Nagyvállalati E5 csomag próbaverziójára.
 
 Az Insider Risk Management használatának alapvető lépései a következők:
 
 1. Az Insider Risk Management engedélyek engedélyezése.
 
-2. Az Office 365-napló engedélyezése.
+2. Az ellenőrzési napló engedélyezése.
 
 3. A sablon előfeltételeinek konfigurálása (nem kötelező).
 

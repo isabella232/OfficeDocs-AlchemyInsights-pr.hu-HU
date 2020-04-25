@@ -1,21 +1,21 @@
 ---
-title: Microsoft Keresés a Bingben és az Office 365 ProPlus-ban
+title: A Microsoft Keresés a Bingben funkció és a Nagyvállalati Microsoft 365-alkalmazások
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: 3998259957ca49fa8d93d3f5d8be5ac12497d8d1
-ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
+ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41551158"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762319"
 ---
-# <a name="microsoft-search-in-bing-and-office-365-proplus"></a>Microsoft Keresés a Bingben és az Office 365 ProPlus-ban
+# <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>A Microsoft Keresés a Bingben funkció és a Nagyvállalati Microsoft 365-alkalmazások
 
-Az Office 365 ProPlus 2002-es verziójával kezdődően a Bingben telepítve lesz egy Microsoft Keresés bővítmény, amely – csak bizonyos helyeken lévő eszközökön – a Binget teszi a Google Chrome webböngésző alapértelmezett keresőmotorjává.
+A Nagyvállalati Microsoft 365-alkalmazások 2002-es verziójával kezdődően telepítve lesz a Microsoft Keresés a Bingben funkció bővítménye, amely – csak bizonyos helyeken levő eszközökön – a Binget teszi a Google Chrome webböngésző alapértelmezett keresőmotorjává.
 
 **Ha nem szeretné telepíteni a bővítményt, [hajtsa végre az alábbi lépéseket](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
 

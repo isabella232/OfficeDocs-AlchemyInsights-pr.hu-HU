@@ -1,5 +1,5 @@
 ---
-title: Office 365-előfizetés aktiválása
+title: A Microsoft 365-előfizetés aktiválása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191068"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784009"
 ---
-# <a name="activate-your-office-365-subscription"></a>Office 365-előfizetés aktiválása
+# <a name="activate-your-subscription"></a>Az előfizetés aktiválása
 
 **Előfizetés aktiválása**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191068"
 
 **Előfizetés újraaktiválása**
 
-Ha lejár az előfizetése, a Microsoft letiltotta az előfizetését, vagy Ön lemondja az előfizetését annak tartama alatt, az Office 365 Felügyeleti központban aktiválhatja újra.
+Ha lejárt az előfizetése, vagy a Microsoft letiltotta azt, illetve ha Ön lemondta az előfizetését annak tartama alatt, a Microsoft 365 Felügyeleti központban aktiválhatja újra.
 
-- Az Office 365 Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra (vagy válassza a **Számlázás > Előfizetések** lehetőséget).
+- A Microsoft 365 Felügyeleti központban lépjen az [Előfizetések](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra (vagy válassza a **Számlázás > Előfizetések** lehetőséget).
 
 - Válassza ki az újraaktiválni kívánt előfizetést, majd kattintson az **Újraaktiválás** lehetőségre. Ha nem látható az **Újraaktiválás** lehetőség, [hívja fel az ügyfélszolgálatot](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b), és kérje az előfizetés újraaktiválását.
 
@@ -42,6 +42,6 @@ További információért tekintse meg [Az előfizetés újraaktiválása](https
 
 **Új előfizetés aktiválása termékkulccsal**
 
-- Ha új Office 365-előfizetést szeretne aktiválni a termékkulccsal, kezdjen [itt](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Ha új Microsoft 365-előfizetést szeretne aktiválni a termékkulccsal, kezdje [itt](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Írja be az Office 365-ös termékkulcsát, és kövesse a lépéseket az előfizetés aktiválásához. Ha problémát tapasztal az aktiválás során, olvassa el a [termékkulcsokkal kapcsolatos gyakori problémákat és megoldásokat](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Írja be a Microsoft 365-höz tartozó termékkulcsát, és kövesse az utasításokat az előfizetés aktiválásához. Ha problémát tapasztal az aktiválás során, olvassa el a [termékkulcsokkal kapcsolatos gyakori problémákat és megoldásokat](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
