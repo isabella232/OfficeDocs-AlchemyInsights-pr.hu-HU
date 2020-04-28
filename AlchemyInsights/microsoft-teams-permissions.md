@@ -1,5 +1,5 @@
 ---
-title: Microsoft-csapatok engedélyei
+title: A Microsoft Teams engedélyei
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590424"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911940"
 ---
-# <a name="microsoft-teams-permissions"></a><span data-ttu-id="9a60d-102">Microsoft-csapatok engedélyei</span><span class="sxs-lookup"><span data-stu-id="9a60d-102">Microsoft Teams permissions</span></span>
+# <a name="microsoft-teams-permissions"></a><span data-ttu-id="35a2d-102">A Microsoft Teams engedélyei</span><span class="sxs-lookup"><span data-stu-id="35a2d-102">Microsoft Teams permissions</span></span>
 
-<span data-ttu-id="9a60d-103">A Microsoft csapatok két felhasználói szerepkört tartalmaznak: tulajdonosát és tagot.</span><span class="sxs-lookup"><span data-stu-id="9a60d-103">Microsoft Teams includes two user roles: owner and member.</span></span> <span data-ttu-id="9a60d-104">Alapértelmezés szerint az új csoportot létrehozó felhasználó rendelkezik a tulajdonos állapotával.</span><span class="sxs-lookup"><span data-stu-id="9a60d-104">By default, a user who creates a new team is granted the owner status.</span></span> <span data-ttu-id="9a60d-105">Ezen túlmenően, a tulajdonosok és a tagok is moderátori képességek a csatorna (ha a moderálás hoztak létre).</span><span class="sxs-lookup"><span data-stu-id="9a60d-105">In addition, owners and members can have moderator capabilities for a channel (if moderation has been set up).</span></span> <span data-ttu-id="9a60d-106">Ha a csapatot egy meglévő Office 365-csoportból hozták létre, az engedélyek öröklődnek.</span><span class="sxs-lookup"><span data-stu-id="9a60d-106">If a team is created from an existing Office 365 Group, permissions are inherited.</span></span> <span data-ttu-id="9a60d-107">További információ:</span><span class="sxs-lookup"><span data-stu-id="9a60d-107">For more information, see:</span></span>
+<span data-ttu-id="35a2d-103">A Microsoft Teams két felhasználói szerepkört tartalmaz: tulajdonost és tagot.</span><span class="sxs-lookup"><span data-stu-id="35a2d-103">Microsoft Teams includes two user roles: owner and member.</span></span> <span data-ttu-id="35a2d-104">Alapértelmezés szerint az új csoportot létrehozó felhasználó kapja a tulajdonos státuszt.</span><span class="sxs-lookup"><span data-stu-id="35a2d-104">By default, a user who creates a new team is granted the owner status.</span></span> <span data-ttu-id="35a2d-105">Ezenkívül a tulajdonosok és a tagok moderátori képességekkel is rendelkezhetnek egy csatornához (ha a moderálás be van állítva).</span><span class="sxs-lookup"><span data-stu-id="35a2d-105">In addition, owners and members can have moderator capabilities for a channel (if moderation has been set up).</span></span> <span data-ttu-id="35a2d-106">Ha egy csapat ot egy meglévő Microsoft 365-csoportból hoz létre, az engedélyek öröklődnek.</span><span class="sxs-lookup"><span data-stu-id="35a2d-106">If a team is created from an existing Microsoft 365 Group, permissions are inherited.</span></span> <span data-ttu-id="35a2d-107">További információ:</span><span class="sxs-lookup"><span data-stu-id="35a2d-107">For more information, see:</span></span>
 
-- [<span data-ttu-id="9a60d-108">Csapattulajdonosok és tagok hozzárendelése a Microsoft teamben</span><span class="sxs-lookup"><span data-stu-id="9a60d-108">Assign team owners and members in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [<span data-ttu-id="9a60d-109">Microsoft-csapatok alkalmazások engedélyei és szempontjai</span><span class="sxs-lookup"><span data-stu-id="9a60d-109">Microsoft Teams apps permissions and considerations</span></span>](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [<span data-ttu-id="9a60d-110">Vendég engedélyeinek beállítása a csapatok csatornái számára</span><span class="sxs-lookup"><span data-stu-id="9a60d-110">Set guest permissions for channels in Teams</span></span>](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [<span data-ttu-id="35a2d-108">Csapattulajdonosok és -tagok hozzárendelése a Microsoft Teamsben</span><span class="sxs-lookup"><span data-stu-id="35a2d-108">Assign team owners and members in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [<span data-ttu-id="35a2d-109">A Microsoft Teams alkalmazásokkal kapcsolatos engedélyek és szempontok</span><span class="sxs-lookup"><span data-stu-id="35a2d-109">Microsoft Teams apps permissions and considerations</span></span>](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [<span data-ttu-id="35a2d-110">Vendégengedélyek beállítása a csatornákhoz a Teamsben</span><span class="sxs-lookup"><span data-stu-id="35a2d-110">Set guest permissions for channels in Teams</span></span>](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

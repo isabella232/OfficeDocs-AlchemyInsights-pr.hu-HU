@@ -1,9 +1,9 @@
 ---
-title: Nyilvános mappa hozzáférési mobileszközökről
+title: Nyilvános mappa elérése mobileszközökről
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "634"
 - "3500007"
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: 568bf0aebbf954ff90cc45a080dd4a49aa23780d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ceb0ba5f5460156caae5bedc9148ad9c6836f011
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553938"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911438"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a><span data-ttu-id="6172b-102">Nyilvános mappa hozzáférési mobileszközökről</span><span class="sxs-lookup"><span data-stu-id="6172b-102">Public folder access from mobile devices</span></span>
+# <a name="public-folder-access-from-mobile-devices"></a><span data-ttu-id="74fd3-102">Nyilvános mappa elérése mobileszközökről</span><span class="sxs-lookup"><span data-stu-id="74fd3-102">Public folder access from mobile devices</span></span>
 
-<span data-ttu-id="6172b-103">Ha azt szeretné, a nyilvános mappák hasonló funkciókkal rendelkezik, és elérhető tartalom mobil eszközökön, tanulmányozza [Office 365 csoportokkal kapcsolatos további tudnivalók a](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) jobb megoldás.</span><span class="sxs-lookup"><span data-stu-id="6172b-103">If you would like to have functionality similar to public folders and have content accessible on mobile devices, consult [Learn about Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) for a better alternative.</span></span>
+<span data-ttu-id="74fd3-103">Ha a nyilvános mappákhoz hasonló funkciókat szeretne, és mobileszközökön is elérhető tartalommal szeretne rendelkezni, a jobb alternatíváért olvassa el [a Microsoft 365-csoportok megismerése](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="74fd3-103">If you would like to have functionality similar to public folders and have content accessible on mobile devices, consult [Learn about Microsoft 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) for a better alternative.</span></span>
   
