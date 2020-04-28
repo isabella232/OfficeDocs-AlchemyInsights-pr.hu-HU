@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 402
 ms.assetid: 3f6b7230-28a3-40d9-b30a-c7f252b91d37
-ms.openlocfilehash: 84268236862797049b47228ef59abedf19312152
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 76c984f08c4aac4879b3117129b405b69c9d21af
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711777"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911367"
 ---
-# <a name="calenders-in-office-365-groups"></a>Calenders az Office 365-csoportokban
+# <a name="calenders-in-microsoft-365-groups"></a>Calenders a Microsoft 365 csoportokban
 
-Az Office 365-csoportoknaptárairól további információt az [Office 365-csoportok ról szóló témakörben talál.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)
+A Microsoft 365-csoportok naptárairól a [Microsoft 365-csoportok ról szóló további tudnivalókat](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx)talál.

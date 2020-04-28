@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703645"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908418"
 ---
 # <a name="enable-and-search-the-audit-log"></a>A napló engedélyezése és keresése
 
@@ -31,7 +31,7 @@ A Microsoft 365 naplójában való kereséshez kövesse [az alábbi lépéseket.
 
 - A postaláda-naplózás alapértelmezés szerint engedélyezve van a Microsoft 365-ben. További információt [ebben a cikkben](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)talál.
 
-- Az Exchange Online Office 365 Csoportpostaláda- és nyilvánosmappa-postaládái nem támogatják a naplózást.
+- A Microsoft 365 Csoportpostaládák és nyilvános mappapostaládák az Exchange Online-ban nem támogatják a naplózást.
 
 **SharePoint és OneDrive**
 

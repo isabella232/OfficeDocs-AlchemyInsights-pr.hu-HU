@@ -1,5 +1,5 @@
 ---
-title: Csevegési előzmények a Microsoft teamben
+title: Csevegési előzmények a Microsoft Teamsben
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 75acc293036dc27a043fd1c45daa56eab3f8af5e
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: f1e8c3764415cb32b0dd0ea3223f6a9b3d12b89c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376680"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911258"
 ---
-# <a name="viewing-chat-history-in-microsoft-teams"></a>A csevegés előzményeinek megtekintése a Microsoft teamben
+# <a name="viewing-chat-history-in-microsoft-teams"></a>Csevegési előzmények megtekintése a Microsoft Teamsben
 
-A csapatok csevegési előzményeinek megtekintéséhez használja a [tartalom keresése](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) lehetőséget a [biztonsági & megfelelőségi központ](https://sip.protection.office.com/insightdashboard)segítségével, ahol megkeresheti az Office 365 vagy a Microsoft csapat által hozzárendelt postaládát. 
+A Teams csevegési előzményeinek megtekintéséhez [használhatja](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) a Tartalomkeresést a [Biztonsági & megfelelőségi központban,](https://sip.protection.office.com/insightdashboard)ahol a Microsoft 365-csoporthoz vagy a Microsoft-csoporthoz társított postaládában kereshet. 
 
-A [Microsoft csapatok és az Office 365 csoportok](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-microsoft-teams-and-office-365-groups) keresése című témakörben tájékozódhat a biztonsági és megfelelőségi központ által a keresési lehetőségek megismerésével kapcsolatban. 
+A Biztonsági és megfelelőségi központ keresési lehetőségeiről a Microsoft Teams és a [Microsoft 365 csoportok](https://docs.microsoft.com/office365/securitycompliance/content-search#searching-microsoft-teams-and-office-365-groups) keresése című témakörben olvashat. 
 
-**Megjegyzés:** A beszélgetéselőzmények biztonsági mentése, exportálása, nyomtatása és archiválása jelenleg nem érhető el közvetlenül a Microsoft csapatokban. Legyen szíves szavazás ezen képesség-ban [uservoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 
+**Megjegyzés:** A beszélgetési előzmények biztonsági mentése, exportálása, nyomtatása és archiválása jelenleg nem érhető el közvetlenül a Microsoft Teamstől. Kérjük, szavazzanak erről a [képességuservoice](https://microsoftteams.uservoice.com/forums/555103-public/suggestions/16982542-backup-export-printing-archive-options?page=2&per_page=20). 

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766963"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912860"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Problémák a naptár eszközökkel való szinkronizálásával kapcsolatban
 
-A SharePoint-naptárak klasszikus listatípusok, amelyek néha összekeverednek az Office 365 csoportnaptárakkal.
+A SharePoint-naptárak klasszikus listatípusok, amelyek néha összekeverednek a Microsoft 365 csoportnaptárakkal.
 
 Ha szinkronizálni szeretné a SharePoint-naptárt az Outlookkal, kövesse az alábbi lépéseket:
 
@@ -33,4 +33,4 @@ Ha szinkronizálni szeretné a SharePoint-naptárt az Outlookkal, kövesse az al
 >[!Note]
 > Amikor módosítja a szinkronizált Outlook-naptárat, az megjelenik a SharePoint-naptárban, és fordítva.
 
-Az Office 365 Csoportokról további információt ebben a [cikkben](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)talál.
+A Microsoft 365 csoportokról további információt ebben a [cikkben](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)talál.

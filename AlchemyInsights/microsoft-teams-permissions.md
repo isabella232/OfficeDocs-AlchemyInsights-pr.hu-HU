@@ -1,5 +1,5 @@
 ---
-title: Microsoft-csapatok engedélyei
+title: A Microsoft Teams engedélyei
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590424"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911940"
 ---
-# <a name="microsoft-teams-permissions"></a>Microsoft-csapatok engedélyei
+# <a name="microsoft-teams-permissions"></a>A Microsoft Teams engedélyei
 
-A Microsoft csapatok két felhasználói szerepkört tartalmaznak: tulajdonosát és tagot. Alapértelmezés szerint az új csoportot létrehozó felhasználó rendelkezik a tulajdonos állapotával. Ezen túlmenően, a tulajdonosok és a tagok is moderátori képességek a csatorna (ha a moderálás hoztak létre). Ha a csapatot egy meglévő Office 365-csoportból hozták létre, az engedélyek öröklődnek. További információ:
+A Microsoft Teams két felhasználói szerepkört tartalmaz: tulajdonost és tagot. Alapértelmezés szerint az új csoportot létrehozó felhasználó kapja a tulajdonos státuszt. Ezenkívül a tulajdonosok és a tagok moderátori képességekkel is rendelkezhetnek egy csatornához (ha a moderálás be van állítva). Ha egy csapat ot egy meglévő Microsoft 365-csoportból hoz létre, az engedélyek öröklődnek. További információ:
 
-- [Csapattulajdonosok és tagok hozzárendelése a Microsoft teamben](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Microsoft-csapatok alkalmazások engedélyei és szempontjai](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Vendég engedélyeinek beállítása a csapatok csatornái számára](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Csapattulajdonosok és -tagok hozzárendelése a Microsoft Teamsben](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [A Microsoft Teams alkalmazásokkal kapcsolatos engedélyek és szempontok](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Vendégengedélyek beállítása a csatornákhoz a Teamsben](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

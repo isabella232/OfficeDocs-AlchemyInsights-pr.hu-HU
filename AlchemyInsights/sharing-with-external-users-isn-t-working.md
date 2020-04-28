@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767251"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43913004"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>A SharePoint-tartalmak külső felhasználókkal való megosztásával kapcsolatos problémák megoldása
 
@@ -32,7 +32,7 @@ Győződjön meg arról, hogy a külső megosztás be van kapcsolva a webhelyen.
     
 2. Jelölje ki a webhelyet vagy webhelyeket, és a menüszalagon kattintson a **Megosztás gombra.**
     
-Office 365-csoporthoz vagy kommunikációs webhelyhez tartozó csoportwebhely esetén:
+Microsoft 365-csoporthoz vagy kommunikációs webhelyhez tartozó csoportwebhely esetén:
   
 - Ezek az új webhelytípusok ugyanazt a megosztási beállítást, mint a szervezeti szintű beállítás, kivéve, ha a szervezeti szintű beállítás lehetővé teszi a fájlok megosztását olyan hivatkozások használatával, amelyek nem igényelnek bejelentkezést. Ebben az esetben a webhelyek lehetővé teszik a megosztást a bejelentkező új és meglévő külső felhasználókkal. Adott webhelyek beállításának módosításához használja az új SharePoint Felügyeleti központot vagy a PowerShellt. [További információ](https://go.microsoft.com/fwlink/?linkid=871863).
     

@@ -1,5 +1,5 @@
 ---
-title: Külső felhasználók hozzáadása a terjesztési csoporthoz
+title: Külső felhasználók hozzáadása terjesztési csoporthoz
 ms.author: chrisda
 author: chrisda
 ms.audience: ITPro
@@ -7,38 +7,38 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7dbc69bced9ca800d3f95081b77dda5e49662579
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737875"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43910934"
 ---
 # <a name="add-external-users-to-a-distribution-group"></a>Külső felhasználók hozzáadása terjesztési csoporthoz
 
-A terjesztési csoporthoz (DG) külső kapcsolattartó hozzáadása két lépésben történik:
+Külső kapcsolattartó hozzáadása egy terjesztési csoporthoz két lépésből áll:
   
-1. Levelezési kapcsolat létrehozása a külső felhasználó számára:
+1. E-mail névjegy létrehozása a külső felhasználó számára:
     
-    1. Az admin központban lépjen a **felhasználók** > [névjegyalbumoldalára](https://admin.microsoft.com/adminportal/home#/Contact) . 
+    1. A felügyeleti központban nyissa meg a **Felhasználók névjegyei** > [Contacts](https://admin.microsoft.com/adminportal/home#/Contact) lapot. 
     
-    2. Válassza **a Névjegy hozzáadása**-t.
+    2. Válassza **a Partner hozzáadása**lehetőséget.
     
-    3. Írja be a névjegyhez tartozó adatokat, és válassza a **hozzáad**-t.
+    3. Írja be a partner adatait, és válassza a **Hozzáadás gombot.**
     
-2. A levelezési kapcsolat felvétele a FŐIGAZGATÓSÁGBA:
+2. A Levelezési kapcsolattartó felvétele a főigazgatósághoz:
     
-    1. Az admin központban lépjen a **csoportok** > [csoportjai](https://admin.microsoft.com/adminportal/home#/groups) oldalra. 
+    1. A felügyeleti központban nyissa meg a **Csoportok** > [csoportját.](https://admin.microsoft.com/adminportal/home#/groups) 
     
-    2. Keresse meg azt a FŐIGAZGATÓSÁGOT, amelyhez hozzá szeretné adni a külső felhasználót, majd jelölje ki a szerkesztési párbeszédpanel megnyitásához.
+    2. Keresse meg azt a főigazgatóságot, amelyhez hozzá szeretné adni a külső felhasználót, és jelölje ki a szerkesztési párbeszédpanel megnyitásához.
     
-    3. A **tagok** lapon jelölje be az **összes megtekintése és a tagok kezelése**választógombot. 
+    3. A **Tagok** lapon válassza az **Összes megtekintése és a tagok kezelése**lehetőséget. 
     
-    4. Válassza a **Tagok felvétele**-t.
+    4. Válassza **a Tagok hozzáadása**lehetőséget.
     
-    5. Válassza ki az előző lépésben létrehozott levelezési névjegyet, majd válassza a **Mentés**-t.
+    5. Jelölje ki az előző lépésben létrehozott Levelezési névjegyet, majd kattintson a **Mentés gombra.**
     
-Ha a következő lépések megtételét követően a külső felhasználók nem tudnak e-maileket küldeni a DG-nek, vagy nem kapnak e-maileket, akkor lehet, hogy a FŐIGAZGATÓSÁGNAK csak belső felhasználóktól származó leveleket enged meg. Tudod ellenőriz ez alakzat és erősít ez alábbiak a utasítások [itt](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online).
+Ha e lépések bekövetése után a külső felhasználók nem tudnak e-maileket küldeni a főigazgatóságnak, vagy nem kapnak tőle e-maileket, akkor előfordulhat, hogy a főigazgatóság csak a belső felhasználóktól származó e-maileket engedélyezi. Tudod ellenőriz ez alakzat és erősít ez alábbiak a utasítások [itt.](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online)
   
- **Megjegyzés:** Ezek az utasítások nem alkalmazhatók, ha a csoport típusa "terjesztési csoport" helyett "Office 365 csoport". Ebben az esetben a külső felhasználót közvetlenül is hozzáadhatja a csoporthoz az Outlook programból. Részletes információ az Office 365 csoportokról, a vendégek és a külső vendégek hozzáadására vonatkozó utasítások megtalálhatók [ebben a cikkben](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **Megjegyzés:** Ezek az utasítások nem érvényesek, ha a csoport típusa "Microsoft 365 csoport" a "Terjesztési csoport" helyett. Ebben az esetben a külső felhasználót közvetlenül is hozzáadhatja a csoporthoz az Outlook programból. A Microsoft 365 Csoportok vendégeiről, valamint a külső vendégek hozzáadására vonatkozó utasításokról ebben a cikkben olvashat [részletesen.](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)
   

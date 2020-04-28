@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721776"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912405"
 ---
 # <a name="manage-access-requests"></a>Hozzáférési kérelmek kezelése
 
@@ -26,7 +26,7 @@ Amikor egy felhasználó megpróbál hozzáférni egy elemhez a SharePointban, �
     
 2. A **Felhasználók és engedélyek csoportban**kattintson a Hozzáférési kérelmek és **meghívók**elemre. (Ha ez nem jelenik meg, nem történt hozzáférési kérelem.)
     
-3. Ha külön-külön szeretne engedélyt adni a felhasználónak, kattintson a **Jóváhagyás** vagy **az Elutasítás gombra.** Adott jogosultsági szint kiválasztásához először kattintson a személy neve melletti három pontra (...). Másik lehetőségként adja hozzá a felhasználót egy olyan csoporthoz, amely engedéllyel rendelkezik a webhelyhez. Kommunikációs helyek és klasszikus csoportwebhelyek esetén ezt a Webhely beállításai lapon teheti meg. Az Office 365-csoporthoz tartozó webhelyek esetében hozzáadhatja a felhasználót a csoporthoz.
+3. Ha külön-külön szeretne engedélyt adni a felhasználónak, kattintson a **Jóváhagyás** vagy **az Elutasítás gombra.** Adott jogosultsági szint kiválasztásához először kattintson a személy neve melletti három pontra (...). Másik lehetőségként adja hozzá a felhasználót egy olyan csoporthoz, amely engedéllyel rendelkezik a webhelyhez. Kommunikációs helyek és klasszikus csoportwebhelyek esetén ezt a Webhely beállításai lapon teheti meg. A Microsoft 365-csoporthoz tartozó webhelyek esetében hozzáadhatja a felhasználót a csoporthoz.
     
     [Hozzáférési kérelmek kezelése](https://go.microsoft.com/fwlink/?linkid=2008747)
     

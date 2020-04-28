@@ -1,5 +1,5 @@
 ---
-title: Törölt Office 365-csoport visszaállítása
+title: Törölt Microsoft 365-csoport visszaállítása
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758756"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912713"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Törölt Office 365-csoport visszaállítása
+# <a name="restore-a-deleted-microsoft-365-group"></a>Törölt Microsoft 365-csoport visszaállítása
 
 A törölt csoportok 30 napig megmaradnak. Törölt csoport visszaállítása:
   
@@ -28,5 +28,5 @@ A törölt csoportok 30 napig megmaradnak. Törölt csoport visszaállítása:
 
 2. Jelölje ki a csoportot, majd kattintson a parancssáv **Visszaállítás gombjára,** vagy kattintson a "Kattintson ide a visszaállításhoz" hivatkozásra a részletek ablaktáblán.
 
-További információt, illetve a csoportok PowerShell használatával történő visszaállításáról a [Törölt Office 365-csoport visszaállítása (Visszaállítás) témakörben](https://go.microsoft.com/fwlink/?linkid=867802)olvashat bővebben.
+További információt, illetve a csoportok PowerShell használatával történő visszaállításáról a [Törölt Microsoft 365-csoport visszaállítása (Visszaállítás) témakörben](https://go.microsoft.com/fwlink/?linkid=867802)olvashat bővebben.
   

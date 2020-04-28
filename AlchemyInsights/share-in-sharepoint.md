@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 0498f7e6b4b0989f043afbb7573af54b5206a11a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: daab5cfbcb52a1e946a5bd228897a2dc5e3ebe7e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742369"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911690"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Megosztás a SharePoint Online-ban
 
@@ -24,7 +24,7 @@ Webhely megosztása:
   
 1. Nyissa meg a webhelyet egy webböngészőben.
     
-2. Ha a webhely egy Office 365-csoporthoz tartozik, kattintson a beállítások ikonra a jobb felső sarokban, majd kattintson a **Webhely engedélyei parancsra.** Kattintson **a Személyek meghívása**gombra, majd válassza ki, hogy tagokat szeretne felvenni az Office 365-csoportba, vagy csak a webhelyet szeretné megosztani. 
+2. Ha a webhely microsoft 365-ös csoporthoz tartozik, kattintson a jobb felső sarokban a Beállítások ikonra, majd a **Webhely engedélyei parancsra.** Kattintson **a Személyek meghívása**gombra, majd válassza ki, hogy tagokat szeretne felvenni a Microsoft 365 csoportba, vagy csak a webhelyet osztja meg. 
     
     Kommunikációs hely esetén kattintson a jobb felső sarokban található **Webhely megosztása** elemre, írja be a személy nevét, majd válassza ki a jogosultsági szintet (Olvasás, Szerkesztés vagy Teljes hozzáférés). 
     

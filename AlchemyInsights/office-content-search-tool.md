@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787999"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912260"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Tartalomkereső eszköz a releváns információk megkereséséhez
 
-A Biztonsági & megfelelőségi központ Tartalomkereső eszközével gyorsan megtalálhatja az Exchange-postaládákban található e-maileket, a SharePoint-webhelyeken és a OneDrive-helyeken található dokumentumokat, valamint a Skype Vállalati verzióban folytatott csevegéseket. A tartalomkereső eszközzel e-maileket, dokumentumokat és csevegéseket kereshet a Microsoft 365 együttműködési eszközeiben, például a Microsoft Teamsben és az Office 365 Csoportokban.
+A Biztonsági & megfelelőségi központ Tartalomkereső eszközével gyorsan megtalálhatja az Exchange-postaládákban található e-maileket, a SharePoint-webhelyeken és a OneDrive-helyeken található dokumentumokat, valamint a Skype Vállalati verzióban folytatott csevegéseket. A tartalomkereső eszközzel e-maileket, dokumentumokat és csevegéseket kereshet a Microsoft 365 együttműködési eszközeiben, például a Microsoft Teamsben és a Microsoft 365 Csoportokban.
 
 
 Mielőtt a Biztonsági [& megfelelőségi központ](https://sip.protection.office.com/homepage) [tartalomkeresését](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) használná, töltse ki a konfigurációs beállításokat, beleértve [az engedélyek konfigurálását,](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search) [a letöltési sebesség beállítását](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) és [az exportálási beállításokat.](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results)

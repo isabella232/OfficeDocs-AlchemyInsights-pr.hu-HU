@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b4c322896efc5e382674cc1bd3dde6a5baeaf81c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705627"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908742"
 ---
-# <a name="control-creation-of-office-365-groups"></a>Az Office 365-csoportok létrehozásának szabályozása
+# <a name="control-creation-of-microsoft-365-groups"></a>Microsoft 365-csoportok létrehozásának vezérlése
 
 Alapértelmezés szerint a vállalaton belül minden felhasználó létrehozhat csoportokat. Szükség esetén módosíthatja ezt, és hozzárendelheti a jogot, hogy csoportokat hozzon létre a vállalaton belüli személyek egy csoportjához. Vegye figyelembe, hogy ez hatással lesz a microsoft 365-szolgáltatások (például az Outlook, a Teams, a Planner és így tovább) csoportok létrehozására.
   
-Utasítások: [Annak kezelése, hogy ki hozhat létre Office 365-csoportokat](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Utasítások: [Annak kezelése, hogy ki hozhat létre Microsoft 365 csoportokat](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
