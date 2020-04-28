@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: a76f50555972957982f51d1369cc2030faede9a3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706239"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911222"
 ---
 # <a name="comments-in-microsoft-planner"></a>Megjegyzések a Microsoft Plannerben
 
-A terveken belüli tevékenységekre vonatkozó megjegyzések tárolására a tervhez társított Office 365-csoporthoz tartozó Exchange Online-postaládában kerül sor.  Amikor megjegyzést fűz egy tevékenységhez, az alkalmazás e-mailes értesítést küld a csoport postaládájába, és Ön e-mailt fog kapni az ahhoz a tevékenységhez tartozó minden további megjegyzésről.
+A terveken belüli tevékenységekre vonatkozó megjegyzések tárolására a tervhez társított Microsoft 365-csoporthoz tartozó Exchange Online-postaládában kerül sor.  Amikor megjegyzést fűz egy tevékenységhez, az alkalmazás e-mailes értesítést küld a csoport postaládájába, és Ön e-mailt fog kapni az ahhoz a tevékenységhez tartozó minden további megjegyzésről.
 
 Íme néhány válasz a megjegyzésekkel kapcsolatos gyakori problémákra:
 
 - **A felhasználók nem kapnak e-maileket** – A rendszer annak a csoportnak a postaládájába küldi a megjegyzéseket, amelyikhez a terv tartozik. Ahhoz, hogy a felhasználó megkapja a csoportos e-maileket, úgy kell konfigurálni a csoportot, hogy elküldje a csoportos beszélgetéseket a tagok postaládájába.
 
-- **Nem kerül sor a megjegyzések mentésére** – A megjegyzést fűző felhasználónak nincs engedélye arra, hogy e-mailt küldjön az Office 365-csoportnak. Az erre az esetre vonatkozó további információkért olvassa el [A Microsoft Planner működése](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) című cikket.
+- **Nem kerül sor a megjegyzések mentésére** – A megjegyzést fűző felhasználónak nincs engedélye arra, hogy e-mailt küldjön a Microsoft 365-csoportnak. Az erre az esetre vonatkozó további információkért olvassa el [A Microsoft Planner működése](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) című cikket.
 
 - Megjelenik az **Önnek már nincs hozzáférése** vagy **a vendégfelhasználók nem adhatnak hozzá megjegyzéseket** hibaüzenet – Azok a vendégfelhasználók láthatják ezt az üzenetet, akik nem tudnak e-mailt küldeni a csoport postaládájába. Ennek megoldása érdekében ellenőrizze, hogy a vendégfelhasználó érvényes e-mail-címmel rendelkezik-e.
 
