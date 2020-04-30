@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198795"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943945"
 ---
 # <a name="change-your-billing-address"></a>A számlázási cím módosítása
 
-A számla vagy számla három címet tartalmaz. 
+A számla vagy számla három címet tartalmaz.
 
-**A számlázási cím módosítása**
+**Fizetési mód számlázási címének módosítása**
 
-1. A felügyeleti központban nyissa meg a **Számlázási > [fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** lapot. 
+1. A felügyeleti központban nyissa meg **a Számlázás > fizetési módok [lehetőséget.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+2. Válassza ki a módosítani kívánt hitelkártyát vagy bankszámlát.
+3. A **Fizetési mód részletei** lapon kattintson a **Szerkesztés gombra.**
+4. Frissítse számlázási címét, majd kattintson **a > Kész mentés gombra.**
 
-2. Válassza ki a módosítani kívánt hitelkártyát vagy bankszámlát. 
+A címek és az értesítések változásairól a [Microsoft 365 vállalati verzió számlázási címének módosítása](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)témakörben talál további információt.
 
-3. A **Fizetési mód részletei** lapon kattintson a **Szerkesztés gombra.** 
+**A számlázási fiók adatainak módosítása**
 
-4. Frissítse számlázási címét, majd kattintson **a > Kész mentés gombra.** 
+1. A felügyeleti központban nyissa meg **a Számlázás i > [Számlázási fiókok lehetőséget.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
+2. Válassza **a Számlázási fiók adatainak szerkesztése**lehetőséget.
+3. Frissítse a számlázási fiók adatait, majd kattintson **a Mentés > Kész gombra.**
 
-A címek és az értesítések változásairól az Office 365 vállalati verzió [számlázási címének módosítása ..](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide) 
+**Megjegyzés:** Az ország/régió nem módosítható. Ha ezt a mezőt módosítani kell, új bérlőt kell vásárolnia.
