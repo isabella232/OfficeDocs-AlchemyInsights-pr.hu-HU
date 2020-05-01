@@ -11,15 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000736"
 - "3536"
-ms.openlocfilehash: d13012e5a92dd1258f6e9cfacad55fba57dc3b4b
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+- "9002573"
+- "4990"
+ms.openlocfilehash: dcfab01d7614f353bf76446c1e5c1a83e670f8d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158717"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957944"
 ---
 # <a name="teams-outlook-add-in"></a>Teams Outlook bővítmény
 
-Ha a felhasználók nem látják a Teams Outlook bővítményt, miután egy támogatott Teams frissítési módba (TeamsOnly, SfBWithTeamsCollabAndMeetings vagy Islands) vált, akkor előfordulhat, hogy a bővítmény nem sikerült megfelelően betölteni.  A probléma elhárításához tekintse meg az alábbi cikket: 
+Több tényező is van, amelyek miatt a Teams bővítmény nem jelenik meg, és mindegyik [itt](https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/microsoftteams/teams-add-in-for-outlook%23teams-meeting-add-in-in-outlook-for-windows-does-not-show&data=02%7c01%7cgquintin%40microsoft.com%7cb86acfeb2d2d43efd51508d7e6194708%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637230868545082999&sdata=fShwB/PN/SC7oWo0orl4tpu/iYxKCENPYQc7SJIuemo%3D&reserved=0)található.
 
-- [Miért nem látom a Microsoft Teams Meeting outlookhoz készült bővítményét?](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/why-can-t-i-see-the-microsoft-teams-meeting-add-in-for-outlook/ba-p/174630) 
+**Javasoljuk, hogy először ellenőrizze, hogy a bővítmény nincs-e letiltva:**
+
+- Az Outlookban kattintson a **Fájl,** majd **a Beállítások gombra.**
+- Válassza az **Outlook beállításai** párbeszédpanel **Bővítmények** lapját.
+- Ellenőrizze, hogy **a Microsoft Office Microsoft Teams Meeting bővítménye** szerepel-e az Aktív **alkalmazásbővítmények** listájában.
+- Ha a Teams-értekezlet bővítmény szerepel a **Letiltott alkalmazásbővítmények** listában, válassza a **COM-bővítmények** lehetőséget a **Kezelés menüben,** majd kattintson az **Ugrás gombra.**
+- Jelölje be a **Microsoft Teams Meeting bővítmény**e Microsoft Office jelölőnégyzetet.
+- Kattintson az **OK** gombra az összes párbeszédpanelen, és indítsa újra az Outlook programot.
