@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912047"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943981"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Microsoft 365 E3-előfizetés és a licencek kezelése – GYIK
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912047"
 - E3-licencek **lemondásához** lépjen a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, kattintson a **Beállítások és műveletek** elemre, majd kattintson az **Előfizetés lemondása** elemre. További információért tekintse meg [Az előfizetés lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription) lapot.
 - Az E3-előfizetés **aktiválásáról** [Az előfizetés aktiválása](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription) című témakörben olvashat.
 - E3-előfizetés **újraaktiválásáról** [Az előfizetés újraaktiválása](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription) című témakörben olvashat.
-- Az E3-próbaidőszak meghosszabbításáról [A próbaidőszak meghosszabbítása](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business) című témakörben olvashat.
+- Az **E3-próbaidőszak** meghosszabbításáról [A próbaidőszak meghosszabbítása](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business) című cikkben olvashat.
 
 További információ: [Előfizetési licencek kezelése](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
