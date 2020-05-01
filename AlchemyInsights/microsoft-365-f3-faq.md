@@ -1,0 +1,32 @@
+---
+title: Microsoft 365 F3-előfizetés és a licencek kezelése – gyakori kérdések
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002873"
+- "5472"
+ms.openlocfilehash: 25aa28ef98e35ec75f63c45bade34844730e74e5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.translationtype: HT
+ms.contentlocale: hu-HU
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43944284"
+---
+# <a name="microsoft-365-f3-subscription-and-license-management-faq"></a><span data-ttu-id="ea5ff-102">Microsoft 365 F3-előfizetés és a licencek kezelése – gyakori kérdések</span><span class="sxs-lookup"><span data-stu-id="ea5ff-102">Microsoft 365 F3 subscription and license management FAQ</span></span>
+
+- <span data-ttu-id="ea5ff-103">Az **F3** előfizetésről és a megvásárlásáról a [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot%3aoverviewtab) című cikkben olvashat.</span><span class="sxs-lookup"><span data-stu-id="ea5ff-103">To **learn and purchase** an F3 subscription, see [Microsoft 365 F3](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot%3aoverviewtab).</span></span>
+- <span data-ttu-id="ea5ff-104">Ha **másik csomagra szeretne váltani**, olvassa el a [Manuális váltás a Microsoft 365 vállalati csomagjai között](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide) című cikket.</span><span class="sxs-lookup"><span data-stu-id="ea5ff-104">To **switch plans**, see [Switch Microsoft 365 for business plans manually](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).</span></span>
+- <span data-ttu-id="ea5ff-105">Az **F3-licencek felhasználókhoz való hozzárendeléséhez** lépjen a **Számlázás > [Licencek](https://go.microsoft.com/fwlink/p/?linkid=842264)** lapra.</span><span class="sxs-lookup"><span data-stu-id="ea5ff-105">To **assign** users F3 licenses, go to **Billing > [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264)**.</span></span> <span data-ttu-id="ea5ff-106">További információ: [Licencek hozzárendelése](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="ea5ff-106">For more info, see [Assign Licenses](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
+- <span data-ttu-id="ea5ff-107">F3-licencek **hozzáadásához vagy eltávolításához** lépjen a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, és kattintson a **Licencek hozzáadása vagy eltávolítása** elemre.</span><span class="sxs-lookup"><span data-stu-id="ea5ff-107">To **add/remove** F3 licenses, go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** and click **Add/Remove licenses**.</span></span> <span data-ttu-id="ea5ff-108">További információ: [Licencek hozzáadása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="ea5ff-108">For more info, see [Add/remove licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span> 
+- <span data-ttu-id="ea5ff-109">F3-licencek **lemondásához** lépjen a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, kattintson a **Beállítások és műveletek** elemre, majd kattintson az **Előfizetés lemondása** elemre.</span><span class="sxs-lookup"><span data-stu-id="ea5ff-109">To **cancel** F3 licenses, go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**, click **Settings & Actions**, and click **Cancel subscription**.</span></span> <span data-ttu-id="ea5ff-110">További információ: [Az előfizetés lemondása](https://docs.microsoft.com/officF365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="ea5ff-110">For more info, see [Cancel your subscription](https://docs.microsoft.com/officF365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
+- <span data-ttu-id="ea5ff-111">Az F3-előfizetés **aktiválásáról** [Az előfizetés aktiválása](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription) című cikkben olvashat.</span><span class="sxs-lookup"><span data-stu-id="ea5ff-111">To **activate** F3 subscription, see [Activate your subscription](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).</span></span>
+- <span data-ttu-id="ea5ff-112">Az F3-előfizetés **újraaktiválásáról** [Az előfizetés újraaktiválása](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription) című cikkben olvashat.</span><span class="sxs-lookup"><span data-stu-id="ea5ff-112">To **reactivate** F3 subscription, see [Reactivate your subscription](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).</span></span>
+- <span data-ttu-id="ea5ff-113">Az **F3-próbaidőszak** meghosszabbításáról [A próbaidőszak meghosszabbítása](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business) című cikkben olvashat.</span><span class="sxs-lookup"><span data-stu-id="ea5ff-113">To **extend** F3 trial, see [Extend your trial](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).</span></span>
+
+<span data-ttu-id="ea5ff-114">További információ: [Előfizetési licencek kezelése](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="ea5ff-114">For more info, see [Manage subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
