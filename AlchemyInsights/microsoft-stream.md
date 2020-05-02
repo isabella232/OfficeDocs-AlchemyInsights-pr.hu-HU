@@ -11,21 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 3f6113bf512ec20fbbe2229d0efdb429b2f5db92
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: b6ea61b36b9577c38bf8fe3a09e2b32569aa6f45
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600026"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005152"
 ---
-# <a name="microsoft-stream"></a><span data-ttu-id="d0f97-102">Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="d0f97-102">Microsoft Stream</span></span>
+# <a name="microsoft-stream"></a><span data-ttu-id="05c86-102">Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="05c86-102">Microsoft Stream</span></span>
 
-<span data-ttu-id="d0f97-103">A Microsoft Stream egy vállalati videószolgáltatás, ahol a szervezet ben lévő személyek biztonságosan tölthetnek fel, tekinthetnek meg és oszthatnak meg videókat.</span><span class="sxs-lookup"><span data-stu-id="d0f97-103">Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely.</span></span> 
+<span data-ttu-id="05c86-103">A Microsoft Stream egy nagyvállalati videószolgáltatás, amellyel a szervezet tagjai biztonságosan tudnak videókat feltölteni, megtekinteni és megosztani.</span><span class="sxs-lookup"><span data-stu-id="05c86-103">Microsoft Stream is an Enterprise Video service where people in your organization can upload, view, and share videos securely.</span></span> 
 
-<span data-ttu-id="d0f97-104">További információ:</span><span class="sxs-lookup"><span data-stu-id="d0f97-104">For more information, see:</span></span>
+<span data-ttu-id="05c86-104">További információ:</span><span class="sxs-lookup"><span data-stu-id="05c86-104">For more information, see:</span></span>
 
-- [<span data-ttu-id="d0f97-105">Mi az a Microsoft Stream?</span><span class="sxs-lookup"><span data-stu-id="d0f97-105">What is Microsoft Stream?</span></span>](https://docs.microsoft.com/stream/overview)
-- [<span data-ttu-id="d0f97-106">Szolgáltatásfrissítések streamelése</span><span class="sxs-lookup"><span data-stu-id="d0f97-106">Stream Service Updates</span></span>](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
-- [<span data-ttu-id="d0f97-107">Csoportok és csatornák a Microsoft Streamben</span><span class="sxs-lookup"><span data-stu-id="d0f97-107">Groups and channels in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/groups-channels-organization)
-- [<span data-ttu-id="d0f97-108">Élő események a Microsoft Streamben</span><span class="sxs-lookup"><span data-stu-id="d0f97-108">Live events in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/live-event-overview)
-- [<span data-ttu-id="d0f97-109">Videók megosztása a Microsoft Streamben</span><span class="sxs-lookup"><span data-stu-id="d0f97-109">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
+- [<span data-ttu-id="05c86-105">Mi az a Microsoft Stream?</span><span class="sxs-lookup"><span data-stu-id="05c86-105">What is Microsoft Stream?</span></span>](https://docs.microsoft.com/stream/overview)
+- [<span data-ttu-id="05c86-106">Office 365 Videó áttérés a Microsoft Streamre</span><span class="sxs-lookup"><span data-stu-id="05c86-106">Office 365 Video transition to Microsoft Stream</span></span>](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [<span data-ttu-id="05c86-107">Szolgáltatásfrissítések streamelése</span><span class="sxs-lookup"><span data-stu-id="05c86-107">Stream Service Updates</span></span>](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
+- [<span data-ttu-id="05c86-108">Csoportok és csatornák a Microsoft Streamben</span><span class="sxs-lookup"><span data-stu-id="05c86-108">Groups and channels in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/groups-channels-organization)
+- [<span data-ttu-id="05c86-109">Élő események a Microsoft Streamben</span><span class="sxs-lookup"><span data-stu-id="05c86-109">Live events in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/live-event-overview)
+- [<span data-ttu-id="05c86-110">Videók megosztása a Microsoft Streamben</span><span class="sxs-lookup"><span data-stu-id="05c86-110">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
