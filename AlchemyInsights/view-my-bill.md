@@ -1,5 +1,5 @@
 ---
-title: A számlám megtekintése
+title: A számla megtekintése
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: 3c74953118f248c79186e54bd6728e2c6e083226
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947735"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005476"
 ---
-# <a name="view-my-bill"></a>A számlám megtekintése
+# <a name="view-my-bill-or-invoice"></a>A számla megtekintése
 
 1. A Microsoft 365 Felügyeleti központban nyissa meg a **Számlázási** \> [számlák & fizetések lapot.](https://go.microsoft.com/fwlink/p/?linkid=848039)
 

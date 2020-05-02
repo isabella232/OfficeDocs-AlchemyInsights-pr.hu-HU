@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702884"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005332"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>A próbaverzió kiterjesztése a Microsoft 365 vállalati verzióhoz
 
-A próbaidőszakot további 30 nappal meghosszabbíthatja. Ezt csak egyszer teheti meg.
+A próbaidőszakot 30 nappal meghosszabbíthatja. Ezt követően a próba megy egy további 30 napos [türelmi idő](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). A próbaidőszak meghosszabbításához kövesse az alábbi lépéseket:
   
 1. A felügyeleti központban nyissa meg **a Számlázási** \> [termékek & szolgáltatások lehetőséget.](https://portal.office.com/adminportal/home#/subscriptions)
 

@@ -1,5 +1,5 @@
 ---
-title: Az Office 365 nonprofit office 365-jának megvásárlása
+title: 'Microsoft 365 nonprofit szervezeteknek – jóváhagyva '
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 83eb3cb797ebb7c0e2c3ce0e9449390e71d05341
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3ea3245e1ea17c253412b384cb4d60fc94195f16
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763579"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005188"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Az Office 365 nonprofit office 365-jának megvásárlása
+# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 nonprofit szervezeteknek – jóváhagyva
 
-A Microsoft minősített nonprofit szervezetként való státuszát jóváhagyták. Így vásárolhatja meg:
-  
+A Microsoft minősített nonprofit szervezetként való státuszát jóváhagyták. A vásárlást a Microsoft 365 felügyeleti központból végezheti el.
+
 1. A felügyeleti központban nyissa meg a **Számlázási** \> [beszerzési szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=868433) lapot.
 
-2. Válasszon a **nonprofit programok**listájából.
+2. Válasszon a **nonprofits tervek**listájából.
 
 3. Vigye az egérmutatót a megvásárolni kívánt előfizetés fölé, és válassza a **Vásárlás gombot.**
+
+További információt a [Microsoft 365 nonprofit szervezeteknek szóló forrásai](https://www.microsoft.com/nonprofits/microsoft-365) ban vagy az [értékesítéssel való kapcsolatfelvételben talál.](https://www.microsoft.com/nonprofits/contact-us)

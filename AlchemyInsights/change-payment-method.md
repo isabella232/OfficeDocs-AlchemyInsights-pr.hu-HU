@@ -9,24 +9,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "277"
 - "1500001"
+- "277"
+- "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 72a0ea867e8ea6bc5fff80b6a8497195c15f82e7
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: b7e2ba67a98c0cbbf3fa32a4a13852b4b6ca3f08
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655500"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005368"
 ---
 # <a name="change-payment-method"></a>Fizetési mód módosítása
 
-Ellenőrizheti és módosíthatja a Microsoft 365 Felügyeleti központban konfigurált fizetési módot. Válassza ki az ellenőrizni kívánt előfizetést. Az előfizetéshez beállított fizetési mód a **Számlázás**csoportban jelenik meg.
+A fizetési módot a **Microsoft 365 felügyeleti központból módosíthatja.**
   
-1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
+1. A felügyeleti központban nyissa meg **a Számlázási** \> [termékek & szolgáltatások lehetőséget.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-2. Keresse meg azt az előfizetést, amelynek fizetési módját módosítani szeretné. A fizetési mód mellett válassza a **Szerkesztés**lehetőséget.
+2. Keresse meg azt az előfizetést, amelynek fizetési módját módosítani szeretné. A fizetési mód mellett kattintson a **Szerkesztés**gombra.
 
 3. A módosítás végrehajtásához kövesse a képernyőn megjelenő lépéseket.
 
-További információ: [A Microsoft 365 vállalati verzió fizetési módjának módosítása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+További információ: [A Microsoft 365 vállalati verzió fizetési módjának módosítása.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
