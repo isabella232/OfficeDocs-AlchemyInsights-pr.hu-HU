@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763219"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010616"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Az Office telepítése terminálkiszolgálóra
 
@@ -23,7 +23,7 @@ Microsoft 365-alkalmazások vállalati telepítéséhez Windows Server en a Táv
   
 - Olyan Microsoft 365-előfizetéssel kell rendelkeznie, amely tartalmazza a nagyvállalati Microsoft 365 alkalmazásokat, például az Office 365 Nagyvállalati E3 vagy nagyvállalati E5 verziót. A Microsoft 365 vállalati alkalmazások és a Microsoft 365 Apps for Business Premium csomagok nem tartalmazzák a nagyvállalati Microsoft 365 alkalmazásokat.
 
-- Engedélyeznie kell a [megosztott számítógép aktiválását.](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)
+- Engedélyeznie kell a [megosztott számítógép aktiválását.](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
 
 Ha a Microsoft 365 vállalati alkalmazásokat az RDS szolgáltatásba szeretné telepíteni a Microsoft 365 Felügyeleti központból, ***amely az alapértelmezett telepítési beállításokat használja,*** kövesse az alábbi lépéseket.
 
@@ -48,9 +48,9 @@ Ha a Microsoft 365 vállalati alkalmazásokat az RDS szolgáltatásba szeretné 
 
 3. A Beállításjegyzék-szerkesztőben adjon meg egy **SharedComputerLicensing** karakterlánc-értéket 1-es értékkel a HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration csoportban.
 
-7. Az RDS-kiszolgálón ***jelentkezzen be végfelhasználóként,*** és [ellenőrizze, hogy a microsoft 365-ös vállalati alkalmazások esetében engedélyezve van-e a megosztott számítógép aktiválása.](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)
+7. Az RDS-kiszolgálón ***jelentkezzen be végfelhasználóként,*** és [ellenőrizze, hogy a microsoft 365-ös vállalati alkalmazások esetében engedélyezve van-e a megosztott számítógép aktiválása.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
 
-Az előfeltételekről, a telepítési utasításokról és a testreszabott telepítésekkel kapcsolatos útmutatásról az Office központi telepítési eszközével a [Microsoft 365-alkalmazások telepítése nagyvállalatoknak a Távoli asztali szolgáltatások használatával](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)című témakörben talál további információt.
+Az előfeltételekről, a telepítési utasításokról és a testreszabott telepítésekkel kapcsolatos útmutatásról az Office központi telepítési eszközével a [Microsoft 365-alkalmazások telepítése nagyvállalatoknak a Távoli asztali szolgáltatások használatával](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)című témakörben talál további információt.
   
-A megosztott számítógép-aktiválással kapcsolatos hibák kijavításáról olvassa el A [Microsoft 365 vállalati alkalmazások megosztott számítógép-aktiválásával kapcsolatos problémák elhárítása című témakört.](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+A megosztott számítógép-aktiválással kapcsolatos hibák kijavításáról olvassa el A [Microsoft 365 vállalati alkalmazások megosztott számítógép-aktiválásával kapcsolatos problémák elhárítása című témakört.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
   
