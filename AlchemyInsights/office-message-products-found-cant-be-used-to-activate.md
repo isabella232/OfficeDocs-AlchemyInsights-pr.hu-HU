@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 2593baeb696ae4dcc74dd997ff5e9f630897fea9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761431"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010733"
 ---
 # <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>"A fiókjában talált termékek nem használhatók aktiválásra" Office-alkalmazás-üzenet
 
@@ -28,7 +28,7 @@ ms.locfileid: "43761431"
 
 - Az érintett számítógépen [Állítsa vissza az Office aktiválási állapotát](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
 
-A megosztott számítógépekre vonatkozó esetekben lásd: [A megosztott számítógép-aktiválással kapcsolatos hibák elhárítása az Office 365 ProPlusban](https://support.office.com/article/office-error-the-products-we-found-in-your-account-can-t-be-used-to-activate-c9f9a0b3-5aae-4131-8077-21e6a59f141e)
+A megosztott számítógépekre vonatkozó esetekben lásd: [A megosztott számítógép-aktiválással kapcsolatos hibák elhárítása a Microsoft 365-alkalmazásokban](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 
 További információ: 
 

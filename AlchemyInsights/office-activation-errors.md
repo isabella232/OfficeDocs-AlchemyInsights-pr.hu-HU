@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713324"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010796"
 ---
 # <a name="office-activation-errors"></a>Office-aktiválási hibák
 
-1. A **Vezérlőpult > Programok és szolgáltatások** lehetőségnél keresse a következőt: **Office**. A következőt fogja látni: **Microsoft Office 365 ProPlus** vagy **Microsoft Office 365 Vállalati verzió**. Ha a listában egynél több Office-verzió látható, távolítsa el a nem használt verziót. Ha nem sikerül eltávolítani a Vezérlőpult használatával, használja a Támogatási és helyreállítási segédet (SaRA) a nem használt verzió[eltávolításához](https://aka.ms/SARA-OfficeUninstall-Alchemy). Ezután indítsa újra az Office-t és lépjen be a munkahelyi vagy iskolai fiókjába ha szükséges.  
+1. A **Vezérlőpult > Programok és szolgáltatások** lehetőségnél keresse a következőt: **Office**. A **Microsoft 365 Nagyvállalati verziót** vagy a **Microsoft 365 Vállalati verziót** kell látnia. Ha a listában egynél több Office-verzió látható, távolítsa el a nem használt verziót. Ha nem sikerül eltávolítani a Vezérlőpult használatával, használja a Támogatási és helyreállítási segédet (SaRA) a nem használt verzió[eltávolításához](https://aka.ms/SARA-OfficeUninstall-Alchemy). Ezután indítsa újra az Office-t és lépjen be a munkahelyi vagy iskolai fiókjába ha szükséges.  
 
 2. Ha az Office továbbra sem licencelt, térjen vissza a következőhöz: **Vezérlőpult > Programok és szolgáltatások**, kattintson a jobb gombbal a többi Office-telepítésre, kattintson a **Módosítás** (vagy **Változtatás**) lehetőségre, majd kattintson az **Online javítás** elemre. Az online javítás bizonyos ideig eltarthat. Ezután indítsa újra az Office-t és lépjen be a munkahelyi vagy iskolai fiókjába ha szükséges.  
 
