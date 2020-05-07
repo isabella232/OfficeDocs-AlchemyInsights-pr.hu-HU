@@ -1,9 +1,9 @@
 ---
-title: Számla fizetési
+title: Fizetés számla szerint
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "492"
 - "1500024"
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: f9f9090eeb2770a8ccb82b3c34a46f2446fc4c55
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e4291e4c16b1edb68efd97ca7fbb4ae03685fa37
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555307"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062394"
 ---
-# <a name="pay-by-invoice"></a>Számla fizetési
+# <a name="pay-by-invoice"></a>Fizetés számla szerint
 
-Ha az Office 365-előfizetés egy bizonyos összeg felett van (ez az összeg szolgáltatási terület szerint változik), lehetősége van az elektronikus átutalásos vagy a csekkes számlás fizetés mellett dönteni. Nagyobb összegű számlás fizetések esetében hitelképesség-vizsgálatra lehet szükség. Ha szükség van a hitelképesség vizsgálatára, a rendszer az előfizetés megvásárlásakor értesíti erről. Ha elfogadja, hogy kapcsolatba lépjünk Önnel, kap egy e-mailt, amely további információkat tartalmaz a hitelképesség-vizsgálat igényléséről. A hitelképesség-vizsgálat jellemzően két munkanapot vesz igénybe.
+Ha a Microsoft 365-előfizetése egy bizonyos összegnél többe kerül (ez az összeg a szolgáltatás helyétől függően változik), akkor lehetőséged van számlával fizetni egy csekkel vagy eft-vel. Nagyobb összegű számlás fizetések esetében hitelképesség-vizsgálatra lehet szükség. Ha szükség van a hitelképesség vizsgálatára, a rendszer az előfizetés megvásárlásakor értesíti erről. Ha elfogadja, hogy kapcsolatba lépjünk Önnel, kap egy e-mailt, amely további információkat tartalmaz a hitelképesség-vizsgálat igényléséről. A hitelképesség-vizsgálat jellemzően két munkanapot vesz igénybe.
   
-Ha számlás fizetéssel rendezi az előfizetési díjat, e-mailben értesítjük a számlakivonat elkészültéről. Az e-mail nem tartalmazza a számlakivonat másolatát. Azonban is választhatja [a számlakivonat e-mailben másolatot kap](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). A számlakivonat tartalmazni fogja a rendelkezésre álló fizetési módok részleteit. Ha az előfizetés megvásárlásakor megad egy Megrendelési számot (PO), a szám a számlakivonaton is megjelenik. További információt a számlakivonatok megtekintéséről [A vállalati verziós Office 365 szolgáltatás számlájának megtekintése](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice) című témakörben talál.
+Ha számlás fizetéssel rendezi az előfizetési díjat, e-mailben értesítjük a számlakivonat elkészültéről. Az e-mail nem tartalmazza a számlakivonat másolatát. Igény szerint azonban [e-mailben is elküldjük Önnek a számlakivonatot](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email). A számlakivonat tartalmazni fogja a rendelkezésre álló fizetési módok részleteit. Ha az előfizetés megvásárlásakor megad egy Megrendelési számot (PO), a szám a számlakivonaton is megjelenik. A számlakivonatok eléréséről [A számla megtekintése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) című cikkben olvashat bővebben.
   
-Több számla kifizetésével kapcsolatban lásd [az Office 365 üzleti előfizetés díja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+Ha többet szeretne megtudni a számla alapú fizetésről, olvassa el [az Előfizetés kifizetése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
   
-Ha meg szeretné találni módosítása fizetési módok [Office 365 üzleti tartozó fizetési mód megváltoztatása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)témakörben talál.
+Ha módosítani szeretné a fizetési módokat, [olvassa el a Fizetési mód módosítása (Módosítás)](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)témakört.

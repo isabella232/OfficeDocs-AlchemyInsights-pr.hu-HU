@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712209"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061745"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Microsoft 365-előfizetés vásárlása ingyenes próbaverzióból
 
@@ -25,7 +25,7 @@ Kipróbálta a Microsoft 365-öt, és most már készen áll a vásárlásra. Ha
   
  **A próbaverzióval megegyező csomag megvásárlása**
   
-1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
+1. A felügyeleti központban nyissa meg a **[Termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** **számlázása** \> lapot.
 
 2. Keresse meg a megvásárolni kívánt előfizetést. A **Licencek csoportban** válassza az **Előfizetés vásárlása**lehetőséget, és a kijelentkezéshez kövesse a lépéseket.
 

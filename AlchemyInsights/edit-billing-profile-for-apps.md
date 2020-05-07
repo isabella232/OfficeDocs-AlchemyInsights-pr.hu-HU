@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703897"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062538"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Alkalmazások számlázási profiljának szerkesztése
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Az alkalmazások számlázási profiljának módosítása
 
-1. Nyissa meg a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot, majd válassza az **Alkalmazások** lapot.
+1. Nyissa meg a **Termékek számlázása** > **[lapot,](https://go.microsoft.com/fwlink/p/?linkid=842054)** majd válassza az **Alkalmazások** lapot.
 
 2. Keresse meg és jelölje ki a kezelni kívánt alkalmazást.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "43703897"
 
 ## <a name="edit-billing-profiles"></a>Számlázási profilok szerkesztése
 
-1. Nyissa meg a **Számlázási** > [számlák & fizetések](https://go.microsoft.com/fwlink/p/?linkid=848039) lapot, majd válassza a **Számlázási profilok lehetőséget.**
+1. Nyissa meg a **Számlázási** > **[számlák & fizetések](https://go.microsoft.com/fwlink/p/?linkid=848039)** lapot, majd válassza a **Számlázási profilok lehetőséget.**
 
 2. Válassza ki a szerkeszthető listából a számlázási profilt.

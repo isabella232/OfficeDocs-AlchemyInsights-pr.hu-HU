@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671495"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061998"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Felhasználók hozzáadása, eltávolítása vagy annak megakadályozása, hogy a felhasználók módosítsák a profilképeket
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671495"
 
 - **Profilfotók eltávolítása:** A profilfotókat eltávolíthatja egy rendszergazda az [Azure Active Directory felhasználói kezelése,](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) vagy egy felhasználó a Microsoft Teams felhasználói profil.
 
-- **Profilfotók változásainak blokkolása:** A microsoft 365* összes fotómódosítása letiltható az Outlook Web App irányelveinek hozzáadásával a cikkben, a Fényképek zárolása vagy a [Microsoft 365 profilfotó módosítására vonatkozó engedélyek korlátozása](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Profilfotók változásainak blokkolása:** A microsoft 365* összes fotómódosítása letiltható az Outlook Web App irányelveinek hozzáadásával a cikkben, a Fényképek zárolása vagy a [Microsoft 365 profilfotó módosítására vonatkozó engedélyek korlátozása](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
 *Kérjük, vegye figyelembe, hogy a Microsoft Teams jelenleg nem támogatja az Outlook Web App irányelveit a fényképek módosításának letiltására, de 2020 elején tervezi a funkció támogatását.
