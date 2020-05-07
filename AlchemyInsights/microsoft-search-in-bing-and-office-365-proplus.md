@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762319"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043039"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>A Microsoft Keresés a Bingben funkció és a Nagyvállalati Microsoft 365-alkalmazások
 
-A Nagyvállalati Microsoft 365-alkalmazások 2002-es verziójával kezdődően telepítve lesz a Microsoft Keresés a Bingben funkció bővítménye, amely – csak bizonyos helyeken levő eszközökön – a Binget teszi a Google Chrome webböngésző alapértelmezett keresőmotorjává.
+Egy ***opcionális*** Microsoft Keresés a Bingben Google Chrome-bővítmény érhető el a nagyvállalati Microsoft 365-alkalmazásokhoz (korábbi nevükön Office 365 ProPlus) a 2005-ös verziótól kezdődően. Ez a bővítmény Windowst futtató, tartományhoz csatlakoztatott eszközökhöz érhető el bizonyos helyeken. Ha a bővítmény használata mellett dönt, akkor a rendszer a Binget állítja be alapértelmezett keresőmotornak.
 
-**Ha nem szeretné telepíteni a bővítményt, [hajtsa végre az alábbi lépéseket](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Ha telepíteni szeretné a bővítményt, akkor ***jóvá kell hagynia*** egy beállítás konfigurálásával a Microsoft 365 Felügyeleti központ Microsoft Keresés részében.
 
-Felhasználói a bővítmény telepítése után is könnyedén, önállóan leállíthatják a Bing alapértelmezett keresőmotorként való használatát egy egyszerű [Be/Ki](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome)-kapcsoló használatával, illetve [eltávolíthatja a bővítményt](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) szervezete több eszközéről is.
+Az ***opcionális*** bővítmény telepítése egy háttérszolgáltatásra is hagyatkozik, amely a nagyvállalati Microsoft 365-alkalmazások részét képezi a 2005-ös verziótól kezdődően. Ha a háttérszolgáltatás nincs telepítve, a rendszer nem telepíti a bővítményt.
 
-[Itt](https://docs.microsoft.com/deployoffice/microsoft-search-bing) elérhető egy részletes súgócikk, amely segítség jobban megérteni a változást.
+A felhasználók a bővítmény telepítése után is könnyen leállíthatják a Bing alapértelmezett keresőmotorként történő használatát egy egyszerű be-/kikapcsoló használatával.
+
+További információk az ***opcionális*** bővítmény használatáról: [A Microsoft Keresés a Bingben funkció és a nagyvállalati Microsoft 365-alkalmazások](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
