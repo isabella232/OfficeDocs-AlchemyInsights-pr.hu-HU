@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711417"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086676"
 ---
 # <a name="canceling-your-subscription"></a>Lemondja az előfizetést?
 
@@ -25,9 +25,9 @@ Sajnálni fogjuk, hogy elmegy, de ha le szeretné mondani az előfizetését, it
   
 - Ha Ön próba-ügyfél, nincs mit törölni. A próba-előfizetések automatikusan lejárnak, kivéve, ha megad egy fizetési módot.
 
-- Ha 25-nél kevesebb hozzárendelt licenccel rendelkezik, online lemondhatja az előfizetést. Nyissa meg a **Számlázási** \> [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot. A **Beállítások & műveletek csoportban** válassza **az Előfizetés lemondása**lehetőséget.
+- Ha 25-nél kevesebb hozzárendelt licenccel rendelkezik, online lemondhatja az előfizetést. Nyissa meg a **Termékek számlázása** \> **[lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)** A **Beállítások & műveletek csoportban** válassza **az Előfizetés lemondása**lehetőséget.
 
-- Ha 25-nél több hozzárendelt licenccel rendelkezik, eltávolíthatja a felhasználókat, amíg 25-nél kevesebb nem rendelkezik, vagy használhatja a "Szólítsuk önt" lehetőséget, hogy beszéljen egy támogatási szakemberrel.
+- Ha 25-nél több hozzárendelt licenccel rendelkezik, a felhasználókat 25-nél kevesebbre távolíthatja el.
   
 **Visszatérítés: Minden arányos kreditet visszaküldünk Önnek a következő számlázási cikluson belül.** 
 

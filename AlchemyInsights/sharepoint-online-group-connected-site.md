@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: b54457427ffa563b6a6323d85e1c8800191eca11
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912968"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064395"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problémák a csoportos csatlakoztatott webhely SharePoint-ban történő létrehozásakor
 
@@ -26,7 +26,7 @@ Ha törölt egy csoportot és annak csatlakoztatott webhelyét, és egy másik w
    - A PowerShell kezelésének megkezdéséről a [SharePoint Online Felügyeleti rendszerhéj – első lépések](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite)ebben az esetben olvashat bővebben.
    - Távolítsa el a helyet a törölt helyekről az [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell parancsmag használatával. A Powershell szükséges a csoportwebhelyek végleges törléséhez.
 
-1. Ha csoporthoz csatlakoztatott webhelyet hoz létre, és figyelmeztetést kap: **Már létezik egy másik, azonos aliassal rendelkező csoport,** ellenőrizze a meglévő csoportokat a [Microsoft 365 Felügyeleti központban.](https://admin.microsoft.com/AdminPortal/Home#/groups) A probléma megoldásához törölje a meglévő csoportot, ha már nincs rá szükség, vagy hozzon létre egy másik aliast hozzárendelt webhelyet.
+1. Ha csoporthoz csatlakoztatott webhelyet hoz létre, és figyelmeztetést kap: **Már létezik egy másik, azonos aliassal rendelkező csoport,** ellenőrizze a meglévő csoportokat a [Microsoft 365 Felügyeleti központból.](https://admin.microsoft.com/AdminPortal/Home#/groups) A probléma megoldásához törölje a meglévő csoportot, ha már nincs rá szükség, vagy hozzon létre egy másik aliast hozzárendelt webhelyet.
 
 1. A SharePoint segítségével különböző módokon hozhat létre és használhat modern csoportokat.
 

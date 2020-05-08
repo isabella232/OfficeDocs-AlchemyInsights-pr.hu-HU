@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741829"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063259"
 ---
 # <a name="subscription-recurring-billing"></a>Előfizetés ismétlődő számlázása
 
 Ha tudni szeretné, hogy mikor lesz kiszámlázva havi vagy éves előfizetése (ha **az ismétlődő számlázás** be van kapcsolva) vagy lejár (ha az ismétlődő **számlázás** ki van kapcsolva):
   
-1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
+1. A felügyeleti központban nyissa meg a **[Termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** **számlázása** \> lapot.
 
 2. A szeretne többet tudni az előfizetésről a **Számlázás csoportban**a **Megújítások dátumon** vagy **lejáratkor című témakörben.**
 

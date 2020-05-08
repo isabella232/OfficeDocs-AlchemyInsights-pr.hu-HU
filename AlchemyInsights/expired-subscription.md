@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714152"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063475"
 ---
 # <a name="expired-subscription"></a>Lejárt előfizetés
 
@@ -26,7 +26,7 @@ ms.locfileid: "43714152"
   
 **Újraaktiválás**
   
-1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
+1. A felügyeleti központban nyissa meg a **[Termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** **számlázása** \> lapot.
 
 2. Keresse meg az újraaktiválni kívánt előfizetést. A **Számlázás** részben válassza az **Újraaktiválás** lehetőséget.
 
@@ -38,7 +38,7 @@ További információért tekintse meg [Az előfizetés újraaktiválása](https
 
 **Új vásárlás**
   
-1. A felügyeleti központban nyissa meg a **Számlázási** \> [beszerzési szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=868433) lapot.
+1. A felügyeleti központban nyissa meg a **Számlázási** \> **[beszerzési szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=868433)** lapot.
 
 2. Válassza ki a megvásárolni kívánt előfizetést, majd válassza a **Vásárlás**lehetőséget.
 
