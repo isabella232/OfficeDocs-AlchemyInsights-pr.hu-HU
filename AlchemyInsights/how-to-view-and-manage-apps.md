@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 63c3b42c046efbcae0f509045a8f3e45e49002ac
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7ee232ccd037b64c7591b7332ab58931b86ba349
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717126"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063727"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Alkalmazások megtekintése és kezelése
 
 Az alkalmazásokat a Microsoft 365 Felügyeleti központban tekintheti meg. 
 
-1. A felügyeleti központban nyissa meg a **Számlázási** > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
+1. A felügyeleti központban nyissa meg a**[Termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** **számlázása** > lapot.
 
-2. A **Termékek & szolgáltatások** lapon válassza az **Alkalmazások** lapot.
+2. A **[Saját termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapon válassza az **Alkalmazások** lapot.
