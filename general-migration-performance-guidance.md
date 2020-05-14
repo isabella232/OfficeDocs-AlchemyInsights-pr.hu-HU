@@ -14,14 +14,14 @@ ms.custom:
 - "3179"
 ms.assetid: ''
 ms.openlocfilehash: 0f754fd4264d7800e4e02a295147cded46aca817
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43692659"
 ---
-# <a name="general-migration-performance-guidance"></a><span data-ttu-id="c9a6d-102">Az áttelepítési teljesítményt ismertető általános útmutató</span><span class="sxs-lookup"><span data-stu-id="c9a6d-102">General migration performance guidance</span></span>
+# <a name="general-migration-performance-guidance"></a><span data-ttu-id="07fc9-102">Az áttelepítési teljesítményt ismertető általános útmutató</span><span class="sxs-lookup"><span data-stu-id="07fc9-102">General migration performance guidance</span></span>
 
-<span data-ttu-id="c9a6d-103">Az áttelepítési teljesítményt befolyásolhatja a hálózati infrastruktúra, a fájlok mérete, az áttelepítés időpontja és a leszabályozás.</span><span class="sxs-lookup"><span data-stu-id="c9a6d-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="c9a6d-104">Ezek megértése segítséget nyújthat az áttelepítés megtervezéséhez és a lehető leghatékonyabb elvégzéséhez.</span><span class="sxs-lookup"><span data-stu-id="c9a6d-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="07fc9-103">Az áttelepítési teljesítményt befolyásolhatja a hálózati infrastruktúra, a fájlok mérete, az áttelepítés időpontja és a leszabályozás.</span><span class="sxs-lookup"><span data-stu-id="07fc9-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="07fc9-104">Ezek megértése segítséget nyújthat az áttelepítés megtervezéséhez és a lehető leghatékonyabb elvégzéséhez.</span><span class="sxs-lookup"><span data-stu-id="07fc9-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
 
-[<span data-ttu-id="c9a6d-105">Az áttelepítési teljesítményt ismertető általános útmutató</span><span class="sxs-lookup"><span data-stu-id="c9a6d-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+[<span data-ttu-id="07fc9-105">Az áttelepítési teljesítményt ismertető általános útmutató</span><span class="sxs-lookup"><span data-stu-id="07fc9-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
