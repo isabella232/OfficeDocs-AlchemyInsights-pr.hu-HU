@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062466"
 ---
 # <a name="find-and-activate-my-product-key"></a>A termékkulcs megkeresése és aktiválása
@@ -32,7 +32,7 @@ Ha a Microsoft 365 Business Premium Standardot kiskereskedelmi üzletből vásá
 
 **Megjegyzés:** Ha termékkulcsot szeretne használni a lejárati dátum meghosszabbításához vagy licenc hozzáadásához a meglévő Microsoft 365 Business Premium Standard előfizetéshez, ugyanahhoz a Microsoft 365-előfizetéshez új és nem használt kulcsra van szükség.  Az eredeti Microsoft 365 termékkulcs megadása nem fog működni, mert a már beváltott kulcs nem használható újra.
 
-1. A felügyeleti központban nyissa meg a**[Termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** **számlázása** > lapot.
+1. A felügyeleti központban nyissa meg a **Termékek számlázása**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapot.
 
 2. Keresse meg azt az előfizetést, amelyre meg szeretné hosszabbítani a lejárati dátumot, vagy licenceket szeretne hozzáadni.  Kattintson [a befejezési dátum meghosszabbítása](https://go.microsoft.com/fwlink/p/?linkid=842054) vagy [további licencek hozzáadása](https://go.microsoft.com/fwlink/p/?linkid=842054)elemre.
 

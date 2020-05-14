@@ -14,10 +14,10 @@ ms.custom:
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058429"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>Előfizetések összehasonlítása, frissítése vagy vásárlása
@@ -26,6 +26,6 @@ Az előfizetések [üzleti](https://products.office.com/compare-all-microsoft-of
   
 Ha a szervezet érdekelt az összes csomag és árképzés összehasonlításában, tekintse [át az Összes előfizetés összehasonlítása](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Ha szervezete már megvásárolta az előfizetéseket, és más csomagra szeretne átlépni, ezt a Microsoft 365 Felügyeleti központból teheti meg. Nyissa meg a [Termékek](https://go.microsoft.com/fwlink/p/?linkid=842054) **számlázása** \> lapot, jelölje ki a módosítani kívánt előfizetést, majd a **Frissítés** lapon tekintse meg az elérhető új csomagok listáját.
+Ha szervezete már megvásárolta az előfizetéseket, és más csomagra szeretne átlépni, ezt a Microsoft 365 Felügyeleti központból teheti meg. Nyissa meg a **Termékek számlázása** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot, jelölje ki a módosítani kívánt előfizetést, majd a **Frissítés** lapon tekintse meg az elérhető új csomagok listáját.
   
 A szervezet is keverheti és párosíthatja az előfizetéseket, hogy megfeleljen a felhasználók igényeinek és a szolgáltatás követelményeinek. A felügyeleti központból lépjen a **Számlázási** \> [beszerzési szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=868433) lapra.

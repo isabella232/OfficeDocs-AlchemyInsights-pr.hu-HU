@@ -13,10 +13,10 @@ ms.custom:
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064231"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Előfizetések váltása a postaláda méretének növeléséhez
@@ -25,7 +25,7 @@ Ha a postaláda mérete már 100 GB, nem lehet növelni.
   
 Ha a postaláda mérete 50 GB, az [Office 365 Nagyvállalati E3](https://products.office.com/business/office-365-enterprise-e3-business-software) vagy [az Office 365 Nagyvállalati E5](https://products.office.com/business/office-365-enterprise-e5-business-software)csomagra való váltással 100 GB-ra növelheti. Az alábbi lépésekkel válthat másik előfizetésre:
   
-1. A Microsoft 365 Felügyeleti központban nyissa meg a **[Termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** **számlázása** \> lapot.
+1. A Microsoft 365 Felügyeleti központban nyissa meg a **Termékek számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapot.
 
 2. Válassza ki a frissíteni kívánt előfizetést.
 

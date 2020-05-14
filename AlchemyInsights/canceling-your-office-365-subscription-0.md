@@ -14,17 +14,17 @@ ms.custom:
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
 ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44059079"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Törli a Microsoft 365-előfizetését?
 
 Sajnáljuk, hogy elmész!
   
-A szervezeti adatok alapján úgy véljük, hogy az összes jelenlegi előfizetése kevesebb mint 25 hellyel rendelkezik. Az előfizetés online lemondásához nyissa meg a **Termékek számlázása** \> **[lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)** A **Beállítások & műveletek csoportban** válassza **az Előfizetés lemondása**lehetőséget.
+A szervezeti adatok alapján úgy véljük, hogy az összes jelenlegi előfizetése kevesebb mint 25 hellyel rendelkezik. Az előfizetés online lemondásához nyissa meg a **Termékek számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapot. A **Beállítások & műveletek csoportban** válassza **az Előfizetés lemondása**lehetőséget.
   
 **Visszatérítés: Minden arányos kreditet visszaküldünk Önnek a következő számlázási cikluson belül.** 
 

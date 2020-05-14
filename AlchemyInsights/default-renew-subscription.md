@@ -12,10 +12,10 @@ ms.custom:
 - "3043"
 - "1500012"
 ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062250"
 ---
 # <a name="renewing-your-subscription"></a>Az előfizetés megújítása
@@ -26,6 +26,6 @@ Ha termékkulccsal fizetett előfizetését, az előfizetés az előfizetési id
 
 Az ismétlődő számlázás bekapcsolása: 
 
-1. Nyissa meg **a Termékek számlázása** > **[.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. Nyissa meg **a Termékek számlázása**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Válassza ki azt az előfizetést, amelynek ismétlődő számlázását kezelni szeretné.
 3. A **Számlázás**csoportban válassza a **Szerkesztés lehetőséget,** és hajtsa végre a módosításokat az Ismétlődő **számlázási beállítások** ablakban. 

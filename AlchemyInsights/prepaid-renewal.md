@@ -14,15 +14,15 @@ ms.custom:
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
 ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062899"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Előre fizetett Microsoft 365-megújítás
 
-1. A felügyeleti központban nyissa meg a **[Termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** **számlázása** \> lapot.
+1. A felügyeleti központban nyissa meg a **Termékek számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapot.
 
 2. Keresse meg a kiterjeszteni kívánt előfizetést. A **Számlázás csoportban** válassza **a Befejezési dátum meghosszabbítása**lehetőséget.
 

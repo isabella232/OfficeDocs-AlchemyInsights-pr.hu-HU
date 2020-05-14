@@ -13,17 +13,17 @@ ms.custom:
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.openlocfilehash: 54f4077f79d75fe32c9291288d1ed1d93a096f33
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062646"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>Microsoft 365-előfizetés újraaktiválása
 
 Ha az előfizetés eközben lejár, a Microsoft letiltotta, vagy az előfizetési időszak közepén lemondta, újra aktiválhatja azt a felügyeleti központban.
   
-1. A felügyeleti központban nyissa meg a **[Termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** **számlázása** \> lapot.
+1. A felügyeleti központban nyissa meg a **Termékek számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapot.
 
 2. Válassza ki az újraaktiválni kívánt előfizetést. A Számlázás csoportban válassza az **Újraaktiválás**lehetőséget.
 

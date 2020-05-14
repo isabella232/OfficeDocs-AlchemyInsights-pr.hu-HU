@@ -13,17 +13,17 @@ ms.custom:
 - "652"
 - "2000017"
 ms.openlocfilehash: 0362ef42344aba57eca276a9fafb5e847dd9996f
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063907"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>A Microsoft 365 vállalati alkalmazásokra vonatkozó licencek vásárlása
 
 Amikor licenceket rendel a felhasználókhoz, előfordulhat, hogy további licenceket kell vásárolnia. Ehhez tegye a következőket:
   
-1. A felügyeleti központban nyissa meg a **[Termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** **számlázása** \> lapot.
+1. A felügyeleti központban nyissa meg a **Termékek számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapot.
 
 2. Keresse meg azt az előfizetést, amelyhez licenceket szeretne hozzáadni, majd válassza **a Licencek hozzáadása/eltávolítása**lehetőséget.
 
