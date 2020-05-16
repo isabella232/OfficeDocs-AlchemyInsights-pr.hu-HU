@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908789"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254751"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams frissítés
 
-**Fontos:** Segíthetünk a javításhoz egy támogatási diagnosztika használatával, de úgy tűnik, hogy nem használja az Új Felügyeleti központot. Az Új felügyeleti központ használatához csúsztassa a jobb felső sarokban az **új felügyeleti központot** jobbra jelző kapcsolót. Az Új felügyeleti központ segítségével kattintson a **Segítségre van szüksége?** widgetre, írja be a "Csapatok frissítése" kifejezést, majd kövesse a diagnosztikai eszközök utasításait.
+**Fontos:** Ha a Skype Vállalati online verzióról a Microsoft Teams csak csapatok módban lett frissítve, de úgy találja, hogy még nem áll készen, ezt egy támogatási diagnosztikai eszközzel javíthatjuk. Győződjön meg arról, hogy az új Felügyeleti központot használja, ha a jobb felső sarokban lévő kapcsolót jobbra csúsztatja, és jobbra az **új Felügyeleti központot**mondja. Az új Felügyeleti központ használatával kattintson a **Segítségre van szüksége?** widgetre, írja be a "**Csapatok frissítése**" kifejezést, majd kövesse az utasításokat a diagnosztika futtatásához.
 
 Akár csak most kezdi el használni a Teamst, akár már használja a Teamst a Skype Vállalati verzió mellett, vagy készen áll a frissítésre, biztosítani szeretnénk, hogy minden, amire szüksége lehet a Teamshez való sikeres utazáshoz. További információkért kérjük, látogasson el az alábbi linkekre.
 
