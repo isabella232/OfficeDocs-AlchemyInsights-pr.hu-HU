@@ -12,14 +12,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a580de2c963a53654499f1715dad7f3bb36c706
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765054"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331316"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Problémák a naptár elfoglaltsági adatainak megtekintésével kapcsolatban
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>A naptár elérhetőségével kapcsolatos hibaelhárítási lépések (foglaltság)
 
-Ha más naptárakban nem láthatók a naptár elfoglaltsági adatai, vagy ha mások nem látják az elfoglaltsági adatokat a naptárban, használja a [Microsoft támogatási és helyreállítási segédjét.](https://diagnostics.office.com/)
-  
+Általában az elfoglaltsági problémák elhárításának legjobb eszköze az [Exchange Remote Connectivity Analyzer (RCA),](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) amely azt szeretné, hogy hol nem működik. Az RCA részletes nyilvántartást ad arról, hogy mi működött és mi nem sikerült, konkrét hibaüzenetekkel, amelyeket felkereshet, hogy megoldásokat találjon. Ez is birtokol egy linket a [Microsoft támogatási és helyreállítási asszisztens](https://diagnostics.office.com/).
+
+Egy másik jó eszköz, hogy megpróbálja a [Naptár ellenőrző eszköz az Outlook számára,](https://www.microsoft.com/download/details.aspx?id=28786) ha a felhasználó rendelkezik az Outlook.
