@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742049"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343092"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>A SharePoint riasztási értesítései nem kézbesítve
 
@@ -33,15 +33,6 @@ Gyakran feltett kérdések a riasztásokról:
 
 - Nem lehet riasztásokat küldeni a terjesztési csoportnak, csak a biztonság és az O365 csoportok támogatottak.
 - A figyelmeztető e-mail sablonok nem szabhatók testre; Ezek eléréséhez Microsoft FLOW vagy SharePoint Designer workflow szükséges.
-
-További információ:
-
-- **Riasztás beállítása**: A riasztások beállításáról a Riasztás [létrehozása értesítést kap, ha egy fájl vagy mappa megváltozik a SharePointban](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Riasztások elhárítása**: A riasztások hibaelhárításával kapcsolatos további információt a [Felhasználók nem kapnak SharePoint Online-riasztási értesítésekről.](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)
-- **Speciális O365 megfelelőségi riasztási szabályzatok**: A riasztások beállításával kapcsolatos további tudnivalókért olvassa el a [Megfelelőségi riasztási szabályzatokat.](https://docs.microsoft.com/office365/securitycompliance/alert-policies)
-- **SharePoint- és OneDrive-naplók**: Az események beolvasásáról a [Keresési naplóban](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)című témakörben talál további információt.
-- **A komplex veszélyforrások elleni védelem által küldött riasztások**: A [SharePoint és a OneDrive ATP-jének](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)megtekintése.
-- **Adatveszteség-megelőzési házirendek által küldött riasztások**: Lásd [a DLP-házirendek e-mail értesítéseit.](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
 
 ## <a name="related-topics"></a>Kapcsolódó témakörök
 
