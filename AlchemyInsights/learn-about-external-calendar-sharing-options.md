@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762895"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373037"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Tudnivalók a külső naptármegosztási lehetőségekről
+# <a name="exchange-online-collaboration-options"></a>Az Exchange Online együttműködési beállításai
 
-Ha értekezleteket kell ütemeze a szervezeten kívüli személyekkel, a Microsoft 365 lehetővé teszi, hogy a naptárakat elérhetővé tegye a "külső felhasználók" számára, akiknek szabad/elfoglalt sági időt kell látniuk, de nem rendelkeznek felhasználói fiókkal a Microsoft 365-környezethez. További információt a [Naptárak megosztása külső felhasználókkal](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users)című témakörben talál.
+- A **külső naptármegosztásról a** [Megosztás az Exchange Online-ban](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx)című témakörben olvashat.
+
+- Ha **naptárakat szeretne megosztani egy másik Office 365-ös szervezettel,** olvassa el [a Szervezeti kapcsolatok az Exchange Online-ban](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
+
+- Ha **azt szeretné, hogy a felhasználók hogyan osszák meg naptáraikat a szervezeten kívüli emberekkel,** olvassa el [a Házirendek megosztása az Exchange Online-ban](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
+
+- A naptármegosztás **továbbfejlesztését** a [Naptár megosztása a Microsoft 365-ben (Naptármegosztás)](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4)részben olvassa el.
