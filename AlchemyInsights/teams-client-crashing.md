@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030581"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354054"
 ---
 # <a name="teams-client-crashing"></a>Összeomlik a Teams ügyfélprogram?
 
@@ -24,32 +24,26 @@ Ha összeomlik a Teams ügyfélprogram, próbálkozzon az alábbiakkal:
 
 - Ha a Teams asztali appot használja, [ellenőrizze, hogy az app frissítése teljes-e](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Győződjön meg arról, hogy az [Office 365 URL-címei és címtartományai](https://docs.microsoft.com/microsoftteams/connectivity-issues) elérhetők.
+- Győződjön meg arról, hogy a [Microsoft 365 összes URL-címe és címtartománya](https://docs.microsoft.com/microsoftteams/connectivity-issues) elérhető.
 
-- Jelentkezzen be a rendszergazdai fiókjával, és a [Szolgáltatásállapot irányítópultot](https://docs.microsoft.com/office365/enterprise/view-service-health) ellenőrizve erősítse meg, hogy nincs kimaradás vagy szolgáltatásiteljesítmény-csökkenés.
+- Jelentkezzen be a bérlői rendszergazdai fiókkal, és ellenőrizze a [Szolgáltatásállapot-irányítópultot,](https://docs.microsoft.com/office365/enterprise/view-service-health) és ellenőrizze, hogy nincs-e kimaradás vagy szolgáltatáslebontás.
 
- - Utolsó lépésként megpróbálhatja törölni a Teams ügyféloldali gyorsítótárát:
+- A Teams alkalmazás eltávolítása és újratelepítése (hivatkozás)
+    - Tallózással keresse meg a számítógép %appdata%\Microsoft\teams\ mappáját, és törölje a könyvtár összes fájlját.
+    - [Töltse le és telepítse a Teams alkalmazást,](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)és ha lehetséges, telepítse a Teamst rendszergazdaként (kattintson a jobb gombbal a Teams telepítőjére, és ha elérhető, válassza a "Futtatás rendszergazdaként" lehetőséget).
 
-    1.  Lépjen ki teljesen a Microsoft Teams asztali ügyfélprogramból. Kattinthat a jobb gombbal a **Teams** ikonjára az ikontálcán, majd a **Kilépés** parancsra, illetve futtathatja a Feladatkezelőt, és teljesen leállíthatja a folyamatot.
+Ha a Teams-ügyfél még mindig összeomlik, reprodukálhatja a problémát? Ha igen:
 
-    2.  Nyissa meg a Fájlkezelőt, és írja be a következőt: %appdata%\Microsoft\teams.
+1. A lépésrögzítő vel rögzítheti a lépéseket.
+    - Zárja be az összes felesleges vagy bizalmas alkalmazást.
+    - Indítsa el a Lépésrögzítőt, és reprodukálja a problémát, miközben bejelentkezik az érintett felhasználói fiókkal.
+    - [Gyűjtse össze a csapatok naplókat, hogy rögzítse a rögzített repro lépéseket](https://docs.microsoft.com/microsoftteams/log-files). **Megjegyzés:** Győződjön meg arról, hogy rögzíti az érintett felhasználó bejelentkezési címét.
+    - Gyűjtse össze a memóriakép és/vagy a Hibagyűjtő adatait (Windows). Indítsa el a Windows Powershell t azon a számítógépen, amelyen az összeomlás történik, és futtassa a következő parancsokat:
 
-    3.  A könyvtárban az alábbi mappák közül látható néhány:
-
-         - Az **alkalmazás-gyorsítótáron** belül nyissa meg a gyorsítótárat, és törölje a fájlok bármelyikét a gyorsítótár helyén: %appdata%\Microsoft\teams\application cache\cache.
-
-        - A **blobtárolóban** törölje az összes fájlt: %appdata%\Microsoft\teams\blob_storage.
-
-        - A **gyorsítótárban** törölje az összes fájlt: %appdata%\Microsoft\teams\Cache.
-
-        - Az **adatbázisokban** törölje az összes fájlt: %appdata%\Microsoft\teams\databases.
-
-        - Az **GPU-gyorsítótárban** törölje az összes fájlt: %appdata%\Microsoft\teams\GPUcache.
-
-        - Az **IndexedDB**, helyen törölje a .db fájlt: %appdata%\Microsoft\teams\IndexedDB.
-
-        - A **helyi tárhelyen** törölje az összes fájlt: %appdata%\Microsoft\teams\Local Storage.
-
-        - Végül a **tmp** könyvtárban törölje bármelyik fájlt: %appdata%\Microsoft\teams\tmp.
-
-    4. Indítsa újra a Teams ügyfélprogramot.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. Csatolja a fájlt a támogatási esethez.

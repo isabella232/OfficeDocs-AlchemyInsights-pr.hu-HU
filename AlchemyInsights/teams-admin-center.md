@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021642"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354090"
 ---
 # <a name="teams-admin-center"></a>Teams Felügyeleti központ
 
@@ -30,4 +30,6 @@ Ha nem tudja elérni a Teams Felügyeleti központot, ellenőrizze az alábbiaka
 Ha nem jelennek meg felhasználók a Teams Felügyeleti központban, ellenőrizze az alábbiakat:
 
 - Létrehozott felhasználókat, vagy kiosztott licenceket az elmúlt 24 órában? Kérjük, várjon legalább 24 órát, mielőtt támogatási jegyet nyitna.
-- Ellenőrizze: megfelelő licenceket rendelt hozzá a felhasználókhoz? 
+- Ellenőrizze: megfelelő licenceket rendelt hozzá a felhasználókhoz?
+- Ha rendelkezik helyszíni Active Directoryval, ellenőrizze, hogy [az msRTCSIP-PrimaryUserAddress vagy a helyi Active Directory ProxyAddresses mezőjében szereplő SIP-cím értéke egyedi-e, és a formátum megegyezik a](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip:**Username** (Felhasználó neve a [Microsoft 365 felügyeleti központból)](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)mezőben.
+- Ha meg kívánja tartani a Skype Vállalati kiszolgáló központi telepítését, és a felhasználókat a helyszínen és az Online szolgáltatásban szeretné elhelyezni: kövesse a Skype Vállalati kiszolgáló vezérlőpultján található "Hibrid beállítása a Teamsszel és a **Skype Vállalati online verzióval"** című részt, és helyezze át a felhasználók online állapotát.
