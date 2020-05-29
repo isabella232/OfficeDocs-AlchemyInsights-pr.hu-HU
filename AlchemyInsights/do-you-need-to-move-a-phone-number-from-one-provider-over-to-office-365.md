@@ -10,14 +10,19 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714916"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417390"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>Telefonszám áthelyezése másik szolgáltatótól a Microsoftba
+# <a name="port-existing-numbers-to-teams"></a>Meglévő számok portolása a Teamsbe
 
-Át kell helyeznie egy telefonszámot egy másik szolgáltatótól a Microsoftba? A különböző országok és régiók telefonszámai a [Szervezet telefonszámainak kezelése](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)területen találhatók. Válassza ki az országot vagy régiót a számok átvitelével kapcsolatos információk kereséséhez. 
-  
+Ha már van telefonszolgáltatója, és felhasználói vagy szolgáltatói már rendelkeznek telefonszámokkal, akkor „számhordozási kérelmet“ kell létrehoznia, amellyel a meglévő telefonszámokat átviheti a Microsoft Teamsbe.
+
+- A portolás elvégzéséhez szükséges információt a [Telefonszámok átvitele a Teamsbe](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) témakörben talál. 
+
+- A telefonszámok kezeléséhez szükséges információt a [Telefonszámok kezelése a szervezetben](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) témakörben talál. 
+
+További információt a [Portbeállítások áttekintése](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)című témakörben talál.  

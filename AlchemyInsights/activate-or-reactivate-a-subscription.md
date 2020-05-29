@@ -12,12 +12,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062106"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418038"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Előfizetés aktiválása vagy újraaktiválása
 
@@ -37,7 +37,7 @@ Ha az előfizetés eközben lejár, a Microsoft letiltotta, vagy az előfizetés
 
 2. Válassza ki az újraaktiválni kívánt előfizetést, majd válassza az **Újraaktiválás**lehetőséget. Ha nem látható az **Újraaktiválás** lehetőség, [hívja fel az ügyfélszolgálatot](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products), és kérje az előfizetés újraaktiválását.
 
-3. Adja meg a fizetési adatait. Ugyanitt [frissítheti meglévő fizetési adatait](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account) is.
+3. Adja meg a fizetési adatait. Ugyanitt [frissítheti meglévő fizetési adatait](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) is.
 
 További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.
 

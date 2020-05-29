@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062286"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417606"
 ---
 # <a name="declined-credit-card"></a>Elutasított hitelkártya
 
@@ -28,4 +28,4 @@ További információ: "Mi a teendő, ha lejárt a hitelkártyám, és a fizeté
   
 Ha továbbra is a hitelkártya elutasításáról szóló üzenetet kap, lépjen kapcsolatba a bankjával. Elképzelhető, hogy a hitelkártyája nincs aktiválva - ha például nemrég kapott egy új lejárati dátumú hitelkártyát postai úton, akkor előfordulhat, hogy aktiválnia kell, mielőtt használhatná. A bankjától továbbá megtudhatja azt is, ha a hitelkártyája esetleg nem támogatott az online, a nemzetközi vagy a rendszeres tranzakciókhoz.  
   
-További információt a [Hitelkártyák és bankszámlák hibaelhárítása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)című témakörben talál.
+További információt a Fizetési módok kezelése című témakörben [talál.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
