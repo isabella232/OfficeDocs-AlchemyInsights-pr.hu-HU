@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765271"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418074"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="db04b-102">Mikor terhelik meg a hitelkártyámat?</span><span class="sxs-lookup"><span data-stu-id="db04b-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="d4108-102">Mikor terhelik meg a hitelkártyámat?</span><span class="sxs-lookup"><span data-stu-id="d4108-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="db04b-103">Az első vásárlás esetén akár két napig is eltarthat, amíg a díj bekövetkezik.</span><span class="sxs-lookup"><span data-stu-id="db04b-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="d4108-103">Az első vásárlás esetén akár két napig is eltarthat, amíg a díj bekövetkezik.</span><span class="sxs-lookup"><span data-stu-id="d4108-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="db04b-104">Az ismétlődő költségek a számla létrehozását követő egy napon belül történnek.</span><span class="sxs-lookup"><span data-stu-id="db04b-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="d4108-104">Az ismétlődő költségek a számla létrehozását követő egy napon belül történnek.</span><span class="sxs-lookup"><span data-stu-id="d4108-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="db04b-105">Ha a díj sikertelen, a rendszer a következő hetekben folytatja az egyenleg rendezését.</span><span class="sxs-lookup"><span data-stu-id="db04b-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="db04b-106">A fizetési adatokat bármikor frissítheti, hogy biztosítsa a következő terhelési kísérlet sikerességedet.</span><span class="sxs-lookup"><span data-stu-id="db04b-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="db04b-107">További információt a [Hitelkártya- vagy bankszámla hozzáadása, frissítése vagy eltávolítása a Microsoft 365 vállalati verzióban című témakörben talál.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)</span><span class="sxs-lookup"><span data-stu-id="db04b-107">For more information, see [Add, update or remove a credit card or bank account in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="d4108-105">Ha a díj sikertelen, a rendszer a következő hetekben folytatja az egyenleg rendezését.</span><span class="sxs-lookup"><span data-stu-id="d4108-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="d4108-106">A fizetési adatokat bármikor frissítheti, hogy biztosítsa a következő terhelési kísérlet sikerességedet.</span><span class="sxs-lookup"><span data-stu-id="d4108-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="d4108-107">További információt a Fizetési módok kezelése című témakörben [talál.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)</span><span class="sxs-lookup"><span data-stu-id="d4108-107">For more information, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
