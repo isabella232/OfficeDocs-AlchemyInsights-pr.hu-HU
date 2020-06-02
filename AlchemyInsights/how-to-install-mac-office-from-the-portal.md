@@ -13,19 +13,19 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: d6154b76c12efce5452f69fd54acea2017b29c78
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05745813ddeeee11b6c0c76558596e90560a6971
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759262"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509278"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="e6bd0-102">A Mac Office telepítése a portálról</span><span class="sxs-lookup"><span data-stu-id="e6bd0-102">How to install Mac Office from the portal</span></span>
+# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="b68d5-102">A Mac Office telepítése a portálról</span><span class="sxs-lookup"><span data-stu-id="b68d5-102">How to install Mac Office from the portal</span></span>
 
-1. <span data-ttu-id="e6bd0-103">[Távolítsa el a Mac Office 2011-et a számítógépről.](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="e6bd0-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
+1. <span data-ttu-id="b68d5-103">[Távolítsa el a Mac Office 2011-et a számítógépről.](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="b68d5-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-2. <span data-ttu-id="e6bd0-104">[Szoftverletöltési beállítások kezelése](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span><span class="sxs-lookup"><span data-stu-id="e6bd0-104">[Manage software download settings](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span></span>
+2. <span data-ttu-id="b68d5-104">[Szoftverletöltési beállítások kezelése](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span><span class="sxs-lookup"><span data-stu-id="b68d5-104">[Manage software download settings](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span></span>
 
-3. <span data-ttu-id="e6bd0-105">[Licencek hozzárendelése a felhasználókhoz.](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="e6bd0-105">[Assign licenses to users](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
+3. <span data-ttu-id="b68d5-105">[Licencek hozzárendelése a felhasználókhoz.](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="b68d5-105">[Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
 
-4. <span data-ttu-id="e6bd0-106">A felhasználók ezután maguk telepíthetik az Office-szoftvert, vagy [használhatja az Office telepítése a Mac-felhasználók számára](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span><span class="sxs-lookup"><span data-stu-id="e6bd0-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
+4. <span data-ttu-id="b68d5-106">A felhasználók ezután maguk telepíthetik az Office-szoftvert, vagy [használhatja az Office telepítése a Mac-felhasználók számára](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span><span class="sxs-lookup"><span data-stu-id="b68d5-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
