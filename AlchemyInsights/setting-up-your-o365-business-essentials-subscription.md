@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767791"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509350"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Az O365 Business Essentials-előfizetés beállítása
 
@@ -23,11 +23,11 @@ Microsoft 365-fiókok létrehozása és tartomány hozzáadása
     
 - Nyissa meg a [Microsoft 365 felügyeleti központját.](https://login.partner.microsoftonline.cn/)
     
-- A varázsló indításához válassza az **Ugrás a beállításra** lehetőséget. További információ: [Tartomány hozzáadása a Microsoft 365-höz](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- A varázsló indításához válassza az **Ugrás a beállításra** lehetőséget. További információ: [Tartomány hozzáadása a Microsoft 365-höz](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Levelek importálása
   
-- Helyezze át meglévő e-mailjeit és névjegyeit más levelezőrendszerekből a Microsoft 365 postaládájába, hogy mindezt egy helyen láthassa. Az áttelepítési beállításokhoz [telepítse át a levelezést és a névjegyeket a Microsoft 365-be.](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)
+- Helyezze át meglévő e-mailjeit és névjegyeit más levelezőrendszerekből a Microsoft 365 postaládájába, hogy mindezt egy helyen láthassa. Az áttelepítési beállításokhoz [telepítse át a levelezést és a névjegyeket a Microsoft 365-be.](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin)
     
 - E-mail fiókok összekapcsolása
     
@@ -41,6 +41,6 @@ Fájlok tárolása online
   
 - Ha meg szeretné tudni, hogy mely tárolási helyek a legmegfelelőbbek a vállalkozása számára, olvassa el a Fájlok tárolása a [Microsoft 365-ben ( Hol tárolhatja a fájlokat)](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)részt. Mindenki automatikusan megkapja a **OneDrive** felhőalapú tárterület-helyét, amikor Microsoft 365-fiókokat hoz létre számukra. A OneDrive segítségével elérhetik a fájlokat számítógépről, telefonról és táblagépről is. 
     
-A beállítás részletes lépései ebben a [cikkben](https://docs.microsoft.com/office365/admin/setup/setup)találhatók.
+A beállítás részletes lépései ebben a [cikkben](https://docs.microsoft.com/microsoft-365/admin/setup/setup)találhatók.
   
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765991"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508666"
 ---
 # <a name="install-visio"></a>A Visio telepítése
 
@@ -25,7 +25,7 @@ A Visio önálló alkalmazásként kerül értékesítésre, így ha még nem re
 
 **Megjegyzés:** A Visio Online 1 csomag nem tartalmazza a Visio asztali verzióját, így a telepítés nem lehetséges.
 
-Ha a Visio Online Plan 2-re van előfizetése, licencet kell [hozzárendelnie egy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) felhasználóhoz, különben nem lesz lehetőségük a Visio telepítésére a **Saját telepítés portálsaját telepítések** [portálról.](https://portal.office.com/account#installs) 
+Ha a Visio Online Plan 2-re van előfizetése, licencet kell [hozzárendelnie egy](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) felhasználóhoz, különben nem lesz lehetőségük a Visio telepítésére a **Saját telepítés portálsaját telepítések** [portálról.](https://portal.office.com/account#installs) 
 
 A Visio Standard vagy a Visio Professional nem mennyiségi licencverziói Microsoft-fiókokhoz vannak társítva, és nem kezelhetők a felügyeleti központban. A verziók telepítéséhez a felhasználóknak be kell [jelentkezniük,](https://account.microsoft.com) hogy account.microsoft.com a Visio ezen verziójához társított Microsoft-fiókkal.
 

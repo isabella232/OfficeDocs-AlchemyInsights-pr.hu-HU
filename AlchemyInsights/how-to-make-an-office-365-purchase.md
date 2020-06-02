@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063547"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509206"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Microsoft 365-ös vásárlás
 
@@ -27,7 +27,7 @@ A Microsoft 365-ben történő vásárlások a felügyeleti központban is ellá
 
 - További licencek vásárlásához nyissa meg a **Termékek számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapot. Válassza ki azt az előfizetést, amelyhez licenceket szeretne hozzáadni, majd válassza **a Licencek hozzáadása/eltávolítása**lehetőséget.
   
-További információ: [Licencek vásárlása a Microsoft 365 vállalati verziós előfizetéséhez.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)
+További információ: [Licencek vásárlása a Microsoft 365 vállalati verziós előfizetéséhez.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Hibaelhárítás**
 
@@ -35,6 +35,6 @@ Ha problémákat tapasztal a lap betöltésekor, próbálkozzon a weblap megnyit
 
 **További források**
   
-- [Licencek hozzárendelése felhasználókhoz a Microsoft 365 vállalati verzióban](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Licencek hozzárendelése felhasználókhoz a Microsoft 365 vállalati verzióban](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [A Microsoft 365 Vállalati verzió lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [A Microsoft 365 Vállalati verzió lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

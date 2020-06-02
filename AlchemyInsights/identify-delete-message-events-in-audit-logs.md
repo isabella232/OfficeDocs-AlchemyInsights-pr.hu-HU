@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716498"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508990"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Törölt e-mail üzenetek naplóinak naplózása
 
@@ -33,6 +33,6 @@ ms.locfileid: "43716498"
 
 Az eredmények között jelöljön ki egy naplózási rekordot. A részletes úszó panelen kattintson a **További információ gombra.** A törölt cikkről (például a tárgysorról és a cikk törlésének helyéről) további információk jelennek meg az **Érintett elemek** mezőben. A **ClientInfoString** tulajdonság megmutatja, hogy a törlés megtörtént-e az Outlookban, a Webes Outlookban (korábbi nevén Outlook Web App) vagy bármely más eszközben.
 
-További információt a [Postaláda e-mail-továbbítási beállításának meghatározása](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items)című témakörben talál.
+További információt a [Postaláda e-mail-továbbítási beállításának meghatározása](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)című témakörben talál.
 
 **Megjegyzés:** A naplószolgáltatás használatával nem lehet beolvasni a törölt elemeket. A törölt üzenetek beolvasása a Webes Outlookban a Törölt elemek helyreállítása az [Outlook Web Appban](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)című témakörben található.

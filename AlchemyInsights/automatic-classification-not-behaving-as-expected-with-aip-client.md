@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493174"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508378"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Az automatikus besorolás nem a várt módon viselkedik az AIP-ügyféllel
 
 Az automatikus besorolás nem a várt módon viselkedik, kövesse az alábbi ajánlott irányelveket:
 
-1. Ha problémái vannak az automatikus címkézéssel, olvassa [el A feltételek konfigurálása az Azure Information Protection automatikus és ajánlott besorolásához,](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) és [hogy milyen bizalmas információtípusokat keresnek.](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+1. Ha problémái vannak az automatikus címkézéssel, olvassa [el A feltételek konfigurálása az Azure Information Protection automatikus és ajánlott besorolásához,](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) és [hogy milyen bizalmas információtípusokat keresnek.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 2. Ellenőrizze, hogy olyan hatókörrel kapcsolatos szabályzatokat használ-e, amelyek nincsenek megfelelően konfigurálva: [Az Azure Information Protection szabályzat konfigurálása adott felhasználók számára hatókörrel kapcsolatos szabályzatok használatával.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
 3. Ha az automatikus címkézés nem működik az Outlook programban, amikor címkézett dokumentumot csatol, ellenőrizze, hogy `DRMEncryptProperty` nincs-e definiálva az itt leírtak szerint: [Tartalomvédelmi szolgáltatás beállításjegyzék-beállításai biztonsági okokból.](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)
 4. Ha az Azure Information Protection szabályzathoz a [beépített adattípusokat](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) használta, ellenőrizze, hogy a tartalom megfelel-e a várt formátumnak.

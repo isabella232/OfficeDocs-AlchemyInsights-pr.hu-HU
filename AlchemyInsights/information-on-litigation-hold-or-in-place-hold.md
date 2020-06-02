@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 63b28edc5d2eb7c8d904e004c06c5682768411a7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711021"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508702"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>A peres ügyekről és a helybeni visszatarthatóságról
 
@@ -22,11 +22,11 @@ ms.locfileid: "43711021"
     
 - Ha engedélyezni **szeretné egy felhasználó peres eljárás miatti visszatartását,** kövesse az [itt](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)ismertetett lépéseket. Ha a peres eljárás miatti tartás engedélyezve van, a postaláda összes tartalma várakoztatva lesz.
     
-- Ha az egyes felhasználókra vagy a szervezet összes postaládájára **helyi tartást,** vagy a **teljes szervezet összes postaládájára**szeretné alkalmazni az adatmegőrzési házirendeket, az [itt](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )ismertetett lépéseket követve használhatja az adatmegőrzési házirendeket.
+- Ha az egyes felhasználókra vagy a szervezet összes postaládájára **helyi tartást,** vagy a **teljes szervezet összes postaládájára**szeretné alkalmazni az adatmegőrzési házirendeket, az [itt]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies)ismertetett lépéseket követve használhatja az adatmegőrzési házirendeket.
     
     > [!NOTE]
     > Az egész szervezetre kiterjedő adatmegőrzési szabályok esetén az új felhasználók automatikusan hozzáadódnak a visszatartáshoz. 
   
-- A várakoztatott postaláda-tartalom megtekintéséhez vagy felderítéséhez használja az **elektronikus adatfeltárási keresést és az exportálást.** Az elektronikus **adatfeltárási keresés és exportálás**használatával kapcsolatos további tudnivalókért kövesse az [itt](https://docs.microsoft.com/office365/securitycompliance/export-search-results)ismertetett lépéseket.
+- A várakoztatott postaláda-tartalom megtekintéséhez vagy felderítéséhez használja az **elektronikus adatfeltárási keresést és az exportálást.** Az elektronikus **adatfeltárási keresés és exportálás**használatával kapcsolatos további tudnivalókért kövesse az [itt](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)ismertetett lépéseket.
     
 

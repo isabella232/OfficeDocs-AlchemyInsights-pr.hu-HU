@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: c781e9fd492ff97bc80667956e6609b3d40b28b4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010616"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508630"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Az Office telepítése terminálkiszolgálóra
 
@@ -30,11 +30,11 @@ Ha a Microsoft 365 vállalati alkalmazásokat az RDS szolgáltatásba szeretné 
 > [!TIP]
 > A [Microsoft támogatási és helyreállítási segédjét](https://aka.ms/SaRA_OfficeSCA_M365Portal) is letöltheti és futtathatja a Microsoft 365 vállalati alkalmazások megosztott számítógép-aktiválási módban történő telepítéséhez.
   
-1. Ellenőrizze, hogy milyen Microsoft 365-előfizetéssel rendelkezik. [Ismerje meg, hogyan](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Ellenőrizze, hogy milyen Microsoft 365-előfizetéssel rendelkezik. [Ismerje meg, hogyan](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Szükség esetén váltson másik Microsoft 365-előfizetésre. [Ismerje meg, hogyan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Szükség esetén váltson másik Microsoft 365-előfizetésre. [Ismerje meg, hogyan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. Ha az Office már telepítve van az RDS-kiszolgálón bármely más Microsoft 365-előfizetéssel, távolítsa el azt. Például a Vezérlőpult \> eltávolítása parancsra. Eltávolítás a [Microsoft támogatási és helyreállítási segédsegítségével,](https://aka.ms/SARA-OfficeUninstall-Alchemy) ha problémákba ütközik.
+3. Ha az Office már telepítve van az RDS-kiszolgálón bármely más Microsoft 365-előfizetéssel, távolítsa el azt. Például a Vezérlőpult eltávolítása \> parancsra. Eltávolítás a [Microsoft támogatási és helyreállítási segédsegítségével,](https://aka.ms/SARA-OfficeUninstall-Alchemy) ha problémákba ütközik.
 
 4. Az RDS-kiszolgálón jelentkezzen be a Microsoft 365 felügyeleti központba a rendszergazdai fiókkal, és [telepítse a Microsoft 365 vállalati alkalmazásokat.](https://portal.office.com/OLS/MySoftware.aspx)
 
