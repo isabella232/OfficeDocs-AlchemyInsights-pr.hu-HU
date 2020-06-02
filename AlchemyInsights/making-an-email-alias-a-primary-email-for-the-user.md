@@ -13,15 +13,15 @@ ms.custom:
 - "723"
 - "1"
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: c21e57befaf770301a7c8a42dd3ff9ff92394b70
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ce914d0faf73f480aa3eca559ad25764864ef5ea
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721934"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510862"
 ---
 # <a name="make-an-email-alias-the-primary-address-for-a-user"></a>E-mail alias beállítása a felhasználó elsődleges címének
 
-További információt a [Felhasználó másik e-mail aliasának hozzáadása](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)témakörben talál.
+További információt a [Felhasználó másik e-mail aliasának hozzáadása](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)témakörben talál.
 
 **Megjegyzés:** Ha a szervezet hibrid módban van, módosítania kell az elsődleges e-mail címet a helyszíni Exchange-szervezetben. További információt a [Postaláda e-mail címeinek hozzáadása és eltávolítása című témakörben talál.](https://technet.microsoft.com/library/bb123794.aspx)

@@ -1,9 +1,9 @@
 ---
-title: 2419-nem-a--naplózásának engedélyezése
+title: 2419-nem engedélyező-auditálás
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,41 +11,41 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 3af01c03711eed646f0009afb5bea685bc358196
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 23ad07a6dd943d61d1bd45453089a771cfd51b58
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35065653"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510430"
 ---
-# <a name="unable-to-enable-unified-auditing"></a>Nem lehet egységes naplózásának engedélyezése
+# <a name="unable-to-enable-unified-auditing"></a>Nem lehet engedélyezni az egységes naplózást
 
-Az Office 365 szervezet egységes naplózásának engedélyezése közben is megjelenhet hasonló hiba a következő:
+Amikor megpróbálja engedélyezni az egységes naplózást a szervezetszámára, a következőhöz hasonló hibaüzenet jelenhet meg:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
 ```
 
-A probléma megoldásához kövesse az alábbi lépéseket:
+A probléma megoldásához hajtsa végre az alábbi lépéseket:
 
-1. [Az Exchange Online Powershell kapcsolódni](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [Csatlakozás az Exchange Online Powershellhez](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
-2. A következő parancsmag futtatásával:
+2. Futtassa a következő parancsmast:
 
    ```
    Enable-OrganizationCustomization
    ```
 
-3. Várja meg a korábbi beállítás érvénybe lépéséhez 60 perc.
+3. Várjon 60 percet, amíg az előző beállítás érvénybe lép.
 
-4. Az Exchange Online PowerShell futtassa a következő parancsot:
+4. Futtassa a következő parancsot az Exchange Online PowerShellben:
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
    ```
 
-További információt a következő cikkekben talál:
+További információt az alábbi cikkekben talál:
 
-- [Többtényezős hitelesítést használó Exchange Online PowerShell kapcsolódni](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [Csatlakozás az Exchange Online PowerShellhez többtényezős hitelesítéssel](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [Office 365 ellenőrzési napló keresés be- és kikapcsolása](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off)
+-  [A naplókeresés be- és kikapcsolása](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)

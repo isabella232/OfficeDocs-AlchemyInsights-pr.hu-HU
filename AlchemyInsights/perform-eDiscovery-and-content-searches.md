@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911833"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510178"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Tartalomkeresések és elektronikus adatfeltárási keresések végrehajtása
 
@@ -32,6 +32,6 @@ A Biztonsági & megfelelőségi központ Tartalomkereső eszközével gyorsan me
 4. Adja meg a szükséges keresési feltételeket, beleértve a kulcsszavakat és a tartalom helyét.  
 5. Kattintson **a & futtatás mentése gombra** a keresés elnevezéséhez, indításához, majd az eredmények előnézetének megtekintéséhez.
 
-A tartalomkereséssel, az eredmények exportálásával és az adatok tárolására szolgáló elektronikus adatfeltárási esetek létrehozásával kapcsolatos részletes útmutatást a [Tartalomkeresés](https://docs.microsoft.com/office365/securitycompliance/content-search) és [az elektronikus adatfeltárás esetei című témakörben találja.](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+A tartalomkereséssel, az eredmények exportálásával és az adatok tárolására szolgáló elektronikus adatfeltárási esetek létrehozásával kapcsolatos részletes útmutatást a [Tartalomkeresés](https://docs.microsoft.com/microsoft-365/compliance/content-search) és [az elektronikus adatfeltárás esetei című témakörben találja.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-A tartalomkeresésről további információkkal, a [követelmények és korlátok](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) áttekintésével, valamint a részben indexelt elemek és egyéb eredmények [vizsgálatával.](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)
+A tartalomkeresésről további információkkal, a [követelmények és korlátok](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) áttekintésével, valamint a részben indexelt elemek és egyéb eredmények [vizsgálatával.](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002871"
 - "5417"
-ms.openlocfilehash: e21af75058b1c6f75507ac1899ecc9e4b5bfd407
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: MT
+ms.openlocfilehash: 30dca17df71b2237a1ed1546a4cc2f9cbd3b5f20
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "44282939"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510358"
 ---
 # <a name="microsoft-365-a3-faq"></a>Microsoft 365 A3 – gyakori kérdések
 
@@ -25,7 +25,7 @@ ms.locfileid: "44282939"
 - Ha **másik csomagra szeretne váltani**, olvassa el a [Manuális váltás a Microsoft 365 vállalati csomagjai között](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide) című témakört.
 - A felhasználók A3-licencek **hozzárendeléséhez** nyissa meg **a Számlázás > a [licencek lehetőséget.](https://go.microsoft.com/fwlink/p/?linkid=842264)** További információért tekintse meg a [Licencek hozzárendelése](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide) lapot.
 - A3-as licencek **hozzáadásához/eltávolításához** nyissa meg **a Számlázás > termékek & szolgáltatások [című](https://go.microsoft.com/fwlink/p/?linkid=842054) ** területet, és kattintson **a Licencek hozzáadása/eltávolítása**elemre. További információkért tekintse meg a[Licencek hozzáadása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) lapot. 
-- Az A3-as licencek **lemondásához** nyissa meg **a Számlázás > termékek & [szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lehetőséget, kattintson **a Beállítások & műveletek**elemre, majd az Előfizetés **lemondása parancsra.** További információért tekintse meg [Az előfizetés lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription) lapot.
+- Az A3-as licencek **lemondásához** nyissa meg **a Számlázás > termékek & [szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lehetőséget, kattintson **a Beállítások & műveletek**elemre, majd az Előfizetés **lemondása parancsra.** További információért tekintse meg [Az előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) lapot.
 - Az A3-as előfizetés **aktiválásához** [olvassa el Az előfizetés aktiválása](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)című témakört.
 - Az A3-as előfizetés **újraaktiválásához** olvassa el [az Előfizetés újraaktiválása című témakört.](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)
 - Az A3-as próbaverzió meghosszabbításáról a [Próbaidőszak kiterjesztése](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).

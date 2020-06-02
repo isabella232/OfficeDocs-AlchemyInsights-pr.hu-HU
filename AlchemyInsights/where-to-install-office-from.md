@@ -11,16 +11,16 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: f525cd085d3691c100df6ed6c3c1a06685fcc6b9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 71f6df27d6cecc08286562b14e4e219b99df289d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765163"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509530"
 ---
 # <a name="install-office"></a>Az Office telepítése
 
-Az Office telepítéséhez a felhasználóknak rendelkezniük kell egy [Microsoft 365 vállalati verziós termékkel,](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) amely tartalmazza az asztali alkalmazásokat és a [hozzárendelt licencet.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+Az Office telepítéséhez a felhasználóknak rendelkezniük kell egy [Microsoft 365 vállalati verziós termékkel,](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) amely tartalmazza az asztali alkalmazásokat és a [hozzárendelt licencet.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
   
 Az Office ezután az alábbi lépések szerint telepíthető:
   
