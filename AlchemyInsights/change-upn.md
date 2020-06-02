@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706442"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506013"
 ---
 # <a name="change-a-users-email-address"></a>Felhasználó e-mail-címének módosítása
 
@@ -38,6 +38,6 @@ Megváltoztatja valaki nek e-mail címét könnyű! Csak kövesse az alábbi lé
     
 6. Válassza a **Mentés**, majd **a Bezárás**lehetőséget, és kész!
     
-Nem volt könnyű? További részletekért és lépésekért a képernyőképekről, nézd meg ezt a cikket: [Felhasználónév és e-mail cím módosítása](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+Nem volt könnyű? További részletekért és lépésekért a képernyőképekről, nézd meg ezt a cikket: [Felhasználónév és e-mail cím módosítása](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 
