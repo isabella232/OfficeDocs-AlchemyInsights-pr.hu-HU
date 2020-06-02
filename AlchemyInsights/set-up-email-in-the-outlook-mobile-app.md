@@ -15,22 +15,22 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767575"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512484"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>A levelezés beállítása az Outlook mobilalkalmazásban
 
-1. Válassza **az Első lépések** lehetőséget, ha ez az első alkalom, hogy a mobilalkalmazásban állítja be a levelezést. Ellenkező esetben koppintson a **Menü,** majd a **Fiók** \> hozzáadása **e-mail fiók** **hozzáadása** \> parancsra.
+1. Válassza **az Első lépések** lehetőséget, ha ez az első alkalom, hogy a mobilalkalmazásban állítja be a levelezést. Ellenkező esetben koppintson a **Menü,** majd a **Fiók** \> **hozzáadása** \> **e-mail fiók hozzáadása parancsra.**
 
 2. Adja meg a teljes e-mail címét, és koppintson **a Folytatás** vagy a Fiók **hozzáadása elemre.**
 
 3. Adja meg e-mail fiókjának jelszavát, és koppintson **a Bejelentkezés** vagy **a Tovább gombra.**
 
-4. Ha a [többtényezős hitelesítés](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) engedélyezve van, ellenőrizze a beállított módszerrel (6 jegyű kód, telefonhívás vagy Microsoft Authenticator alkalmazás).
+4. Ha a [többtényezős hitelesítés](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) engedélyezve van, ellenőrizze a beállított módszerrel (6 jegyű kód, telefonhívás vagy Microsoft Authenticator alkalmazás).
 
 5. Ha további rendszergazdai házirendek vannak érvényben, az **Aktiválás** elemre koppintva engedélyezheti őket.
 

@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05cd5bb076d16e6d15422ef3491d9c051ad09731
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713504"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511762"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Automatikusan létrehozott új megőrzési címkék
 
-Előfordulhat, hogy [három új adatmegőrzési címke](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) automatikusan létrejön a szervezetben a biztonsági vagy megfelelőségi felügyeleti központ **Megőrzési címkék** csoportban. A címke nevek a következők:
+Előfordulhat, hogy [három új adatmegőrzési címke](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) automatikusan létrejön a szervezetben a biztonsági vagy megfelelőségi felügyeleti központ **Megőrzési címkék** csoportban. A címke nevek a következők:
 
 - Működési eljárás
 - Üzleti általános
@@ -29,8 +29,8 @@ Előfordulhat, hogy [három új adatmegőrzési címke](https://docs.microsoft.c
 
 Ez akkor fordul elő, amikor először választja a **Fájlterv** lehetőséget, ha nincs más adatmegőrzési címke. Ezek a címkék automatikusan létrejönnek, és szükség esetén eltávolíthatók, ha még nem alkalmazták őket a tartalomra. A címkék eltávolítása:
 
-1. A biztonsági vagy megfelelőségi felügyeleti központban válassza **a Besorolások** > **címkék** > **megőrzése** lapot.
+1. A biztonsági vagy megfelelőségi felügyeleti központban válassza **a Besorolások**  >  **címkék**  >  **megőrzése** lapot.
 
-1. Jelölje ki azokat az adatmegőrzési címkéket, amelyeket el szeretne távolítani > **Címke** > törlése**Igen** a címke törléséhez.
+1. Jelölje ki azeltávolítani kívánt adatmegőrzési címkéket, > **A címke törlése**  >  **Igen** a címke törléséhez.
 
-A Fájlterv-kezelővel kezelheti az adatmegőrzési címkéket és házirendeket a szervezetben – további információt [a Fájlterv-kezelő áttekintése](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager)című témakörben talál.
+A Fájlterv-kezelővel kezelheti az adatmegőrzési címkéket és házirendeket a szervezetben – további információt [a Fájlterv-kezelő áttekintése](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager)című témakörben talál.

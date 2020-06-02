@@ -15,12 +15,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 18e56305b60469422a154ffa1b097c238baaae16
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 284024bdf9728e8463fe69ef9c9c2695035faf2f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764658"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511366"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Törölt postaláda visszaállítása
 
@@ -32,5 +32,5 @@ Ha egy felhasználó elveszíti az Exchange Online-licencet, postaládája 30 na
 
 2. A **Licencek és alkalmazások** lapon rendelje hozzá az Exchange Online-licencet, és válassza a **Módosítások mentése lehetőséget.**
 
-Ha megosztott postaládát próbál helyreállítani, az 30 napig is helyreállítható. Ezeket a **Törölt felhasználók csoportban** \> **Deleted users**találja meg; a megosztott postaládákhoz nincs szükség licencre. Ha észreveszi, hogy vissza kell állítania egy törölt felhasználót, olvassa el [a Felhasználó visszaállítása ..](https://docs.microsoft.com/office365/admin/add-users/restore-user)
+Ha megosztott postaládát próbál helyreállítani, az 30 napig is helyreállítható. Ezeket a **Felhasználók** törölt felhasználók csoportban találja \> **Deleted users**meg; a megosztott postaládákhoz nincs szükség licencre. Ha észreveszi, hogy vissza kell állítania egy törölt felhasználót, olvassa el [a Felhasználó visszaállítása ..](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
   

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Designer-csatlakozási problémák
+title: A SharePoint Designer csatlakozási problémái
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 01ccc6bc28148f397fb6cd2b7a0eaaeb5b51973f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051715"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511546"
 ---
-# <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer-csatlakozási problémák 
+# <a name="sharepoint-designer-connection-issues"></a>A SharePoint Designer csatlakozási problémái 
 
-Ha a SharePoint Designer kapcsolódási problémákat tapasztal a SharePoint-webhelyeken, próbálja meg a következő közös megoldásokat.
+Ha a SharePoint Designer kapcsolattal kapcsolatos problémákat tapasztal a SharePoint-webhelyekkel, próbálkozzon az alábbi gyakori megoldásokkal.
 
-1. lépés: Ellenőrizze, hogy a SharePoint Designer 2013 a [SharePoint Designer Service Pack 1 csomaggal](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) frissítve van-e és az [augusztusi 2, 2016 a SharePoint Designer 2013 frissítés](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
+1. lépés: Ellenőrizze, hogy a SharePoint Designer 2013 frissítve van-e a [SharePoint Designer Service Pack 1 szervizcsomaggal](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) és a [2016.](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721)
 
 
 
-2. lépés: a helyi gyorsítótárfájlok törlése:
+2. lépés: A helyi gyorsítótárfájlok törlése:
 
-1. Zárja be a SharePoint Designer 2013.
+1. Zárja be a SharePoint Designer 2013-at.
 
-2. A helyi számítógépen távolítsa el a következő mappákban található fájlokat.
+2. A helyi számítógépen távolítsa el az alábbi mappákban található összes fájlt.
 
-    - %APPDATA%\Microsoft\Web szolgál Extensions\Cache
+    - %APPDATA%\Microsoft\Webkiszolgáló-bővítmények\Gyorsítótár
     - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
     - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
-3. Nyit SharePoint Tervező 2013 és belép a számla újra-hoz lát ha ez szerkezet.
+3. Nyissa meg a SharePoint Designer 2013-at, és írja be újra a fiókot, és nézze meg, hogy működik-e.
 
-Lép 3: [képessé tesz korszerű hitelesítés részére hivatal 2013-ra Windows berendezés](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
+3. lépés: [Modern hitelesítés engedélyezése az Office 2013-hoz Windows-eszközökön](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
 
-4. lépés: a rendszergazdáknak engedélyezni kell az **egyéni parancsfájl** beállítást a SharePoint Admin Center beállításaiban a SharePoint Designer-kapcsolat engedélyezéséhez. További információt az [egyéni parancsfájl engedélyezése vagy tiltása](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) című témakörben talál.
+4. lépés: A SharePoint Designer-kapcsolat engedélyezéséhez a Rendszergazdák nak engedélyeznie kell az **egyéni parancsfájlt** a SharePoint Felügyeleti központ beállításaiban. További információt az [Egyéni parancsfájl engedélyezése vagy lehetővé tévő engedélyezése](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) című témakörben talál.
 
 
