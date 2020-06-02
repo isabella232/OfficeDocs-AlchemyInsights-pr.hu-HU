@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e96904e2f0da2fe1fafb3f8722465eaf22681b71
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704415"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507480"
 ---
 # <a name="dlp-not-working-as-expected"></a>A DLP nem a várt módon működik
 
@@ -36,18 +36,18 @@ A biztonsági és megfelelőségi központok **beépített bizalmas információ
   
 - **Beépített bizalmas információtípusok**
 
-    A beépített bizalmas típusokról és a DLP-házirend ről a Bizalmas típus észlelésekor a következő témakörben talál tájékoztatást: [A bizalmas információtípusok keresetttémaköre.](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+    A beépített bizalmas típusokról és a DLP-házirend ről a Bizalmas típus észlelésekor a következő témakörben talál tájékoztatást: [A bizalmas információtípusok keresetttémaköre.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
 - **Egyéni bizalmas információtípusok**
 
-    Ha egyéni bizalmas információtípusokat próbál létrehozni, az alábbi cikkben megtudhatja, hogyan hozhat létre egyéni bizalmas [szöveget: Egyéni bizalmas információtípus létrehozása](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Ha egyéni bizalmas információtípusokat próbál létrehozni, az alábbi cikkben megtudhatja, hogyan hozhat létre egyéni bizalmas [szöveget: Egyéni bizalmas információtípus létrehozása](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
 
 **DLP-házirend tesztelése**
 
-Ha az adatokat beépített vagy egyéni bizalmas adatoktípussal szeretné tesztelni, használja a **Teszttípus** beállítást a **Besorolások** > **bizalmas információtípusai**csoportban. További információt az [Egyéni bizalmas információtípusok tesztelése](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)című témakörben talál.
+Ha az adatokat beépített vagy egyéni bizalmas adatoktípussal szeretné tesztelni, használja a **Teszttípus** beállítást a **Besorolások**  >  **bizalmas információtípusai**csoportban. További információt az [Egyéni bizalmas információtípusok tesztelése](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)című témakörben talál.
 
  **Jelentések**
   
-- Bizalmas adatok betekintést nyerhet a [DLP-jelentések segítségével.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Bizalmas adatok betekintést nyerhet a [DLP-jelentések segítségével.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Az esemény konkrét részleteinek megtekintése [incidensjelentéssel.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)
+- Az esemény konkrét részleteinek megtekintése [incidensjelentéssel.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports)

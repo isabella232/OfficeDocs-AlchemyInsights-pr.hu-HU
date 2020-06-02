@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 7926ff9ebbd54969fb5b3ae5d909baffe96a4292
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 527556fcb02525eb88ea992c38a2ddfcba6f9453
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493158"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506560"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: A házirendek nem a várt módon viselkednek
 
 Azure Information Protection: Szabályzatok nem viselkednek a várt módon, lásd a következő ajánlott irányelvek különböző szabályzati problémák:
 
 1. Ha vizuális jelölésekkel kapcsolatos problémái vannak, kérjük, olvassa el [A vizuális jelölések alkalmazásakor való áttekintést.](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)
-2. Ha problémái vannak az automatikus címkézéssel, tekintse át a [Hogyan konfigurálhatja az Azure Information Protection automatikus és ajánlott besorolási feltételeit,](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) és [hogy milyen bizalmas információtípusokat keresnek.](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+2. Ha problémái vannak az automatikus címkézéssel, tekintse át a [Hogyan konfigurálhatja az Azure Information Protection automatikus és ajánlott besorolási feltételeit,](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) és [hogy milyen bizalmas információtípusokat keresnek.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 3. Ha problémákat okoz a Ninatív/Pfile-védelemmel, tekintse át [a Fájl API-konfigurációját.](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration)
 4. Ellenőrizze, hogy olyan hatókörrel kapcsolatos szabályzatokat használ-e, amelyek nincsenek megfelelően konfigurálva: [Az Azure Information Protection szabályzat konfigurálása adott felhasználók számára hatókörrel kapcsolatos szabályzatok használatával.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
 5. Ha az automatikus címkézés nem működik az Outlook programban, amikor címkézett dokumentumot csatol, ellenőrizze, hogy a DRMEncryptProperty nincs-e definiálva az itt leírtak szerint: [Tartalomvédelmi rendszerbiztonsági beállításjegyzék-beállítások](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).

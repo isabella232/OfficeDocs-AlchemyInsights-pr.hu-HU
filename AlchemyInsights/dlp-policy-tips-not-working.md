@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704379"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507444"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP-házirend tippjével kapcsolatos problémák
 
@@ -29,11 +29,11 @@ A **DLP-házirendek**használatakor a felhasználók értesítést kaphatnak a h
   
 Ha a DLP-házirenddel kapcsolatos házirendtippeket teljes kényszerítési módban szeretné konfigurálni a Biztonsági és megfelelőségi központban, tegye a következőket:
   
-- Győződjön meg arról, hogy a DLP-szabályban **engedélyezve** vannak a házirendtippek az [itt](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)leírt lépésekkel.
+- Győződjön meg arról, hogy a DLP-szabályban **engedélyezve** vannak a házirendtippek az [itt](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)leírt lépésekkel.
 
-- Győződjön meg arról, hogy a **tartalom megfelel** a [cikkben](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)ismertetett szabály aktiválásához **szükséges módon.**
+- Győződjön meg arról, hogy a **tartalom megfelel** a [cikkben](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)ismertetett szabály aktiválásához **szükséges módon.**
 
-- A házirendtippek az OWA-ban és az Outlookban is megjelennek. Az Outlook **2013-as vagy újabb**verzióinak használatakor azonban a házirendtippek csak bizonyos körülmények között jelennek meg. Ezek a feltételek itt találhatók: [Az Outlook 2013-as vagy újabb verzióinak támogatott feltételei a házirendtippek megjelenítéséhez](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- A házirendtippek az OWA-ban és az Outlookban is megjelennek. Az Outlook **2013-as vagy újabb**verzióinak használatakor azonban a házirendtippek csak bizonyos körülmények között jelennek meg. Ezek a feltételek itt találhatók: [Az Outlook 2013-as vagy újabb verzióinak támogatott feltételei a házirendtippek megjelenítéséhez](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-A DLP-házirendekkel kapcsolatos tippekről a Következő témakörben [olvashat: Házirendtippek megjelenítése a DLP-házirendekhez](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+A DLP-házirendekkel kapcsolatos tippekről a Következő témakörben [olvashat: Házirendtippek megjelenítése a DLP-házirendekhez](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   

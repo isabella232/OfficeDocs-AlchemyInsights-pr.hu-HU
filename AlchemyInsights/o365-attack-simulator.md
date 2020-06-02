@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713468"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506740"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Támadás szimulátor a Microsoft 365
 
 - Hiányzik támadás szimulátor? A Támadásszimulátor használatához az **Office 365 Komplex veszélyforrások elleni védelem 2.** **Office 365 Enterprise E5** Az Attack Simulator **nem** része az Office 365 Komplex veszélyforrások elleni védelem 1., 1.
 
-- A szimulált támadások indításához használt fiókhoz globális rendszergazdai vagy biztonsági rendszergazdai engedélyekés többtényezős hitelesítés (MFA) szükséges. Az Attack Simulator követelményeiről a [jelen témakörben](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin)olvashat bővebben.
+- A szimulált támadások indításához használt fiókhoz globális rendszergazdai vagy biztonsági rendszergazdai engedélyekés többtényezős hitelesítés (MFA) szükséges. Az Attack Simulator követelményeiről a [jelen témakörben](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)olvashat bővebben.
 
 - Fontos tudnivalók a **Brute Force Password** támadásszimulációiról:
 

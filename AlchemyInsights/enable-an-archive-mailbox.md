@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788668"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507028"
 ---
 # <a name="enable-an-archive-mailbox"></a>Archív postaláda engedélyezése
 
@@ -27,7 +27,7 @@ Az archív postaládák at a következőképpen hozhat létre:
 
 2. Jelentkezzen be a Microsoft 365-be rendszergazdai fiókjával.
 
-3. A Biztonsági &amp; megfelelőségi központ bal oldali ablaktáblájában válassza az **Információirányítási** \> **Archívum lehetőséget.**
+3. A Biztonsági megfelelőségi központ bal oldali ablaktáblájában válassza az &amp; **Információirányítási** \> **Archívum lehetőséget.**
 
 4. Jelölje ki azt a felhasználót, akinek engedélyezni szeretné az archív postaládáját.
 
@@ -43,7 +43,7 @@ Megosztott postaláda archiválásának engedélyezése:
 
 1. Nyissa meg az [Exchange Felügyeleti központot,](https://outlook.office365.com/ecp) és jelentkezzen be a rendszergazdai fiókjával.
 
-2. Nyissa meg a Megosztott címzettek > **(Címzettek) (Címzettek) (** **Címzettek**) ( Ugrás
+2. Nyissa meg a Megosztott **címzettek**  >  **(Címzettek) (Címzettek) ( Címzettek ) ( Ugrás**
 
 3. Jelölje ki a megosztott postaládát.
 
@@ -51,6 +51,6 @@ Megosztott postaláda archiválásának engedélyezése:
 
 További információ:
   
-- [Archív postaládák engedélyezése](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Archív postaládák engedélyezése](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Archiválási és törlési házirend beállítása](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

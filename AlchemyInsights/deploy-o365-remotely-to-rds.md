@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010256"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507588"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Microsoft 365-ös alkalmazások telepítése vállalati használatra távoli asztali szolgáltatások, terminálkiszolgáló vagy VDI-n
 
@@ -38,9 +38,9 @@ A megosztott számítógép-aktiválással kapcsolatos hibák kijavítása:
 
 Ha a Microsoft 365 vállalati alkalmazásokat az RDS szolgáltatásba szeretné telepíteni a Microsoft 365 Felügyeleti központból, ***amely az alapértelmezett telepítési beállításokat használja,*** kövesse az alábbi lépéseket:
 
-1.    Ellenőrizze, hogy milyen előfizetéssel rendelkezik. [További információ](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    Ha szükséges, váltson másik előfizetésre. [További információ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Ha az Office már telepítve van az RDS-kiszolgálón bármely más Microsoft-előfizetéssel, távolítsa el azt. Például a **Vezérlőpult eltávolítása** > **Uninstall a program**elemre. Eltávolítás a [Microsoft támogatási és helyreállítási segédsegítségével,](https://aka.ms/SARA-OfficeUninstall-Alchemy) ha problémákba ütközik.
+1.    Ellenőrizze, hogy milyen előfizetéssel rendelkezik. [További információ](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    Ha szükséges, váltson másik előfizetésre. [További információ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Ha az Office már telepítve van az RDS-kiszolgálón bármely más Microsoft-előfizetéssel, távolítsa el azt. Például a **Vezérlőpult eltávolítása**elemre.  >  **Uninstall a program** Eltávolítás a [Microsoft támogatási és helyreállítási segédsegítségével,](https://aka.ms/SARA-OfficeUninstall-Alchemy) ha problémákba ütközik.
 4.    Az RDS-kiszolgálón jelentkezzen be a Microsoft 365 felügyeleti központba a rendszergazdai fiókkal, és [telepítse a Microsoft 365 vállalati alkalmazásokat.](https://portal.office.com/OLS/MySoftware.aspx)
 5.    Az Office telepítése után ***ne nyisson meg és ne jelentkezzen be*** egyetlen Office-alkalmazásba sem.
 6.    Az RDS-kiszolgálón engedélyezze a megosztott számítógép aktiválását a rendszerleíró adatbázis szerkesztésével az alábbi lépésekkel:
