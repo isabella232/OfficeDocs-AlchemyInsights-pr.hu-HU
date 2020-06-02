@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: bdd9d9fc1c0cd51d78a02a50a7c4aba4672c3482
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912188"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495629"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Külső megosztás engedélyezése a SharePoint Online-ban
 
@@ -29,7 +29,7 @@ A külső megosztással (vendégek) kapcsolatos további információkért kérj
 
 - [Külső megosztás be- és kikapcsolása webhelyen](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Vendéghozzáférés kezelése a Microsoft 365-csoportokban](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Vendéghozzáférés kezelése a Microsoft 365-csoportokban](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
 
 - [A SharePoint Online használata vállalkozások hozó (B2B) extranetes megoldásként](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 

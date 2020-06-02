@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742435"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502609"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Adatmegőrzési házirendek az Exchange Felügyeleti központban
 
@@ -61,4 +61,4 @@ Az Exchange Felügyeleti központban található adatmegőrzési házirendekről
 - [Adatmegőrzési címkék és adatmegőrzési házirendek](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 - [Adatmegőrzési szabály alkalmazása postaládákra](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
 - [Adatmegőrzési címkék hozzáadása vagy eltávolítása](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [A postaládára helyezett várakoztatás típusának azonosítása](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [A postaládára helyezett várakoztatás típusának azonosítása](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

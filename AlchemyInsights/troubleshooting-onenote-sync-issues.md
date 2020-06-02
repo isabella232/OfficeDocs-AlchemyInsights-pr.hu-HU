@@ -1,5 +1,5 @@
 ---
-title: A OneNote Szinkronizációs problémák elhárítása
+title: A OneNote szinkronizálási problémáinak elhárítása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,26 +12,26 @@ ms.custom:
 - "9000555"
 - "2405"
 ms.openlocfilehash: 970fe688becc30ea1eb644793388a316d1878f30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559411"
 ---
-# <a name="troubleshoot-onenote-sync-issues"></a>A OneNote Szinkronizációs problémák elhárítása
+# <a name="troubleshoot-onenote-sync-issues"></a>A OneNote szinkronizálási problémáinak elhárítása
 
-* A leggyakoribb megoldására kapcsolatos kérdések a OneNote szinkronizálás, [javításokat, amikor a OneNote nem szinkronizál](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)a lépéseket használja.
+* A OneNote szinkronizálásával kapcsolatos leggyakoribb problémák megoldásához kövesse a Problémák megoldása című részben leírt [lépéseket, ha nem tudja szinkronizálni a OneNote-ot.](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)
 
-Ha a jegyzetfüzet nem szinkronizált OneDrive vagy újabb verziók SharePoint, próbálja meg a jegyzetfüzet megnyitása a OneNote programban (www.onenote.com) a webes. Ez segít meghatározni, ha a OneNote vagy a kiszolgáló által okozott-e a problémát.
+Ha a nem szinkronizált jegyzetfüzet a OneDrive-on vagy a SharePoint újabb verzióiban van tárolva, próbálja meg megnyitni a jegyzetfüzetet a OneNote webes verziójában (www.onenote.com). Ez segíthet annak megállapításában, hogy a problémát a kiszolgáló vagy a OneNote okozza-e.
 
-1. A OneNote alkalmazásban kattintson a **fájl** > **Info**.
+1. A OneNote-ban kattintson a **File**  >  **Fájlinformáció gombra.**
 
-2. Kattintson a jobb gombbal az érintett jegyzetfüzet neve alatt látható URL-CÍMÉT, és kattintson a **Másolás**parancsra.
+2. Kattintson a jobb gombbal az érintett jegyzetfüzet neve alatt látható URL-címre, és válassza a **Másolás parancsot.**
 
-3. A webböngészőben kattintson a cím mezőbe, és nyomja le a **Ctrl + V** billentyűkombinációval illessze be a másolt URL-CÍMÉT.
+3. A webböngészőben kattintson a Cím mezőre, majd a **Ctrl + V billentyűkombinációval** illessze be a másolt URL-címet.
 
-4. Nyomja meg az **Enter** , majd betölteni a OneNote programban webes jegyzetfüzet.
+4. Az **Enter** billentyű lenyomására a webhez való OneNote-ban betöltheti a jegyzetfüzetet.
 
-Ha nem sikerül, a jegyzetfüzet megnyitása a OneNote programban webes és a változások láthatók, a problémát okozhatja a OneNote asztali verziója. Bezárása és újbóli megnyitása a jegyzetfüzet általában törli, és sikeresen alaphelyzetbe állítja a kapcsolatot.
+Ha nem tudja megnyitni a jegyzetfüzetet a Webes OneNote-ban, és a módosítások megjelennek, a problémát a OneNote asztali verziója okozhatja. A jegyzetfüzet bezárása és újbóli megnyitása általában törli és sikeresen visszaállítja a kapcsolatot.
 
-* Ajánlott [telepíteni az Office-frissítések](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) lépéseinek OneNote legújabb frissítések telepítése a számítógépen. Ha Mac számítógépen, kövesse az [Office for Mac-frissítésekben automatikus ellenőrzése](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
+* Javasoljuk, hogy kövesse az [Office-frissítések telepítése](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) című témakör lépéseit a onenote-frissítések pc-re való telepítéséhez. Mac maces esetén kövesse automatikusan a [Mac Office-frissítések keresése](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1)című részben leírt lépéseket.
