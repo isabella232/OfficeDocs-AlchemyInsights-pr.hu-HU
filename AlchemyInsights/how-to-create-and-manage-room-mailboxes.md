@@ -1,5 +1,5 @@
 ---
-title: 614. a helyiség-postaládák létrehozása és kezelése
+title: 614 Szobapostaládák létrehozása és kezelése
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: aaa7203c4879b65ec551374a911878556e44ed9a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fb0bdea1d1e2bace748971706ac119976ec9bf69
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735607"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495773"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="f25aa-102">Helyiségpostaládák létrehozása és kezelése</span><span class="sxs-lookup"><span data-stu-id="f25aa-102">How to create and manage room mailboxes</span></span>
+# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="71717-102">Szobapostaládák létrehozása és kezelése</span><span class="sxs-lookup"><span data-stu-id="71717-102">How to create and manage room mailboxes</span></span>
 
-<span data-ttu-id="f25aa-103">A helyiség-postaládák létrehozásával és módosításával kapcsolatban további információ a [helyiség-postaládák létrehozása és kezelése](https://technet.microsoft.com/library/jj215781.aspx)című témakörben található.</span><span class="sxs-lookup"><span data-stu-id="f25aa-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
+<span data-ttu-id="71717-103">Szobapostaládák létrehozásáról és módosításáról a [Szobapostaládák létrehozása és kezelése című témakörben található.](https://technet.microsoft.com/library/jj215781.aspx)</span><span class="sxs-lookup"><span data-stu-id="71717-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
 
-<span data-ttu-id="f25aa-104">A helyiség-és berendezés-postafiókról (más néven erőforrás-postaládákról) a [helyiség-és berendezés-postaládák](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)című témakörben olvashat.</span><span class="sxs-lookup"><span data-stu-id="f25aa-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span></span>
+<span data-ttu-id="71717-104">A helyiség- és berendezéspostaládákról (más néven erőforrás-postaládákról) a [Helyiség- és berendezéspostaládák című témakörben olvashat](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)bővebben.</span><span class="sxs-lookup"><span data-stu-id="71717-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).</span></span>
