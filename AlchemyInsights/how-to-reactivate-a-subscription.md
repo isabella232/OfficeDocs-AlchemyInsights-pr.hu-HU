@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 3754bc626264cf8eefe116bccaa0fac60384f55d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 10a38f9234d969e8729211b56cd7d3a90bf05de3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763507"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509134"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Előfizetés újraaktiválása
 
 Ha lejár az előfizetése, illetve lemondta vagy a Microsoft letiltotta az előfizetését, a Microsoft 365 Felügyeleti központban újraaktiválhatja.
   
-1. A Felügyeleti központban lépjen a **Számlázás** \> [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
+1. A felügyeleti központban nyissa meg a **Termékek számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapot.
 
 2. Keresse meg az újraaktiválni kívánt előfizetést. A **Számlázás** részben válassza az **Újraaktiválás** lehetőséget.
 
@@ -32,4 +32,4 @@ Ha lejár az előfizetése, illetve lemondta vagy a Microsoft letiltotta az elő
 
 3. Erősítse meg a fizetési adatait. Ugyanitt módosíthatja meglévő fizetési adatait. Miután befejezte a fizetési mód megadását, válassza az **Újraaktiválás** lehetőséget.
 
-További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription) című részt.
+További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.

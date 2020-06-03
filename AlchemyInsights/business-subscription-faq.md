@@ -19,12 +19,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 886516f97ea15ca939cd535a0a34a58eaf78114e
-ms.sourcegitcommit: eadc530b967e5b83e70b59dd5f7dc612b9ac9629
-ms.translationtype: HT
+ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813444"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506301"
 ---
 # <a name="business-subscription-faq"></a>Vállalati verziós előfizetés – gyakori kérdések
 
@@ -35,7 +35,7 @@ Vállalati verziós előfizetés és a licencek kezelése – gyakori kérdése
 - Ha **másik csomagra szeretne váltani**, olvassa el a [Manuális váltás a Microsoft 365 vállalati csomagjai között](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide) című témakört.
 - A **licencek felhasználókhoz való hozzárendeléséhez** lépjen a **Számlázás> [Licencek](https://go.microsoft.com/fwlink/p/?linkid=842264)** lapra. További információért tekintse meg a [Licencek hozzárendelése](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide) lapot.
 - **Licencek hozzáadásához vagy eltávolításához** lépjen a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, és válassza a **Licencek hozzáadása vagy eltávolítása** lehetőséget. További információért tekintse meg a [Licencek hozzáadása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) lapot.
-- Licencek **lemondásához** lépjen a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, válassza a **Beállítások és műveletek** lehetőséget, majd kattintson az **Előfizetés lemondása** elemre. További információért tekintse meg [Az előfizetés lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription) lapot.
+- Licencek **lemondásához** lépjen a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, válassza a **Beállítások és műveletek** lehetőséget, majd kattintson az **Előfizetés lemondása** elemre. További információért tekintse meg [Az előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) lapot.
 - Az előfizetés **aktiválásáról** [Az előfizetés aktiválása](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription) című témakörben olvashat.
 - Lejárt előfizetés **újraaktiválásáról** [Az előfizetés újraaktiválása](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription) című témakörben olvashat.
 - A **próbaidőszak meghosszabbításáról** [A próbaidőszak meghosszabbítása](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business) című témakörben olvashat.
