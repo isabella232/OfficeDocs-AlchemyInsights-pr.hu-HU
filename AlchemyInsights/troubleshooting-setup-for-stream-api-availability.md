@@ -1,5 +1,5 @@
 ---
-title: Adatfolyam - API elérhetőségi beállításai – hibaelhárítás
+title: Adatfolyam– API elérhetősége – Hibaelhárítás
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.custom:
 - "2800001"
 - "1338"
 ms.openlocfilehash: bd08dce9f6b037478e653bd61ad8cfa0a334bc5e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559303"
 ---
-# <a name="api-availability"></a><span data-ttu-id="7df10-102">API elérhetősége</span><span class="sxs-lookup"><span data-stu-id="7df10-102">API Availability</span></span>
+# <a name="api-availability"></a><span data-ttu-id="bbf49-102">API elérhetősége</span><span class="sxs-lookup"><span data-stu-id="bbf49-102">API Availability</span></span>
 
-<span data-ttu-id="7df10-103">Alkalmazásprogramozói felületek az adatfolyam nem érhetők el ma.</span><span class="sxs-lookup"><span data-stu-id="7df10-103">APIs for Stream are not available today.</span></span>
-<span data-ttu-id="7df10-104">További információ:https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="7df10-104">For more information: https://stream.microsoft.com/support/</span></span>
+<span data-ttu-id="bbf49-103">Az adatfolyam API-k ma nem érhetők el.</span><span class="sxs-lookup"><span data-stu-id="bbf49-103">APIs for Stream are not available today.</span></span>
+<span data-ttu-id="bbf49-104">További információk:https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="bbf49-104">For more information: https://stream.microsoft.com/support/</span></span>
