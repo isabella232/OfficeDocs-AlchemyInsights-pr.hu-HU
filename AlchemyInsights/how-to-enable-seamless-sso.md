@@ -1,5 +1,5 @@
 ---
-title: Varrat nélküli egyszeri bejelentkezés engedélyezése
+title: A zökkenőmentes egyszeri bejelentkezés engedélyezése
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663864"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Varrat nélküli egyszeri bejelentkezés engedélyezése
+# <a name="how-to-enable-seamless-sso"></a>A zökkenőmentes egyszeri bejelentkezés engedélyezése
 
-Engedélyezze a varrat nélküli SSO [Azure AD csatlakozás](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)révén.
+Zökkenőmentes egyszeri bejelentkezés engedélyezése az [Azure AD Connect en](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)keresztül.
   
-Ha Azure AD csatlakozás új telepítést végez, válassza az [egyéni telepítési útvonal](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). A **felhasználói bejelentkezés** lapon válassza az **egyszeri bejelentkezés engedélyezése** lehetőséget.
+Ha az Azure AD Connect friss telepítését végzi, válassza ki az [egyéni telepítési útvonalat.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom) A **Felhasználó bejelentkezése** lapon válassza az **Egyszeri bejelentkezés engedélyezése** lehetőséget.
   
-Ellenőrizze, hogy helyesen engedélyezte az SSO varrat nélküli:
+Annak ellenőrzése, hogy megfelelően engedélyezte-e a zökkenőmentes egyszeri bejelentkezést:
   
-1. Globális rendszergazdaként jelentkezzen be az [Azure Active Directory felügyeleti központ](https://aad.portal.azure.com)
+1. Jelentkezzen be az [Azure Active Directory felügyeleti központjába](https://aad.portal.azure.com) globális rendszergazdaként.
 
-2. A bal oldali ablaktáblában válassza ki a **Azure Active Directory** .
+2. Válassza az **Azure Active Directory** a bal oldali ablaktáblában.
 
-3. Győződjön meg arról, hogy varrat nélküli egyszeri bejelentkezés **engedélyezve**.
+3. Ellenőrizze, hogy a Zökkenőmentes egyszeri bejelentkezés **engedélyezve van-e.**
 
-További tudnivalókért lásd: [Azure Active Directory zavartalan Single Sign-On: gyors indítás](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+További információ: [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
