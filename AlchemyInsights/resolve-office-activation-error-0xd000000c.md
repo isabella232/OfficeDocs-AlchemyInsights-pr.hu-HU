@@ -13,18 +13,18 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: e7229980d39b60ec0f60ebd5e51948e8cf34bc76
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 75795c357442799e41c39df2f963e126c944e9f0
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474463"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582561"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>0xD000000C számú Office aktiválási hiba megoldása
 
 - Győződjön meg róla, hogy az internetkapcsolat megfelelően működik azon a Mac gépen, amelyre telepíteni kívánja a programot. Ehhez nyissa meg a böngészőt, és keresse fel a [Microsoft](https://www.microsoft.com) webhelyét. Ha az oldal betöltődik, akkor működik az internetkapcsolat.
 
-- Lépjen ki az összes Office-alkalmazásból.
+- Lépjen ki az összes Microsoft 365-alkalmazásból.
 
 - Töltse le és futtassa a [licenceltávolító eszközt](https://go.microsoft.com/fwlink/?linkid=849815) az Office összes kulcskarika-bejegyzésének eltávolításához.
 

@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 221f075669f5f0e35ae5df11a4a59845ea81b5cd
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912585"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582381"
 ---
-# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>Microsoft 365-csoport visszaállítása az Exchange Felügyeleti központ használatával
+# <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>Microsoft 365-csoport visszaállítása az Exchange Felügyeleti központ használatával
 
 1. A Microsoft 365 Felügyeleti központ bal oldali navigációs sávján bontsa ki a **Felügyeleti központ csomópontot,** és válassza az **Exchange**lehetőséget.
     

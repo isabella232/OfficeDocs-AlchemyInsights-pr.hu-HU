@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 37788c31f4068792956cfff9b89d48c3e9c2f253
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912549"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582525"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Törölt elemek visszaállítása a SharePointból vagy a OneDrive-ból
 
@@ -34,6 +34,6 @@ Ha fájlokat, mappákat, tárakat, listákat és listaelemeket töröl egy Share
   
 [Törölt webhelycsoportok visszaállítása](https://go.microsoft.com/fwlink/?linkid=867660) (globális vagy SharePoint-rendszergazdák a Microsoft 365-ben) 
   
-A Microsoft 365-csoporthoz tartozó webhelyek esetében vissza kell állítania a csoportot a hely visszaállításához. Lásd: [Törölt Microsoft 365-csoport visszaállítása](https://go.microsoft.com/fwlink/?linkid=867802) (globális rendszergazda) 
+A Microsoft 365 csoporthoz tartozó webhelyek esetében vissza kell állítania a csoportot a hely visszaállításához. Lásd: [Törölt Microsoft 365-csoport visszaállítása](https://go.microsoft.com/fwlink/?linkid=867802) (globális rendszergazda) 
   
 

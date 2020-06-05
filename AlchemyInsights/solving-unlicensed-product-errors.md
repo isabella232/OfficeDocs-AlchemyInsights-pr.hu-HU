@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512014"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582741"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Javaslatok a "Nem licencelt termék" hibák megoldására
 
@@ -26,7 +26,7 @@ A "Nem licencelt termékkel" kapcsolatos hibák megoldásához próbálkozzon az
 - Győződjön meg arról, hogy rendelkezik olyan előfizetéssel, amely lehetővé teszi az ügyféllicencek használatát, például a Microsoft 365 Vállalati verziók vagy a Business Premium alkalmazást, és [győződjön meg arról, hogy a felhasználó rendelkezik-e licenccel.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 
 - Győződjön meg arról, hogy a felhasználó ugyanazzal a fiókkal jelentkezik be az Office-ba, amelyhez a licenc hozzá van rendelve.
 - Ellenőrizze a [Szolgáltatás állapotlapján,](https://docs.microsoft.com/office365/enterprise/view-service-health) hogy vannak-e ismert problémák a szolgáltatással.
-- Ellenőrizze a tűzfalat, a víruskereső szoftvert és a proxybeállításokat, és ellenőrizze, hogy azok nem akadályozzák-e az Office-alkalmazások internet-hozzáférését. Lásd [URL-címek és IP-címtartományok](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Ellenőrizze a tűzfalat, a víruskereső szoftvert és a proxybeállításokat, és ellenőrizze, hogy azok nem akadályozzák-e a Microsoft 365 alkalmazások internet-hozzáférését. Lásd [URL-címek és IP-címtartományok](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Próbálkozzon a következő hibaelhárítási műveletekkel is: 
 

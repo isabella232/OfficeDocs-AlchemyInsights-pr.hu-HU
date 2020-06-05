@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 9a40f52637bc8aa7894754118f0f862aa6c71fe2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43913004"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582777"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>A SharePoint-tartalmak külső felhasználókkal való megosztásával kapcsolatos problémák megoldása
 
 Győződjön meg arról, hogy a külső megosztás be van kapcsolva a szervezetnél:
   
-1. Nyissa meg a [Microsoft 365 Felügyeleti központ &amp; Szolgáltatások bővítményeit tartalmazó lapot,](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)és kattintson a Webhelyek **gombra.**
+1. Nyissa meg a [ &amp; Microsoft 365 Felügyeleti központ Szolgáltatások bővítményeit tartalmazó lapot,](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)és kattintson a Webhelyek **gombra.**
     
 2. Ellenőrizze, hogy a beállítás be van-e kapcsolva. Ha a "Csak a meglévő külső felhasználók" jelölőnégyzet be van jelölve, ellenőrizze, hogy a külső felhasználó szerepel-e a Microsoft 365 Felügyeleti központban.
     
