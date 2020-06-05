@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 975609294a4fd564c99594269bb4c348ad1d4191
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912405"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579723"
 ---
 # <a name="manage-access-requests"></a>Hozzáférési kérelmek kezelése
 
@@ -26,7 +26,7 @@ Amikor egy felhasználó megpróbál hozzáférni egy elemhez a SharePointban, �
     
 2. A **Felhasználók és engedélyek csoportban**kattintson a Hozzáférési kérelmek és **meghívók**elemre. (Ha ez nem jelenik meg, nem történt hozzáférési kérelem.)
     
-3. Ha külön-külön szeretne engedélyt adni a felhasználónak, kattintson a **Jóváhagyás** vagy **az Elutasítás gombra.** Adott jogosultsági szint kiválasztásához először kattintson a személy neve melletti három pontra (...). Másik lehetőségként adja hozzá a felhasználót egy olyan csoporthoz, amely engedéllyel rendelkezik a webhelyhez. Kommunikációs helyek és klasszikus csoportwebhelyek esetén ezt a Webhely beállításai lapon teheti meg. A Microsoft 365-csoporthoz tartozó webhelyek esetében hozzáadhatja a felhasználót a csoporthoz.
+3. Ha külön-külön szeretne engedélyt adni a felhasználónak, kattintson a **Jóváhagyás** vagy **az Elutasítás gombra.** Adott jogosultsági szint kiválasztásához először kattintson a személy neve melletti három pontra (...). Másik lehetőségként adja hozzá a felhasználót egy olyan csoporthoz, amely engedéllyel rendelkezik a webhelyhez. Kommunikációs helyek és klasszikus csoportwebhelyek esetén ezt a Webhely beállításai lapon teheti meg. A Microsoft 365 csoporthoz tartozó webhelyek esetében hozzáadhatja a felhasználót a csoporthoz.
     
     [Hozzáférési kérelmek kezelése](https://go.microsoft.com/fwlink/?linkid=2008747)
     

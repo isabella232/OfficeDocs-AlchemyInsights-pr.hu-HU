@@ -1,5 +1,5 @@
 ---
-title: Problémák az Office alkalmazások a bejelentkezés
+title: Problémák a Microsoft 365-alkalmazásokba való bejelentkezéssel kapcsolatban
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: 5f500ecf1f779fb1be4d257fd050a3ad054087dc
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4e7612562d036f1c717817d3c883d6df80f86e2f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938240"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579867"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Az Office alkalmazások "a számítógép megbízható platformmodul nem megfelelően működik" üzenet meghatározásáról
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>A Microsoft 365 alkalmazások javítása "A számítógép platformmegbízhatósági modulja nem működik megfelelően" üzenet
 
-Ez a hiba kijavításához próbálkozzon a következőkkel:
+A hiba elhárításához kövesse az alábbi lépéseket:
 
-- Telepítse a legújabb frissítéseket a [Windows](https://support.microsoft.com/help/4027667/windows-10-update) és [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- [Egyértelmű Office hitelesítő adatok](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) Windows hitelesítőadat-kezelővel.<br/>
-    **Megjegyzés:** A beállításjegyzék elérési utak az Office 2016 16,0 történő megváltoztak. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Próbálja meg a [felhasználó a helyreállítási folyamat](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) platformmegbízhatósági modul (TPM) hibák kijavítására.
-- Állítsa be a EnableADAL = 0, a következő lépésekkel:  
-    1. Kattintson a jobb gombbal a Start gombra, válassza a **Futtatás**, és írja be a **regedit**, majd kattintson az **OK gombra**.
-    2. Válassza az **Igen** Rendszerleíróadatbázis-szerkesztő segítségével módosítsa az eszköz.
-    3. A Rendszerleíróadatbázis-szerkesztőben duplaszó típusú **EnableADAL** HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity a **0** érték adja hozzá.
+- Telepítse a [Windows](https://support.microsoft.com/help/4027667/windows-10-update) és az [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)legújabb frissítéseit.
+- [Az Office hitelesítő adatainak törlése a](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) Windows hitelesítő adatok kezelőjével<br/>
+    **Megjegyzés:** Az Office 2016 beállításjegyzék-elérési útjai 16.0-ra változtak. (Pl.: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Próbálja ki a [felhasználói helyreállítási folyamatot](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) a Platformmegbízhatósági modul (TPM) hibáinak javításához.
+- Állítsa be az EnableADAL = 0-t a következő lépésekkel:  
+    1. Kattintson a jobb gombbal a Windows Start gombjára, válassza a **Futtatás**parancsot, írja be **a regedit parancsot,** majd kattintson **az OK gombra.**
+    2. Válassza az **Igen** lehetőséget, ha engedélyezni szeretné, hogy a Rendszerleíróadatbázis-szerkesztő módosításokat hajtson végre az eszközön.
+    3. A Rendszerleíróadatbázis-szerkesztőben adjon hozzá egy **EnableADAL** duplaszó **értéket, amelynek** beállítása 0 a HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity csoportban.
 
-További tudnivalókért tanulmányozza a [kapcsolat problémáinak - bejelentkezés után a frissítés Office 2016 build 16.0.7967 a Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+További információt a [Csatlakozási problémák a Bejelentkezési problémák az Office 2016 16.0.7967-es frissítése után Windows 10 rendszeren](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)című témakörben talál.

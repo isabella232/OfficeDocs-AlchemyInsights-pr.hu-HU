@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 077d1d69f0c317d958163dcf07239cbdf35edcdb
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912896"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579435"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Felhasználói engedélyek a SharePointban és a OneDrive-ban
 
@@ -27,7 +27,7 @@ Ha a szervezet egyik felhasználója nem tudja elérni a SharePointot vagy a One
   
 1. Nyissa meg a webhelyet egy webböngészőben.
     
-2. Ha a webhely microsoft 365-ös csoporthoz tartozik, kattintson a jobb felső sarokban a Beállítások ikonra, majd a **Webhely engedélyei parancsra.** Kattintson **a Személyek meghívása**gombra, majd válassza ki, hogy tagokat szeretne felvenni a Microsoft 365 csoportba, vagy csak a webhelyet osztja meg. 
+2. Ha a webhely microsoft 365-csoporthoz tartozik, kattintson a jobb felső sarokban a Beállítások ikonra, majd a **Webhely engedélyei parancsra.** Kattintson **a Személyek meghívása**gombra, majd válassza ki, hogy tagokat szeretne felvenni a Microsoft 365 csoportba, vagy csak a webhelyet osztja meg. 
     
     Kommunikációs hely esetén kattintson a jobb felső sarokban található **Webhely megosztása** elemre, írja be a személy nevét, majd válassza ki a jogosultsági szintet (Olvasás, Szerkesztés vagy Teljes hozzáférés). 
     

@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: be56dfcdc65cf51fa66ef7c98dab5f0d78bbb21b
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 19db06fea287409e86c67a810ac57ca77004b993
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198811"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580731"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Számlázási cím vagy számlázási e-mail értesítések módosítása
 
@@ -41,4 +41,4 @@ ms.locfileid: "43198811"
 
 4. A **Másodlagos e-mail mezőbe** írja be a használni kívánt másodlagos e-mail címet, majd kattintson a **Mentés gombra.**
 
-A címek és az értesítések változásairól az Office 365 vállalati verzió [számlázási címének módosítása ..](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)
+A címek és az értesítések változásairól a [Microsoft 365 vállalati verzió számlázási címének módosítása](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)témakörben talál további információt.

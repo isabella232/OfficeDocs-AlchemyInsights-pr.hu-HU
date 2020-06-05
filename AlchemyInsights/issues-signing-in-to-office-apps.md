@@ -1,5 +1,5 @@
 ---
-title: Problémák az Office alkalmazások a bejelentkezés
+title: Problémák a Microsoft 365-alkalmazásokba való bejelentkezéssel kapcsolatban
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938237"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579939"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Az Office alkalmazások "Sajnos már bejelentkezett a szervezet egy másik fiókot" üzenet meghatározásáról
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>A Microsoft 365-alkalmazások javítása "Sajnáljuk, a szervezet egy másik fiókja már be van jelentkezve" üzenet
 
-Ez a hiba kijavításához próbálkozzon a következőkkel:
+A hiba elhárításához kövesse az alábbi lépéseket:
 
-- Távolítsa el az összes munka-számla, kivéve az érintett fiókot, Windows beállításai > **hozzáférés munkahelyi vagy iskolai**.
-- [Egyértelmű Office hitelesítő adatok](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) Windows hitelesítőadat-kezelővel.<br/>
-    **Megjegyzés:** A beállításjegyzék elérési utak az Office 2016 16,0 történő megváltoztak. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Egy Office alkalmazás megnyitásához válassza a **fájl** > **fiók** > **Kijelentkezés**. Jelentkezzen be egy érvényes licenccel rendelkező felhasználói fiókkal. Részletes információkért lásd: [fiókok hivatalban](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- For Mac lásd: [nem tud bejelentkezni az Office 2016 for Mac alkalmazás](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Távolítsa el az összes munkahelyi fiókot, kivéve az érintett fiókot, a Windows beállítások > **Access munkahelyi vagy iskolai**használatával.
+- [Az Office hitelesítő adatainak törlése a](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) Windows hitelesítő adatok kezelőjével<br/>
+    **Megjegyzés:** Az Office 2016 beállításjegyzék-elérési útjai 16.0-ra változtak. (Pl.: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Nyisson meg egy Office-alkalmazást, és válassza **a**  >  **Fájlfiók**  >  **kijelentkezés lehetőséget.** Ezután jelentkezzen be egy érvényes licenccel rendelkező felhasználói fiókkal. További információt a [Fiókok az Office-ban](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9) témakörben talál.
+- Mac használata esetén: [Nem tudok bejelentkezni egy Mac Office 2016 appba](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
-További tudnivalókért lásd: ["Elnézést, a szervezet egy másik fiókot van már bejelentkezett ezen a számítógépen" az Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+További információt az [Office "Sajnáljuk, a szervezet egy másik fiókja már be van jelentkezve ezen a számítógépen" című részében](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)talál.

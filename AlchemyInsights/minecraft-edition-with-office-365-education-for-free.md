@@ -12,12 +12,12 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762067"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579651"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition ingyenes Office 365 Oktatási verzióval
 
@@ -29,7 +29,7 @@ ms.locfileid: "43762067"
 
   - Ha az iskolája nem rendelkezik Azure AD-bérlővel, a rendszergazda a **Minecraft: Education Edition**beszerzése folyamatának részeként [beállíthat egyet.](https://docs.microsoft.com/education/windows/school-get-minecraft)
 
-  - Az Office 365 Oktatási verzió, amely az Office-alkalmazások online verzióit és az 1 TB-os online tárhelyet tartalmazza, tanárok és diákok számára ingyenes. [Regisztrálja iskoláját az Office 365 Oktatási verzióra.](https://products.office.com/academic/office-365-education-plan)
+  - Az Office 365 Oktatási verzió, amely a Microsoft 365 alkalmazások online verzióit és az 1 TB-os online tárhelyet tartalmazza, tanárok és diákok számára ingyenes. [Regisztrálja iskoláját az Office 365 Oktatási verzióra.](https://products.office.com/academic/office-365-education-plan)
 
   - Ha iskolája rendelkezik Office 365 Oktatási-előfizetéssel, ingyenes Azure AD-előfizetést is tartalmaz. [Regisztrálja ingyenes Azure AD-előfizetését.](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
 

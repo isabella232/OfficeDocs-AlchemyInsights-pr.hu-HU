@@ -2,7 +2,7 @@
 title: SharePoint áttelepítési szabályozás 503-as hibákkal
 ms.author: pebaum
 author: pebaum
-ms.date: 8/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: 05e816141a5b9cf484a647f8154110cd999ff6ef
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 3705be1e82fde6620fef3c4272f0294d58f11d38
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958684"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582885"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint áttelepítési szabályozás 503-as hibákkal
 
-**Fontos:** Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is magas rendelkezésre állásúak maradjanak – további információkért látogasson el a [SharePoint Online ideiglenes szolgáltatásának korrekcióira.](https://aka.ms/ODSPAdjustments)
+**Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
 **503-as hibák a SharePoint Online-ra való áttéréskor**
 
