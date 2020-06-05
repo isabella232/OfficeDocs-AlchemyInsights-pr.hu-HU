@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 172b1a144b892a35a915502b08cea2834eb85c94
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ab241752d969acab237779c514d89b2a0c30c222
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505977"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580587"
 ---
 # <a name="viewing-chat-history-in-microsoft-teams"></a>Csevegési előzmények megtekintése a Microsoft Teamsben
 
-A Teams csevegési előzményeinek megtekintéséhez [használhatja](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) a Tartalomkeresést a [Biztonsági & megfelelőségi központban,](https://sip.protection.office.com/insightdashboard)ahol a Microsoft 365-csoporthoz vagy a Microsoft-csoporthoz társított postaládában kereshet. 
+A Teams csevegési előzményeinek megtekintéséhez [használhatja](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) a Tartalomkeresést a [Biztonsági & megfelelőségi központban,](https://sip.protection.office.com/insightdashboard)ahol a Microsoft 365-csoporthoz vagy a Microsoft-csapathoz társított postaládában kereshet. 
 
 A Biztonsági és megfelelőségi központ keresési lehetőségeiről a Microsoft Teams és a [Microsoft 365 csoportok](https://docs.microsoft.com/microsoft-365/compliance/content-search) keresése című témakörben olvashat. 
 

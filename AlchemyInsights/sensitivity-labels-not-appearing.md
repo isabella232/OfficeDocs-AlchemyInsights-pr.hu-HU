@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511654"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581017"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Nem megjelenő érzékenységi címkék
 
 Az érzékenységi címkék lehetővé teszik az érzékeny tartalmak osztályozását és védelmét. Ezek a Microsoft 365 megfelelőségi központban, a Microsoft 365 biztonsági központban vagy a Microsoft 365 biztonsági & megfelelőségi központban hozhatók létre a Besorolási > az érzékenységi címkék alatt. A funkcióról az [Érzékenységi címkék áttekintése című témakörben olvashat bővebben.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Ha konfigurálta az érzékenységi címkéket, de azok nem jelennek meg az Office-alkalmazásokban, ellenőrizze az alábbiakat:
+Ha konfigurálta az érzékenységi címkéket, de azok nem jelennek meg a Microsoft 365 alkalmazásokban, ellenőrizze az alábbiakat:
 
 - Ellenőrizze, hogy az érzékenységi címke [közzé lett-e téve](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) a kívánt felhasználók és csoportok számára.
 

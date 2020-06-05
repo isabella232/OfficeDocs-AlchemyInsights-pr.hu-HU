@@ -1,5 +1,5 @@
 ---
-title: Az Office-alkalmazások javítása Nem található az irodai licencekkel társított üzenet
+title: A Microsoft 365-alkalmazások javítása Nem található az irodai licencekkel társított üzenet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 65ffae1a784f841cb08a5df52b02671a4526d9d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505869"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580443"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Az Office-alkalmazások javítása "Nem található az irodai licencek társítottak" üzenet
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>A Microsoft 365 alkalmazás "Nem található irodai licencek nem találhatók" üzenetének javítása
 
 Ha ez az üzenet jelenik meg, próbálkozzon az alábbiakkal:
 
-1. Ellenőrizze a tűzfalat, a víruskereső szoftvert és a proxybeállításokat, és ellenőrizze, hogy azok nem akadályozzák-e az Office-alkalmazások internet-hozzáférését. Lásd: [Microsoft 365 URL-címek és IP-címtartományok](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Ellenőrizze a tűzfalat, a víruskereső szoftvert és a proxybeállításokat, és ellenőrizze, hogy azok nem akadályozzák-e a Microsoft 365-alkalmazások internet-hozzáférését. Lásd: [Microsoft 365 URL-címek és IP-címtartományok](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Távolítsa el és [rendelje hozzá újra az Office-licencet](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) az érintett felhasználószámára. 
 3. Nyisson meg egy Office-alkalmazást, és [jelentkezzen ki](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) a meglévő felhasználói fiókokból.
 4. Nyissa meg a Windows > **Fiókok**  >  **e-mail fiókok & a fiókokat,** és távolítsa el az összes munkahelyi fiókot, kivéve az érintett fiókot.

@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 0a07e6279f533a4c26a4e90c10651421a5df8860
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: MT
+ms.openlocfilehash: 32968f085a4e9d49f60ef88e4e78bf6c67629556
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "44282925"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580659"
 ---
-# <a name="change-email-address-of-an-microsoft-365-group"></a>Microsoft 365-csoport e-mail címének módosítása
+# <a name="change-email-address-of-a-microsoft-365-group"></a>Microsoft 365-csoport e-mail címének módosítása
 
 A Microsoft 365-csoportok e-mail címét a Felügyeleti központ segítségével módosíthatja. Csak válassza ki a csoportot, és válassza ki @edit e-mail címét.
 

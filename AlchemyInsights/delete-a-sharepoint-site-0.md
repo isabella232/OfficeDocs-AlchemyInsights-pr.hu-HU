@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a409a3e5916895573db73593c297ce425ab65a88
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911582"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580299"
 ---
-# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Microsoft 365-csoporthoz tartozó webhelyek törlése
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Microsoft 365-csoporthoz tartozó webhelyek törlése
 
-Amikor a felhasználók új csoportwebhelyet hoznak létre a SharePoint Kezdőlapról, vagy új csoportwebhelyet hoz létre az új SharePoint Felügyeleti központból, a rendszer automatikusan létrehozza a megfelelő Microsoft 365 csoportot. A Microsoft 365 csoporthoz kapcsolódó csoportwebhelyek akkor is létrejönnek, amikor Microsoft 365 csoportot vagy csoportot hoz létre a Microsoft Teamsben. Ha egy Microsoft 365-csoporthoz tartozó SharePoint-webhelyet szeretne törölni, magát a Microsoft 365 csoportot kell törölnie. 
+Amikor a felhasználók új csoportwebhelyet hoznak létre a SharePoint Kezdőlapról, vagy új csoportwebhelyet hoz létre az új SharePoint Felügyeleti központból, a rendszer automatikusan létrehozza a megfelelő Microsoft 365 csoportot. A Microsoft 365 csoporthoz kapcsolódó csoportwebhelyek akkor is létrejönnek, amikor Microsoft 365 csoportot vagy csoportot hoz létre a Microsoft Teamsben. Ha microsoft 365-csoporthoz tartozó SharePoint-webhelyet szeretne törölni, magát a Microsoft 365 csoportot kell törölnie. 
   
 1. Nyissa meg [a Microsoft 365 Felügyeleti központ Csoportok lapját.](https://portal.office.com/adminportal/home#/groups)
     

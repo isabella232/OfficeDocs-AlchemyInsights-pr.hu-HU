@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716174"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581877"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Az Office-alkalmazások javítása "Jelenleg nem tudunk csatlakozni" üzenet
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>A Microsoft 365 alkalmazások javítása "Jelenleg nem tudunk csatlakozni" üzenet
 
 Ha ez az üzenet jelenik meg, próbálkozzon az alábbiakkal:
 
-1. Ellenőrizze a tűzfalat, a víruskereső szoftvert és a proxybeállításokat, és ellenőrizze, hogy azok nem akadályozzák-e az Office-alkalmazások internet-hozzáférését. Lásd: [Microsoft URL-címek és IP-címtartományok](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Ellenőrizze a tűzfalat, a víruskereső szoftvert és a proxybeállításokat, és ellenőrizze, hogy azok nem akadályozzák-e a Microsoft 365-alkalmazások internet-hozzáférését. Lásd: [Microsoft URL-címek és IP-címtartományok](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Nyissa meg a**Futtatás** **indítása** > , majd írja be **a services.msc**. Győződjön meg arról, hogy a következő szolgáltatások futnak:
+2. Nyissa **Start**meg a  >  **Futtatás**indítása , majd írja be **a services.msc**. Győződjön meg arról, hogy a következő szolgáltatások futnak:
     - Hálózati csatlakoztatott eszközök automatikus beállítása
     - Hálózati lista szolgáltatás
     - Hálózati helyfigyelés
