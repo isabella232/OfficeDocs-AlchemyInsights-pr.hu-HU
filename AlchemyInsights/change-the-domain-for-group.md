@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 52078e59d893706cc56f29145913ecea3574f135
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d1ad81a01c858d2df4d2ee6e952376956e133497
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507912"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580623"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a><span data-ttu-id="98a68-102">A Microsoft 365-csoport tartományának módosítása</span><span class="sxs-lookup"><span data-stu-id="98a68-102">Change the domain for Microsoft 365 Group</span></span>
+# <a name="change-the-domain-for-microsoft-365-group"></a><span data-ttu-id="83074-102">A Microsoft 365-csoport tartományának módosítása</span><span class="sxs-lookup"><span data-stu-id="83074-102">Change the domain for Microsoft 365 Group</span></span>
 
-<span data-ttu-id="98a68-103">Ha a létrehozás során módosítani szeretné egy Microsoft 365-csoport tartományát, kövesse [a Microsoft 365-csoportok létrehozásakor használni kívánt tartomány kiválasztása](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)című részt.</span><span class="sxs-lookup"><span data-stu-id="98a68-103">If you want to change the domain for an Microsoft 365 Group during creation, follow the steps in [Choose the domain to use when creating Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).</span></span>
+<span data-ttu-id="83074-103">Ha a létrehozás során módosítani szeretné egy Microsoft 365-csoport tartományát, kövesse [a Microsoft 365-csoportok létrehozásakor használni kívánt tartomány kiválasztása](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)című részt.</span><span class="sxs-lookup"><span data-stu-id="83074-103">If you want to change the domain for a Microsoft 365 Group during creation, follow the steps in [Choose the domain to use when creating Microsoft 365 Groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).</span></span>
 
-<span data-ttu-id="98a68-104">A Microsoft 365-csoport létrehozása után jelenleg nincs mód a tartomány módosítására.</span><span class="sxs-lookup"><span data-stu-id="98a68-104">After the Microsoft 365 Group is already created, there is currently no way to change the domain.</span></span> <span data-ttu-id="98a68-105">Az egyetlen módja, hogy hozzon létre egy új Microsoft 365-csoport, és törölje a régit, ha szükséges (további e-mail címeket lehet hozzáadni az [Exchange Felügyeleti Központ](https://outlook.office365.com/ecp).</span><span class="sxs-lookup"><span data-stu-id="98a68-105">The only way is to create a new Microsoft 365 Group and delete the old one if necessary (additional email addresses can be added through the [Exchange Admin Center](https://outlook.office365.com/ecp).</span></span>
+<span data-ttu-id="83074-104">A Microsoft 365-csoport létrehozása után jelenleg nincs mód a tartomány módosítására.</span><span class="sxs-lookup"><span data-stu-id="83074-104">After the Microsoft 365 Group is already created, there is currently no way to change the domain.</span></span> <span data-ttu-id="83074-105">Az egyetlen módja, hogy hozzon létre egy új Microsoft 365-csoport, és törölje a régit, ha szükséges (további e-mail címeket lehet hozzáadni az [Exchange Felügyeleti Központ](https://outlook.office365.com/ecp).</span><span class="sxs-lookup"><span data-stu-id="83074-105">The only way is to create a new Microsoft 365 Group and delete the old one if necessary (additional email addresses can be added through the [Exchange Admin Center](https://outlook.office365.com/ecp).</span></span>
