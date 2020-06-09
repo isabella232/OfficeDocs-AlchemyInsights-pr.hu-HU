@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 5ec5277a758fc5171c846266787c2fbcf751f21c
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010220"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617897"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>A Teams telepítése önállóként, illetve új vagy meglévő Office-telepítésekkel
 
 A Microsoft Teams mostantól a Microsoft 365 nagyvállalati verzióinak, a Microsoft 365 vállalati alkalmazásoknak és a Mac Office-nak ***az új telepítései*** közé tartozik. További információ: [Mikor kezdi el a Microsoft Teams az Office új telepítéseit bevonni?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Ezenkívül a Monthly Channel 1906-os verziójától kezdve a Teams hozzáadódik a Microsoft 365 Nagyvállalati (és Microsoft 365 vállalati alkalmazások) ***meglévő telepítéseihez*** a Windows rendszert futtató eszközökön, amikor a meglévő telepítést a legújabb verzióra frissíti. További információ: [Mi a helyzet a meglévő Office-telepítésekkel?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Ezenkívül a Jelenlegi csatorna 1906-os verziójától kezdve a Teams hozzáadódik a Microsoft 365 Nagyvállalati (és Microsoft 365 vállalati alkalmazások) ***meglévő telepítéseihez*** a Windows rendszert futtató eszközökön, amikor a meglévő telepítést a legújabb verzióra frissíti. További információ: [Mi a helyzet a meglévő Office-telepítésekkel?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
-> Ha nem szeretne megvárni ezt a bevezetési ütemezést, az [alábbi utasításokat](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) követve telepítheti a Teamst önállóként [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)a felhasználók számára, vagy beállíthatja, hogy a felhasználók maguk telepítsék a Teamst a rendszerből.
+> Ha nem szeretne megvárni ezt a bevezetési ütemezést, az [alábbi utasításokat követve](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)telepítheti a Teamst önállóként a felhasználók   számára, vagy beállíthatja, hogy a felhasználók maguk telepítsék a Teamst a rendszerből.  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)
 
 Ha szervezete nem áll készen a Teams telepítésére, rendelkezünk azokkal a lépésekkel, amelyekkel ***kizárhatja*** a Csapatokat az [Office új](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) vagy [meglévő](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) telepítéseiből. Ha azt szeretné, hogy a Teams telepítve legyen, de nem szeretné, hogy a Teams automatikusan elinduljon a felhasználó számára a telepítés után, olvassa [el a Microsoft Teams automatikus indításának megakadályozása a telepítés után](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)című témakört.
 

@@ -10,15 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: b56a676181ec551bc7943d5eea0c49cd279d9e37
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855774"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618011"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Hiba: A számítógépen lévő szabályok nem egyeznek
 
-Ez az Outlook Desktop ismert problémája. Az Outlook team 2019.02/3-án kiadott 12228.20332-es verzióban végrehajtotta az első javítást. Ez a javítás nem foglalkozott az összes kapott jelentéssel.
+Az ismert probléma frissített állapotának megtekintéséhez olvassa el [A számítógépen lévő szabályok nem egyeznek meg a Microsoft Exchange szabályaival.](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
 
-Az ismert probléma frissített állapotának megtekintéséhez olvassa el a Számítógépen található [szabályok nem felelnek meg a Microsoft Exchange-en](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0) érvényes szabályoknak.
+Az Outlook Csapat megvalósított egy javítást az 12928.10000 buildben. A javítás már az Insider Fast-nál van, és 2020 júniusának végén a Monthly Channel-re kerül. Miután a fix épít lehet, hogy a gyors "Milyen szabályokat akarsz tartani" még egyszer utoljára. Ha a rendszer kéri, válassza a Kiszolgáló lehetőséget, majd lépjen vissza az Outlook programban, és engedélyezze újra a letiltott szabályokat.
+
+Amíg a javítás elérhetővé nem válik, használja a következő kerülő megoldást:
+
+**Megoldás:** A legutóbbi jelentésekben a probléma azok esetében fordult elő, akik csak ügyfélszabályokat hoztak létre az Outlook asztalon. Ha továbbra is problémákkal küzd, fontolja meg a szabályok törlését, majd csak az OWA (Outlook Web App) alkalmazásban hozzon létre és szerkesztsen szabályokat, amíg a probléma meg nem oldódik.
+
+Ha nem tudja manuálisan törölni a szabályokat, az Outlook program indításakor az Outlook/cleanrules paranccsal is futtathatja az Outlook parancsát. Ezzel az ügyfél- és a kiszolgálói szabályt is törli. Törli az Outlook-profil összes fiókjának összes szabályát. Ezt a parancsot a Parancssori kapcsolók cikk tovább dokumentálja.
