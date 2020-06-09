@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: hu-HU
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618011"
+ms.locfileid: "44664248"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Hiba: A számítógépen lévő szabályok nem egyeznek
 
@@ -28,3 +28,4 @@ Amíg a javítás elérhetővé nem válik, használja a következő kerülő me
 **Megoldás:** A legutóbbi jelentésekben a probléma azok esetében fordult elő, akik csak ügyfélszabályokat hoztak létre az Outlook asztalon. Ha továbbra is problémákkal küzd, fontolja meg a szabályok törlését, majd csak az OWA (Outlook Web App) alkalmazásban hozzon létre és szerkesztsen szabályokat, amíg a probléma meg nem oldódik.
 
 Ha nem tudja manuálisan törölni a szabályokat, az Outlook program indításakor az Outlook/cleanrules paranccsal is futtathatja az Outlook parancsát. Ezzel az ügyfél- és a kiszolgálói szabályt is törli. Törli az Outlook-profil összes fiókjának összes szabályát. Ezt a parancsot a Parancssori kapcsolók cikk tovább dokumentálja.
+
