@@ -1,5 +1,5 @@
 ---
-title: OneDrive raktározás
+title: OneDrive-tárhely
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049051"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667850"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="6b511-102">Az OneDrive tárhely kezelése</span><span class="sxs-lookup"><span data-stu-id="6b511-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="f5452-102">A OneDrive-tárhely kezelése</span><span class="sxs-lookup"><span data-stu-id="f5452-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="6b511-103">Az OneDrive tárolóhely nem számít az általános Bérlőkvóta felé.</span><span class="sxs-lookup"><span data-stu-id="6b511-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
+<span data-ttu-id="f5452-103">A OneDrive Vállalati verzió kezelése során megtekintheti, hogy mennyi helyet használ, és szabadíthat fel helyet.</span><span class="sxs-lookup"><span data-stu-id="f5452-103">You can manage your OneDrive for Business to see how much space you’re using and free up space.</span></span>  <span data-ttu-id="f5452-104">További információkért látogasson el az alábbi linkekre.</span><span class="sxs-lookup"><span data-stu-id="f5452-104">For more information visit the links below.</span></span>
 
-<span data-ttu-id="6b511-104">Útmutató [a OneDrive tárolóhely felhasználónkénti/tervenkénti kiosztásáról](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span><span class="sxs-lookup"><span data-stu-id="6b511-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
-
-<span data-ttu-id="6b511-105">Ismerje meg, [mekkora tárolóhelyet használ az OneDrive-ban](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span><span class="sxs-lookup"><span data-stu-id="6b511-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
-
-<span data-ttu-id="6b511-106">Megtanulják [, hogyan kell kérni OneDrive tárolási kvóta segítségével PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span><span class="sxs-lookup"><span data-stu-id="6b511-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
-
-<span data-ttu-id="6b511-107">Mikroszkóp akarat kezdetben beszerez 1 TB által felhasználó, melyik admins tud növekszik-hoz valameddig 5 TB által felhasználó.</span><span class="sxs-lookup"><span data-stu-id="6b511-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="6b511-108">Ismerje meg, hogyan [állíthatja be az OneDrive felhasználók alapértelmezett tárolóterét](https://docs.microsoft.com/onedrive/set-default-storage-space).</span><span class="sxs-lookup"><span data-stu-id="6b511-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
-
-<span data-ttu-id="6b511-109">Útmutató [egy adott felhasználó OneDrive tárolóhelyének módosításához](https://docs.microsoft.com/onedrive/change-user-storage).</span><span class="sxs-lookup"><span data-stu-id="6b511-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
-
-<span data-ttu-id="6b511-110">Ismerje meg [, hogyan állíthatja be a globális rendszergazdák az OneDrive Storage quota-t a PowerShell használatával minden felhasználóra](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span><span class="sxs-lookup"><span data-stu-id="6b511-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
-  
+- [<span data-ttu-id="f5452-105">A OneDrive Vállalati verziós tárhely kezelése</span><span class="sxs-lookup"><span data-stu-id="f5452-105">Manage your OneDrive for Business storage</span></span>](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [<span data-ttu-id="f5452-106">Adott felhasználó OneDrive-tárhelyének módosítása</span><span class="sxs-lookup"><span data-stu-id="f5452-106">Change a specific user's OneDrive storage space</span></span>](https://docs.microsoft.com/onedrive/change-user-storage)
+- [<span data-ttu-id="f5452-107">A OneDrive-felhasználók alapértelmezett tárterületének beállítása</span><span class="sxs-lookup"><span data-stu-id="f5452-107">Set the default storage space for OneDrive users</span></span>](https://docs.microsoft.com/onedrive/set-default-storage-space)
