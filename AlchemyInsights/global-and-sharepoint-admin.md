@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5674"
-ms.openlocfilehash: bc5a0067ce8dd63134f163daa33e7bc662cfdd96
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 231f302bd3f3655b1fe72518d71b14d464914ce0
+ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278997"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44716421"
 ---
 # <a name="global-and-sharepoint-admin"></a>Globális és SharePoint-rendszergazda
 
@@ -29,3 +29,4 @@ Számos oka lehet annak, ha a Microsoft SharePoint vagy a Microsoft OneDrive el�
 
 - [A SharePoint Online nem érhető el](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
 
+- [Hozzáférés megtagadva a PIM által kezelt felhasználói fiókokhoz a SharePoint ban vagy a OneDrive Felügyeleti központban](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)
