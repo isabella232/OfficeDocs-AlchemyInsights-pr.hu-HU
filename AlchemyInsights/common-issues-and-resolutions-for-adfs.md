@@ -11,21 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706203"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797973"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Az ADFS-szel kapcsolatos gyakori problémák és megoldásuk
 
 Az összevont tartomány konfigurációját a Microsoft Tudásbázis következő cikkeiben leírtak szerint frissítheti.
 
-- [2713898](https://support.microsoft.com/help/2713898) „Hiba történt a webhely elérésekor“ hibaüzenet az AD FS-től, amikor egy összevont felhasználó bejelentkezik az Office 365-be, az Azure-ba vagy az Intune-ba.
+- [Az ADFS összevonási tanúsítvány lejárata](adfs-federation-certificate-expiring.md)
 
-- [2535191](https://support.microsoft.com/help/2535191): „Sajnáljuk, de probléma merült fel a bejelentkezésekor“ és „80048163“ hibaüzenet, amikor egy összevont felhasználó megpróbál bejelentkezni az Office 365-be, az Azure-ba vagy az Intune-ba.
+- [2713898](https://support.microsoft.com/help/2713898) "Hiba történt a webhely elérésekor" hibaüzenet az AD FS-től, amikor egy összevont felhasználó bejelentkezik a Microsoft 365- be, az Azure-ba vagy az Intune-ba.
 
-- [2647020](https://support.microsoft.com/help/2647020): „Sajnáljuk, de probléma merült fel a bejelentkezésekor“ és „80041317“ vagy „80043431“ hibaüzenet, amikor egy összevont felhasználó megpróbál bejelentkezni az Office 365-be, az Azure-ba vagy az Intune-ba.
+- [2535191](https://support.microsoft.com/help/2535191) "Sajnáljuk, de nem sikerül bejelentkeznünk" és "80048163" hibaüzenet, amikor egy összevont felhasználó megpróbál bejelentkezni a Microsoft 365, az Azure vagy az Intune rendszerbe.
 
-További információért olvassa el az [Összevont tartományok beállításainak frissítése vagy javítása az Office 365-ben, az Azure-ban vagy az Intune-ban](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365) című témakört.
+- [2647020](https://support.microsoft.com/help/2647020) "Sajnáljuk, de nem sikerül bejelentkeznünk" és "80041317" vagy "80043431" hibaüzenet, amikor egy összevont felhasználó megpróbál bejelentkezni a Microsoft 365, az Azure vagy az Intune rendszerbe.
+
+További információt [az összevont tartomány beállításainak frissítése vagy javítása a Microsoft 365, az Azure vagy az Intune alkalmazásban című témakörben talál.](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365)
