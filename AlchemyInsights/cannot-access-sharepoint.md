@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278822"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840899"
 ---
 # <a name="cannot-access-sharepoint"></a>A SharePoint nem érhető el
 
-Számos oka lehet annak, ha a Microsoft SharePoint vagy a Microsoft OneDrive elérhetetlenné válik. Ha nem tud hozzáférni a SharePoint Online-hoz, a probléma elhárításához kövesse az alábbi útmutatót.
+Számos oka lehet annak, hogy a SharePoint vagy a OneDrive elérhetetlenné válik. Ha nem tudja elérni a SharePointot vagy a OneDrive-ot, az alábbi útmutatósegítségével hárítsa el a problémát.
 
-- [A SharePoint Online nem érhető el](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [Nem lehet elérni a SharePointot vagy a OneDrive-ot](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
