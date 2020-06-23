@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506157"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840923"
 ---
-# <a name="calendar-publishing-information"></a><span data-ttu-id="4551a-102">Naptár közzétételi adatai</span><span class="sxs-lookup"><span data-stu-id="4551a-102">Calendar publishing information</span></span>
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a><span data-ttu-id="bc914-102">Naptármegosztás engedélyezése a Microsoft 365 Felügyeleti központ használatával</span><span class="sxs-lookup"><span data-stu-id="bc914-102">Enable calendar sharing using the Microsoft 365 admin center</span></span>
 
-- <span data-ttu-id="4551a-103">A Microsoft 365 rendszergazdái engedélyezhetik vagy letilthatják a naptárközzétételét és a naptármegosztást egy szervezetnél.</span><span class="sxs-lookup"><span data-stu-id="4551a-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="4551a-104">További információt a [Naptárközzétételébekapcsolás bekapcsolása című témakörben talál, hogy a felhasználók információkat oszthassanak meg](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) és [naptárakat oszthassanak meg külső felhasználókkal.](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span><span class="sxs-lookup"><span data-stu-id="4551a-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span></span>
+1. <span data-ttu-id="bc914-103">A felügyeleti központban nyissa meg a **Beállítások**   >   **szervezeti beállítások lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="bc914-103">In the admin center, go to  **Settings**  >  **Org Settings**.</span></span>
+2. <span data-ttu-id="bc914-104">A **Szolgáltatások** lapon válassza a **Naptár**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="bc914-104">On the  **Services**  tab, select  **Calendar**.</span></span>
+3. <span data-ttu-id="bc914-105">A **megnyíló Naptár** lapon adja meg, hogy a felhasználók megoszthassák-e naptáraikat a szervezeten kívüli, Microsoft 365 vagy Exchange rendszerű személyekkel.</span><span class="sxs-lookup"><span data-stu-id="bc914-105">On the  **Calendar**  page that opens, choose whether you want to let your users share their calendars with people outside of your organization who have Microsoft 365 or Exchange.</span></span>
+4. <span data-ttu-id="bc914-106">Adja meg, hogy engedélyezi-e a névtelen felhasználóknak (bejelentkezési hitelesítő adatokkal nem rendelkező felhasználóknak) a naptárak elérését e-mailes meghívón keresztül.</span><span class="sxs-lookup"><span data-stu-id="bc914-106">Choose whether you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation.</span></span>
+5. <span data-ttu-id="bc914-107">Adja meg, hogy milyen típusú naptáradatokat szeretne elérhetővé tenni a felhasználók számára.</span><span class="sxs-lookup"><span data-stu-id="bc914-107">Choose what type of calendar information to make available to users.</span></span> <span data-ttu-id="bc914-108">Engedélyezheti az összes információt, vagy korlátozhatja csak az időre vagy az időre, a tárgyra és a helyre.</span><span class="sxs-lookup"><span data-stu-id="bc914-108">You can allow all information, or limit it to time only or time, subject, and location only.</span></span>
 
-- <span data-ttu-id="4551a-105">Az Outlook-felhasználók megoszthatják saját naptáraikat.</span><span class="sxs-lookup"><span data-stu-id="4551a-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="4551a-106">További információt az [Outlook-naptár megosztása másokkal](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="4551a-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>
+<span data-ttu-id="bc914-109">További információ: [Naptárak megosztása külső felhasználókkal](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span><span class="sxs-lookup"><span data-stu-id="bc914-109">More Information: [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span></span>
