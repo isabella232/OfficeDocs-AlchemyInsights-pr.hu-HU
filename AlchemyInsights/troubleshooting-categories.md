@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732368"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850788"
 ---
 # <a name="outlook-categories"></a>Outlook-kategóriák
 
-A színkategóriák lehetővé teszik a kapcsolódó elemek egyszerű azonosítását és csoportosítását a Microsoft Outlook programban. További információt a [Színkategóriák létrehozása és hozzárendelése](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)című témakörben talál.
-  
+A kategóriák csak a naptár elemeire vonatkoznak. Ha színkategóriát alkalmaz egy értekezlet-összehívásra vagy egy másik személytől kapott értekezletre, az adott színkategória csak a naptárban jelenik meg.  Ha színkategóriát alkalmaz egy megosztott postaládára, delegált postaládát, csoportpostaládát, szobapostaládát stb., a színkategória csak a nézetre van hatással.
+
+További információ: [Színkategória hozzárendelése naptártalálkozóhoz, értekezlethez vagy eseményhez](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
