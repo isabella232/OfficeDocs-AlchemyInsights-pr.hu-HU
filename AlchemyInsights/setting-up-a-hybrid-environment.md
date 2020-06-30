@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 55fe9c39ddbd61d085c3dd1084e637bce7d8fe2e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 834b7585b41e60dc59dcc90bb5b6b4f55b47420b
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758408"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931474"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="d0d97-102">Hibrid környezet beállítása</span><span class="sxs-lookup"><span data-stu-id="d0d97-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="adf7e-102">Hibrid környezet beállítása</span><span class="sxs-lookup"><span data-stu-id="adf7e-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="d0d97-103">Ha azt szeretné, hogy a felhasználók zökkenőmentesen dolgozhatnak együtt, függetlenül attól, hogy adataikat helyszíni kiszolgálókon vagy az Office 365-ben tárolják- e, előfordulhat, hogy hibrid környezetet kell beállítania.</span><span class="sxs-lookup"><span data-stu-id="d0d97-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="d0d97-104">A lehetőségek áttekintéséhez olvassa el az [Office 365 helyszíni környezetekkel való integrációját.](https://docs.microsoft.com/office365/enterprise/office-365-integration)</span><span class="sxs-lookup"><span data-stu-id="d0d97-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
+<span data-ttu-id="adf7e-103">Ha azt szeretné, hogy a felhasználók zökkenőmentesen dolgozhatnak együtt, függetlenül attól, hogy az adataikat helyszíni kiszolgálókon vagy a Microsoft 365-ben tárolják- e, előfordulhat, hogy hibrid környezetet kell beállítania.</span><span class="sxs-lookup"><span data-stu-id="adf7e-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Microsoft 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="adf7e-104">A lehetőségek áttekintéséhez olvassa el a [Microsoft 365 helyszíni környezetekkel való integrációját.](https://docs.microsoft.com/office365/enterprise/office-365-integration)</span><span class="sxs-lookup"><span data-stu-id="adf7e-104">To get an overview of your options, check out [Microsoft 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
   
