@@ -14,19 +14,21 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162978"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138973"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>Munkafolyamatok – problémamegoldás a SharePointban
 
-**Munkafolyamatok elhárítása és hibakeresése a SharePointban**
+**Munkafolyamatok hibaelhárítása és hibakeresése a SharePointban**
 
-Lásd: [SharePoint-munkafolyamat-ellenőrzési hibák](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) elhárítása és [A SharePoint-munkafolyamatok hibaelhárítása](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)című témakörben.
+Lásd: [SharePoint-munkafolyamat-érvényesítési hibák](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) és [A SharePoint-munkafolyamatok hibakeresésének elhárítása](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
-**Energiaautomatizálás**
+**Teljesítmény automatáz**
 
-Ha még csak most kezdi el a munkafolyamatokat, fontolja meg a [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) használatát a klasszikus SharePoint-munkafolyamat-megoldások helyett.
+Ha még csak most kezdi el használni a munkafolyamatokat, fontolja meg a [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) használatát a klasszikus SharePoint-munkafolyamat-megoldások helyett.
+
+További információt a [SharePoint-munkafolyamatok kivonuló című témakörben](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)talál.
