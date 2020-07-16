@@ -1,0 +1,38 @@
+---
+title: Fájlok és videók a Yammerben
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/15/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6040"
+- "9003112"
+ms.openlocfilehash: e34e522f777d6228d8732ac88b5cfd2f5d1c3bdf
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: MT
+ms.contentlocale: hu-HU
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148254"
+---
+# <a name="files-and-videos-in-yammer"></a><span data-ttu-id="c0d90-102">Fájlok és videók a Yammerben</span><span class="sxs-lookup"><span data-stu-id="c0d90-102">Files and videos in Yammer</span></span>
+
+<span data-ttu-id="c0d90-103">A Yammerben lévő üzenetekhez fájlok csatolhatók, vagy közvetlenül csoportokba tölthetők fel.</span><span class="sxs-lookup"><span data-stu-id="c0d90-103">Files can be attached to messages in Yammer or uploaded directly to groups.</span></span> <span data-ttu-id="c0d90-104">A felhasználói élmény némileg eltér a klasszikus és az új Yammer között, de a fájlok feltöltése ugyanarra a helyre történik.</span><span class="sxs-lookup"><span data-stu-id="c0d90-104">The user experience differs slightly between classic and new Yammer, but the files get uploaded to the same locations.</span></span> <span data-ttu-id="c0d90-105">További információ: [Fájl vagy kép csatolása Yammer-üzenethez](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span><span class="sxs-lookup"><span data-stu-id="c0d90-105">For more info, see [Attach a file or image to a Yammer message](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span></span>  
+
+<span data-ttu-id="c0d90-106">Ha a felhasználók problémákat tapasztalnak, próbálja ki a feltöltést egy másik böngészőből vagy eszközről.</span><span class="sxs-lookup"><span data-stu-id="c0d90-106">When users experience issues, try the upload from another browser or device.</span></span> <span data-ttu-id="c0d90-107">Használja a leggyorsabb hálózati kapcsolatot és a legfrissebb elérhető böngészőt.</span><span class="sxs-lookup"><span data-stu-id="c0d90-107">Use the fastest network connection and the most recent browser available.</span></span> <span data-ttu-id="c0d90-108">Egy friss böngészőablak segítségével jelentkezzen be újra segíthet annak biztosításában, hogy a megfelelő Azure AD-jogkivonatok érhetők el.</span><span class="sxs-lookup"><span data-stu-id="c0d90-108">Using a fresh browser window to sign in again can help ensure that the correct Azure AD tokens are available.</span></span>
+
+<span data-ttu-id="c0d90-109">A Yammerbe feltöltött videók feltöltése és kódolása szükséges.</span><span class="sxs-lookup"><span data-stu-id="c0d90-109">Video uploads to Yammer require upload and encoding.</span></span> <span data-ttu-id="c0d90-110">További információ: [Videóbejegyzések a Yammerben feltöltés és kódolás külön-külön.](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25)</span><span class="sxs-lookup"><span data-stu-id="c0d90-110">For more info, see [Video posts in Yammer upload and encode separately](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).</span></span> <span data-ttu-id="c0d90-111">A videó méretétől függően a kódolás időbe telhet.</span><span class="sxs-lookup"><span data-stu-id="c0d90-111">Depending on video size, the encoding can take time to complete.</span></span> <span data-ttu-id="c0d90-112">Fontolja meg a [Microsoft Stream](https://docs.microsoft.com/stream/overview) használatát a Microsoft 365-ben megosztott videók feltöltéséhez.</span><span class="sxs-lookup"><span data-stu-id="c0d90-112">Consider using [Microsoft Stream](https://docs.microsoft.com/stream/overview) to upload videos you're sharing across Microsoft 365.</span></span>
+
+<span data-ttu-id="c0d90-113">**Fájl- és képfeltöltések korlátozása**</span><span class="sxs-lookup"><span data-stu-id="c0d90-113">**Restricting file and image uploads**</span></span>
+
+<span data-ttu-id="c0d90-114">A Yammer alapértelmezés szerint minden fájltípus feltöltését engedélyezi.</span><span class="sxs-lookup"><span data-stu-id="c0d90-114">Yammer allows uploads of all file types by default.</span></span> <span data-ttu-id="c0d90-115">A rendszergazdák módosíthatják a beállításokat, hogy letiltsák a Fájlfeltöltéseket a Yammerbe.</span><span class="sxs-lookup"><span data-stu-id="c0d90-115">Administrators can change settings to block file uploads to Yammer.</span></span> <span data-ttu-id="c0d90-116">További információ: [Annak korlátozása, hogy ki tölthet fel fájlokat, és korlátozhatja a fájlformátumokat.](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats)</span><span class="sxs-lookup"><span data-stu-id="c0d90-116">For more info, see [Restrict who can upload files and limit file formats](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats).</span></span> <span data-ttu-id="c0d90-117">A Yammerben a GIF-ek korlátozására vonatkozó beállítás érhető el.</span><span class="sxs-lookup"><span data-stu-id="c0d90-117">A related setting is available for restricting GIFs in Yammer.</span></span> <span data-ttu-id="c0d90-118">További információ: [Tenor GIF-ek engedélyezése az üzenetekben](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span><span class="sxs-lookup"><span data-stu-id="c0d90-118">For more info, see [Allow Tenor GIFs in messages](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span></span>
+
+<span data-ttu-id="c0d90-119">**Yammer-fájltárolás**</span><span class="sxs-lookup"><span data-stu-id="c0d90-119">**Yammer file storage**</span></span>
+
+<span data-ttu-id="c0d90-120">A Yammer integrálva van a Microsoft 365-tel, és a SharePoint Online-t használja a fájlok feltöltéséhez.</span><span class="sxs-lookup"><span data-stu-id="c0d90-120">Yammer is integrated with Microsoft 365 and uses SharePoint Online for file uploads.</span></span> <span data-ttu-id="c0d90-121">További információt a [Yammer fájltárolásának áttekintése című témakörben talál.](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage)</span><span class="sxs-lookup"><span data-stu-id="c0d90-121">For more info, see [Yammer file storage overview](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage).</span></span> 
+
+<span data-ttu-id="c0d90-122">A fájlok SharePoint Online-ba való áttelepítésének legjobb élménye érdekében javasoljuk, hogy a Yammer-hálózatot natív módra konfigurálja.</span><span class="sxs-lookup"><span data-stu-id="c0d90-122">For the best experience migrating files to SharePoint Online, we advise configuring your Yammer network for Native Mode.</span></span> <span data-ttu-id="c0d90-123">További információt [a Natív mód áttekintése című témakörben](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)talál.</span><span class="sxs-lookup"><span data-stu-id="c0d90-123">For more info, see [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span></span> 
