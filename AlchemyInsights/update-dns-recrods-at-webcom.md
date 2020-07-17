@@ -18,9 +18,9 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 06/08/2020
 ms.locfileid: "44650376"
 ---
-# <a name="update-dns-records-at-webcom"></a>DNS-rekordok frissítése a Web.com
+# <a name="update-dns-records-at-webcom"></a><span data-ttu-id="9ec29-102">DNS-rekordok frissítése a Web.com</span><span class="sxs-lookup"><span data-stu-id="9ec29-102">Update DNS records at Web.com</span></span>
 
-Az alábbi hivatkozások segítségével frissítheti DNS-rekordjait.
+<span data-ttu-id="9ec29-103">Az alábbi hivatkozások segítségével frissítheti DNS-rekordjait.</span><span class="sxs-lookup"><span data-stu-id="9ec29-103">Use the links below to help update your DNS records.</span></span>
 
-- [DNS-rekordok létrehozása Web.com](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com?view=o365-worldwide)
-- [Egyéni DNS-rekordok hozzáadása és szerkesztése az Office 365 rendszerben](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [<span data-ttu-id="9ec29-104">DNS-rekordok létrehozása Web.com</span><span class="sxs-lookup"><span data-stu-id="9ec29-104">Create DNS records at Web.com</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com?view=o365-worldwide)
+- [<span data-ttu-id="9ec29-105">Egyéni DNS-rekordok hozzáadása és szerkesztése az Office 365 rendszerben</span><span class="sxs-lookup"><span data-stu-id="9ec29-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
