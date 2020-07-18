@@ -19,16 +19,14 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
+ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506301"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45169710"
 ---
 # <a name="business-subscription-faq"></a>Vállalati verziós előfizetés – gyakori kérdések
-
-Vállalati verziós előfizetés és a licencek kezelése – gyakori kérdések:
 
 - A Microsoft 365 Vállalati verzióval kapcsolatos lehetőségek megtekintéséhez olvassa el a [Vállalati csomagok összehasonlítása](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2) című témakört. További információért hívja értékesítési munkatársainkat az 1-855-270-0615 számon.
 - Egy csomag **megvásárlásához** lépjen a **Számlázás > [Szolgáltatások vásárlása](https://go.microsoft.com/fwlink/p/?linkid=868433)** lapra. Válassza ki a kívánt csomagot és a felhasználók számát. További információért tekintse meg az [Előfizetés vásárlása](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide) lapot.
