@@ -1,8 +1,8 @@
 ---
-title: Licencek hozzárendelése vagy visszavonása a felhasználókhoz
+title: Licencek hozzárendelése vagy visszavonása felhasználók számára
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495989"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657069"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Licencek hozzárendelése vagy visszavonása a felhasználókhoz
+# <a name="assign-or-unassign-licenses-to-users"></a>Licencek hozzárendelése vagy visszavonása felhasználók számára
 
-A felhasználóknak licencre van szüksége a szolgáltatásokhoz való hozzáféréshez. Az alábbiakban a licenc **felhasználótól való hozzáadásának, módosításának vagy eltávolításának** lépéseit olvashatja.
+Egy felhasználónak licencre van szüksége a szolgáltatásokhoz való hozzáféréshez. Az alábbi lépésekkel rendelhet licencet egy felhasználóhoz, illetve törölheti a licencét.
   
-1. A felügyeleti központban nyissa meg a **Felhasználók** \> [aktív felhasználók lehetőséget.](https://go.microsoft.com/fwlink/p/?linkid=834822)
+1. A felügyeleti központban nyissa meg a **felhasználók** \> [aktív felhasználóit](https://go.microsoft.com/fwlink/p/?linkid=834822).
+2. Jelölje ki annak a felhasználónak a sorát, amelyhez licencet szeretne rendelni.
+3. A jobb oldali panelen válassza a **Licencek és appok** lehetőséget.
+4. Bontsa ki a **licencek** szakaszt, jelölje be a hozzárendelni vagy visszavonni kívánt licencekhez tartozó jelölőnégyzeteket, vagy törölje belőle a jelet, majd válassza a **módosítások mentése**lehetőséget.
 
-2. Válassza ki annak a felhasználónak a nevét, akinek licencet szeretne rendelni, módosítani vagy eltávolítani.
-
-3. Kattintson **a Terméklicencek kezelése gombra,** és válassza ki a felhasználóhoz rendelni kívánt licencet.
-
-    A licenchez társított összes szolgáltatás alapértelmezés szerint automatikusan hozzá van rendelve a felhasználóhoz. Ha korlátozni szeretné, hogy mely szolgáltatások érhetők el a felhasználó számára, törölje a jelet azoknak a szolgáltatásoknak a jelölőnégyzetéből, amelyeket nem szeretne, hogy a felhasználó megkapjon.
-
-4. Az ablaktábla alján kattintson a **Módosítások mentése**gombra.
-
-További információt a [Licencek hozzárendelése a felhasználókhoz](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)és [a Licencek eltávolítása a felhasználóktól](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)című témakörben talál.
+További információt a [licencek hozzárendelése a felhasználókhoz](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)és [a licencek visszavonása felhasználóktól](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)című témakörben talál.
