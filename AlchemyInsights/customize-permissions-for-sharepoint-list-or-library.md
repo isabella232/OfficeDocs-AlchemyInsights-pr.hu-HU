@@ -1,7 +1,7 @@
 ---
-title: SharePoint-lista vagy tár engedélyeinek testreszabása
-ms.author: v-todmc
-author: todmccoy
+title: SharePoint-lista vagy-tár engedélyeinek testreszabása
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3166"
-ms.openlocfilehash: 8d0e960c8404297a971c3f96c29628f8dd25f1af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 93bade7d549cb179eda7b26dcbea9cd14dbe450a
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705195"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786171"
 ---
-# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="8b799-102">SharePoint-lista vagy tár engedélyeinek testreszabása</span><span class="sxs-lookup"><span data-stu-id="8b799-102">How to customize permissions for a SharePoint list or library</span></span>
+# <a name="how-to-customize-permissions-for-a-sharepoint-list-or-library"></a><span data-ttu-id="355d1-102">SharePoint-lista vagy-tár engedélyeinek testreszabása</span><span class="sxs-lookup"><span data-stu-id="355d1-102">How to customize permissions for a SharePoint list or library</span></span>
 
-<span data-ttu-id="8b799-103">Egy tár, lista vagy felmérés rendszergazdájaként vagy tulajdonosaként módosíthatja az engedélyeket, hogy egy csoport számára lehetővé tegye a szükséges adatok elérését, miközben korlátozza a többieket.</span><span class="sxs-lookup"><span data-stu-id="8b799-103">As an administrator or owner of a library, list, or survey, you can change permissions to let one group of people access the data they need while restricting others.</span></span>
+<span data-ttu-id="355d1-103">A tárak, listák vagy felmérések rendszergazdája vagy tulajdonosaként módosíthatja az engedélyeket, hogy az egyes személyek hozzáférhessenek a szükséges értékekhez, miközben mások korlátozták őket.</span><span class="sxs-lookup"><span data-stu-id="355d1-103">As an administrator or owner of a library, list, or survey, you can change permissions to let one group of people access the data they need while restricting others.</span></span>
 
-[<span data-ttu-id="8b799-104">SharePoint-lista vagy tár engedélyeinek testreszabása</span><span class="sxs-lookup"><span data-stu-id="8b799-104">Customize permissions for a SharePoint list or library</span></span>](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+[<span data-ttu-id="355d1-104">SharePoint-lista vagy-tár engedélyeinek testreszabása</span><span class="sxs-lookup"><span data-stu-id="355d1-104">Customize permissions for a SharePoint list or library</span></span>](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
