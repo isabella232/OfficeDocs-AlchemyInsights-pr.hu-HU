@@ -1,7 +1,7 @@
 ---
-title: A SharePoint- és OneDrive-értesítések fogadásának késedelme
-ms.author: v-todmc
-author: todmccoy
+title: Késések a SharePoint-és OneDrive-értesítések fogadásakor
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 92e517ae6e83aa91b9838047ec77759dc893bc57
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563512"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785667"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>A SharePoint- és OneDrive-értesítések fogadásának késedelme
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Késések a SharePoint-és OneDrive-értesítések fogadásakor
 
-- Először ellenőrizze a Levélszemét vagy Spam mappát az e-mailben.
-- Ha **több fájl vagy tárak összes riasztása késik,** látogasson el a [Szolgáltatásállapot irányítópultjára,](https://portal.office.com/adminportal/home?ref=/servicehealth) és ellenőrizze, hogy vannak-e olyan tanácsok/incidensek, amelyek a SharePoint vagy az Exchange alkalmazásban előfordulhatnak. A probléma lehet a SharePoint riasztási képesség vagy késedelmek e-mailek az Exchange-en keresztül. Azt is vegye figyelembe, hogy más e-maileket kézbesítenek-e – ha nem, akkor a probléma valószínűleg az Exchange késéseivel van.
-- Ha **egy adott fájlból vagy tárból származó egyéni riasztás nem jelenik meg,** próbálja meg törölni és újra létrehozni. A riasztás újbóli létrehozásához olvassa el A [SharePoint-értesítések kezelése, megtekintése és törlése](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) című témakört.
+- Először ellenőrizze a levélszemét vagy a Levélszemét mappát az e-mailben.
+- Ha a **több fájlból vagy tárból érkező összes értesítés késik**, keresse fel a [szolgáltatás állapota irányítópultot](https://portal.office.com/adminportal/home?ref=/servicehealth) , és ellenőrizze, hogy vannak-e olyan tanácsadók/incidensek, amelyek a SharePoint vagy az Exchange alkalmazásban esetleg előfordulnak. Előfordulhat, hogy a probléma a SharePoint riasztási képességével vagy az e-mailek Exchange-ben való késésével jár. Azt is megtudhatja, hogy az egyéb e-maileket kézbesíti-e, és ha nem, a probléma valószínűleg az Exchange késésekkel jár.
+- Ha **nincs kézbesítve egy adott fájl vagy tár egyéni figyelmeztetése**, próbálkozzon a törlésével és újbóli létrehozásával. A riasztás újbóli létrehozásához olvassa el a [SharePoint-értesítések kezelése, megtekintése és törlése](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) című témakört.
 
 > [!NOTE]
-> - Terjesztési csoportnak nem lehet értesítéseket küldeni. Csak a Biztonság és az O365 csoportok támogatottak.
-> - A figyelmeztető e-mail sablonok nem szabhatók testre. Ezek eléréséhez microsoft flow vagy SharePoint Designer munkafolyamatot kell használnia.
+> - Nem lehet értesítést küldeni a terjesztési csoportnak. Csak a biztonsági és O365-csoportok támogatottak.
+> - A riasztási e-mail-sablonok nem szabhatók testre. Ezek eléréséhez a Microsoft flow vagy a SharePoint Designer munkafolyamatot kell használnia.

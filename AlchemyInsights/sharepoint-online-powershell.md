@@ -1,7 +1,7 @@
 ---
-title: Sharepoint Online PowerShell
-ms.author: v-todmc
-author: todmccoy
+title: SharePoint Online PowerShell
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 8c270748fc75f929371fbb2856daad3ae61a1540
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 300c07e7f0010eae2bd4fe893ece9d09aab93ba5
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764263"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786891"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-online-powershell"></a>SharePoint Online PowerShell
 
-PowerShell vagy Parancsfájlok használatával a SharePoint Online-ban? További információkért látogasson el az alábbi linkekre.
-- [SharePoint Online Felügyeleti rendszerhéj – első lépések](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Csatlakozás az SPO PowerShellhez többtényezős hitelesítéssel (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [A SharePoint-minták és gyakorlatok (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) a PowerShell-parancsok tárát tartalmazza, amely lehetővé teszi, hogy összetett felügyeleti műveleteket hajtson végre az SPO-val szemben.
+A PowerShell vagy a parancsfájlok használata a SharePoint Online-ban További információt az alábbi hivatkozásokra kattintva találhat.
+- [SharePoint Online – felügyeleti rendszerhéj – első lépések](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [Csatlakozás a Spongya PowerShellhez többtényezős hitelesítéssel (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- A [SharePoint-minták és-gyakorlatok (PNP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) a PowerShell-parancsok gyűjteményét tartalmazza, amellyel komplex kezelési műveleteket végezhet a Spongya felé.
 
 > [!NOTE]
-> - Ha problémái vannak az SPO felügyeleti rendszerhéjlal való kapcsolódással, győződjön meg arról, hogy frissített a legújabb verzióra, és próbálja meg [újra importálni a modult az](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) *"Import-Module Microsoft.Online.SharePoint.PowerShell" használatával.*
-> - Ha ügyféloldali objektummodell-parancsfájlokat próbál futtatni, a [Sharepoint Online-ügyfélösszetevők SDK-t](https://www.microsoft.com/download/details.aspx?id=42038) telepítenie kell a helyi számítógépen.
-> - Ha a PowerShell-ből parancsfájlok futtatásával kapcsolatos problémákat, érdemes lehet a PowerShell rendszergazdaként való futtatását és a [végrehajtási szabályzat módosítását.](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)
+> - Ha problémákat tapasztal a legújabb verzióval való kapcsolatfelvételkor, győződjön meg arról, hogy a legújabb verzióra frissült, és próbálja meg [újra importálni a modult](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) a *"Microsoft. online. SharePoint. PowerShell"* paranccsal.
+> - Ha ügyféloldali objektummodell-parancsfájlokat próbál meg futtatni, a [SharePoint Online-ügyfél összetevőinek SDK csomagjának](https://www.microsoft.com/download/details.aspx?id=42038) telepítve kell lennie a helyi számítógépen.
+> - Ha problémákat tapasztal a PowerShellből származó parancsfájlok futtatásakor, célszerű lehet a PowerShellt rendszergazdaként futtatni, és módosítani a [végrehajtási házirendet](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).

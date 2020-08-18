@@ -1,7 +1,7 @@
 ---
-title: Fájlok és mappák megosztásának jelentése egy SharePoint-webhelyen
-ms.author: v-todmc
-author: todmccoy
+title: Jelentés a fájlok és mappák megosztásáról a SharePoint-webhelyeken
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a0223666ba8cd3edde9eed05d86a49907fd07a37
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43693164"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787215"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Fájlok és mappák megosztásának jelentése egy SharePoint-webhelyen
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Jelentés a fájlok és mappák megosztásáról a SharePoint-webhelyeken
 
-Létrehozhat egy CSV-fájlt, amely részletezi az adott SharePoint-webhelyen vagy OneDrive-tárban található összes egyedi fájlt, felhasználót, engedélyt és hivatkozást. Ez segít megérteni, hogyan használják a megosztást, és hogy vannak-e fájlok vagy mappák a vendégekkel.
+Létrehozhat egy CSV-fájlt, amely részletezi az adott SharePoint-webhelyen vagy OneDrive-tárban található egyedi fájlokat, felhasználókat, engedélyeket és hivatkozásokat. Ebben a cikkben megismerheti, hogy miként kezelheti a megosztást, és hogy minden fájl vagy mappa meg van-e osztva a vendégekkel.
 
-További információ: [Jelentés a sharePoint-webhelyen lévő fájl- és mappamegosztásról](https://docs.microsoft.com/sharepoint/sharing-reports).
+További információt a [fájlok és mappák megosztása a SharePoint-webhelyeken](https://docs.microsoft.com/sharepoint/sharing-reports)című témakörben olvashat.
 
 > [!NOTE]
-> Ez a funkció jelenleg üzembe helyezett első kiadás bérlők és fokozatosan gördülő ki az összes éles környezetben bérlők.
+> Ez a funkció jelenleg az első megjelenésű bérlői webhelyeken van telepítve, és fokozatosan fog megjelenni az összes termelési bérlő számára.

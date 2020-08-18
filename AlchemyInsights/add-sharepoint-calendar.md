@@ -1,7 +1,7 @@
 ---
-title: SharePoint-naptár hozzáadása
-ms.author: v-todmc
-author: todmccoy
+title: SharePoint-naptár felvétele
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 0668ed8270e9b70f17dd7f0cf87386fec95fda99
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911006"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786738"
 ---
-# <a name="add-a-sharepoint-calendar"></a>SharePoint-naptár hozzáadása
+# <a name="add-a-sharepoint-calendar"></a>SharePoint-naptár felvétele
 
-A SharePoint-naptárak klasszikus listatípusok, amelyek néha összekeverednek a Microsoft 365 csoportnaptárakkal.
+A SharePoint-naptárak olyan klasszikus fájltípusok, amelyeket a Microsoft 365 csoport naptárai időnként összetévesztenek.
  
-SharePoint-naptár létrehozásához hajtsa végre az alábbi lépéseket:
+SharePoint-naptár létrehozásához kövesse az alábbi lépéseket:
  
-1.  Válassza a **Beállítások** fogaskerék ikont, majd az **Alkalmazás hozzáadása**lehetőséget.
-2.  Az **Alkalmazás keresésének mezőbe** írja be a **Naptár** kifejezést, és nyomja le az Enter billentyűt.
-3.  Jelölje ki a **Naptár**nevű alkalmazást, majd adja meg a naptár nevét.
+1.  Válassza a **Beállítások** fogaskerék ikont, majd az **alkalmazás hozzáadása**lehetőséget.
+2.  Az **alkalmazás** keresése mezőbe írja be a **Naptár** kifejezést, és nyomja le az ENTER billentyűt.
+3.  Jelölje ki az alkalmazást, és adja meg **a naptár nevét**.
 
-A Microsoft 365-csoportokról további információt [a Microsoft 365-csoportok ról szóló témakörben talál.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
+A Microsoft 365 csoportjairól a [microsoft 365-csoportok](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)ismertetése című témakörben olvashat bővebben.
 

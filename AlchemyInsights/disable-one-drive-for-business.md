@@ -1,7 +1,7 @@
 ---
-title: A OneDrive Vállalati verzió letiltása
-ms.author: v-todmc
-author: todmccoy
+title: A OneDrive vállalati verzió letiltása
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 7cdd58f2e6e20fc2db0eac25b92e129493fc3401
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4c898bf8c16e7e51c3f64f350b16a458d187b163
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715198"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786063"
 ---
-# <a name="disable-onedrive-for-business"></a>A OneDrive Vállalati verzió letiltása
+# <a name="disable-onedrive-for-business"></a>A OneDrive vállalati verzió letiltása
 
-Az üzleti igényektől függően többféleképpen is letilthatja a OneDrive-hoz és annak szolgáltatásaihoz való hozzáférést:
+Az üzleti igényektől függően többféle módon is letilthatja a OneDrive és a szolgáltatásokhoz való hozzáférést:
 
 - [A OneDrive kikapcsolása, letiltása vagy eltávolítása](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-- [OneDrive-fiókok szinkronizálásának engedélyezése csak bizonyos szervezetek számára](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-- [A OneDrive-webhelyek létrehozásának letiltása egyes felhasználók számára](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+- [Csak bizonyos szervezetek OneDrive-fiókjainak szinkronizálásának engedélyezése](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+- [OneDrive-webhelyek létrehozásának letiltása egyes felhasználóknak](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 - [A SharePoint Online és a OneDrive adataihoz való hozzáférés vezérlése hálózati helyek alapján](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-- [Személyes OneDrive-fiókok szinkronizálásának megakadályozása a felhasználók számára](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-- [Windows-eszközök és a OneDrive és más szolgáltatások kapcsolatainak kezelése](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+- [A személyes OneDrive-fiókok szinkronizálásának megakadályozása a felhasználóknak](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+- [Windows-eszközökről származó kapcsolatok kezelése a OneDrive és más szolgáltatásokkal](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)

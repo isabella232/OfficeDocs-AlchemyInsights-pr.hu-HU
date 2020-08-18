@@ -1,7 +1,7 @@
 ---
-title: SharePoint-lista vagy tár engedélyeinek testreszabása
-ms.author: v-todmc
-author: todmccoy
+title: A külső megosztás be-és kikapcsolása a webhelyen
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 0959e0bd31a7e38da08120749a29cd41910eecb1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ea013e81a7d7be47b5e062794b8fee88d299478d
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43731700"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786783"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a>Külső megosztás be- és kikapcsolása webhelyen
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a>A külső megosztás be-és kikapcsolása a webhelyen
 
-Globális vagy SharePoint-rendszergazdának kell lennie ahhoz, hogy megváltoztassa egy webhely külső megosztási beállítását (amelyet korábban "webhelycsoportnak" is neveznek). A webhelytulajdonosok nem módosíthatják ezt a beállítást. 
+Globális vagy SharePoint-rendszergazdának kell lennie ahhoz, hogy egy webhely (korábbi nevén "webhelycsoport") külső megosztási beállítását módosítania kell. A webhely tulajdonosai nem módosíthatják ezt a beállítást. 
 
-További információt a Külső megosztás be- és kikapcsolása webhelyen című [témakörben talál.](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+További információért olvassa el a [külső megosztás be-és kikapcsolása a webhelyen](https://docs.microsoft.com/sharepoint/change-external-sharing-site)című témakört.

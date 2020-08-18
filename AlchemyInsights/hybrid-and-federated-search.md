@@ -1,7 +1,7 @@
 ---
 title: Hibrid és összevont keresés
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1570ab156ec9d2d973c270dc216985e6e2b5b0af
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768981"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787179"
 ---
 # <a name="hybrid-and-federated-searches"></a>Hibrid és összevont keresések 
 
-A Microsoft SharePoint Online szolgáltatásban a hibrid és az összevont keresés használatával kapcsolatos tudnivalókat a [hibrid keresés a SharePoint szolgáltatásban](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)című témakörben talál.
+A hibrid és az összevont keresésről a SharePoint Online-ban a [hibrid keresés a SharePointban](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)című témakörben olvashat bővebben.
 
-A hibrid összevont keresés megtervezéséről lásd: [a SharePoint Server hibrid összevont keresésével kapcsolatos terv](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+A hibrid összevont keresés megtervezéséről a [hibrid összevont keresés megtervezése a SharePoint Serverhez](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)című témakörben olvashat bővebben.
