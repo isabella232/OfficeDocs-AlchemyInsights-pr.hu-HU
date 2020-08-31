@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005440"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316201"
 ---
-# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="801ac-102">Privát csatornák a Microsoft Teamsben</span><span class="sxs-lookup"><span data-stu-id="801ac-102">Private channels in Microsoft Teams</span></span>
+# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="f95bc-102">Privát csatornák a Microsoft Teams alkalmazásban</span><span class="sxs-lookup"><span data-stu-id="f95bc-102">Private channels in Microsoft Teams</span></span>
 
-<span data-ttu-id="801ac-103">A privát csatornák a Microsoft Teams új funkciója.</span><span class="sxs-lookup"><span data-stu-id="801ac-103">Private channels is a new feature in Microsoft Teams.</span></span> <span data-ttu-id="801ac-104">Ne feledje, hogy a magáncsatornák nem konvertálhatók szabványos csatornákból, és fordítva.</span><span class="sxs-lookup"><span data-stu-id="801ac-104">Note that private channels cannot be converted from standard channels or vice versa.</span></span>
+<span data-ttu-id="f95bc-103">A Microsoft Teams privát csatornái célzott tereket hoznak létre a csoporton belüli együttműködéshez.</span><span class="sxs-lookup"><span data-stu-id="f95bc-103">Private channels in Microsoft Teams create focused spaces for collaboration within your teams.</span></span> <span data-ttu-id="f95bc-104">A csatornát csak a csapat azon felhasználói érik el, akik a privát csatorna tulajdonosai vagy tagjai.</span><span class="sxs-lookup"><span data-stu-id="f95bc-104">Only the users on the team who are owners or members of the private channel can access the channel.</span></span> <span data-ttu-id="f95bc-105">A vendégeket is beleértve bárki felvehető egy privát csatorna tagjaként, feltéve hogy már a csapat tagjai.</span><span class="sxs-lookup"><span data-stu-id="f95bc-105">Anyone, including guests, can be added as a member of a private channel as long as they are already members of the team.</span></span>
 
-<span data-ttu-id="801ac-105">A privát csatornákkal kapcsolatos részletekért, például a [privát csatornák létrehozásáról és a tagságról,](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) valamint a [privát csatorna SharePoint-webhelyekről](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)a [Privát csatornák a Microsoft Teamsben](https://docs.microsoft.com/MicrosoftTeams/private-channels)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="801ac-105">For details about private channels, such as information on [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), see [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> 
+<span data-ttu-id="f95bc-106">További információt a [Microsoft Teams privát csatornái](https://docs.microsoft.com/MicrosoftTeams/private-channels)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="f95bc-106">To learn more, start with [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> <span data-ttu-id="f95bc-107">Ez a témakör olyan információkat tartalmaz, mint például a [privát csatornák létrehozása, a tagság](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) és a [privát csatornák SharePoint-webhelyek](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span><span class="sxs-lookup"><span data-stu-id="f95bc-107">This includes information such as [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span></span>
 
-<span data-ttu-id="801ac-106">**Megjegyzés:** Mivel a privát csatornaüzenetek megőrzésére vonatkozó konfiguráció még nem támogatott, az adatmegőrzési házirendekkel rendelkező bérlők alapértelmezés szerint nem lesznek engedélyezve a privát csatornák.</span><span class="sxs-lookup"><span data-stu-id="801ac-106">**Note:** Because configuration for retention of private channel messages is not yet supported, tenants with retention policies enabled will not have private channels enabled by default.</span></span> <span data-ttu-id="801ac-107">A privát csatornák engedélyezhetők a Teams felügyeleti központban.</span><span class="sxs-lookup"><span data-stu-id="801ac-107">Private channels can be enabled in the Teams admin center.</span></span> <span data-ttu-id="801ac-108">Vegye figyelembe azt is, hogy bár a privát csatornaüzenetek megőrzése nem támogatott, a privát csatornákon megosztott fájlok megőrzése is támogatott.</span><span class="sxs-lookup"><span data-stu-id="801ac-108">Also, note that while retention of private channel messages is not supported, retention of files shared in private channels is supported.</span></span>
+<span data-ttu-id="f95bc-108">**Új csapattagra van szüksége?**</span><span class="sxs-lookup"><span data-stu-id="f95bc-108">**Need a new team owner?**</span></span>
 
-<span data-ttu-id="801ac-109">**Új csapattulajdonosra van szüksége?**</span><span class="sxs-lookup"><span data-stu-id="801ac-109">**Need a new team owner?**</span></span>
+<span data-ttu-id="f95bc-109">Ha a privát csatorna tulajdonosa elhagyja a szervezetét, vagy eltávolítják a csoportból, a privát csatorna tagjai automatikusan a privát csatornák tulajdonosaként jelennek meg.</span><span class="sxs-lookup"><span data-stu-id="f95bc-109">If your private channel owner leaves your organization or is removed from the group, a member of the private channel is automatically promoted to be the private channel owner.</span></span>
 
-<span data-ttu-id="801ac-110">Ha a privát csatorna tulajdonosa távozik, a Teams Powershellen keresztül új csapattulajdonost adhat hozzá.</span><span class="sxs-lookup"><span data-stu-id="801ac-110">If your private channel owner leaves, you can add a new team owner via Teams Powershell.</span></span>
-
-
-- <span data-ttu-id="801ac-111">A Teams Powershell telepítése [ide.](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6)</span><span class="sxs-lookup"><span data-stu-id="801ac-111">Go [here](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) to install Teams Powershell.</span></span>
-
-<span data-ttu-id="801ac-112">Itt van a parancsmag lesz szüksége:</span><span class="sxs-lookup"><span data-stu-id="801ac-112">Here is the cmdlet you will need:</span></span>
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-<span data-ttu-id="801ac-113">A Teams Powershellről a [Teams PowerShell – áttekintés című témakörben olvashat bővebben.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)</span><span class="sxs-lookup"><span data-stu-id="801ac-113">For more information on Teams Powershell, see [Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).</span></span>
+<span data-ttu-id="f95bc-110">A rendszergazdák a [Microsoft Teams privát csatornáinak életciklusát](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) is láthatják, ha többet szeretne tudni arról, hogy kik hozhatnak létre privát csatornákat, valamint hogy miként segíthet a eDiscovery vagy a jogi védelemben.</span><span class="sxs-lookup"><span data-stu-id="f95bc-110">Admins can also see [Manage the life cycle of private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) to learn more about policies to manage who can create private channels, as well as ways to help build queries for eDiscovery or legal holds.</span></span>
