@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005440"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316201"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Privát csatornák a Microsoft Teamsben
+# <a name="private-channels-in-microsoft-teams"></a>Privát csatornák a Microsoft Teams alkalmazásban
 
-A privát csatornák a Microsoft Teams új funkciója. Ne feledje, hogy a magáncsatornák nem konvertálhatók szabványos csatornákból, és fordítva.
+A Microsoft Teams privát csatornái célzott tereket hoznak létre a csoporton belüli együttműködéshez. A csatornát csak a csapat azon felhasználói érik el, akik a privát csatorna tulajdonosai vagy tagjai. A vendégeket is beleértve bárki felvehető egy privát csatorna tagjaként, feltéve hogy már a csapat tagjai.
 
-A privát csatornákkal kapcsolatos részletekért, például a [privát csatornák létrehozásáról és a tagságról,](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) valamint a [privát csatorna SharePoint-webhelyekről](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)a [Privát csatornák a Microsoft Teamsben](https://docs.microsoft.com/MicrosoftTeams/private-channels)című témakörben talál. 
+További információt a [Microsoft Teams privát csatornái](https://docs.microsoft.com/MicrosoftTeams/private-channels)című témakörben talál. Ez a témakör olyan információkat tartalmaz, mint például a [privát csatornák létrehozása, a tagság](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) és a [privát csatornák SharePoint-webhelyek](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-**Megjegyzés:** Mivel a privát csatornaüzenetek megőrzésére vonatkozó konfiguráció még nem támogatott, az adatmegőrzési házirendekkel rendelkező bérlők alapértelmezés szerint nem lesznek engedélyezve a privát csatornák. A privát csatornák engedélyezhetők a Teams felügyeleti központban. Vegye figyelembe azt is, hogy bár a privát csatornaüzenetek megőrzése nem támogatott, a privát csatornákon megosztott fájlok megőrzése is támogatott.
+**Új csapattagra van szüksége?**
 
-**Új csapattulajdonosra van szüksége?**
+Ha a privát csatorna tulajdonosa elhagyja a szervezetét, vagy eltávolítják a csoportból, a privát csatorna tagjai automatikusan a privát csatornák tulajdonosaként jelennek meg.
 
-Ha a privát csatorna tulajdonosa távozik, a Teams Powershellen keresztül új csapattulajdonost adhat hozzá.
-
-
-- A Teams Powershell telepítése [ide.](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6)
-
-Itt van a parancsmag lesz szüksége:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-A Teams Powershellről a [Teams PowerShell – áttekintés című témakörben olvashat bővebben.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)
+A rendszergazdák a [Microsoft Teams privát csatornáinak életciklusát](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) is láthatják, ha többet szeretne tudni arról, hogy kik hozhatnak létre privát csatornákat, valamint hogy miként segíthet a eDiscovery vagy a jogi védelemben.
