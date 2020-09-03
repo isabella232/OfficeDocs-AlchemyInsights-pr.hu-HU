@@ -1,5 +1,5 @@
 ---
-title: Nem lehet hozzáférni a nyilvános mappákhoz
+title: Nem érhetők el a nyilvános mappák
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891751"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341405"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Az Outlook nem tud nyilvános mappákhoz csatlakozni
+# <a name="outlook-cannot-connect-to-public-folders"></a>Az Outlook nem tud csatlakozni nyilvános mappákhoz
 
-Ha a nyilvános mappák hoz való hozzáférés egyes felhasználók nál nem működik, próbálkozzon az alábbiakkal:
+Ha a nyilvános mappákhoz való hozzáférés néhány felhasználónál nem működött, próbálkozzon az alábbiakkal:
 
-Csatlakozzon az EXO PowerShell alkalmazáshoz, és konfigurálja úgy a problémás felhasználói fiók DefaultPublicFolderMailbox paraméterét, hogy az megfeleljen egy működő felhasználói fiók paraméterének.
+Csatlakozzon az EXO PowerShellhez, és állítsa be a DefaultPublicFolderMailbox paramétert a problémás felhasználói fiókban, hogy megegyezzenek a megfelelő felhasználói fiók paraméterével.
 
-Példa:
+Például
 
-Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
+Get-Mailbox WorkingUser | Ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
 
-Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<érték az előző parancsból>
+Set-Mailbox ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
 
 Várjon legalább egy órát, amíg a módosítás érvénybe lép.
 
-Ha a probléma továbbra is fennáll, kövesse [az alábbi eljárást](https://aka.ms/pfcte) a nyilvános mappákhoz való hozzáféréssel kapcsolatos problémák megoldásához az Outlook programban.
+Ha a probléma továbbra is fennáll, kérjük, kövesse az alábbi [lépéseket](https://aka.ms/pfcte) a nyilvános mappák elérésével kapcsolatos hibák elhárítása az Outlookkal.
+ 
+**Annak szabályozása, hogy mely felhasználók érhetik el nyilvános mappákat az Outlookkal**:
+
+1.  Set-CASMailbox <mailboxname> -PublicFolderClientAccess $TRUE vagy $FALSE  
+      
+    $true: hozzáférés engedélyezése a felhasználóknak nyilvános mappákhoz az Outlookban  
+      
+    $false: felhasználók hozzáférésének megakadályozása az Outlookban elérhető nyilvános mappákhoz. Ez az alapértelmezett érték.  
+        
+2.  Set-OrganizationalSetting-PublicFolderShowClientControl $true   
+      
+**Note (Megjegyzés** ) Ez az eljárás csak a Windows Outlook asztali verziókkal használható a kapcsolat vezérlésére. A felhasználók továbbra is hozzáférhetnek a nyilvános mappákhoz az OWA vagy a Mac Outlook használatával.
+ 
+További információt az [ellenőrzött kapcsolatok támogatása a nyilvános mappákhoz az Outlookban](https://aka.ms/controlpf)című témakörben talál.
