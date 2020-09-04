@@ -1,8 +1,8 @@
 ---
-title: A fizetési idő módosításáról
+title: A fizetési gyakoriság módosítása
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939657"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364589"
 ---
-# <a name="change-how-often-you-pay"></a>A fizetési idő módosításáról
+# <a name="change-how-often-you-pay"></a>A fizetési gyakoriság módosítása
 
-Ha módosítani szeretné, hogy milyen gyakran kell fizetnie egy előfizetésért, hajtsa végre az alábbi lépéseket a Microsoft 365 Felügyeleti központban. 
-1. Nyissa meg a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** elemet.
-2. Keresse meg a módosítani kívánt előfizetést. A **Számlázás** csoportban, a **Havi számlázott** vagy **az évente számlázott számlázás**mellett kattintson a Szerkesztés **gombra.** 
-3. Adja meg, hogy milyen gyakran szeretne díjat fizetni, majd kattintson a **Módosítás gombra.**
+Ha szeretné módosítani, hogy milyen gyakran történjen az előfizetés számlázása és kifizetése, végezze el a következő lépéseket a Microsoft 365 felügyeleti központjában.
 
-**Megjegyzés:** A havi vagy éves számlázás az egyetlen lehetőség.
+1. Lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
+2. A **Products (termékek** ) lapon jelölje ki a módosítani kívánt előfizetést. 
+3. Az előfizetés részletei lapon, az **előfizetés és a fizetési beállítások** csoportban válassza a **Számlázási gyakoriság szerkesztése**lehetőséget.
+4. A **Számlázási gyakoriság szerkesztése** munkaablakban adja meg, hogy milyen gyakran szeretné kiszámlázni a shoose, és válassza a **módosítás**lehetőséget.
 
-További információ: [A fizetési gyakoriság módosítása](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
+**Megjegyzés**: a havi vagy éves számlázás az egyetlen beállítás.
+
+További információt a [Számlázási gyakoriság módosítása](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)című témakörben talál.
