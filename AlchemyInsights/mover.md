@@ -1,5 +1,5 @@
 ---
-title: Mozgató
+title: Mover
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157611"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406328"
 ---
-# <a name="mover"></a>Mozgató
+# <a name="mover"></a>Mover
 
-2019. október 21-én a Microsoft megvásárolta a **Movert,** amely a felhőalapú fájlok áttelepítésének egyik vezető szolgáltatója.
+Október 21-én 2019, a Microsoft  **megvásárolta**, a felhőalapú áttelepítés vezető szolgáltatója.
 
-A Moverről további információt az alábbi cikkekben talál:
+Az aktuális időpontban kérjük, [forduljon a támogatási kérelmekhez](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **here**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
 
-- [A migrációs útmutatók](https://mover.io/guides/)
+A mozgató rendszerről további információt az alábbi cikkekben találhat:
+
+- [Mozgató áttelepítési útmutatók](https://mover.io/guides/)
 - [Általános áttelepítés – gyakori kérdések](https://mover.io/guides/general/)
-- [Mover csatlakozók](https://mover.io/connectors/)
-
-A jelenlegi **időpontban, kérjük, irányítsa a támogatási kérelmeket, hogy** [support@mover.io](mailto:support@mover.io) segítséget a termékkel kapcsolatban. 
-
- 
