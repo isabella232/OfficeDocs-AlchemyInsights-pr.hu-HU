@@ -1,23 +1,24 @@
 ---
-title: Dynamics 365 az űrlap nem látható
+title: A Dynamics 365 űrlapja nem látható
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1470"
 - "6200014"
-ms.openlocfilehash: ae5078109428667b2ce88e8674419589875c27fd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: db70e1a9aa41bbee46ddb9a50b32370b1150ad30
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528841"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678182"
 ---
-# <a name="dynamics-365-form-not-visible"></a>Dynamics 365 űrlap nem látható
+# <a name="dynamics-365-form-not-visible"></a>A Dynamics 365 űrlapja nem látható
 
-* [Az űrlap nem látható az Űrlapkijelölőn](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [Az űrlap nem látható az űrlap-választóban](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
 
-* [Miért van az én-m forma nem látható-ban forma választó csepp legyőz-ban akármi app?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)
+* [Miért nem látható az űrlap az űrlap-választó legördülő listában bármely alkalmazásban?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)

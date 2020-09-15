@@ -1,34 +1,35 @@
 ---
-title: Hozzáférés a felhasználóknak a SharePointhoz és a OneDrive-hoz
+title: Hozzáférés biztosítása a felhasználóknak a SharePointhoz és a OneDrive-hoz
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 0bdc2fa97ad1fe8b3280411babaaf2bd685a644d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a7e9c0b7ffa5c11a2e24ee5fda6491f049f985f1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721768"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677209"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Hozzáférés a felhasználóknak a SharePointhoz és a OneDrive-hoz
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Hozzáférés biztosítása a felhasználóknak a SharePointhoz és a OneDrive-hoz
 
 > [!NOTE]
-> Ha egy OneDrive- vagy SharePoint-webhely nem érhető el több olyan felhasználó számára, akinek korábban hozzáférése volt, előfordulhat, hogy ideiglenes szolgáltatásprobléma lépett fel. [A szolgáltatás állapotának irányítópultjának ellenőrzése](https://portal.office.com/adminportal/home#/servicehealth)
+> Ha egy OneDrive vagy SharePoint-webhely nem érhető el több olyan felhasználónál, aki korábban hozzáféréssel rendelkezik, előfordulhat, hogy ideiglenes szolgáltatási probléma van. [A szolgáltatás állapota irányítópult ellenőrzése](https://portal.office.com/adminportal/home#/servicehealth)
   
-Ha azt szeretné, hogy a szervezet felhasználói bejelentkezhessenek és használhassák a SharePointot és a OneDrive-ot, hozzá kell adnia hozzájuk fiókokat, és meg kell győződnie arról, hogy rendelkeznek olyan licenccel, amely hozzáférést biztosít számukra a SharePointhoz és a OneDrive-hoz. A felhasználók hozzáadásának legegyszerűbb módja a Microsoft 365 Felügyeleti központ.
+Ha szeretné, hogy a szervezet tagjai bejelentkezhetnek, és használják a SharePointot és a OneDrive, akkor hozzá kell adnia fiókokat, és gondoskodnia kell arról, hogy rendelkezzenek licenccel a SharePoint és a OneDrive eléréséhez. A felhasználók felvételének legegyszerűbb módja a Microsoft 365 felügyeleti központban érhető el.
   
-1. Nyissa meg a [Microsoft 365 Felügyeleti központ Aktív felhasználók lapját,](https://portal.office.com/adminportal/home#/users)és kattintson **a Felhasználó hozzáadása**gombra.
+1. Nyissa meg a [Microsoft 365 felügyeleti központ aktív felhasználók lapját](https://portal.office.com/adminportal/home#/users), és kattintson a **felhasználó hozzáadása**elemre.
     
-2. Töltse ki a felhasználó adatait, és győződjön meg arról, hogy a **Terméklicencek**területen licenc van rendelve, és a **SharePoint Online** ki van jelölve. 
+2. Adja meg a felhasználó adatait, és győződjön meg **arról, hogy**a licencek csoportban a licenc van kiosztva, és a **SharePoint Online** elem van kiválasztva. 
     
-Ne feledje, hogy ha engedélyezi a külső megosztást a szervezetben, a felhasználók megoszthatják a SharePoint- és OneDrive-tartalmakat a szervezeten kívüli emberekkel. Nem kell megadnia ezeket a külső felhasználóknak licenceket. Emellett nem kell fiókokat hozzáadnia hozzájuk, kivéve, ha a megosztás "Csak meglévő külső felhasználók" lesz. Ebben az esetben, ha az emberek nem a szervezet címtárában, hozzá kell adnia őket vendégfelhasználóként az Azure AD felügyeleti központban.
+Felhívjuk a figyelmét arra, hogy ha engedélyezi a külső megosztást a szervezetben, a felhasználók megoszthatnak SharePoint-és OneDrive-tartalmakat a szervezeten kívüli személyekkel. Nem kell megadnia ezeket a külső felhasználóknak megfelelő licenceket. Ha a megosztás "csak a meglévő külső felhasználóknak" értékre van állítva, akkor szintén nem kell fiókokat hozzáadnia. Abban az esetben, ha a személyek nem szerepelnek a szervezet címtárában, fel kell vennie őket vendégként az Azure AD felügyeleti központban.
   
 

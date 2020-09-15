@@ -1,39 +1,40 @@
 ---
-title: A DLP házirendtippjei nem működnek
+title: A DLP házirend-tippek nem működött
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507444"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679587"
 ---
-# <a name="dlp-policy-tip-issues"></a>DLP-házirend tippjével kapcsolatos problémák
+# <a name="dlp-policy-tip-issues"></a>DLP-házirend tippekkel kapcsolatos problémák
 
 **Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
-**DLP-házirendtippek**
+**DLP-házirend – tippek**
 
-A **DLP-házirendek**használatakor a felhasználók értesítést kaphatnak a házirendek megsértéséről a **házirend-tippekkel.** A rendszergazdák beállíthatják, hogy a házirend-tippek a DLP-házirend tesztelése közben, vagy ha a házirend teljes kényszerítési módban van.
+DLP- **házirendek**használatakor a felhasználók értesítést kaphatnak a házirend-megsértve a **házirend-tippekkel**. A rendszergazdák beállíthatja a házirend-tippeket a DLP-házirend tesztelésekor vagy a házirend teljes kényszerítési módban való megjelenítéséhez.
   
-Ha a DLP-házirenddel kapcsolatos házirendtippeket teljes kényszerítési módban szeretné konfigurálni a Biztonsági és megfelelőségi központban, tegye a következőket:
+Ha a házirend-tippeket a DLP-házirendre vonatkozóan a biztonsági és megfelelőségi központban, a teljes kényszerítési módban szeretné konfigurálni, tegye az alábbiakat:
   
-- Győződjön meg arról, hogy a DLP-szabályban **engedélyezve** vannak a házirendtippek az [itt](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)leírt lépésekkel.
+- Gondoskodjon arról, hogy a házirend-tippek **engedélyezve** legyenek a DLP-szabályokban [a következő](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)lépésekkel.
 
-- Győződjön meg arról, hogy a **tartalom megfelel** a [cikkben](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)ismertetett szabály aktiválásához **szükséges módon.**
+- Ellenőrizze, hogy a **tartalom megfelel** -e az ebben [a cikkben](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)ismertetett szabály indításához **szükséges** lépéseknek.
 
-- A házirendtippek az OWA-ban és az Outlookban is megjelennek. Az Outlook **2013-as vagy újabb**verzióinak használatakor azonban a házirendtippek csak bizonyos körülmények között jelennek meg. Ezek a feltételek itt találhatók: [Az Outlook 2013-as vagy újabb verzióinak támogatott feltételei a házirendtippek megjelenítéséhez](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- A házirend-tippek az OWA és az Outlook alkalmazásban egyaránt láthatók. Az **Outlook 2013-es vagy újabb verziójának**használatakor azonban a házirend-tippek csak bizonyos feltételek mellett jelennek meg. Ezek a feltételek itt olvashatók: [az Outlook 2013 vagy újabb verzióiban támogatott feltételek a házirend-tippek megjelenítéséhez](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-A DLP-házirendekkel kapcsolatos tippekről a Következő témakörben [olvashat: Házirendtippek megjelenítése a DLP-házirendekhez](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+A DLP-házirendi tippekről további információt a következő témakörben talál: [házirend-tippek megjelenítése DLP-házirendekhez](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   

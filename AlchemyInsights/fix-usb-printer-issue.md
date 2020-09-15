@@ -1,42 +1,43 @@
 ---
-title: USB-nyomtató problémáinak megoldása
+title: Az USB-nyomtatóval kapcsolatos problémák megoldása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: 5d961d2f1ad68a22782cefb45d70cd23f6912f0a
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 042a8e3bb02046f41a5e81653b08058f0e6626b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744636"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677497"
 ---
-# <a name="fix-usb-printer-connection-issues"></a>USB-nyomtatócsatlakoztatási problémák megoldása
+# <a name="fix-usb-printer-connection-issues"></a>Az USB-nyomtatókapcsolatot érintő problémák megoldása
 
-Próbálja ki a következő **hibaelhárítási lépéseket** az USB-nyomtató ismételt megmunkálásáról:
+Próbálkozzon az alábbi **hibaelhárítási lépésekkel** az USB-nyomtató ismételt működéséhez:
 
-1. Kapcsolja ki a nyomtatót, és húzza ki az USB kábelt a számítógépbõl és a nyomtatótól.
-2. Vizsgáljuk meg a kábelt, hogy ne sérüljünk.
-3. Csatlakoztassa vissza a kábelt a számítógéphez és a nyomtatóhoz.
+1. Kapcsolja ki a nyomtatót, és húzza ki az USB-kábelt a SZÁMÍTÓGÉPéről és a nyomtatóból.
+2. Ellenőrizze, hogy nincs-e sérülés a kábelen.
+3. Csatlakoztassa vissza a kábelt a SZÁMÍTÓGÉPére és a nyomtatóba.
 
-Ha ez nem működik, próbálja meg **eltávolítani és újratelepíteni az USB-nyomtatót**:
+Ha ez nem oldja meg a munkát, próbálkozzon **az USB-nyomtató eltávolításával és újratelepítésével**:
 
-1. Távolítsa el a nyomtatót a beállítások:
-    1. Húzza ki a nyomtató USB-kábelét a SZÁMÍTÓGÉPRŐL.
-    2. Válassza az **indítási** > **Beállítások** > **eszközök** > **nyomtatók & lapolvasók**parancsát.
-    3. A **nyomtatók & képolvasók**területen jelölje ki a hibakeresőt. Válassza az **Eltávolítás eszközt**. A nyomtató teljes eltávolításához kövesse az utasításokat.
-2. Távolítsa el az összes külső gyártótól származó nyomtatógyártó szoftvert:
-    1. Válassza a **Start** > **Settings** > **apps**.
-    2. Az **alkalmazások &-szolgáltatások**területen görgessen a nyomtató gyártójától (például HP, Canon vagy Epson) telepített szoftvertől.
-    3. Kiválaszt a szoftver és kiválaszt **uninstall**.
-3. Kapcsolja ki és indítsa újra a nyomtatót.<br>
-    1. Kapcsolja ki a nyomtatót, és húzza ki a tápkábelét. Várjon 30 másodpercet. Csatlakoztassa újra a nyomtatót.
-    2. Dugja vissza a nyomtató USB-kábelét a SZÁMÍTÓGÉPBE. A SZÁMÍTÓGÉPNEK automatikusan regisztrálnia kell, hogy az eszköz be legyen dugva.
-4. Próbálkozzon újra a nyomtatáskal.
+1. A nyomtató eltávolítása a beállítások között:
+    1. Húzza ki a nyomtató USB-kábelét a SZÁMÍTÓGÉPéről.
+    2. Válassza **Start**a  >  **Beállítások**indítása  >  **Devices**  >  **nyomtatókkal & szkennerek**lehetőséget.
+    3. A **nyomtatók & szkennerek**csoportban válassza ki a hibaelhárításhoz használt nyomtatót. Válassza az **eszköz eltávolítása**parancsot. Az utasításokat követve távolítsa el teljesen a nyomtatót.
+2. Távolítsa el bármelyik külső gyártótól származó nyomtató gyártójának szoftverét:
+    1. Válassza a beállítások **indítása**parancsot  >  **Settings**  >  **Apps**.
+    2. Az **alkalmazások & funkciók**csoportban keresse meg a nyomtató gyártójától (például HP, Canon vagy Epson) telepített szoftvert.
+    3. Jelölje ki a szoftvert, és válassza az **Eltávolítás**lehetőséget.
+3. A nyomtató kikapcsolása és újraindítása.<br>
+    1. Kapcsolja ki a nyomtatót, és húzza ki a hálózati kábelét. Várjon 30 másodpercet. Csatlakoztassa ismét a nyomtatót.
+    2. Csatlakoztassa vissza a nyomtató USB-kábelét a SZÁMÍTÓGÉPére. A SZÁMÍTÓGÉPnek automatikusan regisztrálnia kell, hogy az eszköz csatlakoztatva van.
+4. Próbálkozzon újra a nyomtatással.

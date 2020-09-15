@@ -1,30 +1,31 @@
 ---
-title: 1314 Ismétlődő objektumszervizelés
+title: 1314 duplikált objektum kármentesítése
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 138ba305b872e8c0508ba673fb59324672d14997
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c071e1a161cd2885b10d082f3c78eb5ac65b0b2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703969"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678578"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Ismétlődő objektumszinkronizálási hibák
+# <a name="duplicate-object-synchronization-errors"></a>Ismétlődő objektum-szinkronizálási hibák
 
-Ha a szinkronizálás során az alábbi hibák valamelyike jelenik meg:
+Ha a szinkronizálás során az alábbi hibák egyike jelenik meg:
 
-- Már létezik ugyanazzal a proxycímmel rendelkező szinkronizált objektum a Microsoft Online Services címtárban.
+- A Microsoft Online Services címtárban már létezik egy olyan szinkronizált objektum, amely ugyanazzal a proxy-címmel rendelkezik.
 
-- Hasonló üzenet a UserPrincipalName-hez.
+- Hasonló üzenet a UserPrincipalName-hoz.
 
-Az új AADConnect állapotdiagnosztika segítségével hárítsa el az ismétlődő objektumhibákat. További információt a [Duplikált attribútumszinkronizálási hibák diagnosztizálása és javítása című témakörben talál.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)
+Az új AADConnect-diagnosztika segítségével megoldhatja a duplikált objektum hibáit. További információt a [duplikált attribútum szinkronizálási hibáinak diagnosztizálása és visszaközvetítése](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)című témakörben talál.

@@ -1,55 +1,56 @@
 ---
-title: DLP-szabály nem működik az SSN-hez
+title: Nem működött a SSN szabály
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 35859bce89ef1ae9b6a9e706fc316b0ee6cd27d1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507372"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679371"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>DLP kérdések társadalombiztosítási számok
+# <a name="dlp-issues-with-social-security-numbers"></a>A társadalombiztosítási számokkal kapcsolatos DLP-problémák
 
 **Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
-**DLP-problémák az SSN-ekkel**
+**DLP-problémák a azonosítókat keresi.-ban**
 
-Problémái vannak azzal, hogy **a** Microsoft 365-ben bizalmas információtípushasználata esetén nem működik a **társadalombiztosítási számot (SSN)** tartalmazó tartalom használata? Ha igen, győződjön meg arról, hogy a tartalom tartalmazza a szükséges információkat, amit a DLP-házirend keres. 
+Problémát tapasztal az **adatvesztés-megelőzéssel (DLP)** kapcsolatban, ha nem működik a **társadalombiztosítási szám (SSN)** tartalmú tartalom a Microsoft 365 bizalmas adattípusa használatakor? Ha igen, győződjön meg arról, hogy a tartalom a DLP-házirend kinézetéhez szükséges információkat tartalmazza. 
   
-Például egy 85%-os megbízhatósági szinttel konfigurált SSN-házirend esetén a rendszer a következőket értékeli ki, és a szabály aktiválásához észlelni kell:
+Egy 85%-os megbízhatósági szinttel konfigurált SSN-házirend esetében például a program kiértékeli a következőt, és a következőhöz kell észlelni:
   
-- **[Formátum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 számjegy, amely formázott vagy formázatlan minta lehet
+- **[Formátum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 számjegy, amelyek formázott vagy formázatlan mintázatként jelenhetnek meg
 
-- **[Minta:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Négy függvény négy különböző mintában keres SSN-eket:
+- **[Minta:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Négy függvény a azonosítókat keresi. keres négy különböző mintázatban:
 
-  - Func_ssn a 2011 előtti erős formázású SSN-eket szaggatott vagy szóközzel formázott (ddd-dd-ddd VAGY ddd dddd) formázott ssn-eket keres.
+  - A Func_ssn megkeresi a 2011-os erős formázást, amely szaggatott vagy szóköz formátumú (DDD-dd-azonosítókat keresi. vagy DDD dd-vel) van formázva.
 
-  - Func_unformatted_ssn a 2011 előtti erős formázású SSN-eket kilenc egymást követő számjegyként (dddddddd) formázza.
+  - A Func_unformatted_ssn olyan erős formázással 2011 rendelkező azonosítókat keresi. keres, amelyek nem formázottak kilenc egymást követő számjegyként (ddddddddd)
 
-  - Func_randomized_formatted_ssn 2011 utáni, kötőjelekkel vagy szóközökkel formázott SSN-eket keres (ddd-dd-ddd VAGY ddd dddd)
+  - A Func_randomized_formatted_ssn a gondolatjelekkel vagy szóközökkel formázott 2011-azonosítókat keresi. (DDD-DD-vagy DDD dd)
 
-  - Func_randomized_unformatted_ssn a 2011 utáni SSN-eket kilenc egymást követő számjegyként formázva találja meg (dddddddd)
+  - A Func_randomized_unformatted_ssn megkeresi a 2011 azonosítókat keresi., amelyek nem formázottak kilenc egymást követő számjegyet (ddddddddd)
 
-- **[Ellenőrző összeg:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Nem, nincs Checksum
+- **[Ellenőrzőösszeg:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Nem, nincs ellenőrzőösszeg
 
-- **[Meghatározás:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** A DLP-házirend 85%-ban biztos abban, hogy az ilyen típusú bizalmas információkat észleli, ha 300 karakteren belül:
+- **[Definíció:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** A DLP-házirend 85%-os megbízhatósági szinttel jelenti az ilyen típusú bizalmas adatok észlelését, ha az 300 karaktereken belül:
 
-  - A [Func_ssn függvény](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) a mintának megfelelő tartalmat talál.
+  - A [függvény Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) megkeresi a mintázattal egyező tartalmat.
 
-  - A [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) kulcsszó található. Példák a kulcsszavak közé tartozik: *Társadalombiztosítási, Társadalombiztosítási #, Soc Sec, SSN* . Például a következő minta aktiválódik a DLP SSN-házirend: **SSN: 489-36-8350**
+  - A [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) kulcsszója megtalálható. A kulcsszavak példái a következők:  *társadalombiztosítási, társadalombiztosítási #, SoC sec, SSN*  . Az alábbi példa például a DLP SSN-házirendet eredményezte: **ssn: 489-36-8350**
   
-Ha többet szeretne tudni arról, hogy mi szükséges az SSN-ek észleléséhez a tartalomhoz, olvassa el a cikk következő szakaszát: [A bizalmas információtípusok mit keresnek az SSN-ek számára?](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
+Ha további információra van szüksége a azonosítókat keresi. a tartalomhoz való észleléséhez, olvassa el a jelen cikk következő szakaszát: [Mi a bizalmas adattípusok keresése a azonosítókat keresi.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn) -ban
   
-Egy másik beépített bizalmas információtípus használatával a következő cikkben további információt talál arról, hogy mi szükséges más típusokhoz: [Mit keresnek a bizalmas információtípusok?](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Ha más beépített bizalmas adattípust használ, további információt a következő témakörben talál: [a bizalmas adattípusok keresése](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

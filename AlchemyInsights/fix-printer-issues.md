@@ -1,29 +1,30 @@
 ---
-title: Nyomtatóproblémák megoldása
+title: Nyomtatóval kapcsolatos problémák megoldása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 3da19ce8f44cdc08aed708e9bf238350764843f4
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37976055"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677678"
 ---
 # <a name="troubleshoot-your-printer"></a>A nyomtató hibaelhárítása
 
-Ha a nyomtatóval problémák vannak, először próbálkozzon a **nyomtató energiagazdálkodási ciklusának**végrehajtásával. Kövesse az alábbi lépéseket:
+Ha nyomtatási problémák merülnek fel, először próbálkozzon a **nyomtató-Power ciklus**végrehajtásával. Hajtsa végre az alábbi lépéseket:
 
-1. Kapcsolja ki a nyomtatót, és húzza ki a tápkábelét.
+1. Kapcsolja ki a nyomtatót, és húzza ki a hálózati kábelét.
 2. Várjon 30 másodpercet.
-3. Csatlakoztassa újra a nyomtatót, és kapcsolja vissza a nyomtatót.
+3. Csatlakoztassa a nyomtatót, és újból kapcsolja be.
 
-Ha ez nem oldja meg a problémát, futtassa a nyomtató hibaelhárítót, és **indítsa el** > a**Beállítások** > **frissítését & biztonsági** > **Hibaelhárítás**. Válassza a **Printer (nyomtató**) eszközt, majd jelölje be **a hibaelhárító futtatása**választógombot.
+Ha ez nem oldotta meg a problémát, futtassa a Nyomtató hibaelhárítóját az **indítási**  >  **Beállítások**  >  **frissítése & biztonsági**  >  **hibák elhárítása**című témakörben. Válassza a **nyomtató**lehetőséget, majd kattintson **a hibaelhárító futtatása**parancsra.
