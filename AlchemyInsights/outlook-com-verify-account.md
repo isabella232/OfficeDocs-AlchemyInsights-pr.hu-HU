@@ -1,11 +1,12 @@
 ---
-title: A Outlook.com-fiók igazolása
+title: Az Outlook.com-fiók ellenőrzése
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743419"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694241"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>A Outlook.com-fiók igazolása
+# <a name="how-to-verify-your-outlookcom-account"></a>Az Outlook.com-fiók ellenőrzése
 
-A kétlépéses ellenőrzés segít megvédeni, mivel megnehezíti, hogy valaki más jelentkezzen be a Microsoft-fiókjába. Az identitás két különböző formáját használja: a jelszavát és egy kapcsolatfelvételi módszert (más néven biztonsági adatokat).
+A kétlépéses ellenőrzés megkönnyíti a védelmet azáltal, hogy nehezebbé teszi a Microsoft-fiókba való bejelentkezést. Két különböző identitást használ: a jelszavát és a partnerlista (más néven biztonsági információ).
   
-A kétlépéses ellenőrzés be- és kikapcsolása:
+A kétlépéses ellenőrzés be-és kikapcsolása:
   
-1. Nyissa meg a [Biztonság alapjai lapot,](https://go.microsoft.com/fwlink/?linkid=842325) és jelentkezzen be Microsoft-fiókjával.
-2. Válassza a **További biztonsági beállítások lehetőséget.**
-3. A **Kétlépéses ellenőrzés csoportban**válassza **a Kétlépéses ellenőrzés beállítása** lehetőséget, és kövesse az utasításokat.
+1. Lépjen a [biztonsági alapok lapra](https://go.microsoft.com/fwlink/?linkid=842325) , és bejelentkezés a Microsoft-fiókjával.
+2. Válassza a **további biztonsági beállítások**elemet.
+3. A kétlépéses **ellenőrzés**csoportban válassza a **kétlépéses ellenőrzés beállítása** lehetőséget, és kövesse az útmutatást.
 
-Ha bekapcsolja a kétlépéses ellenőrzést, mindig két azonosítási űrlapra lesz szüksége. Ha elveszíti a kapcsolattartási módszert, a jelszó önmagában nem fog visszakerülni a fiókjába - és 30 napig is eltarthat, hogy visszanyerje a hozzáférést.
+Ha bekapcsolja a kétlépcsős azonosítást, akkor minden esetben két formában kell szerepelnie. Ha elveszíti a kapcsolati módszert, a jelszó csak akkor lép vissza a fiókjába, ha a hozzáférés visszaszerzése 30 napig tart.
   
 További információ a [kétlépéses ellenőrzésről](https://go.microsoft.com/fwlink/?linkid=872270).
   
