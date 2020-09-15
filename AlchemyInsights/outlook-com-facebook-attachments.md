@@ -1,29 +1,30 @@
 ---
-title: e-mail-előfizetések Outlook.com
-ms.author: lpyfer
-author: lpyfer
+title: E-mail-előfizetések Outlook.com
+ms.author: pebaum
+author: pebaum
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: f802c3fb16decad593cf79ebb20561f61f0931ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723533"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672095"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a><span data-ttu-id="fce8b-102">Nem lehet fájlokat csatolni vagy feltölteni a Facebookról</span><span class="sxs-lookup"><span data-stu-id="fce8b-102">Unable to attach or upload files from Facebook</span></span>
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a><span data-ttu-id="b5b64-102">Nem lehet fájlokat csatolni vagy feltölteni a Facebookról</span><span class="sxs-lookup"><span data-stu-id="b5b64-102">Unable to attach or upload files from Facebook</span></span>
 
-<span data-ttu-id="fce8b-103">2019. október 23.-a után a Facebook általános szerződési feltételeinek változása miatt a továbbiakban nem tölthet szabalisztikai mellékleteket közvetlenül a Facebookról, és a Facebook a továbbiakban nem jelenik meg a felhőbeli helyek listájában.</span><span class="sxs-lookup"><span data-stu-id="fce8b-103">Due to a change in Facebook terms and conditions, after October 23, 2019, you will no longer be able to able to upload attachments directly from Facebook, and Facebook will no longer appear in the list of your cloud locations.</span></span> 
+<span data-ttu-id="b5b64-103">A Facebook-ban az 2019 október 23-án megjelenő feltételek és kikötések miatt a továbbiakban nem tudja közvetlenül a Facebookról feltölteni a mellékleteket, a Facebook pedig már nem jelenik meg a Felhőbeli helyek listájában.</span><span class="sxs-lookup"><span data-stu-id="b5b64-103">Due to a change in Facebook terms and conditions, after October 23, 2019, you will no longer be able to able to upload attachments directly from Facebook, and Facebook will no longer appear in the list of your cloud locations.</span></span> 
 
-<span data-ttu-id="fce8b-104">Kezelheti a [storage-fiókokban](https://go.microsoft.com/fwlink/?linkid=2111075)található egyéb felhőhelyek listáját.</span><span class="sxs-lookup"><span data-stu-id="fce8b-104">You can manage your list of other cloud locations in your [Storage accounts](https://go.microsoft.com/fwlink/?linkid=2111075).</span></span>
+<span data-ttu-id="b5b64-104">Kezelheti a többi felhőalapú hely listáját a [tároló fiókokban](https://go.microsoft.com/fwlink/?linkid=2111075).</span><span class="sxs-lookup"><span data-stu-id="b5b64-104">You can manage your list of other cloud locations in your [Storage accounts](https://go.microsoft.com/fwlink/?linkid=2111075).</span></span>
 
-<span data-ttu-id="fce8b-105">További információ a [Storage-fiókokról.](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)</span><span class="sxs-lookup"><span data-stu-id="fce8b-105">Learn more about [Storage accounts](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).</span></span>
+<span data-ttu-id="b5b64-105">További információ a [tárolási fiókokról](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).</span><span class="sxs-lookup"><span data-stu-id="b5b64-105">Learn more about [Storage accounts](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).</span></span>
   

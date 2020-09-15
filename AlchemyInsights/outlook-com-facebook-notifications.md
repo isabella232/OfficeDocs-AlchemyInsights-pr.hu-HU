@@ -1,31 +1,32 @@
 ---
-title: Facebook-értesítések Outlook.com
+title: Outlook.com Facebook-értesítések
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 737785e235389e211557b8055a561ec7a7d66692
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f9d5b94abda70c7383221a0d04c01a6f43f16100
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760342"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672130"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a><span data-ttu-id="1231f-102">Facebook-értesítések Outlook.com használatával</span><span class="sxs-lookup"><span data-stu-id="1231f-102">Facebook notifications using Outlook.com</span></span>
+# <a name="facebook-notifications-using-outlookcom"></a><span data-ttu-id="4b88e-102">Facebook-értesítések a Outlook.com használatával</span><span class="sxs-lookup"><span data-stu-id="4b88e-102">Facebook notifications using Outlook.com</span></span>
 
-<span data-ttu-id="1231f-103">Ha nem szeretnél értesítéseket kapni a Facebooktól, módosíthatod a [Facebook beállításait,](https://aka.ms/facebook-notifications-settings) vagy beállíthatsz egy Beérkezett üzenetek rekedésszabályát.</span><span class="sxs-lookup"><span data-stu-id="1231f-103">If you do not want to receive notifications from Facebook, you can change your [Facebook settings](https://aka.ms/facebook-notifications-settings) or set up an Inbox Rule.</span></span>
+<span data-ttu-id="4b88e-103">Ha nem szeretne értesítéseket küldeni a Facebookról, módosíthatja a [Facebook beállításait](https://aka.ms/facebook-notifications-settings) , vagy beállíthat egy beérkezett üzenetekre vonatkozó szabályt.</span><span class="sxs-lookup"><span data-stu-id="4b88e-103">If you do not want to receive notifications from Facebook, you can change your [Facebook settings](https://aka.ms/facebook-notifications-settings) or set up an Inbox Rule.</span></span>
 
-1. <span data-ttu-id="1231f-104">Nyissa meg a [Szabályok beállításai t.](https://outlook.live.com/mail/options/mail/rules/inboxRules)</span><span class="sxs-lookup"><span data-stu-id="1231f-104">Go to [Rules settings](https://outlook.live.com/mail/options/mail/rules/inboxRules).</span></span>
-1. <span data-ttu-id="1231f-105">Válassza **az Új szabály hozzáadása**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="1231f-105">Select **Add new rule**.</span></span>
-1. <span data-ttu-id="1231f-106">Nevezze el a szabályt "Facebook".</span><span class="sxs-lookup"><span data-stu-id="1231f-106">Name your rule "Facebook".</span></span>
-1. <span data-ttu-id="1231f-107">Adjon hozzá egy "From" feltételt, és írja be a "notification@facebookmail.com" szót</span><span class="sxs-lookup"><span data-stu-id="1231f-107">Add a condition of "From" and enter "notification@facebookmail.com"</span></span>
-1. <span data-ttu-id="1231f-108">Adjon hozzá egy "Törlés" műveletet.</span><span class="sxs-lookup"><span data-stu-id="1231f-108">Add an action of "Delete".</span></span> <span data-ttu-id="1231f-109">A Törlés lehetőséget választva az üzenetek a Törölt elemek között maradnak, és helyreállnak.</span><span class="sxs-lookup"><span data-stu-id="1231f-109">Choosing Delete means the messages remain in your Deleted Items and can be recovered.</span></span> <span data-ttu-id="1231f-110">Ha a "Megjelölés levélszemétként" lehetőséget választja, az üzenetek automatikusan törlődnek, és nem lehet visszaőket visszatussiként.</span><span class="sxs-lookup"><span data-stu-id="1231f-110">If you select "Mark as Junk", the messages will be automatically deleted and can't be recovered.</span></span>
-1. <span data-ttu-id="1231f-111">Válassza a **Mentés** gombot.</span><span class="sxs-lookup"><span data-stu-id="1231f-111">Select **Save**.</span></span>
+1. <span data-ttu-id="4b88e-104">Válassza a [szabályok beállításai lehetőséget](https://outlook.live.com/mail/options/mail/rules/inboxRules).</span><span class="sxs-lookup"><span data-stu-id="4b88e-104">Go to [Rules settings](https://outlook.live.com/mail/options/mail/rules/inboxRules).</span></span>
+1. <span data-ttu-id="4b88e-105">Válassza az **új szabály hozzáadása**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="4b88e-105">Select **Add new rule**.</span></span>
+1. <span data-ttu-id="4b88e-106">Nevezze el a "Facebook" szabályt.</span><span class="sxs-lookup"><span data-stu-id="4b88e-106">Name your rule "Facebook".</span></span>
+1. <span data-ttu-id="4b88e-107">Adja meg a "feladó" feltételt, és írja be a "notification@facebookmail.com" szót.</span><span class="sxs-lookup"><span data-stu-id="4b88e-107">Add a condition of "From" and enter "notification@facebookmail.com"</span></span>
+1. <span data-ttu-id="4b88e-108">A "Törlés" művelet hozzáadása</span><span class="sxs-lookup"><span data-stu-id="4b88e-108">Add an action of "Delete".</span></span> <span data-ttu-id="4b88e-109">A törlés elem választása esetén az üzenetek megmaradnak a törölt elemek között, és helyreállíthatók.</span><span class="sxs-lookup"><span data-stu-id="4b88e-109">Choosing Delete means the messages remain in your Deleted Items and can be recovered.</span></span> <span data-ttu-id="4b88e-110">Ha a "megjelölés levélszemétként" beállítást választja, az üzenet automatikusan törlődik, és nem állíthatók helyre.</span><span class="sxs-lookup"><span data-stu-id="4b88e-110">If you select "Mark as Junk", the messages will be automatically deleted and can't be recovered.</span></span>
+1. <span data-ttu-id="4b88e-111">Válassza a **Mentés** elemet.</span><span class="sxs-lookup"><span data-stu-id="4b88e-111">Select **Save**.</span></span>
