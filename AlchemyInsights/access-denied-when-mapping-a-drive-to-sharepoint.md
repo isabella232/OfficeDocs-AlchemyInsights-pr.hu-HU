@@ -1,32 +1,33 @@
 ---
-title: Hozzáférés megtagadva, amikor egy meghajtót SharePoint-hoz képez
+title: Hozzáférés megtagadva, ha meghajtót rendel a SharePointhoz
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 23ee86df5404b6f20f3a4b605038b31b6f9fd731
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8fc866390d63443c94beef76b6a53a628b85d6d2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687368"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668745"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>A hálózati meghajtókra leképezett SharePoint-tárakkal kapcsolatos problémák megoldása
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>A hálózati meghajtókhoz rendelt SharePoint-tárakkal kapcsolatos problémák megoldása
 
-Amikor leképezett hálózati meghajtót tallóz, az alábbi üzenetek egyike jelenhet meg:
+Egy csatlakoztatott hálózati meghajtóra való tallózáskor az alábbi üzenetek egyike jelenhet meg:
   
-- **\\Az elérési út nem érhető el. Lehet, hogy nincs engedélye a hálózati erőforrás használatára. Lépjen kapcsolatba a kiszolgáló rendszergazdájával, és érdeklődjön, hogy rendelkezik-e hozzáférési engedélyekkel.**
+- **\\Az elérési út nem érhető el. Lehet, hogy nincs engedélye a hálózati erőforrás használatához. A kiszolgáló rendszergazdájától megtudhatja, hogy rendelkezik-e hozzáférési engedélyekkel.**
 
-- **Hozzáférés megtagadva. Mielőtt fájlokat nyitna meg ezen a helyen, először hozzá kell adnia a webhelyet a megbízható helyek listájához, meg kell tallóznia a webhelyre, és ki kell választania az automatikus bejelentkezés lehetőségét.**
+- **Hozzáférés megtagadva Mielőtt fájlokat nyit meg a helyen, először fel kell vennie a webhelyet a megbízható helyek listájára, tallózással keresse meg a webhelyet, és jelölje be a megfelelő Bejelentkezés automatikusan választógombot.**
 
-[Segítség a leképezett hálózati meghajtók kal kapcsolatos hibaelhárításhoz.](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+[Segítséget kaphat a csatlakoztatott hálózati meghajtók hibaelhárításához](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-A tár hálózati meghajtóként való hozzárendelése ideiglenes, és csak az Internet Explorer ben támogatott. Ehelyett [szinkronizálja a SharePoint-fájlokat az új OneDrive szinkronizálási ügyfélalkalmazással,](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) amely tartalmazza [az igény szerinti fájlokat.](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx) A OneDrive-on lévő összes fájlját a helyi tárhely használata nélkül érheti el.
+A tárak hálózati meghajtóként való megfeleltetése ideiglenes, és csak az Internet Explorerben támogatott. Ehelyett [szinkronizálja a SharePoint-fájlokat az új OneDrive szinkronizálási ügyfélprogrammal](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , amely az [igény szerinti fájlokat](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)tartalmazza. A OneDrive-on lévő összes fájl eléréséhez helyi tárterület használata nélkül.
   

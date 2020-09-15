@@ -1,5 +1,5 @@
 ---
-title: A jelszószinkronizálás állapotának ellenőrzése
+title: A jelszó-szinkronizálás állapotának ellenőrzése
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765595"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665648"
 ---
-# <a name="enable-password-sync"></a>Jelszó-szinkronizálás engedélyezése
+# <a name="enable-password-sync"></a>A jelszó-szinkronizálás engedélyezése
 
-1.  A Microsoft 365 Felügyeleti központ kezdőlapján válassza a **DirSync-állapot** lehetőséget. 
+1.  A Microsoft 365 felügyeleti központ kezdőlapján válassza az **rsync-állapot** lehetőséget. 
     
-     *Másik lehetőségként megis térhet a **Felhasználók** \> **aktív felhasználók hoz,** és az Aktív felhasználók lapon válassza a **További** \> **címtár-szinkronizálás lehetőséget.*** 
+     *Másik lehetőségként nyissa meg a **felhasználók** \> **aktív felhasználóit**, és az aktív felhasználók lapon válassza a **további** \> **címtár-szinkronizálás lehetőséget.*** 
     
-2. A Címtár-szinkronizálás ablaktáblán válassza az **Ugrás a DirSync-kezeléshez lehetőséget.** 
+2. A címtár-szinkronizálás panelen válassza az **Ugrás az rsync-kezeléshez**lehetőséget. 
     
-3. Most látni fogja az állapotát, és módosításokat hajt végre:
+3. Most láthatja az Ön állapotát, és módosításokat végezhet:
     
-    **Jelszó szinkronizálás engedélyezve:** (Igaz vagy Hamis). Itt adható meg, hogy engedélyezve van-e a jelszószinkronizálás a helyszíni és a bérlő között. 
+    **Jelszó-szinkronizálás engedélyezve:** (igaz vagy hamis). Megadja, hogy engedélyezve van-e a jelszó-szinkronizálás a helyszíni és a bérlői fiók között. 
     
-    **Utolsó jelszószinkronizálás:** (A jelszó legutóbbi szinkronizálása futott). Ez figyelmeztetést és egy hibaelhárító eszközre mutató hivatkozást jelenít meg, ha az utolsó szinkronizálás több mint három nappal ezelőtt volt. 
+    **Legutóbbi jelszó-szinkronizálás:** (a legutóbb használt jelszó-szinkronizálási idő futott). Ez egy figyelmeztetést és egy hibaelhárítási eszközre mutató hivatkozást jelenít meg, ha az utolsó szinkronizálás több mint három nappal korábban volt. 
     
 

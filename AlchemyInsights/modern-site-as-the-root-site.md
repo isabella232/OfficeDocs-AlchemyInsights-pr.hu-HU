@@ -1,9 +1,10 @@
 ---
-title: Modern oldal, mint a gyökér hely
+title: Modern webhely root-webhelyként
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ms.date: 04/21/2020
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
@@ -11,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 0388f95e2b7815dcbbb6aca200f44e55e9c5724f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713793"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666872"
 ---
-# <a name="modern-site-as-root-site"></a>Modern webhely gyökérhelyként
+# <a name="modern-site-as-root-site"></a>Modern webhely root-webhelyként
 
-Elkezdtünk egy új funkciót kivonni, amely lehetővé teszi, hogy [a klasszikus webhely gyökérwebhelyét egy modern webhelyre cserélje.](https://docs.microsoft.com/sharepoint/modern-root-site) [Az Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) segítségével az eredeti webhely archiválása közben cserélheti fel a webhely helyét egy másik hellyel. A csoportwebhelyhez (csoporthoz nem kapcsolódó) és a kommunikációs helyhez egyaránt elérhető.
+Kezdtük egy új funkció kiépítését, amely lehetővé teszi, hogy a [klasszikus webhely gyökerét egy modern](https://docs.microsoft.com/sharepoint/modern-root-site)webhelyre cserélje. A [SPOSiteSwap hivatkozhat](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) arra, hogy a webhely helyét egy másik webhelyre cseréli az eredeti webhely archiválása közben. Mindkét csoportwebhely számára elérhető (nem kapcsolódhat egy csoporthoz) és egy kommunikációs webhelyhez.
 
 >[!Important]
-> Ne törölje a klasszikus gyökérwebhelyet, hogy modern kommunikációs webhelyet hozzon létre. Ezt a Microsoft nem támogatja. A gyökérwebhely törlésével a szervezet összes SharePoint-webhelye elérhetetlenné válik minden felhasználó számára, amíg vissza nem állítja a webhelyet, vagy nem hoz létre új webhelyet ugyanazon az URL-címen. Ezt a funkciót az üzenetközponton keresztül fogjuk közlöm. Azt kell várni, hogy a szolgáltatás be van kapcsolva a bérlő hamarosan.
+> A modern kommunikációs webhelyek létrehozásához ne törölje a klasszikus root-webhelyét. Ezt a Microsoft nem támogatja. A legfelső szintű webhely törlésekor a szervezet összes SharePoint-webhelye nem érhető el az összes felhasználó számára, amíg vissza nem állítja a webhelyet, illetve nem hozhat létre új webhelyet ugyanazon az URL-címen. Ezt a funkciót az üzenetközpont segítségével fogjuk kommunikálni. Várnia kell, hogy a funkció hamarosan be legyen kapcsolva a bérlői webhelyére.
 
-## <a name="known-issues-with-swapping-sites"></a>Ismert problémák a webhelyek cseréjével kapcsolatban
-- A célwebhely rövid ideig "nem található" (HTTP 404) hibát adhat vissza.
-- A keresési index frissítéséhez a tartalmat újra kell feltérképezni. Itt nincs szükség manuális lépésre, ez automatikusan megtörténik.
-- A "statikus" hivatkozásoktól (például a Fájlszinkronizálástól és a OneNote-fájloktól) függő minden hivatkozást manuálisan kell kijavítani.
-- Előfordulhat, hogy a Project kiszolgáló helyhelyeit ellenőrizni kell annak érdekében, hogy azok továbbra is megfelelően legyenek társítva. 
+## <a name="known-issues-with-swapping-sites"></a>A webhelyek cseréjével kapcsolatos ismert problémák
+- Előfordulhat, hogy a cél egy rövid időre "not found" (HTTP 404) hibát ad vissza.
+- A keresési index frissítéséhez a tartalmat újra kell bejárni. Ebben az esetben nincs szükség kézi lépésre, ezt automatikusan elvégezheti.
+- A "statikus" hivatkozásokkal (például a fájlok szinkronizálására és a OneNote-fájlokra) függő bármit manuálisan kell kijavítani.
+- Előfordulhat, hogy a Project Server-webhelyek érvényesítése szükséges ahhoz, hogy a rendszer továbbra is megfelelően társítsa őket. 
