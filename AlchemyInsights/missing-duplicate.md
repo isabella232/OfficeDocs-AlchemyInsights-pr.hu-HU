@@ -1,23 +1,24 @@
 ---
-title: Hiányzik-duplikált elemek
+title: Hiányzó – duplikált
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: 0987a5c66e6853f457624f251a53a9c4a842e4b9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 1267f80c1e4d632a3627a97fbfccf86b482adb5d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627432"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673752"
 ---
-# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a><span data-ttu-id="81782-102">Hiányzó és ismétlődő naptárelemek – problémamegoldás</span><span class="sxs-lookup"><span data-stu-id="81782-102">Troubleshooting missing and duplicate calendar items</span></span>
+# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a><span data-ttu-id="2a78d-102">A hiányzó és ismétlődő naptárelemek hibaelhárítása</span><span class="sxs-lookup"><span data-stu-id="2a78d-102">Troubleshooting missing and duplicate calendar items</span></span>
 
-<span data-ttu-id="81782-103">A hiányzó és ismétlődő találkozókkal kapcsolatos problémák elhárításáról a Microsoft Outlook és a Microsoft Exchange Server használatakor a következő témakörben olvashat bővebben: [az Outlook hiányzó és ismétlődő találkozóinak hibaelhárítása](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).</span><span class="sxs-lookup"><span data-stu-id="81782-103">For information on how to troubleshoot problems with missing and duplicate appointments when you use Microsoft Outlook and Microsoft Exchange Server, see [How to troubleshoot missing and duplicate appointments in Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).</span></span>
+<span data-ttu-id="2a78d-103">Ha tudni szeretné, hogy miként oldhatja meg a hiányzó és ismétlődő találkozókkal kapcsolatos problémákat a Microsoft Outlook és a Microsoft Exchange Server használatakor, tanulmányozza a [hiányzó és ismétlődő találkozókkal kapcsolatos hibák elhárítása az Outlookban](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook)című témakört.</span><span class="sxs-lookup"><span data-stu-id="2a78d-103">For information on how to troubleshoot problems with missing and duplicate appointments when you use Microsoft Outlook and Microsoft Exchange Server, see [How to troubleshoot missing and duplicate appointments in Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).</span></span>

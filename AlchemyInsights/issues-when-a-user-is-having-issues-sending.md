@@ -1,9 +1,10 @@
 ---
-title: 322. problémák, amikor egy felhasználó problémákat küld
+title: a 322 hibája, amikor egy felhasználó elküldi a problémát
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -11,13 +12,13 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
-ms.openlocfilehash: 5d3c3d749c298682e1a6798b0f05ccb4bb657015
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e32347b4ad49b05ee34e21482f3e7d491290ad6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661514"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676920"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="ab84d-102">A felhasználónak problémái vannak az e-mail üzenetek küldésével</span><span class="sxs-lookup"><span data-stu-id="ab84d-102">A user is having issues sending email messages</span></span>
+# <a name="a-user-is-having-issues-sending-email-messages"></a><span data-ttu-id="b7cb2-102">A felhasználók e-mail-üzenetek küldésével kapcsolatos problémák merülnek fel</span><span class="sxs-lookup"><span data-stu-id="b7cb2-102">A user is having issues sending email messages</span></span>
 
-<span data-ttu-id="ab84d-103">Ez úgy néz ki mint önnek van egy felad folyik kérdés.</span><span class="sxs-lookup"><span data-stu-id="ab84d-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="ab84d-104">Van diagnosztikája, amely segít azonosítani sok közös levéláramlási problémát.</span><span class="sxs-lookup"><span data-stu-id="ab84d-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="ab84d-105">Kattintson az alábbi, **diagnosztika futtatása** elemre.</span><span class="sxs-lookup"><span data-stu-id="ab84d-105">Click **Run Diagnostics** below.</span></span>
+<span data-ttu-id="b7cb2-103">Úgy tűnik, hogy van egy e-mail-flow probléma.</span><span class="sxs-lookup"><span data-stu-id="b7cb2-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="b7cb2-104">Diagnosztikai szolgáltatásokkal segíti az e-mail-forgalom problémáinak felismerését.</span><span class="sxs-lookup"><span data-stu-id="b7cb2-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="b7cb2-105">Kattintson a **diagnosztika futtatása** elemre.</span><span class="sxs-lookup"><span data-stu-id="b7cb2-105">Click **Run Diagnostics** below.</span></span>

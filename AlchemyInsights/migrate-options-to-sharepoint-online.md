@@ -1,24 +1,25 @@
 ---
-title: Áttelepítési beállítások a SharePoint Online-ba
+title: Beállítások áttelepítése a SharePoint Online-ba
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 934113470aed0dcc0d2b17857befb450be00dc51
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 198b888597405dead67fe35eb568ee86d8577af1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762189"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674688"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="a854c-102">Áttelepítési beállítások a SharePoint Online-ba</span><span class="sxs-lookup"><span data-stu-id="a854c-102">Migrate options to SharePoint Online</span></span>
+# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="e0a22-102">Beállítások áttelepítése a SharePoint Online-ba</span><span class="sxs-lookup"><span data-stu-id="e0a22-102">Migrate options to SharePoint Online</span></span>
 
-<span data-ttu-id="a854c-103">A tartalmak SharePoint Online-ba való áttelepítésére különböző lehetőségek állnak rendelkezésre, az áthelyezendő fájlok méretétől és mennyiségétől függően.</span><span class="sxs-lookup"><span data-stu-id="a854c-103">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move.</span></span>
+<span data-ttu-id="e0a22-103">A tartalmak SharePoint Online-ba való áttelepítéséhez különböző lehetőségek állnak rendelkezésre, az áthelyezni kívánt fájlok méretétől és mennyiségétől függően.</span><span class="sxs-lookup"><span data-stu-id="e0a22-103">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move.</span></span>
   
-<span data-ttu-id="a854c-104">További információt az [Áttelepítés a SharePoint Online-ba című](https://go.microsoft.com/fwlink/?linkid-2022029) témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="a854c-104">For more information see, [Migrate to SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)</span></span>
+<span data-ttu-id="e0a22-104">További információ: [áttelepítés a SharePoint Online-ba](https://go.microsoft.com/fwlink/?linkid-2022029)</span><span class="sxs-lookup"><span data-stu-id="e0a22-104">For more information see, [Migrate to SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)</span></span>
   
 
