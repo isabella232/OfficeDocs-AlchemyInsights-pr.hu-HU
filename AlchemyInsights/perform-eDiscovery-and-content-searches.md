@@ -1,11 +1,12 @@
 ---
-title: 1488-perform-eDiscovery-and-content-searchs
+title: 1488 – Perform-eDiscovery-and-Content-keres
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,25 +14,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510178"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721448"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Tartalomkeresések és elektronikus adatfeltárási keresések végrehajtása
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>A tartalmi keresések és a eDiscovery-keresések végrehajtása
 
-A Biztonsági & megfelelőségi központ Tartalomkereső eszközével gyorsan megtalálhatja az Exchange-postaládákban található e-maileket, a SharePoint-webhelyeken és a OneDrive-fiókokban található dokumentumokat, valamint a Skype Vállalati verzióban folytatott csevegéseket. A Tartalomkereső eszközzel e-maileket, dokumentumokat és csevegéseket is kereshet a Microsoft 365 együttműködési eszközeiben, például a Microsoft Teams ben és a Microsoft 365 Csoportokban.
+A biztonsági & megfelelőségi központban a tartalom keresése eszköz segítségével gyorsan megtalálhatja az Exchange-postaládákban, a SharePoint-webhelyeken és a OneDrive-fiókban lévő e-maileket, valamint a Skype vállalati verzióban a csevegést. A tartalom keresése eszközzel e-mailek, dokumentumok és csevegések keresése a Microsoft 365 együttműködési eszközeivel (például a Microsoft Teams és a Microsoft 365-csoportokban) végezhető el.
 
-**Tartalomkeresés végrehajtása**
+**A tartalmi keresés végrehajtása**
 
-1. Nyissa meg a [Biztonsági & megfelelőségi központot,](https://protection.office.com) és jelentkezzen be.
-2. Kattintson **a Keresés > tartalomkeresésre.**
-3. Új keresés létrehozásához kattintson az **Új keresés** gombra.
-4. Adja meg a szükséges keresési feltételeket, beleértve a kulcsszavakat és a tartalom helyét.  
-5. Kattintson **a & futtatás mentése gombra** a keresés elnevezéséhez, indításához, majd az eredmények előnézetének megtekintéséhez.
+1. Nyissa meg a [biztonsági & megfelelőségi központot](https://protection.office.com) , és kattintson a Bejelentkezés gombra.
+2. Kattintson a **keresés > a tartalom keresése**gombra.
+3. Új keresés létrehozásához kattintson az **új keresés** gombra.
+4. Adja meg a szükséges keresési feltételeket, többek között a kulcsszavakat és a tartalmi helyeket.  
+5. Kattintson a **mentés & Futtatás** parancsra a keresés elnevezéséhez, indítsa el, majd nézze meg a találatokat.
 
-A tartalomkereséssel, az eredmények exportálásával és az adatok tárolására szolgáló elektronikus adatfeltárási esetek létrehozásával kapcsolatos részletes útmutatást a [Tartalomkeresés](https://docs.microsoft.com/microsoft-365/compliance/content-search) és [az elektronikus adatfeltárás esetei című témakörben találja.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+A tartalmi keresésekkel, az eredmények exportálásával és a eDiscovery-esetek létrehozásával kapcsolatos részletes útmutatásért olvassa el a [keresési](https://docs.microsoft.com/microsoft-365/compliance/content-search) és [eDiscovery-esetek](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)című témakört.
 
-A tartalomkeresésről további információkkal, a [követelmények és korlátok](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) áttekintésével, valamint a részben indexelt elemek és egyéb eredmények [vizsgálatával.](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
+A tartalom kereséséről további tudnivalókat a [követelmények és a korlátozások](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) áttekintése és a  [részlegesen indexelt elemek](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) és más eredmények vizsgálata című témakörben találhat.

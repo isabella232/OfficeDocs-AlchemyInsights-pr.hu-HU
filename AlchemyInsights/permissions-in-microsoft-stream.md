@@ -1,29 +1,30 @@
 ---
-title: Engedélyek a Microsoft Streamben
+title: Engedélyek a Microsoft streamben
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001696"
 - "3773"
-ms.openlocfilehash: c1ffc34d5e4110349afe387d64449d2af08db30c
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: 2ec595455f26076d0f14315e294089517fbde00d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403515"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721413"
 ---
-# <a name="permissions-in-microsoft-stream"></a>Engedélyek a Microsoft Streamben
+# <a name="permissions-in-microsoft-stream"></a>Engedélyek a Microsoft streamben
 
-Alapértelmezés szerint a videó feltöltésekekén a videó az egész vállalat számára láthatóvá válik. Ha adott felhasználókhoz/csoportokhoz szeretne engedélyeket adni, testre szabhatja a videoengedélyeket.
+A videoklip feltöltésekor alapértelmezés szerint az engedélyek úgy vannak beállítva, hogy a videó a teljes vállalat számára látható legyen. Ha meg szeretné adni az engedélyeket bizonyos felhasználóknak vagy csoportoknak, testre szabhatja a videó engedélyeit.
 
 - [Engedélyek és adatvédelem a Microsoft Streamben](https://docs.microsoft.com/stream/portal-permissions)
 
-- [Csoport engedélyei](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
+- [Csoportengedélyek](https://docs.microsoft.com/stream/portal-permissions#group-permissions)
 
 - [Csatornaengedélyek](https://docs.microsoft.com/stream/portal-permissions#channel-permissions)
