@@ -1,29 +1,30 @@
 ---
-title: Vállalatnév kibontási érvénytelenése
+title: A cégnév kivonásának megszűnése
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: cf8535c82b6d1e6c16d1f2002836bb032cde2dc3
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: 8487ba5c0e3c00df9e25101c8086fbf34994480f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469254"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681010"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Vállalatnév-kiemelés változásai a SharePoint Online szolgáltatásban
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>A cég nevének kinyerésének módosítása a SharePoint Online-ban
 
-A 2019 november 15.- [től kezdődően eltávolítjuk a vállalatnév kivonása a SharePoint Online alkalmazásból](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). A SharePoint szolgáltatásban a vállalat nevének kivonása lehetővé teszi, hogy a keresőrendszer a megadott feltételcsoport tartalmából a vállalat nevét egy előre kitöltött szótárból, vagy a vállalati zárványok vagy a vállalati kivételek lista segítségével bontsa. Bár a vállalat nevének kinyerése a SharePoint Online tartalomból származó egy vagy több cégnév levezetésére való megoldás lett, mind a szótár, mind annak alapvető szolgáltatáshalmaza elavulttá vált.
+Az 2019 november 15-én kezdődően a [SharePoint Online-ban eltávolítja a cég nevének kivonását](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). A SharePointban a cégnév kinyerése lehetővé teszi, hogy a keresési rendszer egy bizonyos feltételeknek megfelelő tartalmat egy előre feltöltött szótárban vagy a vállalatok bevonása vagy a vállalat kizárási listái segítségével kinyerje. Míg a cégnév kinyerése egy, a SharePoint Online-ból származó tartalomból származtatott, egy vagy több vállalati név származtatott megoldást vált, a szótár és annak mögöttes funkció elavultnak számít.
 
-- [Honnan tudom, hogy a vállalatnév kivonása engedélyezett-e egy tulajdonsághoz?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
+- [Honnan tudhatom, hogy engedélyezve van-e a cégnév kinyerése tulajdonság esetén?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
-- [Mi történik, ha a vállalatnév kivonása elavult?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
+- [Mi történik, ha a cégnév kinyerése elavult?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#what-happens-when-company-name-extraction-is-deprecated) 
 
-- [Vannak-e alternatívái cég neve kivonás?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 
+- [Van alternatívája a cégnév kinyerésének?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#are-there-alternatives-to-company-name-extraction) 

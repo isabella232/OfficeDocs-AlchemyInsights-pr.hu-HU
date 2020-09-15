@@ -1,35 +1,36 @@
 ---
-title: Nyelvem módosítása
+title: A nyelv módosítása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 98f30d8e0a59ee9d735818d670755affbe627d54
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286190"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682972"
 ---
-# <a name="change-my-language"></a>Nyelvem módosítása
+# <a name="change-my-language"></a>A nyelv módosítása
 
-Az Outlook alkalmazás automatikusan lefordításra kerül arra a nyelvre, amelyre az eszköz be van állítva. 
+Az Outlook App automatikusan arra a nyelvre lesz lefordítva, amelyre az eszköz van beállítva. 
 
-(Tekintse meg [az Outlook által támogatott nyelvek listáját.)](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated) 
+(Az [Outlookban támogatott nyelvek listáját](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated)tekintheti meg.) 
 
-**Az eszköz nyelvének módosítása:** 
+**Az eszköz nyelvének módosítása**: 
 
-**Androidon**: 
+**Android**-eszközön: 
 
-- Eszközbeállítások > nyelv és bevitel 
+- Eszközök beállításai > nyelv és bevitel 
 
-**iOS rendszeren:** 
+**IOS**rendszer esetén: 
 
-- Az általános > nyelv & terület eszköz >beállítások 
+- Eszközök beállításai > általános > nyelv & régió 

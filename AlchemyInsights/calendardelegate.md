@@ -1,22 +1,23 @@
 ---
-title: 399 Naptár - delegált
+title: 399 naptár – meghatalmazott
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 399
 ms.assetid: 4b6e1dfd-dcdf-4f7c-8249-be2bd2e1f936
-ms.openlocfilehash: 6592a2d433def9513f5dba4d4b87cfd71fb78354
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5bfa581360b91107e8f50ab7fbd9bb6f694b13d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711885"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684124"
 ---
-# <a name="configure-mail-and-calendar-delegates"></a>Levelezési és naptármeghatalmazottak konfigurálása
+# <a name="configure-mail-and-calendar-delegates"></a>A posta és a naptár meghatalmazottak beállítása
 
-Ha más felhasználóknak is hozzáférést szeretne adni az Outlook-postaládához, olvassa el a [Mások nak a levelezés és a naptár kezelésének engedélyezése című témakört.](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx)
+Ha hozzáférést szeretne adni más felhasználóknak az Outlook-postaládához, olvassa el a [levelezés és a naptár kezelésének megengedése](https://support.office.com/article/9684b670-7588-4eea-8717-9e5799047540.aspx)mások számára című témakört.

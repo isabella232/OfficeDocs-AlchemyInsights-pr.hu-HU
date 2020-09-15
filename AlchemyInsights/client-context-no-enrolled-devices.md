@@ -1,23 +1,24 @@
 ---
-title: Ügyfélkörnyezet-nincs beiratkozott eszköz
+title: Ügyfél környezete – nem regisztrált eszközök
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "2630"
-ms.openlocfilehash: b863fe236d00c05e4c619a6864c6d1f4e2d04890
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 99e882467bdfceab4226399d3bea3950192817d2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638251"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681334"
 ---
-# <a name="client-context---no-enrolled-devices"></a>Ügyfélkörnyezet-nincs beiratkozott eszköz
+# <a name="client-context---no-enrolled-devices"></a>Ügyfél környezete – nem regisztrált eszközök
 
-A bérlő nem rendelkezik mobileszköz-kezelési (MDM) beiratkozott eszközzel az Intune szolgáltatással. Ha a kívánt eszközöket az Intune MDM segítségével szeretné regisztrálni és kezelni, kérjük, tekintse át a dokumentációt [itt](https://docs.microsoft.com/intune/device-enrollment) a kívánt platformhoz. Ha ön használ egy harmadik csapat MDM vagy egyetlen app védelem jellegét meghatározza nem tett május lenni szükséges. 
+Bérlői fiókjában nincs mobileszköz-kezelés (MDM): az Intune szolgáltatással regisztrált eszközök. Ha a Intune MDM keresztül szeretne az eszközöket regisztrálni és kezelni, kérjük, olvassa el a kívánt platformhoz [tartozó dokumentációt](https://docs.microsoft.com/intune/device-enrollment) . Ha harmadik féltől származó MDM vagy csak az App védelmi szolgáltatásait használja, nem lehet szükség. 

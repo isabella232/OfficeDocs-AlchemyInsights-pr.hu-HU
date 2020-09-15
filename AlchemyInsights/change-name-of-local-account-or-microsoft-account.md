@@ -5,67 +5,68 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: b59f55f9a94dd0bc9bbeb67face69bb489d158ce
-ms.sourcegitcommit: 9a35768444824cde9e192f1d9daafc9157437244
+ms.openlocfilehash: db13ecbe31b9bb0ca4a98b061619358c6c5edadd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42268614"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682792"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Helyi fiók vagy Microsoft-fiók nevének módosítása
 
-Ha csak egy felhasználónevet és egy jelszót használ a Windows 10-be való bejelentkezéshez, akkor helyi fiókot használ. 
+Ha csak egy felhasználónevet és jelszót használ a Windows 10 rendszerbe való bejelentkezéshez, helyi fiókot használ. 
 
-**Helyi fiók nevének módosítása:**
+**Helyi fiók nevének módosítása**:
 
-1. Kattintson a **Start** gombra, írja be a **Vezérlőpult**parancsot, és válassza a **Vezérlőpult** elemet az eredmények listájából.
+1. Kattintson a **Start** gombra, írja be a **Vezérlőpult**szót, **és válassza a Vezérlőpult elemet** a találatok listájából.
 
-2. Kattintson a **Felhasználói fiókok**, majd a **Fióktípus módosítása**parancsra.
+2. Kattintson a **felhasználói fiókok**elemre, majd **módosítsa a fiók típusát**.
 
 3. Jelölje ki a módosítani kívánt fiókot, kattintson a **Tulajdonságok**gombra, majd adjon meg egy új nevet a Felhasználónév számára.
 
 4. Kattintson az **OK** gombra.
 
-Ha e-mail címet és jelszót használ a bejelentkezéshez, microsoftos fiókot használ.
+Ha e-mail-címet és jelszót használ a bejelentkezéshez, Microsoft-fiókot használ.
 
-**A Microsoft-fiók megjelenítendő nevének módosítása:**
+**A Microsoft-fiók megjelenítendő nevének módosítása**:
 
-Amikor bejelentkezik a fiókjába, használja a megjelenítendő nevét. Ez az a név is, amelyet a Windows 10-es eszközökön lát, és ez az a név, amelyet az emberek látnak az e-mailek küldésekor. Ez a név eltérhet a helyi fiók megjelenítendő nevétől. A megjelenítendő név a következőképpen módosítható:
+A megjelenítendő nevet akkor használja, ha bejelentkezik a fiókjába. A név a Windows 10-es eszközökön is látható, és az e-mailek küldésekor az emberek név látható. Ez a név eltérhet a helyi fiók megjelenítendő nevétől. A megjelenítendő név módosítása:
 
-1. Jelentkezzen be az **Ön adatai** oldalra a [Microsoft-fiók webhelyén](https://account.microsoft.com/).
+1. Bejelentkezés a [Microsoft-fiók webhely](https://account.microsoft.com/) **adatok** lapjára.
 
-2. A név alatt kattintson a **Név szerkesztése**gombra. Ha még nincs név a listában, kattintson a **Név hozzáadása**gombra. 
+2. Kattintson a neve alatti **név szerkesztése**elemre. Ha még nincs felsorolva név, kattintson a **név hozzáadása**gombra. 
 
-3. Írja be a kívánt nevet, írja be a CAPTCHA nevet, és kattintson a **Mentés**gombra. Előfordulhat, hogy egyes nevek nem engedélyezettek, ha blokkolt szavakat vagy kifejezéseket tartalmaznak. Ha hibaüzenetet kap a név megadásakor, próbálkozzon inkább egy becenévvel.
+3. Írja be a kívánt nevet, írja be a CAPTCHA-nevet, és kattintson a **Mentés**gombra. Előfordulhat, hogy bizonyos neveket nem lehet engedélyezni, ha tiltott szavakat vagy kifejezéseket tartalmaz. Ha a név beírásakor hibaüzenet jelenik meg, próbálkozzon inkább a felhasználónévvel.
 
-4. Ha a megjelenítendő név nem változik azonnal, vagy ha a régi név még mindig megjelenik az e-mailekben, előfordulhat, hogy az adatok gyorsítótárazódnak. Ha gyorsan szeretné frissíteni a nevet, váltson át a helyi fiókjára, majd [jelentkezzen be újra a Microsoft-fiókjába.](https://account.microsoft.com/)
+4. Ha a megjelenítendő név nem változik meg azonnal, vagy ha a régi név továbbra is látható az e-mailekben, előfordulhat, hogy gyorsítótárazni kell az adatokat. Ha gyorsan szeretné letölteni a nevet, váltson a helyi fiókra, majd a [Microsoft-fiókjába](https://account.microsoft.com/).
 
-A megjelenítendő név nem változtatja meg a becenevét. Ha új becenevét szeretné, olvassa el [az Xbox-becenév módosítása](https://support.xbox.com/id-ID/account-management/change-xbox-live-gamertag)című témakört.
+A megjelenítendő név nem változtatja meg a becenevét. Ha új becenevet szeretne használni, olvassa el [az Xbox-becenév módosítása](https://support.xbox.com/id-ID/account-management/change-xbox-live-gamertag)című témakört.
 
-**A rendszergazda nevének módosítása:**
+**A rendszergazda nevének megváltoztatása**:
 
-1. A tálca keresőmezőjébe írja be a **Számítógép-kezelés** kifejezést, és jelölje ki a listából.
+1. A tálcán található keresőmezőbe írja be a számítógép- **kezelés** kifejezést, és jelölje ki a listából.
 
-2. Bontsa ki a **Helyi felhasználók és csoportok** gomb melletti nyílra. Kattintson a **Felhasználók gombra.**
+2. Kattintson a **helyi felhasználók és csoportok** elem melletti nyílra a kibontáshoz. Kattintson a **felhasználók**elemre.
 
-3. Kattintson a jobb gombbal a **Rendszergazda** elemre, majd kattintson az **Átnevezés parancsra.**
+3. Kattintson a jobb gombbal a **rendszergazda** elemre, és válassza az **Átnevezés**parancsot.
 
-4. Írjon be egy új nevet. Ne feledje, hogy a név módosításához rendszergazdának kell lennie.
+4. Írjon be egy új nevet. Fontos tudni, hogy a név módosításához a rendszergazdának kell lennie.
 
-**Íme néhány további hasznos dolog, amit a Microsoft-fiókjában módosíthat:**
+A **Microsoft-fiókjában a következő hasznos dolgokat lehet módosítani**:
 
-- [Mely e-mail címek segítségével jelentkezhet be A Microsoft-fiókjába](https://support.microsoft.com/help/4026162)
+- [A Microsoft-fiókba való bejelentkezéshez használható e-mail-címek](https://support.microsoft.com/help/4026162)
 
-- [Mely e-mail címek segítségével küldhet e-maileket](https://support.microsoft.com/help/12407) (aliasok hozzáadásával és kezelésével a Microsoft-fiókjában)
+- [Milyen e-mail-címeket használhat az e-mailek küldéséhez](https://support.microsoft.com/help/12407) (aliasok hozzáadásával és kezelésével a Microsoft-fiókjában)
 
-- [A Születési dátum a Microsoft-fiókjában](https://support.microsoft.com/help/12411)
+- [A születési dátum a Microsoft-fiókban](https://support.microsoft.com/help/12411)
 
-- [A Microsoft-fiók képe](https://support.microsoft.com/help/4026790)
+- [Microsoft-fiókja képe](https://support.microsoft.com/help/4026790)
 
 [További segítség a Microsoft-fiók beállításához és kezeléséhez](https://support.microsoft.com/hub/4294457/microsoft-account-help#manage-account)

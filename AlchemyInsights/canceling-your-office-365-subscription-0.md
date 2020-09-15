@@ -1,11 +1,12 @@
 ---
-title: Törli a Microsoft 365-előfizetését?
+title: Lemondja a Microsoft 365-előfizetését?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: d506cec4af65d88eb3cb3458af9dc3d00bde5f43
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b518c01129e11f08bf7f4b1017a5c50f099edc1a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508270"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683188"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Törli a Microsoft 365-előfizetését?
+# <a name="canceling-your-microsoft-365-subscription"></a>Lemondja a Microsoft 365-előfizetését?
 
 Sajnáljuk, hogy elmész!
   
-A szervezeti adatok alapján úgy véljük, hogy az összes jelenlegi előfizetése kevesebb mint 25 hellyel rendelkezik. Az előfizetés online lemondásához nyissa meg a **Termékek számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapot. A **Beállítások & műveletek csoportban** válassza **az Előfizetés lemondása**lehetőséget.
+A szervezet adatainak alapján úgy véljük, hogy az összes meglévő előfizetése 25 ülőhelynél kevesebb. Az előfizetés online állapotának megszüntetéséhez lépjen a **termékek számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra. A **beállítások & műveletek** csoportban válassza az **előfizetés törlése**lehetőséget.
   
-**Visszatérítés: Minden arányos kreditet visszaküldünk Önnek a következő számlázási cikluson belül.** 
+**Visszatérítés: bármely kiértékelt jóváírást a következő számlázási ciklusban kapja vissza.** 
 
-**Megjegyzés:** Ha nem látja a lemondás lehetőségét, kattintson az előfizetésre a részletek megtekintéséhez, és meg kell jelennie az **Előfizetés lemondása** lehetőségnek a **Beállítások & műveletek ben.** 
+**Megjegyzés**: Ha nem látható a lemondás gomb, az előfizetésre kattintva megtekintheti a részleteket, és az **előfizetés törlése** lehetőségre kattintva megtekintheti a **Beállítások & műveleteket**. 
 
-További információ: [Előfizetés lemondása.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) 
+További információt az [előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)című témakörben talál. 
