@@ -1,29 +1,30 @@
 ---
-title: Felhasználók hozzáadása, eltávolítása vagy annak megakadályozása, hogy a felhasználók módosítsák a profilképeket
+title: Felhasználók hozzáadása, eltávolítása és letiltása a profil fényképének módosításával
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44061998"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687796"
 ---
-# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Felhasználók hozzáadása, eltávolítása vagy annak megakadályozása, hogy a felhasználók módosítsák a profilképeket
+# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Felhasználók hozzáadása, eltávolítása és letiltása a profil fényképének módosításával
 
-- **Profilfotók hozzáadása:** A microsoft [365 felügyeleti központ, az aktív felhasználók](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) vagy az [Azure Active Directory felhasználói kezelése](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)szolgáltatás rendszergazdája is hozzáadhat profilfotókat.  Ha nem látja a "Fénykép módosítása" lehetőséget, győződjön meg arról, hogy a felhasználóhoz licenc van hozzárendelve. A felhasználók a felhasználói profiljukban bármely Microsoft 365 szolgáltatásból hozzáadhatnak vagy módosíthatók, ha a képernyő jobb felső részén lévő monogramjukra / fényképükre kattintanak. A profilfotó hozzáadásáról a [Profilfotó hozzáadása a Microsoft 365-höz](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)című témakörben talál további információt.
+- **Profilos fényképek hozzáadása:** A [Microsoft 365 felügyeleti központjának, az aktív felhasználóknak](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) vagy az  [Azure Active Directory Felhasználókezelő webkezelési](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)funkciói a rendszergazda által felvehetők.  Ha nem látható a "fénykép módosítása" lehetőség, győződjön meg arról, hogy a felhasználóhoz licenc van rendelve. A képeket a képernyő jobb felső sarkában lévő monogramja/fényképe segítségével hozzáadhatja vagy módosíthatja bármely Microsoft 365-szolgáltatás felhasználói profiljában. A profilokkal kapcsolatos fényképek hozzáadásáról további információt a [saját profilú Fénykép felvétele a Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)című témakörben talál.
 
-- **Profilfotók eltávolítása:** A profilfotókat eltávolíthatja egy rendszergazda az [Azure Active Directory felhasználói kezelése,](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) vagy egy felhasználó a Microsoft Teams felhasználói profil.
+- **Profil fényképek eltávolítása:** A profil képeit az [Azure Active Directory Felhasználókezelő](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) vagy a Microsoft Teams felhasználói profiljainak felhasználója eltávolíthatja.
 
-- **Profilfotók változásainak blokkolása:** A microsoft 365* összes fotómódosítása letiltható az Outlook Web App irányelveinek hozzáadásával a cikkben, a Fényképek zárolása vagy a [Microsoft 365 profilfotó módosítására vonatkozó engedélyek korlátozása](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- A **profil fényképének módosításainak letiltása:** A fénykép módosításait letilthatja az összes Microsoft 365 *-ban, ha az Outlook Web App-házirendet egy cikkhez adja hozzá, [zárolja a fényképeket vagy korlátozhatja a Microsoft 365-profil fényképének módosítására vonatkozó engedélyeket](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
-*Kérjük, vegye figyelembe, hogy a Microsoft Teams jelenleg nem támogatja az Outlook Web App irányelveit a fényképek módosításának letiltására, de 2020 elején tervezi a funkció támogatását.
+* Felhívjuk a figyelmét arra, hogy a Microsoft Teams jelenleg nem támogatja az Outlook Web App-házirendet a fénykép módosításainak blokkolására, de a funkció támogatásának megtervezése az 2020 korai verziójában.

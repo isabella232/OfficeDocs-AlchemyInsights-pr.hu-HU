@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 89556c12ce22c16b30162c5e61a3ef57aceba82d
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 439b18c025d4ef8defccece24557493fce4af8cd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959567"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688516"
 ---
 # <a name="add-a-password-to-a-word-document"></a>Jelszó hozzáadása Word-dokumentumhoz
 
-1. Megy **reszelő** > **értesít** > **megvéd dokumentum** > **beavatkozik-val jelszó**.
-2. Írja be a használni kívánt jelszót, majd kattintson az **OK gombra**.
-3. Írja be újra a jelszót, majd kattintson **az OK gombra**.
+1. Nyissa meg a **fájl**  >  **információit**  >  **Protect Document**  >  **, és jelszóval titkosítja a**dokumentumot.
+2. Adja meg a használni kívánt jelszót, majd válassza az **OK gombot**.
+3. Adja meg újra a jelszót, majd válassza **az OK gombot**.

@@ -1,10 +1,11 @@
 ---
-title: Előfizetés vásárlása a Microsoft 365 vállalati verzióra az ingyenes próbaverzióból
+title: Microsoft 365 vállalati verziós Előfizetés vásárlása az ingyenes próbaverzióból
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,30 +13,30 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 40a09fdaa3b2218fc2dfacb10216f27d6440bd67
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f5954693866b18698807c34c77b6265701dbb4e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506265"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684988"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Microsoft 365-előfizetés vásárlása ingyenes próbaverzióból
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Microsoft 365-előfizetés vásárlása az ingyenes próbaverzióból
 
-Kipróbálta a Microsoft 365-öt, és most már készen áll a vásárlásra. Ha a Microsoft 365-öt próbaverzióból vásárolja, két lehetősége van:
+Már próbálkozott a Microsoft 365, és most már készen is áll a vásárlásra. A Microsoft 365 próbaverziójának megvásárlásakor két lehetőség közül választhat:
   
  **A próbaverzióval megegyező csomag megvásárlása**
   
-1. A felügyeleti központban nyissa meg a **Termékek számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapot.
+1. A felügyeleti központban lépjen a termékek **számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra.
 
-2. Keresse meg a megvásárolni kívánt előfizetést. A **Licencek csoportban** válassza az **Előfizetés vásárlása**lehetőséget, és a kijelentkezéshez kövesse a lépéseket.
+2. Keresse meg azt az előfizetést, amelyet meg szeretne vásárolni. A **licencek** csoportban válassza az **Előfizetés vásárlása**lehetőséget, és kövesse a lépéseket a kivételhez.
 
-**Másik előfizetés vásárlása**
+**Másik Előfizetés vásárlása**
   
-1. A felügyeleti központban nyissa meg a **Számlázási** \> [beszerzési szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=868433) lapot.
+1. A felügyeleti központban nyissa meg a **Számlázási** \> [szolgáltatások vásárlása](https://go.microsoft.com/fwlink/p/?linkid=868433) lapot.
 
-3. Keresse meg a megvásárolni kívánt előfizetést, válassza **a Vásárlás**lehetőséget, és kövesse a kijelentkezéshez szükséges lépéseket.
+3. Keresse meg a megvásárolni kívánt előfizetést, válassza a **vásárlás**lehetőséget, és kövesse a lépéseket a kivételhez.
 
-További információ: [Előfizetés vásárlása a Microsoft 365 vállalati verzióra az ingyenes próbaverzióból](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
+További információt a [Microsoft 365 vállalati verzióra szóló előfizetés vásárlása az ingyenes próbaverzióból](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial)című témakörben talál.
 
 **Hibaelhárítás**
 
