@@ -1,11 +1,12 @@
 ---
-title: 1490-hibaelhárítás-elektronikus adatfeltárási hibák
+title: 1490-hibaelhárítás-eDiscovery-hibák
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,25 +14,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512556"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658952"
 ---
-# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="cf6e7-102">Tartalomkeresési hibák elhárítása</span><span class="sxs-lookup"><span data-stu-id="cf6e7-102">Troubleshoot Content Search errors</span></span>
+# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="e5afd-102">Tartalmi keresési hibák elhárítása</span><span class="sxs-lookup"><span data-stu-id="e5afd-102">Troubleshoot Content Search errors</span></span>
 
-<span data-ttu-id="cf6e7-103">Problémákat tapasztal a Tartalomkereséssel kapcsolatban, vagy hibákat tapasztal a keresési eredmények exportálásakor?</span><span class="sxs-lookup"><span data-stu-id="cf6e7-103">Are you experiencing problems with Content Search or getting failures when you export search results?</span></span>
+<span data-ttu-id="e5afd-103">Problémákat tapasztal a tartalmi kereséssel kapcsolatban, vagy problémákat tapasztal a keresési eredmények exportálásakor?</span><span class="sxs-lookup"><span data-stu-id="e5afd-103">Are you experiencing problems with Content Search or getting failures when you export search results?</span></span>
 
-<span data-ttu-id="cf6e7-104">Például a következőt kapja a keresések futtatásakor?</span><span class="sxs-lookup"><span data-stu-id="cf6e7-104">For example, are you receiving the following when running searches?</span></span>
+<span data-ttu-id="e5afd-104">A keresések futtatásakor például a következőket kapja meg?</span><span class="sxs-lookup"><span data-stu-id="e5afd-104">For example, are you receiving the following when running searches?</span></span>
 
-- <span data-ttu-id="cf6e7-105">CS008 vagy CS012 hibák</span><span class="sxs-lookup"><span data-stu-id="cf6e7-105">CS008 or CS012 errors</span></span>
+- <span data-ttu-id="e5afd-105">CS008 vagy CS012 hibák</span><span class="sxs-lookup"><span data-stu-id="e5afd-105">CS008 or CS012 errors</span></span>
 
-- <span data-ttu-id="cf6e7-106">Kiszolgáló foglaltsági/időkimenő hibái</span><span class="sxs-lookup"><span data-stu-id="cf6e7-106">Server busy/timeout errors</span></span>
+- <span data-ttu-id="e5afd-106">A kiszolgáló foglalt/időtúllépési hibája</span><span class="sxs-lookup"><span data-stu-id="e5afd-106">Server busy/timeout errors</span></span>
 
-- <span data-ttu-id="cf6e7-107">Alkalmazáshiba történt</span><span class="sxs-lookup"><span data-stu-id="cf6e7-107">Application error occurred</span></span>
+- <span data-ttu-id="e5afd-107">Alkalmazási hiba történt</span><span class="sxs-lookup"><span data-stu-id="e5afd-107">Application error occurred</span></span>
 
-<span data-ttu-id="cf6e7-108">Vagy amikor nagyszámú (több mint 100 000 postaládából) származó találatot keres vagy exportál, exportálási hibákat kap?</span><span class="sxs-lookup"><span data-stu-id="cf6e7-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
+<span data-ttu-id="e5afd-108">Vagy ha nagy számú postaládából keres vagy exportál találatokat (több mint 100 000-postaládában), az exportálási hibákat kapja?</span><span class="sxs-lookup"><span data-stu-id="e5afd-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
 
-<span data-ttu-id="cf6e7-109">Az ilyen típusú hibák esetében próbálkozzon újra a sikertelen tartalomhelyek keresésével.</span><span class="sxs-lookup"><span data-stu-id="cf6e7-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="cf6e7-110">További információt ebben a [cikkben](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) talál.</span><span class="sxs-lookup"><span data-stu-id="cf6e7-110">See  [this article](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) for more information.</span></span>
+<span data-ttu-id="e5afd-109">Az ilyen típusú hibák esetén próbálkozzon a sikertelenül megjelenő tartalmi helyek keresésével.</span><span class="sxs-lookup"><span data-stu-id="e5afd-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="e5afd-110">További információt  [ebben a cikkben](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) talál.</span><span class="sxs-lookup"><span data-stu-id="e5afd-110">See  [this article](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) for more information.</span></span>

@@ -1,33 +1,34 @@
 ---
-title: Olvasási visszaigazolások a Webes Outlookban
+title: Olvasási visszaigazolások a webes Outlookban
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000034"
 - "2470"
-ms.openlocfilehash: 3d068a3be12828022cf58a71d114dbabe0978547
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 04f745987f9136412d3b0183520681d1e724faba
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768305"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662543"
 ---
-# <a name="read-receipts"></a><span data-ttu-id="7c983-102">Olvasási visszaigazolások</span><span class="sxs-lookup"><span data-stu-id="7c983-102">Read receipts</span></span>
+# <a name="read-receipts"></a><span data-ttu-id="23291-102">Olvasási visszaigazolások</span><span class="sxs-lookup"><span data-stu-id="23291-102">Read receipts</span></span>
 
-<span data-ttu-id="7c983-103">Olvasási visszaigazolás vagy kézbesítési visszaigazolás kérése a Webes Outlookban:</span><span class="sxs-lookup"><span data-stu-id="7c983-103">To request a read receipt or a delivery receipt for your message in Outlook on the web:</span></span>
+<span data-ttu-id="23291-103">Olvasási visszaigazolás vagy kézbesítési Visszaigazolás kérése az üzenethez a webes Outlookban:</span><span class="sxs-lookup"><span data-stu-id="23291-103">To request a read receipt or a delivery receipt for your message in Outlook on the web:</span></span>
 
-1. <span data-ttu-id="7c983-104">A három egyes ásó</span><span class="sxs-lookup"><span data-stu-id="7c983-104">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- <span data-ttu-id="7c983-105">az üzenetösszeállítás ablaktábla tetején.</span><span class="sxs-lookup"><span data-stu-id="7c983-105">at the top of the message compose pane.</span></span>
-1. <span data-ttu-id="7c983-106">Válassza **az Üzenet beállításainak megjelenítése lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="7c983-106">Select **Show message options**.</span></span>
-1. <span data-ttu-id="7c983-107">Válassza **az Olvasási visszaigazolás kérése** vagy a **Kézbesítési visszaigazolás kérése**vagy mindkettő lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="7c983-107">Select **Request a read receipt** or **Request a delivery receipt**, or both.</span></span>
+1. <span data-ttu-id="23291-104">Három pont kijelölése</span><span class="sxs-lookup"><span data-stu-id="23291-104">Select the three dots</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ <span data-ttu-id="23291-105">az üzenet írása ablaktábla tetején.</span><span class="sxs-lookup"><span data-stu-id="23291-105">at the top of the message compose pane.</span></span>
+1. <span data-ttu-id="23291-106">Válassza az **Üzenetbeállítások megjelenítése lehetőséget**.</span><span class="sxs-lookup"><span data-stu-id="23291-106">Select **Show message options**.</span></span>
+1. <span data-ttu-id="23291-107">Válassza **az olvasási visszaigazolás kérése** vagy **a kézbesítési Visszaigazolás kérése**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="23291-107">Select **Request a read receipt** or **Request a delivery receipt**, or both.</span></span>
 
-<span data-ttu-id="7c983-108">Annak kiválasztásához, hogy az Outlook hogyan reagáljon az olvasási visszaigazolási kérelmekre, nyissa meg a</span><span class="sxs-lookup"><span data-stu-id="7c983-108">To choose how Outlook responds to read receipt requests, go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="7c983-109">**Beállítások** > **Az Összes Outlook-beállítás** > megtekintése**Üzenetkezelés**.</span><span class="sxs-lookup"><span data-stu-id="7c983-109">**Settings** > **View all Outlook settings** > **Message handling**.</span></span>
+<span data-ttu-id="23291-108">Ha meg szeretné adni, hogy az Outlook hogyan válaszoljon az olvasási visszaigazolás-kérésekre, válassza a</span><span class="sxs-lookup"><span data-stu-id="23291-108">To choose how Outlook responds to read receipt requests, go to</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="23291-109">**Settings (beállítások**  >  ) **Az Outlook összes beállításának megtekintése**  >  **Üzenetek kezelése**</span><span class="sxs-lookup"><span data-stu-id="23291-109">**Settings** > **View all Outlook settings** > **Message handling**.</span></span>
 
-<span data-ttu-id="7c983-110">További információt a [Webes Outlook Olvasási visszaigazolásai című témakörben talál.](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157)</span><span class="sxs-lookup"><span data-stu-id="7c983-110">For more information, see [Read receipts in Outlook on the web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span></span>
+<span data-ttu-id="23291-110">További információt a [visszaigazolások olvasása a webes Outlookban](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="23291-110">For more information, see [Read receipts in Outlook on the web](https://support.office.com/article/e09af74d-3519-45fc-a680-37a538a92157).</span></span>
