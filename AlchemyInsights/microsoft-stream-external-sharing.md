@@ -1,27 +1,28 @@
 ---
-title: Microsoft Stream külső megosztás
+title: Külső megosztás a Microsoft streamben
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 74aa7e926604e62054100b8a99d62fe403dd3b16
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2d6831cfc8a35b8c7dc698ff57909fc024aa2691
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600530"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675228"
 ---
-# <a name="microsoft-stream-external-sharing"></a>Microsoft Stream külső megosztás
+# <a name="microsoft-stream-external-sharing"></a>Külső megosztás a Microsoft streamben
 
-A Microsoft Stream még nem támogatja a külső megosztási forgatókönyveket a vendégek vagy a szervezeten kívüli személyek számára. Tudjuk, hogy ezek a funkciók nagy szükség van, és dolgozunk a terveket, hogyan kell építeni ezeket a funkciókat.
+A Microsoft stream még nem támogatja a külső megosztási forgatókönyveket a szervezeten kívüli vendégek és személyek számára. Tudjuk, hogy ezek a funkciók nagyon szükségesek, és dolgozunk azon a terveken, amelyekkel kialakíthatja ezeket a funkciókat.
 
-- [Külső megosztás a streamben](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
+- [Külső megosztás az adatfolyamban](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [Videók megosztása a Microsoft Streamben](https://docs.microsoft.com/stream/portal-share-video)
+- [Videók megosztása a Microsoft streamben](https://docs.microsoft.com/stream/portal-share-video)

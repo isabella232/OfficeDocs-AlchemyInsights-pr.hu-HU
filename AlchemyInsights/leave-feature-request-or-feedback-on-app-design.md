@@ -1,35 +1,36 @@
 ---
-title: Funkciókérés vagy visszajelzés elhagyása az alkalmazástervezéssel kapcsolatosan
+title: Funkció kérése vagy visszajelzésének elhagyása az App tervezésében
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: a23f285d62915ab69c301390d800c1a91fd56a4a
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265177"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676524"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Funkciókérés vagy visszajelzés elhagyása az alkalmazástervezéssel kapcsolatosan
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Funkció kérése vagy visszajelzésének elhagyása az App tervezésében
 
-Nagyra értékeljük, hogy megosztja gondolatait, miközben tovább dolgozunk az Outlookon. *UserVoice* egy fórum, ahol lehet hagyni visszajelzést, és szavazzanak az ötleteket mások.  
+Nagyra értékeljük, hogy Ön hogyan osztja meg gondolatait, miközben továbbra is dolgozunk az Outlookban. A *UserVoice* egy fórum, ahol visszajelzést küldhet, és szavazhat mások elképzeléseiről.  
 
-Hogy hagyjon nekünk egy ötletet: 
+A következő lépésekkel hagyhat nekünk: 
 
-**Beállítások > súgó & visszajelzés > javaslat egy funkcióra > ötlet közzétételére** 
+**Beállítások > Súgó & visszajelzés > javasolt funkció >** 
 
-**Érdekel, hogy a neve / e-mail jelenik meg?**
+**Milyen módon jeleníti meg a nevét/e-mailjeit?**
 
-Amikor megjegyzést ad hozzá egy meglévő funkciókérelemhez, az alkalmazás automatikusan feltölti a nevét vagy az e-mail címét az alkalmazásban beállított elsődleges fiókból. Annak kiválasztásához, hogy milyen név jelenjen meg, **új** szolgáltatáskérelmet kell benyújtania. 
+Amikor megjegyzést ad hozzá egy meglévő szolgáltatás-kéréshez, az alkalmazás automatikusan feltölti a nevét vagy az e-mail-címét az alkalmazásban beállított elsődleges fiókból. A név megjelenítéséhez **új** szolgáltatási kérelmet kell beküldenie. 
 
-A kérelem elküldése egyszerű, háromlépésből álló folyamat. A harmadik és egyben utolsó oldalon megjelenik egy sor az e-mail címéhez (kötelező) és egy sor a nevéhez. Itt választhatja ki, hogyan jelenjen meg a neve, vagy névtelenül küldheti el az ötletet. 
+A kérés elküldése egyszerű, 3 lépésből álló folyamat. A harmadik és az utolsó oldalon megjelenik egy, az e-mail-cím (kötelező) és egy, a neve melletti vonalon. Itt választhatja ki, hogy hogyan jelenjen meg a neve, vagy névtelenül is elküldheti az ötletet. 
 
-**Megjegyzés:** Előfordulhat, hogy módosítania kell azt is, hogy milyen e-mail cím van automatikusan kitöltve ezen az oldalon. Ha a név az e-mail ügyfél beállításaiközött bizonyos módon van beállítva, a visszajelzések névtelenre való módosítását a beállítások felülbírálhatják. 
+**Megjegyzés:** Előfordulhat, hogy ezen a lapon módosítania kell az e-mail-cím automatikus kitöltését is. Ha a neve bizonyos módon van beállítva az e-mail-ügyfélprogram beállításai között, előfordulhat, hogy a névtelen visszajelzések módosítását felülírhatja a beállítások. 

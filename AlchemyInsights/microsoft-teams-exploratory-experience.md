@@ -1,27 +1,28 @@
 ---
-title: Microsoft Teams feltáró élmény
+title: A Microsoft Teams felderítő felülete
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
-ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
+ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612349"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674940"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams feltáró élmény
+# <a name="microsoft-teams-exploratory-experience"></a>A Microsoft Teams felderítő felülete
 
-A Microsoft Teams feltáró felülete lehetővé teszi, hogy a szervezet azon felhasználói, akik Rendelkeznek Az Azure Active Directoryval (AAD), és nem rendelkeznek licenccel a Teams számára, kezdeményezhetik a Teams feltáró élményét. A rendszergazdák be- és kikapcsolhatják ezt a funkciót a szervezetük felhasználói számára. (A korábbi Microsoft Commercial Cloud Trial mostantól a Teams Exploratory experience.)
+A Microsoft Teams felderítő felülete lehetővé teszi, hogy a szervezeten belüli felhasználók az Azure Active Directoryval (AAD) rendelkezzenek, és a Teams nem rendelkezik licenccel a Teams felhasználói számára. A rendszergazdák kapcsolhatják be vagy ki ezt a funkciót a szervezetük felhasználói számára. (A korábbi Microsoft kereskedelmi Felhőbeli próbaverziót most a Teams felderítő felületének nevezik.)
 
-A Microsoft Teams feltáró élménye a következő nagyvállalati szerződés évfordulójáig vagy 2021 januárjáig történő megújításáig további költségek nélkül elérhető. Ekkor a Microsoft Exploratory experience licenc végfelhasználóinak olyan fizetett licencre kell áthelyezniük, amely tartalmazza a Teamst.
+A Microsoft Teams felderítő felülete nem érhető el semmilyen további költségen, amíg a következő vállalati szerződési évfordulót vagy megújítást nem tart vagy a január 2021 után. Abban az időben a Microsoft feltáró-licencek végfelhasználói számára a csapatokat tartalmazó fizetős licencre kell lépnie.
 
-További információt a [Microsoft Teams feltáró licencének kezelése](https://docs.microsoft.com/microsoftteams/teams-exploratory/)című témakörben talál.
+További információért olvassa el [a Microsoft Teams-felderítő licenc kezelése](https://docs.microsoft.com/microsoftteams/teams-exploratory/)című témakört.

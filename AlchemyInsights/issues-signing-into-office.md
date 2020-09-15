@@ -1,38 +1,39 @@
 ---
-title: Problémák a Microsoft 365-alkalmazásokba való bejelentkezéssel kapcsolatban
+title: A Microsoft 365 alkalmazásba való bejelentkezéssel kapcsolatos problémák
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: e1fc48f367691b2f722b69d631d880c18f3504cb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579831"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676992"
 ---
-# <a name="issues-signing-into-microsoft-365-apps"></a>Problémák a Microsoft 365-alkalmazásokba való bejelentkezéssel kapcsolatban
+# <a name="issues-signing-into-microsoft-365-apps"></a>A Microsoft 365 alkalmazásba való bejelentkezéssel kapcsolatos problémák
 
-A Microsoft 365-alkalmazásokkal kapcsolatos bejelentkezési problémák megoldásához próbálkozzon az alábbi lehetőségekkel az érintett számítógépen:  
+A Microsoft 365-alkalmazások bejelentkezési problémáinak elhárításához próbálkozzon az alábbi lehetőségekkel az érintett gépen:  
 
-- Windows esetén olvassa el [a Gyakori bejelentkezési problémák megoldásához használt javaslatok című témakört.](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
-- Mac esetén [lásd: Nem lehet bejelentkezni egy Mac Office 2016-os alkalmazásba](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- Windows esetén lásd: [javaslatok a gyakori bejelentkezési problémák megoldására](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- Mac rendszer esetén olvassa el a [Sikertelen bejelentkezés a Mac Office 2016 alkalmazásba](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail) című témakört.
 
-**Megjegyzés:** A modern hitelesítés (ADAL) vagy a webfiók-kezelés (WAM) letiltása a bejelentkezési vagy aktiválási problémák kijavítására **nem ajánlott.** Ha a hibák a Microsoft 365-höz való Office 2013-as verzióval való csatlakozásközben fordulnak elő, győződjön meg arról, hogy engedélyezi a [modern hitelesítést](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) az Office-ügyfélszámára.
+**Megjegyzés:** A modern hitelesítés (ADAL) vagy a webfiók-kezelés (WAM) letiltása a bejelentkezési és aktiválási hibák elhárítása érdekében  **nem ajánlott**. Ha az Office 2013 segítségével a Microsoft 365-hoz való csatlakozáskor hibák történnek, gondoskodjon arról, hogy az Office-ügyfélprogram [modern hitelesítést engedélyezzen](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  .
 
-A konkrét hibaelhárítási műveletekről az:
+Konkrét hibaelhárítási műveletekért olvassa el az alábbiakat:
 
 [Csatlakozási problémák az Office 2016 16.0.7967-es frissítése utáni bejelentkezéskor Windows 10-en](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
 
-[Nem tud bejelentkezni a szervezeti fiókjába, például az Office 365-be, az Azure-ba vagy az Intune-ba](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+[Nem tud bejelentkezhetni a szervezeti fiókjába, például az Office 365, az Azure vagy a Intune szolgáltatásba.](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
 
-[Az Office 365-be, az Azure-ba vagy az Intune-ba nem bejelentkező nem böngészős alkalmazások hibaelhárítása](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+[Az Office 365, Azure vagy Intune szolgáltatásba nem bejelentkező nem böngészős alkalmazások hibaelhárítása](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
 
-[Ismételten kéri a hitelesítő adatokat az Office-ban](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
+[A hitelesítő adatok ismételt kérése az Office-ban](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
