@@ -1,11 +1,12 @@
 ---
-title: 127 TenantAccessBlockedException hibaüzenetet kap az e-mailek elérésekor?
+title: az 127 TenantAccessBlockedException-hibaüzenetet kap az e-mailek elérésekor?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062214"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706597"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>TenantAccessBlockedException hibaüzenetet kap az e-mailek elérésekor?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>TenantAccessBlockedException-hiba jelenik meg az e-mailek elérésekor?
 
-Több oka is lehet annak, hogy miért jelenik meg ez a hiba. Például:
+Néhány különböző oka lehet annak, hogy miért jelenik meg ez a hiba. Például:
 
-- Ellenőrizze, hogy előfizetése érvényes-e a Microsoft 365 Felügyeleti központ **Termékek számlázása** \> **[Your products](https://portal.office.com/adminportal/home#/subscriptions)** lapján.
+- Ellenőrizze, hogy az előfizetése érvényes-e a termékek **számlázása** \> **[Your products](https://portal.office.com/adminportal/home#/subscriptions)** lapon a Microsoft 365 felügyeleti központban.
 
-- Ellenőrizze, hogy vannak-e **késedelmes** értesítések a \> Számlázási számlák & **[fizetések](https://portal.office.com/adminportal/home#/billoverview)** lapon a Microsoft 365 Felügyeleti központban.
+- A **Billing** \> Microsoft 365 felügyeleti központjának számlázási **[számláit & fizetések](https://portal.office.com/adminportal/home#/billoverview)** lapján ellenőrizze az esetleges múltbeli értesítést.
 
-- Ha a fiók számlázása és előfizetései a közelmúltban frissültek, időbe telhet, amíg a módosítások propagálása megtörténik. Próbálkozzon újra néhány perc múlva, és ha a probléma továbbra is fennáll, lépjen kapcsolatba velünk.
+- Ha a fiókjához tartozó számlázást és előfizetést nemrégiben frissítette, a módosítások propagálása hosszabb időt vehet igénybe. Próbálkozzon újra néhány perc múlva, és ha a probléma továbbra is fennáll, vegye fel velünk a kapcsolatfelvételt.
