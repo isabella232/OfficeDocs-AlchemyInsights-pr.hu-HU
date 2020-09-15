@@ -1,21 +1,22 @@
 ---
-title: 400 naptár – foglaltság
+title: 400-naptár – Foglaltsági adatok
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: b708df774bbcb71a5ba8051fb857bcdd4ca99a0c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3faffd09202bc45b4ba8ad59831882d2e7c8c133
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711849"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684052"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="d9ab8-102">Problémák a naptár elfoglaltsági adatainak megtekintésével kapcsolatban</span><span class="sxs-lookup"><span data-stu-id="d9ab8-102">Issues seeing calendar free/busy information</span></span>
+# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="2d9ca-102">A naptár elfoglaltsági adatait ismertető problémák</span><span class="sxs-lookup"><span data-stu-id="2d9ca-102">Issues seeing calendar free/busy information</span></span>
 
-<span data-ttu-id="d9ab8-103">Ha más Outlook-naptárokban nem láthatók a naptár elfoglaltsági adatai, vagy ha mások nem látják az elfoglaltsági adatokat a naptárban, használja a [Microsoft Microsoft 365 támogatási és helyreállítási segédjét.](https://diagnostics.office.com/)</span><span class="sxs-lookup"><span data-stu-id="d9ab8-103">If you can't see calendar free/busy information in other Outlook calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Microsoft 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="2d9ca-103">Ha nem láthatók a naptár elfoglaltsági adatai a többi Outlook-naptárban, vagy ha más személyek nem látják a foglaltsági adatokat a naptárban, használja a Microsoft [365-as Microsoft támogatási és helyreállítási Segédet](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="2d9ca-103">If you can't see calendar free/busy information in other Outlook calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Microsoft 365](https://diagnostics.office.com/).</span></span>
