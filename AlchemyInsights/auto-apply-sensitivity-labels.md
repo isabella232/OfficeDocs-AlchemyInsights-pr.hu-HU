@@ -1,40 +1,40 @@
 ---
-title: Érzékenységi címkék automatikus alkalmazása
+title: Tartalmi címkék automatikus alkalmazása
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: f1305fd8af3289f3543d2a596937089195e2495c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508450"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715167"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Érzékenységi címkék automatikus alkalmazása
+# <a name="auto-apply-sensitivity-labels"></a>Tartalmi címkék automatikus alkalmazása
 
-Az érzékenységi címkéket manuálisan is alkalmazhatják a felhasználók a tartalomra, vagy beállíthatja, hogy automatikusan a tartalomra legyenek alkalmazva.
+A tartalmi címkék manuálisan is alkalmazhatók a tartalomra a felhasználók számára, vagy beállíthatja, hogy a program automatikusan alkalmazza őket a tartalomra.
 
-Az érzékenységi címkék automatikus alkalmazásával nem kell betanítani a felhasználókat a tartalom besorolásának módjára, és értesíteni kell őket a házirend-konfigurációkról.
+A tartalmi címkék automatikus alkalmazása eltávolítja a felhasználókat arra, hogy miként osztályozhatja a tartalmakat, és hogyan kell azokat értesítenie a házirend-konfigurációról.
 
-A címkék automatikus alkalmazásához a következő:
+Ha a címkéket automatikusan szeretné alkalmazni, az alábbiakra van szükség:
 
-- Azure Information Protection P2 előfizetés
-- [Az Azure Information Protection egyesített címkézési ügyfél letöltése és telepítése](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure Information Protection (P2) előfizetés
+- [Az Azure Information Protection egységes feliratozási ügyfélprogram letöltése és telepítése](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Olyan natív támogatáson dolgozunk, amely a jövőben nem igényel egységes encikett címkézési ügyfelet az Azure Information Protection egységes címkézési ügyfélszámára.
+Olyan natív támogatásról dolgozunk, amely nem igényli az Azure Information Protectiont az egységes címkézési ügyfélprogram jövőjéről.
 
-Jelenleg csak a Windows támogatja az egyesített címkézési ügyfelet.  A funkció még nem támogatott Mac, iOS és Android rendszeren.
+Jelenleg csak a Windows támogatja az egységes címkézési ügyfélprogramot.  A funkció még nem támogatott Mac, iOS és Android rendszeren.
 
-Az érzékenységi címkékről és azok automatikus tartalomra való alkalmazásáról az:
+Az érzékenységi címkékről és az automatikus tartalomra való alkalmazásáról további információt a következő témakörökben talál:
 
-- [Az érzékenységi címkék áttekintése](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Érzékenységi címke automatikus alkalmazása a tartalomra](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [A tartalmi címkék áttekintése](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- [Tartalmi címke automatikus alkalmazása a tartalomra](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

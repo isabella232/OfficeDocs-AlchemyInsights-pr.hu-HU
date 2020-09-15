@@ -5,33 +5,34 @@ author: msdmaguire
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 68aefd820c681a9022828f67655e1c843692a30e
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: a2a902e8fdfd8628772364c173979c633d25a169
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059774"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714249"
 ---
 # <a name="changing-public-folder-permissions"></a>Nyilvános mappa engedélyeinek módosítása
 
-A nyilvános mappák engedélyeit az Outlook felhasználói és rendszergazdái módosíthatják. A rendszergazdák az Exchange Felügyeleti központból (EAC) is szabályozhatják az engedélyeket az alábbi módon:
+A nyilvános mappák engedélyei a felhasználók és a rendszergazdák által módosíthatók az Outlookban. A rendszergazdák az alábbi módon is szabályozhatják az engedélyeket az Exchange felügyeleti központból (EAC):
   
-1. A Microsoft 365 Felügyeleti központban nyissa meg az **Exchange** **felügyeleti központok at.** \>
+1. A Microsoft 365 felügyeleti központban nyissa meg a **felügyeleti központok** \> **Exchange**-et.
 
-2. Válassza **a Nyilvános mappák lehetőséget.**
+2. Válassza a **nyilvános mappák**lehetőséget.
 
-3. Itt módosíthatja az egyes nyilvános mappák engedélyeit, ha biztonsági csoportokat rendel az engedélyekhez. Ahhoz, hogy a végfelhasználó módosítson a nyilvános mappa engedélyeit, a felhasználónak tulajdonosi jogokkal kell rendelkeznie a mappában.
+3. Itt módosíthatja az egyes nyilvános mappák engedélyeit úgy, hogy a biztonsági csoportokat hozzárendeli az engedélyekhez. Ahhoz, hogy egy végfelhasználó módosítsa a nyilvános mappa engedélyeit, a felhasználónak rendelkeznie kell a mappára vonatkozó tulajdonosi jogosultságokkal.
 
-Kérjük, kövesse a [Nyilvános mappák engedélyével kapcsolatos problémák diagnosztizálása és javítása](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) című témakörben leírt eljárást a nyilvános mappák engedélyével kapcsolatos problémák elhárításához.
+A nyilvános mappa engedélyeinek elhárítása című témakörben ismertetett lépéseket követve [diagnosztizálhatja és elháríthatja a nyilvános mappákkal kapcsolatos engedélyeket](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) .
 
-**Megjegyzés:** Számos ismert probléma merülhet fel, amikor megpróbálja módosítani a nyilvános mappák engedélyeit. További információt az alábbi cikkekben talál.
+**Megjegyzés**: számos ismert probléma merülhet fel a nyilvános mappák engedélyeinek módosításakor. További információt az alábbi cikkekben találhat.
 
-- [Nem lehet engedélyeket alkalmazni a nyilvános mappa almappáira az EAC-ben](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+- [Nem lehet engedélyeket alkalmazni a nyilvános mappák almappáira az EAC-ban](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
 
-- ["A postaláda nem található a helyi erdőben" hibaüzenet jelenik meg a nyilvános mappák elérésekor](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+- ["A postaláda nem található meg a helyi erdőben" hibaüzenet jelenik meg a nyilvános mappák elérése során](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
