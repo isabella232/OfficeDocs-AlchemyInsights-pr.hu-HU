@@ -5,28 +5,29 @@ author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 7c2ae754c86a3502092b622c55d18f3f4006bf8b
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 570284765f32212b4ef2062db5b70f427b28c121
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582237"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692045"
 ---
 # <a name="restore-a-deleted-site"></a>Törölt webhely visszaállítása
 
-Amikor egy rendszergazda töröl egy SharePoint-webhelyet, az a Lomtárwebhely-csoportban kerül elhelyezésre, ahol 93 napig őrzi a rendszer, mielőtt véglegesen törölné. A hely visszaállítása:
+Ha egy rendszergazda töröl egy SharePoint-webhelyet, az a webhelycsoport – Lomtár mappában található, ahol az 93-ös napok a végleges törlés előtt maradnak. A webhely visszaállítása:
   
-1. Az új SharePoint Felügyeleti központban kattintson a menüszalag **Lomtár** gombjára. 
+1. Az új SharePoint felügyeleti központban kattintson a **Lomtár** elemre a menüszalagon. 
     
 2. Jelölje be a visszaállítani kívánt webhelycsoport melletti jelölőnégyzetet.
     
-3. Kattintson **a Törölt elemek visszaállítása gombra.**
+3. Kattintson a **törölt elemek visszaállítása**gombra.
     
-Törölt kommunikációs webhely visszaállításához használja az új SharePoint Felügyeleti központot. Ellenkező esetben a Microsoft PowerShell t kell használnia. A Microsoft 365 csoporthoz tartozó hely visszaállításához vissza kell állítania a csoportot az Exchange Felügyeleti központban. A csoportok a törlésük után 30 napig visszaállíthatók.
+Ha vissza szeretne állítani egy törölt kommunikációs webhelyet, használhatja az új SharePoint felügyeleti központot. Egyéb esetben a Microsoft PowerShellt kell használnia. Ha vissza szeretne állítani egy Microsoft 365-csoportba tartozó webhelyet, vissza kell állítania a csoportot az Exchange felügyeleti központban. A csoportok a törlésük után 30 napig visszaállíthatók.
   
 

@@ -6,21 +6,22 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: 21d34bb8a1c2139cdc4ccbdda62a07c65b6b0a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724916"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693233"
 ---
 # <a name="recent-data-exposure"></a>Legutóbbi adatexpozíció
 
-A Microsoftot egy külső kutató tudatta azzal, hogy a microsoftos támogatási adatokat tároló adatbázis hitelesítés nélkül elérhető. 2019. december 31-én a Microsoft biztosította az adatbázist.
+A Microsoft értesült egy külső gyártótól, amely szerint a Microsoft támogatási adatainak kivonására szolgáló adatbázis hitelesítés nélkül is elérhető volt. December 31-én az 2019 a Microsoft biztosította az adatbázist.
 
-Elkötelezettek vagyunk ügyfeleink adatainak védelme és biztonsága mellett, és lépéseket teszünk a probléma jövőbeni előfordulásának megelőzése érdekében. Megkezdtük az értesítéseket azoknak az ügyfeleknek, akiknek az adatai jelen voltak ebben a szerkesztett adatbázisban. További információkért kérjük, látogasson el [az Ügyfél-tudatossági információkra vonatkozóan, amelyek egy friss információs expozícióval kapcsolatosak.](https://aka.ms/privacyinfo)
+Elkötelezettek vagyunk ügyfeleink biztonsága és biztonsága érdekében, és intézkedéseket teszünk a probléma jövőbeli előfordulásának megelőzésére. Megkezdődött az olyan ügyfeleink értesítése, akiknek ebben a kitakart adatbázisban szerepelnek az adatai. További információért kérjük, hogy tekintse meg a [legutóbbi információkkal kapcsolatos](https://aka.ms/privacyinfo)információkat.

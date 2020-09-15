@@ -5,46 +5,47 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: d90baddd01bdf8508bd6289509c8399b8241887a
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738571"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690713"
 ---
-# <a name="troubleshoot-an-existing-monitor"></a>Meglévő monitorokkal kapcsolatos hibaelhárítás
+# <a name="troubleshoot-an-existing-monitor"></a>Meglévő monitor hibaelhárítása
 
-Próbálkozzon ezekkel a megoldásokkal a monitorokkal kapcsolatos hibák elhárításában. 
+Próbálkozzon ezekkel a megoldásokkal a monitor hibaelhárításához. 
 
-**Frissítse a monitor kijelzőját:**
+**A monitor megjelenítésének frissítése:**
 
-Nyomja meg a következő gombokat egyszerre: Windows billentyű + CTRL + SHIFT + B. Ezzel a program frissíti a grafikus illesztőprogrammal folytatott kommunikációt. -A oktatók akarat Pislogás egy pillanatra és visszajön után néhány második.
+Nyomja le a következő billentyűket egyszerre: Windows billentyű + CTRL + SHIFT + B. Ez frissíti a grafikus illesztőprogrammal folytatott kommunikációt. A monitorok egy pillanatra villognak, és néhány másodperc elteltével visszatérhetnek.
 
-**A figyelőhardver hibaelhárítása:**
+**Monitor hardverének hibaelhárítása:**
 
-1. Húzza ki a számítógéphez csatlakozó kábelt a monitorhoz, és dugja be újra.
-2. Válassza le a nem létfontosságú eszközöket a számítógépéről (például adapterekről vagy dokkról).
+1. Húzza ki a SZÁMÍTÓGÉPét a monitorhoz csatlakozó kábelt, és csatlakoztassa újra a monitorhoz.
+2. Húzzon le minden nem alapvető eszközt a SZÁMÍTÓGÉPRŐL (például adapterek vagy dokkok).
 
-**Ha nemrég telepített egy frissítést a számítógépen, visszaállíthatja a képernyő-illesztőprogramot:**
+**Ha nemrég telepített egy frissítést a SZÁMÍTÓGÉPére, visszaállíthatja a képernyő-illesztőprogramot:**
 
-1. Kiválaszt **elkezd**, típus **berendezés igazgató**, és kiválaszt **berendezés igazgató** -ból eredmények.
-2. Bontsa ki a **videokártyák** szakaszt, kattintson jobb gombbal a videokártyán, és válassza a **Tulajdonságok parancsot**.
-3. Hajózik-hoz **vezető** pánt és kiválaszt **zsemlye hát vezető**. <br>
-Megjegyzés: Ha ez nem érhető el, vagy ki van szürkítve, válassza a **nem** lehetőséget az alábbi lehetőségek közül a következő lépésre való lépéshez.
-4. Előfordulhat, hogy a változtatások érvénybe léptetéséhez újra kell indítania a számítógépet.
+1. Válassza a **Start**gombot, írja be az **Eszközkezelőt**, és az eredményből válassza az **Eszközkezelő** lehetőséget.
+2. Bontsa **ki a videokártyák** szakaszt, kattintson a jobb gombbal a videokártyához, ands válassza a **Tulajdonságok parancsot**.
+3. Lépjen az **illesztőprogram** lapra, és válassza az **illesztőprogram visszaállítása**lehetőséget. <br>
+Megjegyzés: Ha ez a funkció nem érhető el, vagy szürkén jelenik meg, válassza a **nem** lehetőséget az alábbi lehetőségek közül a következő lépésre való ugráshoz.
+4. Előfordulhat, hogy a módosítások életbe léptetéséhez újra kell indítania a GÉPET.
 
-**Távolítsa el, majd telepítse újra a képernyőillesztőt:**
+**A képernyő-illesztőprogram eltávolítása és újratelepítése:**
 
-1. Kiválaszt **elkezd**, típus **berendezés igazgató**, és kiválaszt **berendezés igazgató** -ból eredmények.
-2. Bontsa ki a **videokártyák** szakaszt, kattintson a jobb gombbal a videokártyát, és válassza az **Eltávolítás eszközt**. 
-3. Jelölje be az **eszközhöz tartozó illesztőprogramszoftver törlése** jelölőnégyzetet, majd válassza az **Eltávolítás**.<br>
-Megjegyzés: ebben a fázisban felkérhetik a számítógép újraindítását. Újraindítás előtt feltétlenül írja le a többi utasítást.
-4. Nyissa meg újra az Eszközkezelőt.
-5. Bontsa ki a **videokártyák** szakaszt, kattintson jobb gombbal a videokártyán, majd válassza az **Illesztőprogram frissítése**-t.
-6. Válassza az **illesztőprogram automatikus keresése** programot, és kövesse a telepítési utasításokat.
+1. Válassza a **Start**gombot, írja be az **Eszközkezelőt**, és az eredményből válassza az **Eszközkezelő** lehetőséget.
+2. Bontsa **ki a videokártyák** szakaszt, kattintson a jobb gombbal a videokártyához, ands válassza az **eszköz eltávolítása**parancsot. 
+3. Jelölje be az **eszközhöz tartozó illesztőprogram törlése** elem melletti jelölőnégyzetet, és válassza az **Eltávolítás**lehetőséget.<br>
+Megjegyzés: Előfordulhat, hogy a rendszer kéri a számítógép újraindítását ebben a fázisban. Mielőtt újraindul, ügyeljen rá, hogy írja le a fennmaradó utasításokat.
+4. Nyissa meg ismét az Eszközkezelőt.
+5. Bontsa **ki a videokártyák** szakaszt, kattintson a jobb gombbal a videokártyához, és válassza az **Illesztőprogram frissítése**parancsot.
+6. Válassza az **Illesztőprogram frissítése automatikus keresése** lehetőséget, és kövesse a telepítési útmutatót.
