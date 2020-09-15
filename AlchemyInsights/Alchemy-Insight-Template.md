@@ -6,35 +6,36 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
-ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
+ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/16/2020
-ms.locfileid: "44750972"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664136"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Szükséges Alkímia Fejléc H1, H2's nem működik."
-Gyakorlati tanácsok és irányelvek az alkímia iméniai szerkesztéshez:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"A kötelező alkímia fejléce, a H2's nem működik."
+Ajánlott eljárások és útmutatók az alkímia szerkesztéséhez:
 
-1. **Ne ágyazd be az Alchemy Insights-ot a mappákba**- ez megtöri az URL-struktúrát. Ezt meg akarjuk javítani.
-1. Az **AlchemyInsights** mappában lévő fájloknak kisbetűs fájlnevekkel kell rendelkezniük, kötőjelekkel az ex szóközökhöz. ***hogyan lehet engedélyezni a peres eljárásokat.***
-    1. Adja meg a szabályazonosítót vagy a gyűjtőazonosítót az [Alkímiapartner portálról](https://alchemyportal.azurewebsites.net) az ms.custom mezőben. Ex. ***ms.custom: 100021***
-1. Sablonként használja a fájl tetején lévő többi metaadatot.
-1. Az [Alkímia partner portálján](https://alchemyportal.azurewebsites.net)keresse le az **Ügyfél betekintési címe szakaszt,** és használja ezt a H1 cím kiindulópontjaként az elemzéshez. 
+1. Ne **ágyazza be az Alchemy**-elemzéseket a mappákba – Ez megtöri az URL-struktúrát. Ebben a cikkben keresünk.
+1. A **AlchemyInsights** mappában lévő fájloknak kisbetűs fájlnevet kell használniuk az ex szóköz billentyűkombinációval. ***útmutató – engedélyezés – peres eljárás***
+    1. Adja meg a szabály AZONOSÍTÓját vagy a vödör AZONOSÍTÓját az [Alchemy partner portálról](https://alchemyportal.azurewebsites.net) a MS. egyéni mezőben. ex. ***MS. Custom: 100021***
+1. Használja a fájl felső részén található metaadatokat sablonként.
+1. Az [Alchemy partner portálon](https://alchemyportal.azurewebsites.net)lépjen lefelé az **ügyfél-betekintési cím** mezőbe, és használja azt kiindulási pontként az Insight-címéhez. 
     > [!NOTE]
-    > Alchemy Insights kell csak egy H1 a tetején, vagy azok szünet a termelésben. A H2s nem teszi kitévá az okat, ezért **használjon félkövér** vagy más konvenciókat a különálló szakaszok jelzéséhez.
-1. Ezután töltse ki a törzsszöveget az Alkímiai szabály lap Customer Insights szakaszában található vázlat anyag használatával.
-    1. A listajeles listák rendben vannak
-    1. Számozott listák is
-    1. **Merész** és *dőlt* a-ok
-    1. Linkek mindig vagy **"linkeket web"/ külső** VAGY **mély-linkeket ui elemek**, nem belső linkek.
-    1. A képek hivatalosan nem támogatottak jelenleg, de az ütemtervben szerepelnek.
+    > Az alkímiai elemzéseknek csak egy H1-nek kell lenniük a tetején, vagy a termelésben szünetük lesz. A H2s nem jeleníti meg a **félkövér** vagy más konvenciókat, hogy külön szakaszt adjon meg.
+1. Ezután töltse ki a szövegtörzset az Alchemy szabály lapjának ügyfél-betekintési részén található anyag segítségével.
+    1. A listajeles felsorolások jól láthatók
+    1. Számozott listák
+    1. A **félkövér** és a *dőlt* a-ok
+    1. A hivatkozásoknak mindig a **"hivatkozások a webre"/External** kell lenniük, vagy **mély hivatkozásokat kell használniuk a felhasználóifelület-elemekre, nem pedig a**belső hivatkozásokra.
+    1. Jelenleg a képek jelenleg nem támogatottak, de az ütemterven van.
 
-És ez már így is egy kicsit túl hosszú. Az ajánlott eljárás körülbelül 400 karakter ---------------------------------
+És ez már egy kicsit túl hosszú. A helyes gyakorlat a 400 karakterekről szól---------------------------------
 
-Ha a tartalom készen áll, húzza ki az élő ágba. Ezután nyissa meg az [Alchemy Partner portált,](https://alchemyportal.azurewebsites.net) és írja be a fájlnevet az URL mezőbe. 
+Miután elkészült a tartalom, húzza azt az aktív ágra. Ezután nyissa meg az [Alchemy Partner portált](https://alchemyportal.azurewebsites.net) , és írja be a fájlnevet az URL-mezőbe. 

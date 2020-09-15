@@ -1,34 +1,35 @@
 ---
-title: Az Office 365 komplex veszélyforrások elleni védelem hibáinak elhárítása
+title: Az Office 365 Advanced Threat Protection – hibaelhárítás
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512592"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658916"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Az Office 365 komplex veszélyforrások elleni védelem hibáinak elhárítása
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Az Office 365 Advanced Threat Protection – hibaelhárítás
 
-- Késést észlel az üzenetek kézbesítésében? Használja a [dinamikus kézbesítés](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) i.use the Dynamic Delivery option in your ATP Safe Attachments policy. Ez segít elkerülni az üzenetek késleltetését, miközben megvédi a címzetteket a rosszindulatú fájloktól.
+- Tapasztal késedelmet az üzenet kézbesítésében? Használja a [dinamikus kézbesítési](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) lehetőséget az ATP Safe mellékletek házirendjében. Ez segít elkerülni az üzenetek késleltetését, miközben megvédi a címzetteket a kártékony fájlokból.
 
-- Hamis pozitív vagy hamis negatív értékeket szeretne jelenteni a Microsoftnak? Ezen a [hivatkozáson](https://www.microsoft.com/wdsi/filesubmission/) fájlokat küldhet elemzésre.
+- Hamis pozitív vagy hamis negatívokat szeretne jelenteni a Microsoftnak? Ezzel a [hivatkozással](https://www.microsoft.com/wdsi/filesubmission/) elküldhet fájlokat az elemzéshez.
 
-- Tudta, hogy engedélyezheti a biztonságos hivatkozások védelmét a szervezeten belüli címzettek között küldött belső e-mailek számára? Hajtsa végre az alábbi lépéseket:
+- Tudta, hogy a szervezeten belüli címzettek által küldött belső e-mailek biztonsága érdekében engedélyezheti a biztonságos hivatkozások védelmét? Hajtsa végre az alábbi lépéseket:
 
-  1. Lépjen a [https://protection.office.com](https://protection.office.com) globális rendszergazdai vagy biztonsági rendszergazdai fiókkal, és jelentkezzen be.
+  1. Lépjen [https://protection.office.com](https://protection.office.com) egy globális rendszergazdai vagy biztonsági rendszergazdai fiókjával, és lépjen be.
 
-  2. A **fenyegetéskezelés**csoport bal oldali navigációs ablakában válassza a **Policy** \> **Házirendbiztonságos hivatkozások lehetőséget.**
+  2. A bal oldali navigációs ablakban a **fenyegetések kezelése**csoportban válassza a **házirend** - \> **megbízható hivatkozások**lehetőséget.
 
-  3. A **teljes szervezetre vonatkozó házirendek** csoportban jelölje ki a házirendet, és kattintson a **Szerkesztés gombra.**
+  3. A teljes szervezet szakaszra vonatkozó **házirendekben** jelölje ki a házirendet, és kattintson a **Szerkesztés**gombra.
 
-  4. A **Beállítások csoportban**engedélyezze **a Biztonságos hivatkozások alkalmazása a szervezeten belül küldött üzenetekre.**
+  4. A **Beállítások**csoportban engedélyezze **a biztonságos hivatkozások alkalmazása a szervezeten belül küldött üzenetekre**lehetőséget.

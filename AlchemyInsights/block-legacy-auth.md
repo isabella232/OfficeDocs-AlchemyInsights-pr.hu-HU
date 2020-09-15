@@ -5,30 +5,31 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: e7bff5f9fcf6f2f2c77e93c2f27f585f2cc18bea
-ms.sourcegitcommit: 98231a228ecb2bf14ec3b96d4dd4ccf2507617a3
+ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43079262"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685600"
 ---
-# <a name="blocking-legacy-authentication"></a>Örökölt hitelesítés blokkolása
+# <a name="blocking-legacy-authentication"></a>Korábbi hitelesítés letiltása
 
-Az örökölt hitelesítés olyan kifejezés, amely a következő hitelesítési kérelemre hivatkozik:
+A örökölt hitelesítés olyan kifejezés, amely az alábbiak által végzett hitelesítési kérésre hivatkozik:
 
-- Régebbi Office-ügyfelek, amelyek nem használnak modern hitelesítést (például Office 2010-ügyfél).
+- Azok a régebbi Office-ügyfélprogramok, amelyek nem használják a modern hitelesítést (például az Office 2010 ügyfélprogramot).
 
-- Minden olyan ügyfél, amely örökölt leveli protokollokat használ, például IMAP/SMTP/POP3.
+- Bármely olyan ügyfél, amely régebbi levelezési protokollt (például IMAP/SMTP/POP3) használ.
 
-Az örökölt hitelesítés blokkolásával és a modern hitelesítés engedélyezésével kapcsolatos további információkért olvassa el [az örökölt hitelesítés blokkolása](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)című.
+A régi hitelesítés és a modern hitelesítés engedélyezéséről a [régi hitelesítés letiltása](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)című témakörben olvashat bővebben.
 
-Az Azure Active Directory (Azure AD) biztonsági beállításai megkönnyítik a biztonságot és a szervezet védelmét. A biztonsági alapértelmezések előre konfigurált biztonsági beállításokat tartalmaznak a gyakori támadásokhoz.
-A biztonsági alapértékekről a [Mik a biztonsági alapértelmezések?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) 
+Az Azure Active Directory biztonsági alapbeállításai (Azure AD) megkönnyítik a biztonság megőrzését, és segítséget nyújtanak a szervezet védelmében. A biztonsági alapértékek előre beállított biztonsági beállításokat tartalmaznak a gyakori támadások számára.
+Az alapértelmezett biztonsági beállításokról további információt a [biztonsági alapértékek?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)című témakörben talál. 
 
-**Megjegyzés:** Ha a bérlő2019. október 22-én vagy azt követően jött létre, lehetséges, hogy az új biztonságos alapértelmezett viselkedést tapasztalja, és már engedélyezve van a bérlőben a biztonsági alapértelmezések.  Annak érdekében, hogy megvédje az összes felhasználó, biztonsági alapértelmezett a rendszer gördült ki az összes új bérlő létrehozott.
+**Megjegyzés**: Ha a bérlői naptár október 22-én, 2019-ben lett létrehozva, akkor lehetséges, hogy az új, biztonságos működést tapasztalja, és már rendelkezik a bérlőben engedélyezett biztonsági alapbeállításokkal.  Az összes felhasználó védelme érdekében a biztonsági alapértékek minden újonnan létrehozott bérlő számára elérhetők.

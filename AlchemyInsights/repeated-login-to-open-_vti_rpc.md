@@ -1,11 +1,12 @@
 ---
-title: Ismételt bejelentkezés a _vti_rpc megnyitásához
+title: Ismétlődő bejelentkezés a _vti_rpc megnyitásához
 ms.author: pebaum
 author: pebaum
 manager: jecon
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,14 +15,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 4b063c5524fdf36e4fa7eb6e774773ed701a8526
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1ef60f663a04045e4cd00463e59dcbf1f2f92122
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722776"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662471"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a>Ismételt bejelentkezés a _vti_rpc megnyitásához
+# <a name="repeated-login-to-open-_vti_rpc"></a>Ismétlődő bejelentkezés a _vti_rpc megnyitásához
 
-Ha az Office 2016-ot használó OneDrive-fájlokkal dolgozik, a következő üzenet jelenhet meg: "Mondja el, milyen fiókot szeretne használni _vti_rpc megnyitásához." A problémát az 1708-as verzióban (16.0.8431.2094) javították. A probléma megoldásához frissítsen az Office legújabb verziójára. \> Válassza a **Fájlfiók** \> **frissítési beállításainak** \> **frissítése most**lehetőséget. **File**
+Ha a OneDrive-fájlokat az Office 2016-ban használja, a következő üzenet jelenhet meg: "mondja el nekünk a _vti_rpc megnyitásához használni kívánt fiókot." Ezt a problémát a 1708-es verzió (16.0.8431.2094) alkalmazásban javítottuk. A probléma megoldásához frissítsen az Office legújabb verziójára. Válassza a **fájl** \> **fiók** \> **frissítési beállításainak** \> **frissítése**lehetőséget.
   

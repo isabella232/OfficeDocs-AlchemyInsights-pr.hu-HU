@@ -1,32 +1,33 @@
 ---
-title: 764 E-mail fiókok hozzáadása/beállítása
+title: 764 e-mail-fiókok hozzáadása és beállítása
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 3e6cda6d0a21ebca7647662809dd55d942304471
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: b33bbb346fdbfe3a27512b3dfaf6e3c07e5a7b04
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43914980"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663587"
 ---
-# <a name="set-up-email-accounts"></a>E-mail fiókok beállítása
+# <a name="set-up-email-accounts"></a>E-mail-fiókok beállítása
 
-1. Az Outlookban kattintson a > **Fájlinformáció** > **fiók hozzáadása elemre.** **File**
+1. Az Outlookban kattintson a **fájl**  >  **adatai**  >  **fiók hozzáadása**elemre.
 
-2. Írja be az e-mail címét, majd kattintson a **Csatlakozás gombra.**
+2. Adja meg az e-mail-címét, és kattintson a **Csatlakozás**gombra.
 
-3. Írja be a jelszavát, és kattintson **az OK gombra.**
+3. Adja meg a jelszót, és kattintson **az OK gombra**.
 
-4. Ezeket a lépéseket megismételheti több fiók hozzáadásához.
+4. Ezeket a lépéseket megismételve több fiókot is hozzáadhat.
 
-**Megjegyzés:** Egyes e-mail fiókok, például a Gmail, a Yahoo és az iCloud, megkövetelik a kétfaktoros hitelesítés beállítását annak érdekében, hogy az Outlook segítségével e-maileket küldhessenek és fogadhassanak. További információt Az [E-mail fiók hozzáadása az Outlookba](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) című témakörben talál.
+**Megjegyzés**: egyes e-mail-fiókok, például a Gmail, a Yahoo és az iCloud esetében a kétfaktoros hitelesítés beállítása szükséges ahhoz, hogy az Outlook az e-mailek küldésére és fogadására használja az Outlookot. További információt az [e-mail-fiók felvétele az Outlookban](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) című témakörben talál.
   

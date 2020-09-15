@@ -1,26 +1,27 @@
 ---
-title: 8000049 Beszélgetés a családdal és a barátokkal a Skype-on Outlook.com
+title: 8000049 beszélgetés a családdal és a barátokkal a Skype-on az Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: ead3988e85b41f92f993e05e456ca7a29f6bf329
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739798"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659132"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Beszélgetés a családtagokkal és a barátokkal a Skype-on Outlook.com
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Beszélgetés a családdal és a barátokkal a Skype-ban az Outlook.com-on
 
-Outlook.com az ügyfelek a Skype csevegési, hang- és videofunkcióival beszélgethetnek barátaikkal és családtagjaikkal. [Microsoft- és Skype-fiókjainak egyesítésekor](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)Outlook.com automatikusan hozzáférhet a Skype-hoz az interneten.
+A Skype-ban a csevegéshez, a hang-és Outlook.com a Skype-ban a csevegéshez, a hang-és videofájlok megtekintéséhez használható. A [Microsoft-és a Skype-fiókok egyesítése](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)során automatikusan hozzáférhet a webes Skype-hoz a Outlook.com.
   
-További információ arról, hogyan [beszélhet családjával és barátaival a Skype-on Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409)
+További információ arról, hogy miként [beszélgethet a családdal és a barátokkal a Skype-on az Outlook.com-on](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
   
 

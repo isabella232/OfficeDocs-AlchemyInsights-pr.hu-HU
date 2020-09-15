@@ -1,10 +1,11 @@
 ---
-title: Külső felhasználók hozzáadása
+title: Külső felhasználók felvétele
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,19 +13,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: 954d592f34e92be46bdd56769e2865eeadf4a8af
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: b54a5f9eb53d777eb97cc5523a4ed3b64a4a5812
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908886"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663443"
 ---
-# <a name="adding-external-users"></a>Külső felhasználók hozzáadása
+# <a name="adding-external-users"></a>Külső felhasználók felvétele
 
-A külső/vendég felhasználók hozzáadásának lépései eltérőek lehetnek attól függően, hogy mire van szüksége ahhoz, hogy hozzáférhessen. Kérjük, válasszon az alábbiak közül:
+A külső/vendég felhasználók hozzáadásának lépései eltérhetnek attól függően, hogy mire van szüksége ahhoz, hogy hozzáférhessen. Kérjük, válasszon az alábbi lehetőségek közül:
   
-- [SharePoint Online külső megosztás – áttekintés](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+- [Külső megosztás áttekintése a SharePoint Online-ban](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [Vendéghozzáférés a Microsoft 365-csoportokban](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [A vendégek hozzáférése a Microsoft 365-csoportokban](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [Vendéghozzáférés a Microsoft Teamsben](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Vendégek hozzáférése a Microsoft Teams alkalmazásban](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
