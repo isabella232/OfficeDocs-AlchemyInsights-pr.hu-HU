@@ -1,27 +1,28 @@
 ---
-title: Automatikus feliratok és átirat létrehozása a Microsoft Streamben
+title: Automatikus feliratok és átiratok létrehozása a Microsoft streamben
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: 2be38095a627c03cdf85f4d00f31c61491198068
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409038"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707785"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Automatikus feliratok és átirat létrehozása a Microsoft Streamben
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Automatikus feliratok és átiratok létrehozása a Microsoft streamben
 
-Az adatfolyam automatikusan létrehozhat feliratokat az Automatikus beszédfelismerés technológiával, és megtekintheti a görgetési átiratablakot, hogy könnyedén navigálhasson és kövesse a videó beszélt tartalmát.
+Az adatfolyamok automatikusan létrehozhatnak feliratokat az automatikus beszédfelismerési technológiával, és megtekintheti a görgethető átiratokat tartalmazó ablakot, így egyszerűen navigálhat és követheti a videoklip kimondott tartalmait.
 
-- [Automatikus feliratok és átirat készítése a Microsoft Stream videóihoz](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Automatikus feliratok létrehozása és a Microsoft stream-videók átiratának létrehozása](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Videó görgetési átiratablakának megjelenítése a Microsoft Streamben](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Görgetést ábrázoló ablak megjelenítése videokliphez a Microsoft streamben](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

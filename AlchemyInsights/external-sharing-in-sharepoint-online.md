@@ -1,9 +1,10 @@
 ---
-title: Külső megosztás a SharePoint Online szolgáltatásban
+title: Külső megosztás a SharePoint Online-ban
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,34 +13,34 @@ ms.custom:
 - "9000191"
 - "1749"
 - "2389"
-ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b75daec0cf526be7b5073d0e90421ab207560f17
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049771"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708505"
 ---
-# <a name="external-sharing-in-sharepoint-online"></a>Külső megosztás a SharePoint Online szolgáltatásban
+# <a name="external-sharing-in-sharepoint-online"></a>Külső megosztás a SharePoint Online-ban
 
-Ha a szervezet olyan munkát végez, amely dokumentumok megosztását vagy közvetlenül a szállítókkal, ügyfelekkel vagy ügyfeleivel való együttműködést foglal magában, akkor a [SharePoint Online külső megosztási szolgáltatásaival](https://docs.microsoft.com/sharepoint/external-sharing-overview) tartalmat oszthat meg a szervezeten kívüli emberekkel.
+Ha a szervezete olyan munkát végez, amely magában foglalja a dokumentumok megosztását vagy a közvetlen együttműködést a szállítókkal, az ügyfelekkel vagy a vevőkkel, akkor a [SharePoint Online külső megosztási funkciói](https://docs.microsoft.com/sharepoint/external-sharing-overview) segítségével tartalmat oszthat meg a szervezetén kívüli személyekkel.
 
-A külső megosztással kapcsolatos további információért kérjük, látogasson el az alábbi linkekre:
+A külső megosztásról további információt az alábbi hivatkozásokra kattintva találhat:
 
 - [A külső megosztás be- és kikapcsolása a SharePoint Online-ban](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
-- [Külső megosztás be-és kikapcsolása a webhelyen](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
-- [Alapértelmezés szerinti megosztási beállítások webhelytípusonként](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [A külső megosztás be-és kikapcsolása a webhelyen](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Alapértelmezett megosztási beállítások egy hely típusa szerint](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
 - [A SharePoint Online használata Business-to-Business (B2B) extranetes megoldásként](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 - [SharePoint-fájlok vagy-mappák megosztása](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [Az OneDrive vagy SharePoint fájlok és mappák megosztásának leállítása vagy az engedélyek módosítása](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
-- [A Microsoft-csapatok hozzáférése a vendéghez](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- [Microsoft vendég megosztási beállítások – referencia (Azure Active Directory, Microsoft 365 és SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [OneDrive-vagy SharePoint-fájlok vagy-mappák megosztásának leállítása vagy az engedélyek módosítása](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Vendégek hozzáférése a Microsoft Teams alkalmazásban](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [Microsoft Guest Sharing Settings Reference (Azure Active Directory, Microsoft 365 és SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
-Hibát kapok egy külső felhasználóval?Ellenőrizze az alábbi linkekre:
+Hibaüzenetet kap egy külső felhasználónál?Ellenőrizze az alábbi hivatkozásokat:
 
-- ["Hozzáférés megtagadva", "engedélyre van szüksége a webhelyhez való hozzáféréshez", vagy "a felhasználó nem található a könyvtárban" hiba a SharePoint Online szolgáltatásban és az OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["A szervezet irányelvei nem teszik lehetővé az ilyen felhasználókkal való megosztást" hiba egy elem vagy hely megosztásakor a SharePoint Online rendszerben vagy az OneDrive for Business alkalmazásban.](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Cserépdarab választások van szürke ki mikor cserépdarab-ból SharePoint Online vagy OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Hibaüzenet jelenik meg, amikor egy külső felhasználó elfogad egy SharePoint Online-meghívást egy másik fiókkal](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [OSE megosztási hibák SharePoint és OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Hozzáférés megtagadva", "a webhely eléréséhez engedélyre van szüksége" vagy "a felhasználó nem található a címtárban" hibaüzenet a SharePoint Online és a OneDrive vállalati verzióban](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["A szervezet szabályzata nem teszi lehetővé a megosztást ezekkel a felhasználókkal" hibaüzenet jelenik meg a SharePoint Online-ban vagy a OneDrive vállalati verzióban tárolt elemek vagy webhelyek megosztásakor](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [A megosztási lehetőségek szürkén jelennek meg a SharePoint Online-ból vagy a OneDrive-ról való megosztáskor](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Hibaüzenet, amikor egy külső felhasználó elfogad egy SharePoint Online-meghívót egy másik fiók használatával](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [OSE-megosztási hibák a SharePointban és a OneDrive-ban](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
