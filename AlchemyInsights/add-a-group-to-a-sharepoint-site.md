@@ -1,49 +1,50 @@
 ---
-title: Csoport hozzáadása SharePoint-webhelyhez
+title: Csoport felvétele SharePoint-webhelyre
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 2050d2affabbe15521bcfcbee5ea5651b61770a7
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 07850bc8c496df180d2e3c85dfbfc999231f6a54
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581269"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697343"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Csoport hozzáadása SharePoint-webhelyhez
+# <a name="add-a-group-to-a-sharepoint-site"></a>Csoport felvétele SharePoint-webhelyre
 
-Egyes SharePoint-csoportwebhelyeket (beleértve a Microsoft Teamsben létrehozottakat is) a Microsoft 365 csoporttulajdonosok kezelik. A SharePoint-webhelyek és -tartalmak a Microsoft 365-csoportokkal és a SharePoint-csoportokkal is megoszthatók. A SharePoint-csoport olyan felhasználók gyűjteménye, akik mindegyike azonos engedélyekkel rendelkezik a webhelyekhez és a tartalmakhoz. Klasszikus webhelyek esetén azt javasoljuk, hogy csoportok használatával kényelmesen rendelje hozzá ugyanazt az engedélyszintet egyszerre több személyhez, ne pedig egyszerre egy személyhez.
+Néhány SharePoint-csoportwebhely (köztük a Microsoft Teams-ban létrehozott) a Microsoft 365-csoport tulajdonosai kezelik. A SharePoint-webhelyeket és-tartalmakat a Microsoft 365-csoportokkal és a SharePoint-csoportokkal is meg lehet osztani. A SharePoint-csoportok azokat a felhasználókat jelentik, akik rendelkeznek a webhelyek és a tartalom eléréséhez szükséges engedélyekkel. A klasszikus webhelyeken azt javasoljuk, hogy a csoportok segítségével a jogosultsági szintet egyszerre több személy számára is kioszthatja, nem pedig az engedélyeket egy személyt egyszerre kioszthatja.
   
-A Microsoft 365 csoporttagjainak kezelése:
+A Microsoft 365-csoporttagok kezelése:
   
-1. Nyissa meg a [Microsoft 365 Felügyeleti központ Csoportok lapját.](https://portal.office.com/adminportal/home#/groups)
+1. Lépjen a [Microsoft 365 felügyeleti központ csoportok lapjára](https://portal.office.com/adminportal/home#/groups).
     
-2. Válassza ki a csoportot, hogy a tulajdonosok és a tagok. Személyek hozzáadásához vagy eltávolításához kattintson a **Tulajdonosok** vagy **tagok** sor **Szerkesztés** hivatkozására. 
+2. Jelöljön ki egy csoportot a tulajdonosok és a tagok megtekintéséhez. Személyek hozzáadásához vagy eltávolításához kattintson a **Szerkesztés** hivatkozásra a **tulajdonosok** vagy a **tagok** sorában. 
     
-Kommunikációs webhely megosztása Microsoft 365-csoportokkal:
+Kommunikációs webhely megosztása Microsoft 365-csoporttal:
   
-1. Nyissa meg a webhelyet egy böngészőben, és kattintson a jobb felső sarokban a **Webhely megosztása** elemre. 
+1. Nyissa meg a webhelyet a böngészőben, és kattintson a jobb felső sarokban a **webhely megosztása** elemre. 
     
-2. Írja be a csoport nevét, majd válassza ki a jogosultsági szintet (Olvasás, Szerkesztés vagy Teljes hozzáférés).
+2. Adja meg a csoport nevét, majd válassza ki a jogosultsági szintet (olvasás, szerkesztés vagy teljes hozzáférés).
     
-Hozzon létre egy SharePoint-csoportot, amelyet klasszikus webhelyhez használhat:
+A klasszikus webhelyhez használandó SharePoint-csoport létrehozása:
   
-1. Nyissa meg a webhelyet a böngészőben, és kattintson a jobb felső sarokban lévő Beállítások ikonra.
+1. Nyissa meg a webhelyet a böngészőben, és kattintson a jobb felső sarokban lévő beállítások ikonra.
     
-2. Kattintson **a Webhely beállításai gombra,** majd a **Felhasználók és engedélyek**csoportban kattintson a **Webhely engedélyei parancsra.**
+2. Kattintson a **webhely beállításai**parancsra, majd a **felhasználók és engedélyek**csoportban kattintson a **webhely engedélyei**hivatkozásra.
     
-3. Az Engedélyek lapon kattintson a **Csoport létrehozása gombra.**
+3. Kattintson az engedélyek lap **csoport létrehozása**elemére.
     
-[Klasszikus csoportwebhely csatlakoztatása új Microsoft 365-csoporthoz](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Klasszikus csoportwebhely csatlakoztatása új Microsoft 365-csoportba](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[További információ a SharePoint-csoportok ról](https://go.microsoft.com/fwlink/?linkid=874658)
+[További tudnivalók a SharePoint-csoportok használatáról](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

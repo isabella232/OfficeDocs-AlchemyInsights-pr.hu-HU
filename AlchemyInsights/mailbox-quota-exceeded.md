@@ -1,33 +1,34 @@
 ---
-title: Postaládakvóta túllépve
+title: A postaláda-kvóta túllépve
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 72449f1edff38ad0c7100da0d144b59f3072c1c3
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c0256ec8ff28b61b1c24d3c773c1ba7eb03cfcc1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579795"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695217"
 ---
-# <a name="mailbox-quota-exceeded"></a>Postaládakvóta túllépve
+# <a name="mailbox-quota-exceeded"></a>A postaláda-kvóta túllépve
 
-Túllépte a fiókhoz tartozó postaládakvótát. A jobb teljesítmény érdekében számos lépést tehet a beérkezett üzenetek méretének csökkentése érdekében.
+Túllépte a fiókhoz tartozó postaláda-kvótát. A Beérkezett üzenetek méretének csökkentése több lépésből áll a jobb teljesítmény érdekében.
 
-1. Régebbi beérkezett üzenetek mappáinak törlése. Ezt gyorsan megteheti az alkalmazásban, ha egyéni Pöccintési mozgást állít be: **Beállítások > pöccintési beállítások**. Ezzel a készlettel könnyedén végigpöccintheti a beérkezett üzenetek et, hogy törölje azt.
+1. A régebbi Beérkezett üzenetek mappa törlése Ezt gyorsan megteheti az alkalmazásban egy egyéni csúsztatási mozdulat beállításával: **beállítások > a csúsztatás**beállításai. Ezzel a beállítással egyszerűen kihagyhatja a Beérkezett üzenetek mappáját a Beérkezett üzenetek mappából.
 
-2. Ürítse ki a spam mappákat. Menjen közvetlenül a spam mappákba, és nyomja **meg az üres spam**.
+2. Ürítse ki a levélszemét mappáját. Lépjen közvetlenül a Levélszemét mappába, és nyomja le az **üres levélszemét**gombot.
 
-3. Androidon egyetlen kattintással kiürítheti a kukamappákat. Menjen közvetlenül a kukába, és nyomja **meg az üres szemetet**. 
+3. Android-eszközön egyetlen kattintással ürítheti ki a Kuka mappáját. Lépjen közvetlenül a kukába mappába, és nyomja le az **üres szemetet**. 
 
-4. Mentse a mellékleteket a OneDrive-ra, hogy ne tárolják őket a postaládájában. További információt a [Outlook.com tárolási korlátok című témakörben](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) talál. 
+4. Mentse a mellékleteket a OneDrive-ra, hogy ne a postaládájában legyenek tárolva. További információért tekintse [meg a Outlook.com tárolási korlátozásait](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) . 
 
-Ha Ön Microsoft 365-felhasználó, kérheti a postaláda növelését is a rendszergazdatól.
+Ha Ön Microsoft 365-felhasználó, az informatikai rendszergazdától is kérheti a postaláda növelését.
