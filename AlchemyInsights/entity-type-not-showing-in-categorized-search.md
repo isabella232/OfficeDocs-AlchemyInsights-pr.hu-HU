@@ -1,24 +1,25 @@
 ---
-title: A Dynamics 365 egyesített felületének kategorizált vagy relevancia-keresési eredményeiben nem jelenő entitástípus
+title: Az entitás típusa nem a kategorizált vagy a relevancia szerinti találatok között jelenik meg a Dynamics 365 egyesített felületén
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: 5a96797ef03659bc6cab665f170dee9a9c62872f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703284"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709333"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Az entitástípus nem jelenik meg a keresési eredmények között
+# <a name="entity-type-not-showing-in-search-results"></a>Az entitás típusa nem jelenik meg a keresési eredmények között
 
-Ahhoz, hogy egy entitástípus kategorizált keresésben vagy relevancia-keresésben jelenjen meg a Dynamics 365 egyesített felületén, először hozzá kell adni az alkalmazásmodulhoz.
+Ha a Dynamics 365 egyesített felületén szeretné megjeleníteni a kategorizált keresés vagy a relevancia keresése kifejezést, először fel kell vennie az alkalmazás modulba.
 
-Megjegyzés: Amikor mellékleteket keres a relevanciakeresésben, a mellékletentitást hozzá kell adni az alkalmazásmodulhoz, még akkor is, ha a fölérendelt bejegyzés jelenik meg az eredményekben.
+Megjegyzés: Ha a fontos kereséshez mellékletet keres, a melléklet entitást hozzá kell adni az App-modulhoz, még akkor is, ha a találatok között a fölérendelt rekord is látható.

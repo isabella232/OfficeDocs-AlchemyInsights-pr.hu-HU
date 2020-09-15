@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,29 +14,29 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: c28c8b10cae72550fe7fe8ebf6cebc3635d28459
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44289564"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801879"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Nyomtatás a papír mindkét oldalára (kétoldalas nyomtatás)
 
-**A nyomtatóm képes kétoldalas nyomtatásra?**
+**Alkalmas a nyomtató a kétoldalas nyomtatásra?**
 
-A nyomtató alapanyagának összefoglalója vagy kézikönyve jelzi, hogy képes-e a papír mindkét oldalára nyomtatni, más néven "kétoldalas nyomtatásra". Ha microsoft Office-t használ, egy másik módja annak, hogy megtudja, ha megnyit egy Office-alkalmazást, például a Wordöt vagy az Excelt, a **Fájl > nyomtatás**, győződjön meg arról, hogy a megfelelő nyomtató van kiválasztva, és a Beállítások szakaszban keresi a funkciót. Például: 
+A nyomtató funkciójának összegzése vagy manuális leírása szerint a papír mindkét oldalára tud nyomtatni, más néven "kétoldalas nyomtatás". Ha Microsoft Office-t használ, az Office-alkalmazások (például a Word vagy az Excel) megnyitásával egy másik módon is megtudhatja, hogy ki van jelölve a **fájl > a nyomtatás**, a megfelelő nyomtató van kiválasztva, és a beállítások szakaszban keresi a kívánt lehetőséget. Például: 
 
-![Nyomtató beállításai](media/print-settings.png)
+![Nyomtatóbeállítások](media/print-settings.png)
 
 **Kétoldalas nyomtatás a Microsoft Office-ban**
 
-Ha a nyomtató mindkét oldalon képes nyomtatni, amikor **megnyitja a Fájl > Nyomtatás** az Office alkalmazásban, megjelenik a "Nyomtatás mindkét oldalon" lehetőség, ahogy az a fenti példában látható.  Válassza ki a kívánt kétoldalas nyomtatás típusát (a hosszú szélre lapozgatás vagy a rövid szélek tükrözése), majd a **Nyomtatás** gombra kattintva indítsa el a nyomtatást.
+Ha a nyomtatója mindkét oldalon képes a nyomtatásra, amikor az Office-alkalmazásban a **fájl > nyomtatás** parancsra kattint, a fenti példában látható módon megjelenik a "kétoldalas nyomtatás" parancs.  Válassza ki a kívánt kétoldalas nyomtatást (a hosszú élen vagy a rövid él tükrözéséhez), és a nyomtatás indításához kattintson a **Nyomtatás** gombra.
 
 **Kétoldalas nyomtatás bármely alkalmazásból**
 
-Sok alkalmazásban nyomtatáskor egy általános nyomtatási párbeszédpanel jelenik meg, amely így néz ki: 
+A nyomtatáskor számos alkalmazásban egy általános nyomtatási párbeszédpanel jelenik meg, amely a következőképpen néz ki: 
 
 ![Nyomtatás párbeszédpanel](media/print-dialog.png)
 
-Győződjön meg arról, hogy a megfelelő nyomtató van kiválasztva, majd kattintson a **Beállítások gombra** a nyomtatóbeállítások ablak megnyitásához. Ha a nyomtató képes kétoldalas nyomtatásra, az aktuális nyomtatási feladathoz való engedélyezés lehetősége jelenik meg ebben az ablakban.
+Ellenőrizze, hogy a megfelelő nyomtató van-e kijelölve, majd a **Beállítások** gombra kattintva nyissa meg a Nyomtatóbeállítások ablakot. Ha a nyomtató kétoldalas nyomtatásra alkalmas, az aktuális nyomtatási feladat engedélyezésének lehetősége az adott ablakban fog megjelenni.
