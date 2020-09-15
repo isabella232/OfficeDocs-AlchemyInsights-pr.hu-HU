@@ -1,30 +1,31 @@
 ---
-title: A tervező használata Microsoft-csoportokkal
+title: A Planner használata a Microsoft Teams alkalmazásban
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 04a0bcff06c9a52db4bc7ff55799a1cef8fd1eca
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 95b83d6658fc77ac6e5eeac58c198f5c4adbb674
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37681708"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657386"
 ---
-# <a name="using-planner-with-microsoft-teams"></a>A tervező használata Microsoft-csoportokkal
+# <a name="using-planner-with-microsoft-teams"></a>A Planner használata a Microsoft Teams alkalmazásban
 
-Rendezze a feladatokat egy vagy több tervező fül hozzáadásával a csapatok csatornához: 
+A feladatok rendszerezéséhez vegyen fel egy vagy több Planner-lapot egy Teams-csatornába: 
 
-- [Tervező lap hozzáadása a csoportcsatornához](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). Az a felhasználó, aki hozzáadja a lapot, nem csak tulajdonosként, hanem a csapat tagjának kell, hogy legyen. A felhasználó tagként is hozzáadható a Microsoft csapatok felhasználói felületén keresztül.
-- [Meglévő terv hozzáadása a Microsoft teamhez](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
-- [Tervező lap eltávolítása vagy terv törlése](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). A törölt terveket nem lehet behajtani a csapatok között. Ha már töröltük a csoportot, [helyreállíthatja a törölt terveket és csoportokat](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
-- [A tervezők hozzárendelési értesítéseinek engedélyezése és letiltása a csoportokban](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
+- [A Planner lap hozzáadása csoport csatornához](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). Az a felhasználó, aki felveszi a lapot, nem csak a tulajdonos, hanem a csoport tagjának kell lennie. A felhasználót a Microsoft Teams felhasználói felületén keresztül is hozzáadhatja tagként.
+- [Meglévő terv felvétele a Microsoft Teams programba](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
+- [Planner-lap eltávolítása vagy terv törlése](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan) A törölt csomagok nem állíthatók helyre a Teams alkalmazásban. Ha már törölt egy csoportot, [visszaállíthatja a törölt terveket és csoportokat](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
+- [A Planner-hozzárendelési értesítések engedélyezése vagy letiltása a Teams alkalmazásban](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
 
-**Megjegyzés:** A Microsoft-csoportokkal történő tervezés integrálásának általános áttekintéséhez lásd: [tervező használata Microsoft csapatokban](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).
+**Megjegyzés:** A Planner-integráció Microsoft Teams alkalmazásban való általános áttekintését a [Planner használata a Microsoft Teams alkalmazásban](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)című témakörben találhatja meg.
