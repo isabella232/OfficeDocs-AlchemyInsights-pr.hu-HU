@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 7bd36c3954d12d3ee4ac624a2f827d8e5cd88082
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2f2d4f7c093d62267bb859e96493ec6d09452c7e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36665762"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699521"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>A DNS-rekordok frissítése, hogy a webhely megmaradjon a jelenlegi tárhelyszolgáltatónál
 
-1. A Microsoft 365 Felügyeleti központban nyissa meg a **Tartományok beállítása**  >  [Domains](https://portal.office.com/adminportal/home#/Domains) lapot, és a tartományok listájában válassza ki a webhelyhez használt tartományt.
+1. A Microsoft 365 felügyeleti központban nyissa meg a tartomány **beállítása**  >  [Domains](https://portal.office.com/adminportal/home#/Domains) lapot, és a tartományok listájában válassza ki a webhelyhez használni kívánt tartományt.
 
 2. Válassza az **+ Új egyéni rekord** elemet, és írja be az alábbiakat:
 

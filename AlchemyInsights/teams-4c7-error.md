@@ -1,30 +1,31 @@
 ---
-title: Csapatok 4c7 hibaüzenetet kapja hiba
+title: A Teams 4c7 hibaüzenetet kapja hibája
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 0945a341c6456ee4178c0485f3bfb9232fa78a11
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 08494b461a24eba8999a5edb99c89af7b17db9b3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796168"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700205"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>4c7 hibaüzenetet kapja hiba a Microsoft csapatok
+# <a name="4c7-error-in-microsoft-teams"></a>4c7 hibaüzenetet kapja hiba a Microsoft Teams alkalmazásban
 
-Ez a hiba azért jelentkezik, mert a Microsoft-csapatok űrlaphitelesítést igényel. Az Active Directory összevonási szolgáltatások (AD FS) telepítésekor alapértelmezés szerint az űrlap-hitelesítés nincs engedélyezve az intraneten. Ha az integrált Windows-hitelesítés sikertelen, a rendszer az űrlapos hitelesítés használatával kéri a bejelentkezést.
+Ez a hiba azért fordul elő, mert a Microsoft Teams űrlap-hitelesítést követel meg. Ha telepíti az Active Directory összevonási szolgáltatásokat (AD FS), az űrlapos hitelesítés alapértelmezés szerint nincs engedélyezve az intraneten. Ha a Windows beépített hitelesítése nem sikerült, a rendszer az űrlapos hitelesítéssel kéri a bejelentkezést.
 
-A probléma megoldásához engedélyezze az űrlapos hitelesítést az Active Directory összevonási szolgáltatások MMC beépülő moduljával azon a számítógépen, amelyen a helyi példány található. Ehhez kövesse az alábbi lépéseket: 
+A probléma megoldásához engedélyezze az űrlap-hitelesítést az AD FS Microsoft Management Console (MMC) beépülő modullal, amelyen az Active Directory helyi példánya található. Ehhez hajtsa végre a következő lépéseket: 
 
-1. A navigációs ablaktáblán tallózással keresse meg a **hitelesítési házirendeket**.
-2. A részleteket tartalmazó ablaktábla **műveletek** csoportjában jelölje be a **globális elsődleges hitelesítés szerkesztése**választógombot.
-3. Az **intranet** lapon jelölje be az **űrlapos hitelesítés**választógombot.
-4. Válassza **az OK** (vagy **alkalmazás**)-t.
+1. A navigációs ablakban tallózással keresse meg a **hitelesítési szabályokat**.
+2. A részletek ablaktábla **műveletek** csoportjában válassza a **globális elsődleges hitelesítés szerkesztése**lehetőséget.
+3. Az **intranet** lapon válassza az **űrlapos hitelesítés**lehetőséget.
+4. Kattintson **az OK gombra** (vagy az **alkalmaz**gombra).
