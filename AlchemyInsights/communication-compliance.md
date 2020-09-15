@@ -1,43 +1,44 @@
 ---
-title: A kommunikáció megfelelősége
+title: Kommunikáció megfelelősége
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706167"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713853"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>A kommunikáció megfelelősége a Microsoft 365-ben
+# <a name="communication-compliance-in-microsoft-365"></a>A Microsoft 365 kommunikációs megfelelősége
 
-A kommunikációs megfelelőség egy új Microsoft 365 megfelelőségi megoldás, amely segít a szervezeteknek a felügyeleti megfelelőségi követelmények teljesítésében és a kommunikációs kockázatok minimalizálása érdekében. A Felügyelet funkción alapul, és új fejlesztéseket tartalmaz, többek között:
+A kommunikáció megfelelősége egy új Microsoft 365 megfelelőségi megoldás, amely segít a szervezeteknek a felügyeleti megfelelőségi követelményeknek való megfelelésben, valamint a kommunikációs kockázatok minimalizálásában. A felügyelet funkción alapul, és új fejlesztéseket tartalmaz, többek között az alábbiakat:
 
 - Intelligens testreszabható sablonok
-- Rugalmas szervizelési munkafolyamatok
-- Használható információk
+- Rugalmas kármentesítési munkafolyamatok
+- Műveletek
 
-Ha jelenleg [felügyeleti házirendeket](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)használ, azt javasoljuk, hogy most használja az új kommunikációs megfelelőséget a szabályozási igények kielégítésére.
+Ha jelenleg [felügyeleti házirendeket](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)használ, azt javasoljuk, hogy most használja az új kommunikáció megfelelőségét a szabályozási igényeknek megfelelően.
 
-A kommunikációs megfelelőség beállításához [olvassa el a Kommunikációs megfelelőség konfigurálása](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)című témakört.
+A kommunikáció megfelelőségének beállításáról a [kommunikáció megfelelőségének beállítása](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)című témakörben tájékozódhat.
 
-A kommunikációs megfelelőség vizsgálatához, áttekintéséhez és kijavításához olvassa el [a Kommunikációs megfelelőségi riasztások vizsgálata és kiújítása című témakört.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
+A kommunikáció megfelelőségének vizsgálatához, véleményezéséhez és visszaközvetítéséhez olvassa el a [kommunikáció megfelelőségi értesítéseinek vizsgálata és szervizelése](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)című témakört.
 
-A kommunikációs megfelelőségi funkció áttekintését a [Kommunikáció megfelelősége a Microsoft 365-ben című témakörben találja.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
+A kommunikáció megfelelősége funkció áttekintését a [Microsoft 365 kommunikációs megfelelősége](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)című témakörben találhatja meg.
 
-Licenckövetelmények: A kommunikációs házirendek által figyelt felhasználóknak az alábbiak egyikével kell rendelkezniük:
+Licenc-követelmények: a kommunikációs házirendekkel figyelt felhasználóknak az alábbiak egyikét kell tartalmazniuk:
 
 - Microsoft 365 E5 megfelelőségi licenc
-- Office 365 Nagyvállalati E3 licenc a Speciális megfelelőségi bővítményrel
-- Office 365 Nagyvállalati E5 előfizetés
+- Office 365 nagyvállalati E3 csomag licence a speciális megfelelőségi bővítménysel
+- Office 365 nagyvállalati E5-előfizetés
 
-Ha a fentiek közül egyik sem rendelkezik, és ki szeretné próbálni a kommunikáció megfelelőségét, **[regisztráljon az Office 365 Nagyvállalati E5 próbaverziójára.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+Ha nem rendelkezik a fentiekkel, és szeretné kipróbálni a kommunikáció megfelelőségét, **[regisztráljon az Office 365 nagyvállalati E5 csomag próbaverziójában](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.

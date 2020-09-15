@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ac4188c0-a4f3-4852-9ed4-075ea684423c
@@ -11,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507660"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712663"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Megosztott postaláda létrehozása és használata
 
-A megosztott postaláda lehetővé teszi, hogy egynél több személy küldjön és fogadjon e-mailt egy aliashoz, például sales@contoso.com, anélkül, hogy másik licencet rendelne hozzá.
+A megosztott postaládák lehetővé teszik, hogy egy másik licenc hozzárendelése nélkül több személy küldjön és fogadjon egy aliashoz (például sales@contoso.com) tartozó e-maileket.
   
-- [A](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) kezdéshez kövesse a Microsoft 365 felügyeleti központjának lépéseit. 
+- [Kövesse az alábbi lépéseket](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) a Microsoft 365 felügyeleti központban a kezdéshez. 
 
-A [Megosztott postaláda létrehozása](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) című cikket is elolvashatja, amely mindent megad, amit tudnia kell a megosztott postaládákról, beleértve azok használatát is.
+A [megosztott postaláda létrehozása](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) című cikkből megtudhatja, hogy mit kell tudnia a megosztott postaládákkal kapcsolatos tudnivalókról, ideértve a használatuk módját is.
   
