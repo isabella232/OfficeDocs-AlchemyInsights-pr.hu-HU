@@ -1,24 +1,25 @@
 ---
-title: Bejelentkezés a Outlook.com
+title: Be-vagy kijelentkezés az Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: ce8425a22b5a20a0854c75c07ab4d394d4c81cb3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 86c76fa3d9f7f72fa4061321cd95cabb90fa4c35
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763280"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703302"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Bejelentkezés a Outlook.com
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Be-vagy kijelentkezés az Outlook.com-on
 
-Ha nem tud bejelentkezni a Outlook.com, hotmail, Live vagy MSN e-mail fiókjába, vagy nem tudja biztosan, hogyan jelentkezhet be vagy jelentkezhet ki, [az alábbiakban néhány megoldást talál.](https://go.microsoft.com/fwlink/p/?linkid=2005840)
+Ha nem tud bejelentkezve Outlook.com-, Hotmail-, Live-vagy MSN-fiókjába, vagy nem biztos abban, hogy hogyan jelentkezhet be vagy ki, az [alábbi megoldásokkal](https://go.microsoft.com/fwlink/p/?linkid=2005840)próbálkozhat.
   
-Ha továbbra is problémái vannak a bejelentkezéssel, olvassa el [a Ha nem tud bejelentkezni a Microsoft-fiókjába](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Ha továbbra is problémákat tapasztal a bejelentkezéskor, olvassa el a [Ha nem tud bejelentkezni a Microsoft-fiókba](https://go.microsoft.com/fwlink/p/?linkid=837479)című témakört.
