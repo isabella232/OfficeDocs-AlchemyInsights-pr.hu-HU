@@ -1,11 +1,12 @@
 ---
-title: A hozzáadottérték-adó (ÁFA) megértésének elősegítése
+title: Súgó a hozzáadottérték-adó (ÁFA) megértéséhez
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710121"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705495"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>A hozzáadottérték-adó (ÁFA) megértésének elősegítése
+# <a name="help-understanding-value-added-tax-vat"></a>Súgó a hozzáadottérték-adó (ÁFA) megértéséhez
 
-Ha olyan országban vagyunk, amely alkalmazott hozzáadottérték-adót (áfa) használ, például az Egyesült Királyságban, a Microsoft Számlázás kiszámítja az áfát, és az összeget a számlákra alkalmazza.
+Ha olyan országban rendelkezik, amely hozzáadottérték-adóval (HÉA) (például az Egyesült Királyságot) használ, a Microsoft számlázás kiszámítja az ÁFÁ-t, és az összeget alkalmazza a számlára.
   
-Adózási okokból az áfaregisztrációs számot is meg kell adnia a Számlázás beállításaiközött.
+Adózási okokból a számlázás beállításai között meg kell adnia az ÁFA-regisztráció számát is.
   
-Nem adhat hozzá és nem távolíthat el áfakulcsokat, de módosíthatja az alapértelmezett áfakulcsot a Beállítások ban. Alapértelmezés szerint a Számlázás szolgáltatást használ az áfa-nyilvántartási számok érvényesítéséhez, de javasoljuk, hogy olvassa el az Európai Bizottság által közzétett [VIES jogi nyilatkozatát.](https://go.microsoft.com/fwlink/?LinkID=841741) Ha úgy dönt, hogy letiltja a szolgáltatást, ellenőriznie kell az összes áfa-nyilvántartási számot.
+Nem vehet fel és nem távolíthat el HÉA-mértéket, de módosíthatja az alapértelmezett ÁFA-kulcsokat a beállítások között. A számlázás alapértelmezés szerint szolgáltatást használ az ÁFA-nyilvántartási számok érvényesítéséhez, de azt javasoljuk, hogy olvassa el az Európai Bizottság által közzétett [VIES-nyilatkozat](https://go.microsoft.com/fwlink/?LinkID=841741) című témakört. Ha úgy dönt, hogy letiltja a szolgáltatást, ellenőrizni kell az összes HÉA-nyilvántartási számot.

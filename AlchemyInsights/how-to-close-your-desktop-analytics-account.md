@@ -1,27 +1,28 @@
 ---
-title: A Desktop Analytics-fiók bezárása
+title: Az asztali Analytics-fiók bezárása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771037"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704716"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>A Desktop Analytics-fiók bezárása
+# <a name="how-to-close-your-desktop-analytics-account"></a>Az asztali Analytics-fiók bezárása
 
-Ha a Környezetében állítja be a Desktop Analytics szolgáltatást, majd úgy dönt, hogy el kell távolítania, használja a folyamatot az alábbi hivatkozásban:
+Ha a környezetében állítja be az asztali elemzést, és azt szeretné, hogy távolítsa el, az alábbi hivatkozással végezze el a műveletet:
 
-[A fiók bezárása](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
+[Fiók megszüntetésének módja](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Az első lépés a Microsoft támogatási szolgálatához való kapcsolatfelvétel. Nyisson meg egy támogatási esetet a Desktop Analytics-fiók bezárásához. Ne folytassa a további lépéseket, amíg nem kap megerősítést arról, hogy a Microsoft lezárta fiókját.
+Első lépésként fel kell vennie a Microsoft ügyfélszolgálatát. Nyisson meg egy támogatási ügyet az asztali Analytics-fiók bezárásához. Ne folytassa a további lépéseket, amíg nem kapja meg a Microsoft által a fiókjával bezárt megerősítést.

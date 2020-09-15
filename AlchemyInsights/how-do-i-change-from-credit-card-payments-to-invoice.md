@@ -1,11 +1,12 @@
 ---
-title: Hogyan válthatok a hitelkártyás fizetésekről a számlára?
+title: Hogyan válthatok hitelkártyás fizetésről számlára?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,30 +14,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 9b9008dca74e6aa8e6a05010361359a078dbd590
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4004ce468accad778e52b61bbab7e6c5dd1b13dd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44498937"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704977"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hogyan válthatok a hitelkártyás fizetésekről a számlára?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Hogyan válthatok hitelkártyás fizetésről számlára?
 
 > [!NOTE]
-> A számla alapján történő fizetés lehetősége csak akkor érhető el, ha az előfizetés egy bizonyos összegen felüli költséget jelent (amely a szolgáltatás helyétől függően változik). Nagyobb összegű számlás fizetések esetében hitelképesség-vizsgálatra lehet szükség. További információ: [Pay for your subscription](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+> A számlán való fizetésre szolgáló beállítás csak akkor érhető el, ha az előfizetése egy bizonyos összegre (amely a szolgáltatás helyétől függ) függ. Nagyobb összegű számlás fizetések esetében hitelképesség-vizsgálatra lehet szükség. További információt az [előfizetés kifizetése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)című témakörben talál.
 
-1. A felügyeleti központban nyissa meg a **Termékek számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
+1. A felügyeleti központban lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
 
-2. Keresse meg a módosítani kívánt előfizetést. A **Számlázás**csoportban a fizetési mód mellett válassza a **Szerkesztés**lehetőséget.
+2. Keresse meg a módosítani kívánt előfizetést. A **számlázás**csoportban a fizetési mód mellett válassza a **Szerkesztés**elemet.
 
-3. A meglévő fizetési mód mellett válassza a **Módosítás**lehetőséget.
+3. A meglévő fizetési mód mellett válassza a **Change (módosítás**) lehetőséget.
 
-4. A legördülő menüben válassza a **Számla vagy az átutalás**lehetőséget.
+4. Válassza a legördülő menü **számla vagy**átutalás parancsát.
 
-5. Adja meg nevét, címét és telefonszámát. A számlán megjelenítendő beszerzésirendelés-számot is hozzáadhatja.
+5. Adja meg a nevét, címét és telefonszámát. A számlán megjelenő PO-számot is megadhatja.
 
-6. Ha végzett, válassza a **Mentés gombot.**
+6. Ha végzett, válassza a **Mentés**gombot.
 
-7. Ellenőrizze, hogy a kiválasztott fizetési mód helyes-e, majd válassza a **Mentés gombot.**
+7. Ellenőrizze, hogy helyes-e a kijelölt fizetési mód, majd válassza a **Mentés**gombot.
 
-További információ: [A fizetési mód módosítása](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+További információért olvassa el [a fizetési mód megváltoztatása](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)című témakört.
