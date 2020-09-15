@@ -1,31 +1,32 @@
 ---
-title: Facebook-értesítések Outlook.com
+title: Outlook.com Facebook-értesítések
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 737785e235389e211557b8055a561ec7a7d66692
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f9d5b94abda70c7383221a0d04c01a6f43f16100
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760342"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672130"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Facebook-értesítések Outlook.com használatával
+# <a name="facebook-notifications-using-outlookcom"></a>Facebook-értesítések a Outlook.com használatával
 
-Ha nem szeretnél értesítéseket kapni a Facebooktól, módosíthatod a [Facebook beállításait,](https://aka.ms/facebook-notifications-settings) vagy beállíthatsz egy Beérkezett üzenetek rekedésszabályát.
+Ha nem szeretne értesítéseket küldeni a Facebookról, módosíthatja a [Facebook beállításait](https://aka.ms/facebook-notifications-settings) , vagy beállíthat egy beérkezett üzenetekre vonatkozó szabályt.
 
-1. Nyissa meg a [Szabályok beállításai t.](https://outlook.live.com/mail/options/mail/rules/inboxRules)
-1. Válassza **az Új szabály hozzáadása**lehetőséget.
-1. Nevezze el a szabályt "Facebook".
-1. Adjon hozzá egy "From" feltételt, és írja be a "notification@facebookmail.com" szót
-1. Adjon hozzá egy "Törlés" műveletet. A Törlés lehetőséget választva az üzenetek a Törölt elemek között maradnak, és helyreállnak. Ha a "Megjelölés levélszemétként" lehetőséget választja, az üzenetek automatikusan törlődnek, és nem lehet visszaőket visszatussiként.
-1. Válassza a **Mentés** gombot.
+1. Válassza a [szabályok beállításai lehetőséget](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Válassza az **új szabály hozzáadása**lehetőséget.
+1. Nevezze el a "Facebook" szabályt.
+1. Adja meg a "feladó" feltételt, és írja be a "notification@facebookmail.com" szót.
+1. A "Törlés" művelet hozzáadása A törlés elem választása esetén az üzenetek megmaradnak a törölt elemek között, és helyreállíthatók. Ha a "megjelölés levélszemétként" beállítást választja, az üzenet automatikusan törlődik, és nem állíthatók helyre.
+1. Válassza a **Mentés** elemet.

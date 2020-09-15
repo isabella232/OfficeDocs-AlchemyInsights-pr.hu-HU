@@ -6,24 +6,25 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: adaac72e5aadfed79707639cf5bdf4aba0861932
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760378"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672058"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nem kap Facebook-kódokat Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nem érkezik Facebook-kódok a Outlook.com használatával
 
-Ha új jelszót kértél a Facebooktól, de nem kaptad meg a jelszó-visszaállítási e-mailt:
+Ha a Facebooktól új jelszót kért, de nem kapta meg a jelszó-visszaállító e-mailt:
 
-- Ellenőrizze a [levélszemét vagy a levélszemét mappáját.](https://outlook.live.com/mail/junkemail)
-- Próbálja meg [újra visszaállítani a Facebook jelszavát.](https://aka.ms/facebook-password-reset)
+- Ellenőrizze a [Levélszemét vagy a Levélszemét mappát](https://outlook.live.com/mail/junkemail).
+- Próbálja meg [ismét visszaállítani a Facebook-jelszavát](https://aka.ms/facebook-password-reset).
 
-Ha nem tudod visszaállítani a jelszavadat, mert nem tudod elérni a fiókodban lévő e-mail-címeket vagy mobiltelefonszámot, próbáld ki a [Facebook jelszó-visszaállítási tippjeit.](https://aka.ms/facebook-password-help)
+Ha nem tudja alaphelyzetbe állítani a jelszavát, mert nem tud hozzáférni a fiókjához tartozó e-mailhez vagy Mobiltelefonszám eléréséhez, próbálkozzon a [Facebook jelszó-visszaállító tippekkel](https://aka.ms/facebook-password-help).
