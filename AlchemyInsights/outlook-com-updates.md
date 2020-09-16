@@ -1,29 +1,30 @@
 ---
-title: Outlook.com frissítések
+title: Outlook.com-frissítések
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719342"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722493"
 ---
-# <a name="outlookcom-updates"></a><span data-ttu-id="fdebb-102">Outlook.com frissítések</span><span class="sxs-lookup"><span data-stu-id="fdebb-102">Outlook.com updates</span></span>
+# <a name="outlookcom-updates"></a><span data-ttu-id="e240f-102">Outlook.com-frissítések</span><span class="sxs-lookup"><span data-stu-id="e240f-102">Outlook.com updates</span></span>
 
-<span data-ttu-id="fdebb-103">**Legújabb frissítések**</span><span class="sxs-lookup"><span data-stu-id="fdebb-103">**Latest updates**</span></span>
+<span data-ttu-id="e240f-103">**Legújabb frissítések**</span><span class="sxs-lookup"><span data-stu-id="e240f-103">**Latest updates**</span></span>
 
-- <span data-ttu-id="fdebb-104">Hozzon ki többet e-mailjeiből az új Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="fdebb-104">Get more out of your email with the new Outlook.com.</span></span> <span data-ttu-id="fdebb-105">Egyszerűsítettük a keresést, hogy minden eddiginél könnyebben megtaláld, amit keresel.</span><span class="sxs-lookup"><span data-stu-id="fdebb-105">We've streamlined search to make it easier than ever to find what you're looking for.</span></span> <span data-ttu-id="fdebb-106">Az olyan új funkciók, mint a Fotók és a mellékletek előnézete, lehetővé teszik, hogy a beérkezett üzenetek elhagyása nélkül is láthassa a képeket és a fájlokat.</span><span class="sxs-lookup"><span data-stu-id="fdebb-106">New features like Photos and attachment previews let you see your pictures and files without leaving your inbox.</span></span> <span data-ttu-id="fdebb-107">És most hangulatjeleket és GIF-eket adhat az üzenetekhez.  [További információ az új Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="fdebb-107">And now you can add emojis and GIFs to your messages. [Learn more about the new Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
+- <span data-ttu-id="e240f-104">Az új Outlook.com kipróbálhatja az e-maileket.</span><span class="sxs-lookup"><span data-stu-id="e240f-104">Get more out of your email with the new Outlook.com.</span></span> <span data-ttu-id="e240f-105">A keresés egyszerűsítése érdekében egyszerűbben megtalálhatja, amit keres.</span><span class="sxs-lookup"><span data-stu-id="e240f-105">We've streamlined search to make it easier than ever to find what you're looking for.</span></span> <span data-ttu-id="e240f-106">Az új funkciók, például a fényképek és a melléklet előnézete segítségével a Beérkezett üzenetek mappa elhagyása nélkül láthatja a képeit és a fájljait.</span><span class="sxs-lookup"><span data-stu-id="e240f-106">New features like Photos and attachment previews let you see your pictures and files without leaving your inbox.</span></span> <span data-ttu-id="e240f-107">Most pedig hozzáadhat emojik és GIF-eket az üzenetekhez.  [További információ az új Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="e240f-107">And now you can add emojis and GIFs to your messages. [Learn more about the new Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
 
-<span data-ttu-id="fdebb-108">**E-mail frissítések**</span><span class="sxs-lookup"><span data-stu-id="fdebb-108">**Email updates**</span></span>
+<span data-ttu-id="e240f-108">**E-mail-frissítések**</span><span class="sxs-lookup"><span data-stu-id="e240f-108">**Email updates**</span></span>
 
-- <span data-ttu-id="fdebb-109">Ha a Outlook.com postaláda nem frissül, olvassa el [Outlook.com e-mailek szinkronizálási problémáinak megoldása](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="fdebb-109">If your Outlook.com mailbox is not updating, see [Fix Outlook.com email sync issues](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+- <span data-ttu-id="e240f-109">Ha a Outlook.com-postaládája nem frissül, tanulmányozza az [Outlook.com e-mail-szinkronizálási problémáinak megoldása](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)című témakört.</span><span class="sxs-lookup"><span data-stu-id="e240f-109">If your Outlook.com mailbox is not updating, see [Fix Outlook.com email sync issues](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
