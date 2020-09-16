@@ -1,26 +1,27 @@
 ---
-title: Kérelem a Outlook.com bétaverzióról a klasszikus Outlook.com való visszaállításra
+title: A Outlook.com bétaverzióról a klasszikus Outlook.com való visszalépés kérése
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: ddcc6d04a93510ca35f0cd5d05fa3cf1d89d05a4
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0668e330897698481ce00ca331e183b0c1d44885
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743707"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723141"
 ---
 # <a name="the-new-outlookcom"></a>Az új Outlook.com
 
-Már nem lehet elhagyni az új Outlook.com élményt, és visszatérni a Outlook.com klasszikus verziójához.
+Már nem hagyhatja el az új Outlook.com-élményt, és visszatérhet a Outlook.com klasszikus verziójához.
 
-Ha visszajelzést szeretne adni az új Outlook.com, látogasson el a [UserVoice fórumra.](https://go.microsoft.com/fwlink/p/?linkid=851599) Szavazhat az okra az ötletekre vagy kérdésekre, amelyeket meg szeretne oldani, és mi közvetlenül válaszolunk a legfontosabb megjegyzésekre és javaslatokra.
+Ha visszajelzést szeretne küldeni az új Outlook.com, látogasson el a [UserVoice fórumba](https://go.microsoft.com/fwlink/p/?linkid=851599). Szavazhat azokkal az ötletekkel vagy problémákkal kapcsolatban, amelyekkel foglalkozni szeretne, és közvetlenül a legfontosabb megjegyzésekre és javaslatokra válaszolunk.
 
-[Segítség a Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Segítséget kaphat a Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

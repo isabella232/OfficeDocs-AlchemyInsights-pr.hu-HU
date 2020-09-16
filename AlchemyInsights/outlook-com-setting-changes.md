@@ -6,34 +6,35 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 71e5fd3ed79619425bb797d70b1c0d872063365d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 953bb7feec3099e7125c41b7177057ff40efa5be
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743563"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722709"
 ---
-# <a name="settings-in-outlookcom"></a>Beállítások a Outlook.com
+# <a name="settings-in-outlookcom"></a>Beállítások a Outlook.com-ban
 
-Ha a címzett belső vagy külső a szervezeten belül és ha Office 365-ös vagy Outlook.com e-mail fiókot használ, a következő ügyfeleknek nem kell semmi különlegeset tenniük az üzenet megnyitásához: **Outlook 2016, Webes Outlook / Outlook Web App, Outlook mobilalkalmazás**
+Ha a címzett a szervezeten belül belső vagy külső, és Office 365-vagy Outlook.com-os e-mail-fiókot használ, az alábbi ügyfeleknek nem kell semmi különlegeset tennie az üzenet megnyitásához: **outlook 2016, a webes Outlook és az Outlook Web App, Outlook Mobile App**
 
-A védett e-mailt küldő felhasználók **meghatalmazottjai** nem nyithatják meg a védett üzeneteket. Csak az eredeti címzettek (akinek védett e-mailt küldtek) tekinthetik meg az e-mailben szereplő információkat.
+Azok a **meghatalmazottak** , akiktől védett e-maileket küldtek, nem nyithatók meg a védett üzenetek. Az e-mailben csak az eredeti címzettek (a védett e-maileket küldték meg) tekinthetik meg az adatokat.
 
-- Ha a címzett egy másik internetszolgáltatón&nbsp;van, és nem tudja megnyitni az üzenetet, és egy "rpmsg" mellékletet lát, kövesse az alábbi utasításokat:
+- Ha a címzett egy másik internetszolgáltatón van, és &nbsp; nem tudja megnyitni az üzenetet, és a "rpmsg" mellékletet szeretné látni, kövesse az alábbi utasításokat:
     
-    - Válassza **az Üzenet olvasása** lehetőséget.
+    - Válassza az üzenet **olvasása** lehetőséget.
     
-    - A következőkre irányítják át őket egy olyan oldalra, ahol egyszeri jelkóddal kell kiválasztaniuk **a bejelentkezést.**
+    - A rendszer átirányítja őket egy lapra, ahol **a bejelentkezés egyszer használatos hitelesítő kódot**kell kiválasztania.
     
-    - A rendszer egyszer használatos jelkódot küld ugyanarra az e-mail címre. Írja be a kódot a böngészőablakba, majd válassza a **Folytatás** lehetőséget az üzenet olvasásához.
+    - Az egyszer használatos hitelesítő kódot ugyanarra az e-mail-címre küldi. Írja be a kódot a böngészőablakba, majd válassza a **Continue (tovább** ) gombot az üzenet elolvasásához.
 
-- Ha nem tud titkosítani egy másik szervezettől érkező üzeneteket, kövesse a [cikkben](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)ismertetett feloldási lépéseket.
+- Ha nem tud titkosított üzeneteket más szervezetből, kövesse a jelen [cikkben](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)ismertetett megoldási lépéseket.
 
-- Ha a címzett postaládája a Yahoo vagy</span> a **Gmail**szolgáltatásban található, kérjük, kövesse a [cikkben](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)található utasításokat.
+- Ha a címzett postaládája a **Yahoo vagy a Gmail**alkalmazásban van, kérjük, kövesse a </span> jelen [cikkben](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)található útmutatást.
 
-- A védelmi házirendek csak [az ismert fájlformátumokra vonatkoznak.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types) A OneDrive Vállalati verzió mellékletei titkosítása nem támogatott.
+- A védelmi házirendek csak az [ismert fájlformátumokra](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)vonatkoznak. A OneDrive vállalati verzió mellékletei nem használhatók titkosításhoz.
 
-- A megosztott postaládák nem tudják megnyitni az **ügyfélen keresztül jelenleg küldött titkosított üzeneteket.** 
+- A megosztott postaládákban **jelenleg bármely ügyfélprogramban nem nyithatók meg titkosított üzenetek**. 

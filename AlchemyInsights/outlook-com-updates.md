@@ -1,29 +1,30 @@
 ---
-title: Outlook.com frissítések
+title: Outlook.com-frissítések
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719342"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722493"
 ---
-# <a name="outlookcom-updates"></a>Outlook.com frissítések
+# <a name="outlookcom-updates"></a>Outlook.com-frissítések
 
 **Legújabb frissítések**
 
-- Hozzon ki többet e-mailjeiből az új Outlook.com. Egyszerűsítettük a keresést, hogy minden eddiginél könnyebben megtaláld, amit keresel. Az olyan új funkciók, mint a Fotók és a mellékletek előnézete, lehetővé teszik, hogy a beérkezett üzenetek elhagyása nélkül is láthassa a képeket és a fájlokat. És most hangulatjeleket és GIF-eket adhat az üzenetekhez.  [További információ az új Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Az új Outlook.com kipróbálhatja az e-maileket. A keresés egyszerűsítése érdekében egyszerűbben megtalálhatja, amit keres. Az új funkciók, például a fényképek és a melléklet előnézete segítségével a Beérkezett üzenetek mappa elhagyása nélkül láthatja a képeit és a fájljait. Most pedig hozzáadhat emojik és GIF-eket az üzenetekhez.  [További információ az új Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
-**E-mail frissítések**
+**E-mail-frissítések**
 
-- Ha a Outlook.com postaláda nem frissül, olvassa el [Outlook.com e-mailek szinkronizálási problémáinak megoldása](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Ha a Outlook.com-postaládája nem frissül, tanulmányozza az [Outlook.com e-mail-szinkronizálási problémáinak megoldása](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)című témakört.
