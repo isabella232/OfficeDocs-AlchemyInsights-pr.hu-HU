@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: 47bba526630d1d8c27ef264e7ceefa3e17b274dc
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118377"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740332"
 ---
 # <a name="security-defaults"></a>Biztonsági alapértékek
 
-A biztonsági alapértelmezésekkel kapcsolatos tudnivalókat a [Mik a biztonsági alapértelmezések?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Az alapértelmezett biztonsági beállításokról a [Mik azok a biztonsági alapbeállítások?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)című témakörben olvashat bővebben.
 
-Az Azure Active Directory (Azure AD) biztonsági beállításai megkönnyítik a biztonságot és a szervezet védelmét. A biztonsági alapértelmezések előre konfigurált biztonsági beállításokat tartalmaznak a gyakori támadásokhoz.
+Az Azure Active Directory biztonsági alapbeállításai (Azure AD) megkönnyítik a biztonság megőrzését, és segítséget nyújtanak a szervezet védelmében. A biztonsági alapértékek előre beállított biztonsági beállításokat tartalmaznak a gyakori támadások számára.
 
-A Microsoft mindenki számára elérhetővé teszi a biztonsági beállításokat. A cél annak biztosítása, hogy minden szervezet rendelkezik egy alapszintű biztonsági engedélyezve extra költség nélkül. Az Azure Portalon bekapcsolja a biztonsági alapértékeket.
+A Microsoft mindenki számára elérhetővé tesz biztonsági alapértékeket. A cél annak biztosítása, hogy minden szervezetnek legyen egy alapvető biztonsági szintje, külön költség nélkül. Bekapcsolja a biztonsági alapértékeket az Azure portálon.
