@@ -1,41 +1,42 @@
 ---
-title: 2681 Támadás szimulátor a Microsoft 365-ben
+title: 2681-os támadás szimulátor a Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506740"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47759221"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Támadás szimulátor a Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Támadási szimulátor a Microsoft 365
 
-- Hiányzik támadás szimulátor? A Támadásszimulátor használatához az **Office 365 Komplex veszélyforrások elleni védelem 2.** **Office 365 Enterprise E5** Az Attack Simulator **nem** része az Office 365 Komplex veszélyforrások elleni védelem 1., 1.
+- Hiányzik a támadási szimulátor? A támadási szimulátorhoz az **office 365 Advanced Threat Protection Plan 2 (ATP-terv 2)** vagy az **Office 365 nagyvállalati E5**csomag szükséges. A támadás-szimulátor **nem** része az Office 365 Advanced Threat Protection Plan 1 (ATP-terv 1), az Office 365 Enterprise E3 csomag vagy bármely Microsoft 365-alkalmazás vállalati verziós előfizetésnek.
 
-- A szimulált támadások indításához használt fiókhoz globális rendszergazdai vagy biztonsági rendszergazdai engedélyekés többtényezős hitelesítés (MFA) szükséges. Az Attack Simulator követelményeiről a [jelen témakörben](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)olvashat bővebben.
+- A szimulált támadások elindításához használt fiók globális rendszergazdai vagy biztonsági rendszergazdai engedélyekkel és többtényezős hitelesítéssel (MFA) szükséges. A támadási szimulátor követelményeiről a következő [témakörben](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)olvashat bővebben.
 
-- Fontos tudnivalók a **Brute Force Password** támadásszimulációiról:
+- Fontos tudnivalók a **brute force jelszó** -támadási szimulációról:
 
-  - Ha a célfiókban engedélyezve van az MFA, és a jelszó helyesen lett kitalálva, a fiók nem jelenik meg feltörtként (a második hitelesítési tényező nem lesz teljes).
+  - Ha a célcella engedélyezve van, és a jelszó helyes volt, a fiók nem fog megjelenni a kiegyezésként (a második hitelesítési tényező hiányos lesz).
 
-  - A jelszófájl nem lehet nagyobb 10 MB-nál. Soronként egy jelszót használjon, és a lista utolsó jelszava után adjon meg egy üres sort (kocsivissza).
+  - A jelszó-fájl nem lehet nagyobb 10 MB-nál. Használjon soronként egy jelszót, és vegyen fel egy üres vonalat (kocsivissza) a lista utolsó jelszava után.
 
-- Fontos tudnivalók a **spear phishing** csatolásáról szimulációk:
+- Fontos tudni, hogy a **célzott adathalászat** -szimulációk:
 
-  - Az **adathalászat-kiszolgáló URL-címéhez**nem adhat meg egyéni értéket.
+  - A terv szerint nem tud egyéni értéket biztosítani az **adathalászati bejelentkezési kiszolgáló URL-címéhez**.
 
-  - Ha a címzett [a Jelentésüzenet engedélyezése bővítményt](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) használja az üzenet adathalászatként való jelentéséhez, előfordulhat, hogy nem kap értesítést az üzenetről (mivel ez egy szimulált támadás).
+  - Ha a címzettek [engedélyezik a jelentéskészítő üzenetben](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) az üzenet adathalászatként való jelentését, előfordulhat, hogy nem kap értesítést az üzenetről (mert szimulált támadás).
 
-- Jelentések: A szimulált támadás befejezése után a **támadás részletei** gombra kattintva megtekintheti a jelentést.
+- Jelentések: a szimulált támadás befejeződése után a **támadás részletei** hivatkozásra kattintva megtekintheti a jelentést.
 
-- Az Attack Simulator részletes útmutatásait és új funkcióit a [Microsoft 365 Támadásszimulátor című témakörében találja.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
+- A támadási szimulátorban a következő témakörben talál részletes útmutatást és új funkciókat: a [támadás szimulátor a Microsoft 365-ban](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
