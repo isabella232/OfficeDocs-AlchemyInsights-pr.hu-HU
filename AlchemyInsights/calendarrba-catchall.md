@@ -1,26 +1,27 @@
 ---
-title: 1081 Naptár - RBA CatchAll
+title: 1081-naptár – RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 534173990542144db018a4c3c6fb3bde2fd79f85
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508342"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734373"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="0f24d-102">Szobapostaládák létrehozása és kezelése</span><span class="sxs-lookup"><span data-stu-id="0f24d-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="52e12-102">Helyiség-postaládák létrehozása és kezelése</span><span class="sxs-lookup"><span data-stu-id="52e12-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="0f24d-103">Ha szobapostaládákat szeretne létrehozni és módosítani az Exchange Felügyeleti központban, olvassa el a [Szobapostaládák létrehozása és kezelése című témakört.](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)</span><span class="sxs-lookup"><span data-stu-id="0f24d-103">To create and modify room mailboxes in the Exchange admin center, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="52e12-103">A helyiség-postaládák Exchange felügyeleti központban való létrehozásáról és módosításáról a [helyiség-postaládák létrehozása és kezelése](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)című témakörben olvashat.</span><span class="sxs-lookup"><span data-stu-id="52e12-103">To create and modify room mailboxes in the Exchange admin center, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="0f24d-104">A helyiség- és berendezéspostaládákról (más néven erőforrás-postaládákról) a [Helyiség- és berendezéspostaládák című témakörben olvashat](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)bővebben.</span><span class="sxs-lookup"><span data-stu-id="0f24d-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).</span></span>
+<span data-ttu-id="52e12-104">A helyiség-és berendezés-postaládákról (más néven erőforrás-postaládákról) a [helyiség-és berendezés-postaládák](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)című témakörben olvashat bővebben.</span><span class="sxs-lookup"><span data-stu-id="52e12-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).</span></span>
