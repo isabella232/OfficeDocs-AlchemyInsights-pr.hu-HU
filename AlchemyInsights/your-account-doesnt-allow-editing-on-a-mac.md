@@ -1,24 +1,25 @@
 ---
-title: Aktiválási probléma - A fiók nem engedélyezi a szerkesztést Macen
+title: Aktiválási probléma – a fiók nem teszi lehetővé a szerkesztést a Mac gépen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 4f1c457f4f8f83da0b5146fd7189654428aa5ec4
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: b4304f73ccad60f84c5cc6111de1e425695898e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576958"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748831"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>A Microsoft 365 alkalmazás javítása "A fiók nem engedélyezi a szerkesztést Macen" üzenet
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>A Microsoft 365-alkalmazások rögzítése "fiókja nem teszi lehetővé a szerkesztést Mac" üzenetben
 
 Ha ez az üzenet jelenik meg, próbálkozzon az alábbiakkal:
 

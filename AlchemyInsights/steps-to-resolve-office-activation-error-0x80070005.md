@@ -1,29 +1,29 @@
 ---
-title: A 0x80070005-ös irodai aktiválási hiba elhárításának lépései
+title: Az Office aktiválási hibájának elhárításához szükséges 0x80070005
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "914"
 - "2000021"
 ms.assetid: d291c13a-723e-4425-8e49-baa465ec2505
-ms.openlocfilehash: 61e8bdf268e6c6c6d537073eab04b1ae37d20526
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 70f349cf09bb0204f958735724633904b01672b7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764011"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750849"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>A 0x80070005-ös irodai aktiválási hiba elhárításának lépései
+# <a name="steps-to-resolve-office-activation-error-0x80070005"></a>Az Office aktiválási hibájának elhárításához szükséges 0x80070005
 
-Ha a 0x80070005-ös hiba a Windows frissítése után kezdődött, a problémát a beállításjegyzék frissítésével oldhatja meg.
+Ha a 0x80070005-hiba a Windows frissítése után indul el, a beállításjegyzék frissítésével megoldhatja a problémát.
   
-Töltse le és telepítse a [támogatási és helyreállítási segédet,](https://aka.ms/SARA-OfficeActivation-Alchemy) és futtassa az **aktiválási hibaelhárítót.**
+Töltse le és telepítse a [support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) alkalmazást, és futtassa az **aktiválási hibaelhárítót**.
   
-További segítségért lásd: [Office-hibakód: 0x80070005 az Office aktiválásakor](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865)
+Ha további segítségre van szüksége, olvassa el az Office- [hibakód 0x80070005 az Office aktiválásakor](https://support.office.com/article/7aa7600f-df57-4aef-81d2-25509c66f865) című témakört.
   
