@@ -1,10 +1,11 @@
 ---
-title: Az összes szinkronizálási probléma felzárkózása
+title: Az összes szinkronizálási probléma elfogása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: 727fcdb4b206650ec42a16925a42cd208a91d8b8
-ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
+ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43506292"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757050"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="98d3b-102">Egyszerű Outlook-szinkronizálás – hibaelhárítás</span><span class="sxs-lookup"><span data-stu-id="98d3b-102">Basic Outlook sync troubleshooting</span></span>
+# <a name="basic-outlook-sync-troubleshooting"></a><span data-ttu-id="1e926-102">Az Outlook szinkronizálásának alapvető hibaelhárítása</span><span class="sxs-lookup"><span data-stu-id="1e926-102">Basic Outlook sync troubleshooting</span></span>
 
-<span data-ttu-id="98d3b-103">Ha szinkronizálási problémákat ad, próbálkozzon az alábbiakkal:</span><span class="sxs-lookup"><span data-stu-id="98d3b-103">If you're having sync issues, try the following:</span></span>
+<span data-ttu-id="1e926-103">Ha szinkronizálási problémái vannak, próbálkozzon az alábbiakkal:</span><span class="sxs-lookup"><span data-stu-id="1e926-103">If you're having sync issues, try the following:</span></span>
 
-- <span data-ttu-id="98d3b-104">Futtassa [ezt a diagnosztikai eszközt](https://aka.ms/sara-outlooksendreceive) az érintett gépen.</span><span class="sxs-lookup"><span data-stu-id="98d3b-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
-- <span data-ttu-id="98d3b-105">Csökkentse az elsődleges vagy megosztott postaládában lévő mappák számát.</span><span class="sxs-lookup"><span data-stu-id="98d3b-105">Reduce the number of folders in the primary or shared mailbox.</span></span> <span data-ttu-id="98d3b-106">Lásd: [Az Outlook teljesítményével kapcsolatos problémák, ha túl sok elem vagy mappa van gyorsítótáras módban .ost vagy .pst fájlmappában.](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)</span><span class="sxs-lookup"><span data-stu-id="98d3b-106">See [Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).</span></span>
-- <span data-ttu-id="98d3b-107">Az összes megosztott mappa gyorsítótárazásának letiltása.</span><span class="sxs-lookup"><span data-stu-id="98d3b-107">Disable caching of all shared folders.</span></span>
-- <span data-ttu-id="98d3b-108">Módosítsa a másodlagos Exchange-postaláda konfigurációját egy második Exchange-fiókra a profiljában.</span><span class="sxs-lookup"><span data-stu-id="98d3b-108">Change the configuration of the secondary Exchange mailbox to a second Exchange account in your profile.</span></span>
-- <span data-ttu-id="98d3b-109">Ellenőrizze, hogy a felhasználó tud-e csatlakozni az internethez.</span><span class="sxs-lookup"><span data-stu-id="98d3b-109">Make sure the user can connect to the Internet.</span></span> 
-- <span data-ttu-id="98d3b-110">[Ellenőrizze, hogy online van-e az interneten.](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9)</span><span class="sxs-lookup"><span data-stu-id="98d3b-110">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
-- <span data-ttu-id="98d3b-111">[Határozza meg, hogy a rendszer alkalmaz-e szabályt.](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59)</span><span class="sxs-lookup"><span data-stu-id="98d3b-111">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
-- <span data-ttu-id="98d3b-112">Ellenőrizze, hogy a **Megosztott mappák letöltése** engedélyezve van-e a**Fájlfiókbeállításai** >  **File** > **fiókbeállítások** > **További speciális beállításokkal** > **Advanced**.</span><span class="sxs-lookup"><span data-stu-id="98d3b-112">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>
+- <span data-ttu-id="1e926-104">Futtassa [ezt a diagnosztikai eszközt](https://aka.ms/sara-outlooksendreceive) az érintett számítógépen.</span><span class="sxs-lookup"><span data-stu-id="1e926-104">Run [this diagnostic tool](https://aka.ms/sara-outlooksendreceive) on the affected machine.</span></span>
+- <span data-ttu-id="1e926-105">Csökkentse az elsődleges vagy a megosztott postaládában lévő mappák számát.</span><span class="sxs-lookup"><span data-stu-id="1e926-105">Reduce the number of folders in the primary or shared mailbox.</span></span> <span data-ttu-id="1e926-106">[Az Outlook teljesítménnyel kapcsolatos problémái, ha túl sok elem vagy mappa van a gyorsítótárazott mód. ost vagy a. pst fájl mappájában](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).</span><span class="sxs-lookup"><span data-stu-id="1e926-106">See [Outlook performance issues when there are too many items or folders in a Cached mode .ost or .pst file folder](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).</span></span>
+- <span data-ttu-id="1e926-107">Tiltsa le az összes megosztott mappa gyorsítótárazását.</span><span class="sxs-lookup"><span data-stu-id="1e926-107">Disable caching of all shared folders.</span></span>
+- <span data-ttu-id="1e926-108">Módosítsa a másodlagos Exchange-postaláda konfigurációját a profil második Exchange-fiókjára.</span><span class="sxs-lookup"><span data-stu-id="1e926-108">Change the configuration of the secondary Exchange mailbox to a second Exchange account in your profile.</span></span>
+- <span data-ttu-id="1e926-109">Győződjön meg arról, hogy a felhasználó csatlakozhat az internethez.</span><span class="sxs-lookup"><span data-stu-id="1e926-109">Make sure the user can connect to the Internet.</span></span> 
+- <span data-ttu-id="1e926-110">[Ellenőrizze, hogy van-e online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span><span class="sxs-lookup"><span data-stu-id="1e926-110">[Verify that you are online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).</span></span>
+- <span data-ttu-id="1e926-111">[Annak megállapítása, hogy alkalmaz-e egy szabályt](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span><span class="sxs-lookup"><span data-stu-id="1e926-111">[Determine whether a rule is applied](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).</span></span>
+- <span data-ttu-id="1e926-112">Ellenőrizze, hogy a **megosztott mappák letöltése** beállítás engedélyezve van **-e**, ha a fiók beállításai párbeszédpanel  >  **Account Settings**  >  **Account Settings**  >  **További beállítások**  >  **Advanced**parancsára kattint.</span><span class="sxs-lookup"><span data-stu-id="1e926-112">Verify that **Download Shared Folders** is enabled by going to **File** > **Account Settings** > **Account Settings** > **More Settings** > **Advanced**.</span></span>
