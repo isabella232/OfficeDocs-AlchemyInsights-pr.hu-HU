@@ -1,29 +1,30 @@
 ---
-title: Beállít és képessé tesz csapat kocsi segítő
+title: A Teams segítő beállítása és engedélyezése
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: e55239d6a06e6e590066e5e5bd66579d111f5b89
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344170"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801114"
 ---
-# <a name="set-up-a-cloud-auto-attendant"></a>Felhőalapú segítő beállítása
+# <a name="set-up-a-cloud-auto-attendant"></a>A felhőalapú segítő beállítása
 
-Az automatikus segítőknek jelenleg speciális licencelési követelményei vannak. Tekintse meg, [Mik azok a Cloud Auto-kísérők?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) Ha többet szeretne megtudni az automatikus csapatkísérők létrehozásáról és beállításáról. 
+A segítőknek jelenleg konkrét licencelési követelményeik vannak. Lásd: [Mit nevezünk felhőalapú](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) segítőnek? a Teams segítői létrehozásának és beállításának megismeréséhez. 
 
 További információ:
 
-- [Állítson be egy felhő segítőt](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) a Microsoft csapatok számára. 
-- [Hozzon létre egy felhőalapú hívásvárólistát](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) a Microsoft csapatokkal. 
-- [Válasz segítő és hívásvárólista-hívások közvetlenül a csapatok](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- A Microsoft Teams segítségével [beállíthatja a felhőalapú segítőt](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) . 
+- [Hozzon létre egy felhőalapú hívási várólistát](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) a Microsoft Teams szolgáltatással. 
+- [A segítő és a hívási várólista fogadása közvetlenül a Teams-ról](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls) 
