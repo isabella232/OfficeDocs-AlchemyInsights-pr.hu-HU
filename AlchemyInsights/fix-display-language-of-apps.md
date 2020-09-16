@@ -1,29 +1,30 @@
 ---
-title: Az alkalmazások megjelenítési nyelvének javítása
+title: Az alkalmazások megjelenítési nyelvének kijavítása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: 07dc04b7b79017da6b2a195077722108a945b967
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584833"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730089"
 ---
-# <a name="fix-the-display-language-of-apps"></a>Az alkalmazások megjelenítési nyelvének javítása
+# <a name="fix-the-display-language-of-apps"></a>Az alkalmazások megjelenítési nyelvének kijavítása
 
-Miután módosította a megjelenítési nyelvet a Windows 10-ben, egyes alkalmazások továbbra is használhatják az előző nyelvet, amikor megnyitja őket. Ennek az az oka, hogy az adott nyelvhez készült alkalmazások új verzióit le kell tölteni az Áruházból. A probléma megoldásához megvárhatja az automatikus frissítést, vagy manuálisan telepítheti az alkalmazások frissített verzióját.
+Miután módosította a Windows 10 megjelenítési nyelvét, egyes alkalmazások továbbra is használhatják az előző nyelvet a megnyitáskor. Ez azért történik, mert az adott nyelvhez tartozó alkalmazások új verzióit le kell tölteni az áruházból. A probléma megoldásához várjon az automatikus frissítésre, vagy manuálisan telepítheti az alkalmazások frissített verzióját.
 
-A frissítés manuális telepítéséhez nyissa meg a **Microsoft Store-t,** és kattintson a jobb felső sarokban a **Letöltések és frissítések** elemre. Ezután kattintson **a Frissítések beszedése**gombra. Ha a frissítés befejezése után a nyelv nem változik, próbálja meg újraindítani a számítógépet.
+A frissítés manuális telepítéséhez nyissa meg a **Microsoft áruházat** , és a jobb felső sarokban kattintson a **letöltések és frissítések** elemre. Kattintson a **frissítések beszerzése**elemre. Ha a frissítés befejeződése után a nyelv nem változik, próbálkozzon a számítógép újraindításával.
 
-![Értesüljön a fejleményekről.](media/get-updates.png)
+![Frissítéseket kaphat.](media/get-updates.png)
 
-A beviteli és megjelenítési nyelvi beállításokról a [Beviteli és megjelenítési nyelvek beállításainak kezelése a Windows 10-ben](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).
+Ha többet szeretne megtudni a szövegbeviteli és megjelenítési nyelv beállításairól, olvassa el [a szövegbeviteli és megjelenítési nyelv beállításainak kezelése Windows 10 rendszerben](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences)című témakört.

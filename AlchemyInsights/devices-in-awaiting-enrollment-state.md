@@ -1,29 +1,30 @@
 ---
-title: Az eszközök a Beléptetésre váró állapotban vannak
+title: Az eszközök a beiratkozási állapotra várnak
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770317"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730737"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Az eszközök "Igénylésre vár" állapotban vannak
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Az eszközök "beiratkozási" állapotban vannak
 
-A Desktop Analytics nem rendelkezik diagnosztikai adatokkal ehhez az eszközhöz. 
+Az asztali Analytics nem rendelkezik diagnosztikai adattal az eszközhöz. 
 
-Ez a probléma azért fordulhat elő, mert nemrég adta hozzá az eszközt a célgyűjteményhez, és még nem küldött adatokat. Ez azt is jelentheti, hogy az eszköz nem kommunikál megfelelően a szolgáltatással, és a legújabb diagnosztikai adatok több mint 28 naposak.
+Ez a probléma akkor fordulhat elő, ha nemrég vette fel az eszközt a cél gyűjteménybe, és még nem küldte el az adatot. Azt is megteheti, hogy az eszköz nem kommunikál megfelelően a szolgáltatással, és a legújabb diagnosztikai adatok a 28 napnál régebbiek.
 
-Győződjön meg arról, hogy az eszköz képes kommunikálni a szolgáltatással. További információt a [Végpontok](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)című témakörben talál.
+Ellenőrizze, hogy az eszköz kommunikálni tud-e a szolgáltatással. További információt a [végpontok](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)című témakörben talál.
 
-A beigénylésre váró állapotról a [Kapcsolat állapotának figyelése](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)című témakörben talál további információt.
+A feliratkozási állapotra vonatkozó további tudnivalókért olvassa el a [kapcsolati állapot figyelése](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)című témakört.

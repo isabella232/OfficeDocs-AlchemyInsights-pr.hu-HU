@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 284024bdf9728e8463fe69ef9c9c2695035faf2f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511366"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728073"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Törölt postaláda visszaállítása
 
-Ha egy felhasználó elveszíti az Exchange Online-licencet, postaládája 30 napig megmarad, és a licenc nek a felhasználóhoz való egyszerű hozzárendelésével helyrehozható.
+Ha egy felhasználó elveszíti az Exchange Online-licencét, a postaládáját a rendszer 30 napig megőrzi, és visszaállíthatja úgy, hogy a licencet egyszerűen hozzárendeli a felhasználóhoz.
   
  *Ez csak 30 napon belül fog működni.*  
   
-1. A Microsoft 365 Felügyeleti központban nyissa meg a **Felhasználók** \> **aktív felhasználók** lapot. Válassza ki a kérdéses felhasználót.
+1. A Microsoft 365 felügyeleti központban nyissa meg a **felhasználók** \> **aktív felhasználók** lapot. Jelölje ki a kérdéses felhasználót.
 
-2. A **Licencek és alkalmazások** lapon rendelje hozzá az Exchange Online-licencet, és válassza a **Módosítások mentése lehetőséget.**
+2. A **licencek és alkalmazások** lapon rendelje hozzá az Exchange Online-licencet, és válassza a **módosítások mentése**lehetőséget.
 
-Ha megosztott postaládát próbál helyreállítani, az 30 napig is helyreállítható. Ezeket a **Felhasználók** törölt felhasználók csoportban találja \> **Deleted users**meg; a megosztott postaládákhoz nincs szükség licencre. Ha észreveszi, hogy vissza kell állítania egy törölt felhasználót, olvassa el [a Felhasználó visszaállítása ..](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
+Ha megpróbál helyreállítani egy megosztott postaládát, az is 30 napig állítható helyre. Ezek a **felhasználók** által \> **törölt felhasználók**csoportban találhatók; a megosztott postaládákhoz nincs szükség licencre. Ha úgy látja, hogy vissza kell állítania egy törölt felhasználót, olvassa el [a felhasználó helyreállítása](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)című témakört.
   
