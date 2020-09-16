@@ -1,25 +1,26 @@
 ---
-title: Feljavít-ból Skype részére teendő online-hoz fuvaros
+title: Frissítés a Skype vállalati online verzióról a csoportokra
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: e8aec79ee722ce6f1e208e6f60a45c7977c6ea7b
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: ade3a20530a30ca5a703ce5a22af883cb827aecd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305194"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734733"
 ---
-# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Feljavít-ból Skype részére teendő online-hoz fuvaros  
+# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Frissítés a Skype vállalati online verzióról a csoportokra  
 
-Ha telepítette a Skype for Business Online alkalmazást, és a Skype for Business programot a felhasználók számára kívánja frissíteni, kövesse az alábbi útmutatást. A felhasználók megfelelő párhuzamos és frissítési módjának hozzárendelésével a vállalat által választott frissítési út alapján, vagy akár egyszerre is frissítheti a felhasználókat.
+Kövesse az alábbi cikkben található útmutatást, ha telepítette a Skype vállalati online verziót, és szeretné frissíteni a felhasználókat a Skype vállalati verzióról a csoportokra. A felhasználók a megfelelő együttélési és frissítési mód kiosztásával bármikor frissíthetik a felhasználókat, ha a szervezet által kiválasztott frissítési útra épülnek.
 
-[Feljavít-ból Skype részére teendő online-hoz fuvaros](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
+[Frissítés a Skype vállalati online verzióról a csoportokra](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 

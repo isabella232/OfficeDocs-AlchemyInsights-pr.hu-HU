@@ -1,39 +1,40 @@
 ---
-title: Az Outlook-névjegyek szinkronizálása a címjegyzékben
+title: Outlook-névjegyek szinkronizálása a címjegyzékben
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767071"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737379"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Az Outlook-névjegyek szinkronizálása a címjegyzékben
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Outlook-névjegyek szinkronizálása a címjegyzékben
 
-Az Outlook lehetővé teszi, hogy névjegyeket exportáljon az androidos alapértelmezett Névjegyalbum alkalmazásba. Ez lehetővé teszi, hogy hívás vagy szöveges üzenet hívásakor és szöveges üzenetben láthassa el a partner nevét, és az összes kapcsolattartási adatukat közvetlenül az alapértelmezett Kontaktok alkalmazásban tekintse meg.
+Az Outlook lehetővé teszi, hogy a névjegyeket az Android alapértelmezett Névjegyalbum alkalmazásba exportálja. Ez lehetővé teszi, hogy megtekintse a partner nevét egy hívás vagy szöveges üzenet érkezésekor, és az összes kapcsolattartási információt közvetlenül az alapértelmezett Névjegyalbum alkalmazásban tekintse meg.
  
-**A szolgáltatás engedélyezése:**
+A **funkció engedélyezése**:
  
-1. Az eszközön nyissa meg a **Beállítások lehetőséget.**
+1. A készüléken válassza a **Beállítások lehetőséget**.
 
-2. A **Fiókok csoportban**koppintson arra a fiókra, amellyel szinkronizálni szeretné a névjegyeket.
+2. A **fiókok**csoportban koppintson arra a fiókra, amellyel szinkronizálni szeretné a névjegyeket.
 
-3. Kapcsolja be a **Névjegyek szinkronizálása** csúszkát.
+3. Váltson a **névjegyek szinkronizálása** csúszkára.
  
-A Microsoft 365, Outlook.com és a helyszíni postaládák hibrid modern hitelesítése támogatja a kétirányú kapcsolatexportálást. A kétirányú támogatás biztosítja, hogy a hozzáadott új névjegyek vagy a meglévően szerkesztett névjegyek szinkronizálódjanak az eszköz és az Outlook-fiókok között.
+A kétirányú kontakt-exportálás a Microsoft 365, a Outlook.com és a hibrid, modern hitelesítés támogatása a helyszíni postaládákban. A kétirányú támogatással biztosíthatja, hogy a hozzáadott új névjegyeket vagy a meglévő névjegyeket a rendszer szinkronizálja az eszköz és az Outlook-fiókja között.
  
-Örökölt Exchange-fiókok esetén exportálhatja a névjegyeket az eszközre való mentéshez. Ha a **Névjegyek szinkronizálása** engedélyezve van, az Outlookban a névjegyeken végzett újonnan hozzáadott névjegyeket és szerkesztéseket a rendszer az eszköz Névjegyalbum alkalmazásába menti. A közvetlenül az eszköz Névjegye alkalmazásában végzett szerkesztéseket azonban a program nem menti az Outlookba. Ne feledje, hogy nem támogatjuk a névjegyek hozzáadását/szerkesztését az Android Outlookból a helyszíni cserefiókokhoz, ezért egy másik Outlook-ügyfélből kell kezelnie a névjegyeket.
+Korábbi Exchange-fiókok esetében exportálhatja a névjegyeket az eszközre. Ha a **szinkronizálási partnerek** engedélyezve vannak, az Outlookban újonnan felvett névjegyeket és szerkesztéseket a program a partnerek alkalmazásba menti az eszközön. A közvetlenül az eszköz Névjegyalbum alkalmazásában végzett szerkesztés azonban nem lesz mentve az Outlookba. Felhívjuk a figyelmét arra, hogy a helyszíni Exchange-fiókokhoz nem támogatjuk a névjegyek hozzáadását és szerkesztését az Android Outlookból, ezért a névjegyeket egy másik Outlook ügyfélprogramból kell kezelni.
  
-Egyelőre a GMAIL és az iCloud névjegyszinkronizálása nem támogatott.
+Most a GMAIL és az iCloud kapcsolatok szinkronizálása nem támogatott.
  
-Ha el szeretné távolítani ezeket a szinkronizált névjegyeket, bármikor válthat a **Névjegyek szinkronizálása** között, és a rendszer eltávolítja őket a címjegyzékből.
+Ha el szeretné távolítani ezeket a szinkronizált névjegyeket, bármikor átválthatja a **szinkronizálási névjegyeket** , a címjegyzékből pedig eltávolítja őket.
