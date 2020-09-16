@@ -1,28 +1,29 @@
 ---
-title: Csapatok Freemium
+title: Teams-freemium
 ms.author: heidip
 author: heidip
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 8de8414610fa181c0ad477563c5fdb8eaee5a3bd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 641702f433c7b2d96198154500393b66e20e65c6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737798"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736542"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>Szeretnék ingyen feliratkozni a Teamsre
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Szeretnék regisztrálni a Teams ingyenes verziójára
 
-A csapatok ingyenesen elérhetők néhány különböző programon keresztül. Mivel ezzel a kéréssel kapcsolatba lép az ügyfélszolgálattal, már rendelkezik egy meglévő Microsoft 365-ös bérlővel, ami azt jelenti, hogy már rendelkezik Microsoft Teams-szel.
+A Teams ingyenesen elérhető több programon keresztül. Mivel a támogatási szolgálattal való kapcsolatfelvételkor már van egy meglévő Microsoft 365-bérlő, ami azt jelenti, hogy már rendelkezik a Microsoft Teams szolgáltatással.
 
-A legtöbb esetben a Teams alapértelmezés szerint minden felhasználónál be van kapcsolva. Ha be van kapcsolva, a felhasználók asztali [desktop](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client) és [mobil](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) ügyfelek telepítésével, vagy [a böngészőből](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client) futtathatják a Teamst a <https://teams.microsoft.com.>
+A legtöbb esetben a Teams alapértelmezés szerint be van kapcsolva az összes felhasználónál. Miután bekapcsolta a felhasználókat, a felhasználók az [asztali](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)   és a [mobil](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) ügyfélprogramok telepítésével, illetve [a böngészőből](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client)futtathatják a csoportokat.   <https://teams.microsoft.com.>
 
-Ez alól kivételt képez a Microsoft Teams for Education (EDU). Ha EDU-licenccel rendelkezik, manuálisan kell engedélyeznie a Microsoft Teamst. Ehhez látogasson el a Microsoft 365 Felügyeleti központ **> Szolgáltatások és bővítmények > Microsoft Teams**. Ha az új Teams felügyeleti központot használja, ki kell kapcsolnia **az Új felügyeleti központtal** a **Szolgáltatások és bővítmények**kereséséhez. FONTOS: Előfordulhat, hogy akár 24 órát is várnia kell, hogy a módosítások érvénybe lépjenek.
+Kivétel: a Microsoft Teams oktatási verzió (EDU). Ha van egy EDU-licence, engedélyeznie kell a Microsoft Teams manuális használatát. Ehhez nyissa meg a Microsoft 365 felügyeleti központját **> szolgáltatások és bővítmények > a Microsoft Teams**alkalmazást. Ha az új Teams felügyeleti központot használja, ki kell kapcsolnia **az új felügyeleti központot**a    **szolgáltatások és bővítmények**kereséséhez. Fontos: Előfordulhat, hogy a módosítások életbe léptetéséhez akár 24 óra is eltelhet.
 
-Ne hagyja ki a [távoli dolgozók Teams-szel való támogatásáról](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)szóló összes útmutatásunkat.
+Ne mulassza el az összes útmutatást a [távoli dolgozók támogatása a Teams segítségével](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).

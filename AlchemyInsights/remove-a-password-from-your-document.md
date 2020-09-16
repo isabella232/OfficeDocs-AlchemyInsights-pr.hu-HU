@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001455"
 - "3466"
-ms.openlocfilehash: 0b5a7fe3dd03e1727182b337abc7ff9799052fd1
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: 4763b0115d43b7f524d24ebb9875f7b8cba28d96
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959392"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768213"
 ---
 # <a name="remove-a-password-from-a-word-document"></a>Jelszó eltávolítása Word-dokumentumból
 
-Ameddig tudod az eredeti jelszó, removing egy jelszó-ból egy dokumentum van egy egyszerű folyamat.
+Mindaddig, amíg ismerjük az eredeti jelszót, egy egyszerű folyamat a dokumentum jelszavának eltávolítása.
 
-1. Nyissuk meg a dokumentumot, és írjuk be a jelszót.
-2. Megy **reszelő** > **értesít** > **megvéd dokumentum** > **beavatkozik-val jelszó**.
-3. Töröljük a jelszót a **Password (jelszó) mezőben**, majd nyomjuk meg az **OK**gombot.
+1. Nyissa meg a dokumentumot, és írja be a jelszót.
+2. Nyissa meg a **fájl**  >  **információit**  >  **Protect Document**  >  **, és jelszóval titkosítja a**dokumentumot.
+3. Törölje a jelszót a jelszó **mezőben**, majd válassza **az OK gombot**.
