@@ -1,10 +1,11 @@
 ---
-title: 606 információk a delegációról
+title: 606-adatok a meghatalmazásról
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,24 +13,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7fca7eb6af2abdaefe03e1ae5aa5976575183f79
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661730"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755709"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Az Outlook és az Outlook alkalmazás delegálásának hibaelhárítása a weben
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Delegálás hibaelhárítása az Outlookban és a webes Outlookban
 
 **Hibaelhárítás a SaRA eszközzel:**
 
-1. Töltse le és telepítse SaRA eszköz [itt](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-1. Kiválaszt **kilátás**, akkor **Im ' birtoklás kérdés-val az én-m naptár**.
-1. Igent **mond az** érintett gépre.
-1. Adja meg az érintett felhasználó e-mail címét.
-1. Válassza **az I 'm meghatalmazotti engedélyekkel kapcsolatos problémákat**.
-1. A következő parancssorban, ha az engedélyt adó személy, adja meg a meghatalmazott e-mail címét. Ha megkapta az engedélyeket, és Ön a meghatalmazott, írja be annak a személynek az e-mail címét, aki az engedélyt adta.
-1. A következő menüben válassza ki a forgatókönyvhöz illeszkedő opciót.
+1. [Itt](https://aka.ms/SaRA-SkypeForBusinessSignIn)töltheti le és telepítheti a SaRA eszközt.
+1. Kattintson az **Outlook**elemre, majd **probléma lépett fel a naptárban**.
+1. Az érintett gép **igent** mond.
+1. Adja meg az érintett felhasználó e-mail-címét.
+1. Válassza **a nem sikerül a meghatalmazotti engedélyekkel kapcsolatos problémát**.
+1. Ha Ön az engedélyeket biztosító személy, a következő üzenetben adja meg a meghatalmazott e-mail-címét. Ha megkapta az engedélyeket, és Ön a meghatalmazott, adja meg annak a személynek az e-mail-címét, aki engedélyt adott Önnek.
+1. A következő menüben válassza ki a forgatókönyvhöz illeszkedő lehetőséget.
 1. A következő menüben válassza ki a jogosultsági szintet.
-1. -On ez színpad, Szaraband szerszám akarat előad gyorsbüfé ellenőriz és ez akarat beszerez ön-val lehetséges határozat vagy vagylagosan akarat beszerez egy tüneti fatörzs amit lehet használt részére tovább hibakeresés.
-1. Megtalálhatod a tuskók-ban Szaraband eredmények dosszié elhelyezett-on CUsersUser: \ appdatalocal: \.
+1. A SaRA eszköz ebben a fázisban automatikusan ellenőrzi az automatikus ellenőrzéseket, és felajánlja Önnek a lehetséges felbontást, vagy egy diagnosztikai naplót, amely további hibaelhárítási műveleteket végezhet.
+1. A naplókat a SaRA Results mappában található a C:\Users\Username\AppData\Local\SaraResults. címen találja.

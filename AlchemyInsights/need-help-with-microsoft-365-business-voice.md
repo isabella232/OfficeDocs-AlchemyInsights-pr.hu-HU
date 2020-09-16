@@ -1,25 +1,26 @@
 ---
-title: Segítségre van szüksége a Microsoft 365 Business Premium Voice szolgáltatással kapcsolatban?
+title: Segítségre van szüksége a Microsoft 365 vállalati prémium verzióhoz?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: c9bcc02a31fc9afccee46839af3665d2bdaac0cf
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8ebede67f5414234553968b0a275d984f87800b8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761960"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754593"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Segítségre van szüksége a Microsoft 365 Business Premium Voice szolgáltatással kapcsolatban?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Segítségre van szüksége a Microsoft 365 vállalati prémium verzióhoz?
 
-A Microsoft 365 Business Premium Voice megkönnyíti a kis- és középvállalkozások számára, hogy a Microsoft Teamst hatékony és rugalmas telefonrendszerré alakítsa. A Business Voice szolgáltatásról a [Microsoft 365 Business Premium Voice szolgáltatásban](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) talál további információt?
+A Microsoft 365 vállalati prémium verzió hangja megkönnyíti a kis-és középvállalatok számára a Microsoft Teams hatékony és rugalmas telefonos rendszerének bekapcsolását. A munkahelyi hangról további információt a [Mi a Microsoft 365 Business prémium hang?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) című témakörben talál.
 
-Ha már bevásárolta a Microsoft 365 Business Premium Voice-ot, az [Első lépések varázsló](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) segít a dolgok beindulásában. 
+Ha már megszerezte a Microsoft 365 Business Premium hangját, az [első lépések varázsló](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) segíthet a dolgok beszerzésében. 

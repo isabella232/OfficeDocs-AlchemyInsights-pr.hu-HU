@@ -1,39 +1,40 @@
 ---
-title: Kiemelt üzleti Intelligencia jelentéskészítő kiszolgáló telepítése
+title: A Power BI jelentéskészítő kiszolgálójának telepítése
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 38ef162bd5c26328ee70af37df07adfbf2bfd93b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752378"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755097"
 ---
-# <a name="install-power-bi-report-server"></a>Kiemelt üzleti Intelligencia jelentéskészítő kiszolgáló telepítése
+# <a name="install-power-bi-report-server"></a>A Power BI jelentéskészítő kiszolgálójának telepítése
 
-1. PowerBIReportServer.exe helyét, és a telepítő indítása.
+1. Keresse meg PowerBIReportServer.exe helyét, és indítsa el a telepítőt.
 
-2. Válassza ki a **kiemelt üzleti Intelligencia jelentéskészítő kiszolgáló telepítése**.
+2. Válassza a **Power bi-jelentéskészítő kiszolgáló telepítése**lehetőséget.
 
-3. Válasszon egy edition telepítése, és válassza a **Tovább gombra**.
+3. Válassza ki a telepítendő kiadást, és válassza a **tovább**gombot.
 
-4. Értékelés vagy a Developer edition a legördülő listáról választhatja le.  Ellenkező esetben a BI energiagazdálkodási szolgáltatást vagy a mennyiségi licenc központtal egy termékazonosító kulcs a kiszolgáló beszerzett adhat meg. További információt a termék kulcs, lásd: beszerzése előtt szakasz kezdése. Olvassa el, és megállapodnak abban, hogy a licenc feltételek, majd kattintson a **Tovább gombra**.
+4. Kiválaszthatja az értékelés vagy a fejlesztői kiadás lehetőséget a legördülő listából.  Egyéb esetben a Power BI szolgáltatásból vagy a mennyiségi licencelési szolgáltatási központból beszerezhető termékkulcs megadására szolgál. Ha többet szeretne tudni a termékkulcs beszerzéséről, olvassa el az első lépések című szakaszt. Olvassa el és fogadja el a licencfeltételeket és a feltételeket, majd kattintson a **tovább**gombra.
 
-5. Szüksége van egy adatbázis-működtető rendszer a jelentéskészítő kiszolgáló-adatbázis tárolására használható. Jelölje ki a **következő** csak a jelentéskészítő kiszolgáló telepítése.
+5. A jelentéskészítő Server-adatbázis tárolásához szükség van egy adatbázis-működtetőre. Válassza a **tovább** gombot a jelentéskészítő kiszolgáló telepítéséhez.
 
-6. Adja meg a jelentéskészítő kiszolgáló telepítési helyét. Jelölje ki a **telepíteni** a folytatáshoz.
+6. Adja meg a jelentéskészítő kiszolgáló telepítési helyét. A folytatáshoz válassza a **telepítés** lehetőséget.
 
-7. A sikeres telepítés után válassza ki a **Jelentés-kiszolgáló konfigurálása varázsló** indítása a Reporting Services Configuration Manager.
+7. Miután sikeres volt a beállítás, a **jelentéskészítő kiszolgáló beállítása** elemre kattintva indítsa el a Reporting Services Configuration Managert.
 
-Egy SQL Server adatbázis-működtető rendszer kiszolgáló érhető el a telepítés időpontjában nem szükséges. Szüksége lesz egy Reporting Services konfigurálása a telepítés után.
+A telepítés időpontjában nincs szükség SQL Server-adatbázismotor-kiszolgálóra. A telepítés után a Reporting Services konfigurálásához szüksége lesz.
 
-További információ:https://docs.microsoft.com/power-bi/report-server/install-report-server
+További információ: https://docs.microsoft.com/power-bi/report-server/install-report-server
