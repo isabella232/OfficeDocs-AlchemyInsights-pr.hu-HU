@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
-ms.translationtype: HT
+ms.openlocfilehash: 9a6178bd6ebc9c1c86869ece552448fbe8ac9a9b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799053"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657899"
 ---
 # <a name="unlocking-an-account"></a>Fiókzárolás feloldása
 
@@ -40,4 +41,4 @@ Ha az egyik felhasználója számára korlátozva van az e-mailek küldése, ren
 
 A jelszavak alaphelyzetbe állításával kapcsolatos további esetekért (beleértve az önkiszolgáló jelszó-visszaállítást is) lásd: [Jelszavak alaphelyzetbe állítása az eszközök a többszöri kísérlet az online fizetés kivitelezésére Microsoft 365 Vállalati verzióban](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-A szolgáltatás megakadályozza, hogy a felhasználó e-mailt küldjön egy sérült fiókra és/vagy kimenő levélszemétre utaló bizonyíték észlelése után. Megelőzésképpen végezze el a [Teendők Microsoft 365-ös felhasználói e-mail-fiók feltörése esetén](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) című cikkben ismertetett lépéseket.
+A szolgáltatás megakadályozza, hogy a felhasználó e-mailt küldjön egy sérült fiókra és/vagy kimenő levélszemétre utaló bizonyíték észlelése után. Megelőzésképpen végezze el a [Teendők Microsoft 365-ös felhasználói e-mail-fiók feltörése esetén](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) című cikkben ismertetett lépéseket.

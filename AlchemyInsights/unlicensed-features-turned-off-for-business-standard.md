@@ -1,28 +1,29 @@
 ---
-title: A business standard felhasználók számára kikapcsolt, nem licencelt funkciók
+title: Nem licencelt szolgáltatások kikapcsolva a vállalati verzió szokásos felhasználóinak
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 6bba3b5a53304a78daa52268761fbfa8e3bc0431
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197970"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658007"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>A business standard felhasználók számára kikapcsolt, nem licencelt funkciók
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Nem licencelt szolgáltatások kikapcsolva a vállalati verzió szokásos felhasználóinak
 
-Egyes Microsoft 365 Business Standard felhasználók és szervezetek jelenleg több funkcióáll rendelkezésükre, mint amennyi licenccel rendelkeznek. Ezek a funkciók a besorolás, címkézés és védelem (CLP) és a digitális jogkezelés (DRM) következő beállításait tartalmazzák:
+Egyes Microsoft 365 vállalati verziós felhasználók és szervezetek jelenleg további funkciókat kínálnak, mint amennyit licenceltek. Ezek a funkciók a következő beállításokat tartalmazzák: osztályozás, címkézés és védelem (CLP) és Digital Rights Management (DRM):
     
-2020. június 30-tól a microsoft excel, a Microsoft Word, a Microsoft PowerPoint és a Microsoft Outlook további szolgáltatásai ki vannak kapcsolva.
+A 2020 június 30-án a Microsoft Excel, a Microsoft Word, a Microsoft PowerPoint és a Microsoft Outlook ezekhez a felhasználókhoz kikapcsolta a további funkciókat.
 
-Fontolja meg az eredményes felhasználó licenctípusának módosítását olyan licencre, amely tartalmazza ezeket a szolgáltatásokat. 
+Fontolja meg az érintett felhasználó licenc-típusának módosítását a fenti funkciókat tartalmazó licencre. 
 
-További információt a [Microsoft 365 Business Standard felhasználóinak nyújtott nem licencelt szolgáltatások című](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview) témakörben talál.
+További információért olvassa el [a Microsoft 365 Business Standard felhasználói számára nyújtott licenc nélküli szolgáltatások](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview) című témakört.

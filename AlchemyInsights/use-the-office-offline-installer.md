@@ -5,23 +5,23 @@ author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6d847149d4e1f39af3fa5d5fdd17f187463f6ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726322"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770193"
 ---
 # <a name="use-the-office-offline-installer"></a>Az Office offline telepítőjének használata
 
-A telepítőfájlok letöltéséhez csatlakoznia kell az internethez, de ha ez megtörtént, az Office-t az Office telepítési eszköz (ODT) segítségével az Ön kényelme szerint telepítheti offline állapotba a számítógépre.
+Csatlakoznia kell az internethez a telepítő fájljainak letöltéséhez, de ha egyszer ez elkészült, az Office-t PC-re, az Office-telepítő eszköz (ODT) segítségével az Ön kényelme érdekében telepítheti.
 
-Az ODT vállalati környezetekben készült, és a parancssorból fut, így a lépések bonyolultabbak - de továbbra is működni fognak a telepítéshez egyetlen eszközön. Lásd: [Az Office offline telepítőjének használata](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+Az ODT a nagyvállalati környezetekhez készült, és a parancssorból futtatható, így a lépések bonyolultabbak – de egy eszközön a telepítés továbbra is használható. Lásd: [az Office offline telepítő használata](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
   
