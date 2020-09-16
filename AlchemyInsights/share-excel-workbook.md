@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
-ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
+ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44163783"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739287"
 ---
-# <a name="collaborate-on-excel-documents"></a>Együttműködés Excel-dokumentumokon
+# <a name="collaborate-on-excel-documents"></a>Együttműködés az Excel-dokumentumokon
 
-Ha excel-dokumentumokon is együtt szeretne dolgozni munkatársaival, használja a **társszerzői funkciót.** 
+Ha munkatársaival együtt szeretne dolgozni az Excel-dokumentumokon, használja a **közös szerkesztés funkcióját**. 
 
-A funkció engedélyezéséről és használatáról a megosztással és társszerzőséggel kapcsolatos gyakori kérdésekre adott válaszok on kívül [az Együttműködés Excel-munkafüzeteken című részben a társszerzőséggel című részben](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)olvashat.
+További információ a funkció engedélyezéséről és használatáról, valamint a megosztással és közös létrehozással kapcsolatos gyakori kérdésekre adott válaszok, [az Excel-munkafüzetek közös szerkesztése](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)című témakörben talál segítséget.

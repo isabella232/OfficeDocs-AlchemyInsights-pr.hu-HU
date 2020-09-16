@@ -1,25 +1,26 @@
 ---
-title: Szolgáltatások engedélyezése egyéni parancsfájlokban
+title: Funkciók engedélyezésének engedélyezése egyéni parancsfájlokban
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 4fe0384a97e2f40c8d0dd12bafd84d19edaeb386
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d202ca6e932099f9e68d4e2c5da754b9b56db896
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051787"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738963"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Szolgáltatások engedélyezése egyéni parancsfájlokban
+# <a name="allow-custom-script-to-enable-features"></a>Funkciók engedélyezésének engedélyezése egyéni parancsfájlokban
 
-Előfordulhat, hogy a rendszergazdáknak engedélyeznie kell az **egyéni parancsfájl** szolgáltatást bizonyos szolgáltatások engedélyezéséhez. Például, használók május kap hiba 403 Mikor összekötő pálca-hoz SharePoint-val SharePoint Tervező. A részletes lépésekre, példákra és megfontolásokra vonatkozóan tekintse meg az [egyéni parancsfájl engedélyezése vagy tiltása](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)című témakört.
+Előfordulhat, hogy a rendszergazdáknak engedélyezniük kell az **egyéni parancsfájlok** engedélyezését bizonyos funkciók engedélyezéséhez. Előfordulhat például, hogy a 403-es kódú hiba jelenik meg a sharepointhoz való csatlakozáskor a SharePoint Designer alkalmazással. A lépések részletes leírását az [egyéni parancsfájlok engedélyezése vagy letiltása](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)című témakörben találhatja meg.
 
-Ha használók van tapasztalás egy **hiba 403** -val SharePoint vagy OneDrive, tudod ellenőriz a [szolgáltatás egészség műszerfal](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) -hoz meghatároz vajon ez egy egy tudni kérdés-val egy határozat-ban folyamat előtt Ön hív támogat vagy időt tölt hibakeresés. A probléma lehet nagyon ideiglenes, és már a Microsoft által azonosított, de lehet, hogy megszűnik az idő között a kibocsátási azonosítás és kiküldetés a szolgáltatás egészségügyi műszerfal. További frissítésekért továbbra is ellenőrizze a szolgáltatásállapot irányítópultot.
+Ha a felhasználók SharePoint-vagy OneDrive hibát tapasztalnak a **403** -ban, ellenőrizheti a [szolgáltatás állapota irányítópultot](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) annak megállapításához, hogy ismert probléma-e egy olyan hibával, amely a támogatási vagy a munkaidő-elhárítási probléma megoldásának megkezdése előtt folyamatban van. A probléma lehet, hogy nagyon ideiglenes, és a Microsoft már azonosított, de lehet, hogy lejár a probléma azonosítása és a szolgáltatás állapota irányítópultra való feladása között. További frissítésért tekintse meg a szolgáltatás állapota irányítópultot.
 
