@@ -1,43 +1,44 @@
 ---
-title: 'AIP: A házirendek nem a várt módon viselkednek'
+title: 'Rendszergazda: a házirendek nem a várt módon viselkednek.'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 527556fcb02525eb88ea992c38a2ddfcba6f9453
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 0dfaae776ec551fe12919e8a8e69f2e7a58d67d0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506560"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663191"
 ---
-# <a name="aip-policies-not-behaving-as-expected"></a>AIP: A házirendek nem a várt módon viselkednek
+# <a name="aip-policies-not-behaving-as-expected"></a>Rendszergazda: a házirendek nem a várt módon viselkednek.
 
-Azure Information Protection: Szabályzatok nem viselkednek a várt módon, lásd a következő ajánlott irányelvek különböző szabályzati problémák:
+Azure Information Protection: a házirendek a várttól eltérő módon működnek
 
-1. Ha vizuális jelölésekkel kapcsolatos problémái vannak, kérjük, olvassa el [A vizuális jelölések alkalmazásakor való áttekintést.](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)
-2. Ha problémái vannak az automatikus címkézéssel, tekintse át a [Hogyan konfigurálhatja az Azure Information Protection automatikus és ajánlott besorolási feltételeit,](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) és [hogy milyen bizalmas információtípusokat keresnek.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
-3. Ha problémákat okoz a Ninatív/Pfile-védelemmel, tekintse át [a Fájl API-konfigurációját.](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration)
-4. Ellenőrizze, hogy olyan hatókörrel kapcsolatos szabályzatokat használ-e, amelyek nincsenek megfelelően konfigurálva: [Az Azure Information Protection szabályzat konfigurálása adott felhasználók számára hatókörrel kapcsolatos szabályzatok használatával.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
-5. Ha az automatikus címkézés nem működik az Outlook programban, amikor címkézett dokumentumot csatol, ellenőrizze, hogy a DRMEncryptProperty nincs-e definiálva az itt leírtak szerint: [Tartalomvédelmi rendszerbiztonsági beállításjegyzék-beállítások](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
+1. Ha a vizuális jelzésekkel kapcsolatos problémákat tapasztal, olvassa el a [vizuális jelzések alkalmazása](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)esetén című témakört.
+2. Ha problémák merülnek fel az automatikus címkézés során, kérjük, tekintse át, hogyan konfigurálhatja az Azure-alapú adatvédelem és [a bizalmas adattípusok](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) [automatikus és ajánlott besorolási feltételeit](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) .
+3. Ha a natív/Pfile védelem során problémákat tapasztal, olvassa el a [fájlok API-konfigurációjának](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration)áttekintése című témakört.
+4. Ellenőrizze, hogy léteznek-e olyan hatókörű házirendek, amelyek nincs megfelelően konfigurálva: [Az Azure-adatvédelem házirendjének konfigurálása meghatározott felhasználókhoz hatóköres házirendek használatával](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+5. Ha a címkével ellátott dokumentumok csatolásakor az automatikus címkézés nem mûködik az Outlookban, ellenőrizze, hogy a DRMEncryptProperty nem az itt ismertetett módon van definiálva: [a tartalomvédelmi szolgáltatás beállításjegyzékének beállításai](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 
-Ha továbbra is problémákat tapasztal, gyűjtse össze az Azure Information Protection ügyfélnaplókat, és csatolja az exportált naplókat ehhez a jegyhez.
+Ha továbbra is problémákat tapasztal, kérjük, gyűjtsön az Azure Information Protection ügyfél naplóit, és csatolja az exportált naplókat a jegyhez.
 
 1. Nyisson meg egy Office-dokumentumot, vagy hozzon létre egy új e-mailt az Outlookban.
-2. Kattintson **a Védelem/érzékenység**  >  **súgó és visszajelzés gombra.**
-3. Kattintson **a Naplók exportálása gombra.**
-4. Mentse a naplókat a választott helyre, és csatolja őket ehhez a szolgáltatási kérelemhez.
+2. Kattintson a **védelem/érzékenység**  >  **Súgó és visszajelzés**elemre.
+3. Kattintson a **naplók exportálása**parancsra.
+4. Mentse a naplókat a kívánt helyre, és csatolja őket a szolgáltatási kéréshez.
 
 További források:
 
-- [Az Azure Information Protection vizuális jelölései címkéjének konfigurálása](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [Tekintse át az Azure Information Protection dokumentációját](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Érzékenységi címkék használata az Office-appokban](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- [Címke beállítása az Azure-védelemhez használható vizuális jelzésekhez](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
+- [Az Azure Information Protection dokumentációjának áttekintése](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Tartalmi címkék használata a Microsoft 365-alkalmazásokban](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 

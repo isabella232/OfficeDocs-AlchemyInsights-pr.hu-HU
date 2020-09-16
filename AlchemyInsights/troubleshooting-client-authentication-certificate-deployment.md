@@ -1,54 +1,55 @@
 ---
-title: Ügyfélhitelesítési tanúsítványok telepítésének hibaelhárítása
+title: Ügyfél-hitelesítési tanúsítvány telepítésének hibaelhárítása
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: 698329d7705af320c9f679b92532b58ac84e6624
-ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
+ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46555308"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658988"
 ---
-# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Ügyfélhitelesítési tanúsítványok telepítésének hibaelhárítása
+# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Ügyfél-hitelesítési tanúsítvány telepítésének hibaelhárítása
 
-Az Intune NDES/SCEP és PKCS/PFX ügyféltanúsítvány-profilokat általában más profiltípusokkal, például a Wifivel, a VPN-nel és az e-mailekkel együtt használják, hogy a felhasználók hitelesíthessék magukat a vállalati erőforrásokban. Ha ezek a profiltípusok egy ügyféltanúsítvány-profilhoz vannak csatolva, az adott profil sikeres üzembe helyezésétől függ.
+Az Intune NDES/SCEP és a PKCS/PFX-ügyfél tanúsítványok profiljait gyakran használják más profilokhoz, például a WiFi-hez, a VPN-hez és a levelezéshez, hogy a felhasználók a vállalati forrásokban legyenek hitelesítve. Ha ezek a profilok az ügyfél tanúsítvány-profiljához kapcsolódnak, attól függ, hogy milyen sikeres volt a profil bevezetése.
 
-Az infrastruktúra kezdeti beállítása és az ügyféltanúsítvány-profil kapcsolódó konfigurációja gyakran hibaelhárítást igényel. Az NDES-összekötő sikeres beállításának lépésről lépésre történő útmutatóját és a tanúsítványtelepítéssel kapcsolatos problémák elkülönítésére vonatkozó hibaelhárítási útmutatást a következő témakörökben talál: 
+A kezdeti infrastruktúra-beállítás és az ügyfél tanúsítvány-profiljának társított konfigurációja gyakran hibaelhárítást igényel. A NDES-összekötők sikeres beállításának lépésenkénti útmutatója és a tanúsítványok telepítésével kapcsolatos hibaelhárítási útmutató a következő témakörökben található: 
 
-- [Infrastruktúra konfigurálása az SCEP és az Intune támogatásához](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
-- [Az SCEP-tanúsítványprofilok Microsoft Intune-nal való hibaelhárításának áttekintése](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+- [Infrastruktúra beállítása az Intune-SCEP támogatásához](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
+- [A SCEP hibaelhárítása a Microsoft Intune szolgáltatással – áttekintés](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-A hivatkozott powershell-parancsfájlok segítségével ellenőrizze a konfigurációt. További információ: [Intune Certificate connector verification scripts](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
+A hivatkozott PowerShell-parancsfájlok segítségével ellenőrizheti a konfigurációt. További információt az [Intune tanúsítvány-összekötő ellenőrző parancsfájljai](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority)című témakörben találhat.
 
   
 **Egyéb gyakori problémák**
 
-**Amikor megpróbálom telepíteni az Intune tanúsítványösszekötőt az NDES-összekötő kiszolgálóra, a következő üzenet jelenik meg: "A tanúsítványkérelemben szereplő jelszó nem ellenőrizhető. Lehet, hogy már használták. Szerezzen be egy új jelszót, amelyet ezzel a kéréssel kell beküldenie."**  
+**Amikor megpróbálom telepíteni az Intune-tanúsítvány összekötőt az NDES összekötő kiszolgálójára, a következő hibaüzenet jelenik meg: "a tanúsítvány kérésének jelszava nem ellenőrizhető. Lehet, hogy már használta. Új jelszó beolvasása a kéréssel való elküldés céljából**  
 
-Ez az üzenet azt jelenti, hogy rendszergazdaként kell futtatnia a tanúsítványösszekötő telepítését.
+Ez az üzenet azt jelzi, hogy rendszergazdaként kell futtatnia a tanúsítvány-összekötőt.
 
-Bizonyos környezetekben az Intune-tanúsítványt használó kiszolgálóknak proxykiszolgálót kell használniuk az Intune-hoz való csatlakozáshoz, ezért a tanúsítvány-összekötőnek proxyt kell használnia. Bizonyos körülmények között az NDES-összekötő figyelmen kívül hagyja a konfigurált proxybeállításokat, és szükség lehet a proxybeállítások konfigurálására a LocalSystem biztonsági környezetében való futtatás közben. 
+Bizonyos környezetekben azok a kiszolgálók, amelyekben az Intune-tanúsítvány fut, proxykiszolgálót kell használniuk ahhoz, hogy csatlakozhasson az Intune-hoz, és így a bizonyítvány-összekötőnek proxyt kell használnia. Bizonyos körülmények között a NDES összekötő figyelmen kívül hagyja a konfigurált proxybeállításokat, ezért szükség lehet a proxybeállítások konfigurálására a LocalSystem biztonsági környezetében. 
  
-A megoldás az, hogy futtassa az Internet Explorer rendszer, és konfigurálja a proxy IE. Az Intune Connector szolgáltatás újraindítása után az NDES-összekötő csatlakozik az Intune-hoz.
+A megoldás az, ha az Internet Explorer rendszert futtatja, és egy proxyt konfigurál az IE-ben. A Intune-összekötő szolgáltatás újraindítása után a NDES összekötő az Intune szolgáltatáshoz csatlakozik.
 
-**A felhasználói eszközök már nem kapnak SCEP-tanúsítványokat az NDES-től.**
+**A felhasználói eszközök ezentúl nem kapják meg a SCEP-tanúsítványokat a NDES.**
 
-Lehetséges, hogy az NDES-kiszolgáló számára kiállított és az NDES-összekötő telepítése során megadott ügyfélhitelesítési tanúsítvány lejárt vagy hiányzik. A probléma megoldása: 
+Előfordulhat, hogy az NDES-kiszolgálónak kiállított ügyfél-hitelesítési tanúsítvány, amelyet az NDES összekötő telepítése során megadott, lejárt vagy hiányzik. Megoldás: 
  
-1. Távolítsa el az NDES-összekötőt.  
-2. Az alábbi adatok kal új ügyfélhitelesítési vagy kiszolgálói hitelesítési tanúsítványt kérhet: 
+1. Távolítsa el a NDES összekötőt.  
+2. Az alábbi adatok segítségével igényelhet új ügyfél-vagy kiszolgálói hitelesítési tanúsítványt: 
  
-    - Tulajdonos neve: CN=external fqdn  
-    - Tulajdonos alternatív neve (mindkettő kötelező): DNS=external fqdn, DNS=internal fqdn 
+    - Tárgy neve: CN = külső FQDN  
+    - Alárendelt alternatív név (mindkettő szükséges): DNS = külső FQDN, DNS = belső FQDN 
  
 3. Telepítse újra az NDES-összekötőt az új tanúsítvánnyal.
