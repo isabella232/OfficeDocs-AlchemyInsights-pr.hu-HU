@@ -1,37 +1,38 @@
 ---
-title: 1800001 Profil létrehozása vagy szerkesztése
+title: 1800001-profil létrehozása vagy szerkesztése
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: 7e98c9bd2feb9f36c2f9486e4e31e4882b68f6df
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715490"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732429"
 ---
 # <a name="create-or-edit-an-outlook-profile"></a>Outlook-profil létrehozása vagy szerkesztése
 
-Új Outlook-profil létrehozásához, profil szerkesztéséhez vagy profil átnevezéséhez kövesse az alábbi lépéseket.
+Az alábbi lépésekkel új Outlook-profilt hozhat létre, szerkeszthet egy profilt, illetve átnevezheti a profilját.
   
-1. Az Outlook ban válassza **a Fájlfiók** \> **beállításainak** \> **kezelése a profilokat.**
+1. Az Outlookban válassza a **fájlkezelő** \> **beállításai** > \> **profilok kezelése**lehetőséget.
     
-2. A **Levelezés beállítása** párbeszédpanelen válassza a **Profilok megjelenítése**lehetőséget.
+2. A **levelezési beállítások** párbeszédpanelen válassza a **profilok megjelenítése**elemet.
     
-3. Hajtsa végre a megfelelő műveletet:
+3. Hajtsa végre az alábbi műveletek valamelyikét:
     
   - Új profil létrehozásához válassza a **Hozzáadás**lehetőséget.
     
-  - Profil szerkesztéséhez vagy átnevezéséhez válassza a **Tulajdonságok lehetőséget.**
+  - A profilok szerkesztéséhez vagy átnevezéséhez válassza a **Tulajdonságok**lehetőséget.
     
-Ha problémái vannak egy Outlook-profil létrehozásával vagy szerkesztésével, futtathatja az [Outlook profileszközt](https://aka.ms/SaRA-OutlookSetupProfile) az érintett gépen. Bizonyos ellenőrzéseket hajt végre, és amikor készen áll, létrehoz egy Outlook-profilt az e-mail címével. 
+Ha problémák lépnek fel az Outlook-profilok létrehozásakor vagy szerkesztésekor, futtathatja az [Outlook-profil eszközt](https://aka.ms/SaRA-OutlookSetupProfile) az érintett számítógépen. Elvégez bizonyos ellenőrzéseket, és ha készen áll arra, hogy Outlook-profilt hozzon létre az e-mail-címével. 
   
 

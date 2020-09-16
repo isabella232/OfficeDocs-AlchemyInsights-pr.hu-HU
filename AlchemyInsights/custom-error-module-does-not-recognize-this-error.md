@@ -1,23 +1,24 @@
 ---
-title: Az egyéni hibamodul nem ismeri fel ezt a hibát az üzenetkövetés letöltésekénekkor?
+title: Az egyéni hibakezelő modul nem ismeri fel ezt a hibát az üzenet nyomon követésének letöltésekor?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: 39184bef117e29f88be4487a79cb50fd778a94c4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3d60a36cea90a78a31263ad78a72855c274e8e08
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705231"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731961"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Első "egyéni hibamodul nem ismeri fel ezt a hibát", amikor letölti az üzenet nyomkövetési?
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>A "Custom Error Module nem ismeri fel ezt a hibát" hibaüzenet jelenik meg az üzenet nyomon követésének letöltésekor?
 
-Tisztában vagyunk a problémával, és dolgozunk a javításon.  Addig is próbálja meg **törölni a böngésző gyorsítótárát,** vagy az InPrivate mód használatával megoldani a problémát.
+Tudunk a problémáról, és dolgozunk a javításon.  Eközben próbálkozzon a **böngésző gyorsítótárának törlésével**, vagy a probléma megoldásához használja a InPrivate-módot.
