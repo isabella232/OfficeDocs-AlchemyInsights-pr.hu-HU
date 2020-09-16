@@ -1,24 +1,25 @@
 ---
-title: 924 Szabálykorlátok
+title: 924-szabályok korlátai
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "924"
 - "1800021"
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 8f26aac23cbcbc6b0b1d18f433467f90b666a4d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 185f19f58a9efd3c83f5f3c0ec2682a0849b6675
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681862"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727641"
 ---
-# <a name="rule-limits"></a>Szabálykorlátok
+# <a name="rule-limits"></a>Szabályok korlátai
 
-A szabálykorlátok a terv beállításai és az önálló beállítások között változhatnak. További információt a [Napló, a Átvitel és a Beérkezett üzenetek szabálykorlátok című témakörben talál.](https://technet.microsoft.com/library/exchange-online-limits.aspx)
+A szabályok korlátai eltérőek lehetnek a terv beállításai és a különálló beállítások között. További információ: a [Journal, a Transport és a beérkezett üzenetekre vonatkozó szabályok korlátai](https://technet.microsoft.com/library/exchange-online-limits.aspx).

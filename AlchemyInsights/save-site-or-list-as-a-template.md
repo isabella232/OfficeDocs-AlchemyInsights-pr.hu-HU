@@ -4,43 +4,44 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: 627f49991aaef984f731412045351d7a1862b376
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 37ae727aa6dd6af94d0d833ce972aec413d90194
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048726"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727533"
 ---
 # <a name="save-site-or-list-as-a-template"></a>Webhely vagy lista mentése sablonként
 
-A SharePoint webhelysablonok előre elkészített definíciók, amelyeket egy adott üzleti szükséglet köré terveztek. További információ: [sablonok használata különféle SharePoint-webhelyek létrehozásához](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+A SharePoint-webhelysablonok előre elkészített definíciók, amelyek egy adott üzleti szükséglet köré lettek tervezve. További információt a [sablonok használata a különböző típusú SharePoint-webhelyek létrehozásához](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4)című témakörben talál.
 
-Íme néhány gyakori probléma/megoldás a webhelyek vagy listák mentése sablonként a SharePoint Online szolgáltatásban.
+Az alábbiakban néhány gyakori problémát és megoldást találhat a webhelyek vagy listák sablonként való mentésekor a SharePoint Online-ban.
 
-**A webhely/listasablon mentése gomb nem érhető el vagy hiányzik**. 
+**A webhely/lista sablonjának mentése gomb nem érhető el vagy hiányzik**. 
 
-- A rendszergazdáknak az egyéni parancsfájl engedélyezése lehetőséget kell engedélyezni a sablonszolgáltatások engedélyezéséhez. A részletes lépésekről példákat és megfontolásokat az [egyéni parancsfájl engedélyezése vagy tiltása](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)című témakörben találhat.
+- A rendszergazdáknak engedélyezniük kell az egyéni parancsfájlok számára a sablonok funkcióinak használatát. A lépések részletes ismertetését az [egyéni parancsfájlok engedélyezése vagy letiltása](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)című témakörben találhatja meg.
 
 
-- A webhely mentése sablonként parancs használata nem támogatott, és problémákat okozhat a SharePoint Server közzétételi infrastruktúrát használó webhelyeken.
+- A webhely mentése sablonként parancs nem érhető el, és problémákat okozhat a SharePoint Server közzétételi infrastruktúráját használó webhelyeken.
 
 
 **A webhelysablon nem hozható létre vagy nem működik megfelelően**
 
-- Lehet, hogy hiányzik egy [szolgáltatás](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) , és a sablon nem aktiválható. Ha a szolgáltatás nem aktiválható az aktuális webhelycsoportban, a webhelysablonnal nem lehet webhelyet létrehozni.
+- Előfordulhat, hogy a sablon hiányzik egy [funkcióból](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) , és nem aktiválódik. Ha a funkció nem érhető el az aktuális webhelycsoportban, a webhelysablonok nem használhatók webhelyek létrehozására.
 
 
-- Ellenőriz-hoz lát ha akármi tetszik vagy könyvtárak kimagaslik a [oldalra dől kilátás korlátoz küszöb](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) -ból 5000 cikk mint ez tud fatuskó teremtés-ból egy telek mintadeszka.
+- Ellenőrizze, hogy a lista vagy a tárak túllépik-e az 5000-elemek [listanézet-küszöbértékét](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) , mivel ez letilthatja a webhelysablon létrehozását.
 
 
-- Elképzelhető, hogy a webhely túl sok erőforrást használ, ezért a webhelysablon túllépi az 50 megabájt (MB) korlátot.
+- Előfordulhat, hogy a webhely túl sok erőforrást használ, ezért a webhelysablon túllépi a 50 megabájtos (MB) korlátját.
 
 
-- Problémák merülnek fel a keresőoszlopot használó listák adatainak megjelenítésekor. További információ: [a sablon által generált lista nem jeleníti meg a SharePoint Online megfelelő keresőlistájából származó adatokat](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+- Problémák vannak az olyan listákban, amelyek keresési oszlopot használnak. További információ: [a sablonok által generált lista nem jeleníti meg az adatokat a SharePoint Online-ban a megfelelő keresési listából](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
 
-További részletes információ a közös problémákról és megoldásokért kérjük, [hozzon létre és használjon webhelysablonokat](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+A gyakori problémákról és megoldásokról további információt a [webhelysablonok létrehozása és használata](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989)című témakörben találhat.
 
