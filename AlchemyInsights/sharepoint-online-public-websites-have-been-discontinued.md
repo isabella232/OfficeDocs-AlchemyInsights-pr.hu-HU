@@ -1,27 +1,28 @@
 ---
-title: A SharePoint Online nyilvános webhelyei megszűnnek
+title: Megszűnnek a nyilvános SharePoint Online-webhelyek
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 215a90ee4c3c93c4d8e35183aa81e2db889fbcd0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: fbe21c0aa9fbad3345c62d2dac276f49a37d5c02
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764227"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770805"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>A SharePoint Online nyilvános webhelyei megszűntek
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Megszűnt a SharePoint Online nyilvános webhelye
 
-A SharePoint Online nyilvános webhelyei megszűntek.
+Megszűnt a SharePoint Online nyilvános webhelye.
 
-Ha létrehozott egy SharePoint Online-nyilvános webhelyet, 2018. Ha továbbra is nyilvános webhelyet szeretne létrehozni, újat kell létrehoznia egy új szolgáltatóval. A SharePoint Online nyilvános webhelyén lévő tartalom törölve lett.
+Ha létrehozott egy nyilvános SharePoint Online-webhelyet, a 2018 március 31-én is használhatja. Ha továbbra is nyilvános webhelyt szeretne használni, új szolgáltatót kell létrehoznia. A SharePoint Online-alapú nyilvános webhely tartalma törlődik.
 
-A nyilvános webhely leállításáról a [Funkció megszakításának folyamatával kapcsolatos részletek](https://go.microsoft.com/fwlink/?linkid=866980)című témakörben talál.
+Ha többet szeretne tudni a nyilvános webhely megszüntetéséről, olvassa el [a funkció lefolytatási folyamatának részleteit](https://go.microsoft.com/fwlink/?linkid=866980).

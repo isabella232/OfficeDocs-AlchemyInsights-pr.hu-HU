@@ -1,34 +1,35 @@
 ---
-title: Csoport hozzáadása SharePoint-webhelyhez
+title: Csoport felvétele SharePoint-webhelyre
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 5dab9fce935936898927afd55f8f6e9260249157
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 9bec2f71465e43e1c3cba038e0e68949672ceb8a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582813"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771206"
 ---
-# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problémák a csoportos csatlakoztatott webhely SharePoint-ban történő létrehozásakor
+# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problémák a csoporthoz csatlakoztatott SharePoint-webhelyek létrehozásakor
 
-1. A csoporthoz csatlakoztatott hely létrehozása vagy újbóli létrehozása során gyakran előforduló gyakori problémák.
-Ha törölt egy csoportot és annak csatlakoztatott webhelyét, és egy másik webhelyet szeretne létrehozni ugyanazzal az URL-címmel, véglegesen el kell távolítania az előző webhelyet.
+1. A csoporttal összekapcsolt webhelyek létrehozásakor vagy ismételt létrehozásakor előforduló gyakori problémák.
+Ha törölt egy csoportot és a hozzá kapcsolódó webhelyet, és egy URL-lel másik webhelyet szeretne létrehozni, akkor véglegesen el kell távolítania az előző webhelyet.
 
-   - [SPO-felügyeleti rendszerhéj](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429) letöltése
-   - A PowerShell kezelésének megkezdéséről a [SharePoint Online Felügyeleti rendszerhéj – első lépések](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite)ebben az esetben olvashat bővebben.
-   - Távolítsa el a helyet a törölt helyekről az [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell parancsmag használatával. A Powershell szükséges a csoportwebhelyek végleges törléséhez.
+   - A [Spongya felügyeleti rendszerhéj](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429) letöltése
+   - A PowerShell használatáról további információt a [SharePoint Online felügyeleti rendszerhéj – első lépések](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite)című témakörben találhat.
+   - Távolítsa el a webhelyet a törölt webhelyekről a [Remove-SPODeletedSite PowerShell-](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) parancsmag használatával. A csoport webhelyeinek végleges törléséhez PowerShell szükséges.
 
-1. Ha csoporthoz csatlakoztatott webhelyet hoz létre, és figyelmeztetést kap: **Már létezik egy másik, azonos aliassal rendelkező csoport,** ellenőrizze a meglévő csoportokat a [Microsoft 365 Felügyeleti központból.](https://admin.microsoft.com/AdminPortal/Home#/groups) A probléma megoldásához törölje a meglévő csoportot, ha már nincs rá szükség, vagy hozzon létre egy másik aliast hozzárendelt webhelyet.
+1. Ha egy csoporthoz kapcsolt webhelyet hoz létre, és figyelmeztetést jelenít meg: **egy másik, ugyanazzal az aliassal rendelkező csoport már létezik**, ellenőrizze a [Microsoft 365 felügyeleti központjának](https://admin.microsoft.com/AdminPortal/Home#/groups)meglévő csoportját. A probléma megoldásához törölje a meglévő csoportot, ha már nincs rá szükség, vagy hozza létre azt a webhelyet, amelyhez másik alias van rendelve.
 
-1. A SharePoint segítségével különböző módokon hozhat létre és használhat modern csoportokat.
+1. A modern csoportokat többféle módon hozhatja létre és használhatja a SharePointtal.
 
-   - Meglévő webhelyeket összekapcsolhat egy Microsoft 365-csoportokkal. További információt a [Microsoft 365-csoport csatlakoztatása a SharePoint felhasználói felületén című témakörben](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)talál.
-   - Microsoft 365 csoporthoz csatlakoztatott webhely létrehozásához [csoportwebhelyet kell létrehoznia.](https://admin.microsoft.com/sharepoint)
+   - A meglévő webhelyeket összekapcsolhatja a Microsoft 365-csoporttal. További információt a [Microsoft 365-csoport csatlakoztatása a SharePoint felhasználói felületéről](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)című témakörben találhat.
+   - Ha létre szeretne hozni egy Microsoft 365-csoportot tartalmazó összekapcsolt webhelyet, létre kell hoznia egy [csoportwebhely](https://admin.microsoft.com/sharepoint)-webhelyet.
