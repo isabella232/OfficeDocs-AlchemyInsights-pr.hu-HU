@@ -1,53 +1,54 @@
 ---
-title: Indítási beállítások a Windows 10-ben
+title: Indítási beállítások a Windows 10 rendszerben
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: b4854944d8cbd9bd83fdea609007c15d39c8eb75
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e49faca66785c6611dda702a381c39cdb10884f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409061"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751137"
 ---
-# <a name="startup-settings-in-windows-10"></a>Indítási beállítások a Windows 10-ben
+# <a name="startup-settings-in-windows-10"></a>Indítási beállítások a Windows 10 rendszerben
 
-**Az indításkor automatikusan futó alkalmazások módosítása**
+**A rendszerindítás során automatikusan futtatandó alkalmazások módosítása**
 
-1. Nyissa meg a [Beállítások > alkalmazások > indításlehetőséget.](ms-settings:startupapps?activationSource=GetHelp)
+1. Nyissa meg a [beállítások > alkalmazásokat > indítás lehetőséget](ms-settings:startupapps?activationSource=GetHelp).
 
-2. Győződjön meg arról, hogy az indításkor futtatni kívánt alkalmazások **be**vannak kapcsolva.
+2. Ellenőrizze, hogy **be van-e kapcsolva az**indításkor futtatni kívánt összes alkalmazás.
 
-**Alkalmazás hozzáadása automatikus futtatáshoz indításkor**
+**Automatikusan futtatott alkalmazás felvétele indításkor**
 
 1. Kattintson vagy koppintson a **Start** gombra, és keresse meg az indításkor futtatni kívánt alkalmazást.
 
-2. Kattintson a jobb gombbal az alkalmazásra, válassza az **Egyebek**, majd **a Fájlhely megnyitása**parancsra. Ezzel megnyitja azt a helyet, ahová az alkalmazás parancsikonját menti. Ha nincs lehetőség a Fájl helyének megnyitása beállításra, az azt jelenti, hogy az alkalmazás nem futtatható indításkor.
+2. Kattintson a jobb gombbal az alkalmazásra, kattintson az **egyebek**, majd a **fájl helyének megnyitása**parancsra. Ezzel megnyitja azt a helyet, ahol az alkalmazás parancsikonja mentve van. Ha a fájl helyének megnyitására nincs lehetőség, az azt jelenti, hogy az alkalmazás nem futtatható indításkor.
 
-3. Ha a fájl helye meg van nyitva, nyomja le a **Windows billentyű + R**billentyűkombinációt, írja be a **shell:startup**billentyűt, majd kattintson az **OK gombra.** Ekkor megnyílik az Indítópult mappa.
+3. A fájl helyének megnyitásához nyomja le a **Windows billentyű + R**billentyűkombinációt, írja be a **Shell: Startup**parancsot, majd kattintson **az OK gombra**. Ekkor megnyílik az Indítópult mappa.
 
-4. Másolja és illessze be az alkalmazásparancsikont a fájl helyéről az Indítóindító mappába.
+4. Másolja a vágólapra, majd illessze be a parancsikont az alkalmazásba a fájl helyéről az Indítópult mappájába.
 
-**Speciális indítási beállítások (beleértve a csökkentett módot, az UEFI-beállításokat és a másik eszközről történő rendszerindítást)**
+**Speciális indítási beállítások (többek között a csökkentett mód, az UEFI-beállítások és egy másik eszközről való rendszerindítás)**
 
-1. Mentse munkáját, és zárja be a megnyitott dokumentumokat, mivel ezek a lépések újraindítják a számítógépet.
+1. Mentse a munkáját, és zárjon be minden megnyitott dokumentumot, mert ezek a lépések a számítógép újraindítását követően jelentkeznek be.
 
-2. Nyissa meg a [Beállítások > Frissítés & Biztonsági > helyreállítás](ms-settings:recovery?activationSource=GetHelp)t.
+2. Nyissa meg a [beállítások > a frissítés & biztonsági > helyreállítási](ms-settings:recovery?activationSource=GetHelp)lapját.
 
-3. A **Speciális indítás**csoportban kattintson az Újraindítás **gombra.** 
+3. A **speciális indítás**csoportban kattintson az **Újraindítás most**elemre. 
 
-4. Miután a számítógép újraindul a Választólehetőség képernyőre:
+4. Miután a számítógép újraindult az Option (beállítások kiválasztása) képernyőre:
 
-    - Ha usb-meghajtóról szeretne rendszerindítást szeretne, kattintson az **Eszköz használata**gombra.
+    - Ha USB-meghajtóról szeretne indítani egy eszközt, kattintson az **eszköz használata**elemre.
 
-    - Az UEFI-beállítások (más néven BIOS-beállítások) megadásához kattintson **a Speciális beállítások > az UEFI belső vezérlőprogram beállításai> hibaelhárítása gombra.** 
+    - Az UEFI-beállítások (más néven BIOS-beállítás) megadásához kattintson a **> speciális beállítások hibaelhárítása > UEFI firmware beállításai**parancsra. 
 
-    - A csökkentett mód megadásához vagy a speciális indítási beállítások módosításához kattintson a Speciális beállítások > > **indítási beállítások kal,** majd **az Újraindítás**gombra. Előfordulhat, hogy meg kell adnia a [BitLocker helyreállítási kulcsot.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) A számítógép újraindítása után kattintson a használni kívánt indítási beállításra.
+    - A csökkentett mód megadásához vagy a speciális indítási beállítások módosításához kattintson az **indítási beállítások > speciális beállítások elhárítása > indítási beállítások**gombra, majd az **Újraindítás**parancsra. A rendszer kérheti a [BitLocker helyreállítási kulcs](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key)megadását. Miután a számítógép ismét újraindult, kattintson a használni kívánt indítási beállításra.
