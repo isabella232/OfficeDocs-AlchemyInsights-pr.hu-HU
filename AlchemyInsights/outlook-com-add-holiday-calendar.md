@@ -1,28 +1,29 @@
 ---
-title: Ünnepnaptár Outlook.com
+title: Ünnepi naptár az Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1812"
 - "9000229"
-ms.openlocfilehash: eca965c64e1c83fcf6b73141541efaf5f0f2912b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 559685f024c4cf6842aa41fc2e532287ceacae10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682042"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754053"
 ---
-# <a name="add-a-holiday-calendar-in-outlookcom"></a>Ünnepnaptár felvétele a Outlook.com
+# <a name="add-a-holiday-calendar-in-outlookcom"></a>Ünnepi Naptár hozzáadása az Outlook.com-on
 
-1. A lap alján jelölje ki a naptár ikonját <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB/2U7WAAAA0lBMVEX///+Pj49ycnLW1tay9PT09LL09PSfy/T0y595ZoyMZnnN9PTl29b09M1mi7D0tpHu9PTX9PS49PSnxPSUuPT09O7W3+nW2eK3yOLu4tn09NectdeZvdavwNR5n8v09LhylLjiyLePnLXUwK/0xKdyhKXWvZlycpTEp4+1nI96iI94ZoxsZozOpYSPiHrLn3mMZnilhHKUcnJobG+MZmxvbGiyjGbi9PTA1PSMsvTZ4u709OKEpc6vt8j01MB4mb3It69meZ+9mXi4lHKqiGafeWYJ39x4AAAAp0lEQVQoz2OAATM5NijQ52NABvJGTEymxkxgAGGpC8ElWQ1kmF3smaHAiY9ZTZsFIcnFzqYsAeMpyrJxcCJJmmgxogA9HUKSCGPBtLiAKA8Dg6QYAwcnhiS/KjevoQiDrgKGJDLAkDSTY+B35OZ1tWTQ58OQ5LHCY6ezDR47gYFgZ2tu7WABDAQMSQ1pBhUlQSlNYSCfoCRKwCMDSMAjogwFgKOMEAAA2iERuleOm5wAAAAASUVORK5CYII=' /> [a Naptár gombra.](https://outlook.live.com/mail/calendar)
-1. A bal oldali ablaktáblában válassza **a Naptár** > **érdekes naptárak** > ünnepnapok hozzáadása**lehetőséget.**
-1. Jelölje ki a kívánt ünnepnaptárat, majd a felső sarokban az **X** lehetőséget a választás mentéséhez és a **Naptár hozzáadása** ablak bezárásához.
+1. A lap alján válassza a naptár ikont. <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB/2U7WAAAA0lBMVEX///+Pj49ycnLW1tay9PT09LL09PSfy/T0y595ZoyMZnnN9PTl29b09M1mi7D0tpHu9PTX9PS49PSnxPSUuPT09O7W3+nW2eK3yOLu4tn09NectdeZvdavwNR5n8v09LhylLjiyLePnLXUwK/0xKdyhKXWvZlycpTEp4+1nI96iI94ZoxsZozOpYSPiHrLn3mMZnilhHKUcnJobG+MZmxvbGiyjGbi9PTA1PSMsvTZ4u709OKEpc6vt8j01MB4mb3It69meZ+9mXi4lHKqiGafeWYJ39x4AAAAp0lEQVQoz2OAATM5NijQ52NABvJGTEymxkxgAGGpC8ElWQ1kmF3smaHAiY9ZTZsFIcnFzqYsAeMpyrJxcCJJmmgxogA9HUKSCGPBtLiAKA8Dg6QYAwcnhiS/KjevoQiDrgKGJDLAkDSTY+B35OZ1tWTQ58OQ5LHCY6ezDR47gYFgZ2tu7WABDAQMSQ1pBhUlQSlNYSCfoCRKwCMDSMAjogwFgKOMEAAA2iERuleOm5wAAAAASUVORK5CYII=' /> [lépjen a naptár](https://outlook.live.com/mail/calendar)nézetbe.
+1. A bal oldali ablaktáblában válassza a **Naptár**  >  **érdekes naptárai**  >  **munkaszüneti napok**hozzáadása lehetőséget.
+1. Válassza ki a kívánt ünnepi naptárt, majd a felső sarokban válassza az **X** lehetőséget, és zárja be a **Naptár hozzáadása** ablakot.
 
-További információ a [születésnapi és ünnepnaptárak hozzáadásáról és eltávolításáról.](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6?wt.mc_id=Office_Outlook_com_Alchemy)
+További információ a [születésnapi és az ünnepi naptárak hozzáadásáról és eltávolításáról](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6?wt.mc_id=Office_Outlook_com_Alchemy).

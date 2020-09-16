@@ -1,35 +1,36 @@
 ---
-title: Outlook.com jelölők vagy emlékeztetők hozzáadása
+title: Jelölők és emlékeztetők hozzáadása a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom:
 - "1921"
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c2a87a621e1338fcefe455ebed910c47c17bb39d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 865650d8b7a39be33ba8105799916740273cf020
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760882"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753945"
 ---
-# <a name="adding-flags-and-reminders-in-outlookcom"></a>Jelzők és emlékeztetők hozzáadása a Outlook.com
+# <a name="adding-flags-and-reminders-in-outlookcom"></a>Jelölők és emlékeztetők hozzáadása a Outlook.com-ban
 
-Emlékeztető beállítása vagy szerkesztése egy eseményhez:
+Esemény emlékeztető beállítása vagy szerkesztése:
 
-1. Nyissa meg a [Naptár lehetőséget.](https://outlook.live.com/calendar/)
-1. Jelölje ki azt az eseményt, amelyre emlékeztetni szeretne, majd a jobb felső sarokban lévő nyilakat <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gcCFAQmIj9P5wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAo0lEQVQ4jd3Uuw0DIQwG4J8oYgA2gIYKZvASDE9zbMAANE51kdBxCY+TLoolGmx9wsIgmJlxcTyuBv8cDSFACFEt731dxAuhtWYpJTvnqv3p9o0xAABr7SE3he7gtm3N/HMVVEodasTI8H874R7d7feC3egI2ESJCEQ0DQKNi8o5L4HAh/ZnwVM0xjgNnqKlFKSU3m87hDCEDs1pb/zG13cb+gIdRoJ0pVkSQgAAAABJRU5ErkJggg==' /> hogy kibővítse azt.
-1. Az **Emlékeztető**lehetőség mellett válasszon emlékeztetőt.Outlook.com automatikusan menti a módosításokat.
+1. Nyissa meg a [naptárat](https://outlook.live.com/calendar/).
+1. Jelölje ki azt az eseményt, amelyet emlékeztetni szeretne, majd válassza a jobb felső sarokban lévő nyilat. <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gcCFAQmIj9P5wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAo0lEQVQ4jd3Uuw0DIQwG4J8oYgA2gIYKZvASDE9zbMAANE51kdBxCY+TLoolGmx9wsIgmJlxcTyuBv8cDSFACFEt731dxAuhtWYpJTvnqv3p9o0xAABr7SE3he7gtm3N/HMVVEodasTI8H874R7d7feC3egI2ESJCEQ0DQKNi8o5L4HAh/ZnwVM0xjgNnqKlFKSU3m87hDCEDs1pb/zG13cb+gIdRoJ0pVkSQgAAAABJRU5ErkJggg==' /> lehetőséget a kibontáshoz.
+1. Az emlékeztető elem mellett válassza **ki az emlékeztető**időpontját.A Outlook.com automatikusan menti a módosításokat.
 
-Ha emlékeztetni szeretné magát az üzenet nyomon követésére, hozzáadhat egy követési jelzőt:
+Ha emlékeztetni szeretné magát egy üzenet nyomon követésére, akkor felvehet egy nyomon követési jelölőt:
 
-1. Ugrás a [Postára](https://outlook.live.com/mail/)
-1. Az üzenetlistában mutasson az üzenetre a jelzőbeállítás megtekintéséhez.
-1. A zászló ikonjának kijelölése <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gUVEjU52ukFVAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAA30lEQVQ4jWP8////fwYqAiZqGkZfA19fWMrQmJXPMGnHa+oYyPD1O8OPvz8YfnxjYFjXlc1Q0beK4cjtpwQNZCHO3j8M72/uZVh85zjDfiMXBi9XMwZjeVESXYgN/P3G8OT0JoZZXb0MfauOU8FAGPjznuHm3gUMWYXNDLN3XkWRItLLmICFR47B0MmDIcVdmzIDmbnEGTQsPRnywiyxW0S0QWzCDCq2XgxFYTZ41RFloLh+AEN6tAmDvjT2mCXZQGt3T2KUMTAwDOm8TH0DuTkZOJg5GDi4SDOQceQVsAB8iTrQ4HKYLgAAAABJRU5ErkJggg==' /> az üzenet megjelöléséhez. Az összes megjelölt üzenet megtekintéséhez jelölje be a lap bal alsó sarkában lévő pipát a Feladatok elemre.
+1. Ugrás a [levelekre](https://outlook.live.com/mail/)
+1. Az üzenetlistában mutasson az üzenetre a jelölő beállítás megjelenítéséhez.
+1. A jelölő ikon kijelölése <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gUVEjU52ukFVAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAA30lEQVQ4jWP8////fwYqAiZqGkZfA19fWMrQmJXPMGnHa+oYyPD1O8OPvz8YfnxjYFjXlc1Q0beK4cjtpwQNZCHO3j8M72/uZVh85zjDfiMXBi9XMwZjeVESXYgN/P3G8OT0JoZZXb0MfauOU8FAGPjznuHm3gUMWYXNDLN3XkWRItLLmICFR47B0MmDIcVdmzIDmbnEGTQsPRnywiyxW0S0QWzCDCq2XgxFYTZ41RFloLh+AEN6tAmDvjT2mCXZQGt3T2KUMTAwDOm8TH0DuTkZOJg5GDi4SDOQceQVsAB8iTrQ4HKYLgAAAABJRU5ErkJggg==' /> gombra az üzenet megjelöléséhez. Az összes megjelölt üzenet megtekintéséhez jelölje be az oldal bal alsó sarkában lévő jelölőnégyzetet, és kattintson a feladatok elemre.
  
-További információért olvassa el [a Megjelölés vagy az üzenet kitűzése Outlook.com.](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy)
+Ha többet szeretne megtudni, olvassa el a [megjelölés vagy az üzenet rögzítése az Outlook.com-](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy)on című témakört.
