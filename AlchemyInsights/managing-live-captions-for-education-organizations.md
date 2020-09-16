@@ -1,32 +1,33 @@
 ---
-title: Élő feliratok kezelése oktatási szervezetek számára
+title: Élő képaláírások kezelése oktatási szervezetek számára
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: ae1e047863317863f4e6c0136200aba90a7032a0
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
-ms.translationtype: MT
+ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46555643"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812765"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Élő feliratok kezelése oktatási szervezetek számára
+# <a name="managing-live-captions-for-education-organizations"></a>Élő képaláírások kezelése oktatási szervezetek számára
 
-Azt javasoljuk, hogy az oktatási szervezetek rendszergazdái fontolják meg a szakpolitikai csomagok használatát a diákok és oktatók biztonsága és az oktatók számára. További információ:  
+Azt javasoljuk, hogy az oktatási szervezetek rendszergazdái a diákok és oktatók biztonsága és pedagógusai számára is fontolják meg a szabályok használatát. További információ:  
 
-- [Házirendcsomagok a Microsoft Teamsben](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Házirend-csomagok a Microsoft Teams alkalmazásban](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [A diákok biztonsága érdekében kirendelendő irányelvek.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
+- [A diákok biztonsága érdekében kiosztott házirendek](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
-- [Az oktatókszámára hozzárendelendő házirendek.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
+- [Oktatók számára kiosztott házirendek](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
 
-Ha csak az élő feliratok engedélyezésének lehetőségét szeretné kezelni, olvassa el az Élő feliratok engedélyezése című [témakört.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions) További információt az [Értekezlet-irányelvek kezelése a Teamsben (Értekezletszabályzatok kezelése) (Értekezlet-irányelvek kezelése a Teamsben) részben](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)talál.
+Ha csak az aktív feliratok engedélyezésének lehetőségét szeretné kezelni, olvassa el az [élő feliratok engedélyezése](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions)című témakört. További információt az [értekezlet-házirendek kezelése a Teams alkalmazásban](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)című témakörben talál.

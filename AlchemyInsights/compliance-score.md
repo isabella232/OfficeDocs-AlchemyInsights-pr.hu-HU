@@ -5,36 +5,37 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706095"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47785461"
 ---
 # <a name="compliance-score"></a>Megfelelőségi pontszám
 
-A Microsoft megfelelőségi pontszám (előzetes verzió) a Microsoft 365 egyik olyan szolgáltatása, amely segít a szervezet megfelelőségi állapotának mérésében. Kockázatalapú pontszámot használ a megfelelőségi műveletek végrehajtása során elért előrehaladás alapján.   A megfelelőségi pontszám a [Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) egyszerűsített verziója, amely megkönnyíti a megfelelőségi állás vizsgálatát és a megfelelőségi alkalmazás javítására irányuló műveletek végrehajtását. 
+A Microsoft megfelelőségi pontszáma (előzetes verzió) a Microsoft 365 egy olyan funkciója, amely segít a szervezet megfelelőségi testtartásának a felmérésében. A projekt a megfelelőséggel kapcsolatos műveletek végrehajtásának előrehaladásán alapuló kockázatalapú pontszámot használja.   A megfelelőségi pontszám a [megfelelőségi vezető](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) egyszerűsített verziója, és megkönnyíti a megfelelőségi irányvonalak vizsgálatát és a fejlesztéshez szükséges műveletek végrehajtását. 
 
-A globális rendszergazdának be kell állítania a megfelelő [engedélyeket](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) a Microsoft Megfelelőségi központban a megfelelőségi pontszám eléréséhez.  A Megfelelőségi kezelőhöz korábban konfigurált engedélyek nem kerülnek át a megfelelőségi pontszámba.
+A globális rendszergazdának be kell állítania a megfelelő [engedélyeket](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) a Microsoft megfelelőségi központban a megfelelőségi pontszám eléréséhez.  A megfelelőség-kezelőhöz korábban konfigurált engedélyek nem kerülnek át a megfelelőségi pontszámba.
 
 **A megfelelőségi pontszám elérése**
 
-1. Nyissa meg a Microsoft 365 megfelelőségi központot, és **jelentkezzen be** microsoft 365-ös globális rendszergazdai fiókjával.
+1. Nyissa meg a Microsoft 365 megfelelőségi központot, és Microsoft 365-ös globális rendszergazdai fiókjával **jelentkezhet be** .
 
-2. Válassza a **Megfelelőségi pontszám lehetőséget** a bal oldali navigációs ablakban. Ekkor megjelenik a [megfelelőségi pontszám irányítópultja a pontszámmal.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard)
+2. Válassza a **megfelelőségi pontszám** lehetőséget a bal oldali navigációs ablakban. Ekkor látnia kell a [megfelelőségi pontszám irányítópultját a pontszámával](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
-**További információ:**
+**További információ**:
 
-- A megfelelőségi pontszám hozzáférési engedélyeinek beállítása a [Felhasználók hozzáférésének biztosítása a Microsoft 365 biztonsági & megfelelőségi központokhoz című témakörben található.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
-- A megfelelőségi pontszám javító műveletekkel való munka: [A megfelelőségi pontszám kidolgozása.](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)
-- A megfelelőségi pontszám kiszámításának módja, lásd: [Megfelelőségi pontszám módszertana.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)
-- Megfelelőségi pontszám és megfelelőségi vezető, lásd: [Kapcsolat a megfelelőségi vezetővel.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)
+- A megfelelőségi pontszám hozzáférési engedélyeinek beállításáról [a felhasználók hozzáférésének biztosítása a Microsoft 365 biztonsági & megfelelőségi központjai](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)című témakörben talál további tájékoztatást.
+- A megfelelőségi pontszám fejlesztésével kapcsolatos lépések a  [megfelelőségi pontszám használata](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)című témakörben olvashatók.
+- A megfelelőségi pontszám kiszámítása a [megfelelőségi pontszám módszertana](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)című témakörben olvasható.
+- Megfelelőségi pontszám: a megfelelőségi vezető a [kapcsolat a megfelelőségi vezetővel](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)című témakörben található.
 

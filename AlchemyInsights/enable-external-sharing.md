@@ -5,15 +5,16 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 58c4537f7a11ea408ef9cfc9f30396da0f951bc7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703609"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784669"
 ---
 # <a name="enable-external-sharing"></a>Külső megosztás engedélyezése
 
@@ -21,22 +22,22 @@ ms.locfileid: "43703609"
   
 - **Globális megosztás**
     
-  - Portál\> – Külső\> megosztás – Megosztás áttekintése – Webhelyek, Külső személyek hozzáférésének lehetővé tévő lehetővé teszi: ON
+  - Portál – \> külső megosztás – \> Áttekintés – webhelyek, a külső felhasználók hozzáférhetnek a webhelyekhez: be
     
-  - Portál\> – Külső\> megosztás – Webhelyek – "A külső személyek hozzáférhetnek a webhelyekhez" jelölőnégyzet
+  - Portál – \> külső megosztás – \> webhelyek – "a külső felhasználók hozzáférhetnek a webhelyekhez" jelölőnégyzet
     
-- **Felügyeleti megosztás – SharePoint Felügyeleti központ**
+- **Felügyeleti megosztás – SharePoint felügyeleti központ**
     
-    Külső megosztás – győződjön meg arról, hogy a két lehetőség közül bármelyik ki van választva:
+    Külső megosztás – győződjön meg arról, hogy a két lehetőség közül bármelyik van kiválasztva:
     
-  - "A megosztási meghívókat elfogadó és hitelesített felhasználóként bejelentkező külső felhasználók engedélyezése"
+  - "A megosztási meghívásokat elfogadó és hitelesített felhasználókként bejelentkező külső felhasználók engedélyezése"
     
-  - "Engedélyezze mind a külső felhasználók, akik elfogadják a megosztási meghívók és névtelen vendég linkek"
+  - "A megosztási meghívásokat elfogadó külső felhasználók és a névtelen vendégek hivatkozásainak engedélyezése"
     
 - **Egyéni webhelycsoportok**
     
-  - Webhelycsoportok – Jelölje ki a kérdéses webhelycsoportot, majd\> kattintson a Megosztás gombra a menüszalagon, hogy mindkét megosztási beállítás ki legyen jelölve.
+  - Webhelycsoportok – válassza a kérdéses webhelycsoport lehetőséget, majd kattintson a megosztás gombra a menüszalagon – győződjön meg arról, hogy a \> megosztási lehetőségek vannak kiválasztva.
     
-A külső megosztás bekapcsolásáról a [Külső megosztás be- és kikapcsolása a SharePoint Online-ban című témakörben olvashat.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+A külső megosztás bekapcsolásáról a [külső megosztás be-és kikapcsolása a SharePoint Online-](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409) ban című témakörben olvashat bővebben.
   
 

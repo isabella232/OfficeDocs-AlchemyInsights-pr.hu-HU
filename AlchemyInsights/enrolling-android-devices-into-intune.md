@@ -1,36 +1,37 @@
 ---
-title: Android-eszközök beikése Intune-be
+title: Android-eszközök regisztrálása a Intune-ba
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: fdab7958e0dfea34fd1e113be09fff4cd3019401
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654461"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784309"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Android-eszközök beikése Intune-be
+# <a name="enrolling-android-devices-into-intune"></a>Android-eszközök regisztrálása a Intune-ba
 
-Intune támogatja a beiratkozási a következő Android eszközök:
-- Sámson Knox és zebra
-- Android vállalati Munkaprofil
-- Android Enterprise dedikált
-- Android Enterprise teljes mértékben kezelt
+A Intune az alábbi Android-eszközök beiktatását támogatja:
+- Samsung Knox és zebra
+- Android vállalati munkahelyi profil
+- Az Android Enterprise dedikált verzió
+- Az Android Enterprise teljes kezelése
 
-Beállítása előtt beiktatási Android eszközök, [felülvizsgálja az előfeltételek] (https://docs.microsoft.com/intune/enrollment/android-enroll.
+Az Android-eszközökre való feliratkozás beállítása előtt [tekintse át a előfeltételek] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
 
-Az eszközök igénylésének hibaelhárításával és az Android egyes igénylési hibákkal kapcsolatban lásd: [Eszközigénylés – problémamegoldás a Microsoft Intune-ben](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Ha többet szeretne tudni az eszközök tanúsítványigényléséről és az Android néhány beadási hibáról, olvassa el a [Microsoft Intune eszközök tanúsítványigénylésének hibaelhárítása](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)című témakört.
 
-Az [Intune hibaelhárítással kapcsolatos Leírás tartalma](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) is használható, hogy megállapíthassa, milyen beiskolázási problémák lépnek fel a felhasználók számára.
+Az [Intune hibaelhárítási pengéjét leíró tartalmat](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) is felhasználhatja, hogy könnyebben megtalálhatja a felhasználók által tapasztalt beiratkozási problémákat.
 
 
 
