@@ -1,11 +1,12 @@
 ---
-title: 1491-keresés-nem-visszatérő-várt-eredmények
+title: 1491 – keresés – vissza – a várt eredmények
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 57421d459ef03049d6f931db659a5f9b253f5002
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5c4452726c1dbe2232ee63e8a9ee4d089f5c76db
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510574"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740476"
 ---
-# <a name="content-search-not-returning-expected-results"></a>A tartalomkeresés nem adja vissza a várt eredményeket
+# <a name="content-search-not-returning-expected-results"></a>A tartalmi keresés nem tér vissza a várt eredményekre
 
-Ha a Microsoft 365 biztonsági & megfelelőségi központjából futtat tartalomkeresést, nem várt keresési eredményeket kaphat. Gondolja át a következő ket, amelyek hatással lehetnek a keresési eredményekre:
+Ha a Microsoft 365 biztonsági & megfelelőségi központból keres tartalmat, váratlan találatokat kaphat. Tekintse meg az alábbi, a találatokat befolyásoló dolgokat:
 
-- **Tartalomhelyek és keresési feltételek:** Győződjön meg arról, hogy a megfelelő tartalomhelyeket és keresési feltételeket választotta. Ha nagy méretű keresést futtatott (sok helyen), fontolja meg, hogy több keresésre osztja fel.
+- **Tartalmi helyek és keresési feltételek**: Győződjön meg arról, hogy a megfelelő tartalmi helyeket és keresési feltételeket jelölte ki. Ha nagy kereséssel (sok hellyel) futott, fontolja meg több keresésre való felosztást.
 
-- **Részben indexelt elemek**: A postaládákból származó [részben indexelt elemek](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) szerepelnek a becsült keresési eredmények között. A SharePoint és a OneDrive webhelyein lévő, részben indexelt elemek azonban nem szerepelnek a keresési becslésben.
+- **Részlegesen indexelt elemek**: a postaládákban lévő  [részlegesen indexelt elemek](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) szerepelnek a becsült találatok között. A SharePoint és a OneDrive webhelyekről származó részlegesen indexelt elemek azonban nem szerepelnek a keresési becslésben.
 
-- **Keresési hibák**: Nagyszámú (több mint 100 000 postaláda) postaládában keres, keresési hibákat kaphat, például CS008-009 és CS012-002 hibakódokkal). Ebben az esetben próbálkozzon újra a sikertelen tartalomhelyeket keresve. További információt ebben a [cikkben](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) talál.
+- **Keresési hibák**: Ha nagy számú postaládában keres (több mint 100 000-postaládában), keresési hibákat kaphat, például a CS008-009 és a CS012-002. Ebben az esetben próbálkozzon újra a kereséssel a sikertelenül megjelenő tartalmi helyeken. További információt  [ebben a cikkben](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) talál.

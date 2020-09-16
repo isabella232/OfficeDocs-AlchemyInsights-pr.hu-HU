@@ -1,10 +1,11 @@
 ---
-title: PsTN-betárcsázós audiokonferencia beállítása a Skype Vállalati online verzióban
+title: PSTN-betárcsázós betárcsázós hangkonferencia beállítása a Skype vállalati online verzióban
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 2df72ee353fe0ac53d98d64942beca4ea5f83659
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288199"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739539"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>PsTN-betárcsázós audiokonferencia beállítása a Skype Vállalati online verzióban
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>PSTN-betárcsázós betárcsázós hangkonferencia beállítása a Skype vállalati online verzióban
 
-Ha hangkonferenciát szeretne beállítani a Skype Vállalati online verzióhoz, néhány dolgot el kell végeznie. 
+Ha a Skype vállalati online verzióhoz szeretné beállítani a hangkonferenciat, néhány dolgot el kell végeznie. 
 
-- Tudja meg, hogy az audiokonferencia elérhető-e az Ön országában/régiójában.
+- Annak megállapítása, hogy a hangkonferencia elérhető-e az Ön országában vagy régiójában.
 
-- Licenceket szerezhet be és rendelhet hozzá a felhasználókhoz.
+- Licencek beszerzése és hozzárendelése a felhasználókhoz.
 
-- Szervizszámok be- és hozzárendelése.
+- Szolgáltatási számok beszerzése és hozzárendelése
 
-- Töltse ki az ellenőrzőlistát [a Hangkonferencia beállítása a Skype Vállalati verzióhoz](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)című részben.
+- A Skype vállalati verzióban a [hangkonferencia beállítása](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)című ellenőrzőlistát kell elvégeznie.
