@@ -1,54 +1,55 @@
 ---
-title: A fájl írásvédett
+title: Fájl megnyitása írásvédett
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702776"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745587"
 ---
-# <a name="file-open-read-only"></a>A fájl írásvédett
+# <a name="file-open-read-only"></a>Fájl megnyitása írásvédett
 
-Előfordulhat, hogy a fájlok megnyitásakor azok írásvédettként nyílnak meg. Bizonyos esetekben ez a nagyobb biztonság érdekében történik, például amikor fájlokat nyit meg az internetről, máskor pedig egy módosítható beállításnak lehet az oka. Íme néhány forgatókönyv, amikor egy fájl írásvédett, és néhány lépéssel módosíthatja ezt.
+Előfordulhat, hogy a fájlok megnyitásakor csak olvashatóként nyílik meg. Bizonyos esetekben ez a biztonság, például a fájlok internetről való megnyitásakor, illetve máskor is előfordulhat, hogy ez a beállítás a módosítható beállításnak köszönhető. Íme néhány példa arra, hogy egy fájl írásvédett módban nyílik meg, és néhány lépésben megteheti a módosítást.
   
- **A víruskereső miatt csak olvasásra van nyitva**
+ **A víruskeresők azt okozzák, hogy csak írásvédett módban nyílnak meg**
   
-Egyes víruskereső programok írásvédett megnyitásával megvédhetik Önt a potenciálisan nem biztonságos fájloktól. Előfordulhat, hogy a beállítások módosításáról érdeklődjön a víruskereső szolgáltatójánál. BitDefender, például, van tartalom hozzáadásával alkalmazás kizárások itt: [Hogyan adjunk alkalmazás vagy folyamat kizárások Bitdefender Control Center](https://aka.ms/AA6098i).
+Egyes víruskereső programok csak olvashatóan tudják megvédeni a fájlokat a potenciálisan nem biztonságos fájlokból. Ha meg szeretné tudni, hogy miként igazíthatja ezeket a beállításokat, előfordulhat, hogy meg kell vizsgálnia a víruskereső szolgáltatóját. BitDefender (például) tartalma az alkalmazások kivételének hozzáadásához: [Hogyan vehet fel alkalmazást vagy folyamat kizárását a BitDefender Control Center alkalmazásban](https://aka.ms/AA6098i).
   
- **A fájltulajdonságok írásvédettre vannak állítva?**
+ **A fájl tulajdonságai csak olvashatók legyenek?**
   
-A fájl tulajdonságait úgy ellenőrizheti, hogy a jobb gombbal a fájlra kattint, és a Tulajdonságok parancsot választja. Ha az Írásvédett attribútum be van jelölve, törölje a jelet, és kattintson az OK gombra.
+A fájl tulajdonságainak ellenőrzéséhez kattintson a jobb gombbal a fájlra, és válassza a Tulajdonságok parancsot. Ha a írásvédett attribútum be van jelölve, akkor törölje a jelet, és kattintson az OK gombra.
   
  **A tartalom védett nézetben van**
   
-Az internetről és más, potenciálisan nem biztonságos helyekről származó fájlok vírusokat, férgeket vagy más rosszindulatú programokat tartalmazhatnak, amelyek károsíthatják a számítógépet. Ez gyakran előfordul az e-mail mellékletekkel vagy a letöltött fájlokkal is. A számítógép védelme érdekében az ilyen potenciálisan nem biztonságos helyekről származó fájlok védett nézetben nyílnak meg. A Védett nézet használatával elolvashatja a fájlokat, és megtekintheti annak tartalmát, miközben csökkenti a kockázatokat. A védett nézetről és a beállítások módosításáról a következő cikkben olvashat: [Mi a védett nézet?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Az internetről és más, esetleg nem biztonságos helyekről származó fájlok tartalmazhatnak vírusokat, férgeket vagy más típusú kártevőket, amelyek károsíthatják a számítógépre. Ez a helyzet általában az e-mail-mellékletek vagy a letöltött fájlok esetén is. A számítógép védelme érdekében a nem biztonságos helyekről származó fájlok védett nézetben nyílnak meg. A védett nézet használatával elolvashatja a fájlt, és megtekintheti a tartalmát, miközben csökkenti a kockázatokat. A védett nézetről és a beállítások módosításáról a [védett nézet](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653) című témakörben olvashat bővebben.
   
- **Megtelt a OneDrive?**
+ **Teljes a OneDrive?**
   
-Ha a fájl a OneDrive-on van tárolva, és a OneDrive tárhelye megtelt, addig nem tudja menteni a dokumentumot, amíg a megadott terület alatt nem van. A OneDrive-on a OneDrive-on lévő szabad területet az értesítési központban lévő OneDrive ikonra kattintva ellenőrizheti, és a Tárhely kezelése lehetőséget választja, vagy a , [https://onedrive.live.com](https://onedrive.live.com)bejelentkezhet, és feljegyzheti a képernyő bal alsó részén található felhasznált terület nagy részét.
+Ha a fájl a OneDrive van tárolva, és a OneDrive tárterülete megtelik, akkor a program nem menti a dokumentumot, amíg el nem éri a kiosztott tárterületét. Az OneDrive-on lévő szabad terület ellenőrzéséhez kattintson a OneDrive ikonra az értesítési központban, és válassza a tárterület kezelése lehetőséget, vagy lépjen a [https://onedrive.live.com](https://onedrive.live.com) képernyő bal alsó részén lévő szabad területhez.
   
- **Aktiválva van az Office?**
+ **Aktivált az Office?**
   
-Ha az Office nincs aktiválva, vagy az előfizetése lejárt, akkor írásvédett csökkentett üzemmódban lehet. Az Office aktiválásáról a Következő témakörben talál információt: [Nem licencelt termék és aktiválási hibák az Office-ban.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+Ha az Office nincs aktiválva, vagy lejárt az előfizetése, akkor csak olvasható csökkentett módban lehet. Az Office aktiválásához további információt a következő témakörben talál: nem [licencelt termék-és aktiválási hibák az Office-ban](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Ha minden más elbukik...**
+ **Ha minden kötél szakadt meg...**
   
-- Próbálja meg újraindítani a számítógépet
+- Próbálkozzon a számítógép újraindításával
     
 - Office-frissítések telepítése
     
-- Office online javításának végrehajtása
+- Az Office Online javításának elvégzése
     
 

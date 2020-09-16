@@ -1,43 +1,44 @@
 ---
-title: Fájlmegosztás hálózaton keresztül a Windows 10-ben
+title: Fájlmegosztás hálózaton keresztül Windows 10 rendszerben
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 5f0cd0d2b7271a60aa390c8ee2d6ffbcefe78d94
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584393"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745393"
 ---
-# <a name="file-sharing-over-a-network-in-windows-10"></a>Fájlmegosztás hálózaton keresztül a Windows 10-ben
+# <a name="file-sharing-over-a-network-in-windows-10"></a>Fájlmegosztás hálózaton keresztül Windows 10 rendszerben
 
-**Megjegyzés:** Ha korábban az Otthoni csoportot használta fájlmegosztáshoz, vegye figyelembe, hogy az Otthoni csoport el lett távolítva a Windows 10-ből (1803-as verzió). Mostantól a Windows 10 beépített szolgáltatásaival megoszthatja a nyomtatókat és a fájlokat.
+**Megjegyzés**: Ha korábban már használta az otthoni csoportot a fájlmegosztás céljából, kérjük, vegye figyelembe, hogy az otthoni verzió eltávolítása megszűnt a Windows 10 rendszerből (1803-es verzió). Mostantól a Windows 10 beépített funkciói segítségével is megoszthatja a nyomtatókat és a fájlokat.
 
-**Fájlok és mappák megosztása hálózaton keresztül**
+**Fájlok vagy mappák megosztása hálózaton keresztül**
 
-- A **Fájlkezelőben**jelöljön ki egy fájlt, > kattintson a **Megosztás** > felső részén található **Megosztás** gombra, majd kattintson a **Konkrét személyek elemre.**
+- A **fájlkezelőben**jelöljön ki egy fájlt > > kattintson **a megosztás** elemre a **megosztás** csoportban, és válassza az **adott személyek**lehetőséget.
 
     ![Fájl megosztása adott személyekkel.](media/share-with-specific-people.png)
           
-- Ha egyszerre több fájlt jelöl ki, az összeset ugyanúgy megoszthatja. Ez szerkezet részére tartók, túl.
+- Ha egyszerre több fájlt jelöl ki, akkor ugyanúgy oszthatja meg őket. A mappák is használhatók.
 
-**Fájlokat megosztó eszközök megtekintése a hálózaton**
+**A fájlokat megosztó hálózatban lévő eszközök megtekintése**
 
-- A **Fájlkezelőben**nyissa meg a **Hálózat**alkalmazást. Ha a hálózatfelderítés nincs engedélyezve, a következő hibaüzenet jelenik meg: "A hálózatfelderítés ki van kapcsolva..."
+- A **fájlkezelőben**nyissa meg a **hálózat**alkalmazást. Ha a hálózati felderítés funkció nincs engedélyezve, a következő hibaüzenet jelenik meg: "a hálózat felderítése ki van kapcsolva..."
 
-- Kattintson a **Hálózatfelderítés kikapcsolt** szalagcímre, majd **a Hálózatfelderítés és fájlmegosztás bekapcsolása**parancsra.
+- Kattintson a **hálózatfelderítés kikapcsolta** a szalagcímet elemre, majd kattintson a Hálózatfelderítés **és fájlmegosztás bekapcsolása**parancsra.
 
-    ![A hálózatfelderítés és a fájlmegosztás bekapcsolása.](media/turn-on-network-discovery.png)
+    ![Kapcsolja be a hálózat felderítése és a fájlmegosztás szolgáltatást.](media/turn-on-network-discovery.png)
 
-[További információ a hálózaton keresztüli fájlmegosztásról](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
+[További információ a hálózaton található fájlmegosztás használatáról](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 
-[Fájlok megosztása alkalmazások, OneDrive, e-mailek és egyebek használatával](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)
+[Fájlok megosztása alkalmazások, OneDrive, e-mailek és egyebek segítségével](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)

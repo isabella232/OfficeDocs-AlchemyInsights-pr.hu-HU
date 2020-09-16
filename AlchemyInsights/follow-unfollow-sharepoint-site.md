@@ -1,25 +1,26 @@
 ---
-title: SharePoint-webhely követése vagy követésének visszanem követése
+title: SharePoint-webhely követése és követése
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5b2a44422cc49b0f0e20a7ddd802a661d4fadc5e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720928"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744425"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>SharePoint-webhely követése vagy követésének visszanem követése
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>SharePoint-webhely követése és követése
 
-Ha a felhasználók a SharePoint-erőforrások at követve vagy a ttól kezdve tapasztalnak problémákat, hajtsa végre az alábbi lépéseket:
+Ha a felhasználók problémát tapasztalnak a SharePoint-erőforrások követése vagy a követése után, végezze el a következő lépéseket:
 
-* Kérje meg a felhasználót, hogy jelentkezzen ki, jelentkezzen be újra a SharePointba, és próbálkozzon a SharePoint-erőforrás követésével és követésével.
-* Állapítsa meg, hogy a probléma egy adott vagy az összes webhelyre vonatkozik-e. Ha a probléma bizonyos webhelyeken jelentkezik, győződjön meg arról, hogy a "Tartalom követése" funkció aktív a webhelyen, ha a **Webhely beállításainak > a Webhely szolgáltatásainak kezelése > a tartalom után**lép. Ha a szolgáltatás aktív, próbálja meg újra inaktiválni és aktiválni a szolgáltatást a webhelyen.
-* Kérje meg a felhasználót, hogy próbáljon ki egy másik internetböngészőt, és nézze meg, hogy a probléma a felhasználó böngészőjére vonatkozik-e.
-* Ha minden felhasználó és az összes webhely ugyanazt a problémát tapasztalja, ellenőrizze a [Szolgáltatás állapotirányítópultján,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) hogy a szervezet érintett-e.
+* Kérje meg a felhasználót, hogy próbáljon meg kijelentkezni, és a SharePoint szolgáltatásba való visszatéréshez és a SharePoint-erőforrás követéséhez kövesse ugyanezeket a lépéseket.
+* Annak megállapítása, hogy a probléma egy bizonyos webhelyen vagy minden webhelyen található-e. Ha a probléma bizonyos webhelyekkel fordul elő, győződjön meg arról, hogy a webhely beállításai > a webhely beállításai elemre, majd a webhely **beállításai > a következő tartalom kezelése**elemre. Ha a funkció aktív értékre van állítva, próbálkozzon a funkció inaktiválásával és aktiválásával a webhelyhez.
+* Kérje meg a felhasználót, hogy próbáljon meg egy másik böngészőt, és ellenőrizze, hogy a probléma a felhasználó böngészőjére jellemző-e.
+* Ha minden felhasználó és minden webhely ugyanazt a problémát tapasztalja, nézze meg a [szolgáltatás állapota irányítópultot](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , és ellenőrizze, hogy a szervezete hatással van-e rá.
