@@ -5,30 +5,31 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5731"
-ms.openlocfilehash: 4a66a419535de7c91c166ece94d62cce507f39e2
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 02fb52dbfa8fa47d04a317601fc7a7b1402836bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439557"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669177"
 ---
 # <a name="unable-to-download-files"></a>Nem lehet letölteni a fájlokat
 
-- A letöltésekre a következő korlátozások vonatkoznak: Egyéni fájlméret-korlát: 10 GB; teljes zip fájl mérete limit: 20GB; a fájlok teljes száma limit: 10 000; mappaméret-korlát: 200 fájl.
-- A fájl- vagy mappanévben hashtaget (#) tartalmazó fájlok és mappák nem adhatók hozzá a .zip fájlokhoz.  
+- A letöltésekre az alábbi korlátozások vonatkoznak: egyéni fájlméret-korlát: 10GB; a zip-fájlok maximális mérete: 20 GB; fájlok maximális száma: 10 000; mappák méretének korlátja: 200-fájlok.
+- A fájl vagy mappa nevében a hashtag (#) formátumú fájlok vagy mappák nem vehetők fel. zip fájlokba.  
     
-- A OneNote-jegyzetfüzetek nem tölthetők le. Ha OneNote-jegyzetfüzetet tartalmazó mappát tölt le, a .zip fájl .txt fájl formájában hibaüzenetet tartalmaz.  
+- A OneNote-jegyzetfüzetek nem tölthetők le. Ha egy OneNote-jegyzetfüzetet tartalmazó mappát tölt le, a. zip fájl. txt fájl formájában tartalmaz egy hibaüzenetet.  
     
-- A fájlok nem tölthetők le közvetlenül **a Megosztott** nézetből. Nyissa meg a fájlt, és mentsen egy másolatot a választott helyre.  
+- A fájlok közvetlenül a **megosztott**  nézetből nem tölthetők le. Nyissa meg a fájlt, és mentse a másolatot a választott helyre.  
     
-- A OneDrive Vállalati verzióban nem tölthet le mappákat vagy több fájlt az Internet Explorer program. A Microsoft Edge vagy a Google Chrome segítségével mappákat vagy több fájlt tölthet le.  
+- A OneDrive vállalati verzióban nem lehet az Internet Explorer segítségével letölteni mappákat vagy több fájlt. A Microsoft Edge vagy a Google Chrome segítségével tölthet le mappákat vagy több fájlt.  
     
-- A **Letöltés** gomb néha eltűnik, ha egy mappa megtekintése közben frissíti a weblapot. A megoldás hoz, hogy ezt megkerülhesse, egy szinttel feljebb léphet a mappakönyvtárban, és visszatérhet, vagy bezárhatja azt a lapot a böngészőben, és újra megnyithatja a mappát.  
+- A **Letöltés** gomb időnként eltűnik, ha egy mappa megtekintése közben frissíti a weblapot. A megoldáshoz egy szinttel feljebb léphet a mappa címtárában, és visszatérhet, illetve bezárhatja a lapot a böngészőben, és ismét megnyithatja a mappát.  
     
-További információt a [Fájlok és mappák letöltése a OneDrive-ról vagy a SharePointból című témakörben talál.](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+További információt a [fájlok és mappák letöltése a OneDrive-ról vagy a sharepointból](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)című témakörben talál.

@@ -1,27 +1,28 @@
 ---
-title: Csapatok feladatok
+title: Csapat-hozzárendelések
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6142"
 - "9003098"
-ms.openlocfilehash: 3674ecfca87525cf062a1e4d7397205ec6bd050a
-ms.sourcegitcommit: 9d1d2f0aa59256bec426f4fccea75df30261f6d0
+ms.openlocfilehash: 75e755bf35f4ee969159d3488d4daf04d524c464
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46555715"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669862"
 ---
-# <a name="teams-assignments"></a>Csapatok feladatok
+# <a name="teams-assignments"></a>Csapat-hozzárendelések
 
-A feladatok olyan tevékenységek vagy munkaegységek, amelyeket egy osztály tanulójához vagy csapattagjához rendelnek a tanulmányuk részeként. A Teams-osztályon belül is létrehozhat hozzárendeléseket.
+A feladatok olyan feladatok vagy munkamennyiségek, amelyek egy osztály tanulói vagy csapattagjának tagjai a tanulmányuk részeként vannak rendelve. Feladatokat a Teams-osztályon belül hozhat létre.
 
-- A Hozzárendelésekről a [Microsoft Teams-hozzárendelések ( Microsoft Teams-hozzárendelések](https://support.microsoft.com/en-us/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments)) további tudnivalókat olvashat.
-- A Hozzárendelések funkcióinak a Microsoft Teams felügyeleti központban való kezeléséről a [Hozzárendelések az Oktatási csapatokban](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams)című témakörben olvashat bővebben.
+- A hozzárendelésekről a [Microsoft Teams-hozzárendelések](https://support.microsoft.com/en-us/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments)című témakörben olvashat bővebben.
+- Ha többet szeretne tudni a feladatok kezeléséről a Microsoft Teams felügyeleti központjában, tanulmányozza a [feladatok a Teams oktatási](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams)verzióban című témakört.

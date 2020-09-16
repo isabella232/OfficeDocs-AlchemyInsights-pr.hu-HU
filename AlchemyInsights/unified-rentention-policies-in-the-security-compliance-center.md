@@ -1,35 +1,36 @@
 ---
-title: Egységes adatmegőrzési szabályok a Biztonsági & megfelelőségi központban
+title: Egységes adatmegőrzési szabályok a biztonsági & megfelelőségi központban
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: d9d92e9284f34c7c1edba6af56f02ac88d3cd956
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088340"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669213"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Egységes adatmegőrzési szabályok a Biztonsági & megfelelőségi központban
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Egységes adatmegőrzési szabályok a biztonsági & megfelelőségi központban
 
-Az adatmegőrzési házirendek lehetővé teszik a szervezet tartalmának kezelését megőrzési és törlési beállítások kal. Az Office 365 Biztonsági & megfelelőségi központban vagy a Microsoft 365 Megfelelőségi központban egységes adatmegőrzési szabályzatokat hozhat létre. 
+Az adatmegőrzési szabályok megőrzési és törlési beállításokkal kezelhetik a szervezete tartalmát. Egységes adatmegőrzési házirendeket az Office 365 biztonsági & megfelelőségi központban vagy a Microsoft 365 megfelelőségi központban hozhat létre. 
 
-1. A [Biztonsági & megfelelőségi központban](https://go.microsoft.com/fwlink/p/?linkid=2077143)válassza az **Információcégirányítási**  >  **megőrzés**  >  **+Létrehozás**lehetőséget. <br/>
-    A [Microsoft 365 Megfelelőségi központban](https://go.microsoft.com/fwlink/p/?linkid=2077149)válassza a **Policies**  >  **Házirendek adatok > adatmegőrzési > + Új adatmegőrzési házirend lehetőséget.**
-2. Adja hozzá **a Nevet,** **a Beállításokat**és **a Helyek kiválasztása lehetőséget.**
-3. Tekintse át a beállításokat, majd válassza **a Házirend létrehozása** vagy a Mentés **később**lehetőséget.  
+1. A [biztonsági & megfelelőségi központban](https://go.microsoft.com/fwlink/p/?linkid=2077143)válassza az **adatkezelési**  >  **adatmegőrzés**  >  **+ Létrehozás**lehetőséget. <br/>
+    A [Microsoft 365 megfelelőségi központban](https://go.microsoft.com/fwlink/p/?linkid=2077149)válassza a **Policies**  >  **> házirendek adatmegőrzési > + új adatmegőrzési szabály lehetőséget.**
+2. Adjon hozzá **nevet**, **beállításokat**, és **válassza a helyek lehetőséget**.
+3. Tekintse át a beállításokat, majd válassza a **házirend létrehozása** vagy **a Mentés később**lehetőséget.  
       
-Az Exchange-levelezés, a OneDrive, a SharePoint és a Teams-tartalmak adatmegőrzési irányelveiről az [Adatmegőrzési szabályok áttekintése című](https://go.microsoft.com/fwlink/?linkid=2127785)témakörben olvashat bővebben.  
+A tartalom, például az Exchange-levelezés, a OneDrive, a SharePoint és a Teams-tartalmak adatmegőrzési szabályairól további információt az [adatmegőrzési házirendek áttekintése](https://go.microsoft.com/fwlink/?linkid=2127785)című témakörben talál.  
     
-Ha az Exchange Felügyeleti központban és a Biztonsági & megfelelőségi központban egymás mellett használ adatmegőrzési házirendeket, olvassa el ezt a javaslatot az [adatmegőrzési házirend használata a régebbi funkciók helyett.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features)  
+Ha az Exchange felügyeleti központban és a biztonsági & megfelelőségi központban adatmegőrzési házirendeket használ, olvassa el ezt az ajánlást, ha nem [a régebbi funkciókat, hanem adatmegőrzési házirendet szeretne használni](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
     
-A Teams-megőrzésről további információt az [Adatmegőrzési szabályzatok a Teamsben című témakörben talál.](https://docs.microsoft.com/microsoftteams/retention-policies)
+A csoportok adatmegőrzéséről a [adatmegőrzési házirendek a Teams alkalmazásban](https://docs.microsoft.com/microsoftteams/retention-policies)című témakörben olvashat részletesen.
