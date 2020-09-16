@@ -1,11 +1,12 @@
 ---
-title: A SharePoint Online nyilvános webhelyei megszűnnek
+title: Megszűnnek a nyilvános SharePoint Online-webhelyek
 ms.author: clake
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: f9327b7ba506790549ae3215cd84606d3645703a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764299"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719919"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>A SharePoint Online nyilvános webhelyei megszűnnek
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Megszűnnek a nyilvános SharePoint Online-webhelyek
 
-Ha létrehozott egy Nyilvános SharePoint Online-webhelyet, 2018. Ha továbbra is nyilvános webhelyet szeretne létrehozni, újat kell létrehoznia egy új szolgáltatóval. A SharePoint Online-alapú nyilvános webhely tartalma törlődik, ezért a megtartani kívánt tartalmakat át kell másolnia.
+Ha létrehozott egy nyilvános SharePoint Online-webhelyet, a 2018 március 31-ig továbbra is használhatja. Ha továbbra is nyilvános webhelyt szeretne használni, új szolgáltatót kell létrehoznia. A SharePoint Online-alapú nyilvános webhely tartalma törlődik, ezért a megőrizni kívánt tartalmakat le kell másolni.
   
-A SharePoint Online nyilvános webhelyének tetején megjelenik egy szalagcím, amely a webhely eltávolításáról szóló értesítésként jelenik meg. Ezt a transzparenst nem lehet kikapcsolni. A tartalom partnerwebhelyre történő mentéséről és másolásáról [a Funkció megszakításának folyamatával kapcsolatos részletek](https://go.microsoft.com/fwlink/?linkid=866980)című témakörben talál.
+A webhely eltávolítását követően megjelenik egy szalagcím a SharePoint Online nyilvános webhelye tetején. Ezt a szalagcímet nem lehet kikapcsolni. Ha tudni szeretné, hogy miként menthet tartalmakat a partnerek webhelyére, tekintse át a funkció leállítási [folyamatának részleteit](https://go.microsoft.com/fwlink/?linkid=866980).
   
