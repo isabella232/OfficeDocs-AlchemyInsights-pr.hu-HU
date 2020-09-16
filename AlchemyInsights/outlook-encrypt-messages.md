@@ -1,30 +1,31 @@
 ---
-title: S/MIME a Webes Outlookban
+title: S/MIME a webes Outlookban
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 052149d1f11387246bc1ff24ba48c45b944ba52c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511510"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772264"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>E-mailek titkosítása az Outlookban
 
-A Microsoft 365 üzenettitkosítás a Microsoft Azure Tartalomvédelmi Szolgáltatás (Azure RMS) szolgáltatásra épül, amely az Azure Information Protection része. Ha előfizetése tartalmazza az Azure Rights Management vagy az Azure Information Protection szolgáltatást, nem kell semmilyen műveletet tennie a tartalomvédelmi szolgáltatás **manuális engedélyezéséhez vagy aktiválásához.**
+A Microsoft 365-üzenetek titkosítása a Microsoft Azure Rights Management (Azure RMS) verzióra épül, amely az Azure Information Protection része. Ha előfizetése tartalmazza az Azure Rights managementet vagy az Azure Information Protectiont, a Rights Management szolgáltatás **kézi engedélyezéséhez vagy aktiválásához nem kell semmilyen műveletet végrehajtania** .
 
-Az ügyfelek visszajelzései alapján a továbbiakban nem engedélyezzük az Exchange levelezési szabályainak automatikus anno a bérlőben bizonyos típusú bizalmas adatokat tartalmazó kimenő e-mailek titkosítását. Ehelyett részletes utasításokat adunk arra vonatkozóan, hogy ezt hogyan teheti meg. A bizalmas adatok titkosítására szolgáló átviteli szabályok létrehozásáról a [cikkben](https://aka.ms/OmeEtr)olvashat további részletekről.
+Az ügyféltől érkező visszajelzések alapján a továbbiakban nem engedélyezzük az Exchange-levelezés szabályainak automatikus titkosítását, amely a bérlői fiókban lévő bizonyos típusú bizalmas információkat tartalmazó kimenő e-maileket automatikusan titkosítja. Ehelyett részletes útmutatást adunk arra vonatkozóan, hogy miként teheti ezt meg. Ha további információkra kíváncsi arról, hogy miként hozhat létre átviteli szabályt a bizalmas adatok titkosításához, olvassa el [ezt a cikket](https://aka.ms/OmeEtr).
 
-- Ha a Webes Outlookot (korábbi ideig **OWA)** használja: E-mail írásakor egyszerűen kattintson a **Védelem** az OWA-ban gombra. Ez a "Ne továbbítsa" engedélyt alkalmazza. Kattintson **a Módosítás gombra,** és válassza a **Titkosítás** lehetőséget az üzenet titkosításához.
+- Ha a webes Outlookot használja (korábbi nevén **OWA**): e-mail írásakor egyszerűen kattintson a **védelem** az OWA alkalmazásban elemre. Ez a művelet a "nem továbbítható" engedélyt alkalmazza. Kattintson az **engedély módosítása** elemre, és válassza a **titkosítás** lehetőséget az üzenet titkosításához.
 
-- **Outlook-ügyfél**használata esetén : Titkosított üzenet küldéséhez az Outlook 2013-ból vagy 2016-ból, illetve a Mac Outlook 2016-ból, válassza a **Beállítások**  >  **engedélyek**lehetőséget, majd válassza ki a szükséges védelmi beállítást.
+- Ha **Outlook-ügyfélprogramot**használ: Ha titkosított üzenetet szeretne küldeni az Outlook 2013 vagy 2016-ról, vagy a Mac Outlook 2016-ról, válassza a **Beállítások**  >  **engedélyei**lehetőséget, és válassza a szükséges védelem lehetőséget.
 
-- Az egyes címzetteknek vagy külső partnerszervezeteknek küldött **összes e-mail automatikus titkosításához** létre kell hoznia egy levelezési átviteli szabályt az Exchange Felügyeleti központban. Részletes utasításokat ebben a [támogatási cikkben](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities)talál.
+- Ha a címzetteknek vagy a külső partnereknek küldött **összes e-mailt automatikusan szeretné titkosítani** , létre kell hoznia egy e-mail-folyami átviteli szabályt az Exchange felügyeleti központban. [Ebben a támogatási cikkben](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities)részletes útmutatást talál.
 
