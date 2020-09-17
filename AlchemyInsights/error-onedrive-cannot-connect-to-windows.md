@@ -1,24 +1,25 @@
 ---
-title: Hiba történt, hogy a OneDrive nem tud csatlakozni a Windows rendszerhez
+title: Hiba a OneDrive nem tud csatlakozni a Windowshoz
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69957735-7ae3-4622-b3cf-607c816f3651
-ms.openlocfilehash: 3e0eda9bdc907408bc4dd21f5e3bba0a51bc608e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b0cf0e7e1a8eb3b80deac47a9639ddd23f1b864d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714296"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783733"
 ---
-# <a name="error-onedrive-cannot-connect-to-windows"></a>Hiba: A OneDrive nem tud csatlakozni a Windows rendszerhez
+# <a name="error-onedrive-cannot-connect-to-windows"></a>Hiba: a OneDrive nem tud csatlakozni a Windowshoz
 
-A hibaüzenet megoldásához keresse meg a cldflt.sys fájlt, és nézze meg, hogy fut-e, és ha nem, engedélyezze. 
+A hibaüzenet megoldásához keresse meg a cldflt.sys-fájlt, és ellenőrizze, hogy fut-e, és ha igen, engedélyezze azt. 
   
-A cldflt.sys fájl engedélyezéséről a OneDrive nem tud windowsos hibában talál további információt a [OneDrive-fájl elérésekor.](https://go.microsoft.com/fwlink/?Linkid=2031032)
+A cldflt.sys-fájl engedélyezéséről további információt a [OneDrive nem tud csatlakozni a Windowshoz "hibaüzenet jelenik meg a fájlok OneDrive való elérésekor](https://go.microsoft.com/fwlink/?Linkid=2031032) című témakörben talál.
   
 
