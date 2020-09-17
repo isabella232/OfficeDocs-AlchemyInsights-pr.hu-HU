@@ -1,30 +1,31 @@
 ---
-title: Engedélyekkel kapcsolatos problémák áttelepítés közben
+title: Az engedélyek problémái a áttelepítés közben
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 077b7cf29ef6a40ef7f2aebef15e39a0f5df0fc3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 39b36a85319ccd71278571f3a3cbbc7cf0b9f0fa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758972"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798054"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Felhasználói profil és fényképszinkronizálás
+# <a name="user-profile-and-photo-synchronization"></a>Felhasználói profil és fotó-szinkronizálás
 
- **Profilkép-szinkronizálás** – A felhasználók észrevehetik, hogy profilfotójuk nem szinkronizálódik a SharePoint szolgáltatással. Vagy megpróbálhatták frissíteni a profilfotójukat, és a fénykép továbbra is régi fényképként jelenik meg. Annak érdekében, hogy a profilfotó a várt módon jelenjen meg, a felhasználónak el kell indítania egy fényképszinkronizálást. 
+ **Profil fotó szinkronizálása** – a felhasználók azt tapasztalják, hogy a profilja fényképe nem szinkronizálódik a sharepointra. Esetleg megpróbálták frissíteni a profilja fényképét, és a fénykép továbbra is a régi fényképként jelenik meg. Ha gondoskodni szeretne arról, hogy a profil fényképe a várt módon látható legyen, a felhasználónak meg kell indítania egy fénykép-szinkronizálást. 
   
-A fényképszinkronizálási folyamatról a Microsoft [365 profilkép-szinkronizálásával kapcsolatos további tudnivalókcímű témakörben talál](https://go.microsoft.com/fwlink/?linkid=2022634) további információt.
+A fotó-szinkronizálási folyamatról további információt a [profil képe szinkronizálásáról a Microsoft 365-ban](https://go.microsoft.com/fwlink/?linkid=2022634) című cikkben talál.
   
-- **Profilszinkronizálás** – A profilszinkronizálás befejezéséhez szükséges idő az AD importálási feladat által feldolgozandó módosítások (munka) számától függ. Ha sok változás történik, az időzítőfeladatnak sok dolga van, és hosszabb ideig tart, amíg a módosítások megjelennek a felhasználói profil alkalmazásban. Ha az időzítőfeladatnak kis mennyiségű munkája van, a módosítások sokkal gyorsabban megjelennek a felhasználói profil alkalmazásban. 
+- **Profil szinkronizálása** – a profil-szinkronizálás elvégzéséhez szükséges idő attól függ, hogy hány módosítás (munka) van folyamatban az ad-importálási feladaton. Ha sok változás van, az időzítő feladatnak sok feladata van, és hosszabb ideig tart, amíg a módosítások a felhasználóiprofil-alkalmazásban tükröződni fognak. Ha az időzítő kitöltése kis mennyiségű munkamennyiséget tartalmaz, a változtatások gyorsabban tükröződni fognak a felhasználói profil alkalmazásban. 
   
-A profilszinkronizálási folyamatról a [SharePoint Online-ban](https://go.microsoft.com/fwlink/?linkid=2022639) a felhasználói profilok szinkronizálásával kapcsolatos információk című témakörben olvashat bővebben.
+Ha többet szeretne tudni a profil szinkronizálási folyamatáról, olvassa el a [felhasználói profilok szinkronizálása a SharePoint Online-ban](https://go.microsoft.com/fwlink/?linkid=2022639) című témakört.
     
-- **A Profil frissítése az Office Delve-ben** – a Delve-felhasználók kezelhetik Microsoft 365-profiljukat. További információt a [Profil megtekintése és frissítése az Office Delve-ben című témakörben talál.](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)
+- **A profil frissítése az Office-ban:** a felhasználók kezelhetik a Microsoft 365-profiljaikat. További információt [a saját profiljának megtekintése és frissítése az Office-ban](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)című témakörben találhat.
     
 

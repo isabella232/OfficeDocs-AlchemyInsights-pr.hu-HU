@@ -6,31 +6,32 @@ manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710481"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796578"
 ---
 # <a name="using-custom-policy-in-intune"></a>Egyéni házirend használata az Intune-ban
 
-Az Intune számos beépített beállítással rendelkezik Android, iOS, macOS és Windows rendszerű eszközökhöz. Egyéni profilt is létrehozhat, majd ezeket az egyéni beállításokat telepítheti az eszközökre az Intune használatával. Az egyéni profilok olyan eszközbeállítások és -funkciók hozzáadására szolgálnak, amelyek nincsenek beépítve az Intune-ba.
+Az Intune számos beépített beállítást tartalmaz az Android, iOS, macOS és Windows rendszerű eszközökhöz. Egyéni profilt is létrehozhat, majd ezeket az egyéni beállításokat a Intune segítségével telepítheti az eszközére. Az egyéni profilok olyan eszközbeállítások és funkciók hozzáadására szolgálnak, amelyek nem szerepelnek a Intune-ban.
 
-[Az Android-eszközök egyéni beállításai az Intune-ban](https://docs.microsoft.com/intune/custom-settings-android)
+[Egyéni beállítások az Android-eszközökhöz az Intune-ban](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Az Android Enterprise-eszközök egyéni beállításai az Intune-ban](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Egyéni beállítások az Android Enterprise-eszközökhöz az Intune-ban](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[Egyéni beállítások iOS-eszközökhöz az Intune-ban](https://docs.microsoft.com/intune/custom-settings-ios)
+[Egyéni beállítások az iOS-eszközökhöz az Intune-ban](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Egyéni beállítások macOS-eszközökhöz az Intune-ban](https://docs.microsoft.com/intune/custom-settings-macos)
+[Egyéni beállítások a macOS eszközökhöz az Intune-ban](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[A Windows 10-es eszközök egyéni beállításai az Intune-ban](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Egyéni beállítások a Windows 10-es eszközökhöz az Intune-ban](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Egyéni beállítások a Windows Holographic for Business eszközökhöz az Intune-ban](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[A Windows holografikus vállalati verziós eszközökhöz használható egyéni beállítások az Intune-ban](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
