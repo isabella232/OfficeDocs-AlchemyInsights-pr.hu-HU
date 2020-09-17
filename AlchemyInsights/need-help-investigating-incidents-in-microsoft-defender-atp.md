@@ -1,30 +1,31 @@
 ---
-title: Segítségre van szüksége a Microsoft Defender ATP-ben történt incidensek kivizsgálásához
+title: Segítségre van szüksége az incidensek kivizsgálásához a Microsoft Defender ATP-ban
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6025"
 - "9001221"
-ms.openlocfilehash: c07b4dac5228ce2c39382a70b41b7acaa49d05f5
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
-ms.translationtype: MT
+ms.openlocfilehash: fdff256e70a63b1a7a306ea40de4f2a68e39455d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198043"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803319"
 ---
-# <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Segítségre van szüksége a Microsoft Defender ATP-ben történt incidensek kivizsgálásához
+# <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Segítségre van szüksége az incidensek kivizsgálásához a Microsoft Defender ATP-ban
 
-Ha segítségre van szüksége egy incidens kivizsgálásához a Microsoft Defender ATP-szolgáltatásban, kövesse az alábbi lépéseket.
+Ha segítségre van szüksége egy incidens kivizsgálásához a Microsoft Defender ATP szolgáltatásban, kövesse az alábbi lépéseket.
 
-1. Válassza ki az incidenst, és tekintse át az incidenssel csoportosított riasztásokat. Válassza ki az egyes riasztásokat a részletek áttekintéséhez. További információt a [Microsoft Defender komplex veszélyforrások elleni riasztásai vizsgálata (Microsoft Defender Komplex veszélyforrások elleni védelem) nyújt témakörben talál.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts)
-2. Tekintse át az incidens részét vagy ahhoz kapcsolódó eszközöket. További információt [a Microsoft Defender ATP-eszközök listájában található Eszközök vizsgálata című témakörben talál.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines)<br/>
+1. Jelölje ki az eseményt, és tekintse át az incidenssel csoportosított riasztásokat. Jelölje ki az egyes riasztásokat a részletek áttekintéséhez. Útmutatást a [Microsoft Defender Advanced Threat Protection riasztásai](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts)című témakörben találhat.
+2. Tekintse át az incidens részét képező vagy ahhoz kapcsolódó eszközöket. Útmutatásért olvassa el [az eszközök vizsgálata a Microsoft DEFENDER ATP-eszközök listájában](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines)című témakört.<br/>
  
-    A vizsgálatok lapon megtekintheti a rendszer által az incidensriasztásokra válaszul indított összes automatikus vizsgálatot.
-3. Az incidensgrafikon segítségével azonosíthatja a belépési pontot, a kompromisszumok jelzéseit és az eszközön(ak)on megfigyelt egyéb gyanús tevékenységeket. További információt a [Vizuális megjelenítéshez kapcsolódó kiberbiztonsági fenyegetések című témakörben talál.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats)  
+    A vizsgálatok lapon megtekintheti a rendszer által az incidensekkel kapcsolatos riasztásokra adott válaszként indított összes automatikus vizsgálatot.
+3. A beeső gráf segítségével keresse meg a belépési pontot, a kompromisszum jelzését, valamint az eszköz (ek) ban megfigyelt egyéb gyanús tevékenységeket. További információért olvassa el a [kapcsolódó CyberSecurity-fenyegetések megjelenítése](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats)című témakört.  

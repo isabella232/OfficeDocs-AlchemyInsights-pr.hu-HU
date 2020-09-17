@@ -1,28 +1,29 @@
 ---
-title: Outlook.com a postaláda megjelenésének módosítása
+title: A postaláda megjelenésének módosítása a Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721941"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802563"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>A Outlook.com-postaláda megjelenésének módosítása
 
-Az üzenetlista és az olvasóablak megjelenését módosíthatja Outlook.com.
+Módosíthatja az üzenetlista és az olvasóablak megjelenését az Outlook.com.
 
 - Az üzenetablak elrendezésének módosításához nyissa meg az [Olvasóablak](https://outlook.live.com/mail/options/mail/layout/readingPane) beállításait.
-- Az e-mailek rendezési módjának módosításához az üzenetlista tetején válassza a **Rendezés szűrése** > **Sort by** lehetőséget, és válassza ki, hogyan szeretné rendezni az e-maileket.
-- Az üzenetek beszélgetés szerint való csoportosításához nyissa meg az [Üzenetszervezés](https://outlook.live.com/mail/options/mail/layout/conversations) beállításait.
-- A Fókuszált beérkezett üzenetek be- és kikapcsolására nyissa meg az [Elrendezés beállításait.](https://outlook.live.com/mail/options/mail/layout/focused)
+- Ha meg szeretné változtatni az e-mailek rendezési módját, az üzenetlista tetején válassza a **Filter**  >  **Rendezési szempont** lehetőséget, és adja meg, hogy miként szeretné rendezni az e-mailjeit.
+- Ha beszélgetés szerint szeretné csoportosítani az üzeneteket, nyissa meg az [üzenet-szervezeti](https://outlook.live.com/mail/options/mail/layout/conversations) beállításokat.
+- A szűrt levelek be-vagy kikapcsolásához nyissa meg az [elrendezési](https://outlook.live.com/mail/options/mail/layout/focused) beállításokat.

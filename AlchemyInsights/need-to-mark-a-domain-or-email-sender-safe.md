@@ -1,25 +1,26 @@
 ---
-title: Meg kell jelölnie egy tartomány- vagy e-mail feladói széfet?
+title: Biztonságosnak kell lennie egy tartománynak vagy egy e-mail-feladónak?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002921"
 - "5673"
-ms.openlocfilehash: 7dc1576fd61e87b319c7486c59ed125943b4d959
-ms.sourcegitcommit: 43acdecef129bfffc8bbe8ebb08fdd581b238a03
+ms.openlocfilehash: 0ea089b95ad7de25e77017196fb2db895d4d0178
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44281150"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803247"
 ---
-# <a name="need-to-mark-a-domain-or-email-sender-safe"></a>Meg kell jelölnie egy tartomány- vagy e-mail feladói széfet?
+# <a name="need-to-mark-a-domain-or-email-sender-safe"></a>Biztonságosnak kell lennie egy tartománynak vagy egy e-mail-feladónak?
 
-- A **biztonságos feladói listák** használata nem ajánlott, mivel megnyitja a szervezetet a levélszemét, a phish és a hamisítás igéző támadásai számára.
-- Ha azonban üzleti követelmény van, **javasoljuk, hogy** ehhez használja a **[Mail Flow-szabályokat.](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** Útmutatónk biztosítja a küldő hitelesítését (ellenőrzi, hogy a küldő tartomány nem kerül hamisításra). **Megjegyzés:** Nem javasoljuk a hamis pozitív adatok biztonságos feladói listák használatával történő kezelését, mivel a levélszemétszűrés alóli kivételek megnyithatják a szervezetet a biztonsági támadások előtt. Ha a felhasználó(k) olyan üzeneteket kapnak, amelyek helytelenül spamként vagy levélszemétként vannak megjelölve, kérjük, **[jelentsék az üzeneteket és fájlokat a Microsoftnak.](https://protection.office.com/reportsubmission)**
-- **Kerülni kell** a megbízható feladókat az Outlook ban, az Engedélyezett feladók listáját vagy a levélszemét-ellenes házirendekben engedélyezett tartománylistát, mivel a feladók megkerülik az összes levélszemét-, hamisítás- és adathalászat-védelmet, valamint a feladó hitelesítését (SPF, DKIM, DMARC). Ez a módszer csak ideiglenes tesztelésre használható.
+- A **megbízható küldők listái nem ajánlottak** , mivel a szervezetet a levélszemét, az adathalász és a hamisítás elleni támadások megadásával nyitják meg.
+- Ha azonban üzleti szükséglete van, azt **javasoljuk** , hogy e- **[mail-forgalom szabályait](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** használja ehhez a szolgáltatáshoz. Útmutatásunk szerint a küldő tartomány hitelesítése (a küldő tartomány ellenőrzése nem hamisítható meg). **Megjegyzés**: nem javasoljuk a téves pozitív adatok kezelését a megbízható küldők listáival, mert a levélszemét-szűrés alóli kivételek a szervezet biztonsági támadások számára való megnyitását szolgálják. Ha a felhasználó (k) tévesen levélszemétként vagy levélszemétként megjelölt üzeneteket fogad, kérjük, jelezze **[az üzeneteket és a fájlokat a Microsoftnak](https://protection.office.com/reportsubmission)**.
+- **Elkerülhetők** a megbízható feladók az Outlookban, az engedélyezett feladók vagy a megengedett tartományok listája a levélszemét elleni szabályokban, mivel a feladók megkerülik az összes levélszemét-, svindli-és adathalász-védelmet, valamint a feladó hitelesítését (SPF, DKIM, DMARC). Ezt a módszert a legjobb csak ideiglenes teszteléshez használja.

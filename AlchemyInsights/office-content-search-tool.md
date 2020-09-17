@@ -1,31 +1,32 @@
 ---
-title: 1491-keresés-nem-visszatérő-várt-eredmények
+title: 1491 – keresés – vissza – a várt eredmények
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 4e07b178fa41015bb942d939c08c534c2bfac30e
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5b26a6b9bbc462aac93a3a2cb4df81a14fce8b80
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505129"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802851"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Tartalomkereső eszköz a releváns információk megkereséséhez
+# <a name="content-search-tool-to-find-relevant-info"></a>A tartalom keresése eszköz a releváns információk megkereséséhez
 
-A Biztonsági & megfelelőségi központ Tartalomkereső eszközével gyorsan megtalálhatja az Exchange-postaládákban található e-maileket, a SharePoint-webhelyeken és a OneDrive-helyeken található dokumentumokat, valamint a Skype Vállalati verzióban folytatott csevegéseket. A tartalomkereső eszközzel e-maileket, dokumentumokat és csevegéseket kereshet a Microsoft 365 együttműködési eszközeiben, például a Microsoft Teamsben és a Microsoft 365 Csoportokban.
+A biztonsági & megfelelőségi központban a tartalom keresése eszköz segítségével gyorsan megtalálhatja az Exchange-postaládákban, a SharePoint-webhelyeken és a OneDrive-on tárolt e-maileket, valamint a Skype vállalati verzióban a csevegési beszélgetéseket. A tartalom keresése eszközzel e-mailek, dokumentumok és csevegések keresése a Microsoft 365 együttműködési eszközeivel (például Microsoft Teams és Microsoft 365-csoport) végezhető el.
 
 
-Mielőtt a Biztonsági [& megfelelőségi központ](https://sip.protection.office.com/homepage) [tartalomkeresését](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) használná, töltse ki a konfigurációs beállításokat, beleértve [az engedélyek konfigurálását,](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search) [a letöltési sebesség beállítását](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) és [az exportálási beállításokat.](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results)
+Mielőtt a [biztonsági & megfelelőségi központból](https://sip.protection.office.com/homepage)a [tartalom keresése](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) szolgáltatást használni szeretné, a konfigurációs beállításokat is el kell végeznie, például [konfigurálnia](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)kell az engedélyeket, a [letöltési sebességek](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) és a [Beállítások exportálása](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results)beállítást.
 
-A tartalomkeresésről a [követelmények és korlátok](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)áttekintésével, a [részben indexelt elemek](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) és egyéb eredmények vizsgálatával.
+A tartalom kereséséről további tudnivalókat a [követelmények és korlátok](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)áttekintése, a [részlegesen indexelt elemek](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) és más eredmények vizsgálata című témakörben találhat.
 
-Miután áttekintette a tartalomkeresés konfigurációs beállításait és korlátozásait, olvassa el a Tartalomkeresés használata a [ </a> szervezetben a helyben található elemek, például az e-mailek, a dokumentumok és az azonnali üzenetküldési beszélgetések keresését című témakört.](https://docs.microsoft.com/microsoft-365/compliance/content-search)
+Miután megtekintte a tartalmi keresés konfigurációs beállításait és korlátozásait, a [tartalmi keresés segítségével </a> keressen a helyi elemek, például e-mailek, dokumentumok és csevegések a szervezetében című témakörben](https://docs.microsoft.com/microsoft-365/compliance/content-search).
 
-A Tartalomkeresés teljes lépésről lépésre című témakörben talál további információt a [Tartalom keresése a Microsoft 365-ben című témakörben.](https://docs.microsoft.com/microsoft-365/compliance/search-for-content)
+A teljes körű keresési lépésekről további információt a [tartalom keresése a Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) című témakörben talál.
