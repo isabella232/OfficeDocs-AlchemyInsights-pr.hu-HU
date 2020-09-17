@@ -1,33 +1,34 @@
 ---
-title: Felügyelet konfigurálása
+title: Felügyelet beállítása
 ms.author: robmazz
 author: robmazz
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 9694192fa9338b972369d06dfbd3fa648dcb1165
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507768"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807517"
 ---
-# <a name="configure-supervision-policies"></a>Felügyeleti házirendek konfigurálása
+# <a name="configure-supervision-policies"></a>Felügyeleti házirendek beállítása
 
-A Microsoft 365 felügyeleti házirendjei lehetővé teszik az Exchange-levelezés, a Skype Vállalati online verzió, a Microsoft Teams és a szervezeten kívül küldött külső kommunikáció figyelését. A kijelölt ellenőrzők megvizsgálhatják a figyelt üzeneteket, hogy megbizonyosodjanak arról, hogy azok megfelelnek a szervezet szabályzatainak, kockázatkezelési és szabályozási megfelelőségi szabványainak, és feloldhatják azokat egy besorolási típussal.
+Felügyeleti házirendek: a Microsoft 365 segítségével nyomon követheti az Exchange-alapú levelezést, a Skype vállalati online verziót, a Microsoft Teams és a harmadik féltől származó, a szervezeten belül és kívül küldött kommunikációt. A kijelölt véleményezők megtekinthetik a figyelt üzeneteket úgy, hogy megfeleljenek a szervezeti szabályzatoknak, a kockázatkezelési követelményeknek és a szabályozási megfelelőségi szabványoknak, és a besorolási típusokkal oldják meg őket.
 
-A felügyeleti házirendek szervezeten belüli használatához a következőket kell tenni:
+Ha a szervezet felügyeleti házirendjeit szeretné használni, a következőket kell tennie:
 
-- Határozza meg a figyelni fogandó kommunikációt.
-- Döntse el, hogy ki végzi el a kommunikáció felülvizsgálatát.
-- Beállításfelügyeleti házirendek
+- A figyelni kívánt kommunikáció meghatározása
+- Döntse el, hogy kik fogják ellátni a kommunikációt?
+- Beállítási felügyeleti házirendek
 
 tudj meg többet:
 
-- [Felügyeleti házirendek áttekintése](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Felügyeleti házirendek konfigurálása](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [A felügyeleti házirendek áttekintése](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Felügyeleti házirendek beállítása](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

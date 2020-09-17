@@ -1,37 +1,38 @@
 ---
-title: Feltételes hozzáférés az Intune-nal
+title: Feltételes hozzáférés a Intune szolgáltatással
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
-ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
+ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/30/2020
-ms.locfileid: "44931434"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807661"
 ---
-# <a name="conditional-access-with-intune"></a>Feltételes hozzáférés az Intune-nal
+# <a name="conditional-access-with-intune"></a>Feltételes hozzáférés a Intune szolgáltatással
 
-A **feltételes hozzáférés** intune-nal való használata 3 lépést igényel:
+A  **feltételes hozzáférés**  használata a Intune használatához 3 lépésből áll:
 
-- Hozzon létre **megfelelőségi szabályzatot** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) olyan beállítások meghatározásához, amelyeknek meg kell felelniük ahhoz, hogy az eszköz megfelelőnek minősüljen. Egy eszköznek például legalább 6 számjegyből álló tűvel kell rendelkeznie ahhoz, hogy megfelelőnek minősüljön.
-- Hozzon létre egy **feltételes hozzáférési szabályzatot,** amely meghatározza, hogy milyen erőforrások at védenek, és milyen feltételeknek kell megfelelni az erőforrások eléréséhez.  Egy eszköznek [például](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) megfelelőnek kell lennie a vállalati e-mailek elérése előtt.
-- Győződjön meg arról, hogy mind **a megfelelőségi szabályzatok,** mind a **feltételes hozzáférési házirendek** a kívánt felhasználói csoportokat célozzák meg. Ez szükség lehet a felhasználók adott csoportjainak az Azure Active Directoryban.
+- Hozzon létre egy  **megfelelőségi házirendet**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) a megfelelő beállítások megadásához, mielőtt az eszköz megfelel-e a követelményeknek. Az eszközöknek például legalább 6 számjegyből álló PIN-kóddal kell rendelkezniük ahhoz, hogy megfeleljenek a megfelelőségi követelményeknek.
+- Hozzon létre egy **feltételes hozzáférési házirendet**  , amely meghatározza, hogy milyen erőforrások legyenek védve, és milyen feltételeknek kell teljesülniük ahhoz, hogy hozzáférhessenek ezekhez az erőforrásokhoz.  [Az](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  eszközöknek például kompatibiliseknek kell lenniük a vállalati e-mailek eléréséhez.
+- Gondoskodjon arról, hogy a **megfelelőségi szabályok**  és a  **feltételes hozzáférés-házirendek**  a felhasználók kívánt csoportjaira irányuljanak. Ehhez szükség lehet az Azure Active Directory-beli felhasználók bizonyos csoportjai létrehozására.
 
-**Hasznos linkek:**
+**Hasznos hivatkozások:**
 
-[Eszközmegfelelőség – áttekintés](https://docs.microsoft.com/intune/device-compliance-get-started)
+[Az eszközök megfelelősége – áttekintés](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Hitelesítésak – hibaelhárítás](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[HITELESÍTÉSSZOLGÁLTATÓ hibaelhárítása](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Hibaelhárítási házirend](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Hibaelhárítási szabályok](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-Annak érdekében, hogy az e-maileket (Exchange online) megvédje a nem megfelelő eszközök hozzáférésétől, mindkét dokumentumot be kell tartani:
+Ha nem kompatibilis eszközökről szeretné megvédeni az e-maileket (Exchange Online), mindkét dokumentumot meg kell tartani:
 
-1. [Az e-mailek elérésének védelme az eszközökről az EAS használatával](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [Az e-mailek elérésének védelme az eszközökkel a modern hitelesítési ügyfelek, például az Outlook használatával](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+1. [E-mail-hozzáférés védelme az eszközökről az EAS segítségével](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [E-mail-hozzáférés biztosítása az eszközökről a modern hitelesítési ügyfélprogramokkal (például az Outlookkal)](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)

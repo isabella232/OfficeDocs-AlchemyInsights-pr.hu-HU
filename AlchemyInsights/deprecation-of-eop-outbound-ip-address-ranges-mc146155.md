@@ -1,28 +1,29 @@
 ---
-title: 1065 Az EOP kimenő IP-címtartományainak eprecation-jaMC146155
+title: a 1065 EOP kimenő IP-címek rangesMC146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: f4854c32d970d84f3a0664a9e384dc6e3cd0bfa7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: afd725668f906339f4b7d769bb67a4d2ee5a6ac6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704599"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806797"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>EOP kimenő IP-címtartományok eprektálása
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>A kimenő IP-címtartományok EOP megszűnése
 
-Észleltünk egy lehetséges problémát a szervezetnél, amely (ha nem javítja ki 2018. október 26-ig) megszakíthatja a helyszíni vagy külső célállomásokra irányuló levélforgalmat. Ahogy azt korábban közöltük, az IP-címtartomány kezelésének egyszerűsítése érdekében konszolidáljuk az Exchange Online Protection (EOP) IP-címtartományait, amelyek a Microsoft 365-ön kívüli e-mailek küldésére és fogadására szolgálnak. Elemzésünk azt mutatja, hogy a levelezési összekötőkben konfigurált külső e-mail források vagy célállomások közül egy vagy több nem fogad kapcsolatot az [itt](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)látható IP-címtartományokból.
+A szervezetével kapcsolatos esetleges problémát észlelt, amely (ha az 2018 október 26-ának nincs kijavítva) az e-mailek áramlását a helyszíni vagy a külső célállomásokra is megszakíthatja. A korábban közölt módon az IP-címtartomány-kezelés egyszerűsítése érdekében a Microsoft 365-on kívüli e-mailek küldéséhez és átvételéhez használt Exchange Online Protection (EOP) IP-címtartományok egységesítése. Az elemzés azt jelzi, hogy az e-mail-forgalom összekötői között konfigurált külső e-mail-források vagy-célhelyek közül legalább az [itt](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)látható IP-címtartományból származó kapcsolatokat fogadja.
 
-Törvény előtt október 26 annak biztosítása érdekében, ezek a források és célok elfogadja kapcsolatok és az összes [közzétett EOP IP-címek](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Október 26-án, annak biztosítása érdekében, hogy ezek a források és a rendeltetési hely az összes [közzétett EOP-](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)címről kapcsolatot fogadjon.
 
-A változásról további információt az [MC146155,](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155) [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)vagy [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274)állások üzenetközpontban talál.
+Ha további információra van kíváncsi a változásról, olvassa el a [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), a [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)vagy a [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
 
-**Megjegyzés:** Ha korábban HTML-, XML- és RSS-alapú IP-cím- vagy URL-közzétételt használt a végpontfrissítésekhez, akkor az ilyen típusú frissítések automatizálásához át kell térnie az új webszolgáltatásokra is. További információt a [Microsoft 365 végpontkategóriák és a Microsoft 365 IP-cím és URL-cím webszolgáltatás című témakörben talál.](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638)
+**Megjegyzés**: Ha korábban már használta az IP-címet vagy az URL-címet HTML-, XML-és RSS-en keresztül, akkor az új webes szolgáltatásokra kell áttérnie az ilyen típusú frissítések automatizálásához. További információt a [microsoft 365-végpontok kategóriái és a microsoft 365 IP-cím és URL-webszolgáltatás](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638)című témakörben találhat.
