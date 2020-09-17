@@ -1,33 +1,34 @@
 ---
-title: A projekt közös problémái és megoldásai
+title: A projekttel kapcsolatos gyakori problémák és megoldások
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 61f2cb4d4d9158d8f9d90cd8a59d5a9ad109eb12
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: e044e70fb581896bce98b4e2d8e5853e28ae7411
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789124"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801726"
 ---
-# <a name="project-common-issues-and-resolutions"></a><span data-ttu-id="8a033-102">A projekt közös problémái és megoldásai</span><span class="sxs-lookup"><span data-stu-id="8a033-102">Project common issues and resolutions</span></span>
+# <a name="project-common-issues-and-resolutions"></a><span data-ttu-id="1a24f-102">A projekttel kapcsolatos gyakori problémák és megoldások</span><span class="sxs-lookup"><span data-stu-id="1a24f-102">Project common issues and resolutions</span></span>
 
-<span data-ttu-id="8a033-103">Íme néhány gyakran kért témakör a Project programmal kapcsolatban:</span><span class="sxs-lookup"><span data-stu-id="8a033-103">Here are some frequently requested topics with Project:</span></span>
+<span data-ttu-id="1a24f-103">Az alábbiakban felsorolunk néhány gyakran kért témakört a Projectben:</span><span class="sxs-lookup"><span data-stu-id="1a24f-103">Here are some frequently requested topics with Project:</span></span>
 
-1. <span data-ttu-id="8a033-104">**A Project Online használatának első lépései:**  [Kezdje el használni a Project Online-t,](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) és ismerje meg, hogyan [tervezheti meg, valósíthatja meg és tarthatja karban](https://docs.microsoft.com/projectonline/project-online) a Project Online-t a környezetében.</span><span class="sxs-lookup"><span data-stu-id="8a033-104">**Get started with Project Online:**  [Start using Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) and learn how to how to [plan for, implement, and maintain Project Online](https://docs.microsoft.com/projectonline/project-online) in your environment.</span></span> <span data-ttu-id="8a033-105">A fontos korlátozások áttekintéséhez ellenőrizze a [Project Online szoftverkorlátait és határait.](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits)</span><span class="sxs-lookup"><span data-stu-id="8a033-105">Check [Project Online Software Limits and Boundaries](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) to review important limitations.</span></span>
+1. <span data-ttu-id="1a24f-104">Első **lépések a Project**online-ban: a[Project online használatának megkezdése](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) , és megtudhatja, hogy miként [tervezheti meg, implementálhatja és karbantarthatja a Project](https://docs.microsoft.com/projectonline/project-online) online-t a környezetében.  </span><span class="sxs-lookup"><span data-stu-id="1a24f-104">**Get started with Project Online:**  [Start using Project Online](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) and learn how to how to [plan for, implement, and maintain Project Online](https://docs.microsoft.com/projectonline/project-online) in your environment.</span></span> <span data-ttu-id="1a24f-105">A fontos korlátozások ellenőrzéséhez ellenőrizze a [Project online szoftver korlátozásait és határait](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) .</span><span class="sxs-lookup"><span data-stu-id="1a24f-105">Check [Project Online Software Limits and Boundaries](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) to review important limitations.</span></span>
 
-2. <span data-ttu-id="8a033-106">**Hozzáférés a felhasználóknak a Project Online-hoz:** [Személyek, csoportok, erőforrások](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) hozzáadása és a Project Online megosztása a másokkal való együttműködéshez.</span><span class="sxs-lookup"><span data-stu-id="8a033-106">**Give users access to Project Online:** Add [people, groups, resources and share Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) to collaborate with others.</span></span> 
+2. <span data-ttu-id="1a24f-106">**Hozzáférés biztosítása a felhasználóknak a Project online-hoz:** A másokkal való együttműködéshez vegyen fel [személyeket, csoportokat, erőforrásokat és ossza meg a Project online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) -t.</span><span class="sxs-lookup"><span data-stu-id="1a24f-106">**Give users access to Project Online:** Add [people, groups, resources and share Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) to collaborate with others.</span></span> 
 
-3. <span data-ttu-id="8a033-107">**A Project Web App (PWA) teljesítményének finomhangolása a Project Online-ban:** Tekintse át a Project Web App néhány leggyakoribb beállításának [teljesítményre gyakorolt hatását és kompromisszumait.](https://docs.microsoft.com/projectonline/tune-project-online-performance)</span><span class="sxs-lookup"><span data-stu-id="8a033-107">**Tune Project Web App (PWA) performance in Project Online:** Review the [performance impact and tradeoffs](https://docs.microsoft.com/projectonline/tune-project-online-performance) of some of the most common Project Web App settings.</span></span>
+3. <span data-ttu-id="1a24f-107">**A Project Web App (Project Web App) teljesítményének finomhangolása a Project online-ban:** Tekintse át a Project Web App leggyakoribb beállításai közül a [teljesítménnyel kapcsolatos hatásokat és kompromisszumokat](https://docs.microsoft.com/projectonline/tune-project-online-performance) .</span><span class="sxs-lookup"><span data-stu-id="1a24f-107">**Tune Project Web App (PWA) performance in Project Online:** Review the [performance impact and tradeoffs](https://docs.microsoft.com/projectonline/tune-project-online-performance) of some of the most common Project Web App settings.</span></span>
 
-4. <span data-ttu-id="8a033-108">**Csatlakozás a Project Online-hoz az asztali Project ügyféllel:** Microsoft 365-ös környezetben a [Project Online asztali ügyfélprogram](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) segítségével csatlakozhat a Project Online-hoz.</span><span class="sxs-lookup"><span data-stu-id="8a033-108">**Connect to Project Online with the Project Desktop Client:** Use the [Project Online Desktop client](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) to connect to Project Online in your Microsoft 365 environment.</span></span> 
+4. <span data-ttu-id="1a24f-108">**Csatlakozás a Project online-hoz a Project asztali ügyfélprogrammal:** A [Project online asztali ügyfélprogram](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) segítségével csatlakozhat a Project online-hoz a Microsoft 365-környezetében.</span><span class="sxs-lookup"><span data-stu-id="1a24f-108">**Connect to Project Online with the Project Desktop Client:** Use the [Project Online Desktop client](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) to connect to Project Online in your Microsoft 365 environment.</span></span> 
 
-5. <span data-ttu-id="8a033-109">**A Project Professional telepítése:** [Telepítse és használja](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) a Project Professional programot a Project Online előfizetéses verzióival, valamint a Project 2019, 2016 vagy 2013 nem előfizetéses verzióival.</span><span class="sxs-lookup"><span data-stu-id="8a033-109">**Install Project Professional:** [Install and use Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) with the subscription versions of Project Online, and the non-subscription versions of Project 2019, 2016, or 2013.</span></span>
+5. <span data-ttu-id="1a24f-109">A **Project Professional telepítése:** a Project [Professional telepítése és használata](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) a Project Online előfizetéses verzióival, valamint a project 2019, az 2016 vagy a 2013 nem előfizetéses verziójában.</span><span class="sxs-lookup"><span data-stu-id="1a24f-109">**Install Project Professional:** [Install and use Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) with the subscription versions of Project Online, and the non-subscription versions of Project 2019, 2016, or 2013.</span></span>

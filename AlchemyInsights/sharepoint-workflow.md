@@ -1,10 +1,11 @@
 ---
-title: Munkafolyamatok – problémamegoldás a SharePointban
+title: SharePoint-munkafolyamatok hibaelhárítása
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,21 +15,21 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138973"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800250"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a><span data-ttu-id="32136-102">Munkafolyamatok – problémamegoldás a SharePointban</span><span class="sxs-lookup"><span data-stu-id="32136-102">Troubleshoot Workflows in SharePoint</span></span>
+# <a name="troubleshoot-workflows-in-sharepoint"></a><span data-ttu-id="96cb8-102">SharePoint-munkafolyamatok hibaelhárítása</span><span class="sxs-lookup"><span data-stu-id="96cb8-102">Troubleshoot Workflows in SharePoint</span></span>
 
-<span data-ttu-id="32136-103">**Munkafolyamatok hibaelhárítása és hibakeresése a SharePointban**</span><span class="sxs-lookup"><span data-stu-id="32136-103">**Troubleshoot and Debug Workflows in SharePoint**</span></span>
+<span data-ttu-id="96cb8-103">**Hibaelhárítási és hibakeresési munkafolyamatok a SharePointban**</span><span class="sxs-lookup"><span data-stu-id="96cb8-103">**Troubleshoot and Debug Workflows in SharePoint**</span></span>
 
-<span data-ttu-id="32136-104">Lásd: [SharePoint-munkafolyamat-érvényesítési hibák](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) és [A SharePoint-munkafolyamatok hibakeresésének elhárítása](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="32136-104">See [Troubleshoot SharePoint workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) and [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
+<span data-ttu-id="96cb8-104">Lásd: a [SharePoint-munkafolyamat érvényesítési hibáinak elhárítása](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) és a [SharePoint-munkafolyamatok hibakeresése](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span><span class="sxs-lookup"><span data-stu-id="96cb8-104">See [Troubleshoot SharePoint workflow validation errors](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) and [Debugging SharePoint workflows](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).</span></span>
 
-<span data-ttu-id="32136-105">**Teljesítmény automatáz**</span><span class="sxs-lookup"><span data-stu-id="32136-105">**Power Automate**</span></span>
+<span data-ttu-id="96cb8-105">**Power automatizálás**</span><span class="sxs-lookup"><span data-stu-id="96cb8-105">**Power Automate**</span></span>
 
-<span data-ttu-id="32136-106">Ha még csak most kezdi el használni a munkafolyamatokat, fontolja meg a [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) használatát a klasszikus SharePoint-munkafolyamat-megoldások helyett.</span><span class="sxs-lookup"><span data-stu-id="32136-106">If you're just getting started with workflows, consider using [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) instead of the classic SharePoint workflow solutions.</span></span>
+<span data-ttu-id="96cb8-106">Ha csak most kezdi el használni a munkafolyamatokat, fontolja meg a [Power gyorsbüfé](https://docs.microsoft.com/power-automate/modern-approvals) használatát a klasszikus SharePoint-munkafolyamat-megoldások helyett.</span><span class="sxs-lookup"><span data-stu-id="96cb8-106">If you're just getting started with workflows, consider using [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) instead of the classic SharePoint workflow solutions.</span></span>
 
-<span data-ttu-id="32136-107">További információt a [SharePoint-munkafolyamatok kivonuló című témakörben](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)talál.</span><span class="sxs-lookup"><span data-stu-id="32136-107">For more information, see [SharePoint workflows retiring](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).</span></span>
+<span data-ttu-id="96cb8-107">További információt a SharePoint- [munkafolyamatok kivonulása](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="96cb8-107">For more information, see [SharePoint workflows retiring](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).</span></span>
