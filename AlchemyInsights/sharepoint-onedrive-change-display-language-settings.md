@@ -1,27 +1,28 @@
 ---
-title: SharePoint Online vagy OneDrive "Beállítás"
+title: SharePoint Online vagy OneDrive "beállítása"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: f7f23a05260ff72fe2591ae56dec80e49c02d687
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: dafe6180197559deac9cffcfd75f3ed1c95e791a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758606"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797622"
 ---
-# <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a><span data-ttu-id="f9028-102">Megjelenítési nyelvi beállítások módosítása a SharePointban vagy a OneDrive-on</span><span class="sxs-lookup"><span data-stu-id="f9028-102">Change display language settings in SharePoint or OneDrive</span></span> 
+# <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a><span data-ttu-id="5db12-102">A megjelenítési nyelv beállításainak módosítása a SharePointban vagy a OneDrive</span><span class="sxs-lookup"><span data-stu-id="5db12-102">Change display language settings in SharePoint or OneDrive</span></span> 
 
-<span data-ttu-id="f9028-103">A SharePoint vagy a OneDrive alapértelmezett nyelvi beállításait nem módosíthatja, mert ezek a beállítások a Microsoft 365-előfizetés létrehozásakor voltak definiálva.</span><span class="sxs-lookup"><span data-stu-id="f9028-103">You are not able to change the default language settings for SharePoint or OneDrive because those settings were defined when you created your Microsoft 365 subscription.</span></span> <span data-ttu-id="f9028-104">A megjelenítési nyelv beállításait azonban módosíthatja.</span><span class="sxs-lookup"><span data-stu-id="f9028-104">You can, however, change your display language settings.</span></span>
+<span data-ttu-id="5db12-103">Nem tudja módosítani a SharePoint-vagy a OneDrive alapértelmezett nyelvi beállításait, mert ezek a beállítások a Microsoft 365-előfizetés létrehozásakor lettek meghatározva.</span><span class="sxs-lookup"><span data-stu-id="5db12-103">You are not able to change the default language settings for SharePoint or OneDrive because those settings were defined when you created your Microsoft 365 subscription.</span></span> <span data-ttu-id="5db12-104">Módosíthatja azonban a megjelenítési nyelv beállításait.</span><span class="sxs-lookup"><span data-stu-id="5db12-104">You can, however, change your display language settings.</span></span>
 
-<span data-ttu-id="f9028-105">A személyes beállítások módosításáról [a Személyes nyelv- és régióbeállítások módosítása (Módosítás)](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)témakörben olvashat.</span><span class="sxs-lookup"><span data-stu-id="f9028-105">To change your personal settings, see  [Change your personal language and region settings](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).</span></span>
+<span data-ttu-id="5db12-105">A személyes beállítások módosításához olvassa el  [a személyes nyelvi és területi beállítások módosítása](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)című témakört.</span><span class="sxs-lookup"><span data-stu-id="5db12-105">To change your personal settings, see  [Change your personal language and region settings](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).</span></span>
 
-<span data-ttu-id="f9028-106">A webhely felhasználói felületének módosításáról [a Webhely felhasználói felületéhez elérhetővé tenni kívánt nyelvek kiválasztása](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8)című témakörben található.</span><span class="sxs-lookup"><span data-stu-id="f9028-106">To change the site's user interface, see [Choose the languages you want to make available for a site's user interface](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8).</span></span>
+<span data-ttu-id="5db12-106">A webhely felhasználói felületének módosításához a [webhely felhasználói felületéhez elérhetővé tenni kívánt nyelvek kiválasztása](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8)című témakörben tájékozódhat.</span><span class="sxs-lookup"><span data-stu-id="5db12-106">To change the site's user interface, see [Choose the languages you want to make available for a site's user interface](https://support.office.com/article/choose-the-languages-you-want-to-make-available-for-a-site-s-user-interface-16d3a83c-05ab-4b50-8fbb-ff576a3351e8).</span></span>
 
-<span data-ttu-id="f9028-107">A nyelvi beállítások hibaelhárításáról a [SharePoint Online-webhelycsoportok alapértelmezett nyelvének módosítása című témakörben olvashat bővebben.](https://docs.microsoft.com/sharepoint/support/sites/change-default-language-site-collection)</span><span class="sxs-lookup"><span data-stu-id="f9028-107">For more information about troubleshooting language settings, see [You can't change the default language for a SharePoint Online site collection](https://docs.microsoft.com/sharepoint/support/sites/change-default-language-site-collection).</span></span>
+<span data-ttu-id="5db12-107">A nyelvi beállításokkal kapcsolatos további tudnivalókért olvassa el [a SharePoint Online-webhelycsoport alapértelmezett nyelvének módosítása](https://docs.microsoft.com/sharepoint/support/sites/change-default-language-site-collection)című témakört.</span><span class="sxs-lookup"><span data-stu-id="5db12-107">For more information about troubleshooting language settings, see [You can't change the default language for a SharePoint Online site collection](https://docs.microsoft.com/sharepoint/support/sites/change-default-language-site-collection).</span></span>
 

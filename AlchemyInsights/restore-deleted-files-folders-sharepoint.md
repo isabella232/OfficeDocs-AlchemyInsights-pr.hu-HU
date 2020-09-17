@@ -6,6 +6,7 @@ manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "3173"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: a31c2c9c20a49765de02924bdd396833ab4c2b7d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7820c37d503baba8b8433b647576b194ce002905
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742563"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797766"
 ---
-# <a name="restore-deleted-files-or-folders-in-sharepoint"></a><span data-ttu-id="a2e8f-102">Törölt fájlok vagy mappák visszaállítása a SharePointban</span><span class="sxs-lookup"><span data-stu-id="a2e8f-102">Restore deleted files or folders in SharePoint</span></span>
+# <a name="restore-deleted-files-or-folders-in-sharepoint"></a><span data-ttu-id="4e0aa-102">Törölt fájlok vagy mappák visszaállítása a SharePointban</span><span class="sxs-lookup"><span data-stu-id="4e0aa-102">Restore deleted files or folders in SharePoint</span></span>
 
-<span data-ttu-id="a2e8f-103">Ha véletlenül töröl egy fájlt vagy mappát a SharePointban, később helyreállíthatja azt a lomtárból.</span><span class="sxs-lookup"><span data-stu-id="a2e8f-103">If you accidentally delete a file or folder in SharePoint, you may be able to recover it later from the recycle bin.</span></span>
+<span data-ttu-id="4e0aa-103">Ha véletlenül törölt egy fájlt vagy mappát a SharePointban, lehet, hogy később visszaállíthatja azt a Lomtárból.</span><span class="sxs-lookup"><span data-stu-id="4e0aa-103">If you accidentally delete a file or folder in SharePoint, you may be able to recover it later from the recycle bin.</span></span>
 
-* [<span data-ttu-id="a2e8f-104">Törölt fájlok vagy mappák visszaállítása a SharePointban</span><span class="sxs-lookup"><span data-stu-id="a2e8f-104">Restore deleted files or folders in SharePoint</span></span>](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+* [<span data-ttu-id="4e0aa-104">Törölt fájlok vagy mappák visszaállítása a SharePointban</span><span class="sxs-lookup"><span data-stu-id="4e0aa-104">Restore deleted files or folders in SharePoint</span></span>](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
-<span data-ttu-id="a2e8f-105">Ha a SharePoint-fájlok nagy része törlődik, felülírja, megsérül vagy rosszindulatú programmal fertőzi meg, a teljes SharePoint-könyvtárat visszaállíthatja az előző időpontra.</span><span class="sxs-lookup"><span data-stu-id="a2e8f-105">If lots of your SharePoint files get deleted, overwritten, corrupted, or infected by malware, you can restore your entire SharePoint library to a previous time.</span></span>
+<span data-ttu-id="4e0aa-105">Ha a SharePoint-fájlok sok részéről törlődik, felülírják, megsérülnek vagy fertőzöttek a kártevők, a teljes SharePoint-tárat visszaállíthatja egy korábbi időpontra.</span><span class="sxs-lookup"><span data-stu-id="4e0aa-105">If lots of your SharePoint files get deleted, overwritten, corrupted, or infected by malware, you can restore your entire SharePoint library to a previous time.</span></span>
 
-* [<span data-ttu-id="a2e8f-106">Dokumentumtár visszaállítása</span><span class="sxs-lookup"><span data-stu-id="a2e8f-106">Restore a document library</span></span>](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+* [<span data-ttu-id="4e0aa-106">Dokumentumtár visszaállítása</span><span class="sxs-lookup"><span data-stu-id="4e0aa-106">Restore a document library</span></span>](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
