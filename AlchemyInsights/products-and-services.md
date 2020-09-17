@@ -1,37 +1,38 @@
 ---
-title: Az Ön termékei
+title: Termékei
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062863"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799242"
 ---
-# <a name="your-products"></a>Az Ön termékei
+# <a name="your-products"></a>Termékei
 
-A szervezet tulajdonában lévő előfizetéseket a **Termékek számlázása**lapon találhatja  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** meg. Íme néhány kiemeli ezt az oldalt, valamint a linkeket további információ az egyes funkciók:
+A szervezete által birtokolt előfizetéseket a termékek **számlázása**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapon találja. Az alábbiakban felsoroljuk a lap néhány Kiemelt elemét, valamint az egyes funkciókkal kapcsolatos további információk hivatkozásait:
 
-1. Az egyes előfizetésekhez vásárolt licencek számának, valamint a használatban lévő licencek számának kezelése.  **Megjegyzés:** A használaton át nem használt (felhasználóhoz nem rendelt) licencek továbbra is felszámolásra kerülnek.  Ha nem kell fizetni a nem használt licencekért, csökkentse a megvásárolt licencek számát. A licencek előfizetések hozzáadásáról és eltávolításáról a [Licencek hozzáadása vagy csökkentése](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)című témakörben talál további információt.
+1. Az egyes előfizetésekhez vásárolt licencek számának kezelése a használatuk módjával együtt.  **Megjegyzés**: a jelenleg használatban lévő (nincs felhasználóhoz rendelt) licencek továbbra is felszámolásra kerülnek.  Ha nem szeretné kifizetni a használaton kívüli licenceket, csökkentse a megvásárolt licencek számát. Ha többet szeretne tudni arról, hogy miként vehet fel vagy távolíthat el licenceket az előfizetésből, tanulmányozza a [licencek hozzáadása vagy csökkentése](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)című témakört.
 
-2. Az előfizetés megújításának vagy lejárati dátumának megtekintése.  A megújítást úgy kezelheti, hogy az **Újramegújítások/a** dátum dátuma melletti **szerkesztési** hivatkozásra kattint.  Az ismétlődő számlázás kezeléséről a [Microsoft 365 vállalati verzió megújítása](https://go.microsoft.com/fwlink/?linkid=2119216) című témakörben talál további információt.
+2. Az előfizetés megújításának vagy lejárati dátumának megtekintése.  A megújítás kezeléséhez kattintson az **újrahírek/lejárat** dátuma melletti **Szerkesztés** hivatkozásra.  Az ismétlődő számlázás kezeléséről további információt a [Microsoft 365 vállalati verzió megújítása](https://go.microsoft.com/fwlink/?linkid=2119216) című témakörben talál.
 
-3. [Lejárt vagy letiltott előfizetés újraaktiválása.](https://go.microsoft.com/fwlink/?linkid=2117519)
+3. [Lejárt vagy letiltott előfizetés újraaktiválása](https://go.microsoft.com/fwlink/?linkid=2117519)
 
-4. [Az előfizetés kifizetéséhez használt fizetési mód szerkesztése.](https://go.microsoft.com/fwlink/?linkid=2117167)
+4. Az előfizetés kifizetéséhez [használt fizetési mód szerkesztése](https://go.microsoft.com/fwlink/?linkid=2117167)
 
-5. [A számlázás idorának módosítása.](https://go.microsoft.com/fwlink/?linkid=2119112)
+5. [A számlázott gyakoriság módosítása](https://go.microsoft.com/fwlink/?linkid=2119112)
 
 6. [Az előfizetés lemondása](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-További előfizetéseket a **Számlázási**  >  [**vásárlási szolgáltatások**](https://go.microsoft.com/fwlink/p/?linkid=868433) oldalon vásárolhat.
+További előfizetéseket is vásárolhat a **Számlázási**  >  [**szolgáltatások vásárlása**](https://go.microsoft.com/fwlink/p/?linkid=868433) lapon.

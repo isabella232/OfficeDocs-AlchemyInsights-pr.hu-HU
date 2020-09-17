@@ -1,29 +1,30 @@
 ---
-title: Megoldásokat ajánl a Dynamics 365 tárolási problémákra
+title: A Dynamics 365 tárolási problémáinak megoldása
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: c3d1ce1f0da0710772456baeb63ba2cf1b834fcc
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36509868"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799170"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>Megoldásokat ajánl a Dynamics 365 tárolási problémáinak megoldására
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>A Dynamics 365 tárolási problémáinak megoldása
 
-* Globális rendszergazdaként a tárolásnak a környezet, az első 10 tábla és több terület szerinti bontása
+* Globális rendszergazdaként tekintse meg a tárterületet a környezet, a tíz legfontosabb táblázat és az egyéb lehetőségek között.
 
 * [Tárolási számlázási és előfizetési kérdések](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [Dynamics 365 árképzés és licencelési útmutató](https://dynamics.microsoft.com/pricing/)
+* [A Dynamics 365 árazási és licencelési útmutatója](https://dynamics.microsoft.com/pricing/)
 
-* [Hogyan vásárolhatja meg több tároló](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [További tárterület vásárlása](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [Hogyan szabadítson fel tárolót](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [Tárterület felszabadítása](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

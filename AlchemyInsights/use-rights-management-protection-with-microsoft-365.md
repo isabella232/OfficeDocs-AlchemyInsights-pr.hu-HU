@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,18 +13,18 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: 149d349deed9dd698f94adb64fcc429f8e8d2afc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: ebaff37a0f56cc6fb997c9a22df905bd9c8d00f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710697"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799890"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>A tartalomvédelmi szolgáltatás használata a Microsoft 365-tel
 
 A Microsoft-alkalmazások és -szolgáltatások Tartalomvédelmi szolgáltatása (IRM) funkcióinak használata előtt aktiválnia kell a [tartalomvédelmi szolgáltatást (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms).
 
-1. Ha a licenc követelményeiről és a **Microsoft 365 Felügyeleti központban** való aktiválásáról szeretne tájékozódni, olvassa el [A tartalomvédelmi szolgáltatás aktiválása a Microsoft 365 Felügyeleti központban](https://docs.microsoft.com/azure/information-protection/activate-office365) című cikket. **Megjegyzés**: Globális rendszergazdai fiókot igényel.
+1. A **microsoft 365 felügyeleti központjának**licencelési követelményeiről és aktiválásáról a [Rights Management Protection aktiválása a Microsoft 365 felügyeleti központból](https://docs.microsoft.com/azure/information-protection/activate-office365)című témakörben tájékozódhat. **Megjegyzés**: Globális rendszergazdai fiókot igényel.
 
 2. Ha a licenc követelményeiről és az **Azure Portalon** való aktiválásáról szeretne tájékozódni, olvassa el [A tartalomvédelmi szolgáltatás aktiválása az Azure Portalon](https://docs.microsoft.com/azure/information-protection/activate-azure) című cikket. **Megjegyzés**: Nem igényel globális rendszergazdai fiókot.
 
