@@ -1,9 +1,10 @@
 ---
-title: Feladat- és naptáreseménylista a modern felhasználói felületen
+title: A feladatok és a naptár esemény listája a modern KEZELŐFELÜLETen
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6137138a-9570-4ac9-892b-143c25ad6f64
@@ -11,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: c92510a6a4f23e9c4524d08a3f567d0b6ba5d61a
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573193"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795462"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>Feladat- és naptáreseménylista a modern felhasználói felületen
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>A feladatok és a naptár esemény listája a modern KEZELŐFELÜLETen
 
-Előfordulhat, hogy a "Cím" kijelzőn `< ID >_.000` hiba jelenik meg, mint a FELADAT- és ESEMÉNYlistákon, amikor modern nézetben próbálja megjeleníteni őket.
+A "cím" megjelenítésekor a "cím" hibaüzenet jelenhet `< ID >_.000` meg a feladatok és az események listájában, amikor modern nézetben próbálják megjeleníteni őket.
 
-Bizonyos típusú listák és tárak még nem úgy vannak kialakítva, hogy megjelenjenek egy modern felhasználói felületen, például egy feladatlistában vagy eseménylistában.
+A listák és a tárak bizonyos típusait még nem építették meg, hogy egy modern felhasználói felületen (például Feladatlista vagy események listája) megjelenjenek.
 
-Számunkra az egyik legfontosabb elem a feladat- és eseménylisták támogatása a modern ux részeként. Azonban nem rendelkezünk e támogatással, ezért kérjük, továbbra is használja a klasszikus élményt ezekhez a listákhoz.
+Számunkra a legfontosabb elem, ha a modern UX részeként támogatja a feladatok és események listáját. Ennek a támogatásnak azonban nincs ETA-je, ezért kérjük, továbbra is használja az alábbi listák klasszikus felületét.
 
-További információ: [A modern listák és tárak használatának maximalizálása](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)című részében talál.
+További információért tekintse meg a [modern listák és tárak teljes méretű használatát](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)ismertető témakört.

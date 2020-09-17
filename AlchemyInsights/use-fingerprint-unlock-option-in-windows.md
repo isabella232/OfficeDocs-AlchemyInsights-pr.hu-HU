@@ -1,55 +1,56 @@
 ---
-title: Ujjlenyomat-feloldási lehetőség használata a Windows 10-ben
+title: Az ujjlenyomat feloldása funkció használata Windows 10 rendszerben
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 8a5059c722c306ad79811140062cec7f52f31766
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588318"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795246"
 ---
-# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Ujjlenyomat-feloldási lehetőség használata a Windows 10-ben
+# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Az ujjlenyomat feloldása funkció használata Windows 10 rendszerben
 
-**A Windows Hello ujjlenyomatának engedélyezése**
+**A Windows Hello ujjlenyomat engedélyezése**
 
-A Windows 10 ujjlenyomatával történő feloldásához legalább egy ujjhozzáadásával (a Windows megtanulásával) be kell állítania a Windows Hello Fingerprint alkalmazást. 
+Ha a Windows 10 rendszert az ujjlenyomatával szeretné feloldani, a Windows Hello ujjlenyomatot úgy kell beállítania, hogy hozzáadja a (Windows megismerése) gombot legalább egy ujjal. 
 
-1. Nyissa meg a **Beállítások > fiókok > bejelentkezési beállításokat** (vagy kattintson [ide](ms-settings:signinoptions?activationSource=GetHelp)). Az elérhető bejelentkezési lehetőségek megjelennek a listában. Például:
+1. Lépjen a **beállítások >-fiókok > bejelentkezési beállítások** elemre (vagy kattintson [ide](ms-settings:signinoptions?activationSource=GetHelp)). A rendelkezésre álló bejelentkezési beállítások megjelennek. Például:
 
-    ![Bejelentkezési beállítások.](media/sign-in-options.png)
+    ![Bejelentkezési lehetőségek](media/sign-in-options.png)
 
-2. Kattintson vagy koppintson a **Windows Hello Fingerprint**elemre, majd a **Beállítás**gombra. A Windows Hello beállítási ablakában kattintson az **Első lépések**gombra. Az ujjlenyomat-érzékelő aktiválódik, és meg kell kérnie, hogy helyezze az ujját az érzékelőre:
+2. Kattintson vagy koppintson a **Windows Hello ujjlenyomat**elemre, majd a **beállítás**gombra. A Windows Hello Setup ablakában kattintson az első **lépések**elemre. Az ujjlenyomat-érzékelő aktívvá válik, és a rendszer arra kéri, hogy helyezze az ujját az érzékelőre:
 
-   ![Ujjlenyomat-érzékelő.](media/fingerprint-sensor.png)
+   ![Ujjlenyomat-érzékelő](media/fingerprint-sensor.png)
 
-3. Kövesse az utasításokat, amelyek arra kérik, hogy többször is átkukkoljuk az ujját. Ha ennek vége, lehetősége van arra, hogy további ujjakat adjon hozzá, amelyeket érdemes lehet használni a bejelentkezéshez. Amikor legközelebb bejelentkezik a Windows 10-be, lehetősége van arra, hogy ujjlenyomatát használja ehhez.
+3. Kövesse az utasításokat, amelyek arra kérik, hogy rendszeresen ellenőrizze az ujját. Ha végzett, akkor lehetősége van a bejelentkezéshez használni kívánt egyéb ujjak hozzáadására. A következő alkalommal, amikor bejelentkezik a Windows 10-be, megadhatja, hogy hogyan használhatja az ujjlenyomatát.
 
-**A Windows Hello ujjlenyomat nem érhető el bejelentkezési lehetőségként**
+**A Windows Hello ujjlenyomata nem érhető el bejelentkezési beállításként**
 
-Ha a Windows Hello Ujjlenyomat nem jelenik meg lehetőségként a **Bejelentkezési beállításokban,** az azt jelenti, hogy a Windows nem tud a számítógéphez csatlakoztatott ujjlenyomat-olvasóról/lapolvasóról, vagy hogy a rendszerházirend megakadályozza annak használatát (ha például a számítógépet a munkahelye kezeli). Hibaelhárítás: 
+Ha a Windows Hello ujjlenyomat nem jelenik meg a **bejelentkezési beállítások**között, az azt jelenti, hogy a Windows nem ismeri a számítógéphez csatlakoztatott ujjlenyomat-olvasót/szkennert, vagy hogy a Rendszerházirend megakadályozza annak használatát (Ha például a számítógépe a munkahelye kezeli). Hibaelhárítás: 
 
-1. Kattintson a **Tálca Start** gombjára, és keressen az **Eszközkezelő**kifejezésre.
+1. Válassza a tálcán a **Start** gombot, és keresse meg az **Eszközkezelőt**.
 
 2. Kattintson vagy koppintson az **Eszközkezelő**megnyitásához.
 
-3. Az Eszközkezelőben bontsa ki a Biometriai eszközöket a sávnyílra kattintva.
+3. Az Eszközkezelőben a saját Chevron elemre kattintva bontsa ki a biometrikus eszközök elemet.
 
    ![Biometrikus eszközök.](media/biometric-devices.png)
 
-4. Az ujjlenyomat-szkennert biometrikus eszközként kell felsorolni, például a Synaptics WBDI szkennerként:
+4. Az ujjlenyomat-szkennert biometrikus eszközként (például a Synaptics WBDI scanner) kell felsorolni:
 
    ![Biometrikus eszközök.](media/biometric-devices-expanded.png)
 
-5. Ha az ujjlenyomat-olvasó nem jelenik meg, és a lapolvasó be van építve a számítógépbe, keresse fel a számítógép gyártójának webhelyét. A számítógép-modell technikai támogatási részében keressen egy Telepíthető képolvasó windows 10-illesztőprogramját.
+5. Ha az ujjlenyomat-szkennere nem látható, és a szkenner be van építve a SZÁMÍTÓGÉPére, lépjen a számítógép gyártójának webhelyére. A PC-modell Technical Support (terméktámogatás) szakaszában keressen egy Windows 10-es illesztőprogramot a telepítendő képolvasóhoz.
 
-6. Ha a lapolvasó elkülönül a számítógéptől (USB-n keresztül csatlakoztatva), keresse meg és telepítse a Windows 10 eszközillesztő szoftverét a képolvasó modellhez.
+6. Ha a szkenner el van választva a PC-ről (USB-n keresztül), nyissa meg a képolvasó gyártójának webhelyét, ahol megkeresheti és telepítheti a Windows 10-es eszközillesztő szoftvert a beolvasó modellhez.

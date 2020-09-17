@@ -1,29 +1,30 @@
 ---
-title: Másik fiók létrehozása rendszergazdaként
+title: Rendszergazda létrehozása másik fiókkal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 060492f0792caa34de872ccd97b27006ff172ba0
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738431"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794696"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Egy általános jogú felhasználói fiók módosítása rendszergazdává a Windows 10 rendszerben
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Általános felhasználói fiók módosítása egy rendszergazdára Windows 10 rendszerben
 
-A következőképpen módosíthatja az általános jogú felhasználói fiókot rendszergazdaként a Windows 10 rendszerben:
+A következő lépésekkel módosíthatja egy általános felhasználói fiókot egy rendszergazdának a Windows 10 rendszerben:
 
-1. Megy **elkezd** > **elintézés** > **** számla > **család & más emberek** (vagy **más emberek**, ha-a ' használ Windows 10 vállalat).
-2. Jelölje ki azt a fiókot, amelyet rendszergazdává szeretne tenni, majd válassza a **fiók módosítása**lehetőséget.
-3. A **fióktípus**területen jelölje ki a **rendszergazda**választógombot, majd kattintson **az OK gombra**.
+1. Nyissa meg az **indítási**  >  **Beállítások**  >  **fiók**  >  **családját & másokat** (vagy **más személyeket**, ha Windows 10 nagyvállalati verziót használ).
+2. Jelölje ki azt a fiókot, amelyet rendszergazdaként szeretne használni, és válassza a **fiók váltása**lehetőséget.
+3. A **fióktípus**csoportban válassza a **rendszergazda**lehetőséget, majd kattintson **az OK gombra**.
 
-**Megjegyzés:** A fiókokat csak meglévő rendszergazdai fiókból lehet rendszergazdává változtatni.
+**Megjegyzés:** Egy meglévő rendszergazdai fiókból csak a rendszergazda módosíthatja a fiókokat.
