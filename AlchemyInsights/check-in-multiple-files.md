@@ -1,10 +1,11 @@
 ---
-title: Több fájl egyidejű ellenőrzése
+title: Egyszerre több fájl beadása
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
@@ -12,25 +13,25 @@ ms.custom:
 - "5300029"
 - "1688"
 - "986"
-ms.openlocfilehash: 8aad3695d59e9a548817528a68143433be6193ce
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 6172168af77a72a362318bb9d411646a718f2477
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050131"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812369"
 ---
-# <a name="check-in-several-files-at-once"></a>Több fájl egyidejű ellenőrzése
+# <a name="check-in-several-files-at-once"></a>Egyszerre több fájl beadása
 
-A SharePoint-tárban található és onnan kifelé történő fájlok ellenőrzése nagyszerű módszer a tartalom frissítésének követésére és ellenőrzésére. Ha a webhelyen módosítani szeretne egy fájlt, és biztos szeretne lenni abban, hogy senki más nem tudja szerkeszteni, akkor nézze meg a fájlt. Ha kivette a fájlt, szerkesztheti online vagy offline állapotban, és szükség esetén többször is mentheti.
+A SharePoint-tárakban lévő fájlok ellenőrzése nagyszerűen alkalmas a tartalom frissítésének nyomon követésére és beállítására. Ha egy webhelyen szeretné módosítani a fájlt, és biztosan senkit sem szerkeszthet, nézze meg a fájlt. Miután kivette a fájlt, szerkesztheti azt online vagy offline módban, és szükség esetén mentheti többször is.
 
-Az alábbiakban felsorolunk néhány hasznos linket ezzel a funkcióval kapcsolatban.
+Az alábbiakban segítséget találhat a funkcióról.
 
-- [A fájlmódosítások ellenőrzése, a fájlok be-és elvetése](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [A fájlok kivétele, beadása vagy a módosítások elvetése](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [A kikijelentkezés, a bejelentkezés és a verziók Kiemelt kérdései](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
+- [A beadással, a beadással és a verziókkal kapcsolatos leggyakoribb kérdések](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 
-- [Több fájl egyidejű ellenőrzése](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Egyszerre több fájl beadása](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [A verziószámozás engedélyezése vagy tiltása a médiatárban](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
+- [Verziószámozás be-és kikapcsolása a tárakban](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
 
   

@@ -1,29 +1,30 @@
 ---
-title: Ha duplán kattint egy Office-fájlra, nem nyitja meg
+title: Az Office-fájlokra duplán kattintva nem nyílik meg a Megnyitás
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2200002"
 - "161"
-ms.openlocfilehash: cd45d64108bc3d7b8f35b51389294f5b8253ba9c
-ms.sourcegitcommit: 6df4460313ca033d18b59669506de1dbb7482ef9
+ms.openlocfilehash: 9dc4196cd36c8682e4d047e8abad493be97ced3f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573525"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812081"
 ---
-# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Ha duplán kattint egy Office-fájlra, nem nyitja meg
+# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Az Office-fájlokra duplán kattintva nem nyílik meg a Megnyitás
 
-Miután duplán kattintott egy Office-fájlra, előfordulhat, hogy a program megnyílik, de maga a fájl nem nyílik meg. Vagy lehet, hogy a hiba: "Volt egy probléma elküldi a parancsot a program." Ennek számos oka van, de a két leggyakoribb megoldás a következő:
+Miután duplán egy Office-fájlra kattintott, megnyithatja a programot, de a fájl nem nyílik meg. Vagy a következő hibaüzenet jelenhet meg: "hiba történt a parancs elküldésekor a programhoz." Ennek több oka is lehet, de a két leggyakoribb megoldás:
 
-- Az Excelből győződjön meg arról, hogy a DDE beállítás nincs bejelölve. A beállítás megtalálható egy új munkafüzet létrehozásával, majd a **Fájl > beállítások > Speciális**parancs kiválasztásával. Az **Általános** szakaszban törölje a jelet a **Dinamikus adatcserét (DDE) használó egyéb alkalmazások figyelmen kívül hagyása jelölőnégyzetből.**
+- Az Excelben győződjön meg arról, hogy a DDE beállítás nincs bejelölve. A beállítás új munkafüzet létrehozásával, majd a **fájl > beállítások > speciális**beállítással használható. Az **általános** szakaszban törölje a jelet a **Dynamic Data Exchange (DDE) alkalmazásokat használó egyéb alkalmazások mellőzése jelölőnégyzetből**.
 
-- Az alapértelmezett beállítások visszaállításához futtasson online javítást. Kattintson a Windows Start gombjára, és keressen a "Vezérlőpult" kifejezésre. Nyissa meg a **Vezérlőpultot,** és nyissa meg a Programok > Programok és szolgáltatások című **lapot.** Ezután kattintson a jobb gombbal a **Microsoft Office [Version]** elemre, és válassza **> Online javítás módosítása parancsot.**
+- Online javítás futtatásával visszaállíthatja az alapértelmezett beállításokat. Kattintson a Windows Start gombjára, és keresse meg a "Vezérlőpult" szót. Nyissa meg a **Vezérlőpultot**, és nyissa meg a **programok > programokat és funkciókat**. Ezután kattintson a jobb gombbal a **Microsoft Office [verzió]** elemre, és válassza a **> online javítás módosítása**parancsot.
 
-Ha egyik megoldás sem működik, a támogatási cikkben található a megoldások teljesebb listája, az [Office-fájlokra duplán kattintva nem nyithatja meg.](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6)
+Ha a fenti megoldások egyike sem működik, a támogatási cikkben szereplő megoldások teljesebb listáját találhatja meg, az [Office-fájlokra duplán kattintva nem nyílik meg](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6).
