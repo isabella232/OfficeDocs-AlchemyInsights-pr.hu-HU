@@ -1,29 +1,30 @@
 ---
-title: 'A Windows 10 billentyűzetbeállításai '
+title: 'A Windows 10 billentyűzet beállításai '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 0359163206ef9ddf0bac7b0ee4b44ed3a016f918
-ms.sourcegitcommit: 4c64a8974c87fa69babaf920b0895f0c17c2d346
+ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42415366"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772805"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>A Windows 10 billentyűzetbeállításai
+# <a name="keyboard-settings-in-windows-10"></a>A Windows 10 billentyűzet beállításai
 
-**Típusbeállítások**
+**Típus beállításai**
 
-A helyesírás-ellenőrzéssel, az automatikus javítással, a javaslatokkal és a hardver és az érintőbillentyűzet egyéb szempontjaival kapcsolatos Windows-beállítások módosításához nyissa meg a **Beállítások > Eszközök > Gépelés**lehetőséget. 
+Ha módosítani szeretné a helyesírás-ellenőrzéssel, az automatikus javítással és a hardverrel és érintéses billentyűzettel kapcsolatos Windows-beállításokat, válassza a **beállítások > eszközök > a gépelés lehetőséget**. 
 
-**Nyelvi és billentyűzetbeállítások**
+**A nyelv és a billentyűzet beállításai**
 
-Ha módosítani szeretné a Windows-nyelvhez használandó billentyűzethez vagy beviteli módhoz kapcsolódó beállításokat, nyissa meg a **Beállítások > Idő & Nyelv > Nyelv**lehetőséget. Válassza ki a nyelveket az **Előnyben részesített nyelvek** listában, és a **Beállítások** gombra kattintva adja hozzá/távolítsa el a billentyűzeteket vagy a beviteli módszereket (IMEs).
+Ha módosítani szeretné a Windows-nyelvhez használni kívánt billentyűzettel vagy beviteli módszerrel kapcsolatos beállításokat, válassza a **beállítások > idő & nyelv > nyelv lehetőséget**. Az **előnyben részesített nyelvek** listában válassza a nyelvek **lehetőséget** , majd kattintson a beállítások gombra, ha billentyűzetet vagy írásjegybevivőt szeretne hozzáadni vagy eltávolítani.

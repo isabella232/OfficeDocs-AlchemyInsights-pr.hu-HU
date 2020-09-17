@@ -1,29 +1,30 @@
 ---
-title: Csatlakozz csapatok találkozókhoz
+title: Csatlakozás Teams-értekezletekhez
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: 005e2ce7b0aa8711b6d8073e2a771ca415918715
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627612"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772913"
 ---
-# <a name="join-a-meeting-in-teams"></a>Csatlakozz a csapatoknak
+# <a name="join-a-meeting-in-teams"></a>Bekapcsolódás értekezletbe a Teams-ban
 
-Ha csatlakozni szeretne a csapatok találkozója, először állítsa be az értekezletre vonatkozó házirendeket, majd irányítsa a felhasználókat, hogy csatlakozzanak az előnyben részesített eszközeik közül:
+Ha be szeretne kapcsolódni egy Teams-értekezletbe, először állítsa be az értekezlet-házirendeket, majd a felhasználókat, hogy csatlakozzanak a kívánt eszközökhöz:
 
-- Azon értekezleti házirendek beállítása, amelyek azt vezérlik, hogy ki csatlakozhat az értekezlethez a [résztvevőknek vagy a vendégeknek](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Beállíthatja azokat az értekezlet-házirendeket, amelyek szabályozzák, hogy kik szeretnének csatlakozni az értekezlethez a [résztvevők vagy a vendégek](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests)számára. 
 
-- A Microsoft csapatok [PowerShell-parancsmagjaival](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) házirend-módosításokat lehet módosítani.    
+- A Microsoft Teams [PowerShell-parancsmagok](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) segítségével módosíthatja a házirend módosításait.    
 
-**Megjegyzés:** A házirend-módosítások életbe léptetéséhez akár 24 óráig is eltarthat.
+**Megjegyzés:** A házirend-módosítások életbe léptetése akár 24 óra is eltelhet.

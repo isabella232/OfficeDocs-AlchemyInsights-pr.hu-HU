@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: b9ec34f420092d5ca46137739a848cf413253a6b
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738396"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773912"
 ---
-# <a name="set-up-one-monitor"></a>Egy monitor beállítása
+# <a name="set-up-one-monitor"></a>Egyetlen monitor beállítása
 
-**A számítógép projektbeállításainak ellenőrzése**
+**A számítógép projekt-beállításainak ellenőrzése**
 
-1. Nyit-a tervez elintézés mellett szorongató a következő kulcsok ugyanakkor: Windows kulcs (Windows jel Elkezd gomb) + P.
-2. A beállításoktól függően válassza a **másolat**, **kibővíti**vagy **csak a második képernyőt**.
+1. Nyissa meg a projekt beállításait a következő billentyűk egyidejű lenyomásával: Windows billentyű (Windows-embléma Start gomb) + P.
+2. A beállításoktól függően válassza a **duplikálás**, a **kiterjesztés**vagy a **második képernyő**lehetőséget.
 
-**Megjegyzés:** Ha a számítógépben csak egy megjelenítési port található (például HDMI vagy VGA), akkor a több monitor beállításához egy dokkolóegységhez vagy egy USB-adapterhez kell csatlakoznunk.
+**Megjegyzés:** Ha a SZÁMÍTÓGÉPnek csak egy megjelenítési portja van (például HDMI vagy VGA), a dokkolóegységhez vagy USB-adapterhez több monitort kell beállítania.
 
-Ha egy monitort, de nem többet is beállíthat, előfordulhat, hogy a számítógép nem kompatibilis több monitorral. További információért tekintse meg a számítógép eredeti dokumentumait.
+Ha azonban egyetlen monitort is beállíthat, de nem többet, előfordulhat, hogy a SZÁMÍTÓGÉPe nem kompatibilis több monitorral. További információért tekintse meg a számítógép eredeti dokumentumait.
