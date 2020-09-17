@@ -1,10 +1,11 @@
 ---
-title: Hogyan állítható be a Skype Meeting-közvetítés
+title: Hogyan állítható be a Skype-értekezlet közvetítése?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 94ef1f8479b0056347e632c8993ad2c6c612602d
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305229"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781465"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Nem lehet elindítani vagy csatlakozni a Skype Meeting közvetítésre?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Nem tud elindítani vagy bekapcsolódni egy Skype-értekezlet közvetítéséhez?
 
-Ha problémái vannak a Skype Meeting-értekezlet közvetítésével a Rendezvénycsapat tagjaként (találkozó producer), mindenképpen ellenőrizze a konfigurációt. A Skype Meeting szolgáltatáshoz néhány kézi beállítási lépés szükséges. Kövesse a cikkben leírt lépéseket annak érdekében, hogy a hálózat és a Skype for Business Online portál megfelelően legyen konfigurálva, és hogy az érintett felhasználót ne akadályozza az ütköző licenc:
+Ha problémákat tapasztal a Skype-értekezletek esemény csapattagként való indítása vagy csatlakozásakor, feltétlenül ellenőrizze a konfigurációt. A Skype-értekezlet közvetítéséhez kézi beállítási lépésekre van szükség. A jelen cikkben található lépéseket követve győződjön meg arról, hogy a hálózat és a Skype vállalati online portál megfelelően van konfigurálva, és hogy az érintett felhasználót nem blokkolja egy ütköző licenc:
 
-[A hálózat beállítása a Skype Meeting-közvetítés számára](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[A hálózat beállítása a Skype-értekezletek közvetítéséhez](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

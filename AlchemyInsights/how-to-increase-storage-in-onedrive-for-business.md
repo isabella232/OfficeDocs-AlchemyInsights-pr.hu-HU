@@ -1,32 +1,33 @@
 ---
-title: A tárhely növelése a OneDrive Vállalati verzióban
+title: A tárterület növelése a OneDrive vállalati verzióban
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: adee1c5d1ffc23f54580549ab666ee8fac579263
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 53eabf6c87dead3b7309c7da1f8a590940127169
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063043"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780097"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>A tárhely növelése a OneDrive Vállalati verzióban
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>A tárterület növelése a OneDrive vállalati verzióban
 
-Az új és meglévő OneDrive-felhasználók alapértelmezett tárhelyének módosítása:
+Az új és meglévő OneDrive-felhasználók alapértelmezett tárterületének módosítása:
   
-- Nyissa meg [a OneDrive Felügyeleti központ Tárolás lapját,](https://admin.onedrive.com/?v=StorageSettings)és adjon meg egy új összeget GB-ban.
+- Nyissa meg a [OneDrive felügyeleti központ tárterület lapját](https://admin.onedrive.com/?v=StorageSettings), és írjon be egy új összeget GB-ban.
 
-Ez a tárhelybeállítás minden olyan felhasználóra vonatkozik, akiknek nem adott tárhelykorlátokat állított be. Az adott felhasználók tárhelyének módosításához a Microsoft PowerShell t kell használnia. Ennek módjáról a Felhasználók [OneDrive-tárhelyének módosítása a PowerShell használatával (A felhasználók OneDrive-tárhelyének módosítása) témakörben talál.](https://go.microsoft.com/fwlink/?linkid=866402)
+Ez a tárterület-beállítás minden olyan felhasználó esetében érvényes, akinek nincsenek meghatározott tárterület-korlátozásai. Ha módosítani szeretné bizonyos felhasználók tárterületét, a Microsoft PowerShellt kell használnia. Ebből a témakörből megtudhatja, hogy miként teheti ezt meg: a [felhasználók OneDrive-tárterületének módosítása a PowerShell használatával](https://go.microsoft.com/fwlink/?linkid=866402).
 
-**Megjegyzés:** Úgy néz ki, hogy nincs olyan csomagja, amely korlátlan tárhelyet tartalmaz. Az egyes sémákhoz kapcsolódó tárhelyről a [OneDrive Vállalati verzió szolgáltatás leírásában](https://go.microsoft.com/fwlink/p/?LinkID=826071)talál további információt.
+**Megjegyzés**: úgy tűnik, nincs olyan csomag, amely korlátlan tárterületet tartalmaz. Az egyes csomagokhoz tartozó tárterületekről a [OneDrive vállalati verzió szolgáltatás leírása](https://go.microsoft.com/fwlink/p/?LinkID=826071)című témakörben olvashat bővebben.
   
-A OneDrive Vállalati verzióban tárolt tárhely növeléséhez válasszon olyan előfizetést, amely tartalmazza a **OneDrive Vállalati csomag 2-t** vagy az **Office 365 Nagyvállalati E3 csomagot.** 
+Ha növelni szeretné tárterületét a OneDrive vállalati verzióban, válassza ki azt az előfizetést, amely a OneDrive vállalati verzió vagy **az** **Office 365 Enterprise E3**csomagját tartalmazza. 
   
-A csomagok módosításához a Microsoft 365 Felügyeleti központban nyissa meg a **Termékek számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapot, válassza a módosítani kívánt előfizetést, majd válassza a **Frissítés** lapot.
+A csomagok módosításához a Microsoft 365 felügyeleti központban lépjen a termékek **számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, jelölje ki a módosítani kívánt előfizetést, és válassza a **frissítés** fület.
   
-A csomagok és a OneDrive Vállalati verzió tárhelyének váltásáról a [Váltás egy másik Microsoft 365 vállalati verziós csomagra](https://go.microsoft.com/fwlink/?LinkId=2031117) című témakörben és a [OneDrive Vállalati verzió szolgáltatás leírása című témakörben](https://go.microsoft.com/fwlink/p/?LinkId-2031122)talál.
+A csomagok és a OneDrive vállalati verzió tárterületének váltásáról további információt a [Váltás másik Microsoft 365 vállalati verziós csomagra](https://go.microsoft.com/fwlink/?LinkId=2031117) és a [OneDrive vállalati verzió szolgáltatás leírása](https://go.microsoft.com/fwlink/p/?LinkId-2031122)című témakörben találhat.

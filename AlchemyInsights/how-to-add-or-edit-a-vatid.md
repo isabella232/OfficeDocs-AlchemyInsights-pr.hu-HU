@@ -6,37 +6,38 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 814420999d926e79bef7cfd956b0d949e6a82da0
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: b17b6f8bb75ac77ae012db70d16b4cc55b553ae5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46505151"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781179"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>VatID hozzáadása és szerkesztése
 
-**Megjegyzés:** Ha olyan országban van, amely alkalmazott hozzáadottérték-adót (áfát) használ, például az Egyesült Királyságban, a Microsoft Számlázás kiszámítja az áfát, és az összeget a számlákra alkalmazza. További információ: [VIES disclaimer](https://go.microsoft.com/fwlink/p/?LinkID=841741) published by the European Commission.
+**Megjegyzés**: Ha olyan országban van, amely hozzáadottérték-adóval (HÉA) (például az Egyesült Királyságot) használ, a Microsoft számlázás kiszámítja az ÁFÁ-t, és az összeget alkalmazza a számlára. További információt az Európai Bizottság által közzétett [VIES-nyilatkozat](https://go.microsoft.com/fwlink/p/?LinkID=841741) című témakörben találhat.
 
-**VatID hozzáadása vagy szerkesztése**
+**VatID hozzáadása és szerkesztése**
 
-1. A Microsoft 365 Felügyeleti központban nyissa meg a **Termékek számlázása** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapot.
+1. A Microsoft 365 felügyeleti központban lépjen a termékek **számlázása** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
 
-2. Keresse meg a frissíteni kívánt előfizetési kártyát.
+2. Keresse meg a frissíteni kívánt előfizetés előfizetési kártyáját.
 
-3. A **Beállítások & műveletek csoportban** válassza **a Szolgáltatás használati címének szerkesztése lehetőséget.**
+3. A **beállítások & műveletek** csoportban válassza a **szolgáltatás felhasználási címének szerkesztése**lehetőséget.
 
-4. A **Szolgáltatáshasználati cím szerkesztése** lapon adja meg az áfaazonosítót az **áfaszám** mezőbe, majd kattintson a **Mentés gombra.**
+4. A **szolgáltatás felhasználási címének szerkesztése** lapon írja be az ÁFA-azonosítót az **ÁFA száma** mezőbe, majd válassza a **Mentés**gombot.
 
-    Ha elkészült, az áfát nem terhelik meg a következő számlán.
+    Ha elkészült, az ÁFA nem töltődik fel a következő számlára.
 
-További információ: [Milyen adót kell fizetnem a Microsoft 365-ért?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).
+További információ: [milyen adó terheli a Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)című témakört.
 
 **További források**
 
-[Adja hozzá az áfaazonosítóját.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only)
+[Adja hozzá az ÁFA-azonosítót](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide#add-your-vat-id-eu-countries-only).

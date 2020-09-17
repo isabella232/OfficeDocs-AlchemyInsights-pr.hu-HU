@@ -1,11 +1,12 @@
 ---
-title: Microsoft 365 nonprofit szervezeteknek – felülvizsgálat alatt
+title: Microsoft 365 nonprofit szervezeteknek – a véleményezés csoportban
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: e101cc34f28eee2abeae55e0cb5abc078f78bf41
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005224"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779737"
 ---
-# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 nonprofit szervezeteknek – felülvizsgálat alatt
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 nonprofit szervezeteknek – a véleményezés csoportban
 
-A Microsoft Minősített Nonprofit Szervezetként való jogosultságát **áttekintve vizsgálják.** A beküldés időpontjától **számított 48 órán belül** értesítést kaphat a jogosultság meghatározásáról. Kérjük, hogy a szolgáltatási kérelem megnyitása előtt legalább **48 órát** hagyjon az értesítés fogadására. 
+A Microsoft minősített nonprofit szervezetének jogosultsága az **Áttekintés csoportban**található. A jogosultsága elbírálásának eredményéről várhatóan a beadványa beküldési időpontjától számított **48 óra** elteltével értesítjük. Kérjük, szolgáltatáskérés küldése előtt várjon legalább **48 órát** az értesítés megérkezésére. 
 
-További információt a [Microsoft 365 Nonprofit Szervezeteknek szolgáltatásban](https://www.microsoft.com/nonprofits/microsoft-365)talál. 
+További információ: [Microsoft 365 nonprofit szervezetek](https://www.microsoft.com/nonprofits/microsoft-365)számára. 
