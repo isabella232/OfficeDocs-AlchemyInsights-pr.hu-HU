@@ -1,11 +1,12 @@
 ---
-title: Outlook.com állapota mindig elérhetőként jelenik meg
+title: A Outlook.com állapota mindig elérhetőként jelenik meg
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: da4b014f39c03439e204cbc9eaab2764d663ae7f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743455"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777007"
 ---
 # <a name="my-status-always-shows-as-available"></a>Az állapotom mindig elérhetőként jelenik meg
 
-Minden alkalommal, amikor bejelentkezik Outlook.com, a fiók állapota visszaáll Elérhető állapotra. Megakadályozhatja az állapot változását, ha nem jelentkezik ki a Outlook.com. Ha be szeretne jelentkezni a böngésző bezárásakor, válassza a **Bejelentkezve maradok** jelölőnégyzetet a Outlook.com bejelentkezési lapon.
+Minden alkalommal, amikor bejelentkezik az Outlook.com-ba, a rendszer visszaállítja a fiók állapotát. Ha meg szeretné akadályozni, hogy ne jelentkezzen ki a Outlook.com-ból, módosítsa az állapotát. Ha a böngésző bezárásakor szeretne bejelentkezni, jelölje be a Outlook.com bejelentkezési lapján jelölje be a **bejelentkezve** szeretnék maradni jelölőnégyzetet.

@@ -1,34 +1,35 @@
 ---
-title: 305 Az archív postaláda méretének növelése
+title: a 305 az archív postaláda méretének növelése
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 6bebc17eafd8615a6ffa95dbdf16f60768204aa7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522845"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778585"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Az archív postaláda méretének növelése
+# <a name="increase-the-archive-mailbox-size"></a>Az archiválási postaláda méretének növelése
 
 
-Ha azt szeretné, hogy automatikusan ellenőrizze az alább említett beállításokat, válassza a vissza gombot < - az oldal tetején, majd adja meg annak a felhasználónak az e-mail címét, akinek növelni szeretné az archív postaláda méretét.
+Ha azt szeretné, hogy az alábbi beállítások automatikus ellenőrzését végezze el, válassza a vissza gombot <--a lap tetején, majd adja meg annak a felhasználónak az e-mail-címét, akinek az archiválási postaláda méretére van szüksége.
 
-A Microsoft [365](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) korlátozza az archív postaládák méretét a felhasználói fiókhoz rendelt licenc alapján. Amikor az archív postaláda eléri az engedélyezett méret 90%-át, a felhasználó e-mailértesítést kap. Amikor egy archív postaláda eléri a méretkorlátot, a felhasználó nem tud több elemet áthelyezni az archív postaládába. A Microsoft 365 nem növeli az archív postaláda méretét a méretkorlát elérése után. Ehelyett a felhasználók a következő műveletekkel szabadíthatnak fel helyet az archív postaládában:
+A Microsoft 365 a felhasználói fiókhoz rendelt licenc alapján [korlátozza](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) az archív postaládák méretét. Amikor az archív postaláda elérte a 90%-ot, a felhasználó e-mailben értesítést kap. Ha egy archív postaláda elérte a mérethatárt, a felhasználó nem tud további elemeket áthelyezni az archív postaládába. A Microsoft 365 nem növeli meg az archív postaládák méretét, ha a mérethatárt elérte a méretet. A felhasználók az archív postaládában helyet szabadíthat fel az alábbi műveletek elvégzésével:
 
-- Exportálja az elemeket .pst fájlba az Outlook programmal.
+- Exportálja az elemeket egy. pst fájlba az Outlook használatával.
 
 - Elemek törlése az archív postaládából.
 
-A Microsoft 365 **korlátlan archiválást** biztosít az Office 365 Nagyvállalati E3 és E5 licenceihez. A rendszergazdának engedélyeznie kell ezt a funkciót, mielőtt az archív postaláda eléri a maximális méretét. Ha a korlátlan archiválás engedélyezve van, akár 30 napig is eltarthat, amíg a szabad terület hozzáadódik az archív postaládához. Ezért azt javasoljuk, hogy a rendszergazdák ellenőrizzék a szabad helyet az archív postafiókban, amely lehetővé teszi a felhasználó számára, hogy továbbra is használja az archív postaládát, miközben kibontja. További információt a [Korlátlan archiválás áttekintése a Microsoft 365-ben](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) és [a Korlátlan archiválás engedélyezése a Microsoft 365-ben](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)című témakörben talál.
+A Microsoft 365 **korlátlan archiválási** lehetőséget biztosít az Office 365 Enterprise E3 és az E5 csomag licencekhez. A rendszergazdának engedélyeznie kell ezt a szolgáltatást, mielőtt az archív postaláda elérte a maximális méretet. Ha a korlátlan archiválás engedélyezve van, akkor akár 30 napig is eltarthat, mire a szabad terület bekerül az archív postaládába. Ezért azt javasoljuk, hogy a rendszergazdák ellenőrizzenek az archív postaláda szabad területéről, amely lehetővé teszi, hogy a felhasználó továbbra is használja az archív postaládát a kibontásban. További információt [a korlátlan archiválás áttekintése a microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) és a [korlátlan archiválás engedélyezése a Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)-on című témakörben talál.
 
-Az archív postaláda Outlookból való eléréséről az [Outlook automatikusan kibővített archívumában lévő elemek elérésére vonatkozó követelményei](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive)című témakörben talál további információt. Ha olyan adatmegőrzési szabályt szeretne beállítani, amely automatikusan áthelyezi az elemeket az archív postaládába, olvassa el Az [archiválási és törlési házirend beállítása a Microsoft 365-szervezet postaládáihoz című témakört.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+Ha többet szeretne tudni az archív postaláda Outlookból való eléréséről, olvassa el az [Outlook követelményei az elemek automatikus kibontott archívumban való eléréséhez](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive)című témakört. Ha olyan adatmegőrzési házirendet szeretne beállítani, amely automatikusan áthelyezi az elemeket az archív postaládába, olvassa el az [archiválási és törlési házirend beállítása a postaládákhoz a Microsoft 365-szervezetben](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)című cikket.
 
-**Megjegyzés:** Az Exchange 2010-en az elsődleges postaládák nem támogatják az automatikusan bővített archívumokat.
+**Megjegyzés**: az automatikus bővülő archívumokat nem támogatja az elsődleges postaládák az Exchange 2010-ben.
