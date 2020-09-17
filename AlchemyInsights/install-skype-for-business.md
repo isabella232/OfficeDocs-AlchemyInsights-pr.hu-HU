@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,15 +15,15 @@ ms.custom:
 - "9000741"
 - "2669"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: 07aef10b2b3c43c3a45e21972bb47b05b975f50b
-ms.sourcegitcommit: 5dcd373dfc4e7e373d7d9ec2321146995e353018
+ms.openlocfilehash: fb58fd3f4250835e1710f07a12cbdc907e9baafa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/22/2020
-ms.locfileid: "41264573"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778261"
 ---
-# <a name="install-skype-for-business"></a><span data-ttu-id="43bce-102">A Skype Vállalati verzió telepítése</span><span class="sxs-lookup"><span data-stu-id="43bce-102">Install Skype for Business</span></span>
+# <a name="install-skype-for-business"></a><span data-ttu-id="80173-102">A Skype Vállalati verzió telepítése</span><span class="sxs-lookup"><span data-stu-id="80173-102">Install Skype for Business</span></span>
 
-<span data-ttu-id="43bce-103">Az [itt](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)leírt lépéseket követve telepítheti a Skype for Business alkalmazást is.</span><span class="sxs-lookup"><span data-stu-id="43bce-103">You can install Skype for Business by following the steps  [here](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).</span></span>
+<span data-ttu-id="80173-103">A Skype vállalati verzió telepítése az  [alábbi lépésekkel](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)végezhető el.</span><span class="sxs-lookup"><span data-stu-id="80173-103">You can install Skype for Business by following the steps  [here](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).</span></span>
 
-<span data-ttu-id="43bce-104">További információt az eltávolítással kapcsolatban a [Skype for Business eltávolítása](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="43bce-104">For information about uninstalling, see [Uninstall Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).</span></span>
+<span data-ttu-id="80173-104">A eltávolításról a [Skype vállalati verzió eltávolítása](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)című témakörben olvashat bővebben.</span><span class="sxs-lookup"><span data-stu-id="80173-104">For information about uninstalling, see [Uninstall Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).</span></span>
