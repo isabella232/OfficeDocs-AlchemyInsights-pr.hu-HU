@@ -1,32 +1,33 @@
 ---
-title: 929 Beérkezett üzenetekre vonatkozó szabályok a szállítási szabályok eltérítésére
+title: a 929 levelezési szabályai a szabályok deflectTransport
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: abb729c40fb87bcca8cc03c95aa4677597d20c08
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724594"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778693"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Levélforgalom-szabályok (más néven szállítási szabályok)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>E-mail-forgalom szabályai (más néven átviteli szabályok)
 
-- A levelezési szabályok általános áttekintése: [Levélforgalom-szabályok (átviteli szabályok) az Exchange Online-ban](https://technet.microsoft.com/library/jj919238.aspx)
+- E-mail-flow szabályok általános áttekintése [az Exchange Online-ban](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Levelezési szabályok beállítása: [Levelezési szabályok eljárásai az Exchange Online-ban](https://technet.microsoft.com/library/dn600436.aspx)
+- E-mail-forgalom szabályainak beállítása: [az Exchange Online-ban elérhető levelezési](https://technet.microsoft.com/library/dn600436.aspx) szabályok
 
-- Levélforgalom-szabályok létrehozása, módosítása és törlése: [Levélforgalom-szabályok kezelése](https://technet.microsoft.com/library/jj657505.aspx)
+- E-mail-forgalom szabályainak létrehozása, módosítása és törlése: e-mail- [forgalom szabályainak kezelése](https://technet.microsoft.com/library/jj657505.aspx)
 
-Az Exchange Online PowerShellben is kezelheti a levélforgalom szabályait. További információ: [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (view), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (create), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (modify existing), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (disable existing) és [Enable-TransportRule (enable-TransportRule (enable-existing).](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule)
+Az Exchange Online PowerShellben is kezelheti az e-mail-flow-szabályokat. További információ: [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (nézet), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (create), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (meglévő módosítások), [disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (meglévő letiltása), valamint az [enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (meglévő engedélyezése).
 
-További levelezési szabályparancsai: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (elérhető műveletek listája), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (az elérhető feltételek és kivételek listája), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (exportszabályok) és [Import-TransportRuleCollection (import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (importszabályok).
+További e-mail-forgalom szabály-parancsmagok: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (lista elérhető műveletek), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (lista elérhető feltételek és kivételek), [Exportálás – TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (exportálási szabályok), valamint az [import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (behozatali szabályok).

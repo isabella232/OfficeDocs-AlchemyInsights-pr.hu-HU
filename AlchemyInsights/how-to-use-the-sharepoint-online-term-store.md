@@ -1,28 +1,29 @@
 ---
-title: A SharePoint Online-kifejezéstár használata
+title: A SharePoint Online-kifejezéskészlet használata
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: dda6d6f286b373177e36d7da4a46747f6b9b9f16
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2425611d18b9751fd68c5cabb7c1bfe5af709bca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717378"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779089"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>A SharePoint Online-kifejezéstár használata
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>A SharePoint Online-kifejezéskészlet használata
 
-A Kifejezéstár globális rendszergazda, SharePoint-rendszergazda és Kifejezéstár-rendszergazdák számára érhető el, és az új SharePoint Online Felügyeleti központban található.
+A kifejezéskészlet a globális rendszergazda, a SharePoint-rendszergazda és a term Store rendszergazdák számára érhető el, és megtalálható az új SharePoint Online felügyeleti központban.
   
-A SharePoint Online-kifejezéstároló és a SharePoint Online-rendszerbevaló konklúdi használatáról a [Felügyelt metaadatok – bevezetés](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)című témakörben olvashat bővebben.
+Ha többet szeretne tudni arról, hogy miként használhatja a SharePoint Online-beli kifejezéskészlet és a besorolást a SharePoint Online-ban, olvassa el a [Bevezetés a felügyelt metaadatokkal](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)című témakört
   
-Ha olyan probléma van, hogy a kifejezések nem jelennek meg, vagy időnként jelennek meg, javasoljuk, hogy várjon 24 órát, majd ha a probléma továbbra is fennáll, jelentkezzen be egy támogatási kérelmet. Annak ellenére, hogy a 24 óra hosszú idő lehet, lehet, hogy gyorsítótárazási probléma merül fel, vagy már dolgozunk a probléma megoldásán.
+Ha nem jelennek meg vagy nem jelennek meg időnként a hibák, akkor várjuk 24 órát, majd jelentkezzen be támogatási kérést, ha a probléma nem szűnik meg. Habár a 24 óra hosszú időt vehet igénybe, gyorsítótárazási probléma lehet, vagy már lehet, hogy már dolgozunk a probléma megoldásán.
   
