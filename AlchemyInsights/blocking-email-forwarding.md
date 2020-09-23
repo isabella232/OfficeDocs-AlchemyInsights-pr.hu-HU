@@ -14,15 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 71ac34539a2eac6b308aa5f42520e7c764524d5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
+ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685456"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48219857"
 ---
-# <a name="block-email-forwarding"></a>E-mailek továbbításának letiltása
+# <a name="blocking-or-unblocking-email-forwarding"></a>E-mailek továbbításának letiltása vagy letiltásának feloldása
 
-Az e-mailek továbbításának letiltásáról az [e-mail-továbbítás beállítása](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)című témakörben olvashat.
+Ha engedélyezni vagy tiltani szeretné az e-mailek továbbítását egy adott postaládában, olvassa el az [e-mail továbbítás beállítása](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)című témakört
 
-Ha szeretné letiltani az e-mailek továbbítását a teljes szervezet számára, [az automatikus e-mail-továbbítás letiltása az Exchange Online-ban számos módon](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+Bérlői szinten a külső továbbítás irányítását a kimenő levélszemét elleni házirend segítségével végezheti el. Ha be van kapcsolva vagy automatikus, az e-mailek továbbítását megakadályozhatja a "550 5.7.520 hozzáférés megtagadva, a szervezete nem engedélyezi a külső továbbítást" hibaüzenetet. Ezt követően, ha a továbbítást letiltották, a felhasználók által megjelenő hibaüzenet jelenik meg.
+
+Ha a továbbítás blokkolva van, ellenőrizze, hogy a házirend konfigurálva van-e a külső automatikus továbbítás engedélyezéséhez. Ellenőrizheti a kimenő levélszemét-szűrési házirendet a biztonsági és megfelelőségi központban, illetve a Get-HostedOutboundSpamFilterPolicy parancs futtatásával | FL-név, AutoForwardingMode. Ha be szeretné állítani az automatikusan továbbított blokkolást, akkor ugyanez a parancs mondja el most a házirend állapotát.
+
+Megjegyzés: javasoljuk, hogy a külső automatikus továbbítást tiltsa le az alapértelmezett kimenő levélszemét-szűrési házirendben, és engedélyezze azt csak azoknál a felhasználóknál, akiknek külső továbbításra van szükségük, ha létrehoz egy egyéni házirendet a felhasználóknak. További információt a [külső e-mail-továbbítás konfigurálása az Office 365-ben című](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)témakörben talál.
