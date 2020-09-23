@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676992"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236127"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>A Microsoft 365 alkalmazásba való bejelentkezéssel kapcsolatos problémák
 
@@ -25,6 +25,8 @@ A Microsoft 365-alkalmazások bejelentkezési problémáinak elhárításához p
 
 - Windows esetén lásd: [javaslatok a gyakori bejelentkezési problémák megoldására](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Mac rendszer esetén olvassa el a [Sikertelen bejelentkezés a Mac Office 2016 alkalmazásba](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail) című témakört.
+
+**Tipp** Windows rendszerű gépeken több általános Office-bejelentkezési problémát is diagnosztizálhat és automatikusan kijavíthat. Töltse le és futtassa a  **[Microsoft támogatási és helyreállítási Segédet](https://aka.ms/SaRA-OfficeSignInScenario)** az automatizált eszköz használatához.
 
 **Megjegyzés:** A modern hitelesítés (ADAL) vagy a webfiók-kezelés (WAM) letiltása a bejelentkezési és aktiválási hibák elhárítása érdekében  **nem ajánlott**. Ha az Office 2013 segítségével a Microsoft 365-hoz való csatlakozáskor hibák történnek, gondoskodjon arról, hogy az Office-ügyfélprogram [modern hitelesítést engedélyezzen](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  .
 
