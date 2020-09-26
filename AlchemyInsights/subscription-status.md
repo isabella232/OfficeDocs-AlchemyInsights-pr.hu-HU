@@ -2,7 +2,7 @@
 title: Előfizetés állapota
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773489"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286960"
 ---
 # <a name="subscription-status"></a>Előfizetés állapota
 
-Az előfizetés állapota a Microsoft 365 felügyeleti központjának **saját termékek** lapján található.
+Az előfizetés állapota, a lejárat dátuma és a licencek száma a Microsoft 365 felügyeleti központjának **saját termékek** lapján található.
 
-1. Válassza a **termékek számlázása**lehetőséget  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Ha az előfizetések állapotával kapcsolatban probléma van, az előfizetés részletei között megjelenik az előfizetés mellett egy piros figyelmeztető ikon vagy egy "lejárt" vagy "Letiltva" állapot.
-
-3. Ha újra szeretné aktiválni a lejárt vagy letiltott előfizetést, kattintson az **újraaktiválás most**elemre.
-
-**Lejárat dátuma**
-
-1. Válassza a **termékek számlázása**lehetőséget  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. A nézettől függően a lejárat dátuma a jobb szélső oszlopban a **dátum** vagy az előfizetés részleteinek **Számlázási** részén fog megjelenni a **lejárat**mellett.
-
-**Licencek**
-
-A megvásárolt és használatban lévő licencek száma a **termékek** lapon található előfizetésben szerepel.
-
+1. A felügyeleti központban lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
+2. A **Products (termékek** ) lap alapértelmezés szerint az összes előfizetést és azok állapotát jeleníti meg (aktív, lejárt, letiltott vagy törölt). Ha meg szeretné tekinteni az előfizetések egy részét, válassza a szűrő ikont, majd válassza ki a megtekinteni kívánt **előfizetés állapotát** .
+3. Lejárt vagy letiltott előfizetés újraaktiválásához válassza a **További műveletek** (három pont) lehetőséget, majd válassza **az előfizetés újraaktiválása**lehetőséget.
+4. A **termékek** lap az alábbi információkat is megjeleníti:
+    - A felhasználókhoz rendelt licencek száma a **hozzárendelt licencek** oszlopban látható.
+    - Az előfizetésben szereplő licencek teljes száma megjelenik a **megvásárolt mennyiség** oszlopban.
+    - A lejárat vagy megújítási dátum az **előfizetés állapota** oszlopban
+    - Az egyes előfizetések kifizetéséhez használt fizetési mód megjelenik a **fizetve** oszlopban.
+    - Az egyes előfizetésekhez társított számlázási fiók megjelenik a **Számlázási fiók** oszlopban.
+5. Oszlopok hozzáadásához vagy eltávolításához válassza az **Oszlopok kiválasztása**lehetőséget.
