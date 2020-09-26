@@ -2,7 +2,7 @@
 title: Előfizetés állapota
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773489"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286960"
 ---
-# <a name="subscription-status"></a><span data-ttu-id="7aabc-102">Előfizetés állapota</span><span class="sxs-lookup"><span data-stu-id="7aabc-102">Subscription status</span></span>
+# <a name="subscription-status"></a><span data-ttu-id="3acdb-102">Előfizetés állapota</span><span class="sxs-lookup"><span data-stu-id="3acdb-102">Subscription status</span></span>
 
-<span data-ttu-id="7aabc-103">Az előfizetés állapota a Microsoft 365 felügyeleti központjának **saját termékek** lapján található.</span><span class="sxs-lookup"><span data-stu-id="7aabc-103">Subscription status can be found on the **Your products** page of the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="3acdb-103">Az előfizetés állapota, a lejárat dátuma és a licencek száma a Microsoft 365 felügyeleti központjának **saját termékek** lapján található.</span><span class="sxs-lookup"><span data-stu-id="3acdb-103">Subscription status, expiration date, and number of licenses can be found on the **Your products** page of the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="7aabc-104">Válassza a **termékek számlázása**lehetőséget  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="7aabc-104">Go to **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-
-2. <span data-ttu-id="7aabc-105">Ha az előfizetések állapotával kapcsolatban probléma van, az előfizetés részletei között megjelenik az előfizetés mellett egy piros figyelmeztető ikon vagy egy "lejárt" vagy "Letiltva" állapot.</span><span class="sxs-lookup"><span data-stu-id="7aabc-105">If there is an issue with the status of any of the subscriptions, you will see either a red warning icon next to the subscription, or an "expired" or "disabled" status in the Billing section of the subscription details.</span></span>
-
-3. <span data-ttu-id="7aabc-106">Ha újra szeretné aktiválni a lejárt vagy letiltott előfizetést, kattintson az **újraaktiválás most**elemre.</span><span class="sxs-lookup"><span data-stu-id="7aabc-106">If you'd like to reactivate an expired or disabled subscription, click **Reactivate now**.</span></span>
-
-<span data-ttu-id="7aabc-107">**Lejárat dátuma**</span><span class="sxs-lookup"><span data-stu-id="7aabc-107">**Expiration date**</span></span>
-
-1. <span data-ttu-id="7aabc-108">Válassza a **termékek számlázása**lehetőséget  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="7aabc-108">Go to **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-
-2. <span data-ttu-id="7aabc-109">A nézettől függően a lejárat dátuma a jobb szélső oszlopban a **dátum** vagy az előfizetés részleteinek **Számlázási** részén fog megjelenni a **lejárat**mellett.</span><span class="sxs-lookup"><span data-stu-id="7aabc-109">Depending on the view, the expiration date will appear on the far right column labeled **Date** or in the **Billing** section of the subscription details next to **Expiring on**.</span></span>
-
-<span data-ttu-id="7aabc-110">**Licencek**</span><span class="sxs-lookup"><span data-stu-id="7aabc-110">**Licenses**</span></span>
-
-<span data-ttu-id="7aabc-111">A megvásárolt és használatban lévő licencek száma a **termékek** lapon található előfizetésben szerepel.</span><span class="sxs-lookup"><span data-stu-id="7aabc-111">The number of licenses purchased and in use is listed by subscription on the **Your products** page.</span></span>
-
+1. <span data-ttu-id="3acdb-104">A felügyeleti központban lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.</span><span class="sxs-lookup"><span data-stu-id="3acdb-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="3acdb-105">A **Products (termékek** ) lap alapértelmezés szerint az összes előfizetést és azok állapotát jeleníti meg (aktív, lejárt, letiltott vagy törölt).</span><span class="sxs-lookup"><span data-stu-id="3acdb-105">On the **Products** tab, by default, you see all subscriptions and their status (Active, Expired, Disabled, or Deleted).</span></span> <span data-ttu-id="3acdb-106">Ha meg szeretné tekinteni az előfizetések egy részét, válassza a szűrő ikont, majd válassza ki a megtekinteni kívánt **előfizetés állapotát** .</span><span class="sxs-lookup"><span data-stu-id="3acdb-106">To see a subset of all subscriptions, select the filter icon, then select the **Subscription status** that you want to see.</span></span>
+3. <span data-ttu-id="3acdb-107">Lejárt vagy letiltott előfizetés újraaktiválásához válassza a **További műveletek** (három pont) lehetőséget, majd válassza **az előfizetés újraaktiválása**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="3acdb-107">To reactivate an expired or disabled subscription, select **More actions** (three dots), then select **Reactivate this subscription**.</span></span>
+4. <span data-ttu-id="3acdb-108">A **termékek** lap az alábbi információkat is megjeleníti:</span><span class="sxs-lookup"><span data-stu-id="3acdb-108">The **Your products** page also displays the following information:</span></span>
+    - <span data-ttu-id="3acdb-109">A felhasználókhoz rendelt licencek száma a **hozzárendelt licencek** oszlopban látható.</span><span class="sxs-lookup"><span data-stu-id="3acdb-109">The number of licenses assigned to users is displayed in the **Assigned licenses** column.</span></span>
+    - <span data-ttu-id="3acdb-110">Az előfizetésben szereplő licencek teljes száma megjelenik a **megvásárolt mennyiség** oszlopban.</span><span class="sxs-lookup"><span data-stu-id="3acdb-110">The total number of licenses included in the subscription is displayed in the **Purchased quantity** column.</span></span>
+    - <span data-ttu-id="3acdb-111">A lejárat vagy megújítási dátum az **előfizetés állapota** oszlopban</span><span class="sxs-lookup"><span data-stu-id="3acdb-111">The expiration or renewal date in the **Subscription status** column.</span></span>
+    - <span data-ttu-id="3acdb-112">Az egyes előfizetések kifizetéséhez használt fizetési mód megjelenik a **fizetve** oszlopban.</span><span class="sxs-lookup"><span data-stu-id="3acdb-112">The payment method used to pay for each subscription is displayed in the **Paid with** column.</span></span>
+    - <span data-ttu-id="3acdb-113">Az egyes előfizetésekhez társított számlázási fiók megjelenik a **Számlázási fiók** oszlopban.</span><span class="sxs-lookup"><span data-stu-id="3acdb-113">The billing account associated with each subscription is displayed in the **Billing account** column.</span></span>
+5. <span data-ttu-id="3acdb-114">Oszlopok hozzáadásához vagy eltávolításához válassza az **Oszlopok kiválasztása**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="3acdb-114">To add or remove columns, select **Choose columns**.</span></span>
