@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
+ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795570"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295608"
 ---
 # <a name="set-passwords-to-never-expire"></a>Jelszavak beállítása, hogy sohase járjanak le
 
-Ha minden jelszót meg szeretne állítani, hogy sohase járjon le, a Microsoft 365 felügyeleti központban nyissa meg a **Beállítások**  >  [biztonsági &amp; adatvédelmet](https://portal.office.com/adminportal/home#/settings/security) ismertető lapot. Válassza a jelszó- **házirend**melletti **Szerkesztés** lehetőséget, és kapcsolja be a csúszkát **be állásba.**
+Ha minden jelszót meg szeretne adni, hogy sohase járjon le, a Microsoft 365 felügyeleti központban nyissa meg a **Beállítások**  >  **szervezeti beállításai > a [biztonsági és adatvédelmi](https://portal.office.com/adminportal/home#/settings/security)  >  [jelszó lejárati szabályzatát](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) ** , és törölje a jelet a felhasználó jelszavának beállítása több nap elteltével című témakörben.
   
-További információt a következő témakörökben talál: 
+További információt a következő témakörökben talál:
 
 - [A jelszó elévülési házirendjének beállítása a szervezet számára.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
