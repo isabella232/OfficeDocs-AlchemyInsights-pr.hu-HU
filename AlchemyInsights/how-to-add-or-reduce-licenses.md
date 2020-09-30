@@ -2,7 +2,7 @@
 title: Licencek hozzáadása vagy eltávolítása az előfizetéshez
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,35 +13,27 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: d07403226345a4e90aa4f7a5aa7a4ef5e0e9ea19
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781213"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307272"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Licencek hozzáadása vagy eltávolítása az előfizetéshez
 
-Az alábbiakban bemutatjuk, hogyan adhat hozzá és távolíthat el licenceket.
+Az alábbi lépésekkel vehet fel és távolíthat el licenceket.
   
-1. A felügyeleti központban lépjen a termékek **számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra.
-
-2. Válassza ki azt az előfizetést, amelyhez licenceket szeretne hozzáadni/eltávolítani.
-
-3. Kattintson a **licencek hozzáadása/eltávolítása**elemre.
-
-4. Adja meg a szükséges felhasználók teljes számát. Ha például jelenleg 25 licence van, és el szeretné távolítani az 5-öt, akkor ebben a mezőben 20 értéket kell beírnia.
-
-5. Kattintson a **Változások küldése** lehetőségre.
-
-**Megjegyzés**: az új díj (licenc növekedése) vagy a jóváírás (licenc csökkentése) a következő számlán fog megjelenni.
+1. A felügyeleti központban lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
+2. A **Products (termékek** ) lapon keresse meg azt az előfizetést, amelyhez licenceket szeretne vásárolni vagy eltávolítani. Válassza a **További műveletek** (három pont) lehetőséget, majd válassza a **licencek vásárlása**lehetőséget.
+3. Ha csökkenteni szeretné a licencek számát, a **licencek vásárlása** ablaktábla tetején kattintson a **licencek eltávolítása**elemre.
+4. Licencek megvásárlásához vagy eltávolításához **a** **teljes licencek** mezőben adja meg az előfizetéshez használni kívánt licencek teljes számát. Ha például 100-licenccel rendelkezik, és 25 további további információt szeretne hozzáadni, írja be a 125. Ha 25 licencet szeretne eltávolítani, írja be az 75.
+5. Válassza a **Mentés** elemet.
 
 A licencek hozzárendeléséről a [licencek hozzárendelése a felhasználókhoz](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)című témakörben olvashat bővebben.
 
 **Erőforrások**
   
-- [Előfizetési licencek kezelése – vásárlás és eltávolítás](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-- [A Microsoft 365 vállalati verzió lemondása](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
-
-- [Másik Microsoft 365 vállalati verziós Előfizetés vásárlása](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Előfizetés-licencek vásárlása és eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [A Microsoft 365 vállalati verzió lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Microsoft 365 vállalati verziós előfizetés kipróbálása vagy megvásárlása](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

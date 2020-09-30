@@ -2,7 +2,7 @@
 title: Túl sok licence van?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736029"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307236"
 ---
 # <a name="too-many-licenses"></a>Túl sok licence van?
 
@@ -28,9 +28,9 @@ Ha úgy gondolja, hogy túl sok licenccel fizet, ez általában a további licen
 **A megvásárolt licencek számának csökkentése**
   
 1. A felügyeleti központban lépjen a termékek **számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra.
+2. A **Products (termékek** ) lapon jelölje ki a módosítani kívánt előfizetést.
+3. Az előfizetés részletei lapon válassza a **licencek eltávolítása**elemet.
+4. A **licencek eltávolítása** ablaktábla **új mennyiség** csoportjában adja meg az **Total licenses** előfizetéshez használni kívánt licencek teljes számát. Ha például 100-licenccel rendelkezik, és 25 közülük szeretne eltávolítani, adja meg a 75.
+5. Válassza a **Mentés** elemet.
 
-2. Keresse meg azt az előfizetést, amelyből licenceket szeretne eltávolítani, majd válassza a **licencek hozzáadása/eltávolítása**hivatkozást.
-
-3. A **teljes licencek** mezőben adja meg az előfizetéshez szükséges licencek teljes számát, majd válassza a **módosítás**elvégzése parancsot. Ha például 110 licence volt, és 5-öt szeretne eltávolítani, akkor a 105 értéket kell beírnia.
-
-További információt a [licencek eltávolítása a Microsoft 365 vállalati verziós előfizetésből](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)című témakörben találhat.
+További információt az [előfizetés-licencek vásárlása és eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)című témakörben talál.

@@ -1,8 +1,8 @@
 ---
 title: Termékei
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799242"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307020"
 ---
 # <a name="your-products"></a>Termékei
 
-A szervezete által birtokolt előfizetéseket a termékek **számlázása**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapon találja. Az alábbiakban felsoroljuk a lap néhány Kiemelt elemét, valamint az egyes funkciókkal kapcsolatos további információk hivatkozásait:
+A szervezete által birtokolt előfizetéseket a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon találja. Az alábbiakban felsoroljuk a lap néhány Kiemelt elemét, valamint az egyes funkciókkal kapcsolatos további tudnivalókat:
 
-1. Az egyes előfizetésekhez vásárolt licencek számának kezelése a használatuk módjával együtt.  **Megjegyzés**: a jelenleg használatban lévő (nincs felhasználóhoz rendelt) licencek továbbra is felszámolásra kerülnek.  Ha nem szeretné kifizetni a használaton kívüli licenceket, csökkentse a megvásárolt licencek számát. Ha többet szeretne tudni arról, hogy miként vehet fel vagy távolíthat el licenceket az előfizetésből, tanulmányozza a [licencek hozzáadása vagy csökkentése](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)című témakört.
-
-2. Az előfizetés megújításának vagy lejárati dátumának megtekintése.  A megújítás kezeléséhez kattintson az **újrahírek/lejárat** dátuma melletti **Szerkesztés** hivatkozásra.  Az ismétlődő számlázás kezeléséről további információt a [Microsoft 365 vállalati verzió megújítása](https://go.microsoft.com/fwlink/?linkid=2119216) című témakörben talál.
-
-3. [Lejárt vagy letiltott előfizetés újraaktiválása](https://go.microsoft.com/fwlink/?linkid=2117519)
-
-4. Az előfizetés kifizetéséhez [használt fizetési mód szerkesztése](https://go.microsoft.com/fwlink/?linkid=2117167)
-
-5. [A számlázott gyakoriság módosítása](https://go.microsoft.com/fwlink/?linkid=2119112)
-
+1. Megtekintheti a hozzárendelt licencek számát, és hogy hány licencet vásárolt az egyes előfizetésekhez.
+    > [!NOTE]
+    > A nem használt licencek esetében is fizetni kell (nincs felhasználóhoz rendelve). Ha nem szeretné kifizetni a használaton kívüli licenceket, csökkentse a megvásárolt licencek számát. Ha többet szeretne tudni arról, hogy miként vehet fel vagy távolíthat el licenceket az előfizetésből, tanulmányozza a [licencek hozzáadása vagy csökkentése](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)című témakört.
+2. Az egyes előfizetések állapotát tekintheti át. Az előfizetés újraaktiválásáról az [előfizetés újraaktiválása](reactivate-your-subscription.md)című témakörben olvashat bővebben.
+3. Megtekintheti az egyes előfizetések megújítási vagy lejárati dátumát. A megújítás kezeléséhez jelölje ki az előfizetést, és válassza az **ismétlődő számlázás szerkesztése**lehetőséget. Az ismétlődő számlázás kezeléséről az [ismétlődő számlázás kezelése](manage-auto-renewal.md)című cikkben olvashat bővebben.
+4. Az egyes előfizetésekhez használt fizetési mód megtekintése. A fizetési mód módosításáról a [fizetési mód módosítása](change-payment-method.md)című cikkben olvashat bővebben.
+5. [Módosíthatja a fizetési gyakoriságot](change-how-often-you-pay.md).
 6. [Az előfizetés lemondása](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-További előfizetéseket is vásárolhat a **Számlázási**  >  [**szolgáltatások vásárlása**](https://go.microsoft.com/fwlink/p/?linkid=868433) lapon.
+További előfizetéseket is vásárolhat a **Számlázási**  >  [szolgáltatások vásárlása](https://go.microsoft.com/fwlink/p/?linkid=868433) lapon.
