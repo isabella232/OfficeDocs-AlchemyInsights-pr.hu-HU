@@ -1,8 +1,8 @@
 ---
 title: Az alapértelmezett megújítási subsscription
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745861"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416632"
 ---
 # <a name="renewing-your-subscription"></a>Az Előfizetés megújítása
 
@@ -25,8 +25,10 @@ Ha hitelkártyával vagy bankszámláról fizet, az ismétlődő számlázás al
 
 Ha egy termékkulccsal előre kifizette az előfizetését, az előfizetése lejár az előfizetési időszak végén. Bekapcsolhatja az ismétlődő számlázást, és hitelkártyát vagy bankszámláról szóló információkat adhat meg, hogy az előfizetése az előfizetése napján minden évben számlázással maradjon.
 
-Az ismétlődő számlázás bekapcsolása: 
+Az ismétlődő számlázás bekapcsolása:
 
-1. Válassza a **termékek számlázása**lehetőséget  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Válassza ki azt az előfizetést, amelynek az ismétlődő számlázását kezelni szeretné.
-3. A **számlázás**csoportban válassza a **Szerkesztés** elemet, és végezze el a módosításokat az **ismétlődő számlázási beállítások** ablakban. 
+1. A felügyeleti központban lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
+2. A **Products (termékek** ) lapon jelölje ki a módosítani kívánt előfizetést.
+3. Az előfizetés részletei lap **előfizetés és fizetés beállításai**területén válassza az **ismétlődő számlázás szerkesztése**lehetőséget.
+4. Az **ismétlődő számlázási beállítások szerkesztése** munkaablakban válassza **a bekapcsolva**, a bekapcsolva **, de a megújítást**, vagy **kapcsolja ki**a gombot.
+5. Válassza a **Mentés** elemet. 

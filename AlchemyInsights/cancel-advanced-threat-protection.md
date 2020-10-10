@@ -1,8 +1,8 @@
 ---
 title: A speciális veszélyforrások elleni védelem megszüntetése
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683692"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416279"
 ---
 # <a name="cancel-advanced-threat-protection"></a>A speciális veszélyforrások elleni védelem megszüntetése
 
-A speciális veszélyforrások elleni védelem lemondható a **Microsoft 365 felügyeleti központban**.
+A rendszergazdák a Microsoft 365 felügyeleti központban törölhetik a szervezete speciális veszélyforrások elleni védelmét előfizetést.
 
 1. Lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
-2. Keresse meg a lemondani kívánt speciális veszélyforrások elleni védelem tervét.
-3. Kattintson az **előfizetés törlése**elemre.
+2. A **Products (termékek** ) lapon keresse meg a lemondani kívánt Advanced Threat Protection csomagot. Válassza a **További műveletek** (három pont) lehetőséget, majd válassza az **előfizetés törlése**lehetőséget.
+3. Az **előfizetés törlése** munkaablakban adja meg a lemondás okát. Tetszés szerint adja meg a visszajelzést.
+4. Válassza a **Mentés** elemet.
 
-Visszatérítés: bármely kiértékelt jóváírást a következő számlázási ciklusban kapja vissza.
-
-**Megjegyzés**: Ha nem látható a lemondás gomb, az előfizetésre kattintva megtekintheti a részleteket, és az **előfizetés törlése** lehetőségre kattintva megtekintheti a **Beállítások & műveleteket**.
+**Visszatérítés:** A következő számlázási ciklusban bármely kiértékelt jóváírást visszakapja Önnek.
 
 További információt az [előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)című témakörben talál.
