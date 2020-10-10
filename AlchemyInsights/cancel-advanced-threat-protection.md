@@ -1,8 +1,8 @@
 ---
 title: A speciális veszélyforrások elleni védelem megszüntetése
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683692"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416279"
 ---
-# <a name="cancel-advanced-threat-protection"></a><span data-ttu-id="ea01b-102">A speciális veszélyforrások elleni védelem megszüntetése</span><span class="sxs-lookup"><span data-stu-id="ea01b-102">Cancel Advanced Threat Protection</span></span>
+# <a name="cancel-advanced-threat-protection"></a><span data-ttu-id="7179e-102">A speciális veszélyforrások elleni védelem megszüntetése</span><span class="sxs-lookup"><span data-stu-id="7179e-102">Cancel Advanced Threat Protection</span></span>
 
-<span data-ttu-id="ea01b-103">A speciális veszélyforrások elleni védelem lemondható a **Microsoft 365 felügyeleti központban**.</span><span class="sxs-lookup"><span data-stu-id="ea01b-103">Advanced Threat Protection can be canceled in the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="7179e-103">A rendszergazdák a Microsoft 365 felügyeleti központban törölhetik a szervezete speciális veszélyforrások elleni védelmét előfizetést.</span><span class="sxs-lookup"><span data-stu-id="7179e-103">Admins can cancel the Advanced Threat Protection subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="ea01b-104">Lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.</span><span class="sxs-lookup"><span data-stu-id="ea01b-104">Go to the  **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
-2. <span data-ttu-id="ea01b-105">Keresse meg a lemondani kívánt speciális veszélyforrások elleni védelem tervét.</span><span class="sxs-lookup"><span data-stu-id="ea01b-105">Locate the Advanced Threat Protection Plan to cancel.</span></span>
-3. <span data-ttu-id="ea01b-106">Kattintson az **előfizetés törlése**elemre.</span><span class="sxs-lookup"><span data-stu-id="ea01b-106">Click **Cancel subscription**.</span></span>
+1. <span data-ttu-id="7179e-104">Lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.</span><span class="sxs-lookup"><span data-stu-id="7179e-104">Go to the  **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="7179e-105">A **Products (termékek** ) lapon keresse meg a lemondani kívánt Advanced Threat Protection csomagot.</span><span class="sxs-lookup"><span data-stu-id="7179e-105">On the **Products** tab, find the Advanced Threat Protection plan that you want to cancel.</span></span> <span data-ttu-id="7179e-106">Válassza a **További műveletek** (három pont) lehetőséget, majd válassza az **előfizetés törlése**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="7179e-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="7179e-107">Az **előfizetés törlése** munkaablakban adja meg a lemondás okát.</span><span class="sxs-lookup"><span data-stu-id="7179e-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="7179e-108">Tetszés szerint adja meg a visszajelzést.</span><span class="sxs-lookup"><span data-stu-id="7179e-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="7179e-109">Válassza a **Mentés** elemet.</span><span class="sxs-lookup"><span data-stu-id="7179e-109">Select **Save**.</span></span>
 
-<span data-ttu-id="ea01b-107">Visszatérítés: bármely kiértékelt jóváírást a következő számlázási ciklusban kapja vissza.</span><span class="sxs-lookup"><span data-stu-id="ea01b-107">Refund: Any prorated credit will be returned to you within the next billing cycle.</span></span>
+<span data-ttu-id="7179e-110">**Visszatérítés:** A következő számlázási ciklusban bármely kiértékelt jóváírást visszakapja Önnek.</span><span class="sxs-lookup"><span data-stu-id="7179e-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
 
-<span data-ttu-id="ea01b-108">**Megjegyzés**: Ha nem látható a lemondás gomb, az előfizetésre kattintva megtekintheti a részleteket, és az **előfizetés törlése** lehetőségre kattintva megtekintheti a **Beállítások & műveleteket**.</span><span class="sxs-lookup"><span data-stu-id="ea01b-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
-
-<span data-ttu-id="ea01b-109">További információt az [előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="ea01b-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="7179e-111">További információt az [előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="7179e-111">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
