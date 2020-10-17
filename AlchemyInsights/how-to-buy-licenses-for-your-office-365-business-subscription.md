@@ -2,8 +2,8 @@
 title: Licencek vásárlása a Microsoft 365-alkalmazások vállalati verziós előfizetéséhez
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,20 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 4339c735097ea1f4b277572b65baa112cc35a087
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b9f659c97cea3c2eaa01b5a6b8facd5b255f8f
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781105"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488883"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Licencek vásárlása a Microsoft 365-alkalmazások vállalati verziós előfizetéséhez
 
-Ha licenceket rendel a felhasználókhoz, akkor előfordulhat, hogy további licenceket is meg kell vásárolnia. Művelet:
+Ha licenceket rendel a felhasználókhoz, előfordulhat, hogy további licenceket kell vásárolnia. Kövesse az alábbi lépéseket:
   
-1. A felügyeleti központban lépjen a termékek **számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra.
+1. A felügyeleti központban lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
+2. A **Products (termékek** ) lapon keresse meg a frissíteni kívánt előfizetést. Válassza a **További műveletek** (három pont) lehetőséget, majd válassza a **licencek vásárlása**lehetőséget.
+3. Adja meg az előfizetéshez használni kívánt licencek teljes **számát a** **licencek vásárlása** ablaktábla **új mennyiség** csoportjában. Ha például 100-licenccel rendelkezik, és 25 további további információt szeretne hozzáadni, írja be a 125.
+4. Válassza a **Mentés** elemet.
 
-2. Keresse meg azt az előfizetést, amelyhez licenceket szeretne hozzáadni, majd válassza a **licencek hozzáadása/eltávolítása**hivatkozást.
-
-3. A **teljes licencek** mezőben adja meg az előfizetéshez szükséges licencek számát, majd válassza a **módosítás**elvégzése parancsot. Ha például 100 licence volt, és 5-öt szeretne hozzáadni, akkor a 105 értéket kell beírnia.
-
-További információt a [licencek vásárlása a Microsoft 365-alkalmazások vállalati verziós előfizetéséhez](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)című témakörben talál.
+További információt a [licencek vásárlása a Microsoft 365 vállalati verziós előfizetéséhez](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)című témakörben talál.
