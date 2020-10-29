@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759221"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801553"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Támadási szimulátor a Microsoft 365
 
-- Hiányzik a támadási szimulátor? A támadási szimulátorhoz az **office 365 Advanced Threat Protection Plan 2 (ATP-terv 2)** vagy az **Office 365 nagyvállalati E5**csomag szükséges. A támadás-szimulátor **nem** része az Office 365 Advanced Threat Protection Plan 1 (ATP-terv 1), az Office 365 Enterprise E3 csomag vagy bármely Microsoft 365-alkalmazás vállalati verziós előfizetésnek.
+- Hiányzik a támadási szimulátor? A támadás-szimulátor használatához **a Microsoft Defender for office 365 Plan 2 (ATP-csomag 2) vagy az** **Office 365 nagyvállalati E5** csomag szükséges. A támadási szimulátor **nem** része a Microsoft Defender for Office 365 (ATP-csomag), az Office 365 Enterprise E3 csomagnak vagy bármely Microsoft 365-alkalmazás vállalati verziós előfizetésnek.
 
 - A szimulált támadások elindításához használt fiók globális rendszergazdai vagy biztonsági rendszergazdai engedélyekkel és többtényezős hitelesítéssel (MFA) szükséges. A támadási szimulátor követelményeiről a következő [témakörben](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)olvashat bővebben.
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759221"
 
 - Fontos tudni, hogy a **célzott adathalászat** -szimulációk:
 
-  - A terv szerint nem tud egyéni értéket biztosítani az **adathalászati bejelentkezési kiszolgáló URL-címéhez**.
+  - A terv szerint nem tud egyéni értéket biztosítani az **adathalászati bejelentkezési kiszolgáló URL-címéhez** .
 
   - Ha a címzettek [engedélyezik a jelentéskészítő üzenetben](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) az üzenet adathalászatként való jelentését, előfordulhat, hogy nem kap értesítést az üzenetről (mert szimulált támadás).
 

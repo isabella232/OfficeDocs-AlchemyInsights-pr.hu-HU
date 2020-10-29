@@ -1,5 +1,5 @@
 ---
-title: Office 365 speciális veszélyforrások elleni védelem vásárlása
+title: Microsoft Defender vásárlása az Office 365-hoz
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693557"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801149"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Office 365 speciális veszélyforrások elleni védelem vásárlása
+# <a name="purchase-microsoft-defender-for-office-365"></a>Microsoft Defender vásárlása az Office 365-hoz
 
-Az Office 365 Advanced Threat Protection (ATP) bizonyos előfizetések, például a Microsoft 365 E5, az Office 365 E5, az Office 365 a5 és a Microsoft 365 Business prémium verzió részét képezi. Ha az előfizetése nem tartalmazza az Office 365 ATP-t, az ATP-terv 2-es verziójában vásárolhat [1 v](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) az előfizetéshez. Vásárlás a Microsoft 365 felügyeleti központjában:
+A Microsoft Defender for Office 365 (ATP) bizonyos előfizetések, például a Microsoft 365 E5, az Office 365 E5, az Office 365 a5 és a Microsoft 365 Business prémium verzió részét képezi. Ha az előfizetése nem tartalmazza az Office 365 ATP-t, az ATP-terv 2-es verziójában vásárolhat [1 v](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) az előfizetéshez. Vásárlás a Microsoft 365 felügyeleti központjában:
 
 1. Nyissa meg a **számlázás**   >   [vásárlása szolgáltatást](https://go.microsoft.com/fwlink/p/?linkid=868433).
 2. Válassza a **bővítmények**  lapot az **Önt érdeklő egyéb kategóriák közül.**

@@ -1,5 +1,5 @@
 ---
-title: Az Office 365 speciális veszélyforrások elleni védelem
+title: Office 365-hoz használható Microsoft Defender
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696623"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801229"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Az Office 365 speciális veszélyforrások elleni védelem
+# <a name="microsoft-defender-for-office-365"></a>Office 365-hoz használható Microsoft Defender
 
-- A biztonságos mellékletek, a biztonságos hivatkozások és az adathalászat az Office 365 Advanced Threat Protection (ATP) részét képezi. A nagyvállalati E5 csomag, az oktatási a5 és a Microsoft 365 vállalati prémium verzió tartalmazza az ATP-t. Minden más tervhez tartozik egy új ATP-előfizetés.
+- A biztonságos mellékletek, a biztonságos hivatkozások és az adathalászat elleni védelem az Office 365 (ATP) Microsoft Defender része. A nagyvállalati E5 csomag, az oktatási a5 és a Microsoft 365 vállalati prémium verzió tartalmazza az ATP-t. Minden más tervhez tartozik egy új ATP-előfizetés.
 
 - A felhasználók védelme érdekében a megfelelő licenceket kell kiosztania az Office 365 ATP szolgáltatással. [Ebből a témakörből](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) megtudhatja, hogy miként lehet tömegesen alkalmazni a licenceket a felhasználóknak.
 
-- A globális rendszergazdák vagy a biztonsági rendszergazdák az Office 365 ATP funkcióit a biztonsági & megfelelőségi központban érhetik el a **veszélyforrások Managmeent** \> **házirendjében**.
+- A globális rendszergazdák vagy a biztonsági rendszergazdák az Office 365 ATP funkcióit a biztonsági & megfelelőségi központban érhetik el a **veszélyforrások Managmeent** \> **házirendjében** .
 
 - A biztonságos mellékletek és a biztonságos csatolási házirendek a teljes szervezete, bizonyos tartományai vagy a felhasználók kisebb csoportjai körét adhatják meg.
 
