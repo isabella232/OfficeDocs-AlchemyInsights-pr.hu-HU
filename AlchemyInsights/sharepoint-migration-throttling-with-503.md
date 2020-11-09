@@ -13,28 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: e46c39652db6a13a45d77d303102b4873e67a076
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720063"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947450"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>A SharePoint áttelepítési szabályozása 503-hibákkal
 
-**Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
+Úgy tűnik, hogy a SharePoint Online-ba lép át, és a 503-ös hibák jelentkeznek. Kérjük, kövesse az alábbi lépéseket, hogy a lehető leghamarabb segítséget nyújtunk.
 
-**503-hibák a SharePoint Online-ba való áttéréskor**
-
-Úgy tűnik, hogy a SharePoint Online-ba lép át, és a 503-ös hibák jelentkeznek. Kérjük, kövesse az alábbi lépéseket, hogy a lehető leghamarabb segítséget nyújtunk. 
-
-1. Kattintson a **Kapcsolatfelvétel az ügyfélszolgálattal**elemre, majd az **új szolgáltatási kérelem**gombra.
-2. A cím és a Leírás mezőbe írja be a **SharePoint áttelepítési szabályozását a 503**-ban.
+1. Kattintson a **Kapcsolatfelvétel az ügyfélszolgálattal** elemre, majd az **új szolgáltatási kérelem** gombra.
+2. A cím és a Leírás mezőbe írja be a **SharePoint áttelepítési szabályozását a 503** -ban.
 3. Miután elküldte a jegyet, kérjük, frissítse a következő adatokkal:
-    - Mennyi az áttelepítéstől balra (például hány TBs?).
+    - Mennyibe kerül az áttelepítés (például hány TBs)?
     - Áttelepítés kezdési és befejezési dátuma
-    - Itt megadhatja, hogy hová szeretné áttelepíteni a tartalmakat, például a SharePoint Server, a Box, a GDrive, a fájlmegosztás stb.
-    - Megbecsülheti a szabályozási hibák számát (például az x fojtószelep óránként?), és mikor történt a szabályozás.
-    - Melyik áttelepítési eszközt használja (például SPMT vagy ShareGate).
-
-
+    - Itt megtudhatja, hogy hová szeretné áttelepíteni a tartalmakat, például a SharePoint Server, a Box, a GDrive, a fájlmegosztás stb.
+    - Megbecsülheti a szabályozási hibák számát (például x-fojtószelep óránként), és mikor történt a szabályozás.
+    - Melyik áttelepítési eszközt használja (például SPMT vagy ShareGate)?
