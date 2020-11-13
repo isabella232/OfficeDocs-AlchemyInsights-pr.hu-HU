@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674940"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019549"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>A Microsoft Teams felderítő felülete
 
-A Microsoft Teams felderítő felülete lehetővé teszi, hogy a szervezeten belüli felhasználók az Azure Active Directoryval (AAD) rendelkezzenek, és a Teams nem rendelkezik licenccel a Teams felhasználói számára. A rendszergazdák kapcsolhatják be vagy ki ezt a funkciót a szervezetük felhasználói számára. (A korábbi Microsoft kereskedelmi Felhőbeli próbaverziót most a Teams felderítő felületének nevezik.)
-
-A Microsoft Teams felderítő felülete nem érhető el semmilyen további költségen, amíg a következő vállalati szerződési évfordulót vagy megújítást nem tart vagy a január 2021 után. Abban az időben a Microsoft feltáró-licencek végfelhasználói számára a csapatokat tartalmazó fizetős licencre kell lépnie.
-
-További információért olvassa el [a Microsoft Teams-felderítő licenc kezelése](https://docs.microsoft.com/microsoftteams/teams-exploratory/)című témakört.
+- Mi a [Teams-felderítő](https://docs.microsoft.com/microsoftteams/teams-exploratory)? A Microsoft Teams felderítő felülete lehetővé teszi, hogy a Teams által nem licencelt felhasználók a Teams felhasználói számára feltáró tapasztalatot kezdeményezzenek. További információ: [a Teams felderítő felületének ismertetése](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Mikor jár le a licencem](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? A Microsoft Teams felderítő felülete semmilyen további költség nélkül elérhető, amíg a következő szerződési évfordulót vagy megújítást nem tart a január 2021-ben vagy azt követően.
+- Rendszergazdaként [frissítheti a felhasználókat a Teams felderítő](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) licenccel úgy, hogy megvásárol egy Teams-előfizetést, eltávolítja a Teams-előfizetést a felhasználótól, és hozzárendeli az újonnan megvásárolt licencet.
+- További információt [a Teams-felderítő licenc kezelése](https://docs.microsoft.com/microsoftteams/teams-exploratory) című témakörben talál.
