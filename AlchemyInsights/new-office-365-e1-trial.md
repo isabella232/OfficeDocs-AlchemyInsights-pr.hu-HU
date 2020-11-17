@@ -12,25 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: 76c7c64bce8149a4a4a981ec97776b897e51b862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dfde60184374c3031a645f1193ea164f246bed92
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769509"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49086086"
 ---
 # <a name="new-office-365-e1-trial"></a>Új Office 365 E1 próbaverzió
 
-Az 2020 márciusi verziójában egy ingyenes, 6 hónapos [Office 365 E1 próbaverzió](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), a Microsoft Teams is elérhető. Ha meg szeretné tudni, hogy mi áll az E1 licenccel, olvassa el az [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software)című témakört.
-
-**Ki jogosult?**
-
-Az ajánlat a Microsoft-fiók rep által felügyelt ügyfelek számára készült. Olyan szervezetek, amelyek nem aktiválták a többi Office 365 E1 próbaverziót. Az E1 próba-promóciós kód használata után nem használhatja újra, és nem aktiválhatja a másik E1 próbaverziót. Ezekben az esetekben lehet, hogy az alkalmazottak aktiválják a [Teams felderítő licencét](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
-
-**Ki nem jogosult?**
-
-- Ez az ajánlat nem érhető el a GCC, a GCC High, a DoD vagy a EDU-ügyfeleknek. Az E1 próbaverzió GCC-es verziójában dolgozunk, ez hamarosan elérhető lesz.
-
- - Az EDU-ügyfeleknek az ingyenes Office 365 a1 licencet kell használniuk.
-
-Ne mulassza el az összes útmutatást a [távoli dolgozók támogatása a Teams segítségével](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+A 2020 július 1-től az Office 365 E1 próbaverziós licenc már nem érhető el. Ha licenccel kell rendelkeznie a Microsoft Teams felhasználói számára, olvassa el a Teams-t tartalmazó fizetős előfizetések listáját a [Microsoft Teams szolgáltatás leírása](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) című témakörben. Másik lehetőségként a jogosult szervezetek használhatják a [Teams ingyenes verzióját](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c), vagy az alkalmazottak aktiválhatja a [Teams feltáró](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) felületét.
