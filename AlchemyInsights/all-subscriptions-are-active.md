@@ -14,15 +14,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 4b6ce603b4c47014f8a99a479da55dca3ecc264c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfe51559421c94cda4d3aa53c9baf5265af57224
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718335"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348703"
 ---
 # <a name="all-subscriptions-are-active"></a>Minden előfizetés aktív
 
-Az előfizetések aktívak. Ezt a termék **számlázása** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon ellenőrizheti. Az előfizetéseket az állapot szerint rendezi a rendszer, amelyen az aktív előfizetések láthatók. Az előfizetés kiválasztásával további információkat, például a licencek számát és a fizetési módot is láthatja.
+Az előfizetések aktívak. Ezt a termék **számlázása** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapon ellenőrizheti. Előfizetései a **Products (termékek** ) lapon láthatók, és az egyes előfizetések állapota az **előfizetés állapota** oszlopban látható. További információért válassza ki az előfizetést az előfizetés részletei lap megjelenítéséhez.
   
 Ha el szeretné távolítani az aktív előfizetéseket, vagy le szeretné zárni fiókját, olvassa el [a fiók lezárása](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide)című témakört.
