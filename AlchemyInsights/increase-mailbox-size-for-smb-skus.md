@@ -2,7 +2,7 @@
 title: A postaláda méretének növelése SMB-SKU-hoz
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: e4f4791358977133e2c94c70fb955304ebe80d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfb05ac9cafd0bafc0baf1afa39bb8374d725f18
+ms.sourcegitcommit: eb7cf60a8fef79b00675eb645b0d0d8d5f9744df
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778297"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49363685"
 ---
-# <a name="upgrade-plans-to-increase-mailbox-size"></a><span data-ttu-id="74eb3-102">A postaláda méretének növelését szolgáló frissítési tervek</span><span class="sxs-lookup"><span data-stu-id="74eb3-102">Upgrade plans to increase mailbox size</span></span>
+# <a name="upgrade-plans-to-increase-mailbox-size"></a><span data-ttu-id="eec40-102">A postaláda méretének növelését szolgáló frissítési tervek</span><span class="sxs-lookup"><span data-stu-id="eec40-102">Upgrade plans to increase mailbox size</span></span>
 
-<span data-ttu-id="74eb3-103">Ha a postaláda mérete 50 GB, a postaláda méretét 100 GB-ra növelheti, ha az [office 365 nagyvállalati E3](https://products.office.com/business/office-365-enterprise-e3-business-software) csomagra vagy az [Office 365 nagyvállalati E5 csomagra](https://products.office.com/business/office-365-enterprise-e5-business-software)vált.</span><span class="sxs-lookup"><span data-stu-id="74eb3-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span></span> <span data-ttu-id="74eb3-104">Az alábbi lépésekkel válthat másik előfizetésre:</span><span class="sxs-lookup"><span data-stu-id="74eb3-104">Here are the steps to switch to a different subscription:</span></span>
+<span data-ttu-id="eec40-103">Ha a postaláda mérete 50 GB, az [Office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), a [Microsoft 365 E3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), az [Office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab)vagy a [Microsoft 365 E5](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab)csomagra való frissítéssel megnövelheti a postaláda méretét 100 GB-ra.</span><span class="sxs-lookup"><span data-stu-id="eec40-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by upgrading to [Office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), [Microsoft 365 E3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), [Office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab), or [Microsoft 365 E5](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab).</span></span> <span data-ttu-id="eec40-104">Az alábbi lépésekkel frissíthet egy másik előfizetésre:</span><span class="sxs-lookup"><span data-stu-id="eec40-104">Here are the steps to upgrade to a different subscription:</span></span>
   
-1. <span data-ttu-id="74eb3-105">A Microsoft 365 felügyeleti központban lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.</span><span class="sxs-lookup"><span data-stu-id="74eb3-105">In the Microsoft 365 admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="eec40-105">A felügyeleti központban lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.</span><span class="sxs-lookup"><span data-stu-id="eec40-105">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="eec40-106">A **Products (termékek** ) lapon jelölje ki a frissíteni kívánt előfizetést.</span><span class="sxs-lookup"><span data-stu-id="eec40-106">On the **Products** tab, select the subscription that you want to upgrade.</span></span>
+3. <span data-ttu-id="eec40-107">Az előfizetés részletei lapon, a **Product Details és a frissítések** csoportban válassza a **szervezete számára ajánlott frissítések megtekintése** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="eec40-107">On the subscription details page, in the **Product details and upgrades** section, select **View upgrades recommended for your org**.</span></span>
+4. <span data-ttu-id="eec40-108">Az **elérhető frissítések** lapon keresse meg az új csomagot, majd válassza a **frissítés** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="eec40-108">On the **Available upgrades** page, find the new plan that you want, then select **Upgrade**.</span></span>
+5. <span data-ttu-id="eec40-109">A **pénztár** lapon válassza ki vagy adja meg a fizetési módot, majd válassza a **megrendelés** lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="eec40-109">On the **Checkout** page, select or add a payment method, then select **Place order**.</span></span>
+6. <span data-ttu-id="eec40-110">A minden készen áll **!**</span><span class="sxs-lookup"><span data-stu-id="eec40-110">On the **You’re all set!**</span></span> <span data-ttu-id="eec40-111">lapon jelölje ki **a frissítés állapotát**, vagy **folytassa az előfizetés beállítását**.</span><span class="sxs-lookup"><span data-stu-id="eec40-111">page, select **status of your upgrade**, or **Continue to setup your subscription**.</span></span>
 
-2. <span data-ttu-id="74eb3-106">Jelölje ki a frissíteni kívánt előfizetést, majd a **frissítés** lapon keresse meg az elérhető új csomagok listáját.</span><span class="sxs-lookup"><span data-stu-id="74eb3-106">Select the subscription to upgrade, then select the **Upgrade** tab to view the list of new plans that are available.</span></span>
+<span data-ttu-id="eec40-112">Ha befejezte a kivételt, a Microsoft 365 néhány percet vesz igénybe a váltás véglegesítéséhez.</span><span class="sxs-lookup"><span data-stu-id="eec40-112">When you finish checkout, Microsoft 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="eec40-113">Azonnal elkezdheti használni az új előfizetést.</span><span class="sxs-lookup"><span data-stu-id="eec40-113">You can start using your new subscription right away.</span></span>
 
-3. <span data-ttu-id="74eb3-107">Válasszon egy tervet a havi új teljes költség megjelenítéséhez.</span><span class="sxs-lookup"><span data-stu-id="74eb3-107">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="74eb3-108">Ügyeljen arra, hogy olvassa el a **legfontosabb információkat**, majd válassza a **tovább** gombot a kivételhez.</span><span class="sxs-lookup"><span data-stu-id="74eb3-108">Be sure to read the **key information**, then choose **Next** to check out.</span></span>
-
-4. <span data-ttu-id="74eb3-109">Ha befejezte a kivételt, a Microsoft 365 néhány percet vesz igénybe a váltás véglegesítéséhez.</span><span class="sxs-lookup"><span data-stu-id="74eb3-109">When you finish checkout, Microsoft 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="74eb3-110">Azonnal elkezdheti használni az új előfizetést.</span><span class="sxs-lookup"><span data-stu-id="74eb3-110">You can start using your new subscription right away.</span></span>
-
-<span data-ttu-id="74eb3-111">További részletekért olvassa el a [frissítés másik csomagra](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)című témakört.</span><span class="sxs-lookup"><span data-stu-id="74eb3-111">For more details, see [Upgrade to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span></span>
+<span data-ttu-id="eec40-114">További információt a [frissítés másik csomagra](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="eec40-114">For more information, see [Upgrade to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span></span>
