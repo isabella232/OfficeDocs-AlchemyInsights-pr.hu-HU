@@ -1,28 +1,27 @@
 ---
-title: Kapcsolatfelvétel az értékesítési csapattal
+title: Kapcsolatfelvétel az értékesítési csoporttal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932075"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529020"
 ---
-# <a name="contact-the-sales-team"></a><span data-ttu-id="a68b4-102">Kapcsolatfelvétel az értékesítési csapattal</span><span class="sxs-lookup"><span data-stu-id="a68b4-102">Contact the Sales Team</span></span>
+# <a name="contact-the-sales-team"></a><span data-ttu-id="1e0a6-102">Kapcsolatfelvétel az értékesítési csoporttal</span><span class="sxs-lookup"><span data-stu-id="1e0a6-102">Contact the Sales Team</span></span>
 
-<span data-ttu-id="a68b4-103">A Microsoft Graph-összekötőkkel a szervezet indexelheti a külső felek adatait, hogy azok megjelenjenek a Microsoft Search találatai között.</span><span class="sxs-lookup"><span data-stu-id="a68b4-103">With Microsoft Graph connectors, your organization can index third-party data to appear in Microsoft Search results.</span></span>
+<span data-ttu-id="1e0a6-103">A Microsoft 365 értékesítési csoportjával több módon is kapcsolatba léphet.</span><span class="sxs-lookup"><span data-stu-id="1e0a6-103">There are a number of ways to contact the Microsoft 365 Sales Team.</span></span>
 
-- [<span data-ttu-id="a68b4-104">A Microsoft összekötői</span><span class="sxs-lookup"><span data-stu-id="a68b4-104">Connectors by Microsoft</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [<span data-ttu-id="a68b4-105">Partnereink csatlakozói</span><span class="sxs-lookup"><span data-stu-id="a68b4-105">Connectors by our Partners</span></span>](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-<span data-ttu-id="a68b4-106">További információt [a Microsoft Graph-összekötők áttekintése című témakörben talál.](https://docs.microsoft.com/microsoftsearch/connectors-overview)</span><span class="sxs-lookup"><span data-stu-id="a68b4-106">For more info, see [Overview of Microsoft Graph connectors](https://docs.microsoft.com/microsoftsearch/connectors-overview).</span></span>
+- <span data-ttu-id="1e0a6-104">A  [Kapcsolatfelvétel](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  űrlap használatával kapcsolatba léphet egy Microsoft 365 értékesítési szakértővel.</span><span class="sxs-lookup"><span data-stu-id="1e0a6-104">Use the  [Contact Us](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  form to have a Microsoft 365 sales expert contact you.</span></span>
+- <span data-ttu-id="1e0a6-105">A Nagyvállalati szerződés mennyiségi licencelési szakértővel való kapcsolatfelvételhez kezdje a  [Mennyiségi licencelési központ](https://go.microsoft.com/fwlink/p/?LinkId=329762) portálon.</span><span class="sxs-lookup"><span data-stu-id="1e0a6-105">To contact an Enterprise Agreement Volume Licensing expert, start with the  [Volume Licensing Service Center](https://go.microsoft.com/fwlink/p/?LinkId=329762) portal.</span></span>
