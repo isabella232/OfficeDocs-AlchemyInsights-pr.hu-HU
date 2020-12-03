@@ -1,8 +1,8 @@
 ---
 title: a POP-és az IMAP-kiszolgáló beállításainak megkeresése a 1800018
-ms.author: pdigia
-author: pebaum
-ms.date: 04/21/2020
+ms.author: v-smandalika
+author: v-smandalika
+ms.date: 12/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,15 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: be134f40a60859e74dd449553a6d3a9795be118a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c444ce7a77fa34ac678de40b36c1c7e27cd1b47
+ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730233"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49560478"
 ---
 # <a name="find-your-pop-or-imap-server-settings"></a>A POP-vagy az IMAP-kiszolgáló beállításainak megkeresése
 
 Ha nem tudja, milyen beállításokkal kell felvennie a POP-vagy IMAP-fiókját az Outlookba, az [Outlook pop-és IMAP-beállításai](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)között is megnézheti őket.
   
-> [!NOTE]
-> Tudta, hogy engedélyezheti [és beállíthatja a POP3-t Exchange 2016-kiszolgálón](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?
-  
+ 
