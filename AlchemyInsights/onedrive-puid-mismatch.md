@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754341"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569169"
 ---
-# <a name="onedrive-puid-mismatch"></a><span data-ttu-id="e7b45-102">A OneDrive PUID eltérése</span><span class="sxs-lookup"><span data-stu-id="e7b45-102">OneDrive PUID mismatch</span></span>
-<span data-ttu-id="e7b45-103">Úgy tűnik, hogy a OneDrive vállalati verzióban [PUID eltérést](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) tapasztal.</span><span class="sxs-lookup"><span data-stu-id="e7b45-103">It appears you are experiencing a [PUID mismatch](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) in OneDrive for Business.</span></span> <span data-ttu-id="e7b45-104">Kérjük, kövesse az alábbi lépéseket, hogy a lehető leghamarabb segítséget nyújtunk:</span><span class="sxs-lookup"><span data-stu-id="e7b45-104">Please follow the steps below so we may assist you as soon as possible:</span></span>
+# <a name="onedrive-puid-mismatch"></a><span data-ttu-id="4ea11-102">A OneDrive PUID eltérése</span><span class="sxs-lookup"><span data-stu-id="4ea11-102">OneDrive PUID mismatch</span></span>
 
-1. <span data-ttu-id="e7b45-105">Kattintson a **Kapcsolatfelvétel az ügyfélszolgálattal**elemre, majd az **új szolgáltatási kérelem**gombra.</span><span class="sxs-lookup"><span data-stu-id="e7b45-105">Click **Contact Support**, and then **New Service Request**.</span></span>
-2. <span data-ttu-id="e7b45-106">Hagyja meg a címet és a leírást, mint **PUID a OneDrive webhelyen való eltérést**.</span><span class="sxs-lookup"><span data-stu-id="e7b45-106">Leave the title and description as **PUID Mismatch on OneDrive Site**.</span></span>
-3. <span data-ttu-id="e7b45-107">Miután elküldte a jegyet, kérjük, frissítse a következő adatokkal:</span><span class="sxs-lookup"><span data-stu-id="e7b45-107">Once the ticket has been submitted, please update it with the following information:</span></span>
-    - <span data-ttu-id="e7b45-108">OneDrive webhely URL-címe.</span><span class="sxs-lookup"><span data-stu-id="e7b45-108">OneDrive site URL that is affected.</span></span>
-    - <span data-ttu-id="e7b45-109">Az érintett felhasználó egyszerű felhasználóneve (UPN).</span><span class="sxs-lookup"><span data-stu-id="e7b45-109">User principal name (UPN) of the affected user.</span></span>
+<span data-ttu-id="4ea11-103">Úgy tűnik, hogy a OneDrive vállalati verzióban nem [egyezik az azonosító](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) .</span><span class="sxs-lookup"><span data-stu-id="4ea11-103">It appears you are experiencing a [ID mismatch](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) in OneDrive for Business.</span></span> <span data-ttu-id="4ea11-104">Kérjük, kövesse az alábbi lépéseket, hogy a lehető leghamarabb segítséget nyújtunk:</span><span class="sxs-lookup"><span data-stu-id="4ea11-104">Please follow the steps below so we may assist you as soon as possible:</span></span>
 
-
-
+1. <span data-ttu-id="4ea11-105">Kattintson a  **Kapcsolatfelvétel az ügyfélszolgálattal** elemre, majd az  **új szolgáltatási kérelem** gombra.</span><span class="sxs-lookup"><span data-stu-id="4ea11-105">Click  **Contact Support**, and then  **New Service Request**.</span></span>
+2. <span data-ttu-id="4ea11-106">A cím és a Leírás elhagyása a  **OneDrive-webhely felhasználói azonosítójának eltérése**.</span><span class="sxs-lookup"><span data-stu-id="4ea11-106">Leave the title and description as  **OneDrive Site User ID Mismatch**.</span></span>
+3. <span data-ttu-id="4ea11-107">Miután elküldte a jegyet, kérjük, frissítse a következő adatokkal:</span><span class="sxs-lookup"><span data-stu-id="4ea11-107">Once the ticket has been submitted, please update it with the following information:</span></span>
+    - <span data-ttu-id="4ea11-108">OneDrive webhely URL-címe.</span><span class="sxs-lookup"><span data-stu-id="4ea11-108">OneDrive site URL that is affected.</span></span>
+    - <span data-ttu-id="4ea11-109">Az érintett felhasználó egyszerű felhasználóneve (UPN).</span><span class="sxs-lookup"><span data-stu-id="4ea11-109">User principal name (UPN) of the affected user.</span></span>
