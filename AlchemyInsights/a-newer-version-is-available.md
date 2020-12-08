@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: ce38d96381c5be7a10459313df18e586e5dd6267
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9e89f4c1548cb018cbb9c8f3063634ba35effa0
+ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663884"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49598986"
 ---
-# <a name="delete-the-office-document-cache"></a><span data-ttu-id="f77a9-102">Az Office dokumentum-gyorsítótárának törlése</span><span class="sxs-lookup"><span data-stu-id="f77a9-102">Delete the Office Document Cache</span></span>
+# <a name="delete-the-office-document-cache"></a><span data-ttu-id="000f1-102">Az Office dokumentum-gyorsítótárának törlése</span><span class="sxs-lookup"><span data-stu-id="000f1-102">Delete the Office Document Cache</span></span>
 
-<span data-ttu-id="f77a9-103">Ha egy Excel-üzenet jelenik meg, amelyen **a fájl újabb verziója érhető el**, az Office Document cache [törlése](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d)című témakör útmutatását követve törölje az Office dokumentum-gyorsítótárát.</span><span class="sxs-lookup"><span data-stu-id="f77a9-103">If you received an Excel prompt that **a newer version of the file is available**, try deleting the Office Document Cache by following the instructions in [Delete your Office Document Cache](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span></span> <span data-ttu-id="f77a9-104">Ezután próbálkozzon újra a fájl ismételt megnyitásával.</span><span class="sxs-lookup"><span data-stu-id="f77a9-104">Then try reopening the file.</span></span>
+<span data-ttu-id="000f1-103">Ha egy Excel-üzenet jelenik meg, amelyen **a fájl újabb verziója érhető el**, az Office Document cache [törlése](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d)című témakör útmutatását követve törölje az Office dokumentum-gyorsítótárát.</span><span class="sxs-lookup"><span data-stu-id="000f1-103">If you received an Excel prompt that **a newer version of the file is available**, try deleting the Office Document Cache by following the instructions in [Delete your Office Document Cache](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span></span> <span data-ttu-id="000f1-104">Ezután próbálkozzon újra a fájl ismételt megnyitásával.</span><span class="sxs-lookup"><span data-stu-id="000f1-104">Then try reopening the file.</span></span>
