@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605711"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653262"
 ---
 # <a name="onedrive-puid-mismatch"></a>A OneDrive PUID eltérése
 
@@ -26,6 +26,6 @@ ms.locfileid: "49605711"
 
 1. Kattintson a  **Kapcsolatfelvétel az ügyfélszolgálattal** elemre, majd az  **új szolgáltatási kérelem** gombra.
 2. A cím és a Leírás elhagyása a  **OneDrive-webhely felhasználói azonosítójának eltérése**.
-3. Miután elküldte a jegyet, kérjük, frissítse a következő adatokkal:
+3. Miután elküldte a jegyet, frissítse a következő adatokkal:
     - OneDrive webhely URL-címe.
     - Az érintett felhasználó egyszerű felhasználóneve (UPN).
