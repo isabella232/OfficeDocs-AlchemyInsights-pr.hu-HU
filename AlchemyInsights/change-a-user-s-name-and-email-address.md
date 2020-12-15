@@ -1,5 +1,5 @@
 ---
-title: Felhasználó nevének és e-mail-címének módosítása
+title: Név és e-mail-cím módosítása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756933"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683904"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Felhasználó nevének és e-mail-címének módosítása
+# <a name="change-a-name-and-email-address"></a>Név és e-mail-cím módosítása
 
 Egyszerű a felhasználó nevének és e-mail-címének módosítása a Microsoft 365-ban. Nyissa meg a **felhasználók** \> [aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapját, és jelölje ki a felhasználót az adatai szerkesztéséhez. Ebben a cikkben lépésenkénti útmutatást találhat:
   
