@@ -12,24 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 5940d1a96324c5ca77331485a115689abe547ef7
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982491"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724156"
 ---
 # <a name="comments-on-list-items"></a>Megjegyzések listaelemekhez
 
-A felhasználók hamarosan hozzáadhatnak és törölhetnek megjegyzéseket a listaelemekhez. A felhasználók megtekinthetik a listaelemek minden megjegyzését, és szűrhetik az egy elemhez kapcsolódó megjegyzéseket vagy tevékenységeket megjelenítő nézetek között.
-
-**Időzítés** :
-
-**Célzott kiadás** : fokozatos kilépés az októberi közép-és első lépésekkel – november közepéig
-
-**Szokásos kiadás** : fokozatos Kilépés a novemberi közép-és a decemberi első lépésekkel
-
-**Bevezetés** : célzott kiadás a teljes szervezet számára
+A felhasználók megtekinthetik a listaelemek minden megjegyzését, és szűrhetik az egy elemhez kapcsolódó megjegyzéseket vagy tevékenységeket megjelenítő nézetek között.
 
 A felhasználóknak a megjegyzések hozzáadásához és törléséhez a következőket kell megjegyezniük:
 
