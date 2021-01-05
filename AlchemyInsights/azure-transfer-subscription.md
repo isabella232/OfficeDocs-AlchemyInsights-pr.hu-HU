@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736880"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755549"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Azure-előfizetés számlázási tulajdonjogának átadása
 
 Jelentkezzen be a [Microsoft Azure Portalra](https://portal.azure.com/) az átvinni kívánt előfizetéssel rendelkező számlázási fiók rendszergazdájaként. Ha nem biztos abban, hogy Ön a rendszergazda, vagy meg szeretné állapítani, hogy ki az, olvassa el a [Fiók számlázási rendszergazdájának megállapítása](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa) című témakört.
 
-1. Keressen a _Költségkezelés + számlázás_ elemre.
+1. Keresse meg a _Költségkezelés + számlázás_ elemet.
 1. Válassza a bal oldali ablaktábla **Előfizetések** elemét. A hozzáféréstől függően előfordulhat, hogy ki kell választania egy számlázási hatókört, majd az **Előfizetések** vagy az **Azure-előfizetések** lehetőséget.
 1. Az átvinni kívánt előfizetésnél válassza ki a **Számlázási tulajdonjog átadása** lehetőséget.
 1. Írja be azon fiók számlázási rendszergazdájának az e-mail-címét, aki az átadni kívánt előfizetés új tulajdonosa lesz, majd válassza az **átadási kérelem küldése** lehetőséget.

@@ -1,5 +1,5 @@
 ---
-title: Rendszergazdák hozzáadása és kezelése – MCA FL/CL
+title: Rendszergazdák hozzáadása és kezelése
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692117"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755497"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Rendszergazdák hozzáadása és kezelése – MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Rendszergazdák hozzáadása és kezelése
+
+A probléma leírása alapján megtalálunk egy megoldást. A legtöbb ügyfél saját maga oldhatja fel a problémát a dokumentációt követően.
 
 A Microsoft Customer Agreement (MCA) számlázási fiókjának kezeléséhez eltérő szerepköröket használhat az Access kívánt szintjéhez. Ezek a szerepkörök az Azure rendszer beépített szerepköreit is magukban foglalják, amelyek segítik az erőforrások irányítását.
 

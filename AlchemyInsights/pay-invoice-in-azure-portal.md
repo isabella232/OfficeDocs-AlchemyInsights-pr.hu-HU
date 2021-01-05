@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714881"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755621"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Számlás fizetés az Azure Portalban – ajánlott lépések
+
+A probléma leírása alapján megtalálunk egy megoldást. A legtöbb ügyfél saját maga oldhatja fel a problémát a dokumentációt követően.
 
 A számlák fizetéséhez az Azure portálon a Számlázási fiók rendszergazdájának kell lennie. A Számlázási fiók rendszergazdája az a felhasználó, aki eredetileg regisztrált a Microsoft Customer Agreement-fiókjával. 
 
 A számla kifizetése az Azure portálon: 
 
 1. Bejelentkezés az [Azure portálra](https://portal.azure.com/)
-1. Keressen a **Cost Management + számlázás** lapon.
+1. Keressen a **Költségkezelés + számlázás** elemre.
 1. A bal oldali ablaktábla **számlázás** területén kattintson a **számlák** elemre.
 1. Ha bármelyik számlája esedékes vagy lejárt, megjelenik egy kék **fizetés most** hivatkozás az adott számlára. Kattintson a **fizetés most** gombra.
 1. Az új pengében kattintson a **fizetési mód kiválasztása** elemre, és válasszon ki egy meglévő hitelkártyát, vagy vegyen fel egy újat.

@@ -1,5 +1,5 @@
 ---
-title: Váltás a számlás fizetésre (check/Wire Transfer) – modern CL
+title: Váltás számlás fizetésre (ellenőrzés/átutalás)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706653"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755465"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Váltás a számlás fizetésre (check/Wire Transfer) – modern CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Váltás számlás fizetésre (ellenőrzés/átutalás)
+
+A probléma leírása alapján megtalálunk egy megoldást. A legtöbb ügyfél saját maga oldhatja fel a problémát a dokumentációt követően.
 
 Ha számlára vált, az azt jelenti, hogy a számlát a számla dátuma után 30 napon belül fizeti ki. Ha az Azure-előfizetéséhez számlával szeretne fizetni, nyújtson be egy kérést az Azure terméktámogatási szolgálatához. Miután jóváhagyta a kérését, átválthat egy előfizetést a számlás fizetésre az Azure portálon.
 

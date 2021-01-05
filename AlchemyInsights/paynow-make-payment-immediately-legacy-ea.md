@@ -1,5 +1,5 @@
 ---
-title: 'PayNow/fizessen azonnal: az örökölt EA'
+title: PayNow/fizetés azonnal
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 90d9341333d586d62a3932d4b8e6c7eaf277386b
-ms.sourcegitcommit: ae05e598333c08c0a73de254d3d97207c0b382e6
+ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49692161"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755693"
 ---
-# <a name="paynowmake-payment-immediately---legacy-ea"></a>PayNow/fizessen azonnal: az örökölt EA
+# <a name="paynowmake-payment-immediately"></a>PayNow/fizetés azonnal
+
+A probléma leírása alapján megtalálunk egy megoldást. A legtöbb ügyfél saját maga oldhatja fel a problémát a dokumentációt követően.
 
 Azure Enterprise Agreement-előfizetés esetén a fizetési mód hozzáadása/frissítése/módosítása nem támogatott. Ha egy meglévő számlán szeretné módosítani a címet, kérjük, forduljon a Microsoft képviselőjéhez.
 

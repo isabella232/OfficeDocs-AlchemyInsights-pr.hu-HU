@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 9132b5ed851ba06b90f22adc6f47583064e60e92
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714822"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755801"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>Azonnali fizetés ajánlott lépéseinek elvégzése
+
+A probléma leírása alapján megtalálunk egy megoldást. A legtöbb ügyfél saját maga oldhatja fel a problémát a dokumentációt követően.
 
 Azonnali fizetéshez győződjön meg arról, hogy a késedelmes egyenlegek feloldása szükséges. Ha nem érkezik meg a fizetés, vagy ha nem tudjuk feldolgozni a fizetést, akkor lehet, hogy egy e-mailt kap, vagy megtekintheti a késedelmes egyenlegről értesítő értesítést a fiók központjában vagy az Azure portálján. 
 
