@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731241"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768819"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>A BitLocker-titkosítás engedélyezése a Intune szolgáltatással
 
@@ -30,10 +30,12 @@ A BitLocker-problémák elhárításáról a [BitLocker-házirendek hibaelhárí
  
 **GYIK**
 
- K.: a Windows mely kiadásai támogatják az eszközök titkosítását a Endpoint Protection Policy?<br>
- A: az Intune végpontok védelmi házirendjének beállításai a [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)segítségével valósulnak meg. Nem minden Windows-kiadás vagy-Build támogatja a BitLocker CSP-t. <br><br>
-      Jelenleg a következő Windows-kiadások támogatottak: nagyvállalati, oktatási, mobil, mobil Enterprise és Professional (1809-es vagy újabb verzió).
- 
+K.: a Windows mely kiadásai támogatják az eszközök titkosítását a Endpoint Protection Policy?<br>
+A: az Intune végpontok védelmi házirendjének beállításai a [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)segítségével valósulnak meg. Nem minden Windows-kiadás vagy-Build támogatja a BitLocker CSP-t. <br><br>
+
+K.: Hogyan engedélyezhetők a BitLocker az eszközökön a végfelhasználói interakció megkövetelése nélkül?<br>
+A: a szükséges előfeltételek teljesülése esetén előfordulhat, hogy a BitLocker "Silent Encryption" funkcióját a Intune segítségével is engedélyezzük. Az eszközök követelményeiről és a példa házirend-beállításokról a csendes titkosítás engedélyezése a következő dokumentumokban című témakörben talál további információt: a [BitLocker-titkosítás](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)engedélyezése. <br><br>
+
 K: Ha egy eszköz már titkosított az operációs rendszer alapértelmezett titkosítási és titkosítási erősségi beállításaival (XTS-AES-128), az új beállításokkal automatikusan inicializálja a meghajtót az új beállításokkal.<br>
 V: Nem. Az új titkosítási beállítások alkalmazásához a meghajtót először vissza kell fejteni.<br><br>
 **Megjegyzés:** Az automatikus előfizetéssel regisztrált eszközök esetén az OOBE során az automatikus titkosítás nem indul el, amíg a Intune-házirend kiértékelése nem történik meg, amely lehetővé teszi, hogy az operációs rendszer alapértelmezett beállításainak helyén a házirend-alapú beállítások használhatók legyenek.
