@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768819"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778195"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>A BitLocker-titkosítás engedélyezése a Intune szolgáltatással
 
- A Intune végpont-védelmi házirend segítségével konfigurálhatók a Windows-eszközök BitLocker-titkosítási beállításai. További információt a [Windows 10 (vagy újabb verzió) beállításai](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)című témakörben talál a Intune segítségével.
- 
+A Intune végpont-védelmi házirend segítségével konfigurálhatók a Windows-eszközök BitLocker-titkosítási beállításai. További információt a [Windows 10 (vagy újabb verzió) beállításai](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)című témakörben talál a Intune segítségével.
+
+A végpontok védelmi házirendjén kívül egy titkosítási jelentés is szerepel, amely részletesebben ismerteti az eszközök titkosítási állapotát. Ezt a jelentést az **eszközök > monitor** TERÜLETének mem-portálján érheti el, majd a **konfiguráció** csoportban válassza a [titkosítási jelentés](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)lehetőséget.
+
+Ha úgy találja, hogy a BitLocker működését a várt módon kell engedélyezni, vagy hogy a BitLocker engedélyezéséhez használt profil hibás állapotban van, tanulmányozza át a titkosítási jelentést, hogy jobban megértse a működés előfordulását.
+
+Ha szeretné megtudni, hogyan értelmezheti a jelentést, például a különböző titkosítási állapotokat, olvassa el az [eszköz titkosítása a Intune segítségével](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)című témakört.
+
 Felhívjuk a figyelmét arra, hogy a Windows 10 rendszert futtató számos újabb eszköz támogatja az automatikus BitLocker-titkosítást, amelyet a MDM házirend alkalmazása nélkül indítanak el. Ez hatással lehet a házirend alkalmazására, ha a nem alapértelmezett beállítások vannak konfigurálva. További részleteket az alábbi gyakori kérdések című témakörben talál.
- 
+
 A BitLocker-problémák elhárításáról a [BitLocker-házirendek hibaelhárítása a Microsoft Intune-ban](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)című témakörben olvashat bővebben.
  
  
