@@ -1,0 +1,26 @@
+---
+title: Alkalmazás hozzáadása vagy létrehozása
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004332"
+- "7728"
+ms.openlocfilehash: 7296a0f170d56b705ccf3173ba0636cb1942924a
+ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.translationtype: MT
+ms.contentlocale: hu-HU
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49974599"
+---
+# <a name="adding-or-creating-an-application"></a>Alkalmazás hozzáadása vagy létrehozása
+
+- [Gyorsútmutató: Egy](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) alkalmazás hozzáadása az Azure Active Directory (Azure AD) bérlői webhelyéhez bemutatja, hogy miként adhat hozzá egy alkalmazást az Azure AD-bérlőhöz.
+- [Oktatóprogram: Helyszíni](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) alkalmazás hozzáadása távoli eléréshez alkalmazásproxyn keresztül az Azure Active Directoryban, amelyből megtudhatja, hogy miként készítheti elő a környezetét az alkalmazásproxyval való használatra. Ha a környezete elkészült, az Azure Portal használatával felvehet egy helyszíni alkalmazást az Azure AD-bérlőjébe.
+- Az alkalmazások Azure Active Directoryval való integrálása érdekében fejlesztettünk egy olyan oktatóanyag-gyűjteményt, amely végigsegíti [a](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) konfiguráción.
