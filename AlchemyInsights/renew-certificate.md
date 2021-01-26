@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7750"
 - "9004340"
-ms.openlocfilehash: a1a931df944ed83d538215ad7527bec9ef370469
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: a383124fb4e2a5cd4373be0731a233215bed3725
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: hu-HU
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974571"
+ms.locfileid: "49976815"
 ---
 # <a name="renew-certificate"></a>Tanúsítvány megújítása
 
-A hamarosan elévülni képes tanúsítványok megújítását az Összevont egyszeri bejelentkezés tanúsítványának kezelése az [Azure Active Directoryban.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire)
+A hamarosan lejáró tanúsítvány megújításához lásd: [Egyesített egyszeri bejelentkezés tanúsítványainak kezelése az Azure Active Directory-ban](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
 
-Ha további információra van szükség a jogkivonat-aláíró tanúsítványok kezeléséhez és az Azure AD-val való szinkronizálásukhoz, újítsa meg a [Microsoft 365](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs)és az Azure Active Directory összevonási tanúsítványait.
+A token-aláíró tanúsítványok kezeléséről és az Azure Active Directory-val való szinkronban tartásáról további információt a Microsoft 365 és az[ Azure Active Directory összevonási tanúsítványainak megújítása](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs) című témakörben talál.
 
