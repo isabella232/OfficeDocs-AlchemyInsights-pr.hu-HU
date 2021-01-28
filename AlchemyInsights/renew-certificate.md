@@ -22,7 +22,7 @@ ms.locfileid: "49976815"
 ---
 # <a name="renew-certificate"></a>Tanúsítvány megújítása
 
-A hamarosan lejáró tanúsítvány megújításához lásd: [Egyesített egyszeri bejelentkezés tanúsítványainak kezelése az Azure Active Directory-ban](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
+A hamarosan lejáró tanúsítvány megújításához lásd: [Összevont egyszeri bejelentkezés tanúsítványainak kezelése az Azure Active Directoryban](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
 
-A token-aláíró tanúsítványok kezeléséről és az Azure Active Directory-val való szinkronban tartásáról további információt a Microsoft 365 és az[ Azure Active Directory összevonási tanúsítványainak megújítása](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs) című témakörben talál.
+A jogkivonat-aláíró tanúsítványok kezeléséről és az Azure Active Directoryval való szinkronizálásukról további információt a [Microsoft 365 és az Azure Active Directory összevonási tanúsítványainak megújítása](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs) című témakörben talál.
 
