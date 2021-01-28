@@ -13,16 +13,16 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
+ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49847602"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50037187"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Postaláda e-mail-továbbítási beállításainak ellenőrzése
 
-Először is engedélyezni kell az e-mail-továbbítást a bérlői szinten. Ha beállította az e-mail-továbbítást egy postaládában, de nem működik, olvassa el az Automatikus külső e-mailek továbbításának szabályozása a [Microsoft 365-ben.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)
+Először is engedélyezni kell az e-mail-továbbítást a bérlői szinten. Ha beállította az e-mail-továbbítást egy postaládában, de nem működik (az **"550 5.7.520 Access denied, Your organization does not allow external forwarding"**(A külső e-mailek automatikus továbbításának szabályozása a Microsoft [365-ben)](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)hibaüzenet jelenik meg.
 
 Egyszerűen ellenőrizheti a postaláda e-mail-továbbítási beállításait. Csak kövesse az alábbi lépéseket.
   
