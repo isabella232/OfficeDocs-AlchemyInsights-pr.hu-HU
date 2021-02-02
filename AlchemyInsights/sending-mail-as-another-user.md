@@ -1,5 +1,5 @@
 ---
-title: E-mailek küldése másik felhasználóként
+title: E-mail küldése másik felhasználóként
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6439"
 - "3500009"
-ms.openlocfilehash: e2ce7065d857455b85fc2e4595d1f5c915ca85b2
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 8bc35426bd1b65ba40fb6dc124df2a5f8bfb6679
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "48194120"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075827"
 ---
-# <a name="sending-mail-as-another-user"></a>E-mailek küldése másik felhasználóként
+# <a name="sending-mail-as-another-user"></a>E-mail küldése másik felhasználóként
 
-Mielőtt a *Felhasználó1* a *User2*-ra küldi az e-maileket, a *Felhasználó1* -nek engedélyeket kell adni a *User2*postaládájához. Ebből a témakörből megtudhatja, hogy miként teheti ezt meg.
+Mielőtt *a Felhasználó1* képes lenne e-maileket küldeni *Felhasználó2-ként,* a *Felhasználó1* felhasználónak engedélyt kell adni a *User2* postaládájához. Ennek mikéntjére a következő cikkből megtudhatja, hogy hogyan adhat postaláda-engedélyeket egy másik felhasználónak)[ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
 
-Az engedélyek megadását követően (ez körülbelül 30 percet vehet igénybe)-a- *Felhasználó1* az e-mailek létrehozása vagy megválaszolása másik személy nevében című témakörben ismertetett lépéseket követve *User2* küldheti el.
+Az engedélyek elküldése után (ez körülbelül 30 percig is eltarthat) – A *Felhasználó1* felhasználó *2.* felhasználóként elküldheti az e-maileket a Létrehozás csoportban leírt lépésekkel, vagy válaszolhat egy e-mailre egy másik személy nevében.
