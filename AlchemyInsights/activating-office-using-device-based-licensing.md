@@ -1,5 +1,5 @@
 ---
-title: Az Office aktiválása eszközön keresztüli licenceléssel
+title: Az Office aktiválása eszközalapú licencelés használatával
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697883"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094039"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Az Office aktiválása eszközön keresztüli licenceléssel
+# <a name="activating-office-using-device-based-licensing"></a>Az Office aktiválása eszközalapú licencelés használatával
+
+A Nagyvállalati Microsoft 365-alkalmazások eszközalapú licenceltetése csak egyes kereskedelmi ügyfelek és néhány oktatási ügyfél számára érhető el licencként. Részletes információkért lásd: [Eszközalapú licencelés nagyvállalati Microsoft 365-alkalmazásokhoz](https://docs.microsoft.com/deployoffice/device-based-licensing)
+
+A Microsoft 365-alkalmazások aktiválása nagyvállalati használatra eszközalapú licencelés használatával:
+
+- [A nagyvállalati Microsoft 365-alkalmazások eszközalapú licencelési követelményei](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [A nagyvállalati Microsoft 365-alkalmazások eszközalapú licencelésének konfigurálása](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+Hibaelhárítási útmutatást a [Nagyvállalati Microsoft 365-alkalmazások eszközalapú](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise) licencelési hibáinak elhárítása
 
 > [!NOTE]
-> Az Office- [eszközön alapuló aktiválás](https://aka.ms/officedba) az amerikai oktatási ügyfelek számára mostantól elavult. Bátorítjuk a szervezeteket, hogy tervezzenek az új Microsoft 365-alkalmazások oktatási (eszköz-) licenccel az oktatási ügyfeleknek.
-
-Ha az Office-t eszközfüggetlen licenceléssel szeretné aktiválni, a Microsoft 365-alkalmazások oktatási (eszköz-) bővítményét kell használnia, amely csak oktatási ügyfeleknek érhető el, és csak az oktatási megoldások (EFS) számára érhető el. Lásd: a [Microsoft 365-alapú nagyvállalati verzióhoz tartozó eszközfüggetlen licencelési szabályok használati követelményei](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
-
-
-A beállításról a következő témakörben olvashat bővebben:
-
-- [A Microsoft 365-alkalmazások vállalati verziójának eszközönkénti licencelésének konfigurálásának lépései](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Eszközök licencének kezelése](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-Hibaelhárítási útmutatást a [Microsoft 365-alapú nagyvállalati verzióhoz tartozó eszközfüggetlen licencelés hibaelhárítása](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)című témakörben talál.
+> Ha a Microsoft 365-alkalmazások már telepítve vannak és aktiválva vannak felhasználói előfizetéses licenceléssel vagy megosztott számítógép aktiválásával, alaphelyzetbe kell állítania a licenc állapotát az eszközön, mielőtt az eszközalapú licencelésre átvált. Az aktiválási állapot visszaállításáról a Nagyvállalati aktiválási állapot alaphelyzetbe állítása a [Microsoft 365-alkalmazásokban](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
