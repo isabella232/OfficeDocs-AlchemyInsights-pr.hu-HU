@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560442"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093357"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Jelszóvisszaírás engedélyezése Azure AD Connect szolgáltatásban
 
@@ -43,4 +43,4 @@ Ha engedélyezve van a jelszóvisszaírás az Azure AD Connect eszközön, áll�
 További információért lásd: [Azure Active Directory önkiszolgáló jelszó-visszaállítási visszaírás engedélyezése egy helyszíni környezethez](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Amikor egy rendszergazda alaphelyzetbe állítja egy felhasználó jelszavát az Azure Portal webhelyen, ha az adott felhasználó összevont felhasználó vagy a jelszókivonatok szinkronizálva vannak, a rendszer a jelszót visszaírja a helyszíni környezetbe. Ez a funkció jelenleg nem támogatott az Office felügyeleti portálján.
+>  Amikor egy rendszergazda alaphelyzetbe állítja egy felhasználó jelszavát az Azure Portal webhelyen, ha az adott felhasználó összevont felhasználó vagy a jelszókivonatok szinkronizálva vannak, a rendszer a jelszót visszaírja a helyszíni környezetbe. Ehhez a funkcióhoz Azure Premium-licenc (P1 vagy P2) szükséges, és jelenleg nem támogatott az Office Felügyeleti portálon.
