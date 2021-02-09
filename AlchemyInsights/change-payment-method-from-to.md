@@ -1,30 +1,29 @@
 ---
 title: Fizetési mód módosítása
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933409"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152596"
 ---
 # <a name="change-payment-method-fromto"></a>Fizetési mód módosítása erről erre
 
 1. **Váltás számláról hitelkártyára vagy bankszámlára**       
 
-    - Amikor számlás fizetésről hitelkártyás vagy bankszámlás fizetésre vált, automatikusan egy új előfizetést hozunk létre Önnek, áthelyezzük a felhasználóit az új előfizetésbe, majd letiltjuk a régi előfizetését. Ne aggódjon, a felhasználók semmilyen fennakadást nem fognak tapasztalni a szolgáltatásban, és minden adatuk elérhető marad az új előfizetésen keresztül. 
-
-    - Kövesse a [Váltás számláról hitelkártyára vagy bankszámlára](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account)című témakörben ismertetett lépéseket.
+    - Nem lehet automatikusan váltani a számláról történő fizetésről a másik fizetési móddal történő fizetésre. Ehelyett másik előfizetést [kell vásárolnia](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) hitelkártyával vagy bankkártyával, át kell [helyeznie az összes felhasználót az új előfizetésbe](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription), és le kell [mondania a régi előfizetést](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Váltás hitelkártyáról vagy bankszámláról számlára**
 
@@ -32,6 +31,6 @@ ms.locfileid: "43933409"
 
     - Ha a megrendelés mennyisége túl nagy, akkor lehet, hogy hitelképesség-vizsgálatra van szükség. Ha így van, a "számlára nem lehet váltani" üzenet jelenik meg. A rendeléshez hitelképesség-vizsgálatra van szükség." Ebben az esetben manuálisan válthat a számlával történő fizetésre.
 
-    - A manuálisan történő váltáshoz kövesse a [Váltás hitelkártyáról vagy bankszámláról számlára](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice)című témakörben ismertetett lépéseket.
+    - A manuálisan történő váltáshoz kövesse a [Hogyan válthatok át hitelkártyás fizetésről számlára?](how-do-i-change-from-credit-card-payments-to-invoice.md)című témakörben ismertetett lépéseket.
 
-Erről további információt a [Fizetési mód megváltoztatása](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method) című témakörben talál.
+További információért olvassa el a [Hogyan kell fizetni az előfizetésért](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)részt.
