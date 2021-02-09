@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: 8fd1307c3c967f92a60d2c38dfe727f1341ee86f
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: b9724c3fef32701cc5b919a64f9d4b78ce7a15a5
+ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576181"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50165215"
 ---
 # <a name="sharepoint-online-backup-information"></a>SharePoint Online biztonságimásolat-adatai
 
-Amikor töröl egy elemet vagy webhelyet a SharePointból, az nem távolítja el azonnal. A törölt elemek a Lomtárba kerülnek egy bizonyos ideig. Ez alatt az idő alatt visszaállíthatja őket az eredeti helyükre.
+A SharePointtal és a OneDrive-val szembeni rugalmasságról további információt a következő webhelyen található:
 
-A SharePoint Online megőrzi a teljes tartalom biztonsági mentését a tényleges törlést követő további 14 napig. Ha a [Lomtárban](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) vagy a [fájlok visszaállításakor](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)nem lehet visszaállítani a tartalmat, a rendszergazda felhívhatja a Microsoft támogatási szolgálatát, hogy a 14 napos ablakon belül bármikor visszaállítsa a visszaállítást. A biztonsági másolatokból történő visszaállítások csak a webhelycsoportok és az alwebhelyek esetén hajthatók végre, meghatározott fájlok, listák vagy tárak esetén nem.
+- [SharePoint- és OneDrive-adatokkal szembeni rugalmasság a Microsoft 365-ben](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
+
+> [!NOTE]
+> A SharePoint Online megőrzi a teljes tartalom biztonsági mentését a tényleges törlést követő további 14 napig. Ha a tartalom nem [](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) állítható vissza a Lomtár vagy a Fájl-visszaállítás [segítségével,](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)a rendszergazda a Microsoft ügyfélszolgálatához forduljon, és bármikor kérhet visszaállítást a 14 napos ablakon belül. A biztonsági másolatokból történő visszaállítások csak a webhelycsoportok és az alwebhelyek esetén hajthatók végre, meghatározott fájlok, listák vagy tárak esetén nem.
