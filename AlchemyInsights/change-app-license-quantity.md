@@ -1,9 +1,8 @@
 ---
-title: Az App-licencek mennyiségének módosítása
+title: Alkalmazáslicenc mennyiségének módosítása
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,31 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 6c585e62a08a8784f379a9aa3801f49873b14982
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b4256c1bd466ced0ad8b9f1d8eb6ae160d9961b
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733941"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232261"
 ---
-# <a name="change-app-license-quantity"></a>Az App-licencek mennyiségének módosítása
+# <a name="change-app-license-quantity"></a>Alkalmazáslicenc mennyiségének módosítása
 
-A Microsoft 365 felügyeleti központban megtekintheti vagy módosíthatja a licencek számát, és hozzárendelheti őket a felhasználókhoz. 
+A Microsoft 365 Felügyeleti központban megtekintheti vagy módosíthatja a licencek számát, és hozzárendelheti őket a felhasználókhoz.
 
-## <a name="to-change-license-quantity"></a>A licenc mennyiségének módosítása
+## <a name="to-change-license-quantity"></a>Licencmennyiség módosítása
 
-1. Lépjen a termékek **számlázása**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, majd válassza az **alkalmazások** fület.
+**Ebből a videóból** a következőt mutatjuk be: [Új](https://go.microsoft.com/fwlink/p/?linkid=2154857) licencek vásárlása vagy [Meglévő licencek eltávolítása](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-2. Keresse meg és jelölje ki a kezelni kívánt alkalmazást.  
+1. Válassza a **Termékek**  >  **[számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. A Termékek **lap** Alkalmazások  szakaszában keresse meg a kezelni kívánt alkalmazást. Válassza **a További műveletek** (három pont), majd a **Licencek vásárlása lehetőséget.**
+3. Ha csökkenteni szeretné a licencek számát, válassza  a Licencek eltávolítása lehetőséget a Licencek vásárlása ablaktábla **tetején.**
+4. Licencek vásárlásához vagy  eltávolításához az  Új mennyiség mezőbe írja be az előfizetéshez kívánt licencek teljes számát. Ha például 100 licence van, és öt további licencet szeretne hozzáadni, írja be a 105-öt. Ha közülük ötet el szeretne távolítani, írja be a 95-öt.
+5. Válassza a **Mentés** elemet.
 
-3. Válassza a **licencek hozzáadása/eltávolítása**hivatkozást.
+## <a name="to-assign-app-licenses"></a>Alkalmazáslicencek hozzárendelése
 
-4. Adja meg a szükséges licencek új számát. Ha például jelenleg 5 licence van, és csak 4 szükséges, a **teljes licenc** mezőbe írja be a 4 értéket. Ha jelenleg 5 licence van, és 10 teljes licencre van szüksége, a **teljes licenc** mezőbe írja be a 10-es értéket.
-
-## <a name="to-assign-app-licenses"></a>Alkalmazás-licencek hozzárendelése
-
-1. Lépjen a termékek **számlázása**  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, majd válassza az **alkalmazások** fület.
-
-2. Keresse meg és jelölje ki a kezelni kívánt alkalmazást.  
-
-3. A **beállítások & műveletek**csoportban válassza a szerkesztésre szolgáló hivatkozást a **Publisher-portálon**.
+1. Válassza a **Termékek**  >  **[számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. A Termékek **lap** Alkalmazások  szakaszában keresse meg a kezelni kívánt alkalmazást.
+3. A **Beállítások & műveletek** csoportban válassza a Kezelés hivatkozásra a közzétevő **portálján.**

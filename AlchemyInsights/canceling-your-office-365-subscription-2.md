@@ -1,9 +1,8 @@
 ---
-title: Lemondja a Microsoft 365-előfizetését?
+title: Lemondja Microsoft 365-előfizetését?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 9ff327348002634bbef56ecce17c01caf58dd3f1
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416239"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232009"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Lemondja a Microsoft 365-előfizetését?
+# <a name="canceling-your-microsoft-365-subscription"></a>Lemondja Microsoft 365-előfizetését?
 
-Sajnáljuk, hogy elmész!
+Sajnáljuk, hogy el kell mennie!
   
-A szervezet adatainak alapján úgy véljük, hogy az összes előfizetése több mint 25 hozzárendelt licenccel rendelkezik. Licenceket távolíthat el a felhasználóktól, amíg 25 licenccel rendelkező felhasználóval rendelkezik. Ezután lépjen a termékek **számlázása** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra. A **Products (termékek** ) lapon keresse meg a lemondani kívánt előfizetést, válassza a **További műveletek** (három pont) lehetőséget, majd válassza az **előfizetés törlése**lehetőséget.
+A szervezeti adatok alapján úgy véljük, hogy az összes jelenlegi előfizetéséhez több mint 25 hozzárendelt licenc van. A lemondás előtt:
 
-**Visszatérítés:** A következő számlázási ciklusban bármely kiértékelt jóváírást visszakapja Önnek.
+1. Távolítsa el a licenceket a felhasználóktól, amíg kevesebb mint 25 licenccel rendelkező felhasználó nem lesz.
+2. Válassza a **Termékek** \> **[számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+3. A Termékek **lapon** keresse meg a lemondani kívánt előfizetést, válassza a További műveletek **(három** pont), majd az Előfizetés lemondása **lehetőséget.**
 
-További információt az [előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)című témakörben talál.
+**Visszatérítés:** A következő számlázási ciklusban térítünk vissza minden prodentált kreditet.
+
+További információért olvassa el [az Előfizetés lemondása lehetőséget.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

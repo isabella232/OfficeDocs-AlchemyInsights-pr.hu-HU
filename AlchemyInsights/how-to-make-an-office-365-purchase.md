@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365-vásárlás
+title: Microsoft 365 vásárlása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287140"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232369"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Microsoft 365-vásárlás
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Microsoft 365 vásárlása
 
-A felügyeleti központban vásárolhat Microsoft 365-előfizetést.
+Microsoft 365-előfizetést a Felügyeleti központban vásárolhat.
   
-- A csomag megvásárlásához lépjen a **számlázás** \> [vásárlása szolgáltatás](https://go.microsoft.com/fwlink/p/?linkid=868433) lapra.
-- Ha további licenceket szeretne vásárolni, lépjen a termékek **számlázása** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra. Jelölje ki a módosítani kívánt előfizetést, és válassza a **licencek vásárlása** vagy a **licencek eltávolítása**lehetőséget.
+- Csomag vásárlásához a Számlázási  szolgáltatások \> **[lapon](https://go.microsoft.com/fwlink/p/?linkid=868433)** vásárolhatja meg.
+- További licencek vásárlásához kattintson  a Termékek \> **[számlázása lapra.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Jelölje ki a módosítani kívánt előfizetést, majd válassza a **Licencek vásárlása** lehetőséget.\
+**Ebből a videóból** a következőt mutatjuk be: [Új licencek vásárlása](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-További információt a [licencek vásárlása a Microsoft 365 vállalati verziós előfizetéséhez](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)című témakörben talál.
+További információ: [Licencek vásárlása vagy eltávolítása.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Hibaelhárítás**
 
@@ -35,5 +35,5 @@ Ha problémákat tapasztal a lap betöltésekor, próbálkozzon a weblap megnyit
 
 **További források**
   
-- [Licencek hozzárendelése a felhasználókhoz a Microsoft 365 vállalati verzióban](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [A Microsoft 365 vállalati verzió lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Licencek hozzárendelése felhasználókhoz a Microsoft 365 Vállalati verzióban](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [A Microsoft 365 Vállalati verzió lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
