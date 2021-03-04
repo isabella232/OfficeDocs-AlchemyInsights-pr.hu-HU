@@ -1,0 +1,52 @@
+---
+title: Az SSPR hibaelhárítása
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 03/04/2021
+ms.topic: article
+ms.audience: Admin
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003259"
+- "6128"
+ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
+ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.translationtype: MT
+ms.contentlocale: hu-HU
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50429718"
+---
+# <a name="troubleshoot-sspr"></a><span data-ttu-id="36e3b-102">Az SSPR hibaelhárítása</span><span class="sxs-lookup"><span data-stu-id="36e3b-102">Troubleshoot SSPR</span></span>
+
+<span data-ttu-id="36e3b-103">**Problémáim vannak a jelszó-visszaállítás konfigurálásával**</span><span class="sxs-lookup"><span data-stu-id="36e3b-103">**I'm having trouble configuring password reset**</span></span>
+
+- <span data-ttu-id="36e3b-104">Ha Ön rendszergazda, és azt szeretné tudni, hogy miként engedélyezheti az önkiszolgáló jelszó-visszaállítást, az oktatóanyag engedélyezi az [SSPR-t,](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr)és konfigurálja a jelszó-visszaállítást a szervezetében.</span><span class="sxs-lookup"><span data-stu-id="36e3b-104">If you are administrator and looking for how to enable self-service password reset, see [Tutorial enable SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), to configure password reset for your organization.</span></span> <span data-ttu-id="36e3b-105">A licencelési követelményeket is [áttekintheti.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="36e3b-105">You may also want to review the [licensing requirements](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span> <span data-ttu-id="36e3b-106">Legalább egy licencnek hozzá kell rendelnie a szervezetéhez.</span><span class="sxs-lookup"><span data-stu-id="36e3b-106">You must have at least one license assigned in your organization.</span></span>
+    - <span data-ttu-id="36e3b-107">**Csak felhőbeli felhasználók** – Bármely Office 365 -ös (O365) fizetős termékváltozat vagy Azure AD Basic</span><span class="sxs-lookup"><span data-stu-id="36e3b-107">**Cloud only users** - Any Office 365 (O365) paid SKU, or Azure AD Basic</span></span>
+    - <span data-ttu-id="36e3b-108">**Felhőbeli és/vagy helyszíni** felhasználók – Azure AD Premium P1 vagy P2, Enterprise Mobility + Security (EMS) vagy Secure Productive Enterprise (SPE)</span><span class="sxs-lookup"><span data-stu-id="36e3b-108">**Cloud and/or on-premises users** - Azure AD Premium P1 or P2, Enterprise Mobility + Security (EMS), or Secure Productive Enterprise (SPE)</span></span>
+- <span data-ttu-id="36e3b-109">Az önkiszolgáló jelszó-visszaállítással kapcsolatos további kérdésekért tekintse át [a gyakori kérdéseket.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="36e3b-109">For additional questions about self-service password reset, review [our FAQ](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+
+<span data-ttu-id="36e3b-110">**Hibaüzenet jelenik meg**</span><span class="sxs-lookup"><span data-stu-id="36e3b-110">**I'm getting an error message**</span></span>
+
+<span data-ttu-id="36e3b-111">A gyakori hibák és megoldásuk megkeresése: Az [önkiszolgáló jelszó-visszaállítás hibaelhárítása](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="36e3b-111">Review this article to find common errors and their solutions: [Troubleshoot self-service password reset](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>
+
+<span data-ttu-id="36e3b-112">**Probléma van a jelszó-visszaállítási házirendmel**</span><span class="sxs-lookup"><span data-stu-id="36e3b-112">**I'm having a problem with my password reset policy**</span></span>
+
+- <span data-ttu-id="36e3b-113">Ha a jelszó-visszaállítási házirend nem a várt módon működik, vagy ha kérdése van a jelszó-visszaállítási házirendekkel kapcsolatban, olvassa el a következő cikket: Jelszóházirakok és -korlátozások az [Azure Active Directoryban.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="36e3b-113">If your password reset policy is not behaving as expected, or if you have questions about password reset policies, review this article: [Password policies and restrictions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+- <span data-ttu-id="36e3b-114">A jelszó-visszaállítási házirendek nem vonatkoznak a rendszergazdákra.</span><span class="sxs-lookup"><span data-stu-id="36e3b-114">Password reset policies do not apply to administrators.</span></span> <span data-ttu-id="36e3b-115">A Microsoft minden Azure-rendszergazdai szerepkörhöz erős alapértelmezett kétoldali jelszó-visszaállítási házirendet kényszerít.</span><span class="sxs-lookup"><span data-stu-id="36e3b-115">Microsoft enforces a strong default two-gate password reset policy for any Azure administrator role.</span></span> <span data-ttu-id="36e3b-116">Győződjön meg arról, hogy olyan felhasználóval tesztel, aki nem rendszergazda.</span><span class="sxs-lookup"><span data-stu-id="36e3b-116">Make sure that you are testing with a user who is not an administrator.</span></span> <span data-ttu-id="36e3b-117">A rendszergazdai alaphelyzetbe állítási házirendről további információt a következő cikkben talál: A rendszergazdák alaphelyzetbe [állítási házirendje közötti különbségek.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)</span><span class="sxs-lookup"><span data-stu-id="36e3b-117">For more information on the administrator reset policy, see this article: [Administrator reset policy differences](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).</span></span>
+
+<span data-ttu-id="36e3b-118">**Nem szeretném, ha a felhasználóim további biztonsági adatokat regisztrálnak a jelszó-visszaállításhoz**</span><span class="sxs-lookup"><span data-stu-id="36e3b-118">**I don't want my users to register additional security info for password reset**</span></span>
+
+<span data-ttu-id="36e3b-119">Api,PowerShell vagy Azure AD Connect használatával előre kitöltheti felhasználói adatait (e-mail- és telefonattribútumát).</span><span class="sxs-lookup"><span data-stu-id="36e3b-119">You can pre-populate data (email and phone attributes) for your users using an API, PowerShell, or Azure AD Connect.</span></span> <span data-ttu-id="36e3b-120">További információ az olvasásról:</span><span class="sxs-lookup"><span data-stu-id="36e3b-120">To learn how read:</span></span>
+
+- [<span data-ttu-id="36e3b-121">Jelszó-visszaállítás telepítése a felhasználók regisztrálásának előírása nélkül</span><span class="sxs-lookup"><span data-stu-id="36e3b-121">Deploying password reset without requiring users to register</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [<span data-ttu-id="36e3b-122">A jelszó-visszaállítás által használt adatok</span><span class="sxs-lookup"><span data-stu-id="36e3b-122">What data is used by password reset</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+
+<span data-ttu-id="36e3b-123">**Azt szeretném, hogy a felhasználók regisztrálják a további biztonsági adataikat a jelszó alaphelyzetbe állításához**</span><span class="sxs-lookup"><span data-stu-id="36e3b-123">**I want my users to register their additional security info for password reset**</span></span>
+
+1. <span data-ttu-id="36e3b-124">Állítsa be a felhasználóknak, hogy regisztrálják biztonsági adataikat önkiszolgáló [jelszó-visszaállításhoz,](https://mysignins.microsoft.com/security-info)és irányt állítsanak aka.ms/ssprsetup.</span><span class="sxs-lookup"><span data-stu-id="36e3b-124">Have your users register their security info for self service password reset by directing them to [aka.ms/ssprsetup](https://mysignins.microsoft.com/security-info).</span></span>
+1. <span data-ttu-id="36e3b-125">Miután a felhasználó (a felhasználó vagy a rendszergazda) feltölti [](https://passwordreset.microsoftonline.com/) az adatokat, iránya a aka.ms/sspr, hogy a felhasználók jogosultak legyen a saját jelszavuk alaphelyzetbe állítására.</span><span class="sxs-lookup"><span data-stu-id="36e3b-125">After data is populated for the user (by the user or by the admin), direct your user to [aka.ms/sspr](https://passwordreset.microsoftonline.com/) so your users can be empowered to reset their own passwords.</span></span>
+1. <span data-ttu-id="36e3b-126">Ha a felhasználók továbbra is problémákat tapasztalnak, valószínűleg összevont vagy jelszó-kivonatot szinkronizált **felhasználók.** </span><span class="sxs-lookup"><span data-stu-id="36e3b-126">If users are still experiencing problems they are most likely **federated** or **password hash synched** users.</span></span> <span data-ttu-id="36e3b-127">Ez azt jelenti, hogy valószínűleg probléma van a Jelszóvisszaírás szolgáltatással.</span><span class="sxs-lookup"><span data-stu-id="36e3b-127">This means there is likely a problem with the Password Writeback service.</span></span>
