@@ -1,5 +1,5 @@
 ---
-title: Speciális veszélyforrások elleni védelem – licencek kezelése
+title: Microsoft Defender az Office 365-hez – Licenckezelés
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,20 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+- commerce
+ms.openlocfilehash: 4dd438b964bfaf7f04c8b6fd87fe3ea3dafcd7d0
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287104"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469008"
 ---
-# <a name="advanced-threat-protection-license-management"></a>Speciális veszélyforrások elleni védelem – licencek kezelése
+# <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender az Office 365-hez – Licenckezelés
 
-Az Office 365 Advance Threat Protection (ATP) licenc-kezelése a  **Microsoft 365 felügyeleti központban**végezhető el.
+Az Office 365-hez szükséges Microsoft Defender licenckezelés a **Microsoft 365 Felügyeleti központban fejezheti be.**
 
-- Az Office 365 előzetes veszélyforrások elleni védelem megvásárlása:
-    1. Nyissa meg a **számlázás**  >  [vásárlása szolgáltatást](https://go.microsoft.com/fwlink/p/?linkid=868433).
-    2. A lap alján válassza a **bővítmények**lehetőséget.
-    3. A **szolgáltatások vásárlása** lapon válassza ki a megvásárolni kívánt speciális veszélyforrás védelmi csomagot, adja meg a licencre szoruló felhasználók számát, majd válassza a **kivétel most**elemet. További információt a [bővítmény vásárlása](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)című témakörben találhat.
-- Az Office 365 előzetes veszélyforrásokat érintő védelmi licencek hozzárendeléséhez nyissa meg a **Számlázási**  >  **licenceket**. További információt a [licencek hozzárendelése a felhasználókhoz](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)című témakörben talál.
-- Ha licenceket szeretne hozzáadni vagy eltávolítani az Office 365 előzetes veszélyforrásai elleni védelemben, tanulmányozza a termékek **számlázása**című részt  >  **Your products**. Jelölje ki a frissíteni kívánt előfizetést, és válassza a **licencek vásárlása** vagy a ***licencek eltávolítása**lehetőséget. További információt az [előfizetés-licencek vásárlása és eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)című témakörben talál.
+- A Microsoft Defender megvásárlása az Office 365-hez:
+    1. Ugrás **a számlázási**  >  [vásárlási szolgáltatásokra.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+    2. A lap alján válassza a **Bővítmények lehetőséget.**
+    3. A Szolgáltatások **vásárlása** lapon válassza ki a megvásárolni kívánt Office 365-ös Microsoft Defendert, írja be a licencet használó felhasználók számát, majd válassza a Megrendelés **most lehetőséget.** További információ: [Bővítmény vásárlása.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
+- Ha Microsoft Defendert szeretne hozzárendelni az Office 365-ös licencekhez, a Számlázási  >  **licencek csoportban adhatja meg.** További információt a [Licencek hozzárendelése felhasználókhoz.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Ha licenceket szeretne felvenni vagy eltávolítani a Microsoft Defender office 365-hez, akkor a **Termékek** számlázása  >  **gombra kell visszamenni.** Jelölje ki a frissíteni kívánt előfizetést, majd válassza a **Licencek** vásárlása vagy a **Licencek eltávolítása lehetőséget.** További információ: Előfizetési licencek [vásárlása vagy eltávolítása.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

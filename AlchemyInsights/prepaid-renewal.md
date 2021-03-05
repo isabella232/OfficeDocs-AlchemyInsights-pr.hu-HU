@@ -2,8 +2,7 @@
 title: Előre kifizetett megújítás
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,27 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "662"
 - "1500012"
-ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: fe0c8066e203e1b7395d69211f31916afc137c18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: dce0d832016913b057ef968926552a56419f4b62
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693989"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469736"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a>Előre kifizetett Microsoft 365 megújítása
+# <a name="prepaid-microsoft-365-renewal"></a>Előre fizetett Microsoft 365-megújítás
 
-1. A felügyeleti központban lépjen a termékek **számlázása** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra.
+1. A Felügyeleti központban válassza  a Termékek \> **[számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. A Termékek **lapon** válassza ki a meghosszabbítni kívánt előfizetést.
+3. Az előfizetés részleteit tartalmazó  lap Előfizetés és fizetési beállítások szakaszában válassza a Záró dátum **meghosszabbítása lehetőséget.**
+4. A megújítás **vagy a felhasználói** licencek hozzáadása lapon válassza az Új és **még** nem használt termékkulcs használata lehetőséget, majd a **Tovább gombot.**
+5. Írja be a termékkulcsot, majd válassza a **Tovább gombot.**
+    > [!NOTE]
+    > Ha több termékkulcsa is van, a További termékkulcs hozzáadása lehetőséget választva **megadhatja** őket.
+6. Tekintse át a rendelés részleteit, majd válassza a **Beváltás lehetőséget.**
 
-2. Keresse meg azt az előfizetést, amelyet meg szeretne hosszabbítani. A **számlázás** csoportban válassza a **Záró dátum meghosszabbítása**lehetőséget.
-
-3. Az **előfizetés meghosszabbítása** munkaablakban jelölje be az **új, nem használt termékkulcs használata**választógombot, majd válassza a **tovább**gombot.
-
-4. Adja meg a termékkulcsot, majd válassza a **tovább**gombot.
-
-> [!NOTE]
-> Ha több termékkulcs is van, az új termékkulcs beírásához válassza a további **termékkulcs hozzáadása** lehetőséget.
-
-5. Tekintse át a rendelés részleteit, és válassza a **beváltás**lehetőséget.
-
-További információt a [licencek hozzáadása vagy az előfizetés meghosszabbítása termékkulcs használatával](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)című témakörben talál.
+További információ: Licencek hozzáadása termékkulcs használatával kifizetett előfizetéshez vagy [meghosszabbítása.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

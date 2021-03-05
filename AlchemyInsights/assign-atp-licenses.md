@@ -1,8 +1,8 @@
 ---
-title: Speciális veszélyforrások elleni védelemre vonatkozó licencek hozzárendelése
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Microsoft Defender office 365-licencek hozzárendelése
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-ms.openlocfilehash: a877495be34c9403f63ebf96b0b83052f4c31491
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801185"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469592"
 ---
-# <a name="assign-advanced-threat-protection-licenses"></a>Speciális veszélyforrások elleni védelemre vonatkozó licencek hozzárendelése
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Microsoft Defender office 365-licencek hozzárendelése
 
-A Microsoft Defender for Office 365 a Microsoft 365 felügyeleti központban rendelhető hozzá a felhasználókhoz.
+Az Office 365-höz microsoft defendert a Microsoft 365 Felügyeleti központban lehet hozzárendelni a felhasználókhoz.
 
-1. Nyissa meg a **Számlázási**  >  [licenceket](https://go.microsoft.com/fwlink/p/?linkid=842264).
+1. Ugrás **a számlázási**  >  [licencekre.](https://go.microsoft.com/fwlink/p/?linkid=842264)
 2. Jelöljön ki egy terméket, amelynek a licenceit hozzá szeretné rendelni.
 3. Kattintson a **Licencek hozzárendelése** lehetőségre.
-4. A **licencek hozzárendelése a felhasználókhoz**  ablakban kezdje el beírni a felhasználó nevét, majd válassza ki a találatok közül. Egyidejűleg legfeljebb 20 felhasználót vehet fel.
-5. Kattintson az **alkalmazások és szolgáltatások be-és kikapcsolása**  elemre a hozzárendeléshez vagy az eltávolításhoz.
-6. Kattintson a **hozzárendelés** , majd a  **Bezárás** gombra.
+4. A **Licencek hozzárendelése**  felhasználókhoz ablaktáblában kezdje el beírni a felhasználó nevét, majd válassza ki a találatok közül. Egyidejűleg legfeljebb 20 felhasználót vehet fel.
+5. Az **alkalmazások és szolgáltatások be-**  és kikapcsolása a hozzárendeléshez vagy az eltávolításhoz.
+6. Kattintson **a Hozzárendelés,** majd a **Bezárás gombra.**
 
-További licencek vásárlásáról és licencek eltávolításáról az [Előfizetési licencek hozzáadása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) című témakörben olvashat.
+További licencek vásárlása vagy eltávolítása: Licencek [vásárlása vagy eltávolítása.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
