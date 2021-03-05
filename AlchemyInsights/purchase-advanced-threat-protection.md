@@ -1,8 +1,8 @@
 ---
-title: Microsoft Defender vásárlása az Office 365-hoz
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: A Microsoft Defender megvásárlása az Office 365-hez
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801149"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469808"
 ---
-# <a name="purchase-microsoft-defender-for-office-365"></a><span data-ttu-id="b8fad-102">Microsoft Defender vásárlása az Office 365-hoz</span><span class="sxs-lookup"><span data-stu-id="b8fad-102">Purchase Microsoft Defender for Office 365</span></span>
+# <a name="purchase-microsoft-defender-for-office-365"></a><span data-ttu-id="4836b-102">A Microsoft Defender megvásárlása az Office 365-hez</span><span class="sxs-lookup"><span data-stu-id="4836b-102">Purchase Microsoft Defender for Office 365</span></span>
 
-<span data-ttu-id="b8fad-103">A Microsoft Defender for Office 365 (ATP) bizonyos előfizetések, például a Microsoft 365 E5, az Office 365 E5, az Office 365 a5 és a Microsoft 365 Business prémium verzió részét képezi.</span><span class="sxs-lookup"><span data-stu-id="b8fad-103">Microsoft Defender for Office 365 (ATP) is included in certain subscriptions, such as Microsoft 365 E5, Office 365 E5, Office 365 A5, and Microsoft 365 Business Premium.</span></span> <span data-ttu-id="b8fad-104">Ha az előfizetése nem tartalmazza az Office 365 ATP-t, az ATP-terv 2-es verziójában vásárolhat [1 v](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) az előfizetéshez.</span><span class="sxs-lookup"><span data-stu-id="b8fad-104">If your subscription does not include Office 365 ATP, you can purchase [ATP Plan 1or ATP Plan 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) as an add-on to certain subscription.</span></span> <span data-ttu-id="b8fad-105">Vásárlás a Microsoft 365 felügyeleti központjában:</span><span class="sxs-lookup"><span data-stu-id="b8fad-105">To purchase in the Microsoft 365 admin center:</span></span>
+<span data-ttu-id="4836b-103">Az Office 365-hez szükséges Microsoft Defender bizonyos előfizetések része, például a Microsoft 365 E5, az Office 365 E5, az Office 365 A5 és a Microsoft 365 Vállalati prémium verzió.</span><span class="sxs-lookup"><span data-stu-id="4836b-103">Microsoft Defender for Office 365 is included in certain subscriptions, such as Microsoft 365 E5, Office 365 E5, Office 365 A5, and Microsoft 365 Business Premium.</span></span> <span data-ttu-id="4836b-104">Ha az előfizetése nem tartalmazza az Office 365-nek megfelelő Microsoft Defendert, megvásárolhatja a [Microsoft Defendert az Office 365-hez](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) bővítményként egy bizonyos előfizetéshez.</span><span class="sxs-lookup"><span data-stu-id="4836b-104">If your subscription does not include Microsoft Defender for Office 365, you can buy [Microsoft Defender for Office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) as an add-on to certain subscription.</span></span> <span data-ttu-id="4836b-105">Vásárlás a Microsoft 365 Felügyeleti központban:</span><span class="sxs-lookup"><span data-stu-id="4836b-105">To purchase in the Microsoft 365 admin center:</span></span>
 
-1. <span data-ttu-id="b8fad-106">Nyissa meg a **számlázás**   >   [vásárlása szolgáltatást](https://go.microsoft.com/fwlink/p/?linkid=868433).</span><span class="sxs-lookup"><span data-stu-id="b8fad-106">Go to  **Billing**  >  [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433).</span></span>
-2. <span data-ttu-id="b8fad-107">Válassza a **bővítmények**  lapot az **Önt érdeklő egyéb kategóriák közül.**</span><span class="sxs-lookup"><span data-stu-id="b8fad-107">Select **Add-ons**  page from **Other categories that might interest you.**</span></span>
-3. <span data-ttu-id="b8fad-108">Válassza ki a megvásárolni kívánt speciális veszélyforrás-védelmi csomagot.</span><span class="sxs-lookup"><span data-stu-id="b8fad-108">Select the Advanced Threat Protection plan you want to purchase.</span></span> <span data-ttu-id="b8fad-109">Itt kiválaszthat egy próbaverziót is.</span><span class="sxs-lookup"><span data-stu-id="b8fad-109">You may select a Trial plan there as well.</span></span>
-4. <span data-ttu-id="b8fad-110">Adja meg, hogy hány felhasználó fogja használni a speciális veszélyforrások elleni védelmet.</span><span class="sxs-lookup"><span data-stu-id="b8fad-110">Select the number of users who will use Advanced Threat Protection.</span></span>
+1. <span data-ttu-id="4836b-106">A Felügyeleti központban kattintson a Számlázási  >  [vásárlások szolgáltatások lapra.](https://go.microsoft.com/fwlink/p/?linkid=868433)</span><span class="sxs-lookup"><span data-stu-id="4836b-106">In the admin center, go to the **Billing** > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+2. <span data-ttu-id="4836b-107">A Szolgáltatások vásárlása lap alján,  a Bővítmények szakaszban keresse meg az Office 365-nek megfelelő Microsoft Defender bővítményt, és válassza a Részletek **lehetőséget.** </span><span class="sxs-lookup"><span data-stu-id="4836b-107">At the bottom of the **Purchase services** page, in the **Add-ons** section, find the Microsoft Defender for Office 365 add-on, and select **Details**.</span></span>
+3. <span data-ttu-id="4836b-108">A termék részletei lapon válassza a **Vásárlás lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="4836b-108">On the product details page, select **Buy**.</span></span>
+4. <span data-ttu-id="4836b-109">Szükség esetén töltse ki az esetleges egyéb rendelési adatokat.</span><span class="sxs-lookup"><span data-stu-id="4836b-109">If needed, complete any other order information.</span></span> <span data-ttu-id="4836b-110">Ezek közé az információk közé tartozhat annak az előfizetésnek a kiválasztása, amelyhez a bővítmény tartozik, és hogy hány felhasználó fogja használni azt.</span><span class="sxs-lookup"><span data-stu-id="4836b-110">This information might include selecting the subscription the add-on is for and the number of users who will use it.</span></span> <span data-ttu-id="4836b-111">Ha végzett, válassza a **Kijelentkezás most lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="4836b-111">When you’re finished, select **Check out now**.</span></span>
+5. <span data-ttu-id="4836b-112">Szükség esetén tekintse át a rendelés és az árak adatait, majd válassza a **Tovább gombot.**</span><span class="sxs-lookup"><span data-stu-id="4836b-112">If needed, review the order and pricing information, then select **Next**.</span></span>
+6. <span data-ttu-id="4836b-113">Válasszon ki egy fizetési módot, vagy vegyen fel egy újat, majd válassza a **Megrendelés** ugrás  >  **a Felügyeleti kezdőlapra lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="4836b-113">Choose a payment method, or add a new one, then select **Place order** > **Go to Admin Home**.</span></span>
 
-<span data-ttu-id="b8fad-111">Ha licenceket szeretne hozzárendelni a felhasználókhoz, olvassa el a [licencek hozzárendelése a felhasználóknak](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)című témakört.</span><span class="sxs-lookup"><span data-stu-id="b8fad-111">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
+<span data-ttu-id="4836b-114">A licencek felhasználókhoz való hozzárendelését lásd: [Licencek hozzárendelése felhasználókhoz.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="4836b-114">To assign licenses to users, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).</span></span>
 
-<span data-ttu-id="b8fad-112">További licencek vásárlásáról és licencek eltávolításáról az [Előfizetési licencek hozzáadása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) című témakörben olvashat.</span><span class="sxs-lookup"><span data-stu-id="b8fad-112">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
+<span data-ttu-id="4836b-115">További licencek vásárlása vagy eltávolítása: Licencek [vásárlása vagy eltávolítása.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)</span><span class="sxs-lookup"><span data-stu-id="4836b-115">To buy more or remove licenses, see [Buy or remove Licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).</span></span>
