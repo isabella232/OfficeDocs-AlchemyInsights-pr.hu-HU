@@ -1,27 +1,32 @@
 ---
-title: A Microsoft 365 csoportnak küldött üzeneteket nem minden tag küldi
+title: A Microsoft 365 csoportnak küldött üzenetet nem kapja meg az összes tag.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 2c98841aaa278c1bc18b3ec9007240b1e856f41e
-ms.sourcegitcommit: 743a9e4967993c5463272240280c22e27a8dc5b6
-ms.translationtype: MT
+ms.openlocfilehash: 39a4f8115a4742947b3e6394396be5ce3b01e772
+ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45051499"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50430685"
 ---
-# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>A Microsoft 365-csoportnak küldött üzeneteket nem minden tag fogad
+# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Egy Microsoft 365 csoportnak küldött üzenetet nem kap meg az összes tag.
 
-Győződjön meg arról, hogy a csoport minden tagja feliratkozott az e-mailek fogadására. Lásd: [Csoport követése az Outlookban](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).  
+Győződjön meg arról, hogy az összes tag feliratkozott a levelezési listára. Látogasson el ide: [Csoport követése az Outlookban](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).  
 
-A csoportos e-mailekre feliratkozó tagok üzenetállapotának ellenőrzéséhez futtassa a következő parancsot az [EXO PowerShell en:](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps)
+Azon tagok üzenetállapotát, akik feliratkoztak a csoporte-mailekre, a következő parancs futtatásával nézheti meg az[EXO PowerShellen](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):
 
 `Get-UnifiedGroup <GroupName> | Get-UnifiedGroupLinks -LinkType Subscribers`
+
+Használja a követező EXO PowerShell parancsot annak beállítása érdekében, hogy az összes tag lássa azokat az e-maileket a bejövő üzenetek mappában, amelyeket Microsoft 365 csoportnak küldenek:
+
+`$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
