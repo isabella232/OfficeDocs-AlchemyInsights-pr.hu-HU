@@ -1,10 +1,11 @@
 ---
 title: Vállalati verziós előfizetés – gyakori kérdések
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -19,23 +20,24 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
-ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
-ms.translationtype: MT
+- commerce
+ms.openlocfilehash: 80191be73c91faa9fe0fce12eed4c9a6f9ab8507
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45169710"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469052"
 ---
 # <a name="business-subscription-faq"></a>Vállalati verziós előfizetés – gyakori kérdések
 
 - A Microsoft 365 Vállalati verzióval kapcsolatos lehetőségek megtekintéséhez olvassa el a [Vállalati csomagok összehasonlítása](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2) című témakört. További információért hívja értékesítési munkatársainkat az 1-855-270-0615 számon.
-- Egy csomag **megvásárlásához** lépjen a **Számlázás > [Szolgáltatások vásárlása](https://go.microsoft.com/fwlink/p/?linkid=868433)** lapra. Válassza ki a kívánt csomagot és a felhasználók számát. További információért tekintse meg az [Előfizetés vásárlása](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide) lapot.
-- Ha **másik csomagra szeretne váltani**, olvassa el a [Manuális váltás a Microsoft 365 vállalati csomagjai között](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide) című témakört.
-- A **licencek felhasználókhoz való hozzárendeléséhez** lépjen a **Számlázás> [Licencek](https://go.microsoft.com/fwlink/p/?linkid=842264)** lapra. További információért tekintse meg a [Licencek hozzárendelése](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide) lapot.
-- **Licencek hozzáadásához vagy eltávolításához** lépjen a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, és válassza a **Licencek hozzáadása vagy eltávolítása** lehetőséget. További információért tekintse meg a [Licencek hozzáadása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) lapot.
-- Licencek **lemondásához** lépjen a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, válassza a **Beállítások és műveletek** lehetőséget, majd kattintson az **Előfizetés lemondása** elemre. További információért tekintse meg [Az előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) lapot.
+- Egy csomag **megvásárlásához** lépjen a **Számlázás > [Szolgáltatások vásárlása](https://go.microsoft.com/fwlink/p/?linkid=868433)** lapra. Válassza ki a kívánt csomagot és a felhasználók számát. További információért lásd: [Egy másik előfizetési verzió megvásárlása](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- A **csomagváltáshoz** lásd: [Módosítás másik csomagra](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- A **licencek felhasználókhoz való hozzárendeléséhez** lépjen a **Számlázás> [Licencek](https://go.microsoft.com/fwlink/p/?linkid=842264)** lapra. További információkért tekintse meg a [Licencek hozzárendelése](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) lapot.
+- Ha licenceket szeretne **vásárolni vagy eltávolítani**, válassza a **Számlázás > [Saját termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** lehetőséget. További információkért tekintse meg a[Licencek vásárlása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) lapot.
+- Egy előfizetés **lemondásához** válassza a **Számlázás > [Saját termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** lehetőséget, jelölje ki az előfizetést, majd az **Előfizetési és fizetési beállítások** szakaszban válassza **Előfizetés lemondása** lehetőséget. További információért tekintse meg [Az előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) lapot.
 - Az előfizetés **aktiválásáról** [Az előfizetés aktiválása](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription) című témakörben olvashat.
-- Lejárt előfizetés **újraaktiválásáról** [Az előfizetés újraaktiválása](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription) című témakörben olvashat.
-- A **próbaidőszak meghosszabbításáról** [A próbaidőszak meghosszabbítása](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business) című témakörben olvashat.
+- Az előfizetés **újraaktiválásáról** [Az előfizetés újraaktiválása](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription) című cikkben olvashat.
+- A **próbaidőszak meghosszabbításáról** [A próbaidőszak meghosszabbítása](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial) című témakörben olvashat.
 
-További információ: [Előfizetési licencek kezelése](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+További információkért tekintse meg a[Licencek vásárlása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) lapot.
