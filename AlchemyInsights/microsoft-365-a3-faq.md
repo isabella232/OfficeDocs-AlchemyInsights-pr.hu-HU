@@ -1,33 +1,35 @@
 ---
-title: Microsoft 365 A3 – gyakori kérdések
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Microsoft 365 A3 csomag – GYIK
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002871"
 - "5417"
-ms.openlocfilehash: 30dca17df71b2237a1ed1546a4cc2f9cbd3b5f20
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+- commerce
+ms.openlocfilehash: 57e897ffc00393df5997bfda526c7c4e2284c3da
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510358"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469962"
 ---
-# <a name="microsoft-365-a3-faq"></a>Microsoft 365 A3 – gyakori kérdések
+# <a name="microsoft-365-a3-faq"></a>Microsoft 365 A3 csomag – GYIK
 
 - Az A1, A3 és A5 Microsoft 365 Oktatási csomagok összehasonlításához tekintse át a [diákoknak](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1), valamint a [tanároknak, oktatóknak és dolgozóknak](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr2) szánt csomagokat.
-- Az A3 **megvásárlásához** nyissa meg **a Számlázás > a Szolgáltatások [szolgáltatás.](https://go.microsoft.com/fwlink/p/?linkid=868433)** A Keresőmező segítségével keressen az "A3" területen; válassza ki a tervet és a felhasználók számát. További információért tekintse meg az [Előfizetés vásárlása](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription) lapot.
-- Ha **másik csomagra szeretne váltani**, olvassa el a [Manuális váltás a Microsoft 365 vállalati csomagjai között](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide) című témakört.
-- A felhasználók A3-licencek **hozzárendeléséhez** nyissa meg **a Számlázás > a [licencek lehetőséget.](https://go.microsoft.com/fwlink/p/?linkid=842264)** További információért tekintse meg a [Licencek hozzárendelése](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide) lapot.
-- A3-as licencek **hozzáadásához/eltávolításához** nyissa meg **a Számlázás > termékek & szolgáltatások [című](https://go.microsoft.com/fwlink/p/?linkid=842054) ** területet, és kattintson **a Licencek hozzáadása/eltávolítása**elemre. További információkért tekintse meg a[Licencek hozzáadása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription) lapot. 
-- Az A3-as licencek **lemondásához** nyissa meg **a Számlázás > termékek & [szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lehetőséget, kattintson **a Beállítások & műveletek**elemre, majd az Előfizetés **lemondása parancsra.** További információért tekintse meg [Az előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) lapot.
-- Az A3-as előfizetés **aktiválásához** [olvassa el Az előfizetés aktiválása](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)című témakört.
-- Az A3-as előfizetés **újraaktiválásához** olvassa el [az Előfizetés újraaktiválása című témakört.](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)
-- Az A3-as próbaverzió meghosszabbításáról a [Próbaidőszak kiterjesztése](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Az A3 **megvásárlásához** lépjen a **Számlázás > [Szolgáltatások vásárlása](https://go.microsoft.com/fwlink/p/?linkid=868433)** lapra. A keresőmezőben keressen az „A3“ kifejezésre, majd válassza ki a csomagot és a felhasználók számát. [Másik előfizetés vásárlása](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- A **csomagváltáshoz** lásd: [Módosítás másik csomagra](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Az **A3-licencek felhasználókhoz való hozzárendeléséhez** lépjen a **Számlázás> [Licencek](https://go.microsoft.com/fwlink/p/?linkid=842264)** lapra. További információkért tekintse meg a [Licencek hozzárendelése](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) lapot.
+- Ha A3-licenceket szeretne **vásárolni vagy eltávolítani**, válassza a **Számlázás > [Saját termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** lehetőséget. További információkért tekintse meg a[Licencek vásárlása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) lapot.
+- Egy A3-előfizetés **lemondásához** válassza a **Számlázás > [Saját termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** lehetőséget, jelölje ki az előfizetést, majd az **Előfizetési és fizetési beállítások** szakaszban válassza **Előfizetés lemondása** lehetőséget. További információért tekintse meg [Az előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) lapot.
+- Az A3-előfizetés **aktiválásáról** [Az előfizetés aktiválása](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription) című cikkben olvashat.
+- Lejárt A3-előfizetés **újraaktiválásáról** [Az előfizetés újraaktiválása](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription) című témakörben olvashat.
+- Az **A3-próbaidőszak** meghosszabbításáról [A próbaidőszak meghosszabbítása](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial) című cikkben olvashat.
 
-További információ: [Előfizetési licencek kezelése](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+További információkért tekintse meg a[Licencek vásárlása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) lapot.

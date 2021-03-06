@@ -1,32 +1,34 @@
 ---
 title: A Visio-licencek kezelése
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "5116"
-ms.openlocfilehash: b5f403c04be0750a8c4598119a8d87b6782ed5d6
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+- commerce
+ms.openlocfilehash: 66232f742aaad0c119b413a1bd9697fed64dead8
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947937"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468836"
 ---
 # <a name="visio-license-management"></a>A Visio-licencek kezelése
 
-A Visio-licencek kezelése a **Microsoft 365 felügyeleti központban** végezhető el.
+A Visio-licencek kezelése a **Microsoft 365 Felügyeleti központban** végezhető el.
 
-- Ha **másik csomagra szeretne váltani**, olvassa el a [Manuális váltás a Microsoft 365 vállalati csomagjai között](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide) című cikket.
-- A Visio **megvásárlásához** lépjen a **Számlázás > [Szolgáltatások vásárlása](https://go.microsoft.com/fwlink/p/?linkid=868433)** lapra. A keresőmezőben keressen a „Visio“ névre, majd válassza ki a csomagot és a felhasználók számát. További információ: [Előfizetés vásárlása](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- A **Visio-licencek hozzárendeléséhez** lépjen a **Számlázás> [Licencek](https://go.microsoft.com/fwlink/p/?linkid=842264)** lapra. További információ: [Licencek hozzárendelése](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- A **Visio-licencek** hozzáadásához vagy eltávolításához nyissa meg a **Számlázás > [Szolgáltatások vásárlása](https://go.microsoft.com/fwlink/p/?linkid=868433)** lapot. További információ: [Licencek hozzáadása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Visio-licencek **lemondásához** lépjen a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra, válassza a **Beállítások és műveletek** lehetőséget, majd kattintson az **Előfizetés lemondása** elemre. További információ: [Az előfizetés lemondása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
-- A Visio 1. csomag és a Visio 2. csomag közötti különbségekről [A Visio beállításainak összehasonlítása](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options) című cikkben talál további információt.
+- A Visio 1. csomag és a Visio 2. csomag közötti különbségekről [A Visio beállításainak összehasonlítása](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options?rtc=1) című cikkben talál további információt.
+- A **csomagváltáshoz** lásd: [Módosítás másik csomagra](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- A Visio **megvásárlásához** lépjen a **Számlázás > [Szolgáltatások vásárlása](https://go.microsoft.com/fwlink/p/?linkid=868433)** lapra. A keresőmezőben keressen a „Visio“ névre, majd válassza ki a csomagot és a felhasználók számát. További információért lásd: [Egy másik előfizetési verzió megvásárlása](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- A **Visio-licencek hozzárendeléséhez** lépjen a **Számlázás> [Licencek](https://go.microsoft.com/fwlink/p/?linkid=842264)** lapra. További információkért tekintse meg a [Licencek hozzárendelése](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) lapot.
+- Ha Visio-licenceket szeretne **vásárolni vagy eltávolítani**, válassza a **Számlázás > [Saját termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** lehetőséget. További információkért tekintse meg a[Licencek vásárlása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) lapot.
+- A Visio-előfizetés **lemondása** érdekében, látogasson el a **Számlázás > [Előfizetései](https://go.microsoft.com/fwlink/p/?linkid=842054)** oldalra, válassza ki a Visio-előfizetést, és a **Előfizetési és fizetési beállítások** szakaszban, válassza az **Előfizetés lemondása** lapot. További információért tekintse meg [Az előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) lapot.
 
-További információ: [Előfizetési licencek kezelése](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+További információkért tekintse meg a[Licencek vásárlása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) lapot.

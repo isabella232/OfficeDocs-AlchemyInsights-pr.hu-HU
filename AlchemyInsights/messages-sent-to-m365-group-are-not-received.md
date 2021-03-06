@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003200"
 - "5995"
-ms.openlocfilehash: 39a4f8115a4742947b3e6394396be5ce3b01e772
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
+ms.openlocfilehash: 080c060f5675065704c7209bd15e4cbb1236b8db
+ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430685"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50480685"
 ---
-# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Egy Microsoft 365 csoportnak küldött üzenetet nem kap meg az összes tag.
+# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a>Az egyik Microsoft 365 csoportnak küldött üzeneteket nem az összes tag kapta meg.
 
 Győződjön meg arról, hogy az összes tag feliratkozott a levelezési listára. Látogasson el ide: [Csoport követése az Outlookban](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).  
 
@@ -27,6 +27,10 @@ Azon tagok üzenetállapotát, akik feliratkoztak a csoporte-mailekre, a követk
 
 `Get-UnifiedGroup <GroupName> | Get-UnifiedGroupLinks -LinkType Subscribers`
 
-Használja a követező EXO PowerShell parancsot annak beállítása érdekében, hogy az összes tag lássa azokat az e-maileket a bejövő üzenetek mappában, amelyeket Microsoft 365 csoportnak küldenek:
+Használja a követező EXO PowerShell parancsot annak beállítása érdekében, hogy az összes tag megkapja azokat az e-maileket, amelyeket Microsoft 365 csoportnak küldenek:
 
 `$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
+
+Például:
+
+`$Group = "testg@contoso.onmicrosoft.com"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
