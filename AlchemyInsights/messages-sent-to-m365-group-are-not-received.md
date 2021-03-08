@@ -19,18 +19,18 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 03/05/2021
 ms.locfileid: "50480685"
 ---
-# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a><span data-ttu-id="88fb5-102">Az egyik Microsoft 365 csoportnak küldött üzeneteket nem az összes tag kapta meg.</span><span class="sxs-lookup"><span data-stu-id="88fb5-102">Messages sent to a Microsoft 365 group are not received by all members</span></span>
+# <a name="messages-sent-to-a-microsoft-365-group-are-not-received-by-all-members"></a><span data-ttu-id="146f9-102">Az egyik Microsoft 365 csoportnak küldött üzeneteket nem az összes tag kapta meg.</span><span class="sxs-lookup"><span data-stu-id="146f9-102">Messages sent to a Microsoft 365 group are not received by all members</span></span>
 
-<span data-ttu-id="88fb5-103">Győződjön meg arról, hogy az összes tag feliratkozott a levelezési listára.</span><span class="sxs-lookup"><span data-stu-id="88fb5-103">Ensure that all group members have subscribed to receive the emails.</span></span> <span data-ttu-id="88fb5-104">Látogasson el ide: [Csoport követése az Outlookban](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span><span class="sxs-lookup"><span data-stu-id="88fb5-104">See [Follow a group in Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span></span>  
+<span data-ttu-id="146f9-103">Győződjön meg arról, hogy az összes csoporttag feliratkozott az e-mailek fogadására.</span><span class="sxs-lookup"><span data-stu-id="146f9-103">Ensure that all group members have subscribed to receive the emails.</span></span> <span data-ttu-id="146f9-104">Lásd a [csoportok követését az Outlookban](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span><span class="sxs-lookup"><span data-stu-id="146f9-104">See [Follow a group in Outlook](https://support.microsoft.com/office/e147fc19-f548-4cd2-834f-80c6235b7c36).</span></span>  
 
-<span data-ttu-id="88fb5-105">Azon tagok üzenetállapotát, akik feliratkoztak a csoporte-mailekre, a következő parancs futtatásával nézheti meg az[EXO PowerShellen](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span><span class="sxs-lookup"><span data-stu-id="88fb5-105">To check the message status of members who have subscribed to group emails, run the following command on [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span></span>
+<span data-ttu-id="146f9-105">Azon tagok üzenetállapotát, akik feliratkoztak a csoporte-mailekre, a következő parancs futtatásával nézheti meg az[EXO PowerShellen](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span><span class="sxs-lookup"><span data-stu-id="146f9-105">To check the message status of members who have subscribed to group emails, run the following command on [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true):</span></span>
 
 `Get-UnifiedGroup <GroupName> | Get-UnifiedGroupLinks -LinkType Subscribers`
 
-<span data-ttu-id="88fb5-106">Használja a követező EXO PowerShell parancsot annak beállítása érdekében, hogy az összes tag megkapja azokat az e-maileket, amelyeket Microsoft 365 csoportnak küldenek:</span><span class="sxs-lookup"><span data-stu-id="88fb5-106">Use the following EXO PowerShell command to configure all group members to receive emails sent to Microsoft 365 group in their inbox:</span></span>
+<span data-ttu-id="146f9-106">Használja a következő EXO PowerShell-parancsot annak beállítása érdekében, hogy az összes tag megkapja azokat az e-maileket, amelyeket Microsoft 365 csoportnak küldenek:</span><span class="sxs-lookup"><span data-stu-id="146f9-106">Use the following EXO PowerShell command to configure all group members to receive emails sent to Microsoft 365 group in their inbox:</span></span>
 
 `$Group = "Address of [Microsoft 365 Groups]"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
 
-<span data-ttu-id="88fb5-107">Például:</span><span class="sxs-lookup"><span data-stu-id="88fb5-107">For example:</span></span>
+<span data-ttu-id="146f9-107">Például:</span><span class="sxs-lookup"><span data-stu-id="146f9-107">For example:</span></span>
 
 `$Group = "testg@contoso.onmicrosoft.com"Get-UnifiedGroupLinks $Group -LinkType Member | % {Add-UnifiedGroupLinks -Identity $Group -LinkType subscriber -Links $_.Guid.toString() -Confirm:$false}`
