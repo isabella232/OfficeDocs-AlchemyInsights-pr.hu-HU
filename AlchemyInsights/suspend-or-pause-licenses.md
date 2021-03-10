@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-- commerce
-ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 03cee51b8f4c86e36004a91d25c8ad7798383ef5
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50470008"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50600988"
 ---
 # <a name="suspend-or-pause-licenses"></a>Licencek felfüggesztése vagy felfüggesztése
 
@@ -32,4 +31,4 @@ Ha átmenetileg felfüggeszti vagy szünetelteti a licenchasználatot, eltávol�
 4. Az előfizetés részletei lapon válassza a **Licencek eltávolítása lehetőséget.**
 5. A **Licencek eltávolítása ablaktábla** Összes licenc mezője mezőbe írja be az előfizetéshez kívánt licencek teljes számát, majd válassza a **Mentés gombot.**  Ha például 100 licence van, és fel szeretné függeszteni vagy szüneteltetni 25-öt, akkor az előfizetés összes licenceként adja meg a 75-öt.
 
-További információ: [Licencek vásárlása vagy eltávolítása.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+További információkért tekintse meg a[Licencek vásárlása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) lapot.
