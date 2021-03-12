@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003853"
 - "6903"
-ms.openlocfilehash: 634b2f3cabe4a802db740ecf7fc265cb42a88e61
-ms.sourcegitcommit: 2ff035d33e3277a268a5d88f1209dca77a87d689
+ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678657"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708532"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a><span data-ttu-id="eec06-102">A Microsoft Edge futtatása kioszk módban</span><span class="sxs-lookup"><span data-stu-id="eec06-102">Run Microsoft Edge in kiosk mode</span></span>
+# <a name="run-microsoft-edge-in-kiosk-mode"></a><span data-ttu-id="f24d5-102">A Microsoft Edge futtatása kioszk módban</span><span class="sxs-lookup"><span data-stu-id="f24d5-102">Run Microsoft Edge in kiosk mode</span></span>
 
-<span data-ttu-id="eec06-103">A 77-es és újabb verzióiban, valamint a Microsoft Edge korábbi 45-es és korábbi verzióiban is konfigurálhatja a kioszk üzemmódot.</span><span class="sxs-lookup"><span data-stu-id="eec06-103">You can configure kiosk mode in Microsoft Edge versions 77 and later, as well as in Microsoft Edge Legacy versions 45 and earlier.</span></span>
+<span data-ttu-id="f24d5-103">A kioszk mód a Microsoft Edge 77-es és újabb verzióiban, valamint a Microsoft Edge régi, 45-ös és korábbi verzióiban konfigurálható.</span><span class="sxs-lookup"><span data-stu-id="f24d5-103">You can configure kiosk mode in Microsoft Edge versions 77 and later, as well as in Microsoft Edge Legacy versions 45 and earlier.</span></span>
 
-<span data-ttu-id="eec06-104">Beállíthatja, hogy a Windows 10 rendszerű eszközök [egy vagy több alkalmazásból álló kioszk módban fussanak](https://go.microsoft.com/fwlink/?linkid=2133659).</span><span class="sxs-lookup"><span data-stu-id="eec06-104">You can configure devices that run on Windows 10 to [run in single-app or multi-app kiosk mode](https://go.microsoft.com/fwlink/?linkid=2133659).</span></span>
+<span data-ttu-id="f24d5-104">Konfigurálhatja a Windows 10-ben futó eszközöket úgy, hogy egyetlen app vagy több alkalmazásból álló kioszk módban [futtassanak.](https://go.microsoft.com/fwlink/?linkid=2133659)</span><span class="sxs-lookup"><span data-stu-id="f24d5-104">You can configure devices that run on Windows 10 to [run in single-app or multi-app kiosk mode](https://go.microsoft.com/fwlink/?linkid=2133659).</span></span>
 
-<span data-ttu-id="eec06-105">Ha többet szeretne tudni a kioszk üzemmód beállításáról a Microsoft Edge STABLE csatorna legújabb verziójában és a Microsoft Edge Legacy szolgáltatásban, olvassa el az alábbiakat:</span><span class="sxs-lookup"><span data-stu-id="eec06-105">For more information on setting up kiosk mode in the latest version of the Microsoft Edge Stable channel and in Microsoft Edge Legacy, see:</span></span>
+<span data-ttu-id="f24d5-105">További információ a kioszk mód beállításával kapcsolatban a Microsoft Edge Stabil csatorna legújabb verziójában és a Microsoft Edge Régi verzióban:</span><span class="sxs-lookup"><span data-stu-id="f24d5-105">For more information on setting up kiosk mode in the latest version of the Microsoft Edge Stable channel and in Microsoft Edge Legacy, see:</span></span>
 
-- [<span data-ttu-id="eec06-106">Microsoft Edge a hozzárendelt hozzáféréssel</span><span class="sxs-lookup"><span data-stu-id="eec06-106">Microsoft Edge with assigned access</span></span>](https://go.microsoft.com/fwlink/?linkid=2133494)
-- [<span data-ttu-id="eec06-107">Microsoft Edge "– kioszk" parancssori paraméter</span><span class="sxs-lookup"><span data-stu-id="eec06-107">Microsoft Edge “--kiosk” command line parameter</span></span>](https://go.microsoft.com/fwlink/?linkid=2133724)
-- [<span data-ttu-id="eec06-108">Microsoft Edge régi kioszk üzemmód támogatása</span><span class="sxs-lookup"><span data-stu-id="eec06-108">Support for Microsoft Edge Legacy kiosk mode</span></span>](https://go.microsoft.com/fwlink/?linkid=2133725)
+- [<span data-ttu-id="f24d5-106">Microsoft Edge hozzárendelt hozzáféréssel</span><span class="sxs-lookup"><span data-stu-id="f24d5-106">Microsoft Edge with assigned access</span></span>](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [<span data-ttu-id="f24d5-107">Microsoft Edge "--kioszk" parancssori paraméter</span><span class="sxs-lookup"><span data-stu-id="f24d5-107">Microsoft Edge “--kiosk” command line parameter</span></span>](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [<span data-ttu-id="f24d5-108">A Microsoft Edge régi kioszk mód támogatása</span><span class="sxs-lookup"><span data-stu-id="f24d5-108">Support for Microsoft Edge Legacy kiosk mode</span></span>](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)

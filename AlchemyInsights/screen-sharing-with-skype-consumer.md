@@ -1,5 +1,5 @@
 ---
-title: Képernyő megosztása a Skype fogyasztóival
+title: Képernyőmegosztás a Skype Fogyasztói verzióval
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000009"
 - "1433"
-ms.openlocfilehash: 6c89ea3d599fe9944352d9d65ea172658460efeb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ebe07d46aa5c5d63bba0403bf05cf57e613bcd0f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774353"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709396"
 ---
-# <a name="screen-sharing-with-skype-consumer-users"></a><span data-ttu-id="a5879-102">Képernyő megosztása a Skype fogyasztói felhasználóival</span><span class="sxs-lookup"><span data-stu-id="a5879-102">Screen sharing with Skype consumer users</span></span>
+# <a name="screen-sharing-with-skype-consumer-users"></a><span data-ttu-id="c874f-102">Képernyőmegosztás a Skype felhasználóival</span><span class="sxs-lookup"><span data-stu-id="c874f-102">Screen sharing with Skype consumer users</span></span>
 
-<span data-ttu-id="a5879-103">Ha általános útmutatást szeretne kapni a program megosztásáról, a megosztással kapcsolatos korlátozásokról és az erőforrások hibaelhárításáról, tekintse át a [képernyő megosztása a Skype vállalati](https://support.office.com/article/Share-your-screen-in-Skype-for-Business-2d436dc9-d092-4ef1-83f1-dd9f7a7cd3fc)verzióban című témakört.</span><span class="sxs-lookup"><span data-stu-id="a5879-103">For general instructions on how to share your program, to learn about restrictions with sharing, and for troubleshooting resources, review [Share your screen in Skype for Business](https://support.office.com/article/Share-your-screen-in-Skype-for-Business-2d436dc9-d092-4ef1-83f1-dd9f7a7cd3fc).</span></span>  
+<span data-ttu-id="c874f-103">Ha általános útmutatásra van szükség a program megosztásához, a megosztással kapcsolatos korlátozásokról és a hibaelhárítási forrásokról, olvassa el a Képernyő megosztása a Skype Vállalati verzióban című [témakört.](https://support.microsoft.com/office/share-and-present-content-from-skype-meetings-app-skype-for-business-web-app-234b0c06-a88d-4707-904c-4fd6c571fc01)</span><span class="sxs-lookup"><span data-stu-id="c874f-103">For general instructions on how to share your program, to learn about restrictions with sharing, and for troubleshooting resources, review [Share your screen in Skype for Business](https://support.microsoft.com/office/share-and-present-content-from-skype-meetings-app-skype-for-business-web-app-234b0c06-a88d-4707-904c-4fd6c571fc01).</span></span>  
 
-<span data-ttu-id="a5879-104">A Skype vállalati verzióban jelenleg a Skype vállalati verzióban a felhasználók nem tudnak megosztani a képernyőre.</span><span class="sxs-lookup"><span data-stu-id="a5879-104">Currently, Skype for Business users are unable to screen share with Skype consumer users.</span></span> <span data-ttu-id="a5879-105">Kérjük, [kattintson ide](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) , ha visszajelzést szeretne küldeni a felhasználó Skype-felhasználókkal való megosztásának engedélyezéséről.</span><span class="sxs-lookup"><span data-stu-id="a5879-105">Please [click here](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) to provide feedback regarding enabling screen sharing with consumer Skype users.</span></span> 
+<span data-ttu-id="c874f-104">A Skype Vállalati verzió felhasználói jelenleg nem tudnak képernyő-megosztást megosztani a Skype fogyasztói felhasználóival.</span><span class="sxs-lookup"><span data-stu-id="c874f-104">Currently, Skype for Business users are unable to screen share with Skype consumer users.</span></span> <span data-ttu-id="c874f-105">Ide [kattintva visszajelzést küldhet](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) arról, hogy engedélyezi-e a képernyőmegosztást a fogyasztói Skype-felhasználókkal.</span><span class="sxs-lookup"><span data-stu-id="c874f-105">Please [click here](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) to provide feedback regarding enabling screen sharing with consumer Skype users.</span></span> 
