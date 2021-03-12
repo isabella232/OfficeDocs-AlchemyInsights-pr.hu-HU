@@ -1,0 +1,35 @@
+---
+title: Ez a webhely nem érhető el – hiba a SharePoint-webhely böngészőből vagy Teamsből való elérésekor
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 03/11/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9005378"
+- "9266"
+ms.openlocfilehash: 451544fb85522e0eececc9274825805699685ee9
+ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.translationtype: MT
+ms.contentlocale: hu-HU
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50744980"
+---
+# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>"Ez a webhely nem érhető el" hibaüzenet jelenik meg, amikor megpróbál hozzáférni a SharePoint-webhelyhez a böngészőből vagy a Teamsből
+
+Amikor a felhasználók böngészőből vagy Teamsből próbálnak hozzáférni a SharePoint-webhelyhez, a "Nem érhető el a webhely" hibaüzenet jelenhet meg. 
+
+A probléma megoldása: 
+
+1. Ellenőrizze, hogy a kezdőlap a Lomtárban vagy a másodszakaszban lévő lomtárban van-e, és állítsa vissza a lapot.
+
+**Példa a lomtár közvetlen URL-címére:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
+
+1. Ha a kezdőlapot véglegesen eltávolítja a lomtárból, hozzon létre egy új webhelyet a Webhelylapok tárból, és tegye kezdőlapként. 
+
+**Közvetlen URL-minta:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx

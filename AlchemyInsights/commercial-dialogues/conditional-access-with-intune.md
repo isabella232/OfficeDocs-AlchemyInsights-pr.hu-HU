@@ -1,0 +1,30 @@
+---
+title: A feltételes hozzáférés használata az Intune-nal
+ms.author: v-jmathew
+author: v-jmathew
+manager: dansimp
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "6700002"
+- "7680"
+ms.openlocfilehash: 6e86c6b4c9c6adcbeac504acd5a10f2139d04237
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.translationtype: MT
+ms.contentlocale: hu-HU
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50746029"
+---
+# <a name="using-conditional-access-with-intune"></a>A feltételes hozzáférés használata az Intune-nal
+
+A feltételes hozzáférés Intune-nal való használata 3 lépést igényel:
+
+- [Hozzon létre egy megfelelőségi szabályzatot, amely meghatározza azokat a beállításokat, amelyeknek meg kell felelnie ahhoz, hogy az eszköz megfelelőnek minősül. Egy eszköznek például legalább 6 számjegyű PIN-kódot kell kitűznie, mielőtt megfelelőnek minősül.](https://docs.microsoft.com/mem/intune/protect/create-compliance-policy)
+- [Hozzon létre egy feltételes hozzáférési házirendet, amely meghatározza a védett erőforrásokat és az erőforrások eléréséhez szükséges feltételeket. Egy eszköznek például kompatibilisnek kell lennie a vállalati e-mailek elérése előtt.](https://docs.microsoft.com/mem/intune/protect/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)
+- [Győződjön meg arról, hogy a megfelelőségi szabályzatok és a feltételes hozzáférési szabályzatok a kívánt felhasználócsoportokra vannak megcélzottak. Ehhez szükség lehet arra, hogy felhasználócsoportokat hozzon létre az Azure Active Directoryban.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
+
+[További tudnivalók...](https://docs.microsoft.com/mem/intune/protect/device-compliance-get-started)
