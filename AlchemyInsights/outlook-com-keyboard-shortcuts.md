@@ -1,5 +1,5 @@
 ---
-title: a 8000087 Outlook.com billentyűparancsai
+title: 8000087 Outlook.com billentyűparancsok
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000087
-ms.openlocfilehash: e530473935f5faa1c657201196117edbfbeaae7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b40efccdb0c38c3b24919c36983d71814a4be7c4
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802383"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708460"
 ---
-# <a name="keyboard-shortcuts-in-outlookcom"></a>Billentyűparancsok a Outlook.com-ban
+# <a name="keyboard-shortcuts-in-outlookcom"></a>A Outlook.com
 
-A Outlook.com-ban ugyanazok a billentyűparancsok használhatók, mint a Gmail, a Yahoo mail vagy a Outlook.com által használt e-mail-szolgáltatás.
+A Outlook.com billentyűparancsokat használhatja, mint a használt levelezőszolgáltatás, például a Gmail, a Yahoo Mail vagy a Outlook.com.
 
-Nyissa meg a [kisegítő lehetőségeket](https://go.microsoft.com/fwlink/?linkid=2080840) (<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />**Beállítások** 
- > **Az Outlook összes beállításának megtekintése**  >  **General (általános**  >  ) **Kisegítő lehetőségek**) lehetőséget, és adja meg, hogy mely billentyűparancsokat szeretné használni.
+Ugrás az [Akadálymentesség beállításai](https://go.microsoft.com/fwlink/?linkid=2080840) **lapra** 
+ > **Az Összes Outlook-beállítás megtekintése**  >  **Általános**  >  **Akadálymentesség**) lehetőséget, és válassza ki, hogy milyen billentyűparancsokat szeretne használni.
 
-A billentyűparancsok teljes listáját a [Outlook.com](https://support.office.com/article/708d907e-4398-4fc6-9a9a-4fc72bccec16?wt.mc_id=Office_Outlook_com_Alchemy)billentyűparancsai című témakörben találja.
+A billentyűparancsok teljes listáját a billentyűparancsokról [Outlook.com.](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)

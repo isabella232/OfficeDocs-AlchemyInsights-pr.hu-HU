@@ -1,5 +1,5 @@
 ---
-title: A peres vagy a helyszíni mentességgel kapcsolatos információk
+title: Jogi vagy hely-, illetve jogi úton való felfüggesztésre vonatkozó információk
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3c0681b8e031f1a060a5c400f9c10760f33749e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755457"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709324"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>A jogviták és a helyi verzió közötti mentesség
+# <a name="about-litigation-holds-and-in-place-holds"></a>A jogi felfüggesztések és a hely-visszatartások
 
-- Ha a pert vagy a helyszíni mentességet egy postaládára szeretné alkalmazni, az [Exchange Online-csomag 2 licencre](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) van szükség. Ha más csomaggal rendelkezik, rendeljen külön [Exchange Online-archiválási](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) licencet a fiókhoz. 
+- Egy postaláda jogi vagy helybeli tartás alkalmazásához [Exchange Online 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) csomagra érvényes licenc szükséges. Ha más csomagja van, rendeljen hozzá egy külön [Exchange Online archiválási](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) licencet a fiókhoz. 
     
-- Ha a pert egyetlen felhasználónál **szeretné engedélyezni** , kövesse az [itt](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)ismertetett lépéseket. Ha a pert-mentesség engedélyezve van, a postaláda minden tartalma visszatartásra kerül.
+- **Ha egy felhasználóra vonatkozóan szeretné** engedélyezni a peres eljárás miatti miatti hátreléket, kövesse az itt ismertetett [lépéseket.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) Ha engedélyezve van a jogi tartás, a postaláda minden tartalma fel lesz függve.
     
-- Ha a **helyszíni mentességet egyetlen felhasználónál** szeretné alkalmazni, vagy a **teljes szervezet minden postaládáját**alkalmazni szeretné, a Microsoft 365 biztonsági és megfelelőségi központjának adatmegőrzési házirendjét az [itt]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies)ismertetett lépésekkel hozhatja létre.
+- Ha egy **adott** felhasználónál helymegtartást vagy a teljes szervezet összes postaládáját meg kell **tartania,** az adatmegőrzési házirendeket a Microsoft 365 Biztonsági és megfelelőségi központban használhatja az itt ismertetett lépéseket [követve.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
-    > A szervezeti szintű adatmegőrzési házirendek esetében az új felhasználók automatikusan megjelennek a mentességben. 
+    > Szervezeti szintű adatmegőrzési házirendek esetén az új felhasználók automatikusan felkerülnek a visszatartásba. 
   
-- Ha meg szeretné tekinteni vagy le szeretné deríteni a felfüggesztett postaláda tartalmát, használja a **EDiscovery keresést és az exportálást**. A **eDiscovery-keresés és-exportálás**használatáról az [itt](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)ismertetett lépéseket követve tájékozódhat.
+- A visszatartott postaládatartalmak megtekintéséhez vagy felfedezéséhez használja az Elektronikus adatok keresése és **exportálása gombra.** Az Elektronikus adatok keresése és exportálása funkcióról az itt ismertetett lépéseket [követve kereshet.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

@@ -1,5 +1,5 @@
 ---
-title: Az Android-eszközök Microsoft Intune-ban való igénylésével kapcsolatos problémák elhárítása
+title: Az Android-eszközök Microsoft Intune-ban való regisztrálásával kapcsolatos hibák elhárítása
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,35 +13,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689956"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709000"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Az Android-eszközök Microsoft Intune-ban való igénylésével kapcsolatos problémák elhárítása
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Az Android-eszközök Microsoft Intune-ban való regisztrálásával kapcsolatos hibák elhárítása
 
 A probléma megoldásához tekintse át az alábbi forrásokat.
   
 Néhány gyakori probléma és megoldási lépés:
   
- **A vállalati portál eszköz nem titkosított hibája:** Az Android újabb verzióihoz, különösen a v 7.0-s verziójához, indítási hitelesítő kód szükséges ahhoz, hogy az eszköz teljes mértékben titkosítva legyen. A gyakori megoldásokkal engedélyezheti az indítási PIN-kódot, vagy teljes mértékben titkosíthatja az eszközt. További információt a [dokumentum](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) véleményezése című témakörben olvashat.
+ **Az eszköz nincs titkosítva hiba a céges portálon:** Az Android újabb verzióinak , különösen a 7.0-s verziótól kezdve, indítási pin-kódra van szükségük ahhoz, hogy az eszköz teljesen titkosított legyen. Gyakori megoldás az indítási pin-kód engedélyezése vagy az eszköz teljes titkosítása. További [információért tekintse](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) át ezt a dokumentumot.
   
- **Az Intune felügyeleti konzoljában az eszközök nem jelennek meg a Intune szolgáltatással, vagy a "nem egészséges" megjelenítéssel:** Előfordulhat, hogy egyes Samsung 4,4-és 5,5-eszközök nem kerülnek be a szolgáltatásba. Ebből a problémából 3 lehetséges megoldás áll rendelkezésre:
+ Az eszközök nem jelennek meg az Intune szolgáltatásban, vagy hibásan jelennek meg az **Intune felügyeleti konzolján:** Egyes Samsung 4.4-es és 5.5-ös eszközök nem biztos, hogy bevetik a szolgáltatást. A problémának három lehetséges megoldása van:
   
-1. Nyissa meg manuálisan az Intune vállalati portál alkalmazást, amely automatikusan elindítja az eszköz szinkronizálását.
+1. Nyissa meg manuálisan az Intune Vállalati portál alkalmazást, amely automatikusan elindítja az eszközszinkronizálást.
 
-2. Frissítse az eszközt Android 6,0-es vagy újabb verzióra.
+2. Frissítse az eszközt Android 6.0-s vagy újabb verzióra.
 
-3. Tiltsa le a Samsung Smart Managert az Intune vállalati portál kezelésének letiltásával. Tekintse át a következő témakört, és olvassa el a fenti problémákat és állásfoglalásokat ismertető [dokumentumot](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) .
+3. Tiltsa le a Samsung Smart Manager számára az Intune vállalati portál felügyeletét. A [problémaokkal](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) és megoldásokkal kapcsolatos további részletekért tekintse át ezt a dokumentumot.
 
- A **felhasználói licenc típusa érvénytelen** vagy a **Felhasználónév nem ismerhető fel hiba:** a felhasználónak Intune vagy EMS licenccel kell rendelkeznie. Ezekkel a dokumentumokkal az Office felügyeleti központból vagy az Azure portálról rendelhet licencet:
+ **Érvénytelen felhasználói licenctípus** vagy nem felismerhető felhasználónév **hiba:** A felhasználónak Intune- vagy EMS-licenccel kell rendelkezik. Tekintse át ezeket a dokumentumokat, és rendeljen licencet a következőn keresztül: Office Felügyeleti központ vagy Azure Portal.
   
 További források a probléma megoldásához:
   
-1. Az [Intune hibaelhárítási portálján](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) megkeresheti és megoldhatja a gyakori beiktatási hibákat. További részletekért tekintse át [ezt a dokumentumot](https://docs.microsoft.com/intune/help-desk-operators) .
+1. Az [Intune hibaelhárítási portálján](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnosztizálhatja és megoldhatja a gyakori regisztrációs hibákat. További [részletekért tekintse](https://docs.microsoft.com/intune/help-desk-operators) át ezt a dokumentumot.
 
-2. Tekintse át [ezt a dokumentumot](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) azoknak a gyakori hibáknak a listáját, amelyekkel megelőzheti a beiratkozási és a felbontást.
+2. Ebben [a dokumentumban](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) áttekintheti azokat a gyakori hibákat, amelyek meggátolják a regisztrációt és az egyes problémák megoldását.
 
-3. [Megtudhatja, hogy miként regisztrálhat Android-eszközöket a Microsoft Intune-ban](https://docs.microsoft.com/intune/android-enroll).
+3. [Megtudhatja, hogy miként regisztrálható Android-eszközök a Microsoft Intune-ban.](https://docs.microsoft.com/intune/android-enroll)

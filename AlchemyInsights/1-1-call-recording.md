@@ -1,5 +1,5 @@
 ---
-title: 1:1 hívás felvétele
+title: 1:1-es hívásrögzítés
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: cab6f1cb79c88ca4fad53dcc8970ca37b507eae3
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721939"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50733851"
 ---
-# <a name="11-call-recording"></a>1:1 hívás felvétele
+# <a name="11-call-recording"></a>1:1-es hívásrögzítés
 
-a 1:1 hívás rögzítési házirend-módosítása a Teams-ban hamarosan elérhetővé válik. További információt az üzenetközpont következő bejegyzése című témakörben talál:
+A rendszergazdáknak azonnal el kell fogadnia a szükséges lépéseket ahhoz, hogy a felhasználók folytathatják az 1:1-es hívások rögzítését.
+ 
+2021. április 12-től kezdve bevezetjük az *AllowCloudRecordingForCalls* új Teams-hívási házirend-beállítását. 
 
-[1:1 hívás rögzítési házirend – bevezetés](https://admin.microsoft.com/AdminPortal/Home)
+A hívásrögzítési funkciókat jelenleg a Teams-értekezleti házirendek *AllowCloudRecording* beállításával lehet vezérelni. Ha a felhasználóknak engedélyezett a Teams-értekezletek rögzítésére, az egy:1-es hívásokat is rögzíthetnek.
+
+Ha minden felhasználót le szeretne tiltani az 1:1-es hívások rögzítésében, nem kell semmilyen műveletet megtennie. *Az AllowCloudRecordingForCalls* hívásházirend beállítása alapértelmezés szerint $False engedélyezett.
+
+Ez a változás az Üzenetközpont következő bejegyzésében található: [(Frissítve) 1:1-es hívásrögzítési](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) házirend – Bevezetés A Teams hívási házirend beállításának beállítását a [Teams PowerShell használatával](https://docs.microsoft.com/microsoftteams/teams-powershell-install)kell beállítani.
+
+**A hívásrögzítés engedélyezése 1:1-es hívásokban:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+
+**A hívásrögzítés 1:1-es** hívásokban való letiltásához: Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+
