@@ -11,32 +11,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: fc560686ec5c6a3d42a97687fda80ae5001b5c60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c7ce48f50b5c933ea15c23a486b99ad7a7f4d79
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797550"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707524"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>Törölt fájl vagy mappa visszaállítása
 
-A SharePoint Online megőrzi a teljes tartalom biztonsági mentését a tényleges törlést követő további 14 napig. Ha a Lomtárban vagy a fájlok visszaállításakor nem lehet visszaállítani a tartalmat, a rendszergazda felhívhatja a Microsoft támogatási szolgálatát, hogy a 14 napos ablakon belül bármikor vissza lehessen állítani a visszaállítást. A biztonsági másolatokból történő visszaállítások csak a webhelycsoportok és az alwebhelyek esetén hajthatók végre, meghatározott fájlok, listák vagy tárak esetén nem.
+A SharePoint Online megőrzi a teljes tartalom biztonsági mentését a tényleges törlést követő további 14 napig. Ha a tartalom nem állítható vissza a Lomtár vagy a Fájl-visszaállítás segítségével, a rendszergazda kapcsolatba léphet a Microsoft ügyfélszolgálattal, és bármikor kérhet visszaállítást a 14 napos ablakon belül. A biztonsági másolatokból történő visszaállítások csak a webhelycsoportok és az alwebhelyek esetén hajthatók végre, meghatározott fájlok, listák vagy tárak esetén nem.
 
-Ha töröl egy elemet vagy webhelyet a Sharepointból, az nem törlődik azonnal. A törölt elemek a Lomtárba kerülnek egy bizonyos ideig. Ez alatt az idő alatt visszaállíthatja őket az eredeti helyükre. További információkat az alábbi hivatkozásokon talál.
+Amikor töröl egy elemet vagy webhelyet a SharePointból, az nem törlődik azonnal. A törölt elemek a Lomtárba kerülnek egy bizonyos ideig. Ez alatt az idő alatt visszaállíthatja őket az eredeti helyükre. További információkat az alábbi hivatkozásokon talál.
 
-[SharePoint-webhely Lomtárában lévő elemek visszaállítása](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+[SharePoint-webhely Lomtárában](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)lévő elemek visszaállítása.
 
 [Törölt fájlok vagy mappák visszaállítása a OneDrive-ban](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-[Törölt webhelycsoport visszaállítása (többek között a csoporttal, a kommunikációval és más webhelyekkel)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[Törölt webhelycsoport visszaállítása (beleértve a csoportokat, a kommunikációt és más webhelyeket)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
 [Törölt OneDrive-webhely visszaállítása](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-A tömeges Lomtár-műveletek esetében a rendszergazdák a [SharePoint Online PnP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)használatát is fontolóra vehetik.
+A tömeges lomtárműveletek esetén a rendszergazdák megfontolják a [SharePoint Online PNP-t.](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
 **Fájlvisszaállítás funkció**
 
-Ha a OneDrive-vagy SharePoint-fájljait a program törli, felülírja, elrontotta vagy fertőzte meg, a fájlok visszaállítása funkció segítségével visszaállíthatja a teljes OneDrive vagy a SharePoint-tárat.
+Ha sok OneDrive- vagy SharePoint-fájlt törölnek, írnak felül, sérülnek meg vagy kártevők fertőzöttek, a fájl-visszaállítási funkcióval visszaállíthatja a teljes OneDrive- vagy SharePoint-tárat egy korábbi időpontra.
 
 [OneDrive-tárak visszaállítása](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 

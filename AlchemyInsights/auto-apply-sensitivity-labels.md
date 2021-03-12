@@ -1,5 +1,5 @@
 ---
-title: Tartalmi címkék automatikus alkalmazása
+title: Bizalmasság-címkék automatikus alkalmazása
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715167"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707236"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Tartalmi címkék automatikus alkalmazása
+# <a name="auto-apply-sensitivity-labels"></a>Bizalmasság-címkék automatikus alkalmazása
 
-A tartalmi címkék manuálisan is alkalmazhatók a tartalomra a felhasználók számára, vagy beállíthatja, hogy a program automatikusan alkalmazza őket a tartalomra.
+A bizalmasság-címkéket a felhasználók manuálisan is alkalmazhatók a tartalomra, vagy beállíthatja, hogy automatikusan alkalmazza őket a tartalomra.
 
-A tartalmi címkék automatikus alkalmazása eltávolítja a felhasználókat arra, hogy miként osztályozhatja a tartalmakat, és hogyan kell azokat értesítenie a házirend-konfigurációról.
+A bizalmasság-címkék automatikus alkalmazása megszünteti a felhasználóknak a tartalom osztályozásának és a házirendkonfigurációkról való értesítésének a képzését.
 
-Ha a címkéket automatikusan szeretné alkalmazni, az alábbiakra van szükség:
+A címkék automatikus alkalmazásához az alábbiakra van szükség:
 
-- Azure Information Protection (P2) előfizetés
-- [Az Azure Information Protection egységes feliratozási ügyfélprogram letöltése és telepítése](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Azure Information Protection P2-előfizetés
+- [Az Azure Information Protection egyesített címkézési ügyfélprogram letöltése és telepítése](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Olyan natív támogatásról dolgozunk, amely nem igényli az Azure Information Protectiont az egységes címkézési ügyfélprogram jövőjéről.
+Dolgozunk azon a natív támogatáson, amelyhez a jövőben nem lesz szükség az Azure Information Protection egyesített címkézési ügyfélalkalmazásra.
 
-Jelenleg csak a Windows támogatja az egységes címkézési ügyfélprogramot.  A funkció még nem támogatott Mac, iOS és Android rendszeren.
+Jelenleg csak a Windows támogatja az egységes címkézési ügyfélprogramot.  A funkció még nem támogatott Macen, iOS-en és Androidon.
 
-Az érzékenységi címkékről és az automatikus tartalomra való alkalmazásáról további információt a következő témakörökben talál:
+A tartalmi címkékről és azok tartalomra való automatikus alkalmazásával kapcsolatos további információkért lásd:
 
-- [A tartalmi címkék áttekintése](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Tartalmi címke automatikus alkalmazása a tartalomra](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [A bizalmasság-címkék áttekintése](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- [Tartalom automatikus alkalmazása tartalomra](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

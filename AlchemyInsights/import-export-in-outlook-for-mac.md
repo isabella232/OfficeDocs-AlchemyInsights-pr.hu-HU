@@ -1,5 +1,5 @@
 ---
-title: Importálás – exportálás a Mac Outlookban
+title: import-export-in-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667916"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708100"
 ---
 # <a name="importexport-in-outlook-for-mac"></a>Importálás/exportálás a Mac Outlookban 
 
-Exportálás
-1. Az **eszközök** lapon válassza az **Exportálás**lehetőséget.
-2. A **Mentés másként** mezőben a **Kedvencek**területen válassza a **letöltések** mappát, és válassza a **Mentés**gombot.
-3. Amikor megjelenik az Exportálás végeztével megjelenő értesítés, válassza a **Befejezés**gombot.
+Exportálás:
+1. Az Eszközök **lapon** válassza az **Exportálás gombot.**
+2. A Mentés **másként** párbeszédpanel Kedvencek listában válassza a **Letöltések** mappát, majd a **Mentés parancsot.**
+3. Amikor megjelenik az exportálás befejezéséről szóló értesítés, válassza a **Befejezés gombot.**
 
-Importálása
-1. Az **eszközök** lapon válassza az **Importálás**lehetőséget.
-2. Válassza **az Outlook for Windows Archive file (. pst) (**  >  **Folytatás**) lehetőséget.
-3. Keresse meg a. pst fájlt a Mac gépen, majd válassza az **Importálás**lehetőséget.
-4. Az importálási folyamat befejeződése után válassza a **Befejezés**gombot.
-5. Az importált elemek a navigációs ablakban **, a Sajátgép csoportban**jelennek meg.
+Importálás:
+1. Az Eszközök **lapon** válassza az Importálás **lehetőséget.**
+2. Válassza **a Windows Outlook archívumfájlját (.pst) A** folytatás  >  **lehetőséget.**
+3. Keresse meg a .pst fájlt a Mac gépen, és válassza az **Importálás lehetőséget.**
+4. Ha az importálási folyamat befejeződött, válassza a **Befejezés gombot.**
+5. Az importált elemek a navigációs ablakban, a Saját **számítógépen alatt jelennek meg.**
 
-A Mac Outlook importálási és exportálási utasításait az [Outlook e-mailek, névjegyek és naptár importálása és exportálása](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)című témakörben találhatja meg. 
+A Mac Outlook importálási és exportálási utasításainak teljes készletét az Outlook e-mailek, névjegyek és naptár importálása és [exportálása című témakörben láthatja.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
 
-Ha támogatást szeretne küldeni a Mac Outlookban lévő problémákra, nyissa meg az Outlookot, és válassza a **segítségkérés**ügyfélszolgálattal lehetőséget  >  **Contact Support**. Írja be a kérdését, és a Mac Outlook támogatási csapata tagja kapcsolatba lép Önnel. [Kapcsolatfelvétel az ügyfélszolgálattal a Mac Outlookban](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+Ha támogatásra van szüksége a Mac Outlook alkalmazáson belüli problémáihoz, nyissa meg az Outlookot, és válassza **a** Súgó  >  **kapcsolatfelvétel az ügyfélszolgálattal lehetőséget.** Írja be kérdését, és a Mac Outlook támogatási csapatának egy tagja kapcsolatba fog lépni Önvel. [Kapcsolatfelvétel az ügyfélszolgálattal a Mac Outlookban](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

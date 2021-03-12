@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 22f5966fdae563c44affb7d0447787a4ee0aca93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3189fa61d28253569278024d4191ee63b917509f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767664"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707956"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Hozzáférés megtagadva üzenetek hibaelhárítása a SharePoint/OneDrive felügyeleti központban
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Hozzáférés megtagadva üzenetek hibaelhárítása a SharePointban és a OneDrive Felügyeleti központban
 
-Ha egy SharePoint-vagy OneDrive felügyeleti központra való tallózáskor hozzáférés-megtagadási üzenetet kap, győződjön meg arról, hogy a [felhasználónak licencet kell rendelnie a felhasználóhoz](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). Ha a felhasználó rendelkezik licenccel, gondoskodnia kell arról is, hogy a rendszergazdai központokhoz hozzáférő [rendszergazdai szerepkört rendeljen](hhttps://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) hozzájuk.
+Ha egy Hozzáférés megtagadva üzenet jelenik meg, amikor egy SharePoint/OneDrive Felügyeleti központot próbál meg böngészni, győződjön meg arról, hogy hozzárendelt egy licencet [a felhasználóhoz.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) Ha a felhasználó rendelkezik licenccel, akkor azt is meg kell győződni arról, hogy olyan rendszergazdai szerepkört kap, amely hozzáférhet [a](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) felügyeleti központokhoz.
 
-Ez a probléma akkor is előfordulhat, ha egy felhasználó törlődik, és újból létrejön ugyanazzal a egyszerű felhasználónévsel (UPN). Az új fiókot egy másik PUID (Passport egyedi azonosító) használatával hozza létre. Amikor a felhasználó megkísérel hozzáférni egy webhelycsoportban vagy a OneDrive, a felhasználó helytelen PUID rendelkezik. A második forgatókönyv a címtár-szinkronizálást jelenti Active Directory-beli szervezeti egységgel (OU). Ha a felhasználók már bejelentkezett a SharePointba, és egy másik szervezeti egységbe vannak áthelyezve, és a SharePointtal újra szinkronizálják őket, előfordulhat, hogy ez a probléma tapasztalható.
+Ez a probléma akkor is előfordulhat, ha egy felhasználót törölnek, majd újra létrehoznak ugyanazokkal az egyszerű felhasználónévvel. Az új fiók egy másik PUID (Passport Unique ID) értékkel jön létre. Amikor a felhasználó megpróbál hozzáférni egy webhelycsoporthoz vagy a OneDrive-jukhoz, helytelen PUID azonosítót adott meg. A második forgatókönyv az Active Directory szervezeti egységekkel való címtár-szinkronizálást foglalja magában. Ha a felhasználók már bejelentkeztek a SharePointba, majd áthelyezik őket egy másik szervezeti webhelyre, és újraszinkron módon szinkronizálják őket a SharePointtal, akkor előfordulhat, hogy ez a probléma jelentkezik.
 
-A probléma megoldásához vissza kell állítania az eredeti UPN-t a cikkben ismertetett lépésekkel, ha [vissza szeretne állítani egy felhasználót a Microsoft 365-ban](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+A probléma megoldásához állítsa vissza az eredeti egyszerű felhasználószámot a Felhasználó visszaállítása [a Microsoft 365-ben](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)a cikkben található lépésekkel.
 
-Megjegyzés: Ha egy OneDrive vagy SharePoint felügyeleti központ nem érhető el több olyan felhasználónál, aki korábban hozzáféréssel rendelkezik, előfordulhat, hogy ideiglenes szolgáltatási probléma van.  [Ellenőrizze a szolgáltatás állapota irányítópultot](https://portal.office.com/adminportal/home#/servicehealth).
+Megjegyzés: Ha a OneDrive vagy a SharePoint Felügyeleti központ nem érhető el több, korábban hozzáféréssel rendelkező felhasználónak, átmeneti szolgáltatásbeli probléma lehet.  [Ellenőrizze a szolgáltatás állapot-irányítópultját.](https://portal.office.com/adminportal/home#/servicehealth)
 
 

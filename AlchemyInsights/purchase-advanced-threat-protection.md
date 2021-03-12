@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: hu-HU
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602114"
+ms.locfileid: "50707848"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>A Microsoft Defender megvásárlása az Office 365-hez
 
-Az Office 365-hez szükséges Microsoft Defender bizonyos előfizetések része, például a Microsoft 365 E5, az Office 365 E5, az Office 365 A5 és a Microsoft 365 Vállalati prémium verzió. Ha előfizetése nem tartalmazza az Office 365-nek megfelelő Microsoft Defendert, megvásárolhatja a Microsoft Defendert az [Office 365-hez](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) egy adott előfizetés bővítményeként. Vásárlás a Microsoft 365 Felügyeleti központban:
+Az Office 365-hez szükséges Microsoft Defender bizonyos előfizetések része, például a Microsoft 365 E5, az Office 365 E5, az Office 365 A5 és a Microsoft 365 Vállalati prémium verzió. Ha az előfizetése nem tartalmazza az Office 365-nek megfelelő Microsoft Defendert, megvásárolhatja a [Microsoft Defendert az Office 365-hez](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) bővítményként egy bizonyos előfizetéshez. Vásárlás a Microsoft 365 Felügyeleti központban:
 
 1. A Felügyeleti központban kattintson a Számlázási  >  [vásárlások szolgáltatások lapra.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. A Szolgáltatások vásárlása lap alján,  a Bővítmények szakaszban keresse meg az Office 365-nek megfelelő Microsoft Defender bővítményt, és válassza a Részletek **lehetőséget.** 
