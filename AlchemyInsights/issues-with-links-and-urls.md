@@ -3,7 +3,7 @@ title: Hivatkozásokkal és URL-címekkel kapcsolatos problémák
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974466"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707884"
 ---
 # <a name="issues-with-links-and-urls"></a>Hivatkozásokkal és URL-címekkel kapcsolatos problémák
 
-Az URI-/válasz URL-címek (mindkét kifejezés felcserélhetők) a Microsoft identitásplatform által az app által kért jogkivonatok visszaadása érdekében használt URL-címek. Ezekről az URL-címekről az alábbi cikkekben talál további információt:
+Az átirányítási URI-k, illetve válaszolási URL-címek (ez a két kifejezés gyakorlatilag ugyanazt jelenti) azok az URL-címek, amelyeket a Microsoft identitásplatform használ az alkalmazások által kért jogkivonatok visszaküldéséhez. Ezekről az URL-címekről az alábbi cikkekben olvashat:
 
-- [Authentication flow and application scenarios](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) - Information about the redirect URIS in the **App registration** page for each scenario.
-- [Az URI/válasz URL-címére vonatkozó korlátozások és korlátozások átirányítása](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
+- [Hitelesítési folyamatok és alkalmazási helyzetek](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) – információ az **Alkalmazásregisztráció** lapon látható átirányítási URI-król az egyes esetekben
+- [Az átirányítási URI-ra/válaszolási URL-címre vonatkozó korlátozások és megkötések](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
 
-**Nem tudom, hogyan regisztrálható a megfelelő átirányítási URI/válasz URL-cím az alkalmazásomhoz**
+**Nem tudom, hogyan regisztrálhatom a megfelelő átirányítási URI-t/válaszolási URL-címet az alkalmazásomhoz.**
 
-Ha a fejlesztetlen alkalmazással jelentkezik be, és a bejelentkezési párbeszédpanelen megjelenik az **AADSTS50011: <your app ID>** A kérésben megadott válasz URL-cím nem egyezik az alkalmazáshoz konfigurált válasz URL-címével, hozzá kell adni az alkalmazás regisztrációját, a tokenkérésben használt kód által használt URI-t a Microsoft identitásplatformhoz.
+Ha a fejlesztés alatt álló alkalmazásával való bejelentkezéskor megjelenik a bejelentkezési párbeszédpanelen az **AADSTS50011: A kérelemben megadott válaszolási URL nem egyezik az alkalmazáshoz konfigurált válaszolási URL-címekkel<your app ID>** üzenet, akkor fel kell vennie az alkalmazás regisztrációjába azt az átirányítási URI-t, amelyet a kódja a Microsoft identitásplatformnak küldött jogkivonat-kérelemben használt.
 
-Válasz URL-címének hozzáadásához  az Azure  Portal alkalmazásregisztrációs lapján a Hitelesítés lapon vegyen fel egy bejegyzést az **URI-k átirányítása szakaszban.** Az átirányítási URI-k be vannak gépelve (webes vagy mobil/asztali). Az érték, amit meg kell adnia, attól függ, hogy milyen típusú alkalmazást épít, az alábbiak szerint:
+Válaszolási URL-cím megadásához válassza az Azure Portal **Alkalmazásregisztráció** lapján levő **Hitelesítés** lapfület, és vegyen fel egy bejegyzést az **Átirányítási URI-k** szakaszban. A beírandó érték attól függ, hogy milyen típusú alkalmazást készít, az alábbiak szerint:
 
-- Egyoldalas alkalmazások és webalkalmazások esetén a válasz URL-címe az alkalmazás URL-címe. [Egyoldalas alkalmazásregisztráció vagy](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) [webalkalmazás regisztrálása](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal) az Azure Portal használatával
-- Az asztali appok esetében a választania kell érték a következőtől függ:
-    - a platform (a MacOS eltér a Windowstól vagy a Linuxtól)
-    - a jogkivonat megszerzésének módja (interaktív módon, eszközkód-forgalommal, integrált Windows-hitelesítéssel [IWA] vagy felhasználónévvel/jelszóval).
-    Részleteket az asztali [alkalmazások – alkalmazásregisztráció – URi átirányítása](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
-- Mobilappok esetében az átirányítási URI a következőtől függ:
-    - platform (iOS/Android/UWP)
-    - az app felépítéséhez használt információk, például az iOS csomagazonosítója és az Android csomagneve és aláírási kivonata Az Azure Portal app regisztrációja segít. Részletes információkért lásd [a platformkonfigurációt és az URI-k átirányítását.](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris)
-
-> [!NOTE]
-> A webes API-k és a tokenek beszerzésének néhány csendes módja (IWA és felhasználónév/jelszó) nem igényel átirányítási URI-t.
-
-**Üzembe helyeztem a webalkalmazást, és amikor tesztelem a telepített appot, hibaüzenet jelenik meg a válasz URL-címével való eltérésről**
-
-Adjon hozzá átirányítási URI-okat az összes olyan helyhez, ahol telepíti a webalkalmazást. További információ: [Webalkalmazás regisztrálása](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration)az Azure Portal használatával.
+- Egylapos alkalmazások és webalkalmazások esetében a válaszolási URL az alkalmazásban levő URL-címnek felel meg. Erről az [Egylapos alkalmazás regisztrálása](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) és a [Webalkalmazás regisztrálása az Azure Portal használatával](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal) című cikkben olvashat.
+- Asztali alkalmazások esetében a kiválasztandó érték a következőktől függ:
+    - a platformtól (MacOS esetén más érték szükséges, mint Windows vagy Linux esetén),
+    - a jogkivonat beszerzési módjától (interaktív módon, az eszköz kódfolyamával, integrált Windows-hitelesítéssel vagy felhasználónév/jelszó megadásával).
+    További részletek az [Asztali alkalmazások: alkalmazás regisztrálása – Átirányítási URI-k](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris) című cikkben olvashatók.
+- Mobilalkalmazások esetében az átirányítási URI a következőktől függ:
+    - a platformtól (iOS/Android/UWP),
+    - az alkalmazás összeállításához használt információktól, például az iOS-hez használt csomagazonosítótól, illetve az Androidhoz használt csomagnévtől és aláírási kivonattól. Az Azure Portal alkalmazásregisztrációs felülete segít majd ebben. További részletek a [Platform konfigurálása és átirányítási URI-k](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris) című cikkben olvashatók.
 
 > [!NOTE]
-> Adja hozzá az átirányítási URI-t egy helyhez közvetlenül azt követően, hogy telepítette az alkalmazást az adott helyen.
+> A webes API-khoz és a jogkivonatok csendes módon való beszerzésének egyes módszereihez (integrált Windows-hitelesítés, illetve felhasználónév/jelszó) nincs szükség átirányítási URI-ra.
 
-**Nem tudok elegendő válasz URL-t regisztrálni**
+**Üzembe helyeztem a webalkalmazásomat, és a telepített alkalmazás tesztelésekor a válaszolási URL eltérésére figyelmeztető üzenet jelenik meg.**
 
-Ön isv- és egy vagy több átirányítási URI-vel van minden ügyfél számára. Az ADAL/Azure AD 1.0-s verziójáról MSAL/a Microsoft-identitásplatformra szeretne áttérni, és a maximális számú átirányítási [URI-t kell látnia.](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris) A probléma megoldásához adjon [átirányítási URI-t](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) az egyes ügyfeleknek megfelelő egyszerű szolgáltatásnévhez.
+Vegyen fel átirányítási URI-t minden olyan helyhez, ahol üzembe helyezi a webalkalmazást. További információ a [Webalkalmazás regisztrálása az Azure Portal használatával](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration) című cikkben olvasható.
+
+> [!NOTE]
+> Azonnal vegyen fel átirányítási URI-t az egyes helyekhez, amint üzembe helyezte az alkalmazást az adott helyen.
+
+**Nem tudok elég válaszolási URL-címet regisztrálni.**
+
+Ön internetszolgáltató, és mindegyik ügyfeléhez tartozik egy vagy több átirányítási URI. Szeretne áttérni az ADAL/Azure AD 1.0-s verziójáról az MSAL/Microsoft identitásplatform használatára, és elérte az [átirányítási URI-k maximális számát](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). A probléma megoldásához vegyen fel [átirányítási URI-kat az egyes ügyfeleinek megfelelő szolgáltatásnevekhez](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals).
