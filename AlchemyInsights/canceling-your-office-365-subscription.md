@@ -1,9 +1,9 @@
 ---
-title: Lemondja az előfizetést?
+title: Lemondja az előfizetését?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+- commerce
+ms.openlocfilehash: e69a91cda5f5df07a7ee429dce7145af366be464
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348667"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837384"
 ---
-# <a name="canceling-your-subscription"></a>Lemondja az előfizetést?
+# <a name="canceling-your-subscription"></a>Lemondja az előfizetését?
 
-Sajnáljuk, hogy elmész, de ha le szeretné mondani az előfizetését, a következő lehetőségek közül választhat:
+Sajnáljuk, hogy el kell mennie, de ha le szeretné mondani az előfizetését, a következő lehetőségek közül választhat:
   
-- Ha Ön próbaverziós ügyfél, semmi nincs lemondani. A próbaverziós előfizetések automatikusan lejárnak, hacsak nem ad meg fizetési módot.
-- Ha 25 kiosztott licenccel rendelkezik, lemondhatja az előfizetést az interneten. Lépjen a termékek **számlázása** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra, és keresse meg a lemondani kívánt előfizetést. Válassza a **További műveletek** (három pont) lehetőséget, majd válassza az **előfizetés törlése** lehetőséget.
-- Ha több mint 25 licence van hozzárendelve a felhasználóknak, [hívja fel a támogatási szolgálatot az előfizetés lemondásához](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Ha kevesebb mint 25 hozzárendelt licenccel rendelkezik, online lemondhatja az előfizetését. Keresse fel **a Termékek számlázása** \> **[lapot,](https://go.microsoft.com/fwlink/p/?linkid=842054)** és keresse meg a lemondani kívánt előfizetést. Válassza **a További műveletek** (három pont) gombra, majd az Előfizetés **lemondása gombra.**
+- Ha több mint 25 licencet osztott ki a felhasználóknak, az előfizetés lemondásához hívja fel [az ügyfélszolgálatot.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
-**Visszatérítés: bármely kiértékelt jóváírást a következő számlázási ciklusban kapja vissza.**
+**Visszatérítés: A következő számlázási ciklusban térítünk meg minden időkorrált jóváírást.**
 
 > [!NOTE]
-> Ha nem látható a lemondás lehetőség, válassza ki az előfizetést a Részletek lap megjelenítéséhez. Az **előfizetés és fizetési beállítások** csoportban válassza az **előfizetés törlése** lehetőséget.
+> Ha nem látja a lemondási lehetőséget, válassza ki az előfizetést a részletek lap megtekintéséhez. Az **Előfizetési és fizetési beállítások szakaszban** válassza az Előfizetés **lemondása lehetőséget.**
 
-További információt az [előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)című témakörben talál.
+További információ: Az előfizetés [lemondása.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
