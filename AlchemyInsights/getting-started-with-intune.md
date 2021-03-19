@@ -1,5 +1,5 @@
 ---
-title: Intune – első lépések
+title: Intune – Első lépések
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706345"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897085"
 ---
-# <a name="getting-started-with-intune"></a>Intune – első lépések
+# <a name="getting-started-with-intune"></a>Intune – Első lépések
 
-A Intune és a felügyeleti konzol gyors megtekintéséhez tanulmányozza [az Intune áttekintése az Azure portálon című részt](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+Az Intune és a felügyeleti konzol rövid áttekintését Az Intune útmutatója az Azure Portal webhelyen című [témakörben ellenőrizheti.](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager)
 
-Ha szeretné kipróbálni a Intune-t vagy egy próbaverziót, olvassa el [a gyorsindító: próbálkozzon a Microsoft Intune ingyenes](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)verziójával.
+Ha ki szeretné próbálni az Intune-t, vagy próbaverziót szeretne beállítani, olvassa el a Rövid útmutató: Próbálja ki ingyen a [Microsoft Intune-t ismertető útmutatót.](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
 
-Ha már rendelkezik Intune-val, és készen áll arra, hogy megkezdje a használatát, tekintse át a [set up Intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) útmutatót. 
+Ha készen áll az Intune használatának elkezdődre, olvassa el az [Intune beállítása ( ) ismertetőt.](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps) Útmutatást az Intune telepítési [útmutatója tartalmaz.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide)

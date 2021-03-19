@@ -3,7 +3,7 @@ title: Több profil létrehozása a Microsoft Edge-ben
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003923"
 - "6976"
-ms.openlocfilehash: 01f503c797c89ef8f3240b6349f3f7d596fadb32
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+- "9004596"
+- "8216"
+ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678566"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897013"
 ---
 # <a name="create-multiple-profiles-in-microsoft-edge"></a>Több profil létrehozása a Microsoft Edge-ben
 
-A profilokkal több felhasználó is működhet megosztott környezetben, miközben hozzáférést biztosít a személyre szabott böngésző beállításaihoz, a könyvjelzők és a bővítményekhez. Ha több profilt szeretne hozzáadni a Microsoft Edge-ben, kövesse az alábbi lépéseket:
+A profilokkal több felhasználó működtethet megosztott környezetben, miközben továbbra is hozzáférhet a személyre szabott böngészőbeállításokhoz, könyvjelzőkhöz és bővítményekhez. Ha több profilt szeretne felvenni a Microsoft Edge-ben, kövesse az alábbi lépéseket:
 
 1. Indítsa el a Microsoft Edge-et.
-    - Ha nincs bejelentkezve, válassza a profil ikont > a **Bejelentkezés** lehetőséget. Ez automatikusan a **profil beállításainak kezelése** lapra kerül.
-    - Ha be van jelentkezve, válassza a profil ikont > a **profil beállításainak kezelése** lehetőséget.
-2. Válassza a **profil > + profil hozzáadása > a Hozzáadás** lehetőséget.
-3. Ha egy meglévő fiókhoz szeretne csatlakozni, válassza a bejelentkezés lehetőséget az **adatszinkronizáláshoz** .
-4. Válassza az **Igen** lehetőséget a bejelentkezési szinkronizálás bekapcsolásához, majd kattintson a **megerősítés** elemre.
+    - Ha nincs bejelentkezve, válassza a profilikont > **bejelentkezés gombra.** Ezzel automatikusan a Profilbeállítások kezelése **lapra** kerül.
+    - Ha be van jelentkezve, válassza a profilikont > **Profilbeállítások kezelése lehetőséget.**
+2. Válassza **a Profil > + Profil hozzáadása > gombra.**
+3. Válassza **a Bejelentkezés lehetőséget az adatok szinkronizálása egy** meglévő fiókhoz való csatlakozáshoz.
+4. Válassza **az Igen** lehetőséget a bejelentkezés szinkronizálásának bekapcsolához, majd válassza a Megerősítés **lehetőséget.**
 
-    A további profil már használható.
+    A további profil most már elérhető használatra.

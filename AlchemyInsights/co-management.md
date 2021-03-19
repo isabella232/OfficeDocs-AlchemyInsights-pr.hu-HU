@@ -1,9 +1,9 @@
 ---
-title: Közös kezelés
+title: Társkezelés
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681262"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896797"
 ---
-# <a name="co-management"></a>Közös kezelés
+# <a name="co-management"></a>Társkezelés
 
-**A Konfigurációkezelő rendszerről az Intune-ra való áttérés előfeltételei**
+**A Config Manager hibrid környezetből az Intune-ba való áttelepítés előfeltételei**
 
-- Tekintse át [ezt a cikket](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Adjon hozzá egy Intune-licencet a felhasználókhoz](https://docs.microsoft.com/intune/licenses-assign).
-- A közös kezelés beállításakor használja az [Edge böngészőt](https://www.microsoft.com/windows/microsoft-edge) .
+- Tekintse [át ezt a cikket.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Vegyen fel egy Intune-licencet a felhasználókhoz.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- A közös [kezelés konfigurálásához](https://www.microsoft.com/edge) használja az Edge böngészőt.
 
-**A Konfigurációkezelő ügyfél telepítése az Intune-kezelésű eszközökön**
+A tárban részletes, részletes útmutatót talál a társkezelési [beállításokról.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-Lásd: [INTUNE Mdm által felügyelt Windows-eszközök](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+**A Config Manager-ügyfél telepítése Intune által kezelt eszközökre**
 
-**Mi a teendő, ha csak módosítani szeretném a MDM hatóságot?**
+Lásd: [Intune MDM által felügyelt Windows-eszközök.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-A MDM-jogosultságot támogatási eset megnyitása nélkül is megváltoztathatja. Kérjük, hogy az alábbi dokumentációban tájékozódjon a MDM-hatóság módosításáról:
+**Mi történik, ha csak a MDM-et szeretném módosítani?**
 
-- [A MDM-hatóság módosítása a Configuration Managerből a Intune önálló verzióra](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [A MDM-szervezet módosítása a Intune különálló verzióról a Configuration Managerre](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+A MDM Authority támogatási eljárás megnyitása nélkül is módosítható. Kérjük, tekintse át az alábbi dokumentációt, és segítsen a MDM-hatóság módosításában:
+
+- [MDM Authority (MDM Authority) módosítása a Configuration Managerről az Intune különálló eszközre](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [MDM authority from Intune önálló to Configuration Manager](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
