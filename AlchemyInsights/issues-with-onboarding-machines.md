@@ -1,29 +1,31 @@
 ---
-title: A bevezetési gépekkel kapcsolatos problémák
+title: Problémák akkor, amikor gépeket vezet be a Végponthoz készült Microsoft Defenderhez (MDE)
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
-ms.translationtype: MT
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141469"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901569"
 ---
-# <a name="issues-with-onboarding-machines"></a><span data-ttu-id="77377-102">A bevezetési gépekkel kapcsolatos problémák</span><span class="sxs-lookup"><span data-stu-id="77377-102">Issues with onboarding machines</span></span>
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a><span data-ttu-id="d2f75-102">Problémák akkor, amikor gépeket vezet be a Végponthoz készült Microsoft Defenderhez (MDE)</span><span class="sxs-lookup"><span data-stu-id="d2f75-102">Issues with onboarding machines to Microsoft Defender for Endpoints</span></span>
 
-<span data-ttu-id="77377-103">Lehet, hogy problémák vannak a mdatp-szolgáltatásra való bevezetési gépekkel.</span><span class="sxs-lookup"><span data-stu-id="77377-103">You might have issues with onboarding machines to MDATP service.</span></span> <span data-ttu-id="77377-104">Ha hozzá tud férni a végfelhasználói számítógéphez, kövesse az alábbi lépéseket:</span><span class="sxs-lookup"><span data-stu-id="77377-104">If you can access the end-user machine, follow these steps:</span></span>
+<span data-ttu-id="d2f75-103">Problémákat észlelhet akkor, amikor gépeket próbál bevezetni az MDE szolgáltatásba.</span><span class="sxs-lookup"><span data-stu-id="d2f75-103">You might have issues with onboarding machines to MDE service.</span></span> <span data-ttu-id="d2f75-104">Ha hozzá tud férni a végfelhasználói géphez, kövesse ezeket a lépéseket:</span><span class="sxs-lookup"><span data-stu-id="d2f75-104">If you can access the end-user machine, follow these steps:</span></span>
 
-1. <span data-ttu-id="77377-105">Töltse le az [Ügyfélkapcsolat-elemző](https://aka.ms/mdatpanalyzer) diagnosztikai eszközt.</span><span class="sxs-lookup"><span data-stu-id="77377-105">Download the [Client Connectivity Analyzer](https://aka.ms/mdatpanalyzer) diagnostic tool.</span></span>
-2. <span data-ttu-id="77377-106">Kivonat és fuss MDATPAnalyzer.cmd.</span><span class="sxs-lookup"><span data-stu-id="77377-106">Extract and run MDATPAnalyzer.cmd.</span></span>
-3. <span data-ttu-id="77377-107">Keresse meg a diagnosztikai naplót az MDATPClientAnalyzerResult nevű mappában, ugyanabban a mappában, ahol az Analyzer eszközt letölti.</span><span class="sxs-lookup"><span data-stu-id="77377-107">Locate the diagnostic log in the folder called MDATPClientAnalyzerResult, the same folder where the Analyzer tool is downloaded.</span></span>
-4. <span data-ttu-id="77377-108">Tekintse át a naplófájlt, MDATPClientAnalyzer.txt, hogy megtalálja a kapcsolódási vagy internetproxy-beállításokkal kapcsolatos problémákat.</span><span class="sxs-lookup"><span data-stu-id="77377-108">Review the log file, MDATPClientAnalyzer.txt, to find connectivity or internet proxy settings issues.</span></span>
+1. <span data-ttu-id="d2f75-105">A [MDE Klienselemző](https://aka.ms/betamdeanalyzer) diagnosztikai eszköz legújabb előzetes verziójának letöltése.</span><span class="sxs-lookup"><span data-stu-id="d2f75-105">Download the latest preview version of the [MDE Client Analyzer](https://aka.ms/betamdeanalyzer) diagnostic tool.</span></span>
+2. <span data-ttu-id="d2f75-106">Kattintson jobb kattintással a **MDEClientAnalyzer.cmd** elemre, és válassza a „Futtatás rendszergazdaként“ lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="d2f75-106">Right click **MDEClientAnalyzer.cmd** and select ‘Run as administrator’.</span></span>
+3. <span data-ttu-id="d2f75-107">Kövesse a javasolt utasításokat a **MDEClientAnalyzer.htm** elemben megadottak szerint.</span><span class="sxs-lookup"><span data-stu-id="d2f75-107">Follow any guidance suggested in **MDEClientAnalyzer.htm**.</span></span>
+4. <span data-ttu-id="d2f75-108">Részletesebb naplókért tekintse át a létrehozott almappát:**MDEClientAnalyzerResult**.</span><span class="sxs-lookup"><span data-stu-id="d2f75-108">For more verbose logs, review the created sub-folder named **MDEClientAnalyzerResult**.</span></span>
+5. <span data-ttu-id="d2f75-109">Ha további útmutatásra van szüksége, lépjen kapcsolatba a [Végponthoz készült Microsoft Defender támogatással](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) és adja meg a létrehozott MDEClientAnalyzerResult.zip fájlt elemzésre.</span><span class="sxs-lookup"><span data-stu-id="d2f75-109">If additional guidance is needed, contact [Microsoft Defender for Endpoint support](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) and provide the resulting MDEClientAnalyzerResult.zip file for analysis.</span></span>
