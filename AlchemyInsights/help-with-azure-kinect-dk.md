@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9744"
 - "9005643"
-ms.openlocfilehash: 180af08085efeea411f0c8ec21cdd537b24842fa
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: e043a3eff39f9fcfd5adbea8a93a6c4ac792913a
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036539"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122845"
 ---
-# <a name="help-with-azaure-kinect-dk"></a>Segítség az Azaure Kinect DK-hez
+# <a name="help-with-azure-kinect-dk"></a>Segítség az Azure Kinect DK-hoz
 
 Az Azure Kinect DK rövid útmutatói (beállítás, fejlesztői súgó), útmutatók és hibaelhárítási útmutatók az [Azure Kinect DK dokumentációjában olvashatók.](https://docs.microsoft.com/azure/kinect-dk/)
 
