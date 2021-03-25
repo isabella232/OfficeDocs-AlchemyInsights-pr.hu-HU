@@ -1,9 +1,9 @@
 ---
-title: Javaslatok a "nem licencelt termék" hibák megoldására
+title: Javaslatok a "Nem licencelt termék" hibaüzenetek megoldásához
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: b1a1ebe313cc90d49633522546b7757fc2d93543
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1df8b7ef04d57c0cf8ac76385363175ac46d062b
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808421"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200603"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Javaslatok a "nem licencelt termék" hibák megoldására
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Javaslatok a "Nem licencelt termék" hibaüzenetek megoldásához
 
-Ellenőrizze, hogy rendelkezik-e olyan előfizetéssel, amely lehetővé teszi az ügyfélalkalmazások, például a Microsoft 365-alkalmazások vállalati verzió vagy a Microsoft 365 Business Premium standard használatát, és győződjön meg arról, hogy [a felhasználónak van licence rendelve](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). [Inaktiváljon egy telepítést](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) annak ellenőrzéséhez, hogy túllépte-e az előfizetése által támogatott telepítési példányok számát.
+Győződjön meg arról, hogy olyan előfizetése van, amely engedélyezi az ügyféllicenceket, például a Vállalati Microsoft 365-appokat vagy a Microsoft 365 Vállalati standard verzió használatát, és gondoskodik arról, hogy a felhasználóhoz licenc legyen [rendelve.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) [Inaktiválhat egy](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) telepítést, hogy ellenőrizze, túllépte-e az előfizetés által támogatott telepítések számát.
   
-Gondoskodjon arról, hogy a felhasználó ugyanazzal a fiókkal jelentkezzen be, mint amelyre a licenc van hozzárendelve.
+Győződjön meg arról, hogy a felhasználó ugyanazokkal a fiókkal jelentkezik be, mint amelyhez a licenc van hozzárendelve.
   
-Futtassa az [aktiválási hibaelhárítót](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Futtassa az [Aktiválási hibaelhárítót.](https://aka.ms/SARA-OfficeActivation-Alchemy)
   
-Annak ellenőrzése, hogy az előfizetés állapota lejárt-e
+Annak ellenőrzése, hogy lejárt-e az előfizetés állapota
   
 Ellenőrizze a [Szolgáltatásállapot lapot](https://docs.microsoft.com/office365/enterprise/view-service-health), amelyen láthatja, hogy vannak-e ismert problémák a szolgáltatással kapcsolatban.
   
-[Végezze el az Office Online javítását](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Végezze el az Office online javítását.](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)
   
-További hibaelhárítási megoldásokat a következő témakörben talál: nem [licencelt termék-és aktiválási hibák az Office-ban](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+További hibaelhárítási megoldásokat a "Nem licencelt termék" aktiválási hibaüzenetek az [Office-ban témakörben talál.](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
   
