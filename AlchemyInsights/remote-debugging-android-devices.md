@@ -1,5 +1,5 @@
 ---
-title: Android-eszközök távoli hibakeresése a Microsoft Edge-ben egy fejlesztői számítógép segítségével
+title: Android-eszközök távoli hibakeresése a Microsoft Edge használatával fejlesztőgépről
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583540"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398695"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Android-eszközök távoli hibakeresése a Microsoft Edge-ben egy fejlesztői számítógép segítségével
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Android-eszközök távoli hibakeresése a Microsoft Edge használatával fejlesztőgépről
 
-Ha egy Android-eszközön szeretné távolról debug az élő tartalmakat a számítógépéről:
+Élő tartalmak távoli hibakeresése Android-eszközön a számítógépről:
 
-1. Állítsa be az Android-eszközt a távoli hibakereséshez, és fedezze fel a fejlesztői számítógépről.
-2. Az Android-eszközön nézze át az élő tartalmat a fejlesztői számítógépén.
-3. Az Android-eszközről az élő tartalmat DevTools-példányra illeszti be a fejlesztői számítógépen.
+1. Állítsa be az Android-eszközt távoli hibakereséshez, és fedezze fel a fejlesztőgépről.
+2. A fejlesztő számítógépen vizsgálja meg és vizsgálja meg az élő tartalmakat az Android-eszközön.
+3. Élő képernyőfelvétel az Android-eszközről a fejlesztői számítógépen egy DevTools-példányra.

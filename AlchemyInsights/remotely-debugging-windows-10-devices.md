@@ -1,5 +1,5 @@
 ---
-title: Első lépések a Windows 10-es eszközök távolról történő használatáról
+title: Első lépések a Windows 10-es eszközök távoli hibakeresésében
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583554"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398566"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Első lépések a Windows 10-es eszközök távolról történő használatáról
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Első lépések a Windows 10-es eszközök távoli hibakeresésében
 
-Ha egy Windows 10-es eszközön szeretné távolról debug az élő tartalmakat Windows vagy macOS rendszerű számítógépről:
+Élő tartalmak távoli hibakeresése Windows 10-es eszközön Windows vagy macOS rendszerű számítógépről:
 
-1. Beállíthatja a Windows 10-es eszközét a távoli hibakereséshez, majd csatlakoznia kell a fejlesztői számítógépéről.
-2. Windows 10-es eszközén ellenőrizheti és elháríthatja az élő tartalmakat a fejlesztői gépén.
-3. Screencast-tartalom a Windows 10-es eszközéről egy DevTools-példányra a fejlesztői gépen.
+1. Állítsa be Windows 10-es eszközét távoli hibakeresésre, majd csatlakozzon hozzá a fejlesztőgépről.
+2. Élő tartalmak vizsgálata és hibakeresése Windows 10-es eszközén a fejlesztőgépről.
+3. Képernyőfelvétel a Windows 10-es eszközről egy DevTools-példányra a fejlesztőgépen.
 
-További információt az első [lépések a Windows 10-es rendszerű eszközök használata a Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172)-ben című témakörben talál.
+További információt A [Windows 10-es](https://go.microsoft.com/fwlink/?linkid=2142172)eszközök hibakeresése a Microsoft Edge-ben – Első lépésekben található.

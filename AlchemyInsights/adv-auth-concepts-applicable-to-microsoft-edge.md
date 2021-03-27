@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Edge-re vonatkozó speciális hitelesítési fogalmak
+title: A Microsoft Edge speciális hitelesítési koncepciói
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,27 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "9003931"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+- "9004625"
+ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573521"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398586"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>A Microsoft Edge-re vonatkozó speciális hitelesítési fogalmak
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>A Microsoft Edge speciális hitelesítési koncepciói
 
-A Microsoft Edge-re vonatkozó speciális hitelesítési fogalmak a következők:
+Az alábbiakban a Microsoft Edge-re vonatkozó speciális hitelesítési fogalmakat íme:
 
 **Proaktív hitelesítés**
 
-Ha engedélyezi a [ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) -házirendet, a Microsoft Edge megpróbálja proaktívan hitelesíteni a bejelentkezett felhasználókat a Microsoft Services szolgáltatáson keresztül. Rendszeres időközönként egy online szolgáltatással ellenőrizheti, hogy egy olyan frissített jegyzékfájlt szeretne-e használni, amely a proaktív hitelesítésre vonatkozó konfigurációt tartalmazza.
+A [ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) házirend engedélyezésekor a Microsoft Edge megpróbálja proaktívan hitelesíteni a bejelentkezett felhasználókat a Microsoft-szolgáltatásokon keresztül. Rendszeres időközönként egy online szolgáltatáson keresztül ellenőrzi a proaktív hitelesítést szabályozó konfigurációt tartalmazó frissített jegyzékfájlt.
 
-Előnyök: a proaktív hitelesítés a legfontosabb szolgáltatásokhoz (például az Office új lap lapjához) való hitelesítést engedélyezi. Ha a Bing a keresőmotorként van használatban, a proaktív hitelesítés javítja a címsor működését, és segít a keresés eredményének a vállalati igényekhez való személyre szabásában.
+Előnyök: A proaktív hitelesítés hitelesítést tesz lehetővé a főbb szolgáltatásoknak, például az Office Új lapnak. Ha keresőmotorként a Binget használja, a proaktív hitelesítés javítja a címsor teljesítményét, és a vállalat igényeire szabott keresési eredményeket hoz létre.
 
 **Windows Hello CredUI NTLM-hitelesítéshez**
 
-Ha az egyszeri bejelentkezés (SSO) nem érhető el, ha egy webhely az NTLM vagy az egyeztetési mechanizmuson keresztül próbál meg bekapcsolódni a felhasználóhoz, ez a funkció lehetővé teszi, hogy a felhasználó megossza az operációs rendszer hitelesítő adatait a webhellyel, és a Windows Hello cred felhasználói felülete segítségével kielégítse a hitelesítési kihívást. Ez a bejelentkezési folyamat csak a Windows 10 rendszerben jelenik meg, és csak azoknál a felhasználóknál, akik NTLM-vagy értekezlet-összehívási probléma esetén nem kapnak SSO-t.
+Ha az egyszeri bejelentkezés nem érhető el, amikor egy webhely az NTLM vagy a Egyeztetési mechanizmuson keresztül próbál meg bejelentkezni a felhasználóba, ez a funkció lehetővé teszi, hogy a felhasználó megosztsa az operációs rendszer hitelesítő adatait a webtel, és megfeleljön a hitelesítési kihívásnak a Windows Hello Cred felhasználói felület használatával. Ez a bejelentkezési folyamat csak a Windows 10-ben fog megjelenni, és csak azok a felhasználók számára, akik nem kapják meg az SSO-t NTLM vagy a negotiate challenge (Kienálás).
 
-**A mentett jelszavak használata automatikusan történő bejelentkezéshez**
+**Mentett jelszavak használata az automatikus bejelentkezéshez**
 
-Azok a felhasználók, akik a Microsoft Edge-ben mentették a jelszavakat, engedélyezhetik az automatikus bejelentkezést olyan webhelyekre, ahol a hitelesítő adatok találhatók. A felhasználók a edge://settings/passwords-ban be-vagy kikapcsolhatja ezt a funkcióját, és a [jelszó-kezelő](https://go.microsoft.com/fwlink/?linkid=2134622) házirendben is konfigurálhatók.
+Azok a felhasználók, akik jelszavakat mentnek a Microsoft Edge-ben, engedélyezhetik az automatikus bejelentkezést olyan webhelyekre, amelyekhez hitelesítő adatokat mentettek. A felhasználók be- vagy kikapcsolhatja ezt a edge://settings/passwords, és a jelszókezelői [házirendek között is konfigurálhatja.](https://go.microsoft.com/fwlink/?linkid=2134622)
