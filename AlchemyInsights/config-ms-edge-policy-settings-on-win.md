@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Edge házirend-beállításainak megadása a Windowsban
+title: A Microsoft Edge házirendbeállításainak konfigurálása Windows rendszeren
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583443"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402377"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>A Microsoft Edge házirend-beállításainak megadása a Windowsban
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>A Microsoft Edge házirendbeállításainak konfigurálása Windows rendszeren
 
-Ha konfigurálni szeretné a házirend-beállításokat és a Microsoft Edge felügyelt frissítéseit, használja a csoportházirend-objektumokat (GPO-k). A házirendet a beállításjegyzéken keresztül is megadhatja; Ez a megfelelő (1) Windows-eszközök Microsoft Active Directory-tartományhoz, illetve (2) Windows 10-es Pro-és nagyvállalati verzióhoz csatlakoztak, amelyek az eszközkezelés Microsoft Intune-ben lettek bejelentkezve.
+A Microsoft Edge házirendbeállításai és felügyelt frissítései a Csoportházirend-objektumok (GPOS) segítségével konfigurálhatóak. A házirendeket a beállításjegyzéken keresztül is kiépítheti; ez a (1) Microsoft Active Directory tartományhoz csatlakozott Windows-eszközök és (2) a Microsoft Intune-ban eszközkezelésre regisztrált Windows 10 Pro és Enterprise példány esetén lenne megfelelő.
 
-Ha a Microsoft Edge-et csoportházirend-objektumokkal szeretné konfigurálni, tegye az alábbiakat:
+Ha a Microsoft Edge-et GPOs-okkal konfigurálni, tegye a következőket:
 
-1. Ha az Active Directory-tartományban a csoportházirend központi tárolója vagy az egyes számítógépeken a házirend-definíciós sablon mappája van, telepítse a Microsoft Edge szabályait és beállításait tartalmazó összes felügyeleti sablont.
-2. Állítsa be a beállítani kívánt házirendeket.
+1. Az Active Directory-tartomány csoportházirendek – központi tárolója vagy az egyes számítógépeken a Policy Definition (Házirend-definíció) sablonmappába telepítve telepítse az összes olyan felügyeleti sablont, amely a Microsoft Edge-hez szabályokat és beállításokat ad hozzá.
+2. Konfigurálja a beállítani kívánt házirendeket.
 
-További információt [a Microsoft Edge-házirend beállításainak megadása a Windowsban](https://go.microsoft.com/fwlink/?linkid=2135024)című témakörben talál.
+További információ: [A Microsoft Edge házirendbeállításainak konfigurálása Windows rendszeren.](https://go.microsoft.com/fwlink/?linkid=2135024)

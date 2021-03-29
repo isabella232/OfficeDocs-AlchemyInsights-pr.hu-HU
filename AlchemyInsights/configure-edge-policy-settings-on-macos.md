@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Edge-házirend beállításainak megadása macOS rendszeren a JAMF használatával
+title: A Microsoft Edge házirendbeállításának konfigurálása MacOS rendszeren a Jamf használatával
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,16 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003852"
+- "9004632"
 - "6901"
-ms.openlocfilehash: 7874ce15417958cfe2e3b2ff068b3eb7241e6812
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8360"
+ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678363"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403457"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>A Microsoft Edge-házirend beállításainak megadása macOS rendszeren a JAMF használatával
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>A Microsoft Edge házirendbeállításának konfigurálása MacOS rendszeren a Jamf használatával
 
-Ha a Microsoft Edge (stable csatorna 81-es vagy újabb verzióját) szeretné beállítani macOS rendszeren, használja a Microsoft Edge Policy manifest-fájlt a JAMF Pro 10,19-on.
+A Microsoft Edge (stabil, 81-es vagy újabb csatorna) macOS rendszeren való konfiguráléhez használja a Microsoft Edge házirend jegyzékfájlját a Jamf Pro 10.19-ben.
 
-További információt [a Microsoft Edge-házirend beállításainak beállítása MacOS rendszeren a JAMF-on](https://go.microsoft.com/fwlink/?linkid=2134761)című témakörben talál.
+További információt A Microsoft Edge házirendbeállításának konfigurálása macOS rendszeren [a Jamf alkalmazással .](https://go.microsoft.com/fwlink/?linkid=2134761)

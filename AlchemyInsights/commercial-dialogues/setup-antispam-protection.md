@@ -3,7 +3,7 @@ title: Levélszemét elleni védelem beállítása
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 3a9408f94b72770669e75272307c932303666d6b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482132"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401837"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Levélszemét elleni védelem beállítása
 
 Ehhez tegye a következőt:
 
-1. Menjen az [Office 365 Biztonsági & megfelelőségi központba.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Nyissa meg **a Veszélyforrás-kezelési**  >  **házirendet,** és kattintson a **[Levélszemét elleni védelem elemre.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. Az Egyéni **lapon** kapcsolja be az Egyéni **beállítások** lehetőséget.
-1. Bontsa ki **az alapértelmezett levélszemétszűrő házirendet,** **kattintson** a Házirend szerkesztése elemre, és adja meg az alábbi beállításokat:
-    1. A **Levélszemét és tömeges** műveletek szakaszban állítsa a küszöbértéket 5 vagy 6 értékre.
+1. Az [Office 365 Biztonsági & központban.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Lépjen a **Veszélyforrások elleni védelem**  >  **házirend lapra,** és kattintson a **[Levélszemét elleni gombra.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
+1. Az Egyéni **lapon** kapcsolja be az Egyéni **beállítások** beállítást.
+1. Bontsa ki **az Alapértelmezett levélszemétszűrő házirend** lehetőséget, kattintson a Házirend szerkesztése **gombra,** és adja meg az alábbi beállításokat:
+    1. A **Levélszemét- és tömeges** műveletek csoportban állítsa a küszöbértéket 5 vagy 6 értékre.
 1. Kattintson a **Mentés** gombra.
 
-A levélszemét-szűrési házirend beállításairól a Levélszemét-szűrési házirendek konfigurálása [párbeszédpanelen olvashat bővebben.](https://go.microsoft.com/fwlink/?linkid=2092051)
+A levélszemét-szűrési házirendek beállításairól A levélszemét-szűrési házirendek [konfigurálása.](https://go.microsoft.com/fwlink/?linkid=2092051)
