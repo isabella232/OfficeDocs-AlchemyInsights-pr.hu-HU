@@ -1,24 +1,35 @@
 ---
-title: Hibrid Azure AD-csatlakozás – hibaelhárítás
+title: Hybrid Azure AD csatlakozás
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/06/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6162"
+- "6158"
 - "9003244"
-ms.openlocfilehash: 74791503e1ec876c2beb57d895c93ceac465a26a
-ms.sourcegitcommit: a96f029381c42d331b9ea64fa54061b7b96c4e52
-ms.translationtype: MT
+- "9003246"
+ms.openlocfilehash: 18d0ce6bdf3df96e07cc6607b9ae6142d548dabe
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46629615"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401909"
 ---
-# <a name="troubleshoot-hybrid-azure-ad-join"></a>Hibrid Azure AD-csatlakozás – hibaelhárítás
+# <a name="troubleshoot-hybrid-azure-ad-join"></a>Hybrid Azure AD csatlakozás
 
-A hibrid Azure Active Directory (AD) csatlakozással kapcsolatos gyakori problémák megoldásához olvassa el a [hibrid Azure ad-csatlakozás – gyakori](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq)kérdések című témakört.
+Erősen ajánlott annak biztosítása, hogy egy eszköz hozzáférjen a rendszerfiókban található eszköz-regisztráció végpontjaihoz az [eszköz-regisztráció csatlakozási parancsprogramjának](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/) használatával.
+
+1. Ha első alkalommal hoz létre eszközregisztrációkat, tekintse át a [Bevezetés az Azure Active Directory eszközkezelésbe](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/) témakört, és megtudhatja, hogy miként irányíthatja az eszközöket az Azure AD ellenőrzése alatt.
+1. Ha közvetlenül regisztrál eszközöket az Azure AD-be, és feliratkozik velük az Intune-ba, akkor győződjön meg arról, hogy [konfigurálta az Intune-t](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support), és elsőként a [licencelést](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) jelölte meg.
+1. Győződjön meg arról, hogy jogosult műveletek elvégzésére az Azure AD-ban és a helyszíni AD-ban. Az eszközregisztrációk beállításait csak az Azure AD globális rendszergazdája kezelheti. Ezenkívül ha automatikus regisztrációt hoz létre a helyszíni Active Directoryban, akkor az Active Directory és az Active Directory FS (ha van) rendszergazdájának kell lennie.
+
+A hibrid illesztés esetleges problémáinak megoldásáról lásd [A hibrid csatlakozás hibaelhárítása](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current) témakört a hibrid Azure AD-eszközökhöz való csatlakozásról, valamint az eszközkezelés az Azure AD portálon keresztüli beállításáról lásd [Az Azure AD-hez csatlakozott hibrid eszközök beállítása](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan?WT.mc_id=Portal-Microsoft_Azure_Support) és az [Eszközök kezelése az Azure portal használatával](https://docs.microsoft.com/azure/active-directory/devices/device-management-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support) témaköröket.
+
+A hibrid Azure Active Directory csatlakozás gyakori problémáinak megoldásáról lásd: [Az Azure AD-hez való hibrid csatlakozás - gyakori kérdések](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).

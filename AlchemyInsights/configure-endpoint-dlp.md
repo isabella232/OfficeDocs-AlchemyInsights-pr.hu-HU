@@ -1,33 +1,44 @@
 ---
-title: Végpont DLP konfigurálása
+title: A végpont DLP-beállításainak konfigurálása
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 039c8f78c5896b66eab5763fb0bbddd3f0b06f2d
-ms.sourcegitcommit: 1dada930649a2625eb6d15910b2bfd5e1e00e5b6
-ms.translationtype: MT
+ms.openlocfilehash: 36af769b67f8c9aa4b8d17e9f4f3f3b82c8a8534
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46555558"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402427"
 ---
-# <a name="configure-endpoint-dlp"></a>Végpont DLP konfigurálása
+# <a name="configure-endpoint-dlp"></a>A végpont DLP-beállításainak konfigurálása
 
-A Microsoft Endpoint DLP lehetővé teszi a DLP-védelem és figyelés imázsának kiterjesztését a Windows 10-es eszközök bizalmas adataira. Miután az eszközök be vannak építve az eszközkezelésbe, DLP-házirendeket hozhat létre az elemek védelmi műveletek kényszerítéséhez. A Tevékenységkezelő segítségével figyelheti a bizalmas elemek tevékenységét. További információ: [Onboarding devices into device management](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
+A Microsoft Endpoint DLP lehetővé teszi a DLP-védelem és -figyelés kibővítését a Windows 10-es eszközökön lévő bizalmas információkra. Az eszközök az eszközkezelésbe való átvezetését követően adatveszteség-megelőzési házirendeket hozhat létre, hogy végrehajtsa a megfelelő műveleteket az elemeken. A Tevékenységkezelővel figyelheti a bizalmas elemek tevékenységét. További információért lásd: [Eszközök bevezetése az eszközkezelésbe](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
 
-Az Endpoint DLP első lépései:
+A végponti adatveszteség-megelőzés szolgáltatás első lépései:
 
-- Győződjön meg arról, hogy rendelkezik a megfelelő Termékváltozat/előfizetések licencelésével. További információ: [Termékváltozat/előfizetések licencelése.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing)
-- Ellenőrizze az eszközkezelés engedélyezéséhez, a bevezetési lap eléréséhez vagy az eszközfigyelés be- és kikapcsolásához szükséges engedélyeket. További információt az Engedélyek című [témakörben talál.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions)
-- Az eszközök beépítése az Eszközkezelésbe a bevezetési eszközök eljárásának követésével. Ha hiányzik az Eszköz bevezetés (előzetes verzió) opció az M365 megfelelőségi **beállítások**területen, ellenőrizze, hogy rendelkezik-e a fent hivatkozott megfelelő licenccel és engedélyekkel. További [információ: Onboarding devices](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
-- Hozzon létre DLP-házirendeket a bizalmas elemek védelmére. További információt az [Endpoint DLP-házirend-forgatókönyvek című témakörben talál.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios)
+- Ellenőrizze, hogy rendelkezik-e a megfelelő termékváltozatok/előfizetések licencével. További információért lásd: [Termékváltozat/előfizetés licencelés](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
+- Ellenőrizze az eszközkezelés engedélyezéséhez, a bevezetési lap eléréséhez, illetve az eszközfigyelés be- és kikapcsolához szükséges engedélyeket. További információért lásd: [Engedélyek](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
+- Kövesse az eszközbevezetési folyamatot az eszközök bevezetéséhez az eszközkezelésbe. Ha az Eszközbevezetés (előzetes verzió) lehetőség hiányzik az M365 megfelelőségi **Beállítások** közül, erősítse meg, hogy rendelkezik a fent felsorolt megfelelő licencekkel és engedélyekkel. További információért lásd: [Eszközök bevezetése](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
+- Adatveszteség-megelőzési házirendek létrehozása a bizalmas elemek védelméhez. További információért lásd: [Végpont DLP-házirend forgatókönyvek](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios &preserve-view=true).
 
-A Microsoft Endpoint DLP szolgáltatásról további információt a [Microsoft 365 Végpontok adatvesztésének megelőzéséről (előzetes verzió) című témakörben talál.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about)
+A Microsoft végponti adatveszteség-megelőzés szolgáltatásról további információért lásd: [A Microsoft 365 végponti adatveszteség-megelőzés (előzetes verzió)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
+
+**Fontos adatgyűjtési lépések, ha támogatás szükséges:**
+
+1. MDATP ügyfél elemző előnézet letöltése innen: [https://aka.ms/betamdatpanalyzer](https://aka.ms/betamdatpanalyzer "https://aka.ms/betamdatpanalyzer")
+2. Eszköz futtatása rendszergazdaként a parancsablakból:
+3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
+4. Amikor az "Adja meg a nyomkövetési percek számát:" kérés jelenik meg, adja meg, hogy hány perc szükséges az eset futtatásához.
+5. Eset futtatása
+
+Gyűjtse össze a támogatási szakembernek adandó zip fájl kimenetét.
