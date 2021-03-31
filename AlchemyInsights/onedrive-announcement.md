@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002660"
 - "9422"
-ms.openlocfilehash: dec51a33f9801291765c48c11ec616e870f3e054
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ecc1ecc0cede129cb66a788130d8d3bd7ab38ecf
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51404674"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440860"
 ---
-# <a name="one-drive-announcement"></a><span data-ttu-id="02ba7-102">One Drive közlemény</span><span class="sxs-lookup"><span data-stu-id="02ba7-102">One Drive announcement</span></span>
+# <a name="one-drive-announcement"></a><span data-ttu-id="ecfef-102">One Drive közlemény</span><span class="sxs-lookup"><span data-stu-id="ecfef-102">One Drive announcement</span></span>
 
-<span data-ttu-id="02ba7-103">Automatikusan biztonsági mentése a fájlokról és fényképekről, így mindig elérheti őket, még akkor is, ha számítógépe elveszett, megsérült vagy ellopták.</span><span class="sxs-lookup"><span data-stu-id="02ba7-103">Back up files and photos automatically, so you'll always have access to them even if your PC is lost, damaged, or stolen.</span></span> <span data-ttu-id="02ba7-104">További információ: Az ingyenes [OneDrive PC-mappák biztonsági biztonsági beállítása.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)</span><span class="sxs-lookup"><span data-stu-id="02ba7-104">For more information, see [Set up free OneDrive PC Folder back up](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup).</span></span>
+<span data-ttu-id="ecfef-103">Automatikusan biztonsági mentése a fájlokról és fényképekről, így mindig elérheti őket, még akkor is, ha számítógépe elveszett, megsérült vagy ellopták.</span><span class="sxs-lookup"><span data-stu-id="ecfef-103">Back up files and photos automatically, so you'll always have access to them even if your PC is lost, damaged, or stolen.</span></span> <span data-ttu-id="ecfef-104">[Állítsa be az ingyenes OneDrive PC mappa biztonsági biztonsági beállítását.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)</span><span class="sxs-lookup"><span data-stu-id="ecfef-104">[Set up free OneDrive PC Folder back up](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup).</span></span>
