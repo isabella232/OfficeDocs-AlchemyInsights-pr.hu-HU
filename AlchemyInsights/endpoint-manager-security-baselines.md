@@ -1,5 +1,5 @@
 ---
-title: EndPoint Manager – Biztonsági alapértékek
+title: Endpoint Manager – Biztonsági alaptervek
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "10084"
 - "6700005"
-ms.openlocfilehash: d2a063fdc4929cbee5fef71bfb47ace8f2ba458f
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
-ms.translationtype: MT
+- "10064"
+- "9003771"
+ms.openlocfilehash: 36b480c7ed4715338fda056eafd69c511093e627
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420881"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440886"
 ---
-# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – Biztonsági alapértékek
+# <a name="endpoint-manager---security-baselines"></a>Endpoint Manager – Biztonsági alaptervek
 
-A biztonsági alapértékek a Windows beállításainak előre konfigurált csoportjai, amelyek segítenek a megfelelő biztonsági csoportok által ajánlott biztonsági beállítások alkalmazásában. Ezek az alapértékek testre szabhatók úgy, hogy csak a kívánt beállításokat és értékeket adjanak eredményre. A biztonsági alapértékekkel kapcsolatos további információkért lásd: Windows 10-es eszközök konfigurálása biztonsági alaptervekkel [az Intune-ban.](https://docs.microsoft.com/mem/intune/protect/security-baselines)
+A biztonsági alaptervek előre konfigurált Windows beállítások csoportja, amelyek segítenek Önnek alkalmazni azokat a beállításokat, amelyet a releváns biztonsági csoportok ajánlottak. Ezeket az alapterveket testre lehet szabni, hogy csak a kívánt beállításokat és értékeket adják vissza. További információkért a biztonsági alaptervekről, lásd a [Biztonsági alaptervek használata a Windows 10 eszközök Intune-ban való konfigurálásához](https://docs.microsoft.com/mem/intune/protect/security-baselines)menüpontot.
 
-Ezekhez a termékekhez jelenleg alapértékek vannak:
+Jelenleg ezekhez a termékekhez találhatók alaptervek:
 
-- A Windows MDM biztonsági beállításai
-- Microsoft Defender az EndPoint biztonságért
+- Windows MDM Biztonsági beállítások
+- Végponthoz készült Microsoft Defender Biztonság
 - Microsoft Edge
 
-Az alaptervek egyesét rendszeres időközönként frissítjük, és növekményes verziókban adva ki. Minden egyes verzió hozzáadja és eltávolítja az előző verzió beállításait, hogy az alapterv megfeleljen az aktuális útmutatásnak. Az Endpoint Security Security Alaptervek konzolja lehetővé teszi a különböző verziók összehasonlítását úgy, hogy láthatóvá teszi a verzióról verzióra vonatkozó módosításokat.
+Mindegyik alaptervet időszakosan frissítjük és lépésenkénti verziókban adjuk ki. Mindegyik verzió hozzáad, vagy eltávolít beállításokat az előző verziókból annak érdekében, hogy az alapterv az aktuális útmutatásnak megfelelő legyen. A Biztonsági alapterv konzolja a Végpont biztonságban lehetővé teszi a különböző verziók összehasonlítását azáltal, hogy láthatóvá teszi a verziónkénti változtatásokat.
 
-Ha segítségre van szüksége ahhoz, hogy a leghatékonyabban módosítsa az alapterv verzióját, tekintse meg az Alapterv biztonsági profilok kezelése a [Microsoft Intune-ban](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
+Ahhoz az útmutatáshoz, hogy leghatékonyabban lehessen módosítani, melyik alapterv van üzembe helyezve, lásd a [Biztonsági alapterv-profilok kezelése a Microsoft Intune-ban](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure) lehetőséget.
 
-Egy biztonsági alapterv telepítése után eszközönként figyelheti a központi telepítés állapotát, és áttekintheti a beállításokat.
+A biztonsági alapterv üzemebe helyezése után megfigyelheti az üzembe helyezés állapotát és áttekintheti a beállításokat eszközről eszközre.
 
-**Megjegyzés:** Az alaptervek jelentéskészítési adatai akár 24 órát is igénybe vehetnek a kezdeti telepítéstől az eszközig, illetve akár 6 órát is igénybe vehetnek a további frissítések. 
+**Megjegyzés:** Az alaptervek jelentési adatának megjelenése akár 24 órát is igénybe vehet az eszközre való telepítés előkészítésétől, és akár 6 órát is a további frissítéseknél. 
 
-Az alapterv-beállítások alkalmazásának leggyakoribb oka az, hogy ugyanazt a beállítást használják egy másik profilban. Az adott eszközre vonatkozó eset megvizsgálása az Alap biztonsági alapterv profil Eszköz állapota csomópontján lehetséges. Részletes információkért lásd: [Ütközések feloldása biztonsági alaptervek esetén.](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines)
+A leggyakoribb oka annak, ha egy alapterv-beállítás nem alkalmazható az, hogy ugyanazt a beállítást már egy másik profilban is használják. Bizonyos eszköznél ki lehet vizsgálni ezt a forgatókönyvet a Biztonsági alapterv profiljának Eszközállapot csomópontjából. További részletekért lásd a [Biztonsági alaptervek konfliktusainak megoldása](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines) menüpontot.
