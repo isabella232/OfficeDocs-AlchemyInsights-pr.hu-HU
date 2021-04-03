@@ -1,5 +1,5 @@
 ---
-title: BitLocker helyreállítási kulcsok
+title: Bitlocker helyreállítási kulcsok
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685888"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505070"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Hozzáférés a BitLocker helyreállítási kulcsaihoz
+# <a name="accessing-bitlocker-recovery-keys"></a>A Bitlocker helyreállítási kulcsok elérése
 
-A BitLocker-beállítások Intune-végpontok védelmi házirendjének konfigurálásakor meghatározhatja, hogy a BitLocker helyreállítási információkat az Azure Active Directoryban kell-e tárolni.
+A Bitlocker-beállítások Intune Endpoint Protection policy konfigurálásakor meg lehet határozni, hogy a Bitlocker helyreállítási információkat az Azure Active Directory tárolja-e.
 
-Ha ez a beállítás be van állítva, akkor a tárolt helyreállítási adatoknak a Intune-rendszergazdák számára kétféleképpen kell szerepelniük az Intune-eszközök lapon, a következő két módon:
+Ha ez a beállítás be van állítva, akkor a tárolt helyreállítási adatoknak az Intune-rendszergazdáknak az Intune Devices blade eszközben tárolt eszközrekord-adatok részeként két módon kell láthatónak lenniük:
 
-Eszközök – Azure AD-eszközök – > "eszköz" vagy eszközök – > minden eszköz – > "eszköz" – > helyreállítási kulcsok
+Eszközök – Azure AD-eszközök –> "Eszköz" VAGY Eszközök -> Minden eszköz -> "Eszköz" -> helyreállítási kulcsok
 
-Azt is megteheti, hogy az eszközhöz rendszergazdai hozzáférés van megnyitva, a helyreállítási kulcs (jelszó) a következő parancs futtatásával tekinthető meg egy rendszergazdai jogú parancssorból:
+Ha maga az eszköz rendszergazdai hozzáféréssel rendelkezik, a helyreállítási kulcsot (Jelszó) a következő parancs rendszergazdai jogú parancssorból való futtatásával láthatja:
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Ha az eszköz az Intune-ba való bejelentkezés előtt titkosított, lehet, hogy a helyreállítási kulcs társítva van a Microsoft-fiókhoz (MSA), amellyel az OOBE folyamat során bejelentkezhet az eszközre. Ebben az esetben a MSA való hozzáférés  https://onedrive.live.com/recoverykey és bejelentkezés során meg kell jeleníteni azokat az eszközöket, amelyekhez a helyreállítási kulcsokat tárolták.
+Ha az eszközt az Intune-ban való regisztráció előtt titkosították, előfordulhat, hogy a helyreállítási kulcsot az OOBE-folyamat során az eszközbe való bejelentkezéshez használt "Microsoft-fiók" (MSA) társította. Ebben az esetben az MSA elérésének és az azzal való bejelentkezésnek meg kell mutatnia az eszközöket, amelyek helyreállítási kulcsait  https://onedrive.live.com/recoverykey tárolta.
  
-Ha az eszköz tartományon alapuló csoportházirend-konfiguráción keresztül volt titkosítva, a helyreállítási adatok a helyszíni Active Directoryban tárolhatók.
- 
+Ha az eszközt tartományalapú csoportházirenden keresztül konfigurálva titkosította, a helyreállítási információkat a rendszer a számítógép active directoryjában tárolhatja.
+
+Ha konfigurálta az Végpontvédelmi házirendet a helyreállítási kulcs Azure Active Directoryban való tárolására, de egy adott eszköz kulcsát még nem töltötte fel, a feltöltést úgy elindíthatja, hogy a mem konzolról elforgatja az adott eszköz helyreállítási kulcsát. A részletekért [lásd: BitLocker helyreállítási kulcsok elforgatása.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

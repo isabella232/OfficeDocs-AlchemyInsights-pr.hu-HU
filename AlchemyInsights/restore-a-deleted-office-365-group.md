@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774704"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505688"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Törölt Microsoft 365-csoport visszaállítása
 
-A törölt csoportok 30 napig megőrződnek. Törölt csoport visszaállítása:
-  
-1. Az [Exchange felügyeleti központban](https://outlook.office365.com/ecp/)válassza a **címzettek** elemet a bal oldali ablaktáblában, és válassza a **csoportok**lehetőséget. Ha egy csoport törlése 30 napnál régebben megszűnt, az megjelenik a listában, és az Állapot oszlopban megjelenik a törölt dátum.
+A törölt Microsoft 365-csoportokat és Microsoft Teamseket a törléstől számított 30 napon belül visszaállíthatja.
 
-2. Jelölje ki a csoportot, és kattintson a parancssáv **visszaállítása** parancsra, vagy kattintson a részletek ablaktábla "ide kattintva visszaállíthatja" hivatkozásra.
+1. Ha be kell jelentkeznie a Microsoft 365 Felügyeleti központba, és fel kell sorolni a törölt csoportokat és csoportokat, lépjen a [Microsoft 365 Felügyeleti központba.](https://aka.ms/RestoreDeletedGroup)
 
-Ha további információra kíváncsi, vagy meg szeretné tudni, hogyan állíthatja vissza a csoportokat a PowerShell használatával, olvassa el [a törölt Microsoft 365-csoport visszaállítása](https://go.microsoft.com/fwlink/?linkid=867802)című témakört.
-  
+    **Megjegyzés:** Jelentkezzen be a bérlői rendszergazdai vagy a csoport-rendszergazdai szerepkörhöz hozzárendelt fiókkal.
+
+1. Jelölje ki a visszaállítani kívánt törölt Microsoft 365-csoportot/Teamst, és kattintson a **csoport visszaállítása elemre.**
+
+    Ha a csoport nem állítható vissza ütköző SMTP-cím miatt, az alábbi paranccsal keresse meg az ütközést okozó objektumot, és távolítsa el az SMTP-címet:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Megjegyzés:** Bizonyos esetekben akár 24 óra is elehet, amíg a csoport és az összes adata visszaállítható.
+
+    További információért, illetve a csoportok PowerShell használatával való visszaállításáról a Törölt [Microsoft 365-csoport](https://go.microsoft.com/fwlink/?linkid=867802)visszaállítása.
