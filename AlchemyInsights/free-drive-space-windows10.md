@@ -1,5 +1,5 @@
 ---
-title: Lemezterület felszabadítja a Windows 10-ben
+title: Lemezterület felszabadítása a Windows 10 rendszerben
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -12,48 +12,50 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9771"
+- "9774"
+- "9005390"
 - "9005403"
-ms.openlocfilehash: 3838f3db3bc5f54bcb1a2558484056f3194b76e1
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036587"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505358"
 ---
-# <a name="free-up-drive-space-in-windows-10"></a>Lemezterület felszabadítja a Windows 10-ben
+# <a name="free-up-drive-space-in-windows-10"></a>Lemezterület felszabadítása a Windows 10 rendszerben
 
-A következő két lehetőséggel szabadíthat fel lemezterületet a Windowsban:
+Alább bemutatunk két lehetőséget arra, hogyan szabadíthat fel lemezterületet a Windowsban:
 
-- Szabadíthat fel lemezterületet a Windows 10-ben.
-- Tárterületet szabadíthat fel a Windows 10-frissítések számára külső tárolóeszköz segítségével.
+- Felszabadíthat lemezterületet a Windows 10-ben.
+- Külső tárolóeszköz segítségével felszabadíthat tárterületet a Windows 10 frissítései számára.
 
-Ha a Lemezkarbantartó használata után továbbra is kevés a lemezterület, akkor lehet, hogy a Temp mappa gyorsan kitölti a Microsoft Store által használt alkalmazásfájlokat (.appx). A probléma megoldásához állítsa alaphelyzetbe az Áruházat, ürítse ki az Áruház gyorsítótárát, majd futtassa a Windows Update hibaelhárítót. Mielőtt továbblép, győződjön meg arról, hogy a Microsoft Store be van zárva.
+Ha a Lemezkarbantartó használata után is kevés a szabad lemezterület, előfordulhat, hogy a Temp mappában gyorsan összegyűlnek a Microsoft Store által használt alkalmazásfájlok (.appx). A probléma elhárításához állítsa alaphelyzetbe a Store-t, ürítse ki a Store gyorsítótárát, majd futtassa a Windows Update hibaelhárítóját. Ügyeljen arra, hogy az alábbi lépések elvégzése előtt bezárja a Microsoft Store-t.
 
 **1. lépés: A Microsoft Store alaphelyzetbe állítása**
 
-**Megjegyzés** Ez véglegesen törli az alkalmazásadatokat az eszközön, beleértve a beállításokat és a bejelentkezési adatokat.
+**Megjegyzés:** Ez a művelet véglegesen törli az eszközön levő alkalmazásadatokat, beleértve a személyes beállításokat és a bejelentkezési adatokat is.
 
-1. Válassza a **Start**  >  **Settings**  >  **Apps apps**&  >  **gombra.**
+1. Válassza a **Start** > **Gépház** > **Alkalmazások** > **Alkalmazások és szolgáltatások** lehetőséget.
 
-1. Az appok listájában keresse meg és válassza a Microsoft Store lehetőséget.
+1. Keresse meg és jelölje ki a Microsoft Store-t az alkalmazások listáján.
 
-1. Válassza **a Speciális beállítások lehetőséget.**
+1. Válassza a **Speciális beállítások** lehetőséget.
 
-1. Görgessen le, és **válassza az Alaphelyzet**, majd az **Alaphelyzetbe állítás megerősítése lehetőséget.**
+1. Görgessen lefelé, és válassza az **Alaphelyzet** gombot, majd a felugró panelen válassza ismét az **Alaphelyzet** gombot.
 
 **2. lépés: A Microsoft Store gyorsítótárának kiürítése**
 
-1. A Windows billentyű + R billentyűkombinációt lenyomva nyissa meg a Futtatás párbeszédpanelt.
+1. Nyomja le a Windows billentyűt + az R billentyűt a Futtatás párbeszédpanel megnyitásához.
 
-1. Írja be a wsreset.exe, és válassza az **OK gombot.**
+1. Írja be a wsreset.exe parancsot, és válassza az **OK** gombot.
 
-1. Megnyílik egy üres parancssorablak. Körülbelül 10 másodperc elteltével az ablak bezárul, és az Áruház automatikusan megnyílik.
+1. Ekkor megnyílik egy üres parancssori ablak. Körülbelül 10 másodperc elteltével az ablak bezárul, és automatikusan megnyílik a Store.
 
 **3. lépés: A Windows Update alaphelyzetbe állítása**
 
-1. Válassza **a Start**  >  **Settings** Update & Biztonsági hibaelhárítás  >    >  **lehetőséget.**
+1. Válassza a **Start** > **Gépház** > **Frissítés és biztonság** > **Hibaelhárítás** lehetőséget.
 
-1. Görgessen le, és válassza a **Windows Update** listában a Hibaelhárító **futtatása lehetőséget.**
+1. Görgessen lefelé, és jelölje ki a lista **Windows Update** elemét, majd válassza **A hibaelhárító futtatása** gombot.
 
 1. Indítsa újra a számítógépet, és ellenőrizze, hogy továbbra is tapasztalja-e a problémát.
 

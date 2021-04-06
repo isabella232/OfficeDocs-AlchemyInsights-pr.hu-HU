@@ -5,23 +5,32 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 5cc160eb3d78f92ffb82cab79db2685fa9aef88f
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 2939012f3a3e01106bcf7a44bed14b954005211d
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553346"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505790"
 ---
 # <a name="recording-in-teams"></a>Rögzítés a Teamsben
 
-Ha nem tud rögzíteni a Teamsben, vagy meg szeretné tudni, hogy miként a rögzíthet felvételeket, próbálkozzon az alábbi cikkek valamelyikével.
+A Microsoft Teams-beli értekezletek felvételei már a OneDrive-on vagy a SharePointban is tárolhatók. További információért, illetve a funkció használatának megkezdéséhez tekintse át az Üzenetközpont következő bejegyzését: [(Frissítve) Microsoft Teams: a OneDrive-on és a SharePointban mentett értekezletfelvételek](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-- Ha meg szeretné tudni, hogy miként rögzíthet egy Teams-értekezletet, vagy milyen felhasználók indíthatnak és állíthatnak le rögzítést, kérjük, tekintse át az [Értekezletek rögzítése a Teamsben](https://support.office.com/client/34dfbe7f-b07d-4a27-b4c6-de62f1348c24) című részt.
+Azzal, hogy áthelyezi a tárolóhelyet a OneDrive-ra vagy a SharePointba, érvényét veszti az a korábbi követelmény, hogy a Streamnek elérhetőnek kell lennie az Ön régiójában.
 
-- Ha meg szeretné tudni, hogy miként engedélyezheti és konfigurálhatja a szervezetében lévő Teams-csapatok rögzítési funkcióját, kérjük, tekintse át [Felhőbeli Teams-értekezletek rögzítése](https://docs.microsoft.com/microsoftteams/cloud-recording)című részt.
+Ha meg szeretné tudni, hogyan **engedélyezheti és konfigurálhatja a Teams rögzítési funkcióját** a szervezete számára, és **milyen vezérlőkkel engedélyezheti vagy tilthatja le az értekezletek rögzítését adott felhasználók számára**, tekintse át a [Felhőalapú rögzítés a Teamsben](https://docs.microsoft.com/microsoftteams/cloud-recording) című cikket.
+
+Ha **nem tud rögzíteni a Teamsben, vagy meg szeretné ismerni a Teamsben való rögzítés menetét**, megpróbálhat információt keresni az alábbi cikkek valamelyikében:
+
+- Ha még nem állította be a Teams értekezletfelvételeinek a OneDrive-on vagy a SharePointban való tárolását, akkor ezek a képességek a Stream régiónkénti és országonkénti elérhetőségétől függenek. Ha nem tud rögzíteni egy értekezletet, győződjön meg arról, hogy a [Stream elérhető az Ön országában vagy régiójában](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). További információért olvassa el az Üzenetközpont következő bejegyzését a Felügyeleti portálon: [Frissített funkció: A Microsoft Stream felhőbeli felvételeinek regionálisan szabályozott tárolása](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+
+- Teams-értekezletek rögzítéséhez [meghatározott licenceket és házirendeket kell a felhasználókhoz rendelni](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), egyebek között Stream-licenceket az értekezletfelvételek Microsoft Streambe való feltöltéséhez vagy onnan való letöltéséhez.
+
+- Ha meggyőződött arról, hogy az összes követelménynek megfelel, beleértve a licencelést, a házirendeket és a Stream regionális elérhetőségét, tekintse át az [Értekezletek rögzítése a Teamsben](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24) című cikket.
