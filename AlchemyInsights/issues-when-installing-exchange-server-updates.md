@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50694391"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645169"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Problémák az Exchange Server-frissítések telepítésekor
 
-Mielőtt telepítené az Exchange Server-frissítéseket, tekintse meg az Exchange frissítése a legújabb összegző frissítésre című cikk "Ajánlott eljárások" című [szakaszát.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Különösen fontos, hogy magasabb szintű CMD-parancssor használatával telepítse a frissítéseket (kivéve, ha a frissítések a Microsoft Update-ben vannak telepítve). Ez a kumulatív és a biztonsági frissítésekre is vonatkozik!
+Ha frissítenie kell az Exchange Serverhez elérhető legújabb összegző frissítésre, részletes lépésekkel frissíthet az aktuális [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) curól a célra.
 
-Ha a biztonsági frissítések telepítésekor vagy a frissítés telepítése után hibaüzeneteket lát, tekintse át ezt a cikket a sikertelen telepítésekkel kapcsolatos [hibák elhárításáról.](https://aka.ms/exupdatefaq)
+Ha az Exchange Server frissítései során vagy után hibákat talál, tekintse át az Exchange frissítése a legújabb összegző frissítésre című cikk "Ajánlott eljárások" című [szakaszát.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Nagyon fontos, hogy rendszergazda jogú CMD-parancssor használatával telepítse a biztonsági frissítéseket (ha a frissítések nem a Microsoft Update szolgáltatáson keresztül vannak telepítve).
+
+Ha a biztonsági frissítések telepítésekor vagy a frissítés telepítése után hibaüzenetet lát, tekintse meg Az Exchange halmozott és biztonsági frissítésének javítása nem sikerült a telepítésével kapcsolatos [hibákat.](https://aka.ms/exupdatefaq)
