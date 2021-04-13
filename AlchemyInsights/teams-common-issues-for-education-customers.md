@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739438"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692396"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>A Teams gyakori problémái az oktatási ügyfelek számára
 
@@ -45,7 +46,7 @@ Ha segítségre van szüksége a Teams telepítésével kapcsolatban a távoktat
     6. A Skype Vállalati verzió felügyeleti központjában kattintson a **hangkonferencia**, majd a **felhasználók** elemre.
     7. Jelölje ki a kérdéses felhasználót, és ellenőrizze, hogy a felhasználó rendelkezik-e alapértelmezett nem ingyenes telefonszámmal.
 
-    További információért olvassa el a [Hanghíváscsomagok](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) című cikket, vagy hívja a Microsoft kereskedelmi számlázási csapatát a licencelésre vonatkozó kérdésekkel kapcsolatos segítségért.
+    További információért olvassa el a [Microsoft Teams Hívástervek](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) című cikket, vagy hívja a Microsoft kereskedelmi számlázási csapatát a licencelésre vonatkozó kérdésekkel kapcsolatos segítségért.
 
     További források
 
