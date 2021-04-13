@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Edge használatának megkezdése
+title: A Microsoft Edge használatának első kezdése
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678384"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692756"
 ---
-# <a name="start-using-microsoft-edge"></a>A Microsoft Edge használatának megkezdése
+# <a name="start-using-microsoft-edge"></a>A Microsoft Edge használatának első kezdése
 
-A Microsoft kiadta az új Microsoft Edge-et, amely a webböngésző következő generációja. A króm nyílt forrású Alapítványon alapul, és a Microsoft-termékekkel (például a SharePointtal és a OneDrive) való együttműködésre van optimalizálva.
+A Microsoft kiadta az új Microsoft Edge-et, amely webböngészőjének következő generációja. A Chromium nyílt forráskódú alapra épül, és a Microsoft-termékekkel, például a SharePointtal és a OneDrive-val való munkához lett optimalizálva.
 
-Ha a Google Chrome, a Mozilla Firefox vagy a Safari alkalmazásban problémákat tapasztal, javasoljuk a Microsoft Edge használatát.
+Ha problémákat tapasztal a Google Chrome-mal, a Mozilla Firefoxkal vagy a Safarival kapcsolatban, javasoljuk, hogy használja a Microsoft Edge böngészőt.
 
-Ha Ön egy nagy szervezet rendszergazdája, a kezdéshez használja a [Microsoft Edge beállítási útmutatóját](https://go.microsoft.com/fwlink/?linkid=2142423) .
+Ha Ön egy nagyobb szervezet rendszergazdája, első lépésként használja a [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142423) beállítási útmutatóját.
 
-Ha egyszerre csak egy eszközön szeretné letölteni a Microsoft Edge-et, ugorjon [az új Microsoft Edge bevezetése](https://go.microsoft.com/fwlink/?linkid=2141049)elemre.
+Ha a Microsoft Edge-et egyszerre egy eszközre is le kell töltenie, akkor az új [Microsoft Edge bemutatkozik.](https://go.microsoft.com/fwlink/?linkid=2141049)

@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662507"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692468"
 ---
 # <a name="pstn-calling-plans"></a>Nyilvános telefonhálózati híváscsomagok
 
@@ -26,6 +26,6 @@ Ha szeretné, hogy felhasználói hagyományos telefonszámokat is tudjanak hív
 
 - A vásárlási folyamat megkezdéséhez olvassa el a [Híváscsomag vásárlása](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) című témakört.
 
-- A [Kommunikációs kreditek ](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) beállításával megakadályozhatja, hogy a felhasználók **elhasználják az összes percet**. Az árak megtekinthetők [itt](https://products.office.com/microsoft-teams/voice-calling). 
+- A [Kommunikációs kreditek](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) beállításával megakadályozhatja, hogy a felhasználók **elhasználják az összes percet**. Az árak megtekinthetők [itt](https://products.office.com/microsoft-teams/voice-calling). 
 
-- További információt a [Telefonos rendszer és a híváscsomagok](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) vagy a[Mi az a kommunikációs kredit?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits) témákban talál
+- További információ: [Microsoft Teams-telefon és Microsoft](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) Teams-hívástervek vagy [Kommunikációs kreditek.](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

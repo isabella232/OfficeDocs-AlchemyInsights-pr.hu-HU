@@ -1,5 +1,5 @@
 ---
-title: A Teams Direct Routing beállítása
+title: Hogyan konfigurálható a Teams közvetlen átirányítása?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c001cc394088d977e5544551a44f6f765f35ce3c
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704896"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692144"
 ---
-# <a name="phone-system-direct-routing-for-microsoft-teams"></a>Telefonos közvetlen útválasztás a Microsoft Teams rendszerhez
+# <a name="direct-routing-for-microsoft-teams"></a>Közvetlen útválasztás a Microsoft Teamshez
 
-Az alábbi cikkekből megtudhatja, hogy miként tudhat meg többet a [Microsoft Teams rendszerhez készült közvetlen útválasztásról](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page): 
+Az alábbi cikkekből többet is megtud megtud a [Microsoft Teams közvetlen átirányítási szolgáltatásról:](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page) 
 
-- [Közvetlen műveletterv tervezése](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
-- [Közvetlen útválasztás beállítása](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
-- [A közvetlen útválasztás figyelése és hibaelhárítása](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
+- [Közvetlen útválasztás megtervezése](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
+- [A közvetlen útválasztás beállítása](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
+- [Közvetlen útválasztás figyelése és hibaelhárítása](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
 
-**Megjegyzés:** A [Teams Akadémia közvetlen](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) átirányítását is megtekintheti a YouTube-videóban.
+**Megjegyzés:** A [Teams Academy](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) Direct Routing YouTube videóját is meg tudja nézni.

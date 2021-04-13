@@ -1,5 +1,5 @@
 ---
-title: 'CSS: a PSTN-oszlop Deep Link szabálya'
+title: 'CSS: PSTN-oszlop – mélyhivatkozási szabály'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: 9e0e95ce9890609a878f9346ad1e1ffc7ce5ca98
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 277afb1deeca90d1bd56608c969b4b141abe49c2
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746365"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692576"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN-hívás a Skype vállalati online verzióval
+# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN-hívás a Skype Vállalati online verzióval
 
-Ha PSTN-hívásokat szeretne kezdeményezni a Microsoft 365, szüksége lesz egy [Microsoft 365-ös hívási csomagra](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) , illetve a helyszíni PSTN-alapú telefonos infrastruktúrával való kapcsolatra. További információ:
+Ha nyilvános telefonhálózati hívásokat szeretne kezdeményezni a Microsoft 365-ben, Szüksége lesz egy [Microsoft 365-hívási](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) csomagra, illetve kapcsolatra a helyszíni nyilvános telefonhálózati infrastruktúrával. További információ:
 
-- [A hangkonferencia és a hívási csomagok elérhetősége az országban és a régióban](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [A Microsoft 365 hangkonferencia-szolgáltatásaival kapcsolatos gyakori kérdések](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [Alapok hozzáadása és kommunikációs kreditek kezelése](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [A PSTN-hívók nem csatlakozhatnak Skype vállalati verziós betárcsázós konferenciahívásokhoz](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Az ország és a régió elérhetősége hangkonferenciákhoz és Microsoft Teams-hívási csomagokhoz](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [A Microsoft 365 audiokonferenciával kapcsolatos gyakori kérdések](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Egyenleg hozzáadása és kommunikációs kreditek kezelése](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [A nyilvános telefonhálózati hívók nem csatlakozhatnak a Skype Vállalati verzióbeli betárcsázós konferenciahíváshoz](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
