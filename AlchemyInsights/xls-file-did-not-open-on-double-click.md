@@ -1,8 +1,8 @@
 ---
-title: Az XLS-fájl nem nyílik meg dupla kattintással
+title: Az XLS-fájl nem nyílt meg duplán a
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796326"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770597"
 ---
-# <a name="excel-file-doesnt-open"></a>Nem nyílik meg az Excel-fájl
+# <a name="excel-file-doesnt-open"></a>Az Excel-fájl nem nyílik meg
 
-Próbálkozzon az alábbi javaslatok egyikével:
+Próbálkozzon az alábbi javaslatokkal:
 
-**Válassza az Excel alapértelmezettként lehetőséget**
+**Az Excel kiválasztása alapértelmezettként**
 
-* Kattintson a jobb gombbal a munkalapra, válassza a **Megnyitás a**következővel parancsot, majd kattintson az **Excel** elemre.
+* Kattintson a jobb gombbal a munkalapra, válassza a Megnyitás **a következővel** lehetőséget, majd válassza az **Excel lehetőséget.**
 
-**Gyors javítás futtatása**
+**Gyors helyreállítás futtatása**
 
-1. Nyissa meg a **vezérlőpult > programokat > programokat és funkciókat**.
+1. A **Programok és szolgáltatások > Vezérlőpult > megnyitása**
 
-2. Jelölje ki a kijavítani kívánt Office-terméket, majd válassza a **Change (módosítás**) lehetőséget.
+2. Jelölje ki a kijavítani kívánt Office-terméket, és válassza a Módosítás **gombot.**
 
-3. Válassza a **gyors javítás** lehetőséget, és válassza a **javítás**lehetőséget.
+3. Válassza a **Gyors helyreállítás,** majd a Javítás **lehetőséget.**
 
 **A nem használt Office-verziók eltávolítása**
 
-1. Nyissa meg a **vezérlőpultot > távolítsa**el a programot, majd válassza ki az eltávolítani kívánt Office-verziót.
+1. Válassza **a Vezérlőpult > Program** eltávolítása lehetőséget, és válassza ki az Office eltávolítani kívánt verzióját.
 
-2. Kattintson az **Eltávolítás**gombra.
+2. Kattintson **az Eltávolítás gombra.**
 
 3. Indítsa újra a számítógépet.
 
-**Az Office-fájlkiterjesztések megnyitásának beállítása az Office-ban a hibaelhárító futtatásával**
+**A hibaelhárító futtatásával beállíthatja, hogy az Office-fájlkiterjesztések megnyílnak az Office-ban**
 
-1. A hibaelhárító https://aka.ms/diag_officefile futtatása:
+1. Futtassa a következő hibaelhárítót: https://aka.ms/diag_officefile .
 
-2. A böngészőtől függően **nyissa meg** vagy **mentse** a hibaelhárítót az asztalra, és **futtassa** .
+2. A böngészőtől  függően nyissa meg vagy **mentse** a hibaelhárítót az asztalra, majd **futtassa** azt.

@@ -2,7 +2,7 @@
 title: Verify your domain
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,19 +15,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a34de7fa2aaaae365cf4562d31590d4b5fb7544
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734308"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770993"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
  **A rekord valószínűleg nem frissült az interneten keresztül.**
   
-Ez általában csak néhány percet vesz igénybe, hogy megtekintse az új rekordot, de alkalmanként csak néhány órát vehet igénybe. 
+Az új rekordot általában csak néhány percig tart, de időnként akár néhány óráig is eltarthat. 
   
-- Ha már várta, hogy már régóta, ellenőrizze, hogy másolta-e a pontos értéket a DNS-szolgáltatójánál a TXT-ellenőrző rekordba. Egy gyakori probléma nem tartalmazza a rekord "MS =" részét. Ehhez is szükségünk van!
+- Ha ilyen sokáig várt, ellenőrizze, hogy pontosan a PONTOS értéket másolta-e be a DNS-szolgáltatóNÁL található TXT rekordba. Gyakori probléma, hogy a rekord nem tartalmazza az "MS=" részt. Arra is szükség van!
 
-- Bizonyos DNS-szolgáltatóknak további lépésekkel kell elvégezniük a zónafájl mentését (ahol a DNS-rekord tárolva van), hogy a fájl az interneten keresztül frissüljön. Ellenőrizze, hogy mentette-e a módosításokat, így a Microsoft láthatja és ellenőrizheti a rekordot.
+- Egyes DNS-szolgáltatónál további lépéssel mentenie kell a zónafájlt (ahol a DNS-rekordot tárolja), hogy az szerte az interneten frissülni fog. Győződjön meg arról, hogy mentette a módosításokat, hogy a Microsoft lássa és ellenőrizni tudja a rekordot.

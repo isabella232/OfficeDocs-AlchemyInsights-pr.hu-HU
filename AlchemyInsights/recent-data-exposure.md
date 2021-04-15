@@ -1,8 +1,8 @@
 ---
-title: Legutóbbi adatexpozíció
+title: Legutóbbi adatok kitéve
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693233"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789362"
 ---
-# <a name="recent-data-exposure"></a>Legutóbbi adatexpozíció
+# <a name="recent-data-exposure"></a>Legutóbbi adatok kitéve
 
-A Microsoft értesült egy külső gyártótól, amely szerint a Microsoft támogatási adatainak kivonására szolgáló adatbázis hitelesítés nélkül is elérhető volt. December 31-én az 2019 a Microsoft biztosította az adatbázist.
+Egy külső kutató tudatta a Microsofttal, hogy a Redacted Microsoft támogatási adatokat üzemeltető adatbázis hitelesítés nélkül is elérhető volt. 2019. december 31-én a Microsoft biztonságosnak biztosította az adatbázist.
 
-Elkötelezettek vagyunk ügyfeleink biztonsága és biztonsága érdekében, és intézkedéseket teszünk a probléma jövőbeli előfordulásának megelőzésére. Megkezdődött az olyan ügyfeleink értesítése, akiknek ebben a kitakart adatbázisban szerepelnek az adatai. További információért kérjük, hogy tekintse meg a [legutóbbi információkkal kapcsolatos](https://aka.ms/privacyinfo)információkat.
+Elkötelezettek vagyunk ügyfeleink védelme és biztonsága mellett, és a probléma jövőbeli előfordulásainek elkerülése érdekében lépéseket isunk van. Megkezdtük az értesítéseket azon ügyfeleinknek, akiknek adatai jelen vannak ebben a redacted adatbázisban. További információért kérjük, olvassa el az Információk az ügyfelek tájékoztatásával [kapcsolatban friss információkhoz kapcsolódó információkat.](https://aka.ms/privacyinfo)

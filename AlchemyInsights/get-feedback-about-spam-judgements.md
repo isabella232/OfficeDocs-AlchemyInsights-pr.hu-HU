@@ -1,25 +1,28 @@
 ---
-title: '2571 új funkció: visszajelzés kérése a levélszemétről szóló ítéletekről'
+title: '2571 Új funkció: Visszajelzés küldése a levélszeméttel kapcsolatos ítélőképességről'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 04/21/2020
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: e68cda455ddb312be3c1d2e5f37cb77d566de598
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 098dd1d16ea94d99fdfdf9cf760462d3df92eee4
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707677"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767867"
 ---
-# <a name="get-feedback-about-spam-judgments"></a>Visszajelzés kérése a spam-ítéletekről
+# <a name="get-feedback-about-spam-judgments"></a>Visszajelzés küldése a levélszemét-ítélőképességről
 
-Rendszergazdaként egyszerűen bejelenthet gyanús e-maileket, URL-eket és tartalmakat a Microsoftnak a [beküldött üzenetek Intézőben](https://protection.office.com/reportsubmission). Azt is megteheti, hogy megérti a helytelenül megjelölt üzenet helytelen használatát. További információért olvassa el ezt a [bejelentést](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+> [!NOTE]
+> A Microsoft 365 biztonsági központot a következő [security.microsoft.com.](https://security.microsoft.com)
 
-Annak érdekében, hogy megkönnyítse a felhasználóknak, hogy közvetlenül jelentést készítsen a Microsoftnak a [jelentéskészítő üzenet bővítményen](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)keresztül.
+Rendszergazdaként egyszerűen bejelentheti a gyanús e-maileket, URL-címeket és tartalmakat a Microsoftnak [a Beküldéskezelőben.](https://security.microsoft.com/reportsubmission) Akár azt is megértheti, hogy miért lett hibásan megjelölve egy valódi üzenet. További információért tekintse meg ezt a [bejelentést.](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)
+
+A könnyebbség érdekében a jelentésüzenetek bővítmény segítségével közvetlenül a Microsoftnak is [bejelentheti őket.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)

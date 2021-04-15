@@ -2,7 +2,7 @@
 title: A Teams segítő beállítása és engedélyezése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801114"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787319"
 ---
-# <a name="set-up-a-cloud-auto-attendant"></a>A felhőalapú segítő beállítása
+# <a name="set-up-a-cloud-auto-attendant"></a>Felhőbeli segítő beállítása
 
-A segítőknek jelenleg konkrét licencelési követelményeik vannak. Lásd: [Mit nevezünk felhőalapú](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) segítőnek? a Teams segítői létrehozásának és beállításának megismeréséhez. 
+A segítők jelenleg speciális licenckövetelményekkel dolgoznak. A [Mi az a felhőbeli segítők?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) részt a Teams segítők létrehozásáról és beállításról olvashat. 
 
 További információ:
 
-- A Microsoft Teams segítségével [beállíthatja a felhőalapú segítőt](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) . 
-- [Hozzon létre egy felhőalapú hívási várólistát](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) a Microsoft Teams szolgáltatással. 
-- [A segítő és a hívási várólista fogadása közvetlenül a Teams-ról](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls) 
+- [Felhőbeli segítő beállítása a](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) Microsoft Teamsben. 
+- [Felhőbeli hívássor létrehozása a](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) Microsoft Teamsben. 
+- [Az automata hívásokat és hívássorokat közvetlenül a Teamsből is megválaszolhatja.](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls) 

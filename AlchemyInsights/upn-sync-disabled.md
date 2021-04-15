@@ -1,8 +1,8 @@
 ---
-title: Egyszerű UPN-szinkronizálás letiltva
+title: Upn sync disabled
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 31947d7c491e4116ffdb9baadf286cd4fbb50f2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749516"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782153"
 ---
-# <a name="upn-sync-disabled"></a>Egyszerű UPN-szinkronizálás letiltva
+# <a name="upn-sync-disabled"></a>Upn sync disabled
 
-Ha az Azure AD-hoz való szinkronizálást a március 30-án, 2016-ban futtatja, futtassa a következő Azure AD PowerShell-parancsmagot, és csak akkor engedélyezze a szervezetnek az egyszerű felhasználónevet:
+Ha 2016. március 30. előtt kezdte el a szinkronizálást az Azure AD-be, az alábbi Azure AD PowerShell-parancsmag futtatásával engedélyezze az upn soft matcht csak a szervezet számára:
   
- **Set-MsolDirSyncFeature-EnableSoftMatchOnUpn funkció engedélyezése $True**
+ **Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**
   
-Az UPN-alapú Soft-egyezés automatikusan be van kapcsolva azoknál a szervezetekben, amelyek az Azure AD-on való szinkronizálást kezdték el, illetve március 30, 2016
+Az upn szoftveres egyezés automatikusan be van kapcsolva az Azure AD-re 2016. március 30-án vagy azt követően szinkronizáló szervezeteknél.
   
-Ha többet szeretne megtudni arról, hogy miként engedélyezheti a Soft-egyezést az UPN-és egyéb szinkronizálási funkciókhoz, olvassa el az [Azure ad Connect szinkronizálási szolgáltatás](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
+A szoftveres egyezés UPN-hez és más szinkronizálási funkciókhoz való engedélyezéséről további információt Az Azure AD Connect szinkronizálási szolgáltatás [szolgáltatásairól olvashat.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 
