@@ -1,8 +1,8 @@
 ---
-title: Hálózat-kihasználtsági tervezés a OneDrive szinkronizálási alkalmazásához
+title: Hálózathasználat tervezése a OneDrive szinkronizálási alkalmazáshoz
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5838"
-ms.openlocfilehash: 2e70dfa85ce2647689f9057c8bf7ef4fd5c031f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a567339dcabc4df9428d36ef78fd151cd05ea7c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803211"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791990"
 ---
-# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>Hálózat-kihasználtsági tervezés a OneDrive szinkronizálási alkalmazásához
+# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>Hálózathasználat tervezése a OneDrive szinkronizálási alkalmazáshoz
 
-Ez a cikk azt jeleníti meg, hogy a rendszergazdák a OneDrive szinkronizálási alkalmazás központi telepítésére használják, és szeretnék becsülni a hálózati sávszélesség-felhasználóknak a szinkronizálást.  
+Ezt a cikket olyan rendszergazdák figyelmébe ajánljuk, akik a OneDrive szinkronizálási alkalmazás telepítését tervezik, és meg szeretnék becsülni, hogy a szinkronizáláshoz a felhasználóknak mekkora hálózati sávszélességre lesz szükségük.  
 
-- [Hálózat-kihasználtsági tervezés a OneDrive szinkronizálási alkalmazásához](https://docs.microsoft.com/onedrive/network-utilization-planning)
+- [Hálózathasználat tervezése a OneDrive szinkronizálási alkalmazáshoz](https://docs.microsoft.com/onedrive/network-utilization-planning)

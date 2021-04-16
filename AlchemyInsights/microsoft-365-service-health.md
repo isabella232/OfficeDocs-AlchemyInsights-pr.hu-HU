@@ -1,8 +1,8 @@
 ---
-title: A Microsoft 365 szolgáltatás állapota
+title: Microsoft 365 Szolgáltatás állapota
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742745"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794474"
 ---
-# <a name="microsoft-365-service-health"></a>A Microsoft 365 szolgáltatás állapota
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Szolgáltatás állapota
 
 
-Ellenőrizze a szolgáltatás állapotát a szolgáltatás állapota [irányítópultról](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Ha a jobb felső sarokban az **új felügyeleti központot** választja, megjelenik az új szolgáltatás-egészségügyi beállítások.
+Ellenőrizze bármely szolgáltatás állapotát a [Szolgáltatás állapota irányítópulton.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) A jobb **felső sarokban az** Új felügyeleti központ lehetőséget választva új szolgáltatás-állapot beállításokat fog látni.
 
-- Válassza a **Beállítások** lehetőséget a szolgáltatás állapota **e-mail-értesítések**fogadásához.
+- Válassza **a Beállítások lehetőséget** a szolgáltatás állapotáról **értesítő e-mailben való fogadáshoz.**
 
-- Ha problémát tapasztal a szolgáltatással kapcsolatban, válassza a **probléma bejelentése** lehetőséget.
+- Ha **problémát tapasztal** a szolgáltatással kapcsolatban, válassza a Probléma jelentése lehetőséget.
 
-- Az **Előzmények** lehetőséget választva áttekintheti a szervezet szolgáltatás-állapotának előzményeit. 
+- Válassza **az Előzmények** lehetőséget a szervezet szolgáltatás-állapotelőzményének áttekintéséhez. 
 
-További információt a [Microsoft 365-szolgáltatás állapotának ellenőrzése](https://docs.microsoft.com/office365/enterprise/view-service-health)című témakörben találhat. 
+További információ: [A Microsoft 365 szolgáltatás állapotának ellenőrzése.](https://docs.microsoft.com/office365/enterprise/view-service-health) 

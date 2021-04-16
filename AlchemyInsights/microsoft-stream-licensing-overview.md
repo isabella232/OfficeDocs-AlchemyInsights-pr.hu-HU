@@ -1,8 +1,8 @@
 ---
-title: A Microsoft stream licencelésének áttekintése
+title: A Microsoft Stream licenceléssel kapcsolatos áttekintése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b336ce5ab2df59c9a6e8b611be80d66289a18cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675336"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794222"
 ---
-# <a name="microsoft-stream-licensing-overview"></a>A Microsoft stream licencelésének áttekintése
+# <a name="microsoft-stream-licensing-overview"></a>A Microsoft Stream licenceléssel kapcsolatos áttekintése
 
-A Microsoft stream egy felhőalapú szolgáltatás, amelyet felhasználónként licenceltek. A Microsoft 365-előfizetések részeként érhető el. Az egyes előfizetések típusáról további információt a Microsoft 365 díjszabása című témakörben talál.
+A Microsoft Stream egy felhasználói előfizetésenként licencelt felhőszolgáltatás. A megfelelő Microsoft 365-előfizetések részeként érhető el. Az egyes előfizetési típusokkal kapcsolatos információkért tekintse meg a Microsoft 365 árait.
 
-- [A Microsoft stream licencelésének áttekintése](https://docs.microsoft.com/stream/license-overview)
+- [A Microsoft Stream licenceléssel kapcsolatos áttekintése](https://docs.microsoft.com/stream/license-overview)
