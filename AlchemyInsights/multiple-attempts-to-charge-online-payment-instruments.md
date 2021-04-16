@@ -1,8 +1,8 @@
 ---
-title: Több kísérlet az online fizetési eszközök kitöltésére
+title: Többszöri kísérlet az online fizetési eszközök feltöltésére
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: c0e62b02dec50f3bb4e42c1775e9d04d4c3806d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c177c88b3df5846f824d69efa3eb8c112e430
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724653"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792710"
 ---
-# <a name="past-due-account"></a>Korábbi esedékes fiók?
+# <a name="past-due-account"></a>Fiókon túli?
 
-A fizetés több okból is elutasítható, például ha a hitelkártya lejárt. A **Fizetés most** funkcióval bármikor megváltoztathatja hitelkártyaadatait, és azonnal ismét elküldheti a befizetést.
+A fizetés több okból is elutasítható, többek között annak érdekében, hogy a hitelkártya lejárt. A **Fizetés most** funkcióval bármikor megváltoztathatja hitelkártyaadatait, és azonnal ismét elküldheti a befizetést.
 
-1. A felügyeleti központban válassza a **számlázás > [termékek & szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lehetőséget.
-Az előfizetés megkeresése a fennmaradó egyenleggel A **számlázás** csoportban, az **előfizetéshez tartozik egy korábbi esedékes fizetés**, kattintson az **Egyenleg rendezése** elemre a teljes hátralék kifizetéséhez.
-2. Ha rendelkezik hitelkártyával, megváltoztathatja a lejárat dátumát, választhat egy másik kártyát, illetve [felvehet egy új kártyát](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-3. Ha nem rendelkezik hitelkártyával, választhat egy másik hitelkártyát, vagy [hozzáadhat egy új kártyát](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-4. A módosítások elvégzése után kattintson a **Mentés**gombra.
+1. A Felügyeleti központban a Számlázás és termékek > **[központban & adatokat.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+Keresse meg az előfizetést a fennálló egyenleggel. A Számlázás **szakaszban** az **Előfizetéshez** tartozása van mellett, kattintson az **Egyenleg** kifizetése elemre a teljes tartozás kifizetéséhez.
+2. Ha a hitelkártya az Ön tulajdonában van, módosíthatja a lejárat dátumát, másik kártyát választhat, vagy új [kártyát adhat hozzá.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
+3. Ha nem Ön a hitelkártya az Ön tulajdona, választhat másik hitelkártyát, vagy felvehet [egy új kártyát.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
+4. Miután befejezte a módosításokat, kattintson a Mentés **gombra.**
 
-**Megjegyzés**: miután megtörtént a fizetés, a múltbeli késedelmes bejelentések továbbra is láthatók lehetnek rövid ideig. Kérjük, várjon legalább **48 órát** , mielőtt felveszi a kapcsolatfelvételt a támogatási szolgálattal.
+**Megjegyzés:** A fizetés után előfordulhat, hogy a múltbeli határidőről szóló értesítés még látható marad rövid ideig. Várjon legalább **48 órát, mielőtt** az ügyfélszolgálathoz lép.
