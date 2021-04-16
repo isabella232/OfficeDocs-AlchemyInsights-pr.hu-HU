@@ -1,8 +1,8 @@
 ---
-title: A Windows 10 Bluetooth-problémáinak megoldása
+title: Bluetooth-problémák megoldása a Windows 10-ben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f20bf4a642e019c7901e988a027e0220f0f1b07b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730161"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812934"
 ---
-# <a name="fix-bluetooth-problems-in-windows-10"></a>A Windows 10 Bluetooth-problémáinak megoldása
+# <a name="fix-bluetooth-problems-in-windows-10"></a>Bluetooth-problémák megoldása a Windows 10-ben
 
-Ha a Bluetooth ikon hiányzik vagy a Bluetooth nem kapcsolható be vagy ki, akkor érdemes lehet futtatni a Bluetooth hibaelhárítót. [Nyissa meg a hibaelhárítási beállításokat](ms-settings:troubleshoot), **és a további problémák keresése és javítása**csoportban kattintson a **Bluetooth** elemre, majd **a hibaelhárító futtatása**parancsra.
+Ha hiányzik a Bluetooth ikon, vagy a Bluetooth nem lehet be- vagy kikapcsolni, futtassa a Bluetooth-hibaelhárítót. [Nyissa meg a Hibaelhárítási beállításokat,](ms-settings:troubleshoot)kattintson a **Bluetooth** elemre a Más problémák megkeresása és **kijavítása** csoportban, és kattintson **A hibaelhárító futtatása elemre.**
 
-Ha nem látja a Bluetooth ikont, de a Bluetooth nem jelenik meg az Eszközkezelőben:
+Ha nem látja a Bluetooth ikont, de a Bluetooth mégis megjelenik az Eszközkezelőben:
 
-1. Az Eszközkezelőben kattintson a **Bluetooth**elemre. Tartsa lenyomva a Bluetooth-adapter nevét (vagy kattintson rá a jobb gombbal), és válassza az **eszköz eltávolítása**parancsot.
+1. Az Eszközkezelőben kattintson a **Bluetooth elemre.** Tartsa nyomva a Bluetooth-adapter nevét (vagy kattintson rá a jobb gombbal), és kattintson az **Eszköz eltávolítása parancsra.**
 
-2. Állítsa le a Windows-eszközt, várjon pár másodpercet, majd kapcsolja vissza. A Windows megkísérli újratelepíteni az illesztőprogramot.
+2. Állítsa le a Windows-eszközt, várjon néhány másodpercet, majd kapcsolja be újra. A Windows megpróbálja újratelepíteni az illesztőprogramot.
 
-Ha nemrég telepítette a Windows 10 frissítéseket vagy frissített a Windows 10 rendszerre, érdemes lehet ellenőrizni az illesztőprogram frissítéseit:
+Ha nemrég telepítette a Windows 10 frissítéseit, vagy frissített a Windows 10-re, az illesztőprogram frissítéseit is ellenőrizheti:
 
-1. Az Eszközkezelőben kattintson a **Bluetooth**elemre, majd kattintson a Bluetooth-adapter nevére (amely a "rádió" szót is tartalmazza).
+1. Az Eszközkezelőben kattintson a **Bluetooth** gombra, majd a Bluetooth-adapter nevére (amely a "rádió" szót is tartalmazhatja).
 
-2. Nyomja le és tartsa lenyomva a Bluetooth-adaptert (vagy kattintson rá a jobb gombbal), majd kattintson az illesztőprogram-keresés **frissítése**  >  **automatikusan a frissített illesztőprogramban**elemre. Kövesse a lépéseket, majd kattintson a **Bezárás**gombra.
+2. Tartsa nyomva a Bluetooth-adaptert (vagy kattintson rá a jobb gombbal), majd kattintson az Illesztőprogram automatikus  >  **frissítése: Frissített** illesztőprogram keresése elemre. Kövesse a lépéseket, majd kattintson a Bezárás **gombra.**
 
       - Ha a Windows nem talál új Bluetooth-illesztőprogramot, keresse fel a számítógép gyártójának webhelyét, és töltse le onnan a legújabb Bluetooth-illesztőprogramot.
 
-    - A letöltés után kattintson az **Illesztőprogram frissítése**elemre,  >  és**tallózással keresse**meg a számítógépen az illesztőprogram-fájlokat,  >  **Keresse** meg azt a helyet, ahol az illesztőprogram-fájlokat tárolják > az **OK gombra**  >  **Next**, és kövesse a telepítési lépéseket.
+    - A letöltés után kattintson az Illesztőprogram frissítése gombra: Tallózással keresse meg a számítógépen az illesztőprogram-szoftvereket Tallózás gombra, keresse meg az illesztőprogram-fájlok tárolására használt helyet, > Tovább gombra, és kövesse a telepítési  >    >     >  lépéseket.
 
-3. Miután telepítette a frissített illesztőprogramot, indítsa újra a gépet, és ellenőrizze, hogy a probléma javítva van-e.
+3. A frissített illesztőprogram telepítése után indítsa újra a gépet, és ellenőrizze, hogy ez megoldja-e a csatlakozási problémát.
 
-A Bluetooth-hibák elhárításáról további információt a [Windows 10 Bluetooth-problémáinak megoldása](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems)című cikkben talál.
+A Bluetooth-problémák megoldásáról további információt a teljes, Bluetooth-problémák megoldása [a Windows 10-ben](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems)témakörben talál.

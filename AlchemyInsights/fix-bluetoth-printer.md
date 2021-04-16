@@ -1,8 +1,8 @@
 ---
-title: Bluetooth-nyomtató kijavítása
+title: Bluetooth-nyomtató kijavítva
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: bd419ca63d659167d7deccf34ce303ce29775099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744916"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812898"
 ---
-# <a name="fix-bluetooth-printer-connection-issues"></a>A Bluetooth-kapcsolattal kapcsolatos problémák megoldása
+# <a name="fix-bluetooth-printer-connection-issues"></a>Bluetooth-nyomtató csatlakozási problémáinak elhárítása
 
-Próbálkozzon ezekkel a hibaelhárítási lépésekkel a Bluetooth-nyomtató ismételt működéséhez:
+Próbálkozzon az alábbi hibaelhárítási lépésekkel, hogy a Bluetooth-nyomtató ismét megfelelően működik:
 
 
-1. Annak ellenőrzése, hogy be van-e kapcsolva a Bluetooth funkció:
-    1. Válassza **Start**a  >  **Beállítások**indítása Bluetooth-  >  **eszközökhöz**  >  **& egyéb eszközök**lehetőséget.
-    2. Kapcsolja be a Bluetooth **-kapcsolót**.
-2. Futtassa a Bluetooth hibaelhárítót. <br>
-    Válassza a **Start**gombot, írja be a **hibaelhárítási beállításokat**, és válassza a **Beállítások hibaelhárítása** lehetőséget. Válassza a menüben a **Bluetooth** lehetőséget, majd **futtassa a hibaelhárítót**.
+1. Ellenőrizze, hogy a Bluetooth be van-e kapcsolva:
+    1. Válassza **a Start**  >  **Settings**  >  **Devices**  >  **Bluetooth& egyéb eszközökre lehetőséget.**
+    2. Kapcsolja be a Bluetooth **kapcsolót.**
+2. Futtassa a Bluetooth-hibaelhárítót. <br>
+    Válassza **a Start** gombot, írja be a **hibaelhárítási beállításokat**, majd válassza a **Hibaelhárítási beállítások lehetőséget.** Válassza **a Menü Bluetooth** parancsát, és **futtassa a hibaelhárítót.**
 
-Ha ez nem oldja meg a munkát, próbálkozzon a Bluetooth-nyomtató eltávolításával és újratelepítésével:
+Ha ez nem működik, távolítsa el, majd telepítse újra a Bluetooth-nyomtatót:
 
-1. A nyomtató eltávolítása a beállítások között:
-    1. Válassza **Start**a  >  **Beállítások**indítása  >  **Devices**  >  **nyomtatókkal & szkennerek**lehetőséget.
-    2. A **nyomtatók & szkennerek**csoportban válassza ki a hibaelhárításhoz használt nyomtatót. Válassza az **eszköz eltávolítása**parancsot. Az utasításokat követve távolítsa el teljesen a nyomtatót.
-2. Távolítsa el bármelyik külső gyártótól származó nyomtató gyártójának szoftverét:
-    1. Válassza a beállítások **indítása**parancsot  >  **Settings**  >  **Apps**.
-    2. Az **alkalmazások & funkciók**csoportban keresse meg a nyomtató gyártójától (például HP, Canon vagy Epson) telepített szoftvert.
+1. Távolítsa el a nyomtatót a Beállítások lapon:
+    1. Válassza **a Start**  >  **Settings**  >  **Devices** Printers &  >  **scanners lehetőséget.**
+    2. A **Nyomtatók & csoportban** válassza ki a hibaelhárításhoz használni kívánt nyomtatót. Válassza **az Eszköz eltávolítása lehetőséget.** Az utasításokat követve távolítsa el teljesen a nyomtatót.
+2. Távolítsa el a külső nyomtatógyártó szoftvereket:
+    1. Válassza a **Start Settings** Apps  >  **(Beállítások**  >  **alkalmazások) lehetőséget.**
+    2. Az **Alkalmazások & szolgáltatások** alatt görgessen le a nyomtató gyártójától (például HP, Canon vagy Epson) telepített szoftvereket.
 3. A nyomtató kikapcsolása és újraindítása.
    1. Kapcsolja ki a nyomtatót, és húzza ki a hálózati kábelét. Várjon 30 másodpercet. 
    2. Csatlakoztassa a nyomtatót, és újból kapcsolja be.
-4. A nyomtató újratelepítése a beállítások között:
-    1. Válassza **Start**a  >  **Beállítások**indítása  >  **Devices**  >  **nyomtatókkal & szkennerek**lehetőséget.
-    2. A képernyő tetején kattintson a **nyomtató vagy a képolvasó hozzáadása** hivatkozásra, majd a megjelenő utasításokat követve telepítse újra a nyomtatót.
+4. Telepítse újra a nyomtatót a Beállítások lapon:
+    1. Válassza **a Start**  >  **Settings**  >  **Devices** Printers &  >  **scanners lehetőséget.**
+    2. Válassza a **képernyő tetején a** Nyomtató vagy szkenner hozzáadása hivatkozást, és az utasításokat követve telepítse újra a nyomtatót.

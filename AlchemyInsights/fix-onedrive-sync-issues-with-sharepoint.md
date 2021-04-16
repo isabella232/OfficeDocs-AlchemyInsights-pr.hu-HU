@@ -1,8 +1,8 @@
 ---
-title: A OneDrive szinkronizálási problémáinak elhárítása a SharePointtal
+title: A OneDrive szinkronizálási app problémáinak elhárítása SharePointtal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5800003"
 - "5724"
-ms.openlocfilehash: d24494f5fd778d16dea583b91b99148c606d8adc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 7b9b496534fbff77776c935d401d49208b0355b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713796"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812754"
 ---
-# <a name="fix-onedrive-sync-issues-with-sharepoint"></a>A OneDrive szinkronizálási problémáinak elhárítása a SharePointtal
+# <a name="fix-onedrive-sync-issues-with-sharepoint"></a>A OneDrive szinkronizálási app problémáinak elhárítása SharePointtal
 
-Ha a OneDrive nem az Ön vagy a felhasználói által várt módon szinkronizál a [SharePointtal,](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US) a SharePoint Online szinkronizálási problémáinak megoldásáról további információért olvassa el.
+Ha a OneDrive nem az Ön vagy a felhasználói által elvárt módon szinkronizál a SharePointtal, tanulmányozza át a [SharePoint online szinkronizációs problémáinak elhárítása](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US) című cikket hibaelhárítás céljából.

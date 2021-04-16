@@ -1,8 +1,8 @@
 ---
-title: Nyilvános mappa áttelepítési kötegének CompletedWithErrors állapotával
+title: A CompletedWithErrors állapotú nyilvánosmappa-áttelepítési köteghez
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ed21bfb9069b56a4fc59b201bb3ad94c6bb6712
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744115"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812466"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Nyilvános mappa áttelepítési kötegének CompletedWithErrors állapotával
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>A CompletedWithErrors állapotú nyilvánosmappa-áttelepítési köteghez
 
-Az alábbi lépésekkel fejezheti be a köteget, és kihagyhatja a nagy/hibás elemeket: 
-1. A kihagyott elemek jóváhagyása az áttelepítési kötegben:
+A köteg befejezéséhez kövesse az alábbi lépéseket a nagy/hibás elemek kihagyása érdekében: 
+1. Hagyja jóvá az áttelepítési köteg kihagyott elemeit:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. A következő paranccsal hagyja jóvá a kihagyott elemeket a szinkronizált, de nem befejezett áttelepítési kérelmekben:
+2. A következő paranccsal hagyja jóvá a kihagyott elemeket a szinkronizált, de el nem fejeződött áttelepítési kérések esetén:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. Az áttelepítési kötegnek és a kéréseknek néhány percen belül el kell végezniük.
+3. A migrálási köteg és a kérések néhány perc múlva folytatódnak és befejeződnek.
 

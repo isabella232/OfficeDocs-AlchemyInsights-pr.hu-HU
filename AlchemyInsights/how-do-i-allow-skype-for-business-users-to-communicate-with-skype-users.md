@@ -1,8 +1,8 @@
 ---
-title: Hogyan lehet engedélyezni a Skype vállalati verzió felhasználóinak a Skype-felhasználókkal való kommunikációt
+title: Hogyan engedélyezem a Skype Vállalati verzió felhasználóinak, hogy kommunikáljanak a Skype-felhasználókkal?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: 6702f64f70f752667167b41e79c510367f95bfb7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781933"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811314"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Skype-partnerek felvétele a Skype vállalati verzió felhasználóinak
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Skype-partnerek felvételének engedélyezése a Skype Vállalati verzió felhasználóinak
 
-A Skype vállalati verzióban a felhasználók a Skype-ot használó mindenkivel kereshetnek és CSEVEGÉSt végezhetnek, az ingyenes alkalmazásban. Ez a cikk ismerteti, hogy mit kell tennie, hogy felvegyen egy Skype-partnert.
+A Skype Vállalati verzióval a felhasználók az ingyenes Skype alkalmazást használók között kereshetnek és csevegést csevegést is lehetővé te tudnak. Ebből a cikkből megtudhatja, hogy mit kell tenniük ahhoz, hogy partnereket vegyenek fel a Skype-ra.
 
-[Skype-partnerek felvétele a Skype vállalati verzió felhasználóinak](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Skype-partnerek felvételének engedélyezése a Skype Vállalati verzió felhasználóinak](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

@@ -1,8 +1,8 @@
 ---
-title: További segítség a Windows Defender ügyfélprogrammal kapcsolatban
+title: További segítség a Windows Defender ügyfélhez
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: e39ba958540c85eab3b35e78bf75adf017773247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5c584bdd39a98e19fde88c59bfdcb64cbd33d69
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708145"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812502"
 ---
-# <a name="for-more-help-with-windows-defender-client"></a>További segítség a Windows Defender ügyfélprogrammal kapcsolatban
+# <a name="for-more-help-with-windows-defender-client"></a>További segítség a Windows Defender ügyfélhez
 
-Keresse fel a Microsoft [Security dokumentációs](https://docs.microsoft.com/security/#pivot=products&panel=products1) központot.
+Keresse fel a Microsoft [biztonsági dokumentációs központját.](https://docs.microsoft.com/security/#pivot=products&panel=products1)

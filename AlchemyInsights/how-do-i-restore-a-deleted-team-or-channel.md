@@ -1,8 +1,8 @@
 ---
-title: A törölt csoportok és csatornák visszaállítása
+title: Törölt csoport vagy csatorna visszaállítása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,20 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726426"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811170"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Törölt csoport vagy csatorna visszaállítása
 
-A csoportból törölt csatornák a csatorna törlése után 21 napig visszaállíthatók.
+A csoport törölt csatornáit a csatorna törlése után 21 napig lehet visszaállítani.
 
-Ha vissza szeretne állítani egy törölt csatornát, a csoport tulajdonosa az alábbi műveleteket végezheti el:
+Törölt csatorna helyreállításához a csoporttulajdonos az alábbiakat használhatja:
 
-1. Nyissa meg a csoport beállításait a csapat neve melletti 3 ponttól jobbra.
-2. Válassza   >    >  a törölt csapat-csatornák **törlése** lehetőséget, majd kattintson a jobb oldalon a **visszaállítás** elemre.
+1. Nyissa meg a csapat beállításait a csapat nevétől jobbra a 3 pontra gombra választva.
+2. Válassza **a Csoportcsatornák**  >    >  **törlése lehetőséget,** majd a  jobb oldalon válassza a Visszaállítás lehetőséget.
 
-A csoportok visszaállításáról a [csapat archiválása vagy törlése a Microsoft Teams alkalmazásban – Microsoft Teams | című témakörben olvashat bővebben. Microsoft docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+A csoportok visszaállításáról további információt a Csapat archiválása vagy törlése [a Microsoft Teamsben – Microsoft Teams | Microsoft Docs .](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)
