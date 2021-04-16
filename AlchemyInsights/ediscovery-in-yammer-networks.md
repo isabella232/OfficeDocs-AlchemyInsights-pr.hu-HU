@@ -1,8 +1,8 @@
 ---
-title: eDiscovery a Yammer-hálózatokban
+title: Elektronikus észlelés a Yammer hálózatokban
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710918"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814482"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>eDiscovery a Yammer-hálózatokban
+# <a name="ediscovery-in-yammer-networks"></a>Elektronikus észlelés a Yammer hálózatokban
 
-Mostantól eDiscovery-keresést végezhet a Yammer-tartalmakon.  A eDiscovery-keresések és a Yammer-tartalmak exportálásához az alábbiak szükségesek:
+Mostantól elektronikusan is kereshet a Yammer tartalmában.  Adatfeladatokat kereső vagy exportálási keresések Yammer tartalomhoz az alábbiakra van szükség:
 
-1. A Yammer nagyvállalati hálózatot natív módra kell áttelepítenie ahhoz, hogy Yammer az üzeneteket és a fájlokat. **Megjegyzés: ha Ön új ügyfél a Jan. 9th 2020, és a Yammer-hálózat már natív módban van, az adatok mostantól észlelhetők a eDiscovery**.
+1. Először át kell Yammer a vállalati hálózatát natív üzemmódba, hogy a Yammer és fájlokat felderíthetővé tegye. Megjegyzés: ha Ön egy új ügyfél **2020. január 9-től,** és az Yammer-hálózata már natív módban van, az adatok felfedezhetők az elektronikus adatok felderítésével.
 
-2. Az ügyfelek elhagyásakor a eDiscovery a Yammer elérhetővé válik, amint megjelent a natív mód igazítása eszköz, és a natív módú áttelepítés befejeződik a bérlői Yammer.
+2. A kilépő ügyfelek számára az Yammer elektronikus észlelése akkor lesz elérhető, miután megjelent a Natív mód igazítása eszköz, és a natív mód áttelepítése befejeződött Yammer a bérlői webhelyen.
 
 További információ:
 
-- Natív mód a Yammer-ban, lásd: [natív üzemmód áttekintése](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- a Yammer-hálózatokban a eDiscovery a következő témakörben olvashat: [a Yammer-hálózatok EDiscovery áttekintése](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery a Microsoft 365-ban a [eDiscovery a microsoft 365-ban](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)című témakörben olvashat.
+- A natív Yammer lásd: [A natív mód áttekintése.](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
+- EDiscovery in Yammer Networks, lásd: A elektronikus hálózatokban való [Yammer áttekintése.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- Elektronikus adatok észlelése a Microsoft 365-ben. Lásd: Elektronikus adatok automatikus észlelése a [Microsoft 365-ben.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

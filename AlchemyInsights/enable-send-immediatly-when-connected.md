@@ -1,8 +1,8 @@
 ---
-title: Küldés azonnali engedélyezése csatlakozáskor
+title: A Küldés azonnal engedélyezése, ha csatlakoztatva van
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ebd318af82a4e57dc9e2f51a88301c1d9a6851c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709585"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813978"
 ---
-# <a name="enable-send-immediately-when-connected"></a>Küldés azonnali engedélyezése csatlakozáskor
+# <a name="enable-send-immediately-when-connected"></a>A Küldés azonnal engedélyezése, ha csatlakoztatva van
  
-1. Kattintson a fájl fülre, majd a **Beállítások**parancsra.
+1. A Fájl lapon kattintson a Beállítások **gombra.**
 
-2. Az Outlook beállításai párbeszédpanelen kattintson a **Speciális kategóriára**.
+2. Az Outlook beállításai párbeszédpanelen kattintson a Speciális **elemre.**
 
-3. A Küldés és a beérkezés csoportban jelölje be a **Küldés azonnali engedélyezése csatlakozáskor**választógombot. Kattintson az **OK** gombra.
+3. A Küldés és fogadás csoportban kattintással engedélyezze a **Küldés azonnal, ha csatlakozik elemre.** Kattintson az **OK** gombra.
 
-A részletekért olvassa el a következő témaköröket:
-- [Videó: beragadt e-mailek küldése vagy törlése](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [Az e-mailek a Postázandó üzenetek mappában maradnak mindaddig, amíg nem kezdeményezi a küldési/fogadási műveletet az Outlookban](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Részletes információkért lásd:
+- [Videó: Beragadt e-mailek küldése vagy törlése](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [Az e-mailek mindaddig a Outbox mappában maradnak, amíg manuálisan nem indít el küldési/fogadási műveletet az Outlookban](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)

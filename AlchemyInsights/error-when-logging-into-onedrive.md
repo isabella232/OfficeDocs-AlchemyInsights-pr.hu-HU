@@ -1,8 +1,8 @@
 ---
-title: 0x8004de40 hiba az OneDrive indításakor
+title: 0x8004de40 OneDrive indításakor hibaüzenet jelenik meg
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: f689fcf9432e9b356843efe73ed0f79a32735e6f
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823050"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813654"
 ---
-# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 hiba az OneDrive indításakor
+# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 OneDrive indításakor hibaüzenet jelenik meg
 
-Ha hibaüzenet jelenik meg, amikor bejelentkezik a OneDrive-ba, indítsa újra a számítógépet a munkahelyi vagy iskolai tartományhoz való **0x8004de40** . Ha az újraindítás után a következő hibaüzenet jelenik meg, próbáljon meg csatlakozni a munkahelyi vagy iskolai tartományához:
+Ha hibaüzenet jelenik meg, **0x8004de40** OneDrive-ba való bejelentkezéskor, indítsa újra a számítógépet, miközben a munkahelyi vagy iskolai tartományhoz csatlakozik. Ha az újraindítás után a következő hibaüzenet jelenik meg, próbálkozzon ezzel a munkahelyi vagy iskolai tartományhoz való csatlakozáskor:
 
-1. Kattintson a Start gombra, és írja be a **cmd** vagy a **parancssor**  kifejezést a keresőmezőbe, kattintson a jobb gombbal a parancssor alkalmazásra, és válassza a  **Futtatás rendszergazdaként** parancsot. Ha a rendszer rendszergazdai vagy megerősítési jelszót kér, írja be a jelszót, vagy kattintson az **Engedélyezés** gombra.  
+1. Kattintson a Start gombra, írja be a **cmd** vagy **a parancssor** parancsot a keresőmezőbe, kattintson a jobb gombbal a parancssor alkalmazásra, és válassza a **Futtatás rendszergazdaként parancsot.** Ha a rendszer rendszergazdai jelszó vagy megerősítés kérését kéri, írja be a jelszót, vagy kattintson az Allow (Megengedve) **gombra.**  
 
-2. A parancssorablakban írja be a **dsregcmd/Leave**  , és várjon, amíg meg nem jelenik a parancs. Ezután írja be a **dsregcmd/JOIN** , és várja meg, amíg a parancs el nem fejeződik.
+2. A Parancssor ablakban írja be a **dsregcmd /leave**  parancsot, és várja meg, amíg befejeződik a parancs. Ezután írja be a **dsregcmd /join parancsot,** és várja meg, amíg befejeződik a parancs.
 3. Indítsa újra a számítógépet.

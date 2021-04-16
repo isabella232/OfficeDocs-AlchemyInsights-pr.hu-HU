@@ -1,8 +1,8 @@
 ---
-title: Felhasználói fiókadatok exportálása
+title: Felhasználói fiók adatainak exportálása
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 0a1978610d1293cd1de3bae114594cb5ef7865e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c50f10adb47827428002db36371a7c2370b201f9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708865"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813366"
 ---
-# <a name="export-user-account-information"></a>Felhasználói fiókadatok exportálása
+# <a name="export-user-account-information"></a>Felhasználói fiók adatainak exportálása
 
-Ha a Microsoft 365 felügyeleti központban szeretné exportálni a felhasználói fiók adatait, például a licencekről, a jelszóházirend, a letiltott fiókok, a aad szinkronizálási állapota és más, nyissa meg a **felhasználók**  >  [aktív felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapját, és válassza a **felhasználók exportálása**parancsot.
+Ha felhasználói fiókadatokat (például licencekkel, jelszó-házirendekkel, letiltott fiókokkal, AAD-szinkronizálási állapottal stb.) kapcsolatos információkat is exportálni kell, menjen a Felhasználók aktív felhasználói lapra, és válassza a Felhasználók exportálása   >  [](https://go.microsoft.com/fwlink/p/?linkid=834822) **lehetőséget.**

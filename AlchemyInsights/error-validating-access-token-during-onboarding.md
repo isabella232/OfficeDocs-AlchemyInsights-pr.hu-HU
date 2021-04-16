@@ -1,8 +1,8 @@
 ---
-title: Hiba történt az asztali adatellenőrzéskor az Access-jogkivonat hibájának érvényesítésekor
+title: Hiba történt a hozzáférési jogkivonat érvényességének érvényességének igazolása közben a telepítés során.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783553"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813690"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>"Hiba történt az Access-jogkivonat érvényesítése közben" hiba történt az asztali adatelemzés során
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>"Hiba történt a hozzáférési jogkivonat érvényességének érvényességének igazolása" hibaüzenet jelenik meg az asztali analytics telepítésének közben
 
-Ezt a hibát általában a hitelesítő jogkivonat lejárta után kell megtartani. A lap frissítése általában frissíti a jogkivonatot. Ez a probléma azonban fennmaradhat, ha vannak feltételes hozzáférésű házirendek, amelyeket az asztali számítógép-elemzéshez használt fiókra alkalmaznak. Áttekintheti az Azure AD bejelentkezési naplóit az Azure portálon annak megállapításához, hogy vannak-e bejelentkezési hibák a bevezetéshez használt fiókhoz.
+Ez a hiba általában a hitelesítési jogkivonat elévülésekor jelenik meg. A lap frissítése általában frissíti a jogkivonatot. A probléma azonban megmaradhat, ha a táblán található asztali elemzésekhez használt fiókra feltételes hozzáféréssel kapcsolatos házirendek vannak alkalmazva. Az Azure AD bejelentkezési naplóit az Azure Portalon áttekintve ellenőrizze, hogy nem jelentkeznek-e be az asztali elemzésekhez használt fiókhoz.
 
-A feltételes hozzáférésről további információt a [feltételes hozzáférés bevezetésének megtervezése](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)című témakörben találhat.
+A feltételes hozzáférésről további információt A feltételes hozzáférés [üzembe helyezésének megterve.](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)

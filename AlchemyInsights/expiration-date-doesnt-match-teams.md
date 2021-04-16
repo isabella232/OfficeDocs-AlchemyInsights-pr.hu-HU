@@ -1,8 +1,8 @@
 ---
-title: A csoport és a mögöttes csoport lejárati dátuma nem egyezik
+title: A csoport és az alapul szolgáló csoport lejárati dátuma nem egyezik
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 77a10d87cf725339058408ff82b3e58c0736edfd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364881"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813438"
 ---
-# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>A csoport és a mögöttes csoport lejárati dátuma nem egyezik
+# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>A csoport és az alapul szolgáló csoport lejárati dátuma nem egyezik
 
-Mielőtt megújítja a csoportot, a csoportot, amely támogatja a csoportot, előbb megújul. A megújítás részeként új lejárat dátuma van beállítva a csoportban egy jövőbeli dátumra. Előfordulhat, hogy ez az új dátum nem lesz azonnal látható a Teams alkalmazásban. A szinkronizáláshoz akár 24 óra is eltelhet. Ha a csoport lejárati dátuma és a mögöttes csoport lejárati dátuma közötti eltérést tapasztal, várjon 24 órát, mielőtt további támogatást keres.  
+A csoport megújítása előtt a csoportot biztonsági oltó csoport újul meg először. A megújítás részeként egy új lejárati dátum van beállítva a csoportban egy jövőbeli dátumra. Előfordulhat, hogy ez az új dátum nem lesz azonnal látható a Teamsben. A szinkronizálás akár 24 órát is igénybe igénybe vehet. Ha eltérést tapasztal egy csapat és annak mögöttes csoportja lejárati dátuma között, várjon 24 órát, mielőtt további támogatásra lenne szükség.  
 
-További információt a [csoport lejárata és megújítása a Microsoft Teams alkalmazásban](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  című témakörben talál.
+További [információt a Csoport lejárata és megújítása a Microsoft Teamsben.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)

@@ -1,24 +1,24 @@
 ---
-title: A "{AimKIObject}" terjesztési csoport nem jelenik meg a csoportok listában {AimKITimeElapsed} perc múlva
+title: Az "{AimKIObject}" terjesztési csoport nem jelenik meg a Csoportok listában {AimKITimeElapsed} perc után
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: 5e813c7bf0fd98bc13ea1148167df1a576e363ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd7e5d71dd2832e253df508fe8819c137c9411aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679803"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815068"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>A "{AimKIObject}" terjesztési csoport nem jelenik meg a csoportok listában {AimKITimeElapsed} perc múlva
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Az "{AimKIObject}" terjesztési csoport nem jelenik meg a Csoportok listában {AimKITimeElapsed} perc után
 
-A "{AimKIObject}" csoport {AimKITimeElapsed} perccel ezelőtt jött létre. Az új terjesztési csoport a felügyeleti központban általában nem tart 60 percen belül.
+Az "{AimKIObject}" csoportja {AimKITimeElapsed} perce jött létre. Az új terjesztési csoport általában 60 percen belül megjelenik a Felügyeleti központban.
   
-Lehet, hogy az [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) címzettek > csoportok funkciójának segítségével kezelheti a csoportját, vagy használhatja a "Felhívjuk Önt" lehetőséget, ha egy támogatási szakemberrel szeretne beszélni. 
+Előfordulhat, hogy most használhatja az [Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) Felügyeleti központ Címzettek > Csoportok funkcióját a csoport kezeléséhez, vagy a "Felhívjuk, ha felhívjuk" lehetőséget választva beszélhet támogatási szakemberekkel. 
   
