@@ -1,8 +1,8 @@
 ---
-title: Segítségre van szüksége a Microsoft 365 vállalati prémium verzióhoz?
+title: Segítségre van szüksége a Microsoft 365 Vállalati prémium verziós hangkomóhoz?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 8ebede67f5414234553968b0a275d984f87800b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 014752ac52038c2e49d7d440d17c6f24ce10102d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754593"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792602"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a><span data-ttu-id="5d135-102">Segítségre van szüksége a Microsoft 365 vállalati prémium verzióhoz?</span><span class="sxs-lookup"><span data-stu-id="5d135-102">Need help with Microsoft 365 Business Premium Voice?</span></span>
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a><span data-ttu-id="13ca2-102">Segítségre van szüksége a Microsoft 365 Vállalati prémium verziós hangkomóhoz?</span><span class="sxs-lookup"><span data-stu-id="13ca2-102">Need help with Microsoft 365 Business Premium Voice?</span></span>
 
-<span data-ttu-id="5d135-103">A Microsoft 365 vállalati prémium verzió hangja megkönnyíti a kis-és középvállalatok számára a Microsoft Teams hatékony és rugalmas telefonos rendszerének bekapcsolását.</span><span class="sxs-lookup"><span data-stu-id="5d135-103">Microsoft 365 Business Premium Voice makes it easy for small and medium organizations to turn Microsoft Teams into a powerful and flexible telephone system.</span></span> <span data-ttu-id="5d135-104">A munkahelyi hangról további információt a [Mi a Microsoft 365 Business prémium hang?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice) című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="5d135-104">For more information on Business Voice, see [What is Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)</span></span>
+<span data-ttu-id="13ca2-103">A Microsoft 365 Business Premium Voice segítségével a kis- és középvállalatok könnyedén sokoldalú és rugalmas telefonrendszert kínálnak a Microsoft Teamsnek.</span><span class="sxs-lookup"><span data-stu-id="13ca2-103">Microsoft 365 Business Premium Voice makes it easy for small and medium organizations to turn Microsoft Teams into a powerful and flexible telephone system.</span></span> <span data-ttu-id="13ca2-104">A Business Voice szolgáltatásról a Mi [a Microsoft 365 Vállalati prémium verziós hangkomóra?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)</span><span class="sxs-lookup"><span data-stu-id="13ca2-104">For more information on Business Voice, see [What is Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)</span></span>
 
-<span data-ttu-id="5d135-105">Ha már megszerezte a Microsoft 365 Business Premium hangját, az [első lépések varázsló](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) segíthet a dolgok beszerzésében.</span><span class="sxs-lookup"><span data-stu-id="5d135-105">If you have already acquired Microsoft 365 Business Premium Voice, the [Getting Started wizard](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) can help you get things going.</span></span> 
+<span data-ttu-id="13ca2-105">Ha már beszerezte a Microsoft 365 [](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) Vállalati prémium verziós hangkomutasítást, az Első lépések varázsló segítséget ad az első lépésekhez.</span><span class="sxs-lookup"><span data-stu-id="13ca2-105">If you have already acquired Microsoft 365 Business Premium Voice, the [Getting Started wizard](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) can help you get things going.</span></span> 
