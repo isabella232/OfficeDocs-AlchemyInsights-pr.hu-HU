@@ -2,7 +2,7 @@
 title: Számlaértelmezés
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808311"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782693"
 ---
-# <a name="understand-billing-amount"></a>A számlázási összeg ismertetése
+# <a name="understand-billing-amount"></a>A számlázási összeg értelmezése
 
-Az Azure ingyenes fiók ajánlata magában foglalja az Azure kreditek $200 (amelyet a regisztráció első 30 napján kell használni) és 12 hónapig az ingyenes szolgáltatások kijelölésekor (a változtatások tárgya)
+Az ingyenes Azure-fiókra vonatkozó ajánlat 200 USD összegű Azure-kreditet (amely a regisztrációt követő 30 napon belül használható) és 12 hónapos, választható ingyenes szolgáltatásokat (amelyek módosulhatnak) tartalmaz
 
-Ez az ajánlat egy feljogosított ügyfélre korlátozódik, és nem kombinálható további ajánlatokkal, kivéve ha a Microsoft
+Az ajánlat jogosult ügyfélenként egy regisztrációra korlátozódik, és nem kombinálható más ajánlatokkal, hacsak a Microsoft másként nem engedélyezi
 
-A kiadási korlát eltávolításával 30 nappal a regisztráció után vagy az ügyfél által megadott kreditek kimerülése után (amelyik előbb következik be) az ügyfélnek a fizetési mód fiókra kell frissítenie. Ez lehetővé teszi az Azure ingyenes fiók folyamatos használatát a fennmaradó 11 hónapra vonatkozóan. Az ügyfél frissítését követően a kiindulási krediteken kívüli használatot, és az ingyenes szolgáltatások kiszámlázását a fizetési mód lejárati árfolyamai között fogja kiszámlázni. Ha az ügyfél úgy dönt, hogy nem frissíti, az ingyenes fiók előfizetése le lesz tiltva.
+A regisztrációt követő 30 napon belül, illetve az ügyfél kreditjeinek kimerülése esetén (amelyik előbb megtörténik) az ügyfélnek használatalapú fiókra kell frissítenie, a költségkeret eltávolításával. Ez lehetővé teszi az Azure ingyenes fiókjának további használatát a hátralévő 11 hónapra. Miután az ügyfél elvégezte a frissítést, a kezdeti krediteken és a választott ingyenes szolgáltatásokon kívüli használatot a használatalapú díjakon kiszámlázzuk. Ha az ügyfél úgy dönt, hogy nem frissít, az ingyenes fiók előfizetését letiltjuk.
 
-További információ: [a havonta ingyenesen elérhető termékek az Azure ingyenes fiókban](https://azure.microsoft.com/free/free-account-faq/)
+További információ: [Az ingyenes Azure-fiókhoz tartozó, havonta ingyenesen elérhető termékek](https://azure.microsoft.com/free/free-account-faq/)
 
-**30 nap elteltével engedélyezze újra a letiltott előfizetést**
+**A 30 nap után letiltott előfizetés újbóli engedélyezése**
 
-- Ha újból engedélyezi és átalakítja az ingyenes próbaverziós előfizetését a TB ingyenes szolgáltatásaira, az előfizetés engedélyezésének időpontjában kell kezdődnie. Ezenkívül ha az Azure ingyenes fiókját nem a TB-ra (nem a-ra) konvertálja, a program továbbra is megkapja az előnyeit.
+- Miután újból engedélyezi és átalakítja az ingyenes próbaverziós előfizetését használatalapúvá, az ingyenes Bennfoglalt szolgáltatásoknak meg kell kezdődniük az előfizetés engedélyezésétől számítva. Ezenkívül ha véletlenül alakítja át ingyenes Azure-fiókját X-ajánlatra (a használatalapú előfizetésen kívül), továbbra is részesülni fog az előnyökből.
 
-tudj meg többet: 
-- [Előfizetés ismételt engedélyezése](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+További információ: 
+- [Előfizetés újbóli engedélyezése](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Azure-előfizetés lemondása](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Nem várt díjak a számlára**
+**Váratlan díjak a számlán**
 
-- Ha a fiókjában nem láthatók a díjak, töltse le a használati adatait, és ellenőrizze, hogy vannak-e nemkívánatos szolgáltatások vagy erőforrások
+- Ha váratlan díjakat lát a fiókjában, töltse le a használati adatokat, és ellenőrizze, hogy futnak-e kéretlen szolgáltatások vagy erőforrások
 - További információ: [Az Azure használati adatainak letöltése](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
 
 **Gyakori kérdések:**
 
-**Fizethetek bármit, amikor az Azure ingyenes fiókomban vagyok?**
+**Fizetek bármiért, amikor ingyenes Azure-fiókot használok?**
 
-Kizárólag akkor kell fizetnie, ha olyan szolgáltatásokat telepít, amelyek nem szerepelnek az Azure ingyenes fiókjában. Csak azt követően, hogy kimeríti a $200-egyenleget, vagy eléri a 30 napos időszakot (amelyik előbb jön), a fizetési mód szerinti fizetésben fog megjelenni.
+Csak akkor számítunk fel díjat, ha olyan szolgáltatásokat telepít, amelyek nem részei az ingyenes Azure-fióknak. Csak a 200 USD kredit kimerítését vagy a 30 napos időszak elérését követően (amelyik előbb bekövetkezik) kezdünk a használatalapú díjakon számlázni.
 
-**Hány Azure ingyenes fiók-előfizetést használok a fiókomban?**  
+**Hány ingyenes Azure-fiók előfizetést használhatok a fiókomon?**  
 
-Egy fiókban egy Azure ingyenes fiókra szóló előfizetés van korlátozva.
+Fiókonként legfeljebb egy ingyenes Azure-előfizetés használható.
 
-**Hogyan működik az Azure ingyenes fiókja a Enterprise Agreement (EA) ügyfeleivel?**  
+**Hogyan működik az Ingyenes Azure-fiók a nagyvállalati szerződéses (EA) ügyfelekkel?**  
 
-Ez az ajánlat nem érhető el az EA-ügyfeleknek. Ha azonban egy ügyfélnek ingyenes fiókja van, és később egy EA-rétegre vált, az ingyenes fiókra vonatkozó előnyök az ingyenes fiók regisztrációjának időpontjában 12 hónapig maradnak.
+Ez az ajánlat nagyvállalati szerződéses ügyfelek számára nem érhető el. Ha azonban egy ügyfél ingyenes fiókkal rendelkezik, és később átvált a nagyvállalati szerződéses szintre, az ingyenes fiók előnyei az ingyenes fiók regisztrációjától számított 12 hónapig folytatódnak.
 
-**Az első $200-kreditek között az ingyenes Tier-ban kínált szolgáltatások is elérhetők lesznek?**  
+**Az ingyenes szinten kínált szolgáltatások fogyasztják a kezdeti 200 USD kreditet?**  
 
-Nem. Az ügyfelek a szabad Tier-szolgáltatások rögzített számát és az első 30 napra érvényes $200-egyenleget szereznek be. Így az ügyfél az $200-ös egyenleget az egyéb, nem ingyenes Tier Services szolgáltatásban is használhatja.
+Nem. Ügyfeleink fix számú ingyenes szintű szolgáltatást és 200 USD kreditet kapnak az első 30 napra. Így az ügyfél a 200 USD kreditet más, nem ingyenes szintű szolgáltatásokra használhatja.
 
-**Megtekinthetem a szponzori adatait?**
+**Megtekinthetem a szponzorálási adataimat?**
 
-- Privát/Incognito böngészőablak megnyitása (CTRL + SHIFT + P in Edge)
-- Navigálás az [Azure szponzorálási](http://www.microsoftazuresponsorships.com/) weblapra
-- Kattintson az egyenleg ellenőrzése hivatkozásra.
-- Bejelentkezés az Azure kormányzati verzió által szponzorált fiók hitelesítő adataival (a bejelentkezéseknek a user.name@xxxx.onmicrosoft.com formátumot kell használniuk)
-- A rendszer egy olyan lapra irányítja, amely a következő adatokat jeleníti meg: kezdési dátum, befejezési dátum, támogatási összeg, használat, fennmaradó egyenleg
+- Nyisson meg egy új privát/inkognitó böngészőablakot (Ctrl+Shift+P az Edge-ben).
+- Navigáljon az [Azure sponsorships](http://www.microsoftazuresponsorships.com/) lapra
+- Kattintson az Egyenleg ellenőrzése hivatkozásra
+- Jelentkezzen be az Azure Government Sponsored-fiók hitelesítő adataival (a bejelentkezéshez a következő formátumot kell használnia: user.name@xxxx.onmicrosoft.com)
+- A rendszer átirányítja egy, a következő információkat megjelenítő lapra: kezdő dátum, záró dátum, szponzorálás összege, felhasznált, hátralévő egyenleg
 
-**Hogyan tudom ellenőrizni, hogy a szabad szolgáltatások aktívak-e, illetve hogy lejárnak-e?**
+**Hogyan tudom ellenőrizni, hogy aktívak-e az ingyenes szolgáltatások, vagy mikor fognak lejárni?**
 
-Az Ibiza-portál> előfizetése > áttekintése lapon > görgessen le az ingyenes szolgáltatások 12 hónapig, és kattintson az információ ikonra. Ez az ingyenes szolgáltatások elévülési idejét jeleníti **Note** meg, ha nem az Azure ingyenes szolgáltatások részét képező szolgáltatások része. Az ingyenes szolgáltatások legújabb listájáért tekintse meg, hogy [mely termékek ingyenesek 12 hónapig](http://www.microsoftazuresponsorships.com/)
+Az Ibiza portál> Előfizetés > Áttekintés lapon > görgessen le az Ingyenes szolgáltatások 12 hónapig elemre, és kattintson az Információ ikonra. Ez azt a dátumot jeleníti meg, amikor az ingyenes szolgáltatások lejárnak **Megjegyzés**: A V1-szolgáltatások nem részei az Azure ingyenes Bennfoglalt szolgáltatásoknak. Az ingyenes szolgáltatások legfrissebb listáját lásd: [Mely termékek ingyenesek 12 hónapig](http://www.microsoftazuresponsorships.com/)
 
 További gyakori kérdések: [ingyenes fiók – gyakori kérdések](https://azure.microsoft.com/free/free-account-faq/)
 
 **Ajánlott dokumentumok**
 
-- [Azure ingyenes fiók ajánlati feltételei](https://azure.microsoft.com/offers/ms-azr-0044p/)
-- [Azure-árak](https://azure.microsoft.com/pricing/)
+- [Az ingyenes Azure-fiókra vonatkozó ajánlat feltételei](https://azure.microsoft.com/offers/ms-azr-0044p/)
+- [Azure – árak](https://azure.microsoft.com/pricing/)

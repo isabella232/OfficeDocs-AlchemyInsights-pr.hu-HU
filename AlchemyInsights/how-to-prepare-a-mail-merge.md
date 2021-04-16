@@ -2,7 +2,7 @@
 title: Körlevél készítése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3041"
 - "9000588"
-ms.openlocfilehash: cdb839c13edac4df1da3208930dd6c8f6814897c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19d30daac8fa39811d65c7b0f3b9f0951907c78d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703771"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803510"
 ---
 # <a name="how-to-prepare-a-mail-merge"></a>Körlevél készítése
 
-A különféle platformokon elérhető körlevélről további információt a körlevél [használata tömeges e-mailekhez, levelekhez, címkékhez és borítékokhoz](https://support.office.com/article/use-mail-merge-for-bulk-email-letters-labels-and-envelopes-f488ed5b-b849-4c11-9cff-932c49474705)című témakörben talál.
+A különböző platformokon elérhető körlevélkészítésről A körlevél használata tömeges e-mailek, [levelek,](https://support.office.com/article/use-mail-merge-for-bulk-email-letters-labels-and-envelopes-f488ed5b-b849-4c11-9cff-932c49474705)címkék és borítékok esetében .
  
-Az Excel körlevélkészítéssel való használatáról az Excel- [adatforrás előkészítése](https://support.office.com/article/prepare-your-excel-data-source-for-a-word-mail-merge-2d802b6b-a3a3-43e5-bb76-2cac7c68673e) körlevélhez és körlevélhez [Excel-számolótábla használatával](https://support.office.com/article/Mail-merge-using-an-Excel-spreadsheet-858c7d7f-5cc0-4ba1-9a7b-0a948fa3d7d3)című témakörben olvashat bővebben.
+Az Excel körlevélkészítéshez való használatával kapcsolatos további információkért lásd: [Excel-adatforrás](https://support.office.com/article/prepare-your-excel-data-source-for-a-word-mail-merge-2d802b6b-a3a3-43e5-bb76-2cac7c68673e) előkészítése körlevélkészítéshez és körlevélkészítéshez [Excel-számolótábla használatával.](https://support.office.com/article/Mail-merge-using-an-Excel-spreadsheet-858c7d7f-5cc0-4ba1-9a7b-0a948fa3d7d3)
  
