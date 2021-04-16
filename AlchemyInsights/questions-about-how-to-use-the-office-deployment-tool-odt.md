@@ -1,8 +1,8 @@
 ---
-title: Az Office-telepítő eszköz (ODT) használatának kérdései
+title: Az Office-telepítő eszköz (ODT) használatával kapcsolatos kérdések
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c5b055989014b464d3136895702c8ea40e8eb701
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086158"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790334"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Az Office-telepítő eszköz (ODT) használatának kérdései
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Az Office-telepítő eszköz (ODT) használatával kapcsolatos kérdések
 
-Töltse le az Office-telepítő eszközt a [Microsoft letöltőközpontból](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+Töltse le az Office-telepítő eszközt a [Microsoft letöltőközpontból.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
   
-Miután letöltötte a fájlt, futtassa az önkicsomagoló végrehajtható fájlt, amely tartalmazza az Office-telepítő eszköz végrehajtható fájlját (setupodt.exe) és egy minta konfigurációs fájlt (configuration.xml).
+A fájl letöltése után futtassa az önkigyűjő végrehajtható fájlt, amely tartalmazza az Office-telepítő eszköz végrehajtható fájlját (setup.exe) és egy konfigurációs mintafájlt (configuration.xml).
   
- **A Microsoft 365-alkalmazások kihagyása vagy eltávolítása a nagyvállalati termékekből az ügyfélgépekről:**
+ **A nagyvállalati termékekhez használt Microsoft 365-alkalmazások ügyfélszámítógépeken való kizárása vagy eltávolítása:**
   
-A Microsoft 365-alkalmazások nagyvállalatoknak való telepítésekor kihagyhatja az adott termékeket. Ehhez kövesse az Office-nak az ODT szolgáltatással való telepítéséhez szükséges lépéseket, de vegye fel a ExcludeApp elemet a konfigurációs fájlban. Ez a konfigurációs fájl például a Publisher kivételével a Microsoft 365-alkalmazásokat telepíti a nagyvállalati termékekhez:
+A Nagyvállalati Microsoft 365-alkalmazások telepítésekor kizárhat bizonyos termékeket. Kövesse az Office ODT-fájllal való telepítésének lépéseit, de a konfigurációs fájlba foglalja bele az ExcludeApp elemet. Ez a konfigurációs fájl például telepíti az összes Nagyvállalati Microsoft 365-appot, kivéve a Publishert:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">

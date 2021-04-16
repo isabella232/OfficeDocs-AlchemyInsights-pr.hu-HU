@@ -1,8 +1,8 @@
 ---
-title: Az ár nem tűnik helyesnek?
+title: Helytelennek tűnik az ár?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 3a3fb90af53f4c098fb4eb7673464cd373c40f99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 92290384e7995ccb44f41665b7166fd07196f947
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693665"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790442"
 ---
-# <a name="price-doesnt-look-correct"></a>Az ár nem tűnik helyesnek?
+# <a name="price-doesnt-look-correct"></a>Helytelennek tűnik az ár?
 
-Ha a számlán szereplő ár nem megfelelő, akkor ez a megújítási ár változásának köszönhető. Ha úgy véli, hogy ez a probléma, kérjük, használja a "Felhívjuk Önt" lehetőséget, ha egy támogatási szakemberrel szeretne beszélni.
+Ha a számlán nem helyesnek tűnik az ár, ezt a megújításkor egy árváltozás miatt lehet. Ha Ön szerint ez nem magyarázat a problémára, kérjük, hogy a "Felhívjuk Ön" lehetőséget választva forduljon egy terméktámogatási szakemberhez.

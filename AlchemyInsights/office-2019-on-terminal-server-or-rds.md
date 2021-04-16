@@ -1,8 +1,8 @@
 ---
-title: Office 2019 a terminálkiszolgálón vagy az RDS-kiszolgálón
+title: Office 2019 terminálkiszolgálón vagy RDS-kiszolgálón
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754567"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790982"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Az Office 2019 központi telepítése az RDS-, a terminálkiszolgáló-vagy a VDI-alapú megosztott használatra
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Az Office 2019 telepítése megosztott használatra RDS- vagy Terminálkiszolgálón, illetve VDI-n
 
-Ha az Office már telepítve van az RDS-kiszolgálón bármely más Office-csomaggal, távolítsa el. Nyissa meg például a **Vezérlőpultot**, és  >  **távolítsa el a programot**. Ha problémákat tapasztal, távolítsa el a [Microsoft támogatási és helyreállítási Segédet](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+Ha az Office már telepítve van az RDS-kiszolgálón más Office-csomagokkal, távolítsa el. Válassza például a **Vezérlőpult Program eltávolítása**  >  **parancsát.** Ha problémákat tapasztal, távolítsa el a Microsoft Támogatási és helyreállítási [segéddel.](https://aka.ms/SARA-OfficeUninstall-Alchemy) 
 
-Az Office telepítéséhez használja az Office-telepítő eszközt (ODT). Részletes útmutatásért olvassa el az [Office 2019 telepítése](https://docs.microsoft.com/deployoffice/office2019/deploy)című témakört.
+Az Office telepítéséhez használja az Office-telepítő eszközt (ODT). A részletes lépéseket Az [Office 2019 telepítése( ) leírásában láthatja.](https://docs.microsoft.com/deployoffice/office2019/deploy)
 
-Aktiválás céljából olvassa el az [Office mennyiségi aktiválása – áttekintés](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)című témakört.
+Az aktiválásról Az Office mennyiségi aktiválásának áttekintése [témakörben olvashat.](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)

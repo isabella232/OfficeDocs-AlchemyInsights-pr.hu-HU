@@ -2,7 +2,7 @@
 title: Privát csatorna
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801807"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790406"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Privát csatornák a Microsoft Teams alkalmazásban
+# <a name="private-channels-in-microsoft-teams"></a>Privát csatornák a Microsoft Teamsben
 
-A Microsoft Teams privát csatornái célzott tereket hoznak létre a csoporton belüli együttműködéshez. A csatornát csak a csapat azon felhasználói érik el, akik a privát csatorna tulajdonosai vagy tagjai. A vendégeket is beleértve bárki felvehető egy privát csatorna tagjaként, feltéve hogy már a csapat tagjai.
+A Microsoft Teams privát csatornái a csoporton belüli együttműködésre összpontosított szóközöket hoznak létre. A csatornát csak a csapat azon felhasználói érik el, akik a privát csatorna tulajdonosai vagy tagjai. A vendégeket is beleértve bárki felvehető egy privát csatorna tagjaként, feltéve hogy már a csapat tagjai.
 
-További információt a [Microsoft Teams privát csatornái](https://docs.microsoft.com/MicrosoftTeams/private-channels)című témakörben talál. Ez a témakör olyan információkat tartalmaz, mint például a [privát csatornák létrehozása, a tagság](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) és a [privát csatornák SharePoint-webhelyek](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+További információért kezdje a Privát [csatornákkal a Microsoft Teamsben.](https://docs.microsoft.com/MicrosoftTeams/private-channels) Ilyen információk például a privát csatornák [létrehozása,](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) a tagság és a [privát csatorna SharePoint-webhelyek.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
-**Új csapattagra van szüksége?**
+**Új csapattulajdonosra van szüksége?**
 
-Ha a privát csatorna tulajdonosa elhagyja a szervezetét, vagy eltávolítják a csoportból, a privát csatorna tagjai automatikusan a privát csatornák tulajdonosaként jelennek meg.
+Ha a privát csatorna tulajdonosa elhagyja a szervezetet, vagy eltávolítja a csoportból, a privát csatorna egy tagja automatikusan előléptetve lesz a privát csatorna tulajdonosaként.
 
-A rendszergazdák a [Microsoft Teams privát csatornáinak életciklusát](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) is láthatják, ha többet szeretne tudni arról, hogy kik hozhatnak létre privát csatornákat, valamint hogy miként segíthet a eDiscovery vagy a jogi védelemben.
+A rendszergazdák a Privát csatornák életciklusának kezelése a [Microsoft Teamsben](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) című témakörben is olvashatnak arról, hogy milyen házirendekkel kezelhetik, hogy kik hozhatnak létre privát csatornákat, illetve hogyan segítheti a lekérdezések felépítését a elektronikus adatfelépítéshez vagy a jogi visszavételhez.
