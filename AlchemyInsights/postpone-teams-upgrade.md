@@ -2,7 +2,7 @@
 title: A Teams frissítésének elhalasztása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: abbf696b1554743bda188704272bfd85fe6f94e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741773"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801233"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>A Microsoft-alapú Teams frissítésének elhalasztása
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>A Microsoft-alapú Teams-frissítés elhalasztása
 
-**Fontos**: ezt a segítséget akkor tudjuk kijavítani, ha támogatási diagnosztikai lehetőségeket használ, de nem az új felügyeleti központot használja. Ha az új felügyeleti központot szeretné használni, húzza a jobb felső sarokban lévő kapcsolót az **új felügyeleti központ** jobb oldalán. Használja az új felügyeleti központot, és kattintson a **segítségre van szüksége?** elemre, írja be a "elhalasztja a Teams upgrade" parancsot, majd kövesse a megjelenő utasításokat a diagnosztika futtatásához.
+**Fontos:** Segíthetünk a hiba kijavításában egy támogatási diagnosztikai eszköz használatával, de úgy tűnik, hogy ön nem az Új felügyeleti központot használja. Az Új felügyeleti központ megnyitásához húzza a jobb felső  sarokban az Új felügyeleti központ csúszkával jobbra található kapcsolót. Az Új felügyeleti központban kattintson a Segítségre van **szüksége?** vezérlőre, írja be a "Teams-frissítés elhalasztása" parancsot, majd az utasításokat használva futtassa a diagnosztikai adatokat.
 
-Ha a Skype vállalati verzióról a Microsoft Teams-re szeretne kommunikálni a Microsoft-alapú automatizált frissítésről, és az automatikus frissítést későbbi dátumra szeretné halasztani, a globális rendszergazda bejelentkezhet a [Teams felügyeleti portálra](https://admin.teams.microsoft.com/dashboard) , és a Microsoft Teams upgrade csoportban a frissítés **állapota** gomb választása után válassza a **Elhalasztva** gombot. Ha szeretné megtekinteni a bérlő automatikus frissítésének új dátumát a Microsoft Teams szolgáltatásban, frissítse a Teams felügyeleti portál lapját.
+Ha a Microsoft által vezetett automatikus frissítésről kapott kommunikációt a Skype Vállalati verzióról a Microsoft Teamsre, és későbbre szeretné halasztani az  automatikus frissítést, a globális  rendszergazda bejelentkezhet a [Teams](https://admin.teams.microsoft.com/dashboard) felügyeleti portálra, és miután a Microsoft Teams Frissítés csoportban a Frissítési állapot gombra kattintott, válassza a Elhalasztás gombot. A Teams felügyeleti portál lapját frissítve láthatja a bérlői fiók Microsoft Teamsre való automatikus frissítésének új dátumát.
 
-**Megjegyzés:** Az **elhalasztás** gomb csak akkor érhető el, ha az automatikus frissítésről értesítést kapott az üzenetközpont értesítésben. 
+**Megjegyzés:** A **Halasztás** gomb csak akkor érhető el, ha megkapta az üzenetközpont értesítését az automatikus frissítésről. 
 
-A globális rendszergazdák a [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) is megtekinthetik a jelenlegi frissítés állapotát.
+A globális rendszergazdák a [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) futtatásával is tudnak többet megtudni aktuális frissítési állapotukról.

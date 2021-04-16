@@ -1,27 +1,26 @@
 ---
-title: Új felhasználó a Microsoft Teamsben.
+title: A Microsoft Teams beállítása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509147"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786203"
 ---
-# <a name="new-to-microsoft-teams"></a>Új felhasználó a Microsoft Teamsben.
+# <a name="set-up-microsoft-teams"></a>A Microsoft Teams beállítása
 
-Olvassa el  [A Microsoft Teams használatbavétele](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start) című cikket. Tanulmányozza át a Microsoft Teams rendszergazdai oktatóvideókat, bemutatókat és egyéb anyagokat is.
+A  [Microsoft Teams](https://aka.ms/teamsguidance)  telepítési útmutatója útmutatást nyújt szervezetének arról, hogy hogyan állíthat be csapat-munkaterületeket, amelyek valós idejű beszélgetéseknek adnak helyet üzenetküldés, hívások, valamint hang- és videoértekezletek formájában a munka- és személyes kommunikációhoz. A Network Planner eszköz és a Teams felügyeleti központ Teams tanácsadója segítségével útmutatást kap a szervezet hálózati követelményeinek meghatározásához. A telepítés befejezése után az útmutató hasznos forrásokat tartalmaz a Teams használatának első lépéseihez.
 
-Ha segítségre van szüksége a Teams központi telepítéséhez a COVID-19 miatt a távmunkások (otthonról dolgozók) támogatása érdekében, olvassa el a [Távmunkások támogatása a Microsoft Teams segítségével](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams) című cikket. A Microsoft 365 FastTrack Program keretében is jogosult lehet támogatásra a központi telepítéshez – kérés benyújtásához keresse fel a [FastTrack Centert](https://www.microsoft.com/fasttrack).
-
-**Fontos**: a Teams használatának közelmúltbeli növekedésének köszönhetően a Teams licencének egy felhasználóhoz rendelését követően a rendszer akár 24 órát is igénybe vehet a teljes beállításhoz. Addig is nem fogja tudni a Teams házirendjeit hozzájuk rendelni, és előfordulhat, hogy nem férnek hozzá a Teams néhány funkciójához, például a híváshoz és a hangkonferenciához.
+További információért kérjük, tekintse meg [A Microsoft Teams használatának első lépései](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start) témakört.

@@ -1,8 +1,8 @@
 ---
-title: Power BI – jelentéskészítő kiszolgáló – termékkulcs
+title: A Power BI Jelentéskiszolgáló termékkulcsa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801951"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800684"
 ---
-# <a name="power-bi-report-server-product-key"></a>Power BI – jelentéskészítő kiszolgáló – termékkulcs
+# <a name="power-bi-report-server-product-key"></a>Power BI Report Server-termékkulcs
 
-Ha megvásárolta a Power BI prémium verziót, a Power BI felügyeleti portál **prémium beállítások** lapjának hozzáférése van a Power bi Jelentéskészítő kiszolgálói termékkulccsal. Ez csak a Power BI szolgáltatás-rendszergazdai szerepkörrel rendelkező globális rendszergazdák vagy felhasználók számára érhető el.
+Ha Power BI Premiumt vásárolt, a Power BI felügyeleti portál Prémium beállítások lapján hozzáférhet a Power BI Jelentéskiszolgáló termékkulcshoz.  Ez csak globális rendszergazdák vagy a Power BI szolgáltatás-rendszergazdai szerepkört hozzárendelt felhasználók számára érhető el.
 
-A **Power bi jelentéskészítő kiszolgáló kulcsának** kijelölésekor megjelenik egy párbeszédpanel, amelyen a termékkulcs látható. Másolhatja és használhatja a telepítést.
+A **Power BI Jelentéskiszolgáló billentyűje kiválasztásával** megjelenít egy párbeszédpanelt, amely a termékkulcsot tartalmazza. A másolatot átmásolhatja, és felhasználhatja a telepítéssel.
 
-Ha van egy SQL Server Enterprise SA szerződése, a termékkulcs beszerzése a [mennyiségi licencelési szolgáltatásból című témakörben](https://www.microsoft.com/Licensing/servicecenter/)található.
+Ha sql Server Enterprise Sa szerződése van, a termékkulcsot a mennyiségi licencelési [szolgáltatásközpontból kaphatja meg.](https://www.microsoft.com/Licensing/servicecenter/)
 
 További információ: https://docs.microsoft.com/power-bi/report-server/install-report-server

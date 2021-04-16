@@ -1,8 +1,8 @@
 ---
-title: Házirendek catchall
+title: Házirendek – összes
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: e5d08462e8662fa1651ad81235d0efd5fc4bac58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 036c171f3c71e60c8c07000b4d0c6ede36bd435c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721296"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801665"
 ---
 # <a name="teams-policies"></a>Teams-házirendek
 
-A Microsoft Teams beállításait házirendek kezelik. A módosítások elkezdéséhez konfigurálnia kell a megfelelő házirendet, majd alkalmaznia kell őket a felhasználókra. A leggyorsabban úgy teheti ezt meg az összes felhasználó számára, ha módosítja a globális nevű alapértelmezett házirendet. 
+A Microsoft Teams beállításait házirendek vezérlik. A módosításhoz konfigurálnia kell a megfelelő házirendet, majd alkalmaznia kell azt a felhasználókra. Ezt a leggyorsabban úgy módosíthatja az összes felhasználónál, ha módosítja a Global nevű alapértelmezett házirendet. 
 
-**Note (Megjegyzés** ) A házirend módosítása ***legalább 4 48 óra elteltével érvényes***lesz. Ha egyéni házirendet hoz létre, legalább 4 órát kell várnia, mielőtt további módosításokat hajtson végre. Ezután alkalmazhatja a házirendet a felhasználókra. Ez azt jelenti, hogy az egyéni házirendek akár 48 órát is igénybe vehetnek. A globális házirendek alapértelmezés szerint minden felhasználó esetében érvényesek, és a globális házirend módosításai akár 24 óráig is eltarthat. Ha létrehozott egy egyéni házirendet, alkalmazta őket a felhasználókra, és az 48 óra elteltével sem lép életbe, vagy ha módosította a globális házirendet, és legalább 24 órát várt, nyisson meg egy támogatási ügyet.
+**MEGJEGYZÉS** A házirendváltozások életbe lépnek legalább 4 és **_48 óra között._** Ha egyéni házirendet hoz létre, legalább 4 órát kell várnia, mielőtt további módosításokat hozhat létre rajta. Ezután alkalmazhatja ezt a házirendet a felhasználókra. Ez azt jelenti, hogy az egyéni házirendek életbe lépnek, és akár 48 órát is igénybe vehet. A globális házirendek alapértelmezettként vannak beállítva az összes felhasználó számára, és a globális házirend módosításainak életbe léptető hatása akár 24 órát is igénybe vehet. Ha létrehozott egy egyéni házirendet, alkalmazta azt a felhasználókra, de még mindig nem lép effektusra 48 óra múlva, vagy módosította a globális házirendet, és legalább 24 órát várt, nyisson egy támogatási esetet.
 
-A Teams-házirendek az alábbi területekre oszlanak:
+A Teams-házirendek az alábbi területekre vannak felosztva:
 
-- A [Teams-házirendek](https://docs.microsoft.com/MicrosoftTeams/teams-policies) a privát csoportok felhasználóinak felfedezését a privát csatornák keresése és létrehozása során szabályozzák.  
-- Az [értekezlet-házirendekkel](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) szabályozhatja, hogy a felhasználók milyen műveleteket végezhetnek a Teams-értekezleteken, például az előszobában Ha segítségre van szüksége az Előszobai problémákkal kapcsolatban, például a csoportok beállításával mindenki számára, olvassa el a [lobby beállításainak és a részvételi szintek szabályozása](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
-- Az [üzenetküldési házirendek](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) szabályozzák, hogy a felhasználók milyen műveleteket végezhetnek el a csevegésben és az üzenetekben, többek között a csevegést be-és kikapcsolják, a csevegéseket, az olvasási visszaigazolásokat kérve a giphyk és a matricákat
-- Az [app beállítási házirendjei](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) szabályozzák, hogy mely alkalmazások érhetők el a felhasználók számára, többek között az egyéni és harmadik féltől származó alkalmazásokat, valamint a megjelenésük sorrendjét.  
-- A Teams [adatmegőrzési házirendjei](https://docs.microsoft.com/microsoftteams/retention-policies) a Microsoft 365 biztonsági és megfelelőségi központban találhatók.
-- A Teams címjegyzék-házirendjei a [tartományon alapuló címtár-keresésen](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)keresztül állíthatók be.
+- [A Teams házirendek](https://docs.microsoft.com/MicrosoftTeams/teams-policies) szabályozják, hogy a felhasználók a privát csatornák keresésében és létrehozásában feltárják a privát csoportokat.  
+- [Az értekezleti házirendek](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) azt vezérlik, hogy a felhasználók mit tudnak tenni a Teams-értekezletekkel, beleértve az előszoba szabályozását is. Ha segítségre van szüksége az előszobai problémákkal kapcsolatban, például ha be szeretné konfigurálni a Teamst mindenki számára, tekintse meg az Előszoba beállításainak és a részvételi [szinteknek a szabályozása részt.](https://docs.microsoft.com/alchemyinsights/bypass-lobby)
+- [Az üzenetkezelési](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) házirendek szabályozják, hogy a felhasználók mit tudnak tenni a csevegésekkel és az üzenetekkel, például be- vagy kikapcsolhatja a csevegést, törölhet csevegéseket, olvasási visszaigazolást kérhet, giphy-k és matricák használatával stb.
+- [Az alkalmazásbeállítási házirendekkel](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) szabályozhatja, hogy mely appok érhetők el a felhasználók számára, beleértve az egyéni és külső alkalmazásokat, valamint a sorrendet, amelyben megjelennek.  
+- A Teams [adatmegőrzési](https://docs.microsoft.com/microsoftteams/retention-policies) házirendek a Microsoft 365 Biztonsági és megfelelőségi központban találhatók.
+- A Teams címjegyzék-házirendeket a [hatókörű címtárkereséssel lehet beállítani.](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search)
