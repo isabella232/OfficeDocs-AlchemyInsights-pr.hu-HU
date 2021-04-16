@@ -1,8 +1,8 @@
 ---
-title: A onmicrosoft-tartomány átnevezése
+title: Az onmicrosoft tartomány átnevezése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701321"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810234"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>A onmicrosoft.com-tartomány átnevezése
+# <a name="rename-your-onmicrosoftcom-domain"></a>A tartomány onmicrosoft.com átnevezése
 
- **A regisztráció után az onmicrosoft tartomány nem nevezhető át.** Ha például az eredetileg kiválasztott tartomány a  *fourthcoffee.onmicrosoft.com*volt, akkor nem lehet  *fabrikam.onmicrosoft.com*módosítani. Ha másik onmicrosoft.com-tartományt szeretne használni, új előfizetést kell indítania a Microsoft 365-ban.
+ **A regisztráció után az onmicrosoft tartomány nem nevezhető át.** Ha például a választott kezdeti tartomány *fourthcoffee.onmicrosoft.com,* nem módosíthatja a *fabrikam.onmicrosoft.com.* Ha másik tartományt onmicrosoft.com használni, új Microsoft 365-előfizetést kell kezdenie.
   
-Ha egyéni tartományt (például  *contoso.com*  ) szeretne használni, [vegyen fel](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) egy személyt, vagy [vásároljon egyet a Microsofttól](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name).
+Ha egyéni tartományt (például contoso.com) szeretne használni, felvehet egyet, [amely](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) a tulajdonában van, *vagy* vásárolhat egyet a [Microsofttól.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)
   

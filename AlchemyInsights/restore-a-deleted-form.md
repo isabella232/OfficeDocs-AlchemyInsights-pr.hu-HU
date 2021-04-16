@@ -2,7 +2,7 @@
 title: Törölt űrlap visszaállítása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48018accc23a504c34b5469c198d6f29929d25c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662435"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809477"
 ---
 # <a name="restore-a-deleted-form"></a>Törölt űrlap visszaállítása
 
-Ha véletlenül törölt egy űrlapot a Microsoft űrlapokon, visszaállíthatja azt. Bejelentkezés a Microsoft Forms szolgáltatásba a törölt űrlap tulajdonosának. Kattintson a **Lomtár**elemre, majd jelölje ki a helyreállítani kívánt űrlapot, és válassza a **visszaállítás**lehetőséget. A visszaállítás után jelölje be a **vissza a saját űrlapok lapra** mutató nyilat.
+Ha véletlenül törölt egy űrlapot a Microsoft Formsban, azt visszaállíthatja. Jelentkezzen be a Microsoft Formsba a törölt űrlap tulajdonosaként. Jelölje ki **a Lomtárat,** jelölje ki a helyreállítani kívánt űrlapot, és válassza a Visszaállítás **lehetőséget.** A visszaállítás után válassza a Vissza **a saját Űrlapok lapra nyilat.**
 
-Csak az űrlap tulajdonosa tudja helyreállítani. Ha az űrlap tulajdonosának fiókját letiltották vagy törölték a bérlői fiókból, akkor csak a globális rendszergazda tudja helyreállítani az űrlapot. A globális rendszergazdának űrlap-licenccel kell rendelkeznie a visszaállítás végrehajtásához. A program csak a bérlőtől letiltott vagy eltávolított felhasználói fióktól számított 30 napon belül létrehozott űrlapokat állíthatja vissza.
+Csak az űrlap tulajdonosa tudja azt helyreállítani. Ha az űrlaptulajdonos fiókját letiltották vagy eltávolították a bérlői webhelyről, csak a globális rendszergazda tudja helyreállítani az űrlapot. A globális rendszergazdának Forms-licenccel kell rendelkezik a visszaállítás elvégzéséhez. Csak a bérlői fiók letiltását vagy bérlőből való eltávolítása után 30 napon belül létrehozott űrlapokat lehet visszaállítani.
 
-Ha Ön a bérlő globális rendszergazdája, és vissza szeretne állítani egy űrlapot egy törölt vagy letiltott fiókból, az [e-mail-cím] helyére írja be a törölt vagy letiltott felhasználó e-mail-címét a következő URL-címen: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [e-mail cím]** Ha például az e-mail-címe johndoe@contoso.com, az URL-cím a következő lesz: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
+Ha Ön a bérlő globális rendszergazdája, és egy törölt vagy letiltott fiókból szeretne helyreállítani egy űrlapot, cserélje le az [e-mail-cím] helyére a törölt vagy letiltott felhasználó e-mail címét a következő URL-címen: [e-mail **https://forms.office.com/Pages/delegatepage.aspx?originalowner= cím]** Ha például az e-mail-cím johndoe@contoso.com, az URL-cím a következő: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Ha hozzáfér a felhasználó törölt űrlapjaihoz, jelölje ki az áthelyezni kívánt űrlapot, és válassza a **további űrlapok**  >  **áthelyezése**parancsot.
+Miután hozzáfért a felhasználó törölt űrlapjaihoz, jelölje ki az áthelyezni kívánt űrlapot, és válassza a További űrlapműveletek áthelyezése   >  **lehetőséget.**
 
-Ha vissza szeretne állítani egy olyan űrlapot, amelyben a törölt elemek törlődtek, és a felhasználó el lett távolítva a szervezetből, a globális rendszergazda kiválaszthatja a felhasználó helyreállítását, alaphelyzetbe állíthatja a felhasználó jelszavát, és miközben a felhasználóként jelentkezett be, akkor az űrlap elérésével áthelyezheti egy másik aktív felhasználóhoz. 
+Ha helyre szeretne állítani egy űrlapot, amelyből törölve lett, és a felhasználó el lett távolítva a szervezetből, a globális rendszergazda dönthet úgy, hogy visszaállítja a felhasználót, alaphelyzetbe állítja a felhasználó jelszavát, majd a felhasználóként bejelentkezve az űrlaphoz hozzáférve áthelyezheti azt egy másik aktív felhasználóhoz. 

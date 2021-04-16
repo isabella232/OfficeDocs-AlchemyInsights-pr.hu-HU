@@ -1,8 +1,8 @@
 ---
-title: Windows 10-es előfizetés aktiválása
+title: Windows 10-előfizetés aktiválása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: bd8d02411e0c586f828c91a95b47fca330df2f57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8efc365cbbbe36f036899d1fcb28ce917c7053f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704680"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810882"
 ---
 # <a name="activating-windows-10-subscriptions"></a>A Windows 10 rendszer előfizetések aktiválása
 
-A Microsoft 365 vállalati prémium verzió, az Office 365 oktatási verzió, a Microsoft 365 és a nagyvállalati verzió digitális licenceket biztosít a Windows 10 rendszerhez az előfizetés részeként. Az előfizetés aktiválásához a Windows 10 Pro (1703-as vagy újabb verzió) alkalmazásnak már aktiválva kell lennie az eszközön. A Windows 10-előfizetés aktiválási követelményeinek teljes listáját a [Windows 10 előfizetés aktiválási követelményei](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)című témakörben tekintheti meg.
+Az előfizetés részeként a Microsoft 365 Vállalati prémium verzió, az Office 365 Oktatási verzió, a Microsoft 365 és a Nagyvállalati verzió digitális licenceket biztosít a Windows 10-hez. Az előfizetés aktiválásához a Windows 10 Pro (1703-as vagy újabb verzió) alkalmazásnak már aktiválva kell lennie az eszközön. A Windows 10-előfizetés aktiválására vonatkozó követelmények teljes listáját a [Windows 10-előfizetés](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)aktiválási követelményeinek megfelelően tekintse meg.

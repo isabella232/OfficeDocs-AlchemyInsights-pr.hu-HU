@@ -2,7 +2,7 @@
 title: Fenntartott példány vásárlása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
-ms.translationtype: MT
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48741366"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809909"
 ---
-# <a name="questions-before-purchase"></a>Megvásárolt kérdések
+# <a name="questions-before-purchase"></a>Vásárlás előtti kérdések
 
-**Hogyan érvényes a foglalási engedmény a meglévő erőforrásokra?**  
-A foglalási kedvezmény automatikusan érvényes a meglévő, a foglalási SKU-ra, a régióra és a hatókörre vonatkozó erőforrásokra. Nincs címkézés az erőforráshoz való fenntartáshoz. [tudj meg többet](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
+**Hogyan alkalmazzák a fenntartási kedvezményt a meglévő erőforrásokra?**  
+A foglalási előnyök automatikusan vonatkoznak a meglévő erőforrásokra, amelyek megfelelnek a foglalás termékváltozatának, régiójának és a hatókörének. Az erőforrások foglalása nincs megcímkézve. [További információ](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
 
-**Melyik VM-méretet érdemes megvásárolni?**  
-Olvassa el ezt a cikket: [a VM megfelelő méretének meghatározása a vásárlás előtt](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+**Milyen méretű virtuális gépet érdemes vásárolnom?**  
+Ebből a cikkből megtudhatja: [A virtuális gép megfelelő méretének meghatározása vásárlás előtt](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Milyen kérdésekkel vásárolhat az SQL lefoglalt kapacitást?**  
-Olvassa el ezt a cikket: az [SQL-adatbázis fenntartott kapacitásának vásárlása](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Az SQL – fenntartott kapacitás vásárlásával kapcsolatos kérdése van?**  
+Olvassa el ezt a cikket: [SQL-adatbázis fenntartott kapacitásának vásárlása](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
-**Indirekt EA-ügyfelem van, szükségem van a partnerem megvásárlására?**  
-Nem, megvásárolhatja az RI-t, ha Ön egy EA-előfizetés tulajdonosa.
+**Indirekt EA-ügyfél vagyok, szükségem van a partneremre a vásárláshoz?**  
+Nem, megvásárolhatja a fenntartott példányt, ha Ön egy nagyvállalati előfizetés egyik tulajdonosa.
 
-**A pénzügyi kötelezettségvállalás az RI verzió levonását is megvásárolja?**  
-Igen. Ha nincs elegendő pénzügyi kötelezettségvállalása, akkor a pénzösszeget meghaladó összeget kapja meg a pénzösszeg.
+**A fenntartott példány vásárlását levonják a pénzügyi kötelezettségvállalásból?**  
+Igen. Ha nincs elég pénzügyi kötelezettségvállalása, akkor kapni fog egy túlhasználati számlát a rendelkezésre álló pénzügyi kötelezettségvállalást meghaladó összegről.
 
-**Hogyan érvényes a lefoglalt példány a Windows VMs-re vagy az SQL IP-kiadásaira?**  
-A fenntartott példány kedvezmény csak a számítási használatra érvényes. A Windows IP-vagy SQL-költségei külön kerülnek felszámításra, és nem jelenik meg az RI kedvezmény. [Az Azure által lefoglalt VM-példányokban nem szereplő szoftveres költségek](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Hogyan alkalmazható a fenntartott példány a Windows rendszerű virtuális gépekre vagy az SQL IP-címeik költségeire?**  
+A fenntartott példány árengedménye csak a számítási használatra vonatkozik. A Windows IP-címek vagy SQL IP-címek költségeit külön számítjuk fel, és nem vonatkozik rájuk árengedmény. [A szoftverköltségek nem képezik az Azure Reserved Virtual Machine Instances részét](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
-**Számlázás a lefoglalt példányok vásárlásakor**  
+**A fenntartott példány vásárlásának számlázása**  
       
-A lefoglalt példány beszerzése a vásárlás időpontjában kiválasztott előfizetéshez kötött fizetési módra terheli. Az előfizetés típusa vállalati szerződés (ajánlati szám: MS-AZR-0017P), Pay-as-go (ajánlati szám: MS-AZR-0003P), Microsoft ügyfél-szerződés vagy CSP.
+A fenntartott példány vásárlását a vásárláskor kiválasztott előfizetéshez tartozó fizetési módra terheljük. Az előfizetési típusnak nagyvállalati szerződésnek (ajánlatszám: MS-AZR-0017P), használatalapú szerződésnek (ajánlatszám: MS-AZR-0003P), Microsoft Ügyfélszerződésnek vagy felhőszolgáltatói szerződésnek kell lennie.
 
--   Nagyvállalati verziós előfizetés esetén a díjakat a program levonja a beiratkozási pénzügyi egyenlegből vagy a túlóradíjra.
--   A fizetés-kirovó előfizetés esetén a díjakat a hitelkártyára vagy az előfizetés számlájának fizetési módjára kell kiszámlázni.
+-   Nagyvállalati előfizetés esetén a díjat levonjuk a regisztráció pénzügyi kötelezettségvállalási egyenlegéből, vagy túlhasználatként számítjuk fel
+-   Használatalapú előfizetés esetén a díjakat az előfizetéshez tartozó hitelkártyára vagy számlafizetési módra számlázzuk
 
-**Szolgáltatási csomag vásárlása:**
+**Szolgáltatáscsomag vásárlása:**
 
--   [Előre fizetés a Cosmos DB lefoglalt kapacitásért](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Az SQL-adatbázis előfizetése az Azure SQL-adatbázis által lefoglalt kapacitással rendelkező erőforrásokat számítja ki.](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Befizetések a virtuális gépeken Azure fenntartva VM-példányokkal](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Előre fizetés – Cosmos DB fenntartott kapacitás](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Előre fizetés – SQL-adatbázis számítási erőforrások Azure SQL-adatbázis fenntartott kapacitással](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Előre fizetés – virtuális gépek Azure Reserved Virtual Machine Instances szolgáltatással](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Szoftveres csomag vásárlása:**
+**Szoftvercsomag vásárlása:**
 
--   [A Red Hat szoftvercsomag előrefizetése az Azure Reservations csomagból](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [A SUSE csomagra szóló Előrefizetés az Azure Reservations csomagból](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Előre fizetés – Red Hat-szoftvercsomagok az Azure-foglalásoktól](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Előre fizetés – SUSE-szoftvercsomagok az Azure-foglalásoktól](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)

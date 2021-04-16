@@ -1,8 +1,8 @@
 ---
-title: Nem hozhatók létre kompatibilitási felmérések
+title: Nem hozható létre kompatibilitás-felmérés
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 9843afe5392778993a2197f2ce76761dcf732d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a42872d1685782abc86b55674e84ad1ace338c88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674076"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810342"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Nem hozhatók létre kompatibilitási felmérések
+# <a name="cant-create-a-compatibility-assessment"></a>Nem hozható létre kompatibilitás-felmérés
 
-A Microsoft Endpoint Configuration Manager sikeresen konfigurálta az eszközt, az asztali Analytics azonban nem tud kompatibilitási felmérést létrehozni. Nincs az eszköz konfigurációjának (népszámlálás) vagy a telepített alkalmazások (készlet) teljes adatkészlete.
+A Microsoft Endpoint Configuration Manager sikeresen konfigurálta az eszközt, de az asztali elemzések nem tudnak kompatibilitási felmérést létrehozni. Nincs teljes adatkészlet az eszköz konfigurációja vagy telepített alkalmazásai (készlete) számára.
 
-Ezt a problémát gyakran automatikusan kijavítottuk, ha az eszköz újból megkísérli. Ha nem szűnik meg, győződjön meg arról, hogy az eszköz kommunikálni tud a szolgáltatással. További információt a [végpontok](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) és a [hiányzó adatok](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)című témakörben találhat.
+Ezt a problémát gyakran automatikusan kijavítjuk, ha az eszköz újraszibadi az adatokat. Ha az eszköz nem szűnik meg, győződjön meg arról, hogy az eszköz képes kommunikálni a szolgáltatással. További információ: [Végpontok](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) és [Hiányzó adatok.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)

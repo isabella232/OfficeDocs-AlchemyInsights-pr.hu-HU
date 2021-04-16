@@ -1,8 +1,8 @@
 ---
-title: Képek átméretezése és csatolása Android-eszközön
+title: Képek átméretezése és csatolása Androidon
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795678"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809513"
 ---
-# <a name="resize-and-attach-images-on-android"></a>Képek átméretezése és csatolása Android-eszközön
+# <a name="resize-and-attach-images-on-android"></a>Képek átméretezése és csatolása Androidon
 
-Ha egy e-mailhez az 1 MB-nál nagyobb méretű képet csatol, akkor lehetősége van az üzeneten található képek tömörítésére és átméretezésére.
+Ha egy 1 MB-nál nagyobb méretű képet csatol egy e-mailhez, lehetősége van arra, hogy tömörítse vagy átméretezse a képeket az üzeneten.
  
-- Ha úgy dönt, hogy megtartja az eredetit, akkor az üzenet minden képe teljes méretben elküldve lesz.
+- Ha úgy dönt, hogy megtartja az eredetit, akkor az üzenetben látható összes kép teljes méretű lesz.
  
-- Ha úgy dönt, hogy az átméretezést választja, az üzenetben lévő összes kép tömörítve van.  Ez a cikk a Piszkozat szerkesztését követően később felvett képeket is tartalmaz.
+- Ha átméretezést választ, az üzenetben minden kép tömörítve lesz.  Ebbe beleértik a később hozzáadott képek is, miközben továbbra is szerkesztik a piszkozatot.
  
-- Ha menti a piszkozatot, és később visszaérkezik, és újabb nagy képet ad hozzá, a program újra kéri, és a módosítás a szerkesztési munkamenet során minden piszkozatra érvényes lesz.
+- Ha menti a piszkozatot, majd később visszatér, és egy másik nagy képet ad hozzá, a program ismét megkérdezi, hogy a választott lehetőség az adott szerkesztési munkamenetben minden piszkozatra vonatkozni fog.
  

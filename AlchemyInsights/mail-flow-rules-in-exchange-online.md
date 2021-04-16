@@ -2,7 +2,7 @@
 title: E-mail forgalmi szabályok az Exchange Online-ban
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5068"
-ms.openlocfilehash: 84e7b2584cd622c93e3fbb55cce41b6f9436fc24
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 737e0f2db14a766db1c21720a936c2dd4645aef3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662939"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810558"
 ---
 # <a name="mail-flow-transport-rules-in-exchange-online"></a>E-mail forgalmi (átviteli) szabályok az Exchange Online-ban
 

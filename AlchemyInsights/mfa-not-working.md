@@ -1,8 +1,8 @@
 ---
-title: A MFA problémái
+title: Az MFA-val kapcsolatos problémák
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 718af9bfbc0a64cdfc96528e5062fb96c8d0f2d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2fed99ebf553a9bfda436d81797c841987759e98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755133"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810486"
 ---
-# <a name="issues-with-azure-mfa"></a>Az Azure MFA hibáinak elhárítása
-Van néhány dolog, amit érdemes ellenőrizni, hogy a felhasználók nem tudnak-e bejelentkezni több tényezős hitelesítéssel (MFA)
+# <a name="issues-with-azure-mfa"></a>Az Azure MFA-val kapcsolatos problémák
+Van néhány dolog, amit ellenőrizni kell, hogy a felhasználók nem tudnak-e bejelentkezni többtényezős hitelesítéssel (MFA)
 
-1. Lehet, hogy az érintett felhasználó le van tiltva az Azure Active Directory-portálon. Ha ez a helyzet, akkor a rendszer automatikusan megtagadja a hitelesítési kísérleteket az adott felhasználó számára. [Kérjük, hogy távolítsa el a tiltást a jelen cikkben található lépéseket követve.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Előfordulhat, hogy az érintett felhasználó le van tiltva az Azure Active Directory portálon. Ebben az esetben a rendszer automatikusan elutasítja az adott felhasználó hitelesítési próbálkozását. [A tiltás feloldásához kövesse a cikkben található lépéseket.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Ha a felhasználó feloldása nem segít, vagy a felhasználó nincs letiltva, megpróbálhatja alaphelyzetbe állítani az MFA-t a felhasználó számára, és ismét az igénylési folyamatba kerülnek. [Kérjük, kövesse a jelen cikkben található lépéseket.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Ha a felhasználó letiltásának feloldása nem segít, vagy ha a felhasználó nem tiltja le, próbálja meg alaphelyzetbe állítani a felhasználó több hitelesítését, és a felhasználó ismét neki is el fog menni a regisztrációs folyamaton. [Kérjük, kövesse a cikkben található lépéseket.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Ha először engedélyezte a MFA használatát, és a felhasználók nem tudnak bejelentkezni az olyan nem böngészőkben lévő ügyfeleknek, mint például az Outlook, a Skype, stb., az O365-előfizetésben nincs engedélyezve a ADAL (Active Directory Authentication Library). Ebben az esetben csatlakoznia kell az Exchange Online Powershellhez, és futtatnia kell a következő parancsmagot:  *Set-OrganizationalSetting-OAuth2ClientProfileEnabled: $true*
+Ha első alkalommal engedélyezi az MFA hitelesítést, és a felhasználói nem tudnak bejelentkezni a nem böngészős ügyfélprogramokkal , például az Outlookkal, a Skype-pal stb., előfordulhat, hogy az ADAL (Active Directory authentication Library) nincs engedélyezve az O365-előfizetésében. Ebben az esetben csatlakoznia kell az Exchange Online Powershellhez, és futtatnia kell a következő parancsmagot:  *Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true*

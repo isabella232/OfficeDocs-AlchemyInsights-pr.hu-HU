@@ -1,8 +1,8 @@
 ---
-title: Nem működik megfelelően a webes összekötők frissítése
+title: Nem működik megfelelően a frissítés webes összekötővel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: fc7d748b8c3eb8753aeb29997eeb2fabea8c67cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a1e8ef98b72832db05f904ae82f4f8164f1a47
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749768"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809009"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Nem működik megfelelően a webes összekötők frissítése
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Nem működik megfelelően a frissítés webes összekötővel
 
-Ha van egy webes összekötő parancsfájlja, amely a [web. Page](https://msdn.microsoft.com/library/mt260924.aspx) függvényt használja, és a 2016 november 18-án módosította az adatkészletet vagy a jelentést, akkor az-ben átjárót kell használnia ahhoz, hogy megfelelően működjön a frissítés.
+Ha van egy webes összekötő-parancsfájlja, amely az [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) függvényt használja, és 2016. november 18. után frissítette az adatkészletet vagy jelentést, a frissítés megfelelő működéséhez átjárót kell használnia.
 
 További információ: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

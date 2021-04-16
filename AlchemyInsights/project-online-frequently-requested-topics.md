@@ -2,7 +2,7 @@
 title: A Project Online gyakran kért témakörei
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 847cfa73c98905dbd87004ea51b5005c59298545
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 66b5e32807abf2e9278280a3e5c91ae4eb6e31b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708136"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809982"
 ---
 # <a name="project-online-frequently-requested-topics"></a>A Project Online gyakran kért témakörei
 
 Íme néhány gyakran kért témakör a Projecttel:
 
-Az alábbi témakörök gyakran kérik a Projecthez:
+Az alábbi témakörök gyakran kérik a Projectet:
 1.  Első lépések: 
     -   [A Project Online első lépések](https://docs.microsoft.com/projectonline/get-started-with-project-online) 
     -   [A Project Online rendszergazdai dokumentációja](https://docs.microsoft.com/projectonline/project-online) 
