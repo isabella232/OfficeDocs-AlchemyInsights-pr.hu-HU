@@ -1,8 +1,8 @@
 ---
-title: Eredmények kinyomtatása a Microsoft űrlapokból
+title: Találatok nyomtatása a Microsoft Formsból
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2545"
 - "9000672"
-ms.openlocfilehash: 3f83da053a3188b2d00719e1b4da90763084b308
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 310306c30fb9f888b80b87a9539ef904e0ad63f3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801915"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800612"
 ---
-# <a name="print-results-in-a-summary-of-responses"></a><span data-ttu-id="c07eb-102">Eredmény kinyomtatása a válaszok összegzésében</span><span class="sxs-lookup"><span data-stu-id="c07eb-102">Print results in a summary of responses</span></span>
+# <a name="print-results-in-a-summary-of-responses"></a><span data-ttu-id="d12e9-102">Eredmények nyomtatása a válaszok összegzésében</span><span class="sxs-lookup"><span data-stu-id="d12e9-102">Print results in a summary of responses</span></span>
 
-<span data-ttu-id="c07eb-103">A [Microsoft Forms-eredményeket kinyomtathatja](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) a válaszok összegzése vagy az egyes felhasználók számára.</span><span class="sxs-lookup"><span data-stu-id="c07eb-103">You can [print Microsoft Forms results](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) as a summary of responses or for an individual.</span></span> 
+<span data-ttu-id="d12e9-103">A [Microsoft Forms eredményeit](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) kinyomtathatja a válaszok összegzéseként vagy egy adott személy számára.</span><span class="sxs-lookup"><span data-stu-id="d12e9-103">You can [print Microsoft Forms results](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) as a summary of responses or for an individual.</span></span> 
 
-<span data-ttu-id="c07eb-104">Az űrlapok nem nyomtathatók válasz nélkül, de ezt a funkcióját a [Microsoft Forms UserVoice webhelyen](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)kérheti, illetve szavazhatja meg.</span><span class="sxs-lookup"><span data-stu-id="c07eb-104">You can't print forms without responses, but you can request or vote on this feature by visiting the [Microsoft Forms UserVoice site](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).</span></span>
+<span data-ttu-id="d12e9-104">Válaszok nélkül nem nyomtathat űrlapokat, de kérheti vagy szavazhat erre a funkcióra a [Microsoft Forms UserVoice webhelyén.](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box)</span><span class="sxs-lookup"><span data-stu-id="d12e9-104">You can't print forms without responses, but you can request or vote on this feature by visiting the [Microsoft Forms UserVoice site](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).</span></span>
