@@ -1,8 +1,8 @@
 ---
-title: Aktiválási probléma – a fiók nem teszi lehetővé a szerkesztést a Mac gépen
+title: Aktiválási probléma – A fiók nem engedélyezi a szerkesztést Macen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: b4304f73ccad60f84c5cc6111de1e425695898e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69ccee6d9a412370577becb9c563d32ea0bb4038
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748831"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795986"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>A Microsoft 365-alkalmazások rögzítése "fiókja nem teszi lehetővé a szerkesztést Mac" üzenetben
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>A Microsoft 365-ös appok "A fiókja nem engedélyezi a Mac gépen való szerkesztést" üzenet kijavítva
 
-Ha ez az üzenet jelenik meg, próbálkozzon az alábbiakkal:
+Ha megjelenik ez az üzenet, próbálkozzon az alábbiakkal:
 
 - Ellenőrizze, hogy van-e olyan előfizetés, amely lehetővé teszi az ügyféllicencek használatát, és [gondoskodjon arról, hogy a felhasználóhoz legyen hozzárendelve licenc](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - A [licenceltávolító eszköz](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193) letöltése és futtatása.

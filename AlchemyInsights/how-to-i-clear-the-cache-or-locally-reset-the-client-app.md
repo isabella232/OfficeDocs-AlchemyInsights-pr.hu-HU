@@ -1,8 +1,8 @@
 ---
-title: Hogyan törölhetem a gyorsítótárat, vagy helyileg alaphelyzetbe kell állítani az ügyfélalkalmazás vagy az alkalmazás frissítését?
+title: Hogyan törölhetők a gyorsítótárból, illetve hogyan állíthatók alaphelyzetbe,illetve frissíthetők helyben az ügyfélprogram vagy az app?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780277"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795950"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Hogyan törölhetem a gyorsítótárat, vagy helyileg alaphelyzetbe kell állítani az ügyfélalkalmazás vagy az alkalmazás frissítését?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Hogyan törölhetők a gyorsítótárból, illetve hogyan állíthatók alaphelyzetbe,illetve frissíthetők helyben az ügyfélprogram vagy az app?
 
-Ha hiányos vagy hibás adatot tapasztal, próbáljon meg bezárni, majd nyissa meg újra az alkalmazást.  
+Ha hiányos vagy helytelen adatokat lát, próbálja meg kényszeríteni az alkalmazás bezárását, majd ismételt megnyitását.  
 
-Ha ez nem segít, próbálja meg alaphelyzetbe állítani a fiókot az eszközön.
+Ha ez nem működik, megpróbálhatja alaphelyzetbe állítani a fiókot az eszközön.
  
-Nyissa meg az alkalmazást, nyissa meg a **Beállítások**lapot, jelölje ki az e-mail-fiókot, és válassza a **fiók visszaállítása**lehetőséget.
+Nyissa meg az appot, válassza a Beállítások **lehetőséget,** jelölje ki az e-mail fiókot, és válassza a **Fiók alaphelyzetbe állítása lehetőséget.**
