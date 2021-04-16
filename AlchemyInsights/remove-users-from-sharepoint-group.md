@@ -1,8 +1,8 @@
 ---
-title: Felhasználók eltávolítása egy SharePoint-csoportból
+title: Felhasználók eltávolítása SharePoint-csoportból
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: eaa93ec5d87abe3e6c5db69e895ade5fbd39c952
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a66c8440ba7eb1bb0794efd94ad4e707b9d2298
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701573"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799163"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a>Felhasználók eltávolítása egy SharePoint-csoportból
+# <a name="remove-users-from-a-sharepoint-group"></a>Felhasználók eltávolítása SharePoint-csoportból
 
-A SharePoint-csoportok azokat a felhasználókat jelentik, akik rendelkeznek a webhelyek és a tartalom eléréséhez szükséges engedélyekkel. Ahelyett, hogy a jogosultságokat egyszerre egy személyhez rendeli, a csoportok segítségével kényelmesen kioszthatja ugyanazokat a jogosultsági szinteket egyszerre több személy számára.
+A SharePoint-csoportok olyan felhasználók gyűjteményei, akiknek azonos engedélykészletük van a webhelyekhez és a tartalmakhoz. Ahelyett, hogy egyszerre csak egy személyhez rendeli hozzá az engedélyeket, csoportok használatával egyidejűleg kényelmesen hozzárendelheti ugyanazt az engedélyszintet több személyhez is.
 
-- [Felhasználók eltávolítása csoportból](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [Tagok felvétele és eltávolítása a Microsoft 365-csoportjaiból a felügyeleti központban](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [Felhasználók eltávolítása egy csoportból](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
+- [Tagok hozzáadása vagy eltávolítása a Microsoft 365-csoportokból a Felügyeleti központban](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

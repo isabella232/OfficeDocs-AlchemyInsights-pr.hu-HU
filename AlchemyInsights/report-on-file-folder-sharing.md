@@ -1,8 +1,8 @@
 ---
-title: Jelentés a fájlok és mappák megosztásáról a SharePoint-webhelyeken
+title: Fájl- és mappamegosztás jelentése a SharePoint-webhelyeken
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: f6c0e7d183ee7d656d0dd63ed7af621c03f3ce94
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccf53ac09e6f5ad5bc48dcd8b31fb27b3a7c7b95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692369"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799019"
 ---
-# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Jelentés a fájlok és mappák megosztásáról a SharePoint-webhelyeken
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Fájl- és mappamegosztás jelentése a SharePoint-webhelyeken
 
-Létrehozhat egy CSV-fájlt, amely részletezi az adott SharePoint-webhelyen vagy OneDrive-tárban található egyedi fájlokat, felhasználókat, engedélyeket és hivatkozásokat. Ebben a cikkben megismerheti, hogy miként kezelheti a megosztást, és hogy minden fájl vagy mappa meg van-e osztva a vendégekkel.
+Létrehozhat egy CSV-fájlt, amely egy adott SharePoint-webhely vagy OneDrive-tár minden egyedi fájlját, felhasználóját, engedélyét és hivatkozását részletezi. Így jobban megértheti a megosztás használatának mikéntját, és hogy van-e bármilyen fájl vagy mappa megosztva a vendégekkel.
 
-További információt a [fájlok és mappák megosztása a SharePoint-webhelyeken](https://docs.microsoft.com/sharepoint/sharing-reports)című témakörben olvashat.
+További információ: Fájl- és mappamegosztás jelentése [SharePoint-webhelyen.](https://docs.microsoft.com/sharepoint/sharing-reports)
 
 > [!NOTE]
-> Ez a funkció jelenleg az első megjelenésű bérlői webhelyeken van telepítve, és fokozatosan fog megjelenni az összes termelési bérlő számára.
+> Ez a funkció jelenleg az Első megjelenés bérlői webhelyen van telepítve, és fokozatosan lesz elérhető az összes Production bérlői webhelyen.

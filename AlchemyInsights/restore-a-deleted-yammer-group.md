@@ -1,8 +1,8 @@
 ---
-title: Törölt Yammer-csoport visszaállítása
+title: Törölt Yammer visszaállítása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: db5988be7c1aba93075ab3631f8cd9d3a78d1485
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96457eded837e68a79226c32632ea8632cde56c0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720720"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51798659"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Törölt Yammer-csoport visszaállítása
+# <a name="restore-a-deleted-yammer-group"></a>Törölt Yammer visszaállítása
 
-Az [Office 365-ban összekapcsolt Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) a törlést követő 30 napon belül visszaállíthatók a [törölt Microsoft 365-csoport visszaállítási](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)lépéseit követve.
-Bizonyos esetekben előfordulhat, hogy egy Yammer-csoport nem csatlakozik Microsoft 365-csoporthoz. Ebben az esetben nem lehet automatikusan visszaállítani a csoportot, ha a hálózati adatmegőrzési házirend a *Soft delete*értékre van állítva, előfordulhat, hogy a Yammer- [exportálási](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) [adatmegőrzési házirend](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) van beállítva. Forduljon a Yammer-hálózat [igazolt rendszergazdájához](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) az adatmegőrzési házirend ellenőrzéséhez, illetve az adatexportálás elvégzéséhez.
+[Az Office 365-hez](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) csatlakoztatott Yammer a törlést követő 30 napon belül visszaállítható a törölt [Microsoft 365-csoport visszaállítása lépéseit követve.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
+Bizonyos esetekben előfordulhat, Yammer a csoport nem csatlakozik Microsoft 365-csoporthoz. Ebben az esetben nem lehet automatikusan visszaállítani [a](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) csoportot, de hozzáférhet a törölt adatokhoz az Yammer-adatok exportálása [](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) esetén, ha a hálózati adatmegőrzési házirend a Helyreállítható törlés beállításra *van állítva.* Az [adatmegőrzési házirend](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) ellenőrzéséhez Yammer a hálózat igazolt rendszergazdájához, illetve adatexportcióhoz.
