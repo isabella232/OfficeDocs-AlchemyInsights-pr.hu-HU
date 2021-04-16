@@ -1,8 +1,8 @@
 ---
-title: A PowerShell önkiszolgáló vásárlása
+title: A PowerShell önkiszolgáló megvásárlása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739972"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797723"
 ---
-# <a name="self-service-purchase-of-powershell"></a>A PowerShell önkiszolgáló vásárlása
+# <a name="self-service-purchase-of-powershell"></a>A PowerShell önkiszolgáló megvásárlása
 
-A MSCommerce PowerShell-modul használatához telepítenie kell azt Windows 10-es eszközön a TLS 1,2 (szükséges helyi rendszergazdai engedélyekkel).  Importálás és csatlakozás a MSCommerce modulhoz.  Amikor a rendszer arra kéri, hogy jelentkezzen be, globális vagy számlázási rendszergazdai szerepkör-hitelesítő adatokat kell használnia.  
+Az MSCommerce PowerShell modult TLS 1.2-es TLS 1.2-es Windows 10-es eszközre kell telepítenie (helyi rendszergazdai engedélyek szükségesek).  Importálja az MSCommerce modult, és csatlakozzon ahhoz.  Amikor a rendszer arra kéri, hogy jelentkezzen be, a globális vagy számlázási rendszergazdai szerepkörhöz szükséges hitelesítő adatokat kell használnia.  
 
-Ha nincs TLS 1,2, a következő hibaüzenet jelenhet meg a házirend beszerzése vagy frissítése során:
+Ha nem TLS 1.2-es, a következő hibaüzenet jelenhet meg, amikor megkísérli be szerezni vagy frissíteni a házirendet:
 
-*ErrorMessage – az alapul szolgáló kapcsolat bezárult: váratlan hiba történt a küldésben*.
+*ErrorMessage – A mögöttes kapcsolat lezárult: Váratlan* hiba történt egy küldésen.
 
 
 
