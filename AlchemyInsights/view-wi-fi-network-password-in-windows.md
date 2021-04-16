@@ -1,8 +1,8 @@
 ---
-title: A Wi-Fi hálózat jelszavának megtekintése a Windows 10 rendszerben
+title: A Wi-Fi jelszavának megtekintése a Windows 10-ben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689092"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807380"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>A Wi-Fi hálózat jelszavának megtekintése a Windows 10 rendszerben
+# <a name="view-wi-fi-network-password-in-windows-10"></a>A Wi-Fi jelszavának megtekintése a Windows 10-ben
 
-1. Ellenőrizze, hogy a Windows 10-es számítógép csatlakozik-e a Wi-Fi-hálózathoz.
+1. Győződjön meg arról, hogy Windows 10 rendszerű számítógépe csatlakoztatva van Wi-Fi hálózathoz.
 
-2. Nyissa meg a **beállítások > hálózati & internetes > állapotát**, vagy kattintson vagy koppintson [ide](ms-settings:network?activationSource=GetHelp) , hogy most lásson bennünket.)
+2. Válassza **a Beállítások > Hálózati & internet >** állapot lapját, [](ms-settings:network?activationSource=GetHelp) vagy kattintással vagy koppintással azonnal odamehetsz.)
 
-3. Kattintson a **hálózati és megosztási központ**elemre.
+3. Kattintson **a Hálózati és megosztási központ elemre.**
 
     ![Hálózati és megosztási központ.](media/network-sharing-center.png)
 
-4. A **hálózati és megosztási központban**a **kapcsolatok**elem mellett megjelenik a vezeték nélküli hálózat neve. Ha a hálózat neve például "ABC123", akkor a következőt tapasztalhatja:
+4. A **Hálózati és megosztási központban** a Kapcsolatok mellett láthatja a vezeték nélküli hálózat nevét.  Ha például a hálózat neve "ABC123", a következőt láthatja:
 
     ![Hálózati kapcsolatok.](media/network-connections.png)
 
-    A vezeték nélküli hálózat nevére kattintva nyissa meg a Wi-Fi állapota ablakot. 
+    Kattintson a vezeték nélküli hálózat nevére az Állapot Wi-Fi megnyitásához. 
 
-5. A Wi-Fi állapot ablakban kattintson a **vezeték nélküli tulajdonságok**elemre, kattintson a **Biztonság** fülre, és jelölje be a **karakterek megjelenítése**jelölőnégyzetet.
+5. Az Állapot Wi-Fi kattintson a Vezeték nélküli tulajdonságok **elemre,** kattintson a Biztonság **fülre,** és jelölje be a Karakterek **megjelenítése jelölőnégyzetet.**
 
-    ![A Wi-Fi jelszó karaktereinek megjelenítése.](media/show-password-characters.png)
+    ![A Wi-Fi karakterek megjelenítése](media/show-password-characters.png)
 

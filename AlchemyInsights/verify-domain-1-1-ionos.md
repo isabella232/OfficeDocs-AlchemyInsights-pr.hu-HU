@@ -1,8 +1,8 @@
 ---
-title: Tartomány igazolása 1&1 IONOS
+title: Tartomány igazolása az 1&1 IONOS segítségével
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b01c5647c506086b1ccfa97c13758df1906f1fbd
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 40a5fb44de76ed76b415b909718450c18ea24b50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816327"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808028"
 ---
-# <a name="verify-your-domain-with-11-ionos"></a>Tartomány igazolása 1&1 IONOS
+# <a name="verify-your-domain-with-11-ionos"></a>Tartomány igazolása az 1&1 IONOS segítségével
 
-A tartomány tulajdonjogának igazolásához a tartomány használati jogát igazoló TXT rekordot kell hozzáadnia a tartományregisztrálónál. 
+A tartomány igazolásához hozzá kell adni egy TXT rekordot a tartományregisztrálóhoz, hogy igazolja, hogy Öné a tartomány. 
 
-Először kövesse a [tartomány hozzáadása varázslót](https://admin.microsoft.com/Adminportal#/Domains) a **Beállítások** \> **területen**, és válassza a **tartomány hozzáadása**lehetőséget.
+Először kövesse a Tartomány hozzáadása varázsló [lépéseit](https://admin.microsoft.com/Adminportal#/Domains) a Settings Domains **(Beállítások** \> **tartományok) gombra,** majd a **Add domain (Tartomány hozzáadása) gombra.**
   
-Részletes útmutatásért olvassa el a [DNS-rekordok létrehozása az 1&1 ionos a Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) című témakört.
+Részletes [útmutatást a DNS-rekordok létrehozása a 1&1 IONOS rendszerében a Microsoft 365-hez](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) című cikk tartalmaz.
