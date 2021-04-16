@@ -1,8 +1,8 @@
 ---
-title: Csoport szerkesztése és kezelése a Microsoft streamben
+title: Csoport szerkesztése és kezelése a Microsoft Streamben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6452"
-ms.openlocfilehash: cc4c64468df911f803d7abbb90e5edd1123013fb
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 801c945a88b6edd09fb6c39b3bca0646ace9f84b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48274899"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814446"
 ---
-# <a name="edit-and-manage-a-group-in-microsoft-stream"></a><span data-ttu-id="05bdb-102">Csoport szerkesztése és kezelése a Microsoft streamben</span><span class="sxs-lookup"><span data-stu-id="05bdb-102">Edit and manage a group in Microsoft Stream</span></span>
+# <a name="edit-and-manage-a-group-in-microsoft-stream"></a><span data-ttu-id="c94d7-102">Csoport szerkesztése és kezelése a Microsoft Streamben</span><span class="sxs-lookup"><span data-stu-id="c94d7-102">Edit and manage a group in Microsoft Stream</span></span>
 
-<span data-ttu-id="05bdb-103">A Microsoft stream csoport beállításai a csoport tulajdonosai által is módosíthatók.</span><span class="sxs-lookup"><span data-stu-id="05bdb-103">Group settings in Microsoft Stream can be changed in Stream by the group owner.</span></span>  
+<span data-ttu-id="c94d7-103">A Microsoft Streamben a csoport beállításait a csoporttulajdonos a Streamben is meg tudja változtatni.</span><span class="sxs-lookup"><span data-stu-id="c94d7-103">Group settings in Microsoft Stream can be changed in Stream by the group owner.</span></span>  
 
-- [<span data-ttu-id="05bdb-104">Csoport szerkesztése és kezelése a Microsoft streamben</span><span class="sxs-lookup"><span data-stu-id="05bdb-104">Edit and manage a group in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-manage-groups)
+- [<span data-ttu-id="c94d7-104">Csoport szerkesztése és kezelése a Microsoft Streamben</span><span class="sxs-lookup"><span data-stu-id="c94d7-104">Edit and manage a group in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-manage-groups)

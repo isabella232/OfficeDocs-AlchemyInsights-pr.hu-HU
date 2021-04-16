@@ -1,8 +1,8 @@
 ---
-title: Az Excel üresen nyílik
+title: Üresen nyílik meg az Excel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: a7f3bf370a9f200c158bfe505012136867578dea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e9761404b0f0ccd199d67c78c3f7c4cb445d41d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783445"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813582"
 ---
-# <a name="excel-opens-blank"></a><span data-ttu-id="127c8-102">Az Excel üresen nyílik</span><span class="sxs-lookup"><span data-stu-id="127c8-102">Excel opens blank</span></span>
+# <a name="excel-opens-blank"></a><span data-ttu-id="1a708-102">Üresen nyílik meg az Excel</span><span class="sxs-lookup"><span data-stu-id="1a708-102">Excel opens blank</span></span>
 
-<span data-ttu-id="127c8-103">Ha az Excel elindul, de üres képernyőt jelenít meg, ahol a fájl várható, a fájl [ikonjára vagy fájlnevére duplán kattintva megnyithatja az Excel üres hibáinak elhárítása](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)című témakört.</span><span class="sxs-lookup"><span data-stu-id="127c8-103">If Excel starts but displays a blank screen where you expect the file to appear, see [Troubleshoot Excel opening blank when you double-click a file icon or file name](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span></span>
+<span data-ttu-id="1a708-103">Ha az Excel elindul, de egy üres képernyőt jelenít meg ott, ahol a fájl várhatóan megjelenik, tekintse meg Az Excel üresen nyitási hibáinak elhárítása fájlikonra vagy fájlnévre duplán kattintva című [témakört.](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)</span><span class="sxs-lookup"><span data-stu-id="1a708-103">If Excel starts but displays a blank screen where you expect the file to appear, see [Troubleshoot Excel opening blank when you double-click a file icon or file name](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).</span></span>
