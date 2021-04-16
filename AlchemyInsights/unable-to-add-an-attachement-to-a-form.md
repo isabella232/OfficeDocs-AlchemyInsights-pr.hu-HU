@@ -1,8 +1,8 @@
 ---
-title: Nem lehet mellékletet felvenni egy külső űrlapra
+title: Nem lehet mellékletet hozzáadni külső kapcsolatú űrlaphoz
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749408"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797327"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="a871b-102">Nem lehet mellékletet felvenni egy külső űrlapra</span><span class="sxs-lookup"><span data-stu-id="a871b-102">Unable to add an attachment to an externally-facing form</span></span>
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="dd47e-102">Nem lehet mellékletet hozzáadni külső kapcsolatú űrlaphoz</span><span class="sxs-lookup"><span data-stu-id="dd47e-102">Unable to add an attachment to an externally-facing form</span></span>
 
-<span data-ttu-id="a871b-103">Ha mellékletet próbál hozzáadni egy külső Microsoft Forms-felméréshez, a funkció még nem érhető el.</span><span class="sxs-lookup"><span data-stu-id="a871b-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="a871b-104">Ha nyomon szeretné követni a funkció kérésének állapotát, lépjen a [következő UserVoice-bejegyzésre](https://go.microsoft.com/fwlink/?linkid=2133069), és adja hozzá a szavazatát.</span><span class="sxs-lookup"><span data-stu-id="a871b-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
+<span data-ttu-id="dd47e-103">Ha egy külső Microsoft Forms-felméréshez szeretne mellékletet hozzáadni, az a funkció még nem érhető el.</span><span class="sxs-lookup"><span data-stu-id="dd47e-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="dd47e-104">A funkciókérés állapotának nyomon követéséhez menjen erre a [UserVoice-bejegyzésre,](https://go.microsoft.com/fwlink/?linkid=2133069)és adja meg a szavazatát.</span><span class="sxs-lookup"><span data-stu-id="dd47e-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>

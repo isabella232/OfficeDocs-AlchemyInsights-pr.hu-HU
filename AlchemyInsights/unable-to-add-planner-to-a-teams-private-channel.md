@@ -2,22 +2,23 @@
 title: A Planner nem adható hozzá a Teams privát csatornához
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000727"
 - "4976"
-ms.openlocfilehash: 441410399e5fa73f5855a5cf7268d7b3dc80b566
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 5e9cbe9652cd930a05b7240ca1beecffd576711e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530317"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797291"
 ---
-# <a name="unable-to-add-planner-to-a-teams-private-channel"></a><span data-ttu-id="386a4-102">A Planner nem adható hozzá a Teams privát csatornához</span><span class="sxs-lookup"><span data-stu-id="386a4-102">Unable to add Planner to a Teams private channel</span></span>
+# <a name="unable-to-add-planner-to-a-teams-private-channel"></a><span data-ttu-id="0b37f-102">A Planner nem adható hozzá a Teams privát csatornához</span><span class="sxs-lookup"><span data-stu-id="0b37f-102">Unable to add Planner to a Teams private channel</span></span>
 
-<span data-ttu-id="386a4-103">A Microsoft Teams privát csatornái jelenleg nem támogatják a Planner hozzáadását.</span><span class="sxs-lookup"><span data-stu-id="386a4-103">Currently, Microsoft Teams private channels do not support adding Planner.</span></span>  <span data-ttu-id="386a4-104">Jelenleg a saját csatornák teljes alkalmazás-támogatásán dolgozunk, beleértve az üzenetek bővítményeit és a botokat.</span><span class="sxs-lookup"><span data-stu-id="386a4-104">We're working on full apps support for private channels, including messaging extensions and bots.</span></span> <span data-ttu-id="386a4-105">További információt a [Microsoft Teams saját csatornák](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels) témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="386a4-105">See [Private channels in Microsoft Teams](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels) for more information.</span></span>
+<span data-ttu-id="0b37f-103">A Microsoft Teams privát csatornái jelenleg nem támogatják a Planner hozzáadását.</span><span class="sxs-lookup"><span data-stu-id="0b37f-103">Currently, Microsoft Teams private channels do not support adding Planner.</span></span>  <span data-ttu-id="0b37f-104">Jelenleg a saját csatornák teljes alkalmazás-támogatásán dolgozunk, beleértve az üzenetek bővítményeit és a botokat.</span><span class="sxs-lookup"><span data-stu-id="0b37f-104">We're working on full apps support for private channels, including messaging extensions and bots.</span></span> <span data-ttu-id="0b37f-105">További információt a [Microsoft Teams saját csatornák](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels) témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="0b37f-105">See [Private channels in Microsoft Teams](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels) for more information.</span></span>
