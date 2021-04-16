@@ -1,8 +1,8 @@
 ---
-title: Office 365 oktatási csomagok vásárlása
+title: Office 365 Oktatási csomagok vásárlása
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,25 +15,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 7199f8321d68ad9641dda265adba804216dede92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8546be7dc2ab569fe0beb3150ead687d3a96c83a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703338"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810738"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="ed7dc-102">Office 365 oktatási csomagok vásárlása</span><span class="sxs-lookup"><span data-stu-id="ed7dc-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="866d6-102">Office 365 Oktatási csomagok vásárlása</span><span class="sxs-lookup"><span data-stu-id="866d6-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="ed7dc-103">Ön jogosult az Office 365 Oktatási verzióra.</span><span class="sxs-lookup"><span data-stu-id="ed7dc-103">You have been approved for Office 365 Education.</span></span>  <span data-ttu-id="ed7dc-104">Így vásárolhatja meg:</span><span class="sxs-lookup"><span data-stu-id="ed7dc-104">To purchase:</span></span>
+<span data-ttu-id="866d6-103">Ön jogosult az Office 365 Oktatási verzióra.</span><span class="sxs-lookup"><span data-stu-id="866d6-103">You have been approved for Office 365 Education.</span></span>  <span data-ttu-id="866d6-104">Így vásárolhatja meg:</span><span class="sxs-lookup"><span data-stu-id="866d6-104">To purchase:</span></span>
 
-1. <span data-ttu-id="ed7dc-105">Lépjen a **[Számlázás > Szolgáltatások vásárlása](https://portal.office.com/AdminPortal/Home#/catalog)** lehetőségre.</span><span class="sxs-lookup"><span data-stu-id="ed7dc-105">Navigate to **[Billing > Purchase Services](https://portal.office.com/AdminPortal/Home#/catalog)**.</span></span>
+1. <span data-ttu-id="866d6-105">Lépjen a **[Számlázás > Szolgáltatások vásárlása](https://portal.office.com/AdminPortal/Home#/catalog)** lehetőségre.</span><span class="sxs-lookup"><span data-stu-id="866d6-105">Navigate to **[Billing > Purchase Services](https://portal.office.com/AdminPortal/Home#/catalog)**.</span></span>
 
-2. <span data-ttu-id="ed7dc-106">Az **Oktatási csomagok** alatt válasszon a listából.</span><span class="sxs-lookup"><span data-stu-id="ed7dc-106">Choose from the list under **Education Plans**.</span></span>
+2. <span data-ttu-id="866d6-106">Az **Oktatási csomagok** alatt válasszon a listából.</span><span class="sxs-lookup"><span data-stu-id="866d6-106">Choose from the list under **Education Plans**.</span></span>
 
-3. <span data-ttu-id="ed7dc-107">Mutasson a megvásárolni kívánt előfizetésre, és kattintson a **Vásárlás** gombra.</span><span class="sxs-lookup"><span data-stu-id="ed7dc-107">Hover over the subscription you would like to purchase and click **Buy Now**.</span></span>
+3. <span data-ttu-id="866d6-107">Mutasson a megvásárolni kívánt előfizetésre, és kattintson a **Vásárlás** gombra.</span><span class="sxs-lookup"><span data-stu-id="866d6-107">Hover over the subscription you would like to purchase and click **Buy Now**.</span></span>
 
-<span data-ttu-id="ed7dc-108">**Távoktatás és távtanulás**</span><span class="sxs-lookup"><span data-stu-id="ed7dc-108">**Remote teaching and learning**</span></span>
+<span data-ttu-id="866d6-108">**Távoktatás és távtanulás**</span><span class="sxs-lookup"><span data-stu-id="866d6-108">**Remote teaching and learning**</span></span>
 
-- <span data-ttu-id="ed7dc-109">Kérjük, tanulmányozza a [Távoli tanítás és tanulás az Office 365 Oktatási verzióban](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) című cikket, hogy megismerhesse az iskola beállítására, az óravázlat-tervezésre, a virtuális értekezletekre és a diákokkal való tartalommegosztásra vonatkozó legújabb útmutatót.</span><span class="sxs-lookup"><span data-stu-id="ed7dc-109">Please see [Remote teaching and learning in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) to learn the most up to date guidance on setting up your school lesson planning, meeting virtually and sharing content with students.</span></span>
+- <span data-ttu-id="866d6-109">Kérjük, tanulmányozza a [Távoli tanítás és tanulás az Office 365 Oktatási verzióban](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) című cikket, hogy megismerhesse az iskola beállítására, az óravázlat-tervezésre, a virtuális értekezletekre és a diákokkal való tartalommegosztásra vonatkozó legújabb útmutatót.</span><span class="sxs-lookup"><span data-stu-id="866d6-109">Please see [Remote teaching and learning in Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) to learn the most up to date guidance on setting up your school lesson planning, meeting virtually and sharing content with students.</span></span>
 
-- <span data-ttu-id="ed7dc-110">További informatikai útmutatást tartalmaz [A Microsoft Teams használatbavétele távoli tanuláshoz](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) és az [Átváltás távoli tanulásra](https://www.microsoft.com/education/remote-learning) című cikk.</span><span class="sxs-lookup"><span data-stu-id="ed7dc-110">There is additional IT guidance in [Get started with Microsoft Teams for remote learning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) and [Making the transition to remote learning](https://www.microsoft.com/education/remote-learning).</span></span>
+- <span data-ttu-id="866d6-110">További informatikai útmutatást tartalmaz [A Microsoft Teams használatbavétele távoli tanuláshoz](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) és az [Átváltás távoli tanulásra](https://www.microsoft.com/education/remote-learning) című cikk.</span><span class="sxs-lookup"><span data-stu-id="866d6-110">There is additional IT guidance in [Get started with Microsoft Teams for remote learning](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) and [Making the transition to remote learning](https://www.microsoft.com/education/remote-learning).</span></span>

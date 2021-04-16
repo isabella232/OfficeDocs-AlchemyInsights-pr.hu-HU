@@ -1,8 +1,8 @@
 ---
-title: Nem hozhatók létre kompatibilitási felmérések
+title: Nem hozható létre kompatibilitás-felmérés
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 9843afe5392778993a2197f2ce76761dcf732d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a42872d1685782abc86b55674e84ad1ace338c88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674076"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810342"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a><span data-ttu-id="10b35-102">Nem hozhatók létre kompatibilitási felmérések</span><span class="sxs-lookup"><span data-stu-id="10b35-102">Can't create a compatibility assessment</span></span>
+# <a name="cant-create-a-compatibility-assessment"></a><span data-ttu-id="af3f7-102">Nem hozható létre kompatibilitás-felmérés</span><span class="sxs-lookup"><span data-stu-id="af3f7-102">Can't create a compatibility assessment</span></span>
 
-<span data-ttu-id="10b35-103">A Microsoft Endpoint Configuration Manager sikeresen konfigurálta az eszközt, az asztali Analytics azonban nem tud kompatibilitási felmérést létrehozni.</span><span class="sxs-lookup"><span data-stu-id="10b35-103">Microsoft Endpoint Configuration Manager successfully configured the device, but Desktop Analytics can't create a compatibility assessment.</span></span> <span data-ttu-id="10b35-104">Nincs az eszköz konfigurációjának (népszámlálás) vagy a telepített alkalmazások (készlet) teljes adatkészlete.</span><span class="sxs-lookup"><span data-stu-id="10b35-104">It doesn't have a complete data set for the device's configuration (census) or installed apps (inventory).</span></span>
+<span data-ttu-id="af3f7-103">A Microsoft Endpoint Configuration Manager sikeresen konfigurálta az eszközt, de az asztali elemzések nem tudnak kompatibilitási felmérést létrehozni.</span><span class="sxs-lookup"><span data-stu-id="af3f7-103">Microsoft Endpoint Configuration Manager successfully configured the device, but Desktop Analytics can't create a compatibility assessment.</span></span> <span data-ttu-id="af3f7-104">Nincs teljes adatkészlet az eszköz konfigurációja vagy telepített alkalmazásai (készlete) számára.</span><span class="sxs-lookup"><span data-stu-id="af3f7-104">It doesn't have a complete data set for the device's configuration (census) or installed apps (inventory).</span></span>
 
-<span data-ttu-id="10b35-105">Ezt a problémát gyakran automatikusan kijavítottuk, ha az eszköz újból megkísérli.</span><span class="sxs-lookup"><span data-stu-id="10b35-105">This issue is often fixed automatically when the device retries.</span></span> <span data-ttu-id="10b35-106">Ha nem szűnik meg, győződjön meg arról, hogy az eszköz kommunikálni tud a szolgáltatással.</span><span class="sxs-lookup"><span data-stu-id="10b35-106">If it persists, make sure the device can communicate with the service.</span></span> <span data-ttu-id="10b35-107">További információt a [végpontok](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) és a [hiányzó adatok](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)című témakörben találhat.</span><span class="sxs-lookup"><span data-stu-id="10b35-107">For more information, see [Endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) and [Missing data](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).</span></span>
+<span data-ttu-id="af3f7-105">Ezt a problémát gyakran automatikusan kijavítjuk, ha az eszköz újraszibadi az adatokat.</span><span class="sxs-lookup"><span data-stu-id="af3f7-105">This issue is often fixed automatically when the device retries.</span></span> <span data-ttu-id="af3f7-106">Ha az eszköz nem szűnik meg, győződjön meg arról, hogy az eszköz képes kommunikálni a szolgáltatással.</span><span class="sxs-lookup"><span data-stu-id="af3f7-106">If it persists, make sure the device can communicate with the service.</span></span> <span data-ttu-id="af3f7-107">További információ: [Végpontok](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) és [Hiányzó adatok.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)</span><span class="sxs-lookup"><span data-stu-id="af3f7-107">For more information, see [Endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) and [Missing data](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).</span></span>

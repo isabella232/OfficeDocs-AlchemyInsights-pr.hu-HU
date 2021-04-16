@@ -1,8 +1,8 @@
 ---
-title: Az űrlap tulajdonjogának átvitele egy másik felhasználóval
+title: Űrlap tulajdonjogának átvitele egy másik felhasználónak
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: 8b38b200c9ddd95245e2ded947a1eeee4262c88c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db71635a5f925df85e6613c6cb4760406b4be3e8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700133"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809045"
 ---
-# <a name="transfer-ownership-of-a-microsoft-form"></a><span data-ttu-id="b1cd6-102">Microsoft-űrlap tulajdonjogának átruházása</span><span class="sxs-lookup"><span data-stu-id="b1cd6-102">Transfer ownership of a Microsoft Form</span></span>
+# <a name="transfer-ownership-of-a-microsoft-form"></a><span data-ttu-id="3bf43-102">Microsoft-űrlap tulajdonjogának átruházása</span><span class="sxs-lookup"><span data-stu-id="3bf43-102">Transfer ownership of a Microsoft Form</span></span>
 
-<span data-ttu-id="b1cd6-103">A Microsoft űrlapokban áthelyezheti a felméréseket, a teszteket vagy a szavazásokat úgy, hogy a csoport minden tagja az adott űrlap tulajdonosa lesz.</span><span class="sxs-lookup"><span data-stu-id="b1cd6-103">You can move a survey, quiz, or poll in Microsoft Forms to a group so everyone in your group becomes owners of that form.</span></span> <span data-ttu-id="b1cd6-104">Az űrlap tulajdonjogát átruházhatja másik felhasználóra is, ha az előző tulajdonos elhagyta a szervezetet.</span><span class="sxs-lookup"><span data-stu-id="b1cd6-104">You can also transfer form ownership to another user if the previous owner has left the organization.</span></span>
+<span data-ttu-id="3bf43-103">A Microsoft Formsban áthelyezhet egy felmérést, tesztet vagy szavazást egy csoportba, így a csoport minden tagja az űrlap tulajdonosa lesz.</span><span class="sxs-lookup"><span data-stu-id="3bf43-103">You can move a survey, quiz, or poll in Microsoft Forms to a group so everyone in your group becomes owners of that form.</span></span> <span data-ttu-id="3bf43-104">Az űrlap tulajdonjogát át is ruházhatja egy másik felhasználónak, ha az előző tulajdonos távozott a szervezettől.</span><span class="sxs-lookup"><span data-stu-id="3bf43-104">You can also transfer form ownership to another user if the previous owner has left the organization.</span></span>
 
-<span data-ttu-id="b1cd6-105">További információt az [űrlap tulajdonjogának átruházása](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="b1cd6-105">For more information, see [Transfer ownership of a form](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span></span>
+<span data-ttu-id="3bf43-105">További információ: [Űrlap tulajdonjogának átruházása.](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)</span><span class="sxs-lookup"><span data-stu-id="3bf43-105">For more information, see [Transfer ownership of a form](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span></span>
