@@ -2,21 +2,22 @@
 title: A Visio alkalmazással kapcsolatos gyakori problémák és a megoldásuk
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722585"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806588"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>A Visio alkalmazással kapcsolatos gyakori problémák és a megoldásuk
 
@@ -30,7 +31,7 @@ Alább felsorolunk néhány, a Microsoft Visio alkalmazással kapcsolatban gyakr
 
 **A Visio letöltése, telepítése és aktiválása**
 
-- A Visio Online 2. csomagjában szereplő asztali Visio alkalmazás telepítéséhez és aktiválásához először hozzá kell rendelni a felhasználóhoz egy [Visio-licencet](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- A Visio Online 2. csomagjában szereplő asztali Visio alkalmazás telepítéséhez és aktiválásához először hozzá kell rendelni a felhasználóhoz egy [Visio-licencet](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Telepítse a Visio alkalmazást a Saját fiók portálról, ha még nincs telepítve. További segítségért tekintse át [A Visio telepítése](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) című témakört.
 
@@ -40,7 +41,7 @@ Alább felsorolunk néhány, a Microsoft Visio alkalmazással kapcsolatban gyakr
 
 **Visio Mac gépen**
 
-Mac gépekhez nem készült asztali Visio alkalmazás. Az érvényes [Visio Online-licenccel](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) rendelkező felhasználók azonban a Visio Online használatával [megtekinthetnek, létrehozhatnak és szerkeszthetnek diagramokat](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) egy webböngészőben.
+Mac gépekhez nem készült asztali Visio alkalmazás. Az érvényes [Visio Online-licenccel](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) rendelkező felhasználók azonban a Visio Online használatával [megtekinthetnek, létrehozhatnak és szerkeszthetnek diagramokat](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) egy webböngészőben.
 
 **Diagramok, sablonok, alakzatok és összekötők**
 

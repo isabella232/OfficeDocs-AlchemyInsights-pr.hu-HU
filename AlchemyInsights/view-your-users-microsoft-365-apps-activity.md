@@ -1,8 +1,8 @@
 ---
-title: A felhasználók Microsoft 365-alkalmazások tevékenységének megtekintése
+title: A felhasználók Microsoft 365-appokkal kapcsolatos tevékenységének megtekintése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 3e8878ae08ede1193e532aba6cc4b901c131327d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13049a2f24e93a718cab26097fa8e2145fde5667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664640"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806624"
 ---
-# <a name="view-your-users-microsoft-365-apps-activity"></a>A felhasználók Microsoft 365-alkalmazások tevékenységének megtekintése
+# <a name="view-your-users-microsoft-365-apps-activity"></a>A felhasználók Microsoft 365-appokkal kapcsolatos tevékenységének megtekintése
 
-Az [Office-aktiválási jelentés](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) segítségével megtekintheti, hogy a felhasználók legalább egy eszközön telepítették és aktiválták a Microsoft 365-alkalmazásait.
+Az [Office aktiválása](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) jelentés bepillantásba teszi, hogy mely felhasználók telepítették és aktiválták a Microsoft 365-alkalmazásokat legalább egy eszközön.
 
-Emellett a [microsoft 365 alkalmazások használati jelentésével](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)is betekintést kaphat a felhasználók Microsoft 365 alkalmazási tevékenységeibe.
+Ezenkívül a Microsoft 365-alkalmazások használati jelentésével megtekintheti a felhasználók Microsoft [365-alkalmazásokra vonatkozó tevékenységét.](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)

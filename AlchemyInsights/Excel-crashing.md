@@ -1,8 +1,8 @@
 ---
-title: Összeomló Excel?
+title: Összeomlik az Excel?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 6010d4a6e745f17f330e883521bc8d76efe68097
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359299"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804815"
 ---
-# <a name="frequent-excel-crashes"></a>Gyakran használják az Excel összeomlik?
+# <a name="frequent-excel-crashes"></a>Gyakran összeomlik az Excel?
 
-Az Excel alkalmazásban gyakori összeomlik okozhatja hibás bővítmény. Ezeket az utasításokat követve egy Excel beépülő modul letiltható:
+Az Excelben gyakran előforduló összeomlásokat a hibát okozó bővítmény okozhatja. Az Excel-bővítményeket az alábbi lépéseket követve tilthatja le:
   
-1. Válassza a **fájl** \> **Beállítások**, \> **- Bővítmények**.
+1. Válassza **a** \> **Fájlbeállítások**, \> **a Bővítmények lehetőséget.**
 
-2. Válassza a **COM-bővítmények** **kezelése** párbeszédpanelen, és kattintson az **Ugrás**.
+2. A Kezelés **mezőben** válassza a **COM-bővítmények** lehetőséget, majd kattintson az Ugrás **gombra.**
 
-3. A rendelkezésre álló bővítmények mezőben törölje a letiltani kívánt bővítmény melletti jelölőnégyzetet, és kattintson az **OK gombra**.
+3. Az elérhető Add-Ins törölje a letiltani kívánt bővítmény melletti jelölőnégyzet jelölését, majd kattintson az **OK gombra.**
 
 > [!NOTE]
-> Ha az Excel indítása során összeomlik, indítsa el azt csökkentett módban lenyomja és nyomva tartja a Ctrl billentyűt a program indítása közben.
+> Ha az Excel indításkor összeomlik, indítsa el csökkentett módban úgy, hogy a program elindítása közben lenyomja és lenyomva tartja a Ctrl billentyűt.
   
-Amennyiben változatlanul fennáll a probléma, a következő cikkekben talál:
+Ha továbbra is problémákat tapasztal, olvassa el az alábbi cikkeket:
   
-- ["Leállított dolgozik" hibaüzenet jelenik meg Office 2016 vagy 2013-alkalmazások indításakor a PC-n](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Az Office 2016-os vagy 2013-as alkalmazások pc-n való elindítanikor a "leállt" hibaüzenet jelenik meg](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [Összeomló és nem válaszol a Microsoft Excel kapcsolatos problémák elhárítása](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [Az Excel összeomlásával és nem válaszolásával kapcsolatos hibák elhárítása](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Az Excel nem válaszol, lefagy, lefagy vagy leáll](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Az Excel nem válaszol, lefagy vagy leáll](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)

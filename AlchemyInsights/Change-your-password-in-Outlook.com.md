@@ -1,8 +1,8 @@
 ---
-title: Jelszóváltoztatás
+title: Jelszó módosítása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -10,19 +10,19 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 9abc97379dc153956e8cf3ce59ddb046623b85d5
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7903069254a2889445b552c9d638c9d7049e112a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36496418"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805175"
 ---
-# <a name="change-your-password-in-outlook"></a>Jelszó módosítása az Outlook-ban
+# <a name="change-your-password-in-outlook"></a>Jelszó módosítása az Outlookban
 
-Ha elfelejtette jelszavát, látogasson el a Microsoft- [fiók jelszókiadási oldalára](https://go.microsoft.com/fwlink/p/?linkid=841909). Ellenkező esetben kövesse az alábbi utasításokat.
+Ha elfelejtette a jelszavát, menjen a [Microsoft-fiók jelszavának alaphelyzetbe állítva lapra.](https://go.microsoft.com/fwlink/p/?linkid=841909) Ellenkező esetben kövesse az alábbi utasításokat.
   
-1. Kiválaszt neved vagy arcél kép-ban tető jobb sarok és kiválaszt **kilátás számla**.
-2. A Hello! bannerre, válassza a **jelszó módosítása**.
-3. Választ egy új jelszó és kiválaszt **megment**.
+1. Jelölje ki a nevét vagy a profilképét a jobb felső sarokban, és válassza a **Fiók megtekintése lehetőséget.**
+2. Az Üdv! transzparensen válassza **a Jelszó módosítása lehetőséget.**
+3. Válasszon egy új jelszót, és válassza a Mentés **gombot.**
 
-További információ: [a jelszó módosítása a Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
+További információért olvassa el [a Jelszó módosítása a Outlook.com.](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx)
