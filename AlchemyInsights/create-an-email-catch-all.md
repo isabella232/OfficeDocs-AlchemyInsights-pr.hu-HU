@@ -1,8 +1,8 @@
 ---
-title: E-mail-fogás létrehozása
+title: Az összes e-mail fogó létrehozása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712988"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816202"
 ---
-# <a name="create-an-email-catch-all"></a>E-mail-fogás létrehozása
+# <a name="create-an-email-catch-all"></a>Az összes e-mail fogó létrehozása
 
-Az összes fogás használata erősen ellenjavallt. Jobb, ha vissza szeretne térni a feladónak, hogy a feladók megismerjék az üzenetét, hogy a címzettek ne legyenek kézbesítve, így elvégezhetik őket. Úgy is korlátozhatja a figyelt postaládát, hogy csak a korábban érvényes e-mail-címeket kapja meg. 
+A minden kifogó használata kifejezetten ellenzi ezt. Jobb, ha visszapattan a feladóhoz, és tudatja a feladóval, hogy az üzenetet nem lehetett címzettként kézbesíteni, hogy meg tudjanak oldani a lépéseket. A figyelt postaládát úgy is korlátozhatja, hogy csak a korábban érvényes e-mail-címeket elfogja. 
 
-Bármely fogás minden postaládában sok levélszemét fog megjelenni, és előfordulhat, hogy végül nem figyeltek meg. (Vannak fogadási korlátok.) 
+Minden elfogható postaláda sok levélszemetet kap, és végül kitöltheti őket, ha nem figyelik rendszeresen. (Vannak fogadási korlátozások.) 
 
-Ha úgy dönt, hogy továbblép, kövesse az alábbi lépéseket:
+Ha a folytatásról dönt, kövesse az alábbi lépéseket:
 
-1. Hozzon létre egy dinamikus terjesztési csoportot, & a "minden címzett típusa" szó szerepel.
+1. Dinamikus terjesztési csoport létrehozása & "Minden címzetttípus" gombra.
 
-2. Hozzon létre egy dedikált postaládát az e-mailek elfogásához, például catchall@domain.com.
+2. Létrehozhat egy dedikált postaládát az e-mailek (például e-mailek) catchall@domain.com.
 
-3. Az adott tartomány esetében állítsa a DomainType a "InternalRelay" értékre. Ha később eltávolítja az egész fogást, győződjön meg arról, hogy a tartomány vissza a mérvadó értékre van állítva.
+3. Az adott tartományhoz állítsa a DomainType tulajdonságot "InternalRelay" (Belső átfedés) beállításra. Ha később eltávolítja a "Minden" halmazt, állítsa vissza a tartományt Mérvadóra.
 
-4. Hozzon létre egy Hibaelhárítóhttps://configure.Office.com/scenario.aspx?SID=12 átviteli szabályt az alábbiak szerint:
+4. Hozzon létre egy levélcsordulási átviteli szabályt az alábbiak szerint:
 
-    - Ha a feladó "a szervezeten kívül"
-    - Az üzenet átirányítása a Catchall@domain.com-ra
-    - Kivéve, ha a címzett a allusers@domain.com tagja (a terjesztési csoport az összes tagot tartalmazza)
-    - Annak ellenőrzése, hogy az új postaládák hozzá lettek-e adva a dinamikus terjesztési csoporthoz
+    - Ha a Feladó "Szervezeten kívül"
+    - Az üzenet átirányítása a Catchall@domain.com
+    - Kivéve, ha a címzett tagja az allusers@domain.com (a terjesztési csoport az összes tagot tartalmazza)
+    - Ellenőrizze, hogy az új postaládák bekerülnek-e a dinamikus terjesztési csoportba

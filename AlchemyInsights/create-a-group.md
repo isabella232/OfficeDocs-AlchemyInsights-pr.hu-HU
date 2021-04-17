@@ -2,7 +2,7 @@
 title: Csoport létrehozása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: b8cb3f1de991bfe7197607d5e8964a018e31c122
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088905"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816358"
 ---
 # <a name="create-a-group"></a>Csoport létrehozása
 
-Ez a témakör ismerteti a csoportok létrehozását.
+Ez a témakör a csoportok létrehozását ismerteti.
 
-**Csoport létrehozásának engedélye**
+**Csoport létrehozására vonatkozó engedély**
 
-Ellenőrizze, hogy jogosult-e új csoport létrehozására. A globális rendszergazda letilthatja a csoportok létrehozását az Azure portálon vagy az Access-panelen. Előfordulhat, hogy a rendszergazdának létre kell hoznia az új csoportot, vagy megfelelő engedélyeket kell adnia.
+Győződjön meg arról, hogy jogosult új csoport létrehozására. A globális rendszergazdák letilthatják a csoportok létrehozását az Azure Portal webhelyen vagy az Access panelen. Szükség lehet egy rendszergazdára az új csoport létrehozásához vagy a megfelelő engedélyek létrehozására.
 
 **Csoport létrehozási engedélyeinek kezelése**
 
-1. A globális rendszergazdák kezelhetik a csoport létrehozásához szükséges engedélyeket (biztonsági okokból kifolyólag) vagy az Azure portálon vagy az Access-munkaablakban létrehozott Office 365-csoportokat, ha a "felhasználók létrehozhatnak biztonsági csoportokat az Azure-portálokon" vagy a "felhasználók létrehozhatnak Office 365-csoportokat az Azure portálokon" az **összes csoport**  >  **általános (beállítások)** parancsára kattintva.
-2. A csoportok létrehozását úgy is korlátozhatja, hogy a felhasználók egy csoportját kijelölje, ha az Azure Active Directory P1 prémium licenccel rendelkezik.
+1. A globális rendszergazdák kezelhetik a csoportok létrehozásának engedélyét (biztonsági okokból) vagy az Azure Portal vagy a Hozzáférési panelen létrehozott Office 365-csoportokat "A felhasználók biztonsági csoportokat hozhatnak létre az Azure Portálon" vagy a "Felhasználók létrehozhatnak Office 365-csoportokat az Azure Portals webhelyen" lehetőséget választva a Minden csoport általános  >  **(Beállítások)** csoportjában.
+2. Ha Azure Active Directory P1 Premium-licenccel rendelkezik, korlátozhatja a csoportok létrehozását úgy is, hogy csak egy felhasználócsoportot jelöljön ki.
 
-**Az új Office 365-csoporttagok üdvözlő értesítésének letiltása**
+**Az office 365-csoport új tagjainak üdvözlő értesítésének letiltása**
 
-Az Office 365-csoportokba felvett felhasználóknak küldött üdvözlő értesítést a PowerShell **UnifiedGroupWelcomeMessageEnabled** false értékre állításával lehet letiltani. [Ebben a beállításban](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true)tájékozódhat.
+Az Office 365-csoportokba felvett felhasználóknak küldött üdvözlő értesítés letiltható, ha a Powershellben az **UnifiedGroupWelcomeMessageEnabled** beállítást False (Hamis) beállítással tiltja le. Erről a beállításról itt [olvashat.](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true)
 

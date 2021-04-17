@@ -1,8 +1,8 @@
 ---
-title: A Microsoft 365-alkalmazások kijavítása nem talált Office-licenceket a kapcsolódó üzenetekhez
+title: A Microsoft 365-appok nem található az Office-licencekkel társított üzenet kijavítva
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: bd127d6287b4438f6105a6158abdbd5b964b7e70
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d717fce77de2f55dfc983d42b7f8d46a8c212e7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747697"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816490"
 ---
-# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>A Microsoft 365-alkalmazások rögzítése "nem található az Office-licencek társított" üzenet
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>A "Nem található a kapcsolódó Office-licencek" üzenet kijavítja a Microsoft 365-appokat.
 
-Ha ez az üzenet jelenik meg, próbálkozzon az alábbiakkal:
+Ha megjelenik ez az üzenet, próbálkozzon az alábbiakkal:
 
-1. Ellenőrizze a tűzfal, a víruskereső szoftverek és a proxybeállítások között, és győződjön meg arról, hogy a Microsoft 365-alkalmazásokban nem akadályozza meg az internet elérését. Lásd: [Microsoft 365 URL-EK és IP-címtartományok](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
-2. Az érintett felhasználó [Office-licencének](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) eltávolítása és hozzárendelése. 
-3. Nyisson meg egy Office-alkalmazást, és [kijelentkezhet](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) a meglévő felhasználói fiókokból.
-4. Válassza a Windows-beállítások > **fiókok**  >  **e-mail-&-fiókjai**lehetőséget, és távolítsa el az összes munkafiókot, kivéve az érintett fiókot.
-5. Nyissa meg a Windows beállításai > **fiókokhoz**  >  **való hozzáférést (munkahelyi vagy iskolai**), és válassza le az összes munkafiókját, kivéve az érintett fiókot.
+1. Ellenőrizze a tűzfalat, a víruskereső szoftvert és a proxybeállításokat, és győződjön meg arról, hogy nem gátolja meg a Microsoft 365-alkalmazásokhoz való internet-hozzáférést. Lásd: [A Microsoft 365 URL-címei és IP-címtartományai.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+2. Távolítsa [el,](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) majd vegye ki újra az érintett felhasználó Office-licencét. 
+3. Nyisson meg egy Office-appot, [és jelentkezzen](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) ki a meglévő felhasználói fiókokból.
+4. A Windows beállításai lapon > **fiókok**  >  **e-mail & fiókokat,** és távolítsa el az összes munkahelyi fiókot, kivéve az érintett fiókot.
+5. Válassza a Windows Beállításai > **Fiókok Hozzáférés** munkahelyi vagy iskolai fiókjához lehetőséget, és válassza le az érintett fiókon kívül az összes munkahelyi  >  fiókot.
 6. Állítsa vissza az Office aktiválási állapotát. [További információ](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
-7. [Bejelentkezés](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) az érintett felhasználói fiókkal.
+7. [Jelentkezzen be](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) az érintett felhasználói fiókkal.
 
-További hibaelhárítási megoldásokat a nem [licencelt termék-és aktiválási hibák az Office-ban](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)című témakörben találhat.
+További hibaelhárítási megoldásokat a "Nem licencelt termék" aktiválási hibaüzenetek [az Office-ban témakörben talál.](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

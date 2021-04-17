@@ -1,8 +1,8 @@
 ---
-title: Az eszközök a beiratkozási állapotra várnak
+title: Regisztrációra váró eszközök
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730737"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815356"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Az eszközök "beiratkozási" állapotban vannak
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Az eszközök "Regisztrációra vár" állapotban vannak
 
-Az asztali Analytics nem rendelkezik diagnosztikai adattal az eszközhöz. 
+Az asztali elemzések nem tartalmaznak diagnosztikai adatokat ehhez az eszközhöz. 
 
-Ez a probléma akkor fordulhat elő, ha nemrég vette fel az eszközt a cél gyűjteménybe, és még nem küldte el az adatot. Azt is megteheti, hogy az eszköz nem kommunikál megfelelően a szolgáltatással, és a legújabb diagnosztikai adatok a 28 napnál régebbiek.
+Ez a probléma azért fordulhat elő, mert nemrégiben hozzáadta az eszközt a célcsoporthoz, és még nem küldött adatokat. Ez azt is jelentheti, hogy az eszköz nem kommunikál megfelelően a szolgáltatással, és a legújabb diagnosztikai adatok több mint 28 naposak.
 
-Ellenőrizze, hogy az eszköz kommunikálni tud-e a szolgáltatással. További információt a [végpontok](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)című témakörben talál.
+Győződjön meg arról, hogy az eszköz képes kommunikálni a szolgáltatással. További információt a [Végpontok .](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)
 
-A feliratkozási állapotra vonatkozó további tudnivalókért olvassa el a [kapcsolati állapot figyelése](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)című témakört.
+A regisztráció állapotát a Kapcsolatállapot figyelése oldalon [láthatja.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

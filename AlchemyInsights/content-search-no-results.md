@@ -1,8 +1,8 @@
 ---
-title: Tartalmi találatok száma
+title: Nincs találat a tartalomkeresésben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680649"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816850"
 ---
-# <a name="no-results-from-content-searchexports"></a>A tartalom keresésének/exportálásának eredménye
+# <a name="no-results-from-content-searchexports"></a>Nincs találat a tartalomkeresésből/-exportálásból
 
-A tartalmi kereséssel/exportálással kapcsolatos problémák oka az lehet, hogy bizonyos megfelelőségi biztonsági szűrőket egy bizonyos rendszergazdák állítanak be, és nem kommunikálnak a rendszergazdákkal.
+A tartalomkereséssel/-exportálással kapcsolatos problémákat az adott rendszergazda által megadott megfelelőségi biztonsági szűrő miatt lehet, amely nem adja vissza az adatokat az összes rendszergazdának.
 
-A probléma megoldásához győződjön meg arról, hogy vannak-e olyan megfelelőségi biztonsági szűrők, amelyek az alábbi esetekben lehetnek így:
-1. Csatlakozás a biztonsági és megfelelőségi központ Powershellhez
-2. Futtassa az alábbi parancsmaggal található:
+A probléma megoldásához ellenőrizze, hogy vannak-e olyan megfelelőségi biztonsági szűrők, amelyek ezt okozhatják:
+1. Csatlakozás a Biztonsági és megfelelőségi központ Powershell-parancshoz
+2. Futtassa az alábbi parancsmagokat:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-szervezet $org
+<br>Get-ComplianceSecurityFilter -Organization $org

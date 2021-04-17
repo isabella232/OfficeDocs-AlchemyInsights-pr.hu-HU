@@ -2,7 +2,7 @@
 title: Kommunikációs megfelelőség
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
-ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
+ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49875126"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817498"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Kommunikációs megfelelőség a Microsoft 365-ben
 
-A kommunikációs megfelelőség a Microsoft 365 új megfelelőségi megoldása, amely segít a szervezeteknek megfelelni a megfelelőségi követelményeknek, és minimalizálja a kommunikációs kockázatokat. A Felügyelet funkción alapul, és új fejlesztéseket tartalmaz, többek között az alábbiakat:
+A kommunikációs megfelelőség egy új Microsoft 365-ös megfelelőségi megoldás, amely segít a szervezeteknek megfelelni az felügyeleti megfelelőségi követelményeknek, és minimalizálja a kommunikációs kockázatokat. A Felügyelet funkción alapul, és új fejlesztéseket tartalmaz, többek között az alábbiakat:
 
 - Intelligens testreszabható sablonok
 - Rugalmas szervizelési munkafolyamatok
-- Műveletre használható betekintések
+- Műveletre használható összefüggések
 
-Ha jelenleg [felügyeleti](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)házirendeket használ, azt javasoljuk, hogy az új kommunikációs megfelelőséget használja a szabályozási igények kielégítése érdekében.
+Ha jelenleg a szabályozási [szabályzatokat használja,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)azt javasoljuk, hogy a szabályozási igények teljesítéséhez használja az új kommunikációs megfelelőséget.
 
-A kommunikációs megfelelőség beállításához [lásd: A kommunikációs megfelelőség beállítása.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
+A kommunikációs megfelelőség beállításához lásd: [A kommunikációs megfelelőség beállítása.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
-A kommunikációs megfelelőség vizsgálatának, áttekintésének és szervizelésének ügyében lásd: A kommunikációnak való megfelelőségre vonatkozó riasztások kivizsgálása és [szervizelése.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
+A kommunikációs megfelelőség vizsgálatának, áttekintésének és szervizelésének ügyében tekintse meg a Kommunikációs megfelelőségi riasztások kivizsgálása és [szervizelése.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)
 
-A kommunikációs megfelelőségi funkcióról a [Microsoft 365 kommunikációs megfelelősége nyújt áttekintést.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
+A kommunikációs megfelelőségi funkció áttekintését a Kommunikáció megfelelősége a [Microsoft 365-ben témakörben olvashatja.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
-Licenckövetelmények: A kommunikációs házirendek által figyelt felhasználóknak az alábbi feltételeknek kell megfelelniük:
+Licenckövetelmények: A kommunikációs házirendek által figyelt felhasználóknak az alábbiak egyikével kell rendelkezik:
 
 - Microsoft 365 E5 megfelelőségi licenc
 - Office 365 Nagyvállalati E3 licenc a Speciális megfelelőség bővítménysel
 - Office 365 Nagyvállalati E5-előfizetés
 
-Ha egyik fentivel sem dolgozik, és szeretné kipróbálni a kommunikációs megfelelőséget, regisztráljon az **[Office 365](https://go.microsoft.com/fwlink/p/?LinkID=698279)** Nagyvállalati E5 próbaidőszakára.
+Ha nem a fenti verzióval dolgozik, és ki szeretné próbálni a kommunikációs megfelelőséget, regisztráljon az Office 365 Nagyvállalati **[E5 próbaidőszakára.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
 > [!NOTE]
-> Akár 24 óra is elehet, hogy az e-mailek teljes feldolgozása egy házirendben legyen. A Microsoft Teams, a Yammer és a külső platformok kommunikációja akár 48 órát is igénybe vehet a házirendek teljes feldolgozása során.
+> Akár 24 óra is elehet, hogy az e-mailek teljes feldolgozása a házirendben el is évül. A Microsoft Teams, a Yammer és a külső platformok kommunikációja akár 48 órát is igénybe vehet a házirendek teljes feldolgozása során.

@@ -1,8 +1,8 @@
 ---
-title: A SharePoint jogosultsági szintjeinek a működése
+title: SharePoint-engedélyszintek használata
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: db92439091859e828d658c383be71aedc876100c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f447aea6c844746f1901382120cb4081e46ec578
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732501"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816094"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a>A SharePoint jogosultsági szintjeinek a működése
+# <a name="working-with-sharepoint-permission-levels"></a>SharePoint-engedélyszintek használata
 
-A SharePoint alapértelmezés szerint használható jogosultsági szinteket tartalmaz, például a **hozzájárulás** és a **Megtekintés**. Ha azonban ezek egyike nem felel meg az igényeinek, létrehozhat egy új jogosultsági szintet. Ne feledje, hogy egyszerűbben nyomon követheti a jogosultsági szinteket, ha nem módosítja az alapértelmezett értékeket.
+A SharePoint alapértelmezett, Ön által használható engedélyszintekkel rendelkezik, például a **Közreműködés** és a **Csak megtekintés.** Ha azonban ezek egyike nem felel meg az igényeinek, létrehozhat egy új jogosultsági szintet. Ne feledje, hogy az alapértelmezett beállítások módosítása esetén egyszerűbb nyomon követni a jogosultsági szinteket.
 
 [Jogosultsági szintek létrehozása és szerkesztése](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
