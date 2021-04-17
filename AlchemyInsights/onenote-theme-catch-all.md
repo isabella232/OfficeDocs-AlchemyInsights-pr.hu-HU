@@ -1,8 +1,8 @@
 ---
-title: A OneNote téma fogása
+title: OneNote theme catch all
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: d37f114c8349bcd1d6c3c2d896c54f3a31fada66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb3e0a729b34e46123fe66f6ef95f376a1a9707c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729153"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831520"
 ---
-# <a name="common-issues-and-resolutions-with-onenote"></a><span data-ttu-id="14094-102">Gyakori problémák és felbontások a OneNote-tal</span><span class="sxs-lookup"><span data-stu-id="14094-102">Common issues and resolutions with OneNote</span></span>
+# <a name="common-issues-and-resolutions-with-onenote"></a><span data-ttu-id="2a187-102">Gyakori problémák és megoldási problémák a OneNote-ban</span><span class="sxs-lookup"><span data-stu-id="2a187-102">Common issues and resolutions with OneNote</span></span>
 
-<span data-ttu-id="14094-103">Az alábbiakban felsorolunk néhány gyakran kért OneNote-témakört:</span><span class="sxs-lookup"><span data-stu-id="14094-103">Here are some frequently requested OneNote topics:</span></span>
+<span data-ttu-id="2a187-103">Íme néhány gyakran kért OneNote-témakör:</span><span class="sxs-lookup"><span data-stu-id="2a187-103">Here are some frequently requested OneNote topics:</span></span>
 
-- <span data-ttu-id="14094-104">[Szinkronizálási problémák elhárítása](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – a OneNote-tal kapcsolatos leggyakoribb problémák megoldásához használja a probléma elhárítása című témakör lépéseit, [Ha nem tudja szinkronizálni a OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)-ot.</span><span class="sxs-lookup"><span data-stu-id="14094-104">[Fix sync issues](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) - to address most common issues related to OneNote sync, please use the steps in [Fix issues when you can't sync OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span></span>
+- <span data-ttu-id="2a187-104">[Szinkronizálási problémák megoldása](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – A OneNote szinkronizálásával kapcsolatos leggyakoribb problémák megoldásához kérjük, kövesse A OneNote szinkronizálási problémáinak megoldása, ha nem lehet a [szinkronizálást](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span><span class="sxs-lookup"><span data-stu-id="2a187-104">[Fix sync issues](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) - to address most common issues related to OneNote sync, please use the steps in [Fix issues when you can't sync OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).</span></span>
 
-- <span data-ttu-id="14094-105">[A OneNote használata a Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) alkalmazásban</span><span class="sxs-lookup"><span data-stu-id="14094-105">Use [OneNote in Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)</span></span> 
+- <span data-ttu-id="2a187-105">A [OneNote használata a Teamsben](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)</span><span class="sxs-lookup"><span data-stu-id="2a187-105">Use [OneNote in Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)</span></span> 
 
-- <span data-ttu-id="14094-106">A [OneNote Class-jegyzetfüzetek használata a](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) Teams alkalmazásban a Teams-jegyzetfüzetek beállításával kapcsolatos kérdésekre ad választ.</span><span class="sxs-lookup"><span data-stu-id="14094-106">[Use OneNote Class Notebook in Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) answers questions about setting up a Class Notebook in Teams.</span></span>
+- <span data-ttu-id="2a187-106">[A OneNote Osztályjegyzetfüzet használata](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) a Teamsben megválaszolja az osztályjegyzetfüzet Teamsben való beállításával kapcsolatos kérdéseket.</span><span class="sxs-lookup"><span data-stu-id="2a187-106">[Use OneNote Class Notebook in Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) answers questions about setting up a Class Notebook in Teams.</span></span>
 
-- <span data-ttu-id="14094-107">[Jegyzetfüzet áthelyezése a felhőbe](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span><span class="sxs-lookup"><span data-stu-id="14094-107">[Move notebook to the cloud](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span></span>
+- <span data-ttu-id="2a187-107">[Jegyzetfüzet áthelyezése a felhőbe.](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a)</span><span class="sxs-lookup"><span data-stu-id="2a187-107">[Move notebook to the cloud](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).</span></span>
 
-- <span data-ttu-id="14094-108">[A jegyzetfüzetek felhőbe való áthelyezésével kapcsolatos hibák elhárítása](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span><span class="sxs-lookup"><span data-stu-id="14094-108">[Troubleshoot moving notebooks to the cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span></span>
+- <span data-ttu-id="2a187-108">[A jegyzetfüzetek felhőbe való áthelyezésének hibaelhárítása.](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78)</span><span class="sxs-lookup"><span data-stu-id="2a187-108">[Troubleshoot moving notebooks to the cloud](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).</span></span>
 
-- <span data-ttu-id="14094-109">A [onenote 2016 telepítése](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) – 2020 márciusában kezdődően, az Office 365 vagy az Office 2019 telepítésekor a OneNote asztali alkalmazás a Word, a PowerPoint és az asztali Excel alkalmazással együtt települ.</span><span class="sxs-lookup"><span data-stu-id="14094-109">[Install OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -  Starting in March 2020, when you install Office 365 or Office 2019, the OneNote desktop app will be installed alongside the Word, PowerPoint, and Excel desktop apps.</span></span>
+- <span data-ttu-id="2a187-109">[A OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) telepítése – 2020 márciusánaktól kezdve az Office 365 vagy az Office 2019 telepítésekor az asztali Word, PowerPoint és Excel app mellett az asztali OneNote app is telepítve lesz.</span><span class="sxs-lookup"><span data-stu-id="2a187-109">[Install OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -  Starting in March 2020, when you install Office 365 or Office 2019, the OneNote desktop app will be installed alongside the Word, PowerPoint, and Excel desktop apps.</span></span>
 
-- <span data-ttu-id="14094-110">[OneNote-jegyzetfüzetek exportálása és importálása](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309)</span><span class="sxs-lookup"><span data-stu-id="14094-110">[Export and import OneNote notebooks](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span></span>
+- <span data-ttu-id="2a187-110">[OneNote-jegyzetfüzetek exportálása és importálása.](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309)</span><span class="sxs-lookup"><span data-stu-id="2a187-110">[Export and import OneNote notebooks](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).</span></span>

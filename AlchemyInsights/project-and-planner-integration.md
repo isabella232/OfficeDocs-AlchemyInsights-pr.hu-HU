@@ -2,22 +2,23 @@
 title: A Project és a Planner integrációja
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002569"
 - "5025"
-ms.openlocfilehash: d78441c332bfabfe36091a1b3d5a0903ccf0c612
-ms.sourcegitcommit: 82155846ce771c18050e6113d6c199b34a1504ff
+ms.openlocfilehash: 78abbba396cef2020c69d40069daaacc37a11efc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43810556"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830872"
 ---
-# <a name="project-and-planner-integration"></a><span data-ttu-id="0b945-102">A Project és a Planner integrációja</span><span class="sxs-lookup"><span data-stu-id="0b945-102">Project and Planner integration</span></span>
+# <a name="project-and-planner-integration"></a><span data-ttu-id="f2e28-102">A Project és a Planner integrációja</span><span class="sxs-lookup"><span data-stu-id="f2e28-102">Project and Planner integration</span></span>
 
-<span data-ttu-id="0b945-103">A Project Online asztali ügyfélprogramja és a Planner közötti integráció lehetővé teszi, hogy a feladattulajdonosok nyomon kövessék a feladatok részletes adatait.</span><span class="sxs-lookup"><span data-stu-id="0b945-103">With the integration between the Project Online Desktop Client and Planner, task owners can track granular task details.</span></span> <span data-ttu-id="0b945-104">Megtudhatja, hogyan [kapcsolhat terveket egy projektfeladathoz](https://www.microsoft.com/microsoft-365/blog/2017/10/30/introducing-new-ways-to-work-in-microsoft-project/).</span><span class="sxs-lookup"><span data-stu-id="0b945-104">Learn how to [link plans to a project task](https://www.microsoft.com/microsoft-365/blog/2017/10/30/introducing-new-ways-to-work-in-microsoft-project/).</span></span>
+<span data-ttu-id="f2e28-103">A Project Online asztali ügyfélprogramja és a Planner közötti integráció lehetővé teszi, hogy a feladattulajdonosok nyomon kövessék a feladatok részletes adatait.</span><span class="sxs-lookup"><span data-stu-id="f2e28-103">With the integration between the Project Online Desktop Client and Planner, task owners can track granular task details.</span></span> <span data-ttu-id="f2e28-104">Megtudhatja, hogyan [kapcsolhat terveket egy projektfeladathoz](https://www.microsoft.com/microsoft-365/blog/2017/10/30/introducing-new-ways-to-work-in-microsoft-project/).</span><span class="sxs-lookup"><span data-stu-id="f2e28-104">Learn how to [link plans to a project task](https://www.microsoft.com/microsoft-365/blog/2017/10/30/introducing-new-ways-to-work-in-microsoft-project/).</span></span>
