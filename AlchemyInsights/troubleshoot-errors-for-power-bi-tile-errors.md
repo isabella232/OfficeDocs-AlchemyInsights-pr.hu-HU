@@ -1,8 +1,8 @@
 ---
-title: Frissítési forgatókönyvek hibaelhárítása – csempés hibák
+title: Frissítési esetek hibaelhárítása – Mozaikhibák
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5e71338da7bc9bdc1bc72c37479e5207fe32abf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690677"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834913"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Frissítési forgatókönyvek hibaelhárítása – csempés hibák
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Frissítési esetek hibaelhárítása – Mozaikhibák
 
-Ha a Power BI szolgáltatásban a csempék frissítési hibáit tapasztalja, várjon körülbelül 10-15 percet a frissítéshez az irányítópult csempéi között. Ha még mindig nem jelenik meg, akkor újra rögzítheti a képi megjelenítést az irányítópulton.
+Ha csempefrissítési hibákat tapasztal a Power BI szolgáltatásban, várjon körülbelül 10–15 percet, hogy a frissítés tükröződni fog az irányítópult csempéin. Ha továbbra sem jelenik meg, tűzheti ki újra a megjelenítést az irányítópultra.
 
 További információ: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

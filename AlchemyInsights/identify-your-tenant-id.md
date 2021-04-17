@@ -1,8 +1,8 @@
 ---
-title: A bérlői azonosító meghatározása
+title: A bérlőazonosító azonosítása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: 7b41f44e251fa1668c6fc5073a432681fc9265a7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668276"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834049"
 ---
-# <a name="identify-your-tenant-id"></a>A bérlői azonosító meghatározása
+# <a name="identify-your-tenant-id"></a>A bérlőazonosító azonosítása
 
-Keresse meg a Microsoft 365-ös szervezeti AZONOSÍTÓját (bérlői AZONOSÍTÓját) az Azure felügyeleti központban.
+Keresse meg Microsoft 365-ös szervezeti azonosítóját (bérlőazonosítóját) az Azure Felügyeleti központban.
 
-1. A [Tulajdonságok lapon](https://aka.ms/AzurePropertiesPage)lépjen a **címtár-azonosító** mezőbe.
+1. A [Tulajdonságok lapon válassza](https://aka.ms/AzurePropertiesPage)a **Címtárazonosító mezőt.**
 
 2. Szükség szerint másolja az azonosítót.
 
-További információt [a Microsoft 365-ös szervezeti azonosító megkeresése](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)című témakörben talál.
+További információ: [A Microsoft 365-ös szervezeti azonosító megkeresve.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)

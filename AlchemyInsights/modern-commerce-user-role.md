@@ -1,8 +1,8 @@
 ---
-title: Modern Commerce-felhasználó szerepkör
+title: Modern kereskedelmi felhasználói szerepkör
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667016"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833617"
 ---
-# <a name="modern-commerce-user-role"></a>Modern Commerce-felhasználó szerepkör
+# <a name="modern-commerce-user-role"></a>Modern kereskedelmi felhasználói szerepkör
 
-A modern Commerce User szerepkör bizonyos felhasználók számára hozzáférést biztosít a Microsoft 365 felügyeleti központjának eléréséhez, és a bal oldali navigációs bejegyzéseket a **Kezdőlap**, a **számlázás**és a **támogatás**lapon jeleníti meg. Az ezeken a területeken elérhető tartalmakat a felhasználók által a saját maguk vagy szervezete számára vásárolt termékek kezeléséhez hozzárendelt Commerce-specifikus szerepkörök szabályozzák. Ez olyan feladatokat is tartalmazhat, mint például a számlák kifizetése, valamint a számlázási fiókokhoz és a számlázási profilokhoz való hozzáférés.
+A Modern kereskedelmi felhasználók szerepkör engedélyt ad bizonyos felhasználóknak a Microsoft 365 Felügyeleti központ elérésére, és a bal oldali navigációs bejegyzéseket láthatják az **Otthoni,** a Számlázás és a **Támogatás lapról.** Az e területeken elérhető tartalmakat a felhasználókhoz rendelt, a saját maguknak vagy a szervezetben vásárolt termékek kezelésére vonatkozó kereskedelmi szerepkörök vezérlik. Ilyen lehet például a számlák fizetése, illetve a számlázási fiókok és számlázási profilok elérése.
 
-A modern Commerce-felhasználó szerepkörrel rendelkező felhasználók általában rendszergazdai engedélyekkel rendelkeznek a Microsoft többi beszerzési rendszerében, de nem rendelkeznek globális rendszergazdai vagy számlázási rendszergazdai jogosultságokkal.
+A Modern kereskedelmi felhasználó szerepkörű felhasználók általában rendszergazdai engedélyekkel rendelkezik más Microsoft-vásárlási rendszerekben, de nem rendelkezik globális rendszergazdai vagy számlázási rendszergazdai jogosultsággal.
 
-A többi felügyeleti szerepkörről a [rendszergazdai szerepkör engedélyei az Azure Active Directoryban](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)című témakörben olvashat bővebben.
+Erről és az egyéb rendszergazdai szerepkörökről a Rendszergazdai szerepkörengedélyek az Azure Active Directorybancímekben olvashat [bővebben.](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)

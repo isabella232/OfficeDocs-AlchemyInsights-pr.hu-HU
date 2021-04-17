@@ -1,8 +1,8 @@
 ---
-title: A 30068-39-es kódú hibák megoldása
+title: A 30068-39-es hibakódú megoldások
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -14,27 +14,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: bba462475c4c6020a956d9ff6f7151b45eb4607b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f9c9ae86f0f80a209444bb161e763a2fbceddeb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738747"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835345"
 ---
-# <a name="solutions-for-error-30068-39"></a>A 30068-39-es kódú hibák megoldása
+# <a name="solutions-for-error-30068-39"></a>A 30068-39-es hibakódú megoldások
 
-Próbálkozzon ezekkel a megoldásokkal a [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)-es hiba kijavításához:
+A [30068-39-es hiba kijavítása érdekében próbálkozzon az alábbi megoldásokkal:](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)
   
-- Indítsa újra a számítógépet, és próbálja meg [telepíteni az Office](https://portal.office.com/OLS/MySoftware.aspx)-t.
+- Indítsa újra a számítógépet, és próbálja meg [telepíteni az Office-t.](https://portal.office.com/OLS/MySoftware.aspx)
 
-- Ellenőrizze, hogy a **Microsoft Office Kattintásra** [szolgáltatás ki van](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) -e kapcsolva, és hogy le van-e tiltva, módosítsa az állapotot **kézi** vagy **automatikus**értékre.
+- Ellenőrizze, hogy a Microsoft Kattintásra szolgáltatás le van-e tiltva, és hogy le **van-e** [](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) tiltva, módosítsa az állapotot Kézi vagy **Automatikus beállításra.** 
 
 - Töltse le és telepítse a [Támogatási és helyreállítási segédet](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Amikor megnyílik, az **Office-termékek eltávolítása** lapon jelölje ki az eltávolítani kívánt verziót, és válassza a **tovább**gombot.
+1. Amikor megnyílik, az **Office-termékek eltávolítása párbeszédpanelen** jelölje ki az eltávolítani kívánt verziót, és válassza a Tovább **gombot.**
 
 2. Folytassa a képernyőkön végighaladva, és amikor a rendszer kéri, indítsa újra a számítógépet.
 
-    Az újraindítást követően a támogatási és helyreállítási segéd automatikusan újra megnyílik az eltávolítási folyamat befejezéséhez.
+    Az újraindítás után a Támogatási és helyreállítási segéd automatikusan újra megnyílik az eltávolítási folyamat befejezéséhez.
 
-3. Kövesse a hátralévő utasításokat, és [telepítse újra az Office](https://portal.office.com/OLS/MySoftware.aspx) -t, vagy zárja be a Segédet.
+3. Kövesse a további utasításokat, és telepítse [újra az Office-t,](https://portal.office.com/OLS/MySoftware.aspx) vagy zárja be az asszisztenst.

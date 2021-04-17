@@ -1,8 +1,8 @@
 ---
-title: Próbál meg próbaverziót keresni?
+title: Próbaverziót keres?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658376"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834697"
 ---
-# <a name="trying-to-find-a-trial"></a>Próbál meg próbaverziót keresni?
+# <a name="trying-to-find-a-trial"></a>Próbaverziót keres?
 
-Ha új szolgáltatást szeretne kipróbálni, megtalálhatja a próbaverzióhoz elérhető előfizetések listáját a Microsoft 365 felügyeleti központjában.
+Ha ki szeretne próbálni egy új szolgáltatást, a Microsoft 365 Felügyeleti központban megtalálja a próbaverzióhoz elérhető előfizetések listáját.
   
-1. A felügyeleti központban nyissa meg a **Számlázási** \> [szolgáltatások vásárlása](https://go.microsoft.com/fwlink/p/?linkid=868433) lapot.
+1. A felügyeleti központban válassza a **Számlázási** \> [szolgáltatások vásárlása lapot.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Jelölje ki az igényeinek megfelelő előfizetést, és válassza az  **ingyenes próbaverzió beszerzése**lehetőséget.
+2. Válassza ki az igényeinek megfelelő előfizetést, majd válassza az **Ingyenes próbaidőszakot.**
 
     > [!NOTE]
-    > Nem minden előfizetés használható próbaverzióként. Ha nem látható az **ingyenes próbaverzió beszerzése** gomb, amikor egy előfizetést használ, az azt jelenti, hogy nem érhető el próbaverzió.
+    > Nem minden előfizetés érhető el próbaverzióként. Ha nem látja az  Ingyenes próbaidőszak gombot, amikor egy előfizetésre kattint, az azt jelenti, hogy a próbaverzió nem érhető el.
   
-3. A rendszer kérheti, hogy írjon be egy hitelkártyát vagy más fizetési módot a további ellenőrzéshez biztonsági intézkedésként. Ezt az ingyenes próbaverziót nem terheli meg. A fizetési adatait a fájlra vonatkozóan fogjuk megőrizni, és a jóváhagyás nélkül sem fogják használni a vásárlást.
+3. Biztonsági intézkedésként előfordulhat, hogy a rendszer arra kéri, hogy adjon meg egy hitelkártyát vagy más fizetési módot a további ellenőrzés érdekében. Az ingyenes próbaverzióért nem számítunk fel díjat. A fizetési adatait fájlban tartjuk, és az Ön jóváhagyása nélkül nem használjuk fel semmilyen vásárláshoz.
 
-4. Válassza a **Try Now (kipróbálás**) lehetőséget.
+4. Válassza a **Try now (Próbálkozzon most) gombot.**

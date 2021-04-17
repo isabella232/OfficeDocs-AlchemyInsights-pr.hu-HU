@@ -1,8 +1,8 @@
 ---
-title: Egy külső monitor beállítása
+title: Egyetlen külső monitor beállítása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773912"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835525"
 ---
 # <a name="set-up-one-monitor"></a>Egyetlen monitor beállítása
 
-**A számítógép projekt-beállításainak ellenőrzése**
+**A számítógép projektbeállításának ellenőrzése**
 
-1. Nyissa meg a projekt beállításait a következő billentyűk egyidejű lenyomásával: Windows billentyű (Windows-embléma Start gomb) + P.
-2. A beállításoktól függően válassza a **duplikálás**, a **kiterjesztés**vagy a **második képernyő**lehetőséget.
+1. A projekt beállításainak megnyitásához nyomja le egyszerre a következő billentyűket: Windows billentyű (Windows-embléma Start gomb) + P.
+2. A **beállításoktól** függően válassza a Duplikált, **a** Kiterjesztés vagy a Csak második képernyő lehetőséget.
 
-**Megjegyzés:** Ha a SZÁMÍTÓGÉPnek csak egy megjelenítési portja van (például HDMI vagy VGA), a dokkolóegységhez vagy USB-adapterhez több monitort kell beállítania.
+**Megjegyzés:** Ha a PC-n csak egy kijelzőport (például HDMI vagy VGA) található, több monitor beállításéhez dokkolóegységre vagy USB-adapterre van szükség.
 
-Ha azonban egyetlen monitort is beállíthat, de nem többet, előfordulhat, hogy a SZÁMÍTÓGÉPe nem kompatibilis több monitorral. További információért tekintse meg a számítógép eredeti dokumentumait.
+Ha egy monitort be tud állítani, de nem több monitort, akkor előfordulhat, hogy a számítógép nem kompatibilis több monitorral. További információért ellenőrizze a számítógép eredeti dokumentumait.

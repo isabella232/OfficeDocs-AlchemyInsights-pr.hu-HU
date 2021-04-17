@@ -2,21 +2,22 @@
 title: Az Outlook Átnézendők funkciójának ki- vagy bekapcsolása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002504"
 - "4853"
-ms.openlocfilehash: 6fefe9b02d7f68adbb0dd93a1fd9700837cb219a
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: b945b76052b601dfead92ce098a78442f9989139
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530310"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834589"
 ---
 # <a name="turn-off-or-on-clutter-in-outlook"></a>Az Outlook Átnézendők funkciójának ki- vagy bekapcsolása
 

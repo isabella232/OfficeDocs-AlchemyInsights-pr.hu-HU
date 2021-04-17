@@ -1,8 +1,8 @@
 ---
-title: GatewayNotReachable a hitelesítő adatok beállításakor
+title: GatewayNotReachable hitelesítő adatok beállításakor
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1321"
 - "2500002"
-ms.openlocfilehash: eefd024944282f26460b8ae6da04829dd4239983
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d02ff9db70a8c8db82b573121cb52c031899fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690857"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834949"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable a hitelesítő adatok beállításakor
+# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable hitelesítő adatok beállításakor
 
-A Power BI szolgáltatásban található adatforrások hitelesítő adatainak beállításakor a GatewayNotReachable is találkozhat. Ez egy elavult átjáró eredménye lehet. Telepítse a legújabb átjárót, és próbálkozzon újra.
+Előfordulhat, hogy a GatewayNotReachable átjáróval próbál meg hitelesítő adatokat beállítani egy adatforráshoz a Power BI szolgáltatásban. Ez az elavult átjárókat okozhatja. Telepítse a legújabb átjárót, és próbálkozzon újra.
 
 További információ: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

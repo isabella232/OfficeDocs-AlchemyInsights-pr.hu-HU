@@ -2,7 +2,7 @@
 title: Események hibaelhárítása e-mailből
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658736"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834841"
 ---
 # <a name="troubleshooting-events-from-email"></a>Események hibaelhárítása e-mailből
 
-1. Ellenőrizze, hogy engedélyezve van-e a postaláda: **Get-EventsFromEmailConfiguration – <mailbox> identitás**
+1. Ellenőrizze, hogy engedélyezve van-e a szolgáltatás a postaládában: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Ezután nézze meg az "események az e-mailből" naplók **exportálása – MailboxDiagnosticLogs <mailbox> – összetevő TimeProfile**
+2. Ezután nézze meg az "Events from Email" (E-mailből származó események) naplók **Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. Az "események az e-mailből" naplókból keresse meg azt a InternetMessageId, amely megfelel a postaládában lévő elemnek.  
+3. Az "Események e-mailből" naplókban keresse meg a postaládában található elemnek megfelelő InternetMessageId-et.  
 
-4. A TrustScore határozza meg, hogy az elem hozzáadódik-e vagy sem. Az események csak akkor kerülnek hozzáadásra, ha a TrustScore = "megbízható".
+4. A TrustScore határozza meg, hogy az elemet hozzá szeretné-e adni vagy sem. Az események csak akkor lesznek hozzáadva, ha a TrustScore = "Megbízható".
 
-A TrustScore az SPF, a DKIM vagy a dMarc tulajdonság határozza meg, amely az üzenet fejlécében található.
+A TrustScore tulajdonságot az üzenetfejlécben található SPF, Dkim vagy Dmarc tulajdonságok határozzák meg.
 
 A tulajdonságok megtekintése:
 
 **Asztali Outlook**
 
 - Az elem megnyitása
-- Fájl-> tulajdonságok – > internetes fejlécek
+- File -> Properties -> Internet Headers
 
 vagy
 
-**Mfcmapi felületet**
+**MFCMapi**
 
-- Navigálás a Beérkezett üzenetek mappa elemei között
+- Navigálás a Beérkezett üzenetek mappában
 - Keresse meg a PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Ezeket a tulajdonságokat a szállítás és az Útválasztás során határozzák meg és rögzítik. További hibaelhárításért előfordulhat, hogy nyomon kell követnie az SPF, a DKIM vagy a DMARC hibáinak megfelelő átviteli támogatást.
+Ezeket a tulajdonságokat az adatokat az adatokat továbbítás és útválasztás során határozzák meg és rögzítik. További hibaelhárítási lépésként előfordulhat, hogy az SPF, a DKIM és.vagy a DMARC hiba elhárításáról a Transport Support ügyfélszolgálattal kell beszélnie.

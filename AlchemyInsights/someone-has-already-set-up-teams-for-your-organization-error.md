@@ -1,29 +1,30 @@
 ---
-title: Valaki már beállította a Teamst a szervezethibához
+title: Hiba – Valaki már beállította a Teamst a szervezetében
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: 0aa2d68e737faba8b8558a1581e25bdb14e5a9ff
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: MT
+ms.openlocfilehash: a22b8d7a64645b57eb813fb2cfc7c45cc90f556a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44282797"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835309"
 ---
-# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>"Valaki már beállította a Teams t a szervezethez" hibaüzenet
+# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>A „Valaki már beállította a Teamst a szervezetében“ hibaüzenet
 
-Ha a "Valaki már beállította a Teams t a szervezethez" hibaüzenet jelenik meg a Teamsben, ennek az lehet az oka:
+Ha a „Valaki már beállította a Teamst a szervezetében“ hibaüzenet jelenik meg, annak az alábbi okai lehetnek:
 
-1. Valaki már beállította a Teamst. Ellenőrizze e-mail ben a meghívót, vagy próbáljon meg bejelentkezni a Teamsbe egy privát/inkognitó webböngészőben a tartományi hitelesítő adataival [https://teams.microsoft.com](https://teams.microsoft.com) a.
+1. Valaki már beállította a Teamst Önnek. Ellenőrizze a meghívót tartalmazó e-mailt, vagy próbáljon meg bejelentkezni a Teams alkalmazásba egy privát- vagy inkognitóablakban a tartományi hitelesítő adataival a [https://teams.microsoft.com](https://teams.microsoft.com) webhelyen.
 
-2. Olyan e-mail-címmel próbál regisztrálni, amely munkahelyi és személyes fiókhoz is kötődik. A Contoso.com például a Microsoft Service-fiókhoz (Live ID) és a munkahelyi fiókjához (Active Directory) is használható. Ebben az esetben próbáljon meg csapatokat létrehozni egy új privát/inkognitóböngésző-ablakban, és személyes helyett válassza ki a bejelentkezés "Munka vagy iskola" verzióját. Ha ez nem működik, le kell majd kapcsolnia ezeket az ingyenes Teams-fiók megfelelő létrehozásához. Ennek érdekében kövesse a "Másik címet vagy telefonszámot a bejelentkezéshez" című részben leírt lépéseket, [a Microsoft-fiókjához szükséges e-mail cím vagy telefonszám módosítása](https://support.microsoft.com/help/12407).
+2. Munkahelyi és személyes fiókhoz egyaránt kötődő e-mail-címmel próbál meg bejelentkezni. Például, ha a Contoso.com profilját a Microsoft-szolgáltatásfiókhoz (Live ID) és a munkahelyi fiókjához (Active Directory) is használja. Ebben az esetben egy új privát-, illetve inkognitóablakban próbáljon meg Teams hozzáférést létrehozni, és a személyes helyett a munkahelyi vagy iskolai fiókkal jelentkezzen be. Ha ez nem segít, megfelelően szét kell választania őket az ingyenes Teams-fiók létrehozásához. Ehhez kövesse a lapon a „Másik címet vagy telefonszámot szeretnék használni a bejelentkezéshez“ témakörben megadott lépéseket, [ A Microsoft-fiókhoz használt e-mail cím vagy telefonszám módosítása](https://support.microsoft.com/help/12407).
 
-3. Egy ingyenes bérlőnek próbálja felírni a jelenlegi munkahelyi címét. Ebben az esetben ez várhatóan itt sikertelen lesz, és ezzel a címmel kell használnia a szervezet bérlőjét. Itt létrehozhat egy ingyenes Teams-fiókot személyes e-mail [címmel,](https://products.office.com/microsoft-teams/group-chat-software)bármilyen személyes használatra.
+3. Ön jelenleg egy ingyenes bérlői webhelyre próbál bejelentkezni a munkahelyi címével. Ebben az esetben ez várhatóan nem fog sikerülni, és a szervezete bérlői webhelyét kell használnia ezzel a címmel. Személyes használatra [itt](https://products.office.com/microsoft-teams/group-chat-software) hozhat létre ingyenes Teams-fiókot a személyes e-mail címével.

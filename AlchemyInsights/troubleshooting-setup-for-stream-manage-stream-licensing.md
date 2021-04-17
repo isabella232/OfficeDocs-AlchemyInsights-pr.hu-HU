@@ -1,8 +1,8 @@
 ---
-title: Az adatfolyam-kezelés engedélyezésének hibaelhárítása
+title: A Stream beállításának hibaelhárítása – Stream-licencelés kezelése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 43d0a04194214a9630958ad80707187d9f8f3270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc09331d58503f5f44d8b942d81a00235ddf1585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749660"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834769"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>Microsoft stream-licencek kezelése
+# <a name="managing-microsoft-stream-licenses"></a>Microsoft Stream-licencek kezelése
 
-**Fontos:** A jelen témakörben ismertetett műveletek végrehajtásához a bérlői rendszergazdai szerepkörben kell lennie.
+**Fontos:** A jelen témakörben ismertetett műveletek elvégzéséhez bérlői rendszergazdai szerepkörben kell lennie.
 
-Globális rendszergazdának vagy Felhasználókezelő rendszergazdának kell lennie. További információt a [rendszergazdai szerepkörök ismertetése](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)című témakörben találhat.
+Globális vagy felhasználókezelő rendszergazdának kell lennie. További információt A rendszergazdai [szerepkörökről című témakörben található.](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)
 
-[A felhasználói fiókokhoz licenceket rendelhet az Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410)segítségével.
+A felhasználói [fiókokhoz az Office 365 PowerShell használatával rendelhet licenceket.](https://go.microsoft.com/fwlink/p/?linkid=850410)
