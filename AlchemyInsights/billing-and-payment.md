@@ -2,7 +2,7 @@
 title: Számlázás és fizetés
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,50 +12,50 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686032"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820396"
 ---
 # <a name="billing-and-payment"></a>Számlázás és fizetés
 
-A számláit a **Számlázási**  >  [számlák & kifizetések](https://go.microsoft.com/fwlink/p/?linkid=848039) lapon találja.  Alapértelmezés szerint a számlák utolsó 3 hónapja látható.  A régebbi számlák megtekintéséhez állítsa be a szűrőt.  Kattintson a számla **letöltése PDF** -hivatkozásra a számla megtekintéséhez.
+A számlák a Számlázás számlák és  >  [& találhatók.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Alapértelmezés szerint az elmúlt 3 hónap számlái jelennek meg.  A régebbi számlák megtekintéséhez módosítsa a szűrőt.  A számla **megtekintéséhez** kattintson a Számla letöltése PDF-fájl letöltése hivatkozásra.
 
-**Számlák bevételezése e-mailen keresztül**
+**Számlák fogadása e-mailben**
 
-A **Számlázási**  >  [számlázási értesítések](https://go.microsoft.com/fwlink/p/?linkid=853212) lapon be-és kikapcsolhatja ezt **on** a funkcióját, és kezelheti azokat a felhasználókat, akik e-mail-mellékletként kapják majd a számlát. A számlát a címzettek listájában szereplő felhasználók e-mail-címére küldi el a rendszer. A lista tartalmazza az összes számlázási és globális rendszergazdát.  A szerepkör módosításával kezelheti, hogy ki kapja meg a számla-értesítéseket.  A globális vagy számlázási rendszergazdai szerepkör eltávolítása eltávolítja a felhasználót a címzettek listájából, és a globális vagy számlázási rendszergazdai szerepkör hozzáadásával felveszi a felhasználót a címzettek listájára.
+A Számlázási **értesítések** lapon bekapcsolhatja ezt a szolgáltatást, és kezelheti a felhasználókat, akik e-mail-mellékletként megkapják  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) a számlát.  A számlát a rendszer elküldi a felhasználók e-mail-címére az Értesítés címzettjei listában. A listában az összes számlázási és globális rendszergazda szerepel.  A szerepkör módosításával kezelheti, hogy kik kapják meg a számlaértesítéseket.  A globális vagy számlázási rendszergazdai szerepkör eltávolítása eltávolítja a felhasználót a címzettek listájáról, és a globális vagy számlázási rendszergazdai szerepkör felvételével hozzáadja a felhasználót a címzettek listájához.
 
-**Megjegyzés**: két külön e-mailt fog kapni: ezekkel a lépésekkel megtudhatja, hogy a számlája készen áll-e, és az utasításokat követve jelentkezzen be a felügyeleti központba.
+**Megjegyzés:** Két külön e-mailt fog kapni: az egyikből tudhatja, hogy a számla elkészült, és a Felügyeleti központba való bejelentkezésre vonatkozó utasításokat, valamint egy második e-mailt, amely mellékletként tartalmazza a számlakivonatot.
 
-**Fizetési**
+**Fizetés**
 
-Ha hitelkártyával vagy bankszámláról fizet, az előfizetéséhez társított fizetési mód a számla létrehozása után néhány napon belül esedékes. Ha a fizetés nem sikerült, frissítse vagy módosítsa a fizetési módot.
+Ha hitelkártyával vagy bankszámlával fizet, az előfizetéséhez társított fizetési módot a számla létrehozása után néhány napon belül terheljük meg. Ha nem sikerül a fizetés, frissítse vagy módosítsa a fizetési módot.
 
-Ha új kártyát vett fel, és a régi hitelkártyával még mindig visszautasítási értesítést kap, lehet, hogy társítania kell az új kártyát az előfizetéshez.
+Ha felvett egy új kártyát, de továbbra is elutasító értesítést kap a régi hitelkártyáról, előfordulhat, hogy az új kártyát az előfizetéshez kell társítania.
 
-1. A felügyeleti központban nyissa meg a **Számlázási**  >  **számlák & fizetések**  >  [fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapját.
+1. A felügyeleti központban válassza a Számlázási **számlák** és  >  **& Fizetési** módok  >  [lapot.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
-2. Jelölje ki a lecserélni kívánt fizetési mód sorát. A jobb oldali ablaktábla felsorolja az összes számlázási profilt és a kijelölt fizetési módot használó egyéni előfizetéseket.
+2. Jelölje ki a lecserélni kívánt fizetési mód sorát. A jobb oldali panelen látható az összes számlázási profil és az egyes előfizetések, amelyek a választott fizetési módot használják.
 
-3. A jobb oldali ablaktáblában válassza a **fizetési mód cseréje az összes elemhez**lehetőséget.
+3. A jobb oldali ablaktáblában válassza **a Fizetési mód cseréje az összes tételhez lehetőséget.**
 
-4. Ha egy meglévő fizetési módot szeretne használni, válasszon egyet a legördülő listából, majd válassza a **Csere**lehetőséget.
+4. Ha meglévő fizetési módot használ, válasszon egyet a legördülő listából, majd válassza a Csere **lehetőséget.**
 
     > [!NOTE]
-    > Ha számlázási profillal rendelkezik előfizetésekkel, akkor csak hitelkártyával vagy hitelkártyával fizethet értük. Ha bankszámláit a **fizetési módok** lapon találja, azok nem érhetők el a legördülő listában.
+    > Ha számlázási profilhoz előfizetések vannak társítva, csak hitelkártyával vagy bankkártyával fizethet számukra. Ha a Fizetési módok  lapon bankszámla van felsorolva, azok nem választhatók ki a legördülő listából.
 
-5. Új fizetési mód hozzáadásához válassza a **fizetési mód hozzáadása**lehetőséget.
+5. Új fizetési mód hozzáadásához válassza a **Fizetési mód hozzáadása lehetőséget.**
 
-6. A **fizetési mód hozzáadása** munkaablakban adja meg a fiók adatait, majd válassza a **Mentés**gombot. A bérlői országtól eltérő fizetési módot kell használnia.
+6. A Fizetési **mód felvétele ablaktáblában** adja meg a fiók adatait, majd válassza a Mentés **lehetőséget.** A bérlői webhelyével azonos országból származó fizetési módot kell használnia.
 
-7. Az új fizetési mód már ki van jelölve a legördülő listában. Válassza a **Csere**gombot.
+7. Az új fizetési mód már ki van jelölve a legördülő listában. Válassza a **Csere lehetőséget.**
 
-További információt a [fizetési módok kezelése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)című témakörben talál.
+További információ: [Fizetési módok kezelése.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Számlázási gyakoriság**
 
-A számlák havonta vagy évente jönnek létre a pénztárnál kiválasztott számlázási gyakoriságtól függően.  
+A számlák létrehozása havonta vagy évente történik a fizetéskor kiválasztott számlázási gyakoriságtól függően.  
 
-**Megjegyzés**: az éves számlázással elvégezhető megrendelések esetén a számlán félidős időszak jelenhet meg, ha a változtatások például licencek hozzáadásával vagy eltávolításával történtek. [Módosítsa a számlázási gyakoriságot](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Megjegyzés:** Az éves számlázással rendelkező rendelések a időszak közepén kaphatnak számlát, ha módosításokat tettek, például licencek hozzáadását vagy eltávolítását. [A számlázási gyakoriság módosítása.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

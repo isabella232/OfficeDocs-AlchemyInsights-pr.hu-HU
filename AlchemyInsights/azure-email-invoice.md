@@ -1,8 +1,8 @@
 ---
-title: Azure-alapú levelezés számlázása
+title: Azure e-mailes számlázás
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 5dc4bcd7a3f81d5130fdb9330280f46d87fff1a1
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4b023c1a529618b89794360f27f0204fdf029225
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922055"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820792"
 ---
-# <a name="azure-email-invoicing"></a>Azure-alapú levelezés számlázása
+# <a name="azure-email-invoicing"></a>Azure e-mailes számlázás
 
-Az előfizetésben vagy támogatási tervben rendszergazdai szerepkörrel kell rendelkeznie ahhoz, hogy e-mailben megkapja a számláját. E-mail-számlák csak az előfizetésekhez és támogatási csomagokhoz érhetők el, a fenntartásokhoz és az Azure Marketplace vásárlásokhoz nem. Miután kiválasztotta a fiókját, további címzetteket is felvehet, akik e-mailben kapják meg a számlát. Kérjük, kövesse az alábbi lépéseket.
+Csak akkor kapja meg e-mailben a számláját, ha fiók-rendszergazdai szerepkörrel rendelkezik egy előfizetésben, vagy egy támogatási csomagban. E-mailben küldött számlák csak előfizetések és támogatási csomagok esetén érhetők el, foglalások és Azure Marketplace-vásárlások esetén nem. Miután ezt választotta, hozzáadhat további címzetteket, akik megkapják a számlát e-mailben. Kérjük, kövesse az alábbi lépéseket.
 
-1. Bejelentkezés az [Azure portálra](https://portal.azure.com/)
-2. Keressen a **Cost Management + számlázás** lapra.
-3. Válassza a **számlák** lehetőséget a bal oldali részen.
-4. Jelölje ki az Azure-előfizetést vagy a támogatási csomagot, majd válassza a **számla beszerzése e-mailben** lehetőséget.
-5. Kattintson az **e-mail számla** elemre, és fogadja el a feltételt
-6. A rendszer elküldi a számlát a kívánt kommunikációs e-mailhez. Az e-mail frissítéséhez válassza a **profil frissítése** lehetőséget.  
+1. Jelentkezzen be az [Azure portálra](https://portal.azure.com/).
+2. Keresse meg a **Költségkezelés + számlázás** elemet.
+3. Válassza a bal oldali **Számlák** lehetőséget.
+4. Jelölje ki Azure-előfizetését vagy támogatási csomag előfizetését, és válassza a **Számla küldése e-mailben** lehetőséget.
+5. Kattintson a **Számla küldése** lehetőségre, és fogadja el a feltételeket.
+6. A számlát a rendszer elküldi az Ön által előnyben részesített kommunikációs e-mail-címre. Válassza a **Profil frissítése** lehetőséget az e-mail frissítéséhez.  
 
-    Előfordulhat, hogy havonta meg szeretné osztani az előfizetése és támogatási csomagja számláit a könyvelési csapatával, vagy elküldheti őket az egyik másik e-mail címére.  
+    Előfordulhat, hogy minden hónapban meg szeretné osztani előfizetése és támogatási csomagja számláit a könyvelő csapattal, vagy el szeretné küldeni őket egy másik e-mail-címre.  
 
-7. A fenti lépéseket követve először engedélyezze a számlát e-mailben, majd válassza a  **címzettek beállítása lehetőséget.**
-8. Írjon be egy e-mail-címet, majd válassza a **Címzett hozzáadása** lehetőséget. Több e-mail-címet is hozzáadhat.
-9. Miután hozzáadta az összes e-mail-címet, válassza a **kész** lehetőséget a képernyő alján.
+7. A fenti lépéseket követve először engedélyezze az e-mailes számlát, majd válassza a **Címzettek konfigurálása** lehetőséget.
+8. Írjon be egy e-mail-címet, majd válassza a **Címzett hozzáadása** lehetőséget. Több e-mail címet is hozzáadhat.
+9. Miután hozzáadta az összes e-mail-címet, válassza a **Kész** lehetőséget a képernyő alján.

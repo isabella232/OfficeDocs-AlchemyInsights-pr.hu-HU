@@ -2,26 +2,27 @@
 title: Alkalmazások és Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "5764"
-ms.openlocfilehash: 3fcac11807e0a5ba44a689ec5144a742e859f291
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
-ms.translationtype: MT
+ms.openlocfilehash: 63b5c49522fc2fb7a1044b1f6779d55729c0b01e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569133"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821260"
 ---
 # <a name="apps-and-intune"></a>Alkalmazások és Intune
 
-Ha áttekintést tud kapni arról, hogy az Intune hogyan segíthet az alkalmazások kezelésében, kezdje [a Mi a Microsoft Intune alkalmazáskezelésével?](https://docs.microsoft.com/mem/intune/apps/app-management)
+Ha szeretné áttekinteni, hogy az Intune miként segíthet az alkalmazások kezelésében, először is olvassa el a [Mi a Microsoft Intune alkalmazáskezelést?](https://docs.microsoft.com/mem/intune/apps/app-management) című témakört.
 
-Az alkalmazások Intune-ba való feltöltésével és az eszközökre való üzembe helyezésével kapcsolatos további információkért tekintse át [a rövid útmutatót: Ügyfélalkalmazás hozzáadása és hozzárendelése.](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app)
+Ha többet szeretne tudni az alkalmazások feltöltéséről az Intune-ra és azok telepítéséről az eszközeire, olvassa el a [Gyorsútmutató: Ügyfélalkalmazás hozzáadása és hozzárendelése](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app) című témakört.
 
-A vállalati adatok mobilalkalmazásokon belüli védelméhez olvassa el a [Rövid útmutató: Alkalmazásvédelmi szabályzat létrehozása és hozzárendelése című útmutatót.](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy)
+A vállalati adatok mobilalkalmazásokon belüli védelméről olvassa el a [Gyorsútmutató: Alkalmazásvédelmi házirend létrehozása és hozzárendelése](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy) című témakört.

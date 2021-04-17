@@ -1,8 +1,8 @@
 ---
-title: Számlázás a lefoglalt példányok vásárlásakor
+title: Fenntartott példány vásárlásának számlázása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,104 +12,104 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 6cdcb5af27a475cc838eb434ff025eb18356360c
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823077"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820324"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>Számlázás a lefoglalt példányok vásárlásakor
+# <a name="billing-for-reserved-instance-purchase"></a>Fenntartott példány vásárlásának számlázása
 
-A lefoglalt példány beszerzése a vásárlás időpontjában kiválasztott előfizetéshez kötött fizetési módra terheli. Az előfizetés típusa vállalati szerződés (ajánlati szám: MS-AZR-0017P), Pay-as-go (ajánlati szám: MS-AZR-0003P), Microsoft ügyfél-szerződés vagy CSP.
+A lefoglalt példány megvásárlását a vásárláskor kiválasztott előfizetéshez kötött fizetési módra terheljük. Az előfizetés típusának nagyvállalati szerződésnek (ajánlatszámnak: MS-AZR-0017P), "Fizetés mint Ön által" (ajánlatszám: MS-AZR-0003P), Microsoft ügyfélszerződésnek vagy CSP-nek kell lennie.
 
-- Nagyvállalati verziós előfizetés esetén a díjakat a program levonja a beiratkozási pénzügyi egyenlegből vagy a túlóradíjra.
-- A fizetés-kirovó előfizetés esetén a díjakat a hitelkártyára vagy az előfizetés számlájának fizetési módjára kell kiszámlázni.
+- Nagyvállalati előfizetés esetén a díjakat levonjuk a regisztráció pénzügyi kötelezettségvállalási egyenlegéből, vagy a díjakat túlóraként terheljuk meg.
+- A "Fizetés mint You Go" előfizetés esetén a díjakat hitelkártyás vagy számlás fizetési módra számlázjuk az előfizetésben.
 
 **Foglalás lemondása**
 
-- Önkiszolgáló **:** A fenntartott példányokat az [Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)segítségével is lemondhatja vagy cserélheti. Jelölje ki a foglalást, és kattintson a visszatérítés vagy az Exchange elemre. Felhívjuk a figyelmét arra, hogy a foglalási sorrendben tulajdonosi hozzáféréssel kell rendelkeznie az Exchange-hez vagy a visszatérítéshez. A csak a foglalásokhoz való hozzáférés nem teszi lehetővé a visszatérítést vagy az Exchange-et. A foglalási rendelés tulajdonosának felkérése, hogy tulajdonosi hozzáférést adjon a foglalási rendeléshez
-- **Exchange-házirend:** Egy másik, azonos típusú foglalásra szóló foglalást kicserélheti – nincsenek **szankciók** a foglalási cserében. Az új fenntartással való teljes kötelezettségvállalásnál nagyobbnak kell lennie, mint a kicserélt foglalások összege és a jövőbeli havi kifizetések (ha szükséges)
-- **Visszatérítési szabály:** A visszatérítés összege és a lemondott jövőbeli kifizetések száma nem haladhatja meg a $50 000 USD-t egy 12 hónapos gördülési ablakban. Jelenleg nem számítunk fel **semmilyen szankciót** a visszatérítésekre, de a jövőbeli pénzvisszatérítések esetében nem.
+- **Önkiszolgáló szolgáltatás:** Saját maga is lemondhatja vagy kicserélheti a fenntartott példányokat az [Azure Portal használatával.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Jelölje ki a foglalást, és kattintson a visszatérítésre vagy a csere elemre. Felhívjuk a figyelmét arra, hogy tulajdonosi hozzáféréssel kell rendelkezik a foglalási rendeléshez a csere vagy visszatérítés érdekében. Kizárólag a Foglaláshoz való hozzáférés esetén nem jogosult visszatérítésre vagy cserére. Kérje meg a foglalási rendelés tulajdonosát, hogy adjon Önnek hozzáférést a foglalási rendeléshez.
+- **Exchange-házirend:** Más, azonos típusú foglalások lefoglalását is át lehet cserélni – a foglalási csere nem tartalmazza **a** szobafoglalási összeget. Az új foglalással kapcsolatos teljes kötelezettségvállalásnak nagyobbnak kell lennie, mint az átváltott foglalások visszatérítési összege és a jövőbeli havi kifizetések összege (ha van ilyen).
+- **Visszatérítési szabályzat:** A visszatérítés összege és a lemondott jövőbeli kifizetések nem haladhatja meg az 50 000 usd-t egy 12 hónapos görgető ablakban. Jelenleg nem **számolunk fel** pénzvisszatérítési díjat, de a jövőbeli visszatérítések után rá lehet fizetni.
 
-**Kivételek:** Az önkiszolgáló Exchange és a Mégse lehetőség nem érhető el az Amerikai Egyesült államokbeli kormányzati Enterprise szerződés ügyfelei számára
+**Kivételek:** Az önkiszolgáló csere- és lemondási funkció nem érhető el az Egyesült Egyesült Állam kormányzati nagyvállalati szerződésének ügyfelei számára
 
-- Az **API/PS/CLI** támogatás nem áll rendelkezésre a lemondáshoz és [a](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) visszatérítésekhez
-- Az önkiszolgáló Exchange és a Mégse lehetőség nem érhető el az Amerikai Egyesült államokbeli kormányzati vállalati szerződés ügyfelei számára. A többi amerikai kormányzati verzió előfizetése, többek között a fizetés-kirovó és a CSP támogatása
+- **Az API/PS/CLI** támogatása nem érhető el lemondáshoz és visszatérítéshez Önkiszolgáló tőzsdére és visszatérítésre [Azure-foglalások esetén](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Az önkiszolgáló csere- és lemondási funkció nem érhető el az Egyesült Államok kormányzati nagyvállalati szerződésének ügyfelei számára. Más, egyesült egyesült államokkal kapcsolatos előfizetési típusok, például a "Fizetés mint Ön-go" és a "CSP" támogatottak
 
-További információ: [a visszatérési és az Exchange-tranzakciók feldolgozása](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) : További kérdések [az Exchange és a visszatérítés szabályairól: a](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) [fenntartott példányokra vonatkozó dokumentumok megkeresése](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+További információ: [A visszaküldési](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) és a cseretranzakciók feldolgozása További információ: [Exchange-](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) és visszatérítési szabályzatok További [kérdések: Fenntartott példányok dokumentumok](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) megtekintése
 
-**Meglévő fenntartott példány cseréje (önkiszolgáló)**
+**Meglévő fenntartott példány cseréje (Önkiszolgáló)**
 
-Megoszthatja a foglalásokat egy másik, azonos típusú foglaláshoz. Ha már nincs szüksége rá, a foglalást visszafizetheti, az $50 000 USD-ig évente. Az önkiszolgáló Exchange és a Mégse lehetőség nem érhető el az Amerikai Egyesült államokbeli kormányzati vállalati szerződés ügyfelei számára. A többi amerikai kormányzati verzió előfizetése, többek között a fizetés-kirovó és a CSP is támogatott. Egy meglévő foglalás cseréjéhez vagy visszafizetéséhez tulajdonosi hozzáféréssel kell rendelkeznie a foglalási sorrendben.
+Ugyanezen típusú más foglalások foglalását is kicserélheti. Ha már nincs rá szüksége, visszatéríthet egy 50 000 USD összeget is évente. Az önkiszolgáló csere- és lemondási funkció nem érhető el az Egyesült Államok kormányzati nagyvállalati szerződésének ügyfelei számára. Az Egyesült Államok kormányzati előfizetési típusai, például a "Pay-As-You-Go" és a "CSP" előfizetések támogatottak. A meglévő foglalások cseréjéhez vagy visszatérítésére tulajdonosi hozzáféréssel kell lennie a foglalási rendelésben.
 
-Az alábbi lépések végigvezetik a tranzakció befejezésének lépésein.
+Az alábbi lépések végigvezetik a tranzakció befejezésének eljárásán.
 
-1. Jelentkezzen be az [Azure-portálra](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Jelölje ki a visszatéríteni kívánt foglalásokat, és kattintson az **Exchange** 2 elemre. Válassza ki a MEGVÁSÁROLNI kívánt VM-terméket, és írjon be egy mennyiséget. Győződjön meg arról, hogy az új beszerzési összeg nagyobb, mint a [vásárlás után](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)a teljes összeg.
-3. a tranzakció áttekintése és befejezése
+1.Jelentkezzen be az [Azure Portalba.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Jelölje ki a visszatérítendő foglalásokat, és kattintson az **Exchange** 2 gombra.Válassza ki a megvásárolni kívánt VM-terméket, és írja be a mennyiséget. Győződjön meg arról, hogy az új beszerzési összeg nagyobb, mint a vissza visszaút összege Határozza meg a megfelelő méretet [a vásárlás előtt.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+3.A tranzakció áttekintése és befejezése
 
-**A lefoglalt példány visszatérítése**
+**Visszatérítés lefoglalt példány esetén**
 
-A foglalás visszafizetéséhez válassza a **foglalás részletei** lehetőséget, és kattintson a **visszatérítés** gombra.
+Ha vissza kell térítenie egy foglalást, válassza a **Foglalás részletei gombra,** majd a Visszatérítés **gombra kattintva.**
 
-**Pro névleges visszatérítés:**
+**Pro-rated visszatérítés:**
 
-A pénzértékek **és a minimális követelmény a visszatérítés és az Exchange esetében** Példa előzetes foglalásra:
+**Pro-ration and minimum requirement examples for refund and exchange** Példa előzetes foglalásra:
 
-- Január 1-jén vásárol egy éves időszakot az $120-hoz
-- Április 7-én szeretné visszatéríteni vagy lecserélni a foglalást
-- Mivel a foglalás 97-es napokra van megnyitva, az (1-97/365) * $120 vissza fog lépni. (például $88,1). A visszatérítésekre jelenleg nincs büntetés
-- Ha a csere, az új vásárlásnál nagyobbnak kell lennie, mint a $88,1
-- Jelenleg nincs bírság a visszatérítésekre
+- Január 1-jén 120 USD-ért vásárol egy éves ri ri-t
+- Április 7-én vissza szeretné téríteni vagy cserélni a foglalást
+- Mivel a foglalás 97 napja élőben van, ön (1-97/365) * 120 USD-t kap vissza. (azaz 88,1 USD). A visszatérítések jelenleg nem aktívak.
+- Csere esetén az új vásárlásnak nagyobbnak kell lennie, mint 88,1 USD
+- Jelenleg nem áll rendelkezésre pénzvisszatérítés.
 
-**Példa számlázási terv foglalására:**
+**Példa a számlázási csomag foglalási példára:**
 
-- Az $10 havonta vásárol egy egyéves időszakot
-- Április 7-én szeretné visszatéríteni vagy lecserélni a foglalást
-- Mivel a legutóbbi fizetés 7 napig megtörtént, az (1-7/31) * $10 vissza fog történni. (azaz $7,74)
-- A jövőbeli kifizetések lemondása a $80. A visszatérítésekre jelenleg nincs büntetés
-- Ez a törlés levonja az $87,74-öt az $50 000-ös visszatérítési korlátból.
-- Ha a csere, az új vásárlás teljes értéke nem lehet nagyobb, mint $87,74
+- Egyéves ri-t vásárol 10 USD-ért havonta
+- Április 7-én vissza szeretné téríteni vagy cserélni a foglalást
+- Mivel az utolsó fizetés 7 nap volt, ön (1-7/31) * 10 USD-t kap vissza. (azaz 774 Ft)
+- A jövőbeli törölt kifizetések 80 USD- A visszatérítések jelenleg nem aktívak.
+- Ez a lemondás 87,74 USD-t von vissza Öntől az 50 000 USD visszatérítési korlátról.
+- Csere esetén az új vásárlás teljes értékének nagyobbnak kell lennie, mint 87,74 USD
 
-**Nem jelenik meg az utolsó számlázási időszak számlája**
+**Nem látható a legutóbbi számlázási időszak számlája**
 
-Bizonyos okok miatt előfordulhat, hogy nem jelenik meg számla:
+Néhány lehetséges ok, amiért esetleg nem látható a számla:
 
-- Az előfizetésével egy vagy több ingyenes próbaverzióval rendelkezik. A számla csak akkor jön létre, amikor pénzt köszönhet
-- Az Azure-ra előfizetett naptól számított 30 napnál rövidebb
-- A számla még nincs létrehozva. Várakozás a számlázási időszak végére
-- Ha nem a fiók rendszergazdája, előfordulhat, hogy a régebbi számlák nem érhetők el Önnek
+- Olyan havi kreditet kap az előfizetésével, amely nem lépte túl, vagy ingyenes próbaverzióval rendelkezik. Egy számla csak akkor jön létre, ha Ön tartozásból
+- Kevesebb mint 30 nap van attól a naptól, amikor előfizetett az Azure-ra.
+- A számla még nem jön létre. Várakozás a számlázási időszak végéig
+- Ha nem Ön a fiók adminisztrátora, előfordulhat, hogy a régebbi számlák nem érhetők el
 
-**A számla letöltése az Azure portálról (. pdf)**
+**A számla letöltése az Azure Portalról (.pdf)**
 
-- Válassza ki az előfizetését az Azure Portal [előfizetések](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) lapjáról a [számlákhoz való hozzáférésre szolgáló felhasználóként](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- **Számlák** kijelölése
-- A PDF-számla másolatának megtekintéséhez kattintson a **számla letöltése** parancsra. Ha az **nem érhető** el, olvassa el [a miért nem jelenik meg az utolsó számlázási időszak számlája?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice) című témakört.
+- Válassza ki előfizetését az Azure Portal [Előfizetések](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) lapján, felhasználóként, aki [hozzáfér a számlákhoz.](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Select **Invoices**
+- Kattintson **a Számla letöltése** elemre a PDF-számla másolatának megtekintéséhez. Ha a Nem érhető el lehetőség **látható,** tekintse meg a Miért nem látom a legutóbbi számlázási időszak [számláját?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
-**A számla vétele e-mailben (. pdf)**
+**Számla fogadása e-mailben (.pdf)**
 
-- Válassza ki az előfizetést az [előfizetések](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) lapról. Kattintson a **számlák** , majd a számla küldése e-mailben lehetőségre
-- Kattintson **a választás gombra, és** fogadja el a feltételt. Mindegyik előfizetés esetén be kell jelentkeznie.
+- Válassza ki előfizetését az [Előfizetések lapon.](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Kattintson **a Számlák, majd** a Saját számla küldése e-mailben elemre.
+- Kattintson **az opt in (opt in) gombra,** és fogadja el a feltételeket. Minden előfizetéséhez külön-külön be kell jelentkeznie
 
-Megjegyzés: Ha a lépések követése után nem kap e-mailt, ellenőrizze, hogy helyes-e az e-mail-cím a [profil kommunikációs beállításai](https://account.windowsazure.com/profile) között
+Megjegyzés: Ha a lépések után nem kap e-mailt, ellenőrizze, hogy helyes-e az e-mail-cím a profil kommunikációs [beállításai között](https://account.windowsazure.com/profile)
 
-**A használati adatainak letöltése az Azure portálról**
+**Használati adatok letöltése az Azure Portalról**
 
-- Bejelentkezni az [Azure Account Center](https://account.windowsazure.com/Subscriptions) -be a [fiók rendszergazdája](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
-- Jelölje ki azt az előfizetést, amelynek a számláját és a használati adatait meg szeretné jeleníteni.
-- **Számlázási előzmények** kijelölése
-- Válassza a **jelenlegi utasítás megtekintése** lehetőséget, ha a becslést a díj létrejöttének időpontjában szeretné megjeleníteni.
-- Válassza a **használat letöltése** lehetőséget a napi használati adatainak CSV-fájlként való letöltéséhez. Ha két verzió érhető el, töltse le a 2-es verziót
+- Bejelentkezés az [Azure Fiókközpontba](https://account.windowsazure.com/Subscriptions) [fiók-rendszergazdaként](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- Válassza ki azt az előfizetést, amelynek a számláját és a használati adatait meg szeretné tudni
+- Számlázási **előzmények kiválasztása**
+- Válassza **az Aktuális utasítás megtekintése lehetőséget** a becsült díjak becsült értékének megtekintéséhez a becslés generálásakor.
+- Válassza **a Használat letöltése lehetőséget** a napi használati adatok CSV-fájlként való letöltéséhez. Ha két elérhető verzió látható, töltse le a 2-es verziót
 
-Egyéb kérdések: a [fenntartott példányokra vonatkozó dokumentumok meglátogatása](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+További kérdések: [Fenntartott példányok dokumentumok felkeresve](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Ajánlott dokumentumok**
 
-- [Számlázás alapjai](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [A lefoglalt példány kedvezményének ismertetése](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Az Azure számlázási számlájának és a napi használati adatainak letöltése vagy megtekintése](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [A lefoglalt példány kedvezményének ismertetése](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [A lefoglalt példány felhasználásának ismertetése a fizetési mód előfizetése során](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [A lefoglalt példány használatáról a nagyvállalati verziós igénylésekre vonatkozóan](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [A Windows szoftver azon költségei, amelyek nem szerepelnek a lefoglalt példányokban](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Fenntartott példányok a fiókpartner központi felhőalapú megoldás-szolgáltatójában (CSP-es program)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Számlázási alapismeretek](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [A fenntartott példányra érvényes árengedmény alkalmazása](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Az Azure számlázási számlájának és napi használati adatainak letöltése vagy megtekintése](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [A fenntartott példányra érvényes árengedmény alkalmazása](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [A "Pay-As-You-Go" előfizetéshez lefoglalt példányhasználat](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [A nagyvállalati regisztrációhoz lefoglalt példányhasználat](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [A foglalt példányok nem tartalmazzák a Windows szoftverköltségeket](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Fenntartott példányok a Partner Central Cloud Solution Provider (CSP) programban](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)

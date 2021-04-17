@@ -2,25 +2,26 @@
 title: Adómentes státusz kérése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 91b34fb686206bd3b5e215bb5ed7cb7847028929
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 0bc705cd595268b14a169d002859706cae404ebb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286575"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821296"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Adómentes státusz kérése
 
-Kérjük, hogy a következő dokumentumokat készítse elő. Az adómentes státusz megállapításához [ szolgáltatási kérelmet kell benyújtania](https://docs.microsoft.com/office365/admin/contact-support-for-business-products).
+Kérjük, hogy a következő dokumentumokat készítse elő. Az adómentes státusz megállapításához [ szolgáltatási kérelmet kell benyújtania](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).
 
 - **Amerikai Egyesült Államok** - Kérjük, hogy készítse elő a **Forgalmi adómentességi tanúsítványt**.
 
@@ -32,4 +33,4 @@ Kérjük, hogy a következő dokumentumokat készítse elő. Az adómentes stát
 
 - **Puerto Rico** - Kérjük, hogy a készítse elő a **Certificado de compras Exentas** nevű dokumentumot.
 
-További információt az [Adózási információk](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide)című témakörben talál.
+További információt az [Adózási információk](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information)című témakörben talál.

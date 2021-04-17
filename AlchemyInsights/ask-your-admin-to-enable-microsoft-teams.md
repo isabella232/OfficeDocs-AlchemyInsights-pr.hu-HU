@@ -1,8 +1,8 @@
 ---
-title: Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft teams
+title: Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft Teamst
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716247"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821188"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Nincs kihagyva! Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Nem vagy lemaradva! Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft Teamst
 
-Ha oktatási verziós bérlővel rendelkezik, manuálisan kell engedélyeznie a Microsoft Teamst. Ehhez nyissa meg a Microsoft 365 felügyeleti központját > **szolgáltatások és bővítmények > a Microsoft Teams**alkalmazást. Ha az új Teams felügyeleti központot használja, ki kell kapcsolnia **az új felügyeleti központot**a    **szolgáltatások és bővítmények**kereséséhez. 
+Ha oktatási verziós bérlővel rendelkezik, manuálisan kell engedélyeznie a Microsoft Teamst. Ehhez a Microsoft Teams szolgáltatások és bővítmények >Microsoft 365  **Felügyeleti központot > el.** Ha az új Teams Felügyeleti központot használja, ki **** kell kapcsolnia a Próbálja ki az új felügyeleti központot a szolgáltatások és bővítmények    **kereséshez.** 
 
-**Fontos**: Előfordulhat, hogy a módosítások életbe léptetéséhez akár 24 óra is eltelhet.
+**FONTOS:** A módosítások életbe lépése akár 24 órát is igénybe vehet.

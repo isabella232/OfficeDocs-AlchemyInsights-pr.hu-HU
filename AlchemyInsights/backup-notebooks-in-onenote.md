@@ -2,30 +2,31 @@
 title: Jegyzetfüzetek biztonsági mentése a OneNote-ban
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000567"
 - "4500"
-ms.openlocfilehash: c6426ecf66089043fedb76baed4358b12b340388
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
-ms.translationtype: MT
+ms.openlocfilehash: fa45fbaca4727d3e14cc28b62bcd4c3b20824283
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44282995"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820540"
 ---
 # <a name="backup-notebooks-in-onenote"></a>Jegyzetfüzetek biztonsági mentése a OneNote-ban
 
-A OneNote az összes munkájáról biztonsági másolatot készíthet, de ez jelenleg nem lehetséges a OneNote for the Web alkalmazásban. Az asztali OneNote 2016 alkalmazásban ennek részletes lépéseit a [Jegyzetek biztonsági mentése](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) és A jegyzetek [visszaállítása biztonsági másolatból](https://support.microsoft.com/office/restore-notes-from-a-backup-5daf9cb0-6769-4998-a5de-f044fdd0d831)című témakörben ismerteti.
+A OneNote képes biztonsági másolatokat megőrizni az összes munkájáról, de ez jelenleg nem lehetséges a Webes OneNote-ban. Az asztali OneNote 2016 alkalmazás ehhez szükséges részletes lépéseit lásd: [Jegyzetek biztonsági mentése](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) és [Jegyzetek visszaállítása biztonsági másolatból](https://support.microsoft.com/office/5daf9cb0-6769-4998-a5de-f044fdd0d831).
 
-1. Az asztali OneNote 2016 alkalmazásban kattintson **a Fájl > beállítások gombra.**
-2. A OneNote beállításai párbeszédpanelen kattintson a** Mentés & biztonsági másolat** gombra.
-3. A jobb oldalon a **Mentés**csoportban kattintson a **Biztonsági másolat mappa > módosítás parancsra.**
-4. A **Mappa kijelölése** párbeszédpanelen nyissa meg a biztonsági másolat mappáját.
-5. Kattintson a **Kijelölés gombra** az új hely elfogadásához, majd kattintson az **OK**gombra.
+1. Az asztali OneNote 2016 alkalmazásban kattintson a **Fájl > Beállítások** elemre.
+2. Kattintson A OneNote beállításai párbeszédpanel** Mentés és biztonsági mentés** elemére.
+3. Kattintson a jobb oldalon a **Mentés** területen a **Biztonsági másolat mappája > Módosítás** elemre.
+4. A **Mappa kiválasztása** párbeszédpanelen válassza ki a biztonsági másolat mappáját.
+5. Kattintson a **Kijelölés** gombra az új hely elfogadásához, majd kattintson az **OK** gombra.
 
-A Windows 10 OneNote-tal jegyzetfüzetei a OneDrive-on vagy a SharePointban tárolódnak. A OneNote összes verziója megőrzi a jegyzetfüzetek gyorsítótárazott másolatát az eszközén, így offline módban is elérheti őket, és a módosítások szinkronizálódnak, amikor csatlakozik.
+A Windows 10 OneNote-ban létrehozott jegyzetfüzetek a OneDrive-on vagy a SharePointban vannak tárolva. A OneNote összes verziója tárolja az eszközön a jegyzetfüzetek gyorsítótárazott példányát, így azok akár offline állapotban is elérhetők, és csatlakozáskor minden módosítás szinkronizálva lesz.
