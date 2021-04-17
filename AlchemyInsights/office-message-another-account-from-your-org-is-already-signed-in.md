@@ -1,24 +1,25 @@
 ---
-title: Office-appok üzenete – Sajnáljuk, a szervezetéből valaki egy másik fiókkal már bejelentkezett
+title: Microsoft 365-alkalmazások üzenete – Sajnáljuk, a szervezetéből valaki egy másik fiókkal már bejelentkezett
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 5c5dfd24ccb3e31ce56db8be4f4aebcf60bfcb69
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182570"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836245"
 ---
-# <a name="office-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Office-appok üzenete – Sajnáljuk, a szervezetéből valaki egy másik fiókkal már bejelentkezett
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365-alkalmazások üzenete – Sajnáljuk, a szervezetéből valaki egy másik fiókkal már bejelentkezett
 
 A hiba elhárításához kövesse az alábbi lépéseket:
 
@@ -31,6 +32,8 @@ A hiba elhárításához kövesse az alábbi lépéseket:
 - Az **+** ikonra kattintva adja hozzá vagy csatlakoztassa fiókját. Adja meg a hitelesítő adatait, és várjon a folyamat befejeződéséig.
 
 - Indítsa el az Office-alkalmazást, és szükség esetén jelentkezzen be újra. 
+
+**Tipp** Windows rendszerű gépeken számos gyakori Office-bejelentkezési problémát diagnosztizálhatunk és automatikusan kijavíthatunk Ön helyett. Automatizált eszközünk használatához töltse le és futtassa a **[Microsoft Támogatási és helyreállítási segédet](https://aka.ms/SaRA-OfficeSignInScenario)**.
 
 Ha a probléma továbbra is fennáll, próbálkozzon az alábbi lépésekkel: 
 

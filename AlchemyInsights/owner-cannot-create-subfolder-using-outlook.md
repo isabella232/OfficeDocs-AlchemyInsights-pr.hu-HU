@@ -1,8 +1,8 @@
 ---
-title: A tulajdonos nem tud almappát létrehozni az Outlookkal
+title: A tulajdonos nem hozhat létre almappát az Outlookkal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665720"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836137"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>A tulajdonos nem tud almappát létrehozni az Outlookkal
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>A tulajdonos nem hozhat létre almappát az Outlookkal
 
-**Folyamatban van egy probléma a nyilvános mappák tulajdonosainak az Outlookkal való létrehozásakor. A probléma hamarosan kijavításra kerül.**
+**Egy még folyamatban lévő hiba miatt a nyilvános mappatulajdonosok az Outlook segítségével hoznak létre almappákat. A problémát hamarosan kijavítjuk.**
 
-Eközben használja az alábbi kerülő megoldások egyikét:
+Addig is használja az alábbi kerülő megoldásokat:
 
-1. A MAC Outlook használata az almappa létrehozásához a probléma hatása csak az asztali Windows Outlook (minden verzió)
-2. A rendszergazda hozza létre az almappát az EXO Shell vagy az EAC segítségével
-3. A felhasználó DefaultPublicFolderMailbox/EffectivePublicFolderMailbox módosítása a problémát okozó mappa tartalmát tartalmazó postaládára  
-    - *Set-Mailbox Felhasználó1 DefaultPublicFolderMailbox PubMBX3*
+1. Az almappa létrehozása a MAC Outlookkal, mivel a probléma csak az asztali Outlookot (az összes verziót) érintette.
+2. Az almappa exo shell vagy EAC használatával való létrehozása a rendszergazdával
+3. A problémát okozó mappa DefaultPublicFolderMailbox/EffectivePublicFolderMailbox-jának módosítása a tartalompostaládán kívül más postaládára  
+    - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
 4. Várjon egy órát, indítsa újra az Outlook ügyfélprogramot

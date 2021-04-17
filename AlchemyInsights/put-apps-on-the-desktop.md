@@ -1,8 +1,8 @@
 ---
-title: Alkalmazások alkalmazása az asztalra
+title: Alkalmazások telepítése az asztalra
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768249"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835849"
 ---
-# <a name="put-apps-on-the-desktop"></a>Alkalmazások alkalmazása az asztalra
+# <a name="put-apps-on-the-desktop"></a>Alkalmazások telepítése az asztalra
 
-Keresse meg az alkalmazást a **Start** menüben, és az alkalmazás ikonját lenyomva tartva tartsa lenyomva a bal egérgombot, és húzza az ikont az asztalra.
+Keresse meg az alkalmazást a **Start menüben,** és a bal egérgombot lenyomva kezében az ikont az asztalra mozgatva fogja meg az app ikonját.
 
-A **Windows billentyű + R** billentyűkombinációt lenyomva is megadhatja a következő parancsot:
+Lenyomhatja a Windows billentyű **+ R billentyűkombinációt** is, majd begépelheti a következő parancsot:
 
 `shell:appsfolder`
 
-Ekkor megnyílik az **alkalmazások** mappa a **fájlkezelőben**. Most húzza az alkalmazás ikonját az asztalra.
+Ezzel megnyitja **az Alkalmazások mappát** a **Fájlkezelőben.** Most már az asztalra húzhatja az app ikonját.
