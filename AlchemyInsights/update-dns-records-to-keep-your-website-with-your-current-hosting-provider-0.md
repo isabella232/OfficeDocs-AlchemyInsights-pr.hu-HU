@@ -2,7 +2,7 @@
 title: A DNS-rekordok frissítése, hogy a webhely megmaradjon a jelenlegi tárhelyszolgáltatónál
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 89bce2aa5931c0c20706efabd42d2351be43938b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815787"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827522"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>A DNS-rekordok frissítése, hogy a webhely megmaradjon a jelenlegi tárhelyszolgáltatónál
 
-1. A Microsoft 365 felügyeleti központban nyissa meg a tartomány **beállítása**  >  [Domains](https://admin.microsoft.com/Adminportal#/Domains) lapot, és a tartományok listájában válassza ki a webhelyhez használni kívánt tartományt.
+1. A Microsoft 365 Felügyeleti központban kattintson a **Setup** Domains (Tartományok beállítása) lapra, és a tartományok listájában válassza ki a webhelyéhez  >  [](https://admin.microsoft.com/Adminportal#/Domains) használt tartományt.
 
 2. Válassza az **+ Új egyéni rekord** elemet, és írja be az alábbiakat:
 

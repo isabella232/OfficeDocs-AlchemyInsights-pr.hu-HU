@@ -1,8 +1,8 @@
 ---
-title: Az IP-videó engedélyezése vagy letiltása a csoportokban
+title: Az IP-videó engedélyezése vagy letiltása a Teamsben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: cf2d67170f846db1d5d2f1ca8c8b50902e200e45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670186"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826345"
 ---
-# <a name="teams-allow-or-disable-ip-video"></a>Az IP-videó engedélyezése vagy letiltása a csoportokban
+# <a name="teams-allow-or-disable-ip-video"></a>Az IP-videó engedélyezése vagy letiltása a Teamsben
 
-**Értekezlet-házirend módosítása vagy létrehozása**
+**Értekezleti házirend módosítása vagy létrehozása**
 
-Az értekezlet-összehívások módosításához vagy létrehozásához nyissa meg a **Microsoft Teams felügyeleti központot > értekezletek > értekezlet-házirendeket**. Válasszon egy szabályzatot a listából, vagy válassza a **Hozzáadás** lehetőséget. Ha új szabályzatot hoz létre, adja meg a nevét és a leírását. A név nem tartalmazhat speciális karaktereket, és nem lehet hosszabb 64 karakternél. Adja meg a kívánt beállításokat, majd kattintson a **Mentés** gombra.
+Értekezleti házirendek módosítása vagy létrehozása: A Microsoft Teams Felügyeleti **központ értekezletek > értekezleti > értekezleti házirendek .** Válasszon egy szabályzatot a listából, vagy válassza a **Hozzáadás** lehetőséget. Ha új szabályzatot hoz létre, adja meg a nevét és a leírását. A név nem tartalmazhat speciális karaktereket, és nem lehet hosszabb 64 karakternél. Adja meg a kívánt beállításokat, majd kattintson a **Mentés** gombra.
 
-Tegyük fel például, hogy sok felhasználója van, és korlátozni szeretné az értekezlethez szükséges sávszélesség mértékét. Érdemes létrehoznia egy „Korlátozott sávszélesség” nevű új szabályzatot és letiltani a következő beállításokat:
+Tegyük fel például, hogy sok felhasználója van, és korlátozni szeretné az értekezlethez szükséges sávszélességet. Érdemes létrehoznia egy „Korlátozott sávszélesség” nevű új szabályzatot és letiltani a következő beállításokat:
 
 A **Hang és videó** csoportban:
 
@@ -38,6 +38,6 @@ Ezután rendelje hozzá a szabályzatot a felhasználókhoz.
 
 1. A Microsoft Teams Felügyeleti központ bal oldali navigációs panelén keresse meg a **Felhasználók** lehetőséget, és kattintson a felhasználóra.
 2. A felhasználónévtől balra kattintva jelölje ki a felhasználót, és kattintson a **Beállítások szerkesztése** lehetőségre.
-3. Az **értekezlet-házirend**csoportban jelölje ki a hozzárendelni kívánt házirendet, majd kattintson az **alkalmaz**gombra.
+3. Az **Értekezleti házirend alatt** válassza ki a hozzárendelni kívánt házirendet, majd kattintson az Alkalmaz **gombra.**
 
-További információt az [értekezlet-házirendek kezelése a Teams alkalmazásban](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)című témakörben talál.
+További információ: Értekezleti [házirendek kezelése a Teamsben.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)

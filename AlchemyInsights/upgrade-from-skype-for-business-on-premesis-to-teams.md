@@ -1,8 +1,8 @@
 ---
-title: Frissítés a helyszíni Skype vállalati verzióról csoportokba
+title: Frissítés a helyszíni Skype Vállalati verzióról Teamsre
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 3b55a91db4232e96c83a79f3f10abce1ac78a860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734769"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827362"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Frissítés a helyszíni Skype vállalati verzióról csoportokba
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Frissítés a helyszíni Skype Vállalati verzióról Teamsre
 
-Ha telepítette a Skype vállalati verziót vagy a Microsoft Lyncet a helyszíni verzióra, és a szervezete szeretne a Teams-ra frissíteni, kövesse az alábbi cikkben ismertetett útmutatást. Be kell állítania a bérlői hibrid kapcsolatot, majd át kell helyeznie a felhasználókat a Teams-ba, és hozzá kell rendelnie a megfelelő együttélési és frissítési módot. 
+Ha a helyszínen telepítette a Skype Vállalati verzió vagy a Microsoft Lync alkalmazást, és szervezete frissíteni szeretne a Teamsre, kövesse az alábbi cikkben található útmutatást. Be kell állítania a hibrid kapcsolatot a bérlői webhelyéhez, majd át kell állítania a felhasználókat a Teamsbe, és hozzájuk kell rendelnie a megfelelő társ- és frissítési módot. 
 
-[Frissítés a helyszíni Skype vállalati verzióról csoportokba](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Frissítés a helyszíni Skype Vállalati verzióról Teamsre](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

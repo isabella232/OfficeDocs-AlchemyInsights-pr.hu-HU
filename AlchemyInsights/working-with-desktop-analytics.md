@@ -1,8 +1,8 @@
 ---
-title: Az asztali Analytics-fiók bezárása
+title: Az asztali elemzési fiók bezárása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7550e651db1ea0b4e4a7c4f6fc43964b8d9bb09
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725625"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827074"
 ---
-# <a name="working-with-desktop-analytics"></a>Az asztali Analytics működése
+# <a name="working-with-desktop-analytics"></a>Az asztali analitika használata
 
-Úgy tűnik, hogy az asztali elemzést kéri. Ha a kérdését újra felveszi, pontosabb választ kaphatunk.
+Úgy tűnik, hogy ön az asztali analitikával kapcsolatban kérdez. Ha kérdése van, talán még pontosabb választ tudunk adni.
 
-- [Mi az asztali elemzés?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Az asztali Analytics beállítása](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Mi az asztali analitika?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Az asztali analitika beállítása](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [Gyakori kérdések](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Az asztali Analytics hibaelhárítása](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Az asztali analitika hibaelhárítása](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

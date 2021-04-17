@@ -1,8 +1,8 @@
 ---
-title: Teams-elemzés és-jelentések a Teams felügyeleti központjában
+title: Teams-elemzések és -jelentések a Teams Felügyeleti központban
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 1e5f2529e0f7206ebac3b5ca2b5d9ff746f98916
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9eed4a489b7308cbd1cb10d102a672831ae27b05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670150"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826309"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams-elemzés és-jelentések a Teams felügyeleti központjában
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams-elemzések és -jelentések a Teams Felügyeleti központban
 
-A Teams felügyeleti központban számos **használati és tevékenységi jelentés** érhető el, többek között a felhasználói tevékenység, az eszközhasználat és az élő események használata. További részletekért olvassa el a [Microsoft Teams Analytics és jelentéskészítés](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)című témakört.
+A Teams Felügyeleti  központban számos használati és tevékenységjelentés érhető el, beleértve a felhasználói tevékenységeket, az eszközhasználatot és az élő események használatát. Részletes információkért lásd: [Microsoft Teams analitika és jelentéskészítés.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
 
-**Kérjük, vegye figyelembe** az alábbiakat: További Teams-használati és tevékenység-jelentések érhetők el a Microsoft 365 felügyeleti központban. Ebből a témakörből megtudhatja [, hogyan tekintheti meg a Teams-jelentéseket a jelentések irányítópulton](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
+**Megjegyzés:** A Microsoft 365 Felügyeleti központban további Használati és tevékenységjelentések is elérhetők a Teamshez. Lásd: [A Teams-jelentések megtekintése a Jelentések irányítópulton.](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard)
 
-Ha **hívásokkal** vagy **hívási minőséggel**kapcsolatos jelentéskészítést vagy Analyticset keres, olvassa el a [QoS implementálása és a hívás minőségének figyelése a Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) alkalmazásban a kapcsolódó dokumentációt.
+Ha a hívásokkal vagy a  hívásminőséggel kapcsolatos jelentéseket vagy elemzéseket **keres,** a [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) implementációja és a hívásminőség figyelése a Microsoft Teamsben a kapcsolódó dokumentációt mutatja be.
 

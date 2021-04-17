@@ -2,7 +2,7 @@
 title: Teams Felügyeleti központ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670366"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826381"
 ---
 # <a name="teams-admin-center"></a>Teams Felügyeleti központ
 
@@ -32,5 +32,5 @@ Ha nem jelennek meg felhasználók a Teams Felügyeleti központban, ellenőrizz
 
 - Létrehozott felhasználókat, vagy kiosztott licenceket az elmúlt 24 órában? Kérjük, várjon legalább 24 órát, mielőtt támogatási jegyet nyitna.
 - Ellenőrizze: megfelelő licenceket rendelt hozzá a felhasználókhoz?
-- Ha helyszíni Active Directory-címtárral rendelkezik, győződjön meg arról, hogy [az msRTCSIP-PrimaryUserAddress vagy a SIP-cím értéke a helyi Active Directory-címtárban a ProxyAddresses mezőben látható, és a formátum megegyezik](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) a SIP: felhasználó**felhasználónevével** a [Microsoft 365 felügyeleti központjában](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Ha meg kívánja őrizni a Skype vállalati verzió kiszolgálójának telepítési példányát, és a helyszíni és online otthoni felhasználóknak is elérhetővé szeretné tenni a felhasználókat, tegye a következőket: a **hibrid beállítás beállítása a Teams és a Skype vállalati online** verzióhoz a Skype vállalati verzió kiszolgálójának Vezérlőpultján, és helyezze át a felhasználókat az interneten.
+- Ha helyszíni Active Directoryt használ, ellenőrizze, hogy az [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) érték vagy a helyi Active Directory ProxyAddresses mezőjében lévő SIP-cím egyedi-e, és a formátum megegyezik a sip:**A** felhasználó felhasználóneve a [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)Felügyeleti központban.
+- Ha meg szeretné tartani a Skype Vállalati kiszolgáló telepítését, és szeretné, hogy a felhasználók a helyszínen és online környezetben is üzemelnek, kövesse a Skype Vállalati kiszolgáló Vezérlőpultjának **"Hibrid** környezet beállítása a Teams és a Skype Vállalati online verzióval" című útmutatóját, és helyezze át a felhasználókat online.

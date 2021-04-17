@@ -1,8 +1,8 @@
 ---
-title: A Windows 10 otthoni verzió frissítése Windows 10-es Pro-ra
+title: A Windows 10 Home frissítése Windows 10 Pro verzióra
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 86181f0c14cf9ad20f5da7d22238af2974cf5d06
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a9eb8275167a85d0ae9f097aa73c1b244e3d3c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811881"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827290"
 ---
 # <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Frissítés termékkulcs vagy digitális licenc használatával
 
-**Frissítés Windows 10-es Pro-ra termékkulcs használatával**
+**Frissítés Windows 10 Pro-ra termékkulcs használatával**
 
-1. Válassza az **indítási**  >  **Beállítások**  >  **frissítése & biztonsági**  >  **aktiválás**lehetőséget.
-2. Jelölje be a **termékkulcs módosítása**választógombot, majd írja be a 25 karakterből álló Windows 10 Pro termékkulcsot.
-3. Válassza a **tovább** gombot a Windows 10 Pro rendszerre való frissítés megkezdéséhez.
+1. Válassza **a Start** Settings Update & security Activation (Beállítások &  >    >  **aktiválása)**  >  **lehetőséget.**
+2. Válassza **a Termékkulcs módosítása lehetőséget,** majd írja be a 25 karakteres Windows 10 Pro termékkulcsot.
+3. Válassza **a Tovább** gombot a Windows 10 Pro verzióra való frissítéshez.
 
-**Frissítés Windows 10-es Pro-ra digitális licenccel**
+**Frissítés a Windows 10 Pro kiadásra digitális licenccel**
 
-Ha már telepítette és aktiválta a Windows 10 Pro-t az eszközén, akkor digitális licenccel kell rendelkeznie, amely termékkulcs nélkül frissít Windows 10-es otthoni verzióról Windows 10 Pro rendszerre.
+Ha már telepítette és aktiválta a Windows 10 Pro terméket az eszközén, digitális licenccel rendelkezik, amellyel termékkulcs nélkül frissítheti a Windows 10 Home rendszert Windows 10 Pro kiadásra.
 
-Válassza az **indítási**  >  **Beállítások**  >  **frissítése & biztonsági**  >  **aktiválás**lehetőséget.
+Válassza **a Start** Settings Update & security Activation (Beállítások &  >    >  **aktiválása)**  >  **lehetőséget.**
 
-- Ha digitális licenccel rendelkezik a Windows 10 Pro rendszerhez, és a Windows 10 otthoni verzió aktív az eszközén, válassza az **Ugrás a Microsoft áruházba** lehetőséget, és a rendszer kérni fogja a Windows 10 Pro rendszerre való frissítés ingyenes frissítését.
-- Ha digitális licenccel rendelkezik a Windows 10 Pro rendszerhez, és a Windows 10 Home nem aktiválódik az eszközön, válassza a **Hibaelhárítás**lehetőséget, és kövesse a lépéseket a Windows 10 Pro rendszerre való frissítéshez.
+- Ha rendelkezik digitális licenccel a Windows 10 Pro-hoz, és a Windows 10 Home jelenleg aktiválva van az eszközén, válassza az Ugrás a **Microsoft Store** áruházba lehetőséget, és a rendszer arra fogja kérni, hogy frissítsen ingyenesen a Windows 10 Pro kiadásra.
+- Ha rendelkezik digitális licenccel a Windows 10 Pro kiadáshoz, és a Windows 10 Otthoni verzió nincs aktiválva az eszközén, válassza a Hibaelhárítás lehetőséget, majd a lépéseket követve frissítsen a Windows 10 Pro kiadásra.
 
-[További tudnivalók a Windows 10 aktiválásáról](https://support.microsoft.com/help/12440)
+[További információ a Windows 10-ben való aktiválásról](https://support.microsoft.com/help/12440)

@@ -1,8 +1,8 @@
 ---
-title: PowerApps vagy Microsoft flow támogatási kérelmek beküldése
+title: PowerApps- vagy Microsoft Flow-támogatási kérések elküldése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 0546a222eeb68fd9138a1ab846ebe190ddcbbc0b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 8e2b04a32af02679ce9a9ade92895011391b2ae7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653443"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827974"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>PowerApps vagy Microsoft flow támogatási kérelmek beküldése
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>PowerApps- vagy Microsoft Flow-támogatási kérések elküldése
 
-Ha Ön az **PowerApps** vagy a **Microsoft flow** ügyfél, kérjük, küldje el a jegyét az új [Power platform felügyeleti központban](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Az új portál az PowerApps és más Power platform-termékekhez optimalizált támogatás közvetlen elérési útját nyújtja.
+Ha Ön **PowerApps-** vagy **Microsoft Flow-ügyfél,** kérjük, küldje el jegyét az új Power platform Felügyeleti [központon keresztül.](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819) Az új portál közvetlenebb útvonalat biztosít a személyes támékos támogatáshoz, amely optimalizálva van a PowerAppshoz és más Power Platform-termékekhez.
 
-[A Microsoft flow támogatási kérés benyújtása](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[A Microsoft Flow támogatási kérésének elküldése](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

@@ -1,8 +1,8 @@
 ---
-title: Nem lehet beállítani vagy megtekinteni a AllowSelfServicePurchase házirendjét
+title: Nem lehet beállítani vagy megtekinteni az AllowSelfServicePurchase házirendet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735201"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826093"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nem lehet beállítani vagy megtekinteni a AllowSelfServicePurchase házirendjét
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nem lehet beállítani vagy megtekinteni az AllowSelfServicePurchase házirendet
 
-A AllowSelfServicePurchase házirend beállításakor vagy megtekintésekor a következő hibaüzenet jelenik meg:
+Az AllowSelfServicePurchase házirend beállításakor vagy megtekintésekor a következő hibaüzenet jelenik meg:
 
-*HandleError: nem sikerült lekérdezni a termékkulcsot a PolicyId "AllowSelfServicePurchase" ErrorMessage – az alapul szolgáló kapcsolat bezárult: váratlan hiba történt a küldéskor.*
+*HandleError: Nem sikerült beolvasni a termék házirendet a PolicyId 'AllowSelfServicePurchase', ErrorMessage - A mögöttes kapcsolat lezárult: Váratlan hiba történt egy küldéskor.*
 
-Ennek oka az lehet, hogy a Transport Layer Security (TLS) régebbi verziójával rendelkezik. A MSCommerce szolgáltatás csatlakoztatásához TLS 1,2 vagy újabbt kell használnia.  
+Ezt a Transport Layer Security (TLS) egy régebbi verziója okozhatja. Az MSCommerce szolgáltatás csatlakoztatásának 1.2-es vagy újabb TLS-et kell használnia.  
 
-A következő lépésekkel engedélyezheti/állíthatja be a TLS-protokollt a 1,2-ra, az ellenőrzésre és az újrapróbálkozásra.
- 1. A PowerShell parancssorába (PS C: \) írja be a következő parancsot a 1,2-es verzió TLS-protokolljának beállításához:
+Az alábbi lépésekkel engedélyezze vagy állítsa a TLS protokollt 1.2-esre, ellenőrizze és próbálkozzon újra.
+ 1. A PowerShell parancssorában (PS C: a következő paranccsal állítsa a \) TLS protokollt az 1.2-es verzióra:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Ellenőrizze a használatban lévő TLS protokollt (ka) t, a következő paranccsal:
+2. Ellenőrizze a használatban van TLS protokollokat az alábbi paranccsal:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Szükség esetén próbálkozzon újra a Get vagy a Update parancs segítségével.
+3. Szükség szerint próbálja meg újból a Get vagy a Update parancsot.
 

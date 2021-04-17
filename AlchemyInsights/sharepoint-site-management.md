@@ -1,8 +1,8 @@
 ---
-title: SharePoint Online-webhely kezelése
+title: SharePoint Online-webhelykezelés
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5808"
-ms.openlocfilehash: 247a8652ae70751bc6504fed9c91b2267fa3bda6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3226579bcd505699ff595bffb70548e0767229b1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795498"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826561"
 ---
-# <a name="sharepoint-online-site-management"></a>SharePoint Online-webhely kezelése
+# <a name="sharepoint-online-site-management"></a>SharePoint Online-webhelykezelés
 
-Az alábbiakban felsorolunk néhány, a SharePoint Online-webhelyek kezeléséhez szükséges gyakori témakört:
+Íme néhány gyakori témakör a SharePoint Online-webhelyek kezelésével kapcsolatban:
 
 - [Webhelyek kezelése](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
-- [A webhely tárolási korlátainak kezelése](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)
+- [Webhely tárterületkorlátának kezelése](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)
 - [A Lomtár kezelése](https://support.microsoft.com/office/8a6c2198-910e-42dc-9a9c-bc5bc4f327da)

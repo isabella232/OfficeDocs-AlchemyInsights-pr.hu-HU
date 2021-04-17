@@ -1,8 +1,8 @@
 ---
-title: A Microsoft 365-csoportok létrehozásához használható személyek kezelése
+title: A Microsoft 365-csoportok létrehozására képes felhasználók kezelése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: eb2018389b995460d60f955c8294807e9e17516b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e0730388da7b2688da254fa48e37f473b86b354
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694747"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827038"
 ---
-# <a name="manage-who-can-create-microsoft-365-groups"></a>A Microsoft 365-csoportok létrehozásához használható személyek kezelése
+# <a name="manage-who-can-create-microsoft-365-groups"></a>A Microsoft 365-csoportok létrehozására képes felhasználók kezelése
 
-Alapértelmezés szerint a szervezet bármely tagja létrehozhat O365-csoportokat.
+Alapértelmezés szerint a szervezetben bárki létrehozhat O365-csoportokat.
   
-Ha szeretné módosítani ezt, létrehozhat egy biztonsági csoportot a PowerShell segítségével, mely a csoportok létrehozását a felhasználók egy alkészletére korlátozza.
+Ha ezt módosítani szeretné, a PowerShell segítségével létrehozhat egy biztonsági csoportot, amely a csoportok létrehozását a felhasználók egy részkészletére korlátozza.
   
-Kövesse a részletes útmutatást: a [Microsoft 365-csoportok létrehozására jogosultak kezelése](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+Kövesse a következő lépésenként útmutatót: [A Microsoft 365-csoportok létrehozására](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups) képes felhasználók kezelése
   
 

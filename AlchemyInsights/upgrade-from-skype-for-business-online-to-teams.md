@@ -1,8 +1,8 @@
 ---
-title: Frissítés a Skype vállalati online verzióról a csoportokra
+title: Frissítés a Skype Vállalati online verzióról a Teamsre
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: ade3a20530a30ca5a703ce5a22af883cb827aecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734733"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827326"
 ---
-# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Frissítés a Skype vállalati online verzióról a csoportokra  
+# <a name="upgrade-from-skype-for-business-online-to-teams"></a>Frissítés a Skype Vállalati online verzióról a Teamsre  
 
-Kövesse az alábbi cikkben található útmutatást, ha telepítette a Skype vállalati online verziót, és szeretné frissíteni a felhasználókat a Skype vállalati verzióról a csoportokra. A felhasználók a megfelelő együttélési és frissítési mód kiosztásával bármikor frissíthetik a felhasználókat, ha a szervezet által kiválasztott frissítési útra épülnek.
+Ha telepítette a Skype Vállalati online verziót, és a Skype Vállalati verzióról a Teamsre szeretné frissíteni a felhasználókat, kövesse az alábbi cikk útmutatását. A felhasználók frissítését szakaszos vagy egyszerre, a szervezet által választott frissítési folyamat alapján úgy tudja, hogy hozzárendeli a felhasználókhoz a megfelelő társ- és frissítési módot.
 
-[Frissítés a Skype vállalati online verzióról a csoportokra](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
+[Frissítés a Skype Vállalati online verzióról a Teamsre](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
