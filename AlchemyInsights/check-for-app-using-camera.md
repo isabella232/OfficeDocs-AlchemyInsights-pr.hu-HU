@@ -1,8 +1,8 @@
 ---
-title: Az alkalmazás keresése a kamerával
+title: Alkalmazás ellenőrzése kamerával
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 611cdb28c8fac766f25583100e28854149b8f79a
-ms.sourcegitcommit: 56e0cd81b44ae8fe7a63810a043a452f407e87d6
+ms.openlocfilehash: d7f35bbe482d3bc5bae8c9d7af4ec1e3dcd0de35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48274825"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817822"
 ---
-# <a name="check-for-app-using-camera"></a><span data-ttu-id="4f9f6-102">Az alkalmazás keresése a kamerával</span><span class="sxs-lookup"><span data-stu-id="4f9f6-102">Check for app using camera</span></span>
+# <a name="check-for-app-using-camera"></a><span data-ttu-id="bdd74-102">Alkalmazás ellenőrzése kamerával</span><span class="sxs-lookup"><span data-stu-id="bdd74-102">Check for app using camera</span></span>
 
-1. <span data-ttu-id="4f9f6-103">Válassza a **Start**gombot, majd a **Beállítások > az adatvédelem > kamera** lehetőséget (MS-Settings: Privacy-webcam)</span><span class="sxs-lookup"><span data-stu-id="4f9f6-103">Select **Start**, then select **Settings > Privacy > Camera** (ms-settings:privacy-webcam)</span></span>
-2. <span data-ttu-id="4f9f6-104">Az alkalmazás listában keresse meg az alkalmazást a "jelenleg használatban" mezőben, és zárja be az alkalmazást.</span><span class="sxs-lookup"><span data-stu-id="4f9f6-104">In the application list, find the app with the “currently in use”, and close the application.</span></span>
+1. <span data-ttu-id="bdd74-103">Válassza **a Start** gombot, majd a > **adatvédelmi >** (ms-settings:privacy-webkamera) lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="bdd74-103">Select **Start**, then select **Settings > Privacy > Camera** (ms-settings:privacy-webcam)</span></span>
+2. <span data-ttu-id="bdd74-104">Keresse meg az alkalmazáslistában a "jelenleg használatban lévő" alkalmazást, és zárja be az alkalmazást.</span><span class="sxs-lookup"><span data-stu-id="bdd74-104">In the application list, find the app with the “currently in use”, and close the application.</span></span>

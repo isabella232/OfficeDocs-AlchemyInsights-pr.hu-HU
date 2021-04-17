@@ -1,8 +1,8 @@
 ---
-title: Az egyéni hibakezelő modul nem ismeri fel ezt a hibát az üzenet nyomon követésének letöltésekor?
+title: Az egyéni hibamodulok nem ismerik fel ezt a hibát az üzenetkövetés letöltésekor?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: 3d60a36cea90a78a31263ad78a72855c274e8e08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1dc7bb93be0ca224b2c1e5fde98d4af393d2004
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731961"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815761"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a><span data-ttu-id="06513-102">A "Custom Error Module nem ismeri fel ezt a hibát" hibaüzenet jelenik meg az üzenet nyomon követésének letöltésekor?</span><span class="sxs-lookup"><span data-stu-id="06513-102">Getting "custom error module does not recognize this error" when downloading a message trace?</span></span>
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a><span data-ttu-id="4a18f-102">"Az egyéni hibamodul nem ismeri fel ezt a hibát" üzenetkövetés letöltésekor?</span><span class="sxs-lookup"><span data-stu-id="4a18f-102">Getting "custom error module does not recognize this error" when downloading a message trace?</span></span>
 
-<span data-ttu-id="06513-103">Tudunk a problémáról, és dolgozunk a javításon.</span><span class="sxs-lookup"><span data-stu-id="06513-103">We are aware of the issue and are working on a fix.</span></span>  <span data-ttu-id="06513-104">Eközben próbálkozzon a **böngésző gyorsítótárának törlésével**, vagy a probléma megoldásához használja a InPrivate-módot.</span><span class="sxs-lookup"><span data-stu-id="06513-104">In the meantime, try **clearing your browser cache**, or using InPrivate mode to resolve this problem.</span></span>
+<span data-ttu-id="4a18f-103">Tudunk a problémáról, és dolgozunk a javításon.</span><span class="sxs-lookup"><span data-stu-id="4a18f-103">We are aware of the issue and are working on a fix.</span></span>  <span data-ttu-id="4a18f-104">Addig is, a probléma megoldásához ürítse ki a **böngésző** gyorsítótárát , vagy inPrivate-módban.</span><span class="sxs-lookup"><span data-stu-id="4a18f-104">In the meantime, try **clearing your browser cache**, or using InPrivate mode to resolve this problem.</span></span>

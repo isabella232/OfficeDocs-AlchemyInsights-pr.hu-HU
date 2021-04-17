@@ -1,8 +1,8 @@
 ---
-title: 'Defender-ügyféltől származó védelem '
+title: 'Defender ügyfél illetéktelen módosítás elleni védelme '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680506"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815581"
 ---
-# <a name="defender-tamper-protection"></a><span data-ttu-id="c9292-102">Defender-védelem elleni védelem</span><span class="sxs-lookup"><span data-stu-id="c9292-102">Defender Tamper Protection</span></span> 
+# <a name="defender-tamper-protection"></a><span data-ttu-id="542be-102">Defender illetéktelen módosítás elleni védelem</span><span class="sxs-lookup"><span data-stu-id="542be-102">Defender Tamper Protection</span></span> 
 
-<span data-ttu-id="c9292-103">A hamisított védelem miatt a rosszindulatú alkalmazások nem teszik lehetővé az alábbi műveletek meghozatalát:</span><span class="sxs-lookup"><span data-stu-id="c9292-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
+<span data-ttu-id="542be-103">Az illetéktelen módosítás elleni védelem megakadályozza, hogy a kártékony appok az alábbihoz hasonló műveleteket</span><span class="sxs-lookup"><span data-stu-id="542be-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
 
-- <span data-ttu-id="c9292-104">Vírusok és veszélyforrások elleni védelem letiltása</span><span class="sxs-lookup"><span data-stu-id="c9292-104">Disabling virus and threat protection</span></span>
-- <span data-ttu-id="c9292-105">A valós idejű védelem letiltása</span><span class="sxs-lookup"><span data-stu-id="c9292-105">Disabling real-time protection</span></span>
-- <span data-ttu-id="c9292-106">A viselkedés figyelésének kikapcsolása</span><span class="sxs-lookup"><span data-stu-id="c9292-106">Turning off behavior monitoring</span></span>
-- <span data-ttu-id="c9292-107">Víruskereső letiltása (például IOfficeAntivirus (IOAV))</span><span class="sxs-lookup"><span data-stu-id="c9292-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
-- <span data-ttu-id="c9292-108">A felhő által leszállított védelem letiltása</span><span class="sxs-lookup"><span data-stu-id="c9292-108">Disabling cloud-delivered protection</span></span>
-- <span data-ttu-id="c9292-109">Biztonsági intelligenciával kapcsolatos frissítések eltávolítása</span><span class="sxs-lookup"><span data-stu-id="c9292-109">Removing security intelligence updates</span></span>
+- <span data-ttu-id="542be-104">Vírus- és veszélyforrás-védelem letiltása</span><span class="sxs-lookup"><span data-stu-id="542be-104">Disabling virus and threat protection</span></span>
+- <span data-ttu-id="542be-105">A valós idejű védelem letiltása</span><span class="sxs-lookup"><span data-stu-id="542be-105">Disabling real-time protection</span></span>
+- <span data-ttu-id="542be-106">A viselkedésfigyelés kikapcsolása</span><span class="sxs-lookup"><span data-stu-id="542be-106">Turning off behavior monitoring</span></span>
+- <span data-ttu-id="542be-107">Víruskereső letiltása (például IOfficeAntivirus (IOAV))</span><span class="sxs-lookup"><span data-stu-id="542be-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
+- <span data-ttu-id="542be-108">Felhőalapú védelem letiltása</span><span class="sxs-lookup"><span data-stu-id="542be-108">Disabling cloud-delivered protection</span></span>
+- <span data-ttu-id="542be-109">Biztonsági intelligencia frissítésének eltávolítása</span><span class="sxs-lookup"><span data-stu-id="542be-109">Removing security intelligence updates</span></span>
 
-<span data-ttu-id="c9292-110">További részletekért olvassa el a [biztonsági beállítások védelme az illetéktelen védelemmel](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)című témakört.</span><span class="sxs-lookup"><span data-stu-id="c9292-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>
+<span data-ttu-id="542be-110">További részletekért lásd: Biztonsági beállítások védelme az illetéktelen módosítás [elleni védelemmel.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)</span><span class="sxs-lookup"><span data-stu-id="542be-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>
