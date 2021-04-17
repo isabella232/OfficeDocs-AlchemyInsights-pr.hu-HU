@@ -1,8 +1,8 @@
 ---
-title: Frissítés a helyszíni Skype vállalati verzióról csoportokba
+title: Frissítés a helyszíni Skype Vállalati verzióról Teamsre
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 3b55a91db4232e96c83a79f3f10abce1ac78a860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734769"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827362"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a><span data-ttu-id="e2910-102">Frissítés a helyszíni Skype vállalati verzióról csoportokba</span><span class="sxs-lookup"><span data-stu-id="e2910-102">Upgrade from Skype for Business on premises to Teams</span></span>
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a><span data-ttu-id="eebd6-102">Frissítés a helyszíni Skype Vállalati verzióról Teamsre</span><span class="sxs-lookup"><span data-stu-id="eebd6-102">Upgrade from Skype for Business on premises to Teams</span></span>
 
-<span data-ttu-id="e2910-103">Ha telepítette a Skype vállalati verziót vagy a Microsoft Lyncet a helyszíni verzióra, és a szervezete szeretne a Teams-ra frissíteni, kövesse az alábbi cikkben ismertetett útmutatást.</span><span class="sxs-lookup"><span data-stu-id="e2910-103">If you've deployed Skype for Business or Microsoft Lync on premises and your organization wants to upgrade to Teams, follow the guidance in the article below.</span></span> <span data-ttu-id="e2910-104">Be kell állítania a bérlői hibrid kapcsolatot, majd át kell helyeznie a felhasználókat a Teams-ba, és hozzá kell rendelnie a megfelelő együttélési és frissítési módot.</span><span class="sxs-lookup"><span data-stu-id="e2910-104">You'll need to set up hybrid connectivity with your tenant, and then move your users to Teams and assign them the appropriate coexistence and upgrade mode.</span></span> 
+<span data-ttu-id="eebd6-103">Ha a helyszínen telepítette a Skype Vállalati verzió vagy a Microsoft Lync alkalmazást, és szervezete frissíteni szeretne a Teamsre, kövesse az alábbi cikkben található útmutatást.</span><span class="sxs-lookup"><span data-stu-id="eebd6-103">If you've deployed Skype for Business or Microsoft Lync on premises and your organization wants to upgrade to Teams, follow the guidance in the article below.</span></span> <span data-ttu-id="eebd6-104">Be kell állítania a hibrid kapcsolatot a bérlői webhelyéhez, majd át kell állítania a felhasználókat a Teamsbe, és hozzájuk kell rendelnie a megfelelő társ- és frissítési módot.</span><span class="sxs-lookup"><span data-stu-id="eebd6-104">You'll need to set up hybrid connectivity with your tenant, and then move your users to Teams and assign them the appropriate coexistence and upgrade mode.</span></span> 
 
-[<span data-ttu-id="e2910-105">Frissítés a helyszíni Skype vállalati verzióról csoportokba</span><span class="sxs-lookup"><span data-stu-id="e2910-105">Upgrade from Skype for Business on-premises to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[<span data-ttu-id="eebd6-105">Frissítés a helyszíni Skype Vállalati verzióról Teamsre</span><span class="sxs-lookup"><span data-stu-id="eebd6-105">Upgrade from Skype for Business on-premises to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

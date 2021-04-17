@@ -1,8 +1,8 @@
 ---
-title: DNS-rekordok frissítése a Bluehost szolgáltatónál
+title: A DNS-rekordok frissítése a Bluehost rendszerében
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5820"
-ms.openlocfilehash: a3468ea65de7c1a8b7469ef4859d1c832e16c821
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ae896816dfe1308e4f1e455fce563e72f2b9617
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657719"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827650"
 ---
-# <a name="update-dns-records-at-bluehost"></a><span data-ttu-id="d96cc-102">DNS-rekordok frissítése a Bluehost szolgáltatónál</span><span class="sxs-lookup"><span data-stu-id="d96cc-102">Update DNS records at Bluehost</span></span>
+# <a name="update-dns-records-at-bluehost"></a><span data-ttu-id="eb53d-102">A DNS-rekordok frissítése a Bluehost rendszerében</span><span class="sxs-lookup"><span data-stu-id="eb53d-102">Update DNS records at Bluehost</span></span>
 
-<span data-ttu-id="d96cc-103">A DNS-rekordok frissítéséhez használja az alábbi hivatkozásokat.</span><span class="sxs-lookup"><span data-stu-id="d96cc-103">Use the links below to help update your DNS records.</span></span>
+<span data-ttu-id="eb53d-103">Az alábbi hivatkozások segíthetnek a DNS-rekordok frissítésében.</span><span class="sxs-lookup"><span data-stu-id="eb53d-103">Use the links below to help update your DNS records.</span></span>
 
-- [<span data-ttu-id="d96cc-104">DNS-rekordok létrehozása a Bluehost szolgáltatónál</span><span class="sxs-lookup"><span data-stu-id="d96cc-104">Create DNS records at Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
-- [<span data-ttu-id="d96cc-105">Egyéni DNS-rekordok hozzáadása és szerkesztése az Office 365 rendszerben</span><span class="sxs-lookup"><span data-stu-id="d96cc-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [<span data-ttu-id="eb53d-104">DNS-rekordok létrehozása a Bluehost rendszerében</span><span class="sxs-lookup"><span data-stu-id="eb53d-104">Create DNS records at Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
+- [<span data-ttu-id="eb53d-105">Egyéni DNS-rekordok hozzáadása és szerkesztése az Office 365 rendszerben</span><span class="sxs-lookup"><span data-stu-id="eb53d-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
