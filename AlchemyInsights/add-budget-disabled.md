@@ -1,8 +1,8 @@
 ---
-title: Miért le van tiltva a költségvetés hozzáadása gomb?
+title: Miért van letiltva a Költségvetés hozzáadása gomb?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,85 +12,85 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 18edad73f617ba180cb08576ee6e5fa8faf07128
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807410"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822637"
 ---
-# <a name="why-is-the-add-budget-button-disabled-for-me"></a>Miért le van tiltva a költségvetés hozzáadása gomb?
+# <a name="why-is-the-add-budget-button-disabled-for-me"></a>Miért van letiltva a Költségvetés hozzáadása gomb?
 
-Költségvetés létrehozásához az alábbi engedélyek egyikére van szükség:
+Költségvetés létrehozásához az alábbi engedélyek valamelyikére van szükség:
 
-- Felügyeleti csoport, előfizetés, erőforráscsoport-hatókörök
-- Cost Management munkatárs
+- Management Group, Subscription, Resource Group Scopes
+- Költségkezelési munkatárs
 - Tulajdonos
-- Közreműködői
-- Csak nagyvállalati ügyfél: beiratkozási, Részlegi, fiók-hatókörök
-- Beiratkozási rendszergazda (költségvetés beállítása a beiratkozási hatókörben)
-- Department admin (költségvetés beállítása a részleg hatókörében)
-- Fiók tulajdonosa (költségvetés beállítása a fiók hatókörében)
-- Csak modern ügyfél-szerződés: számlázási fiók, számlázási profil, számla szakasz hatókörök
-- Azure előfizetés-készítő
+- Közreműködő
+- Csak nagyvállalati ügyfél esetén: Regisztráció, Részleg, Fiókhatókörök
+- Regisztrációs rendszergazda (költségvetés beállítása a Regisztráció hatókörében)
+- Részleg rendszergazdája (költségvetés beállítása a részleg hatókörében)
+- Fióktulajdonos (költségvetés beállítása a fiók hatókörében)
+- Csak modern ügyfélszerződés: Számlázási fiók, számlázási profil, számlaszakaszok hatóköre
+- Azure-előfizetés létrehozója
 
-**Létrehozott egy költségvetést, ha az aktuális hónapra vonatkozó költségem már túl volt a költségvetésben. Miért nem kaptam figyelmeztetést?**  
-Ha már túllépte a megadott költség küszöböt, ha olyan költségvetést hoz létre, amelyet a riasztás nem fog tüzet. Ha megszegi a küszöböt, az új ciklus megkezdése után a riasztás tüzet fog látni.
+**Létrehozottam egy költségvetést, amikor az aktuális hónapra vonatkozó költség már túl lett kért. Miért nem tudok riasztást kapni?**  
+Ha a költségvetés létrehozásakor már túllépte a megadott küszöbértéket, akkor a riasztás nem lép hető fel. Ha egy új ciklus kezdődik, és megszegi a küszöbértéket, a riasztás kigyullad.
 
-**Mikor kell figyelmeztetést kapni arra az esetre, ha túlléptem a meghatározott költségvetés-riasztási küszöbök egyikét?**  
-A költségvetés 4 óránként kerül kiértékelésre. A használati adatok eléréséhez legalább 8 óra szükséges a költségvetések rendszeréhez. Tekintettel arra, hogy a határértékek túllépése után a riasztások akár 12 órát is igénybe vehetnek.
+**Mikor számíthatok riasztásra, ha túllépem valamelyik tervezett riasztási küszöbértékemet?**  
+A költségvetések kiértékelése 4 óránként történik. A használati adatoknak legalább 8 óra alatt el kell érnie a költségvetési rendszert. A riasztások így akár 12 órát is igénybe vehetnek, miután túllépte a küszöbértéket.
 
-**Miért van letiltva a kezdési dátum gomb, amikor kijelölek egy hónap vagy számlázási hónap reset időszakot?**  
-A költségvetések az aktuális naptári hónaphoz vagy az aktuális számlázási időszakhoz igazodnak (abban az esetben, ha a számlázási hónap elem van kiválasztva). Így előre kitöltjük ezt az értéket.
+**Miért van letiltva a Kezdő dátum gomb a Hónap vagy a Számlázás hónap alaphelyzetbe állítási időszakának kiválasztásakor?**  
+A költségvetések az aktuális naptári hónaphoz vagy az aktuális számlázási időszakhoz vannak igazítva (ebben az esetben a Számlázási hónap beállítás van kiválasztva). Ezért ezt az értéket előre kitöltjük Önnek.
 
-**Miért nem látható a költségeim grafikonja a költségvetés-készítési felületen?**  
-Ahhoz, hogy a diagramot a költségvetés létrehozásakor segítse, legalább 2 hónapig kell lennie a költség adatoknak.
+**Miért nem látom a költségek grafikont a költségvetés-létrehozási élményben?**  
+Legalább 2 hónapos költségadatra van szükségünk ahhoz, hogy megjelenítsünk egy grafikont, amely segíti a költségvetés létrehozását.
 
-**Miért nem tudok költségvetést beállítani az imént létrehozott előfizetéshez?**  
-Az előfizetés létrehozása után az 24-48 órákba telik, amíg a költségvetést nem állítja be.
+**Miért nem tudok költségvetést beállítani egy éppen létrehozott előfizetéshez?**  
+Az előfizetés létrehozása után az adatok feldolgozása 24–48 órát vesz igénybe, mielőtt költségvetést hoz létre hozzá.
 
-**Költségvetési API-források**
+**Budget API Resources**
 
-- [Költségvetés API v1](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support): a költségvetések létrehozására és frissítésére szolgáló műveleteket nyújt. A költségvetés API-t használva megadhat egy költségvetési küszöböt, és több riasztást is beállíthat, miközben a küszöböt közelíti meg. Az értesítésekkel elindíthat egy e-mailt vagy egy Azure-műveleti csoportot az automatizálás végrehajtásához. Megjegyzés: az API szűrése nem igazodik a Query API szűrési és méretekkel.
-- [Költségvetés API v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): költségvetések létrehozása nagyobb költség-szűrési lehetőségekkel, mint a v1. A lekérdezésben és a méretek API-ban használt szerződéshez igazítja a szűrést. Ez az ajánlott költségvetés API a továbblépés használatához.
-- [Dimenziók](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support): a különböző hatókörökhöz tartozó támogatott méretek elérésére szolgáló műveleteket nyújt. A Dimensions API segítségével megkeresheti azokat a dimenziókat, amelyek bemenetként használhatók a Query API-val való lekérdezések generálásához.
-- [Lekérdezés](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support): a megadott lekérdezés alapján összesített költség-és használati adatokat jelenít meg. A lekérdezési API-t használva megadhatja a kívánt szűrést, rendezést és csoportosítást az összes elérhető dimenzión (amely a dimenziók API-val érhető el).
+- [Budgets API v1](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support): Műveleteket biztosít a költségvetések létrehozásához és frissítéséhez. A KöltségvetésEK API-val beállíthatja a költségvetés küszöbértékét, és több riasztást is konfigurálhat a küszöbérték beállításakor. A riasztások elindíthatja az e-maileket vagy az Azure-műveletcsoportokat automatizálási műveletek elvégzéséhez. Megjegyzés: Az API-hoz való szűrés nem igazodik a Lekérdezési API szűrési és dimenzióihoz.
+- [Budgets API v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): Hozzon létre költségvetéseket a v1-esnél nagyobb költségszűrési lehetőségekkel. A szűrés igazodik a Lekérdezés és a Dimenzió API-kban használt szerződéshez. Ez a tovább való használathoz ajánlott költségvetési API.
+- [Dimenziók:](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support)Műveleteket biztosít a különböző hatókörök szerinti használat támogatott dimenzióinak lekérthez. A Dimenziók API használatával lekérheti a dimenziók listáját, amelyek a Lekérdezés API-val lekérdezések létrehozásához használhatók.
+- [Lekérdezés:](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support)Műveleteket biztosít az összesített költség- és használati adatok be szerezni a lekérdezés alapján. A lekérdezési API-val megadhatja a kívánt szűrési, rendezési és csoportosítási beállításokat az összes elérhető dimenzió szerint (ezek a Méretek API-ból érhetők el).
 
-**Előrejelzett költségek**
+**Előre jelzett költségek**
 
-**Miért nem látom az előrejelzéseket a költség-elemzés költségei között?**  
-Több oka lehet annak, ha az előrejelzési vetületek a költség-elemzésben hiányoznak, néhányuk az alábbiak szerint történik:
+**Miért nem látom a költségek előrejelzését a Költségelemzésben?**  
+Több oka is lehet annak, ha az előrejelzési előrejelzés hiányzik a Költségelemzés eszközből, ezek némelyike a következő:
 
-1. Ha a költség adatértéke 10 napnál régebbi, akkor az előrejelzési diagram nem töltődik be. A modellnek a pontos előrejelzésekhez legalább 10 napig kell bemutatnia a legutóbbi költséget.
-2. Ha a történelmi dátumok lehetőséget választotta, akkor az előrejelzési diagram nem jelenik meg. Adja meg a dátumtartományt az előrejelzési diagram jövőbeli dátumait tartalmazó dátumtartomány megadásához.
-3. Ha a fiókja több pénznemet tartalmaz, az előrejelzési diagram csak az "USD-es költség" projekt költségeit fogja tartalmazni.
+1. Ha a költségadatok kevesebb mint 10 naposak, az előrejelzési diagram nem töltődik be. A modellhez legalább 10 nap friss költségadat szükséges a pontos előrejelzéshez.
+2. Ha régi dátumokat jelölt ki, akkor az előrejelzési diagram nem lesz látható. Válasszon egy jövőbeli dátumokat megjelenítő dátumtartományt az előrejelzési diagram megjelenítéséhez
+3. Ha a számla pénzneme több, az előrejelzési diagramon csak a "Minden költség USD-
 
-**Miért nem változik az előrejelzés, ha módosításokat végezek az erőforrások között?**  
-Az előrejelzési modellnek több napra van szüksége a fiók változásainak elvégzéséhez, és nem lehet az erőforrásokban való változáson alapuló azonnali előrejelzések  
-Ha nagyobb mértékben szeretné növelni vagy csökkenteni az erőforrásokat, a modell kissé tovább fog tartani ahhoz, hogy ezek a változások figyelembe vegyék a rendellenességeket
+**Miért nem változik meg az előrejelzés az erőforrások módosításakor?**  
+Az előrejelzési modellnek néhány napig kell figyelembe vennie a fiók változásait, és nem vet ki azonnali előrejelzést az erőforrások változásai alapján.  
+Az erőforrások növelésének vagy csökkentésének nagyobb lépései esetén a modellhez kissé tovább fog tartani a módosításokhoz való igazodás, hogy figyelembe vegye az eltéréseket.
 
-**Miért jelenik meg az előrejelzésem a foglalás vagy a piactér vásárlása után?**  
-Az előrejelzési modell a tényleges költséget veszi figyelembe, és nem veszi figyelembe a használatot és a vásárlást külön-külön. Egyszeri vásárlás esetén a modell 10 nap elteltével csökkenti a prognózist a költségek hirtelen emelkedésének figyelembevétele érdekében.
+**Miért növeli az előrejelzésem a foglalás vagy a Piactér megvásárlását követően?**  
+Az előrejelzési modell figyelembe veszi az Ön tényleges költségét, és nem veszi figyelembe külön a használatot és a vásárlást. Az egyszer megvásárolható modell 10 nap után csökkenti a kivetítéseket, hogy figyelembe véve a költségek hirtelen növekedését
 
-**Szeretném megtekinteni az előrejelzéseket egyetlen dimenzióra (például. Állapotjelzője**  
-Az előrejelzés jelenleg a teljes költség előrejelzését támogatja, az egyes mérőórák esetében nem. Így, ha egy dimenzió szerint csoportosítva van, a kivetítések a dimenzióban szereplő összes elem összegét fogják tartalmazni.
+**Egyetlen dimenzióra (például) vonatkozó előrejelzéseket szeretnék látni Méter)**  
+Az előrejelzés jelenleg nem egyedi méterenként, de teljes költségvetületeket támogat. Ezért ha a "Csoportosítás" dimenzió szerint történik, akkor a kivetítés a dimenzió összes tételének összege lesz.
 
 **Ajánlott dokumentumok**
 
 - [Mi az Azure Cost Management?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Gyakorlati tanácsok az Azure Cost-kezeléshez](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [A költségek és a kiadások elemzése](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [A költség-elemzés költségeinek feltárása és elemzése](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Azure költség-kezelés: árak](https://azure.microsoft.com/services/cost-management/#pricing)
-- [A költség-elemzés költségeinek áttekintése](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
-- [Videó oktatóprogram: költségvetés létrehozása az Azure portálon](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
-- [Költségvetések megtekintéséhez és testreszabásához szükséges előfeltételek](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#prerequisites)
+- [Ajánlott eljárások az Azure Költségkezeléshez](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Költségek és kiadások elemzése](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Költségek feltárása és elemzése költségelemzéssel](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure Cost Management: Díjszabás](https://azure.microsoft.com/services/cost-management/#pricing)
+- [Költségek áttekintése a költségelemzésben](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
+- [Oktatóvideó: Költségvetés létrehozása az Azure Portalon](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
+- [A költségvetések megtekintésének és testreszabásának előfeltételei](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#prerequisites)
 - [Költségvetések létrehozása és kezelése](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#create-a-budget-in-the-azure-portal)
-- [Az automatizálás beállítása az Azure műveleti csoportokkal és a költségvetések API-val](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
-- [Használati és kiadások figyelése a Cost riasztásokkal](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Gyakorlati tanácsok a Cost-kezeléshez](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Automatizálás konfigurálása az Azure Action Groups és Budgets API-val](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
+- [Használati és kiadások figyelése költségriasztásokkal](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Ajánlott eljárások költségkezeléshez](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Oktatóanyagok a videókhoz**
+**Oktatóvideók**
 
-- [Költségvetés létrehozása az Azure portálon](https://go.microsoft.com/fwlink/?linkid=2146761)
-- [Költségek kezelése a költségvetés API-val és a műveleti csoportokkal](https://go.microsoft.com/fwlink/?linkid=2147038)
+- [Költségvetés létrehozása az Azure Portalon](https://go.microsoft.com/fwlink/?linkid=2146761)
+- [Költségek kezelése a Költségvetés API-val és a műveletcsoportokkal](https://go.microsoft.com/fwlink/?linkid=2147038)

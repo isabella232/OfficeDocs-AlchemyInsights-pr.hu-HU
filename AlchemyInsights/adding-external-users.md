@@ -1,8 +1,8 @@
 ---
-title: Külső felhasználók felvétele
+title: Külső felhasználók hozzáadása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: b54a5f9eb53d777eb97cc5523a4ed3b64a4a5812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ac235dd78f942dac4e9ec52af202d97439e61a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663443"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822097"
 ---
-# <a name="adding-external-users"></a>Külső felhasználók felvétele
+# <a name="adding-external-users"></a>Külső felhasználók hozzáadása
 
-A külső/vendég felhasználók hozzáadásának lépései eltérhetnek attól függően, hogy mire van szüksége ahhoz, hogy hozzáférhessen. Kérjük, válasszon az alábbi lehetőségek közül:
+A külső/vendégfelhasználók felvételének lépései attól függően változhatnak, hogy ön mire van szükség ahhoz, hogy el tudjanak férni. Válasszon az alábbi lehetőségek közül:
   
-- [Külső megosztás áttekintése a SharePoint Online-ban](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+- [A SharePoint Online külső megosztási áttekintése](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [A vendégek hozzáférése a Microsoft 365-csoportokban](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [Vendég hozzáférés a Microsoft 365-csoportokban](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [Vendégek hozzáférése a Microsoft Teams alkalmazásban](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Vendég hozzáférés a Microsoft Teamsben](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

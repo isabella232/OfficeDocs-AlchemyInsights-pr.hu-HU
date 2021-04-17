@@ -1,8 +1,8 @@
 ---
-title: Átfedés felvétele SharePoint-naptárba
+title: Átfedés hozzáadása SharePoint-naptárhoz
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 62db9568f228d0a14413c1678b47cfb09a3d25c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663371"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822061"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Átfedés felvétele SharePoint-naptárba
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Átfedés hozzáadása SharePoint-naptárhoz
 
-A SharePoint-naptárak olyan klasszikus fájltípusok, amelyeket a Microsoft 365 csoport naptárai időnként összetévesztenek.
+A SharePoint-naptárak olyan klasszikus listatípusok, amelyek néha összetévesztendők a Microsoft 365-ös csoportnaptárokkal.
  
-Ha SharePoint-naptárt használ a webhelyen, akkor a saját Exchange-naptárát átfedő módon is létrehozhatja az egyesített naptár nézet létrehozásához. Azt is megteheti, hogy egy másik SharePoint-naptárat is átfedő, amíg a SharePoint-naptárak ugyanazon a webhelycsoportban találhatók.
+Ha SharePoint-naptárt használ a webhelyén, átfedésbe hozhatja vele saját Exchange-naptárát, és így egyesített naptárnézetet hozhat létre. Másik lehetőségként átfedésbe is hagyhat egy másik SharePoint-naptárt, ha mindkét SharePoint-naptár ugyanabban a webhelycsoportban található.
  
-Ha egy klasszikus SharePoint-naptárba szeretne átfedőt hozzáadni, kövesse az [átfedő SharePoint-naptár befedése naptárból az Exchange-ből vagy a sharepointból](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)című témakör lépéseit.
+Ha átfedést szeretne hozzáadni egy klasszikus SharePoint-naptárhoz, kövesse a SharePoint-naptár átfedésbe hozása Exchange- vagy [SharePoint-naptárral lépéseit.](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)

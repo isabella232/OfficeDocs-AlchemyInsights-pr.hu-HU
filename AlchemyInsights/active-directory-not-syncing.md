@@ -1,8 +1,8 @@
 ---
-title: Az Active Directory nem szinkronizálódik
+title: Az Active Directory nem szinkronizál
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697631"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822853"
 ---
-# <a name="active-directory-not-syncing"></a>Az Active Directory nem szinkronizálódik
+# <a name="active-directory-not-syncing"></a>Az Active Directory nem szinkronizál
 
-Ha szinkronizálási hibákat kap, például "nincs legutóbbi szinkronizálás" vagy a címtár-szinkronizálási állapot megtekintése az Office felügyeleti portálon, a "legutóbbi, több mint 3 nappal korábban szinkronizált" üzenet jelenik meg, előfordulhat, hogy a AADConnect helytelen beállításokkal rendelkezik, vagy nem elegendő jogosultsága van a szinkronizálás elvégzéséhez.  
+Ha szinkronizálási hibákat kap (például "nincs legutóbbi szinkronizálás", vagy ha az Office felügyeleti portálján a címtár-szinkronizálás állapota a következőt jelenti: "Utolsó szinkronizálás több mint 3 napja", akkor lehet, hogy az AADConnect helytelen beállításokkal rendelkezik, vagy nincs elég engedélye a szinkronizálás végrehajtásához.  
 
-A AADConnect újratelepítése az Express beállítások segítségével gyorsan megoldhatja a problémát:
+Az AADConnect gyorsbeállításokkal való újratelepítése gyorsan megoldhatja a problémát:
 
-1. [Töltse le a AADConnect legújabb verzióját](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Töltse le az AADConnect legújabb verzióját.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Kövesse az Express telepítéssel kapcsolatos útmutatást](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Kövesse a gyors telepítés utasításait.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-A AADConnect további információt az [Azure ad Connect: fiókok és engedélyek](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)című témakörben találhat.
+Az AADConnect szolgáltatásfiókokkal kapcsolatos további információkért lásd: [Azure AD Connect: Fiókok és engedélyek.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)

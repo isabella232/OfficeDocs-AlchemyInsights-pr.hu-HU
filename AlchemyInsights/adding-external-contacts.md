@@ -2,7 +2,7 @@
 title: Külső partnerek felvétele
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: 9156ca73831e6c286fc616f9303309dc05d3232c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697055"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822133"
 ---
-# <a name="enable-external-communications-and-add-contacts"></a>A külső kommunikáció engedélyezése és a partnerek felvétele
+# <a name="enable-external-communications-and-add-contacts"></a>Külső kommunikáció engedélyezése és partnerek felvétele
 
-A Skype vállalati verzióban hozzáadhat személyeket a partnerek listához, hogy csak egy kattintással legyenek láthatók. A program minden felvett partnert besorol egy vagy több partnercsoportba. További információért tekintse át [a partnerek felvétele a Skype vállalati](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) verzióban című témakört. 
+A Skype Vállalati verzióban felvehet személyeket a partnerlistába, hogy csak egy kattintással elérhetőek legyen. A program minden felvett partnert besorol egy vagy több partnercsoportba. További [információ:](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) Partner felvétele a Skype Vállalati verzióban. 
 
-Győződjön meg arról, hogy a bérlői rendszergazdája követte a [külső kommunikáció engedélyezésének](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)lépéseit.
+Ellenőrizze, hogy a bérlői rendszergazda követte-e a Külső kommunikáció [engedélyezése című témakör lépéseit.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-Csak azt szeretné, hogy a felhasználók engedélyezzenek a Skype-felhasználókkal való felkeresést? Lásd: a Skype [vállalati verzió felhasználóinak felvétele a Skype-partnerek](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)közé. 
+Csak azt szeretné engedélyezni a felhasználóknak, hogy kapcsolatba lépjenek a fogyasztói Skype-felhasználókkal? Lásd: Skype Vállalati verziós partnerek felvételének engedélyezése a [Skype Vállalati verzió felhasználói számára.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts) 

@@ -2,7 +2,7 @@
 title: Másik e-mail-alias hozzáadása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fc3f73e1c186b9296a6780b5438ec85a66dee713
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571667"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822673"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Felhasználó e-mail-aliasának létrehozása vagy hozzáadása
+# <a name="create-or-add-an-email-alias-for-a-user"></a>E-mail-alias létrehozása vagy hozzáadása egy felhasználóhoz
 
-Létre kell hoznia egy e-mail-aliast egy felhasználóhoz, vagy fel kell vennie egy további e-mail-címet? Csak kövesse ezeket a lépéseket!
+Létre kell hoznia egy e-mail-aliast egy felhasználóhoz, vagy fel kell felvennie egy további e-mail-címet? Egyszerűen kövesse ezeket a lépéseket.
   
-1. A Microsoft 365 felügyeleti központban lépjen a [felhasználók](https://go.microsoft.com/fwlink/p/?linkid=834822) lapra, **vagy válassza az**  >  **aktív felhasználók** elemet.
+1. A Microsoft 365 Felügyeleti központban kattintson a Felhasználók [lapra,](https://go.microsoft.com/fwlink/p/?linkid=834822) vagy válassza a **Felhasználók** aktív  >  **felhasználók lehetőséget.**
     
 2. Az **Aktív felhasználók** lapon jelölje ki a szerkeszteni kívánt személy nevét. 
     
 3. A jobb oldali **Felhasználó/E-mail-aliasok** sorban válassza a **Szerkesztés** lehetőséget.
     
-4. Az **alias** mezőbe írjon be egy új e-mailt, majd válassza a **Hozzáadás gombot**. Ha a GoDaddytől vagy más partnerünktől vásárolta az előfizetést, akkor a GoDaddy vagy a partner felügyeleti konzoljára bejelentkezve kell átállítania az új aliast elsődlegessé. 
+4. Az Alias **mezőbe** írjon be egy új e-mailt, és válassza a Hozzáadás **gombot.** Ha a GoDaddytől vagy más partnerünktől vásárolta az előfizetést, akkor a GoDaddy vagy a partner felügyeleti konzoljára bejelentkezve kell átállítania az új aliast elsődlegessé. 
     
-    **Fontos**: Ha a következő hibaüzenet jelenik meg: " **egy paraméter nem található, amely megfelel a paraméter nevének" EmailAddresses**", az azt jelenti, hogy egy kicsit hosszabb ideig tart a Microsoft számára a bérlő vagy az egyéni tartomány beállításának befejezéséhez, ha nemrégiben felvett egyet. A beállítási folyamat akár 4 órát is igénybe vehet. Várjon, amíg befejeződik a beállítás, majd próbálkozzon újra. Ha a probléma továbbra sem szűnik meg, hívja fel az ügyfélszolgálatot, és ők elvégzik Ön helyett a teljes szinkronizálást.
+    **FONTOS:** Ha a "Nem található az **'EmailAddresses'** paraméternévnek megfelelő paraméter" hibaüzenet jelenik meg, az azt jelenti, hogy a Microsoftnak tovább fog tartani a bérlői fiók vagy az egyéni tartomány (ha nemrég felvett egyet) beállítása. A beállítási folyamat akár 4 órát is igénybe vehet. Várjon, amíg befejeződik a beállítás, majd próbálkozzon újra. Ha a probléma továbbra sem szűnik meg, hívja fel az ügyfélszolgálatot, és ők elvégzik Ön helyett a teljes szinkronizálást.
     
-    Az új alias életbe léptetése általában körülbelül 30 percet vesz igénybe.
+    Az új alias életbe lép körülbelül 30 percet vesz igénybe.
     
-    **További részletekért olvassa el a következő témakört:** további [e-mail alias hozzáadása egy felhasználóhoz](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
+    **További információt a következő cikkben talál:** Másik e-mail [alias hozzáadása egy felhasználóhoz](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
     
 
