@@ -2,7 +2,7 @@
 title: Új Office 365 E1 próbaverzió
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: dfde60184374c3031a645f1193ea164f246bed92
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: fc2f20488e55f73ed2437220d3fd56ff64848450
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086086"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825193"
 ---
 # <a name="new-office-365-e1-trial"></a>Új Office 365 E1 próbaverzió
 
-A 2020 július 1-től az Office 365 E1 próbaverziós licenc már nem érhető el. Ha licenccel kell rendelkeznie a Microsoft Teams felhasználói számára, olvassa el a Teams-t tartalmazó fizetős előfizetések listáját a [Microsoft Teams szolgáltatás leírása](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) című témakörben. Másik lehetőségként a jogosult szervezetek használhatják a [Teams ingyenes verzióját](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c), vagy az alkalmazottak aktiválhatja a [Teams feltáró](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) felületét.
+2020. július 1-jétől már nem érhető el az Office 365 E1 próbalicenc. Ha licencre van szüksége a Microsoft Teams felhasználóinak, olvassa el a [Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) szolgáltatásleírását a Teamst is magában foglaló fizetős előfizetések listájához. Másik lehetőségként a jogosult szervezetek használhatjak a [Teams ingyenes](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)verzióját, vagy az alkalmazottak aktiválni is vehetik a [Teams felfedezési](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) élményét.

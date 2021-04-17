@@ -1,8 +1,8 @@
 ---
-title: Az Android melyik verzióját támogatja az alkalmazás?
+title: Az Android melyik verzióját támogatja az app?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773057"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824185"
 ---
-# <a name="what-version-of-android-does-your-app-support"></a>Az Android melyik verzióját támogatja az alkalmazás?
+# <a name="what-version-of-android-does-your-app-support"></a>Az Android melyik verzióját támogatja az app?
 
-A legjobb teljesítmény érdekében az App minden olyan eszközön működik, amelyen Android 5,0-es vagy újabb verziót használ.
+A legjobb teljesítmény érdekében appunk bármilyen, Android 5.0-s vagy újabb verziójú eszközön működik.
 
-Ha naprakész az Android RENDSZERű számítógépén, de még mindig értesítést kap arról, hogy az operációs rendszer nem kompatibilis az eszközével, próbálkozzon a Play Store app gyorsítótárának és adatainak törlésével.
+Ha naprakész az Android operációs rendszerén, de továbbra is értesítéseket kap arról, hogy az operációs rendszer nem kompatibilis az eszközzel, kérjük, próbálkozzon a Play Store app gyorsítótárának és adatainak a kiürítését.
 
 Teendők: 
 
-1. Android-telefonján vagy-táblaszámítógépén nyissa meg a **Beállítások** , majd az **alkalmazások** vagy az **alkalmazások**lapot.
+1. Android-telefonon vagy -táblagépen nyissa meg a Beállítások, **majd** **az Alkalmazások vagy** az Alkalmazások **alkalmazást.**
 
-2. A képernyő tetején koppintson az **egyebek** elemre (ez lehet három pont vagy három függőleges pont is), majd a **rendszer megjelenítése**elemre. 
+2. A képernyő tetején koppintson az Egyéb **(ez** lehet egy három pontra vagy három függőleges pontra is), majd a **Rendszer megjelenítése ére.** 
 
-3. Görgessen le, és koppintson a **Google Play Services**elemre. 
+3. Görgessen le, és koppintson a **Google Play-szolgáltatások szolgáltatásokat stb.** 
 
-4. Koppintson a **tárterület** , majd a **gyorsítótár ürítése**elemre. 
+4. Koppintson **a Tárterület,** majd **a Gyorsítótár ürítése ra.** 
 
-5. Koppintson a **tárterület kezelése** elemre, és **törölje az összes adatot**. 
+5. Koppintson **a Tárhely kezelése,** majd **az Összes adat ürítása ra.** 
 
-6. Nyissa meg a **Google Play áruházat**. 
+6. Nyissa meg **a Google Play Áruházat.** 
 
 7. Várjon 5 percet, majd próbálkozzon újra. 

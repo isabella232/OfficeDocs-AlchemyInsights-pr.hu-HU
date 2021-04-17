@@ -1,8 +1,8 @@
 ---
-title: Probléma van a vágólapkal
+title: Probléma van a vágólapgal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: b66f3bf4eb6b0354b7e30c89dc1b049cb0f5b8ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750273"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824653"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Az Excel vágólapjának hibáinak megoldása
+# <a name="resolving-excel-clipboard-error"></a>A vágólapra vonatkozó Excel-hiba megoldása
 
-Ha hibaüzenet jelenik meg az Excelben, amely szerint a következőhöz hasonló hibaüzenet jelenik meg: "probléma van a vágólapon, de továbbra is beillesztheti a tartalmat a munkafüzetbe, a következő lépésekkel letilthatja az élő előnézeti funkciót:
+Ha az Excelben a következő hibaüzenet jelenik meg: "Probléma van a vágólapgal, de a tartalmat beillesztheti a munkafüzetbe", tiltsa le az Élő minta funkciót az alábbi lépésekkel:
 
-1. Az Excelben kattintson a **fájl**  >  **beállításai**elemre.
-3. Az Excel beállításai párbeszédpanelen válassza az **általános** **kategóriát** .
-4. A **felhasználói felület beállításai**csoportban törölje a jelet az **élő minta engedélyezése**jelölőnégyzetből.
+1. Az Excelben kattintson a **Fájlbeállítások**  >  **gombra.**
+3. Az **Excel beállításai párbeszédpanelen** válassza az Általános **lehetőséget.**
+4. A **Felhasználói felület beállításai csoportban** törölje az Élő minta engedélyezése **lehetőséget.**
 5. Kattintson az **OK** gombra.
 6. Indítsa újra az Excelt.

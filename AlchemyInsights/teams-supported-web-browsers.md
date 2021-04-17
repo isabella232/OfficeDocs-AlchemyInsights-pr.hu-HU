@@ -1,8 +1,8 @@
 ---
-title: A Teams által támogatott böngészők
+title: A Teams által támogatott webböngészők
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 7ede4f52740835b0690648ad17cafbea50929f61
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26701aa868930784e7bf968b7799175fa0f3f80b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750525"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824689"
 ---
-# <a name="teams-supported-web-browsers"></a>A Teams által támogatott böngészők
+# <a name="teams-supported-web-browsers"></a>A Teams által támogatott webböngészők
 
-A Teams teljes mértékben támogatja a [Microsoft Teams cikkeiben, korlátaiban és előírásainak](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)listájában szereplő internetes böngészőket, a hívásokra és értekezletekre vonatkozó Meghívási kivételekkel
+A Teams teljes mértékben támogatja a [Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)korlátai és specifikációi (a hívásra és az értekezletekre vonatkozó kivételek kivételével) cikkben felsorolt böngészőket.

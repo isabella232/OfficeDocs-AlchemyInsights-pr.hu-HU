@@ -1,8 +1,8 @@
 ---
-title: Bejelentkezési problémák a Teams alkalmazásban
+title: A Teams bejelentkezési problémái
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2688"
 - "9000744"
-ms.openlocfilehash: c3c1933a00fdb4cb0a71e6cbd19f499cb789957b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f484015d8a96730443ef4b35da5ec59af2419a55
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750669"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824725"
 ---
-# <a name="troubleshooting-teams-sign-in"></a>A Teams-bejelentkezés hibaelhárítása 
+# <a name="troubleshooting-teams-sign-in"></a>A Teamsbe való bejelentkezés hibaelhárítása 
 
-Problémákat tapasztal a Microsoft Teams-ba való bejelentkezéskor? További információt az alábbi cikkekben találhat.
+Nem jelentkezik be a Microsoft Teamsbe? További információt az alábbi cikkekben talál.
 
-- [Miért tapasztalok problémát a Microsoft Teams-ba való bejelentkezéskor?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
+- [Miért nem tudok bejelentkezni a Microsoft Teamsbe?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
 - [A Microsoft Teams beragadt egy bejelentkezési hurokba az Edge-ben vagy az Internet Explorerben](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
-- [Az állapotkód a Microsoft Teams 4c7 hibaüzenetet kapja hibája](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
-- [Hogyan érhetem el a Microsoft Teams elérését?](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)
+- [Az állapotkódja 4c7-es hiba a Microsoft Teamsben](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
+- [Hogyan lehet hozzáférni a Microsoft Teamshez?](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)

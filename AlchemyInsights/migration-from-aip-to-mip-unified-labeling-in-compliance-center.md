@@ -1,8 +1,8 @@
 ---
-title: Áttelepítés az e-től a MIP-be/egységes címkékre a megfelelőségi központban
+title: Áttelepítés AIP-ről MIP-re/egyesített címkézésre a Megfelelőségi központban
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 7157eada10db2443f64fb7925f408359275d75eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674328"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825373"
 ---
-# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Áttelepítés az e-től a MIP-be/egységes címkékre a megfelelőségi központban
+# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Áttelepítés AIP-ről MIP-re/egyesített címkézésre a Megfelelőségi központban
 
-A biztonsági és megfelelőségi központban történő áttelepítéshez az "az":
+Az AIP-címkékről az Egyesített címkézésre való áttelepítéshez a Biztonsági és megfelelőségi központban tegye a következőket:
 
-**A védelem aktiválása az Azure portálról**
+**Az Azure Portal védelmének aktiválása**
 
-1. Ha még nem tette meg, nyisson meg egy új böngészőablakot, és [bejelentkezhet az Azure portálra](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Nyissa meg az **Azure Information Protection** Blade című témakört. A hub menüben például kattintson a **minden szolgáltatás** elemre, és írja be az **adatokat** a szűrő mezőbe. Válassza az **Azure Information Protection (Azure adatvédelem**) lehetőséget. Ha még nem fér hozzá az Azure Information Protection Blade szolgáltatáshoz, olvassa el az egyszer használható [további lépéseket](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) a penge a portálra való felvételéhez. Az Azure Protection Blade megnyitásához az [Azure Information Protection Premium csomaggal](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) vagy a Rights managementt tartalmazó Office 365-csomaggal kell rendelkeznie. Ha az előfizetések egyike van, de nem találja az érvényes előfizetést, [forduljon a Microsoft ügyfélszolgálatához](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) vagy használja a szokásos támogatási csatornákat.
+1. Ha még nem tette meg, nyisson meg egy új böngészőablakot, és jelentkezzen be [az Azure Portalba.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Lépjen az **Azure Information Protection blade (Azure Information Protection) lapra.** A központ menüben például  kattintson a Minden  szolgáltatás elemre, és kezdje el beírni az Információ szöveget a Szűrő mezőbe. Válassza az **Azure Information Protection (Azure Information Protection) lehetőséget.** Ha még nem fért hozzá az Azure Information Protection [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) blade-hez, tekintse meg a blade felvételének egyszeres további lépéseit a portálra. Az Azure Information Protection blade megnyitásához [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) csomag vagy a Rights Managementet tartalmazó Office 365-csomag szükséges. Ha rendelkezik az alábbi előfizetések egyikével, de üzenet jelenik meg arról, hogy nem található érvényes előfizetés, forduljon a [Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) ügyfélszolgálatához, vagy használja a szokásos támogatási csatornákat.
 
-2. Keresse meg a **kezelés** menüpontot, és válassza a **védelem aktiválása**lehetőséget. Kattintson az **aktiválás**gombra, majd erősítse meg a műveletsort. Amikor az aktiválás befejeződött, az információs sáv az **aktiválás sikeres befejezését**jeleníti meg.
+2. Keresse meg **a Kezelés** menü beállításait, és válassza a **Védelem aktiválása lehetőséget.** Kattintson **az Aktiválás** gombra, majd erősítse meg a műveletet. Ha befejeződött az aktiválás, az információs sávon megjelenik **az Aktiválás sikeresen befejeződött üzenet.**
 
-**Azure-adatvédelemi címkék áttelepítése az Office 365 biztonsági & megfelelőségi központba**
+**Azure Information Protection-címkék áttelepítése az Office 365 Biztonsági & megfelelőségi központba**
 
-1. Ellenőrizze, hogy globális rendszergazdai engedélyekkel jelentkezett-e be felhasználóként.
+1. Győződjön meg arról, hogy globális rendszergazdai engedéllyel rendelkező felhasználóként jelentkezett be.
 
-2. Nyissa meg az **Azure Information Protection** Blade című témakört.
+2. Lépjen az **Azure Information Protection blade (Azure Information Protection) lapra.**
 
-3. A **kezelés** menüben válassza az **egységes címkék**lehetőséget.
+3. A Kezelés **menüben** válassza az **Egységes címke lehetőséget.**
 
-4. Az **Azure Information Protection – egyesített feliratozás** lapon kattintson az **aktiválás** elemre, és kövesse az online útmutatást.
+4. Az **Azure Information Protection – Egységes** címkével jelölt címkeszálon kattintson az Aktiválás elemre, **és** kövesse az online utasításokat.
 
-**Megjegyzés**: Győződjön meg arról, hogy rendelkezik a megfelelő engedélyekkel, mielőtt aktiválja a biztonsági & megfelelőségi központ áttelepítését. További információt az alábbi cikkekben talál:
+**Megjegyzés:** Ellenőrizze, hogy rendelkezik-e a megfelelő engedélyekkel a Biztonsági központ & áttelepítése előtt. További információt az alábbi cikkekben talál:
 
-1. [Globális rendszergazdának kell lennie az Azure-adatvédelem beállításához, vagy más rendszergazdáknak is delegálni lehet?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
+1. [Az Azure Information Protection konfigurálhoz globális rendszergazdának kell lennie, vagy más rendszergazdáknak kell delegálnom?](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 
-2. [Fontos tudnivalók a felügyeleti szerepkörökről a biztonsági & megfelelőségi központba való áttelepítés után.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
+2. [Fontos információk a felügyeleti szerepkörökről a Biztonsági és megfelelőségi központba & után.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
 
-Ha többet szeretne megtudni az "áttelepítés a biztonsági és megfelelőségi központba" beállításról, olvassa el a [címkék áttelepítése](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)című témakört.
+Az AIP to Unified Labeling migration to Security and [](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)Compliance Center (AIP – Egységes címkézés migrálás a Biztonsági és megfelelőségi központba) eszközről további információt a Címkék áttelepítésecímkebe.

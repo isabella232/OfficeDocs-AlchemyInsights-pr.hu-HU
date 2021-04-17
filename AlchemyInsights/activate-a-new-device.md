@@ -2,7 +2,7 @@
 title: Új eszköz aktiválása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668384"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823285"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Új eszköz aktiválása Windows 10 rendszerű eszközön
+# <a name="activating-a-new-device-running-windows-10"></a>Új, Windows 10-et futtató eszköz aktiválása
 
-Ha egy új, Windows 10 rendszert futtató eszközt vásárolt, akkor az automatikusan aktiválódik, amikor az eszközt csatlakoztatja az internethez. Ha az aktiválási kiszolgálók elfoglaltak, lehet, hogy egy ideig várnia kell, amíg a Windows aktiválva van.
+Ha új, Windows 10-et futtató eszközt vásárolt, az automatikusan aktiválódik, amikor csatlakoztatja az eszközt az internethez. Ha az aktiválási kiszolgálók foglaltak, előfordulhat, hogy várnia kell, amíg a Windows aktiválódik.
 
-Az aktiválási állapot ellenőrzéséhez válassza az **indítási** **Beállítások**  >  **frissítése & biztonsági**  >  **aktiválás**lehetőséget.
+Az aktiválási állapot ellenőrzéséhez válassza a **Start** **Settings** Update &  >  **aktiválás**  >  **lehetőséget.**
 
-**Megjegyzés:** Bizonyos esetekben előfordulhat, hogy meg kell adnia az eszköz csomagolásához kapott Windows 10-es termékkulcsot, vagy kártyát vagy az eszközhöz kapcsolt hitelességi tanúsítvány (COA) tanúsítványát.
+**Megjegyzés:** Bizonyos esetekben előfordulhat, hogy be kell írnia az eszköz csomagolásán található Windows 10-es termékkulcsot, illetve azt kártyaként vagy az eszközhöz mellékelt eredetiséget igazoló tanúsítványon (COA).
 
-[További tudnivalók a Windows 10 aktiválásáról](https://support.microsoft.com/help/12440)
+[További információ a Windows 10-ben való aktiválásról](https://support.microsoft.com/help/12440)

@@ -1,8 +1,8 @@
 ---
-title: Vendég felhasználói hozzáférésének kezelése a Plannerhez
+title: Vendégfelhasználók Plannerhez való hozzáférésének kezelése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001705"
 - "3783"
-ms.openlocfilehash: 5ee138e42d0ab5a8e2a878fec33478adf362c720
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4b7852b101a342256ab64ef580e95512bfdb6860
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777973"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825481"
 ---
-# <a name="manage-guest-user-access-to-planner"></a>Vendég felhasználói hozzáférésének kezelése a Plannerhez
+# <a name="manage-guest-user-access-to-planner"></a>Vendégfelhasználók Plannerhez való hozzáférésének kezelése
 
-A vendégek létrehozhatnak és törölhetnek gyűjtőket és feladatokat, feladatokat szerkeszthetnek, és szerkeszthetik a terv nevét. Emellett a vendégek a csomaggal társított értesítéseket is megkapják. Az alábbiakban felsorolunk néhány gyakran kért témakört a vendégek számára a Plannerben:
+A vendégfelhasználók létrehozhatnak és törölhet gyűjtőket és tevékenységeket, szerkeszthetik a tevékenységmezőket, és szerkeszthetik a terv nevét. Ezenkívül a vendégfelhasználók is megkapják a csomaggal társított értesítések némelyikét. Az alábbi gyakori témakörök a Planner vendégfelhasználóiról szólnak:
 
-- A Planner a [Microsoft 365 groups Guest Access szolgáltatásban](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)épül fel. 
+- A Planner a [Microsoft 365-csoportok vendégelérési funkcióját használja.](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6) 
 
-- További információ arról, hogy miként adhat hozzá vendégeket a csomagokhoz, hogy a felhasználók hogyan hagyhatnak ki egy tervet, és hogy mit tehetnek a vendégek a [Microsoft plannerben a vendégek](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6)a plannerben.
+- További információ a vendégfelhasználók felvételéről a tervbe, hogy a vendégfelhasználók hogyan hagyhatják el a tervet, valamint hogy mit tudnak a vendégfelhasználók a Plannerben a Vendég hozzáférés a [Microsoft Plannerben.](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6)
