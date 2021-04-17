@@ -1,8 +1,8 @@
 ---
-title: Lobby mellőzése
+title: Előszoba megkerülése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684952"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820036"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>A lobby beállításainak és a részvételi szint vezérlése a Teams-ban
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Az előszoba beállításainak és a Teamsben való részvétel szintjének szabályozása
 
-Ha mindenki számára engedélyezni szeretné a betárcsázós, a külső és a névtelen felhasználókat, hogy **kihagyja az előszobát**, használja a PowerShellt a feladat elvégzéséhez. Íme egy példa a szervezet globális értekezlet-házirendjének módosítására.
+Ha azt szeretné, hogy mindenki (beleértve a Betárcsázós, a Külső és a Névtelen felhasználókat is) kihagyja az előszoba kihagyásán, a PowerShell használatával elvégezheti ezt a feladatot. Az alábbi példa a szervezet globális értekezleti házirendének módosítására mutat be.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Ez a parancsmag jelenleg a Skype vállalati verzió PowerShell-modul használatát igényli. Ha be szeretné állítani a parancsmag használatát, tanulmányozza a [házirendek kezelése a PowerShell segítségével](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)című cikkben talál segítséget.
+Ehhez a parancsmaghoz jelenleg a Skype Vállalati verzió PowerShell-modulját kell használni. A parancsmag használatának beállítását a Házirendek kezelése [a PowerShellen keresztül](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Ha beállított egy házirendet, azt a felhasználókra kell alkalmaznia; Ha módosította a globális házirendet, akkor az automatikusan a felhasználókra lesz érvényes. Bármely házirend-módosítás esetén legalább **4 órát** kell várnia, amíg a házirendek hatályba lépnek. 
+Miután beállított egy házirendet, azt a felhasználókra kell alkalmaznia; vagy ha módosította a Globális házirendet, az automatikusan vonatkozni fog a felhasználókra. A házirendek minden módosításakor legalább 4 órát, de **legfeljebb 24** órát kell várni ahhoz, hogy a házirendek életbe lépnek. 
 
-Ügyeljen arra, hogy nézze át az alábbi dokumentációt, mielőtt a módosítások pontosan megértsék, hogy mi ez a funkció.
+Mindenképpen tekintse át az alábbi dokumentációt, mielőtt ezeket a módosításokat végrehajtotta, hogy pontosan megértse, mit tesz ez lehetővé.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>A Teams-értekezlet lobbijának házirend-vezérlőinek ismertetése
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>A Teams-értekezlet előszoba házirend-vezérlőinek ismertetése
 
-Ezekkel a beállításokkal szabályozhatja, hogy az értekezlet résztvevői milyen mértékben várjon az előszobába, mielőtt beengedik őket az értekezletbe, és milyen mértékben vehetnek részt az értekezleten. A PowerShell segítségével frissítheti az értekezlet-összehívásokat, amelyeket még nem hajtottak végre ("hamarosan") a Teams felügyeleti központban. Lásd alább egy példa PowerShell-parancsmagot, amely lehetővé teszi, hogy minden felhasználó kihagyja az előszobát.
+Ezekkel a beállításokkal szabályozhatja, hogy az értekezlet mely résztvevői várakozhatnak az előszoba előtt, mielőtt beengedik őket az értekezletre, és hogy milyen közreműködési szint engedélyezett az értekezleten. A PowerShell-parancsokkal frissítheti a Teams Felügyeleti központban még nem megvalósított ("hamarosan elérhető") értekezleti házirend-beállításokat. Alább láthat egy PowerShell-parancsmagot, amely lehetővé teszi, hogy minden felhasználó megkerülje az előszobaet.
 
-- A szervezők [automatikusan bevallják](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , hogy az értekezletek automatikusan bekapcsolódnak az értekezletbe, vagy az előszobában maradnak, amíg egy hitelesített felhasználó beengedi őket.
+- [A személyek automatikus](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) beengedése szervezőnkénti házirend, amely meghatározza, hogy a felhasználók közvetlenül csatlakoznak-e egy értekezlethez, vagy az előszoba előtt várakoznak-e, amíg egy hitelesített felhasználó be nem adhatja őket.
 
-- Az [értekezletek indításának engedélyezése a névtelen személyek számára](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) : a szervezői házirend, amely szabályozza, hogy a névtelen személyek – például a vállalatközi és az összevont felhasználók – csatlakozhatnak-e a felhasználó Értekezletéhez anélkül, hogy a szervezeten belüli részvételt engedélyeztek.
+- [A névtelen](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) személyek bekapcsolódásának engedélyezése egy szervezőnkénti házirend, amely meghatározza, hogy a névtelen személyek (beleértve a B2B-t és az összevont felhasználókat) csatlakozhatnak-e a felhasználó értekezletéhez anélkül, hogy a szervezet hitelesített felhasználója jelen van.
 
-- [A betárcsázós felhasználók kihagyhatják az előszobát](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**hamarosan**elérhető) a szervezői házirend, amely azt szabályozza, hogy a telefonos hívással betárcsázó személyek közvetlenül vagy várjon az előszobában, függetlenül attól, hogy a **személyek automatikusan bevallják** -e ezt a beállítást.
+- [Szervezőnkénti](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) házirend, amely meghatározza, hogy a telefonon betárcsázó felhasználók közvetlenül csatlakoznak-e az értekezlethez, vagy az  előszoba előtt várakoznak-e, függetlenül attól, hogy a személyek automatikus engedjenek-e be beállítást.
 
-- A [szervezők számára lehetővé teszi a lobby-beállítások felülbírálását](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**hamarosan**) a szervezői házirend, amely azt szabályozza, hogy az értekezlet szervezője felülbírálja-e az előszoba beállításait, amelyeket a rendszergazda **automatikusan Bevallhat** , és **engedélyezheti a betárcsázós felhasználóknak, hogy az** új értekezletek ütemezésekor megkerüljék az előszobát.
+- A [szervezők](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) felülbírálhatják az előszobai beállításokat **(** hamarosan) egy szervezőnkénti házirend, amely  meghatározza, hogy  az értekezlet szervezője felülbírálhatja-e az előszoba beállítását, amelyet egy rendszergazda beállított az Új értekezlet ütemezése során a betárcsázó felhasználók kihagyhatják az előszoba kihagyása című témakörben megadott beállításokat.
 
-**Megjegyzés:** Olvassa el a [Teams értekezlet-házirendek kezelése a Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) alkalmazásban a Microsoft Teams-értekezleti házirendek teljes áttekintését.
+**Megjegyzés:** A [Microsoft Teams-értekezleti](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) házirendek teljes körű áttekintéséhez olvassa el az Értekezleti házirendek kezelése a Teamsben témakört.

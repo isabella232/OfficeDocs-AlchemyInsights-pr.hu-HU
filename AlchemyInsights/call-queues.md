@@ -1,8 +1,8 @@
 ---
-title: Hívási várólisták
+title: Hívássorok
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734337"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819838"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Hívások várólistái a Microsoft Teams és a Skype vállalati verzióban 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Hívássorok a Microsoft Teamsben és a Skype Vállalati verzióban 
 
-A hívásvárakoztatás használatáról az alábbi hivatkozásokra kattintva tájékozódhat.
+A hívássorok használatának első lépésekhez tanulmányozza az alábbi hivatkozásokat.
 
-- [Felhőalapú hívási várólista létrehozása](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [A segítő és a hívási várólista fogadása közvetlenül a Teams-ról](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [Felhőbeli hívássor létrehozása](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
+- [Segítői és hívássori hívások megválaszolése közvetlenül a Teamsből](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)

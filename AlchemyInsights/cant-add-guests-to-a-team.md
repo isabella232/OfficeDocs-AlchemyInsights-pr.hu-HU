@@ -1,8 +1,8 @@
 ---
-title: Nem lehet vendégeket felvenni egy csoportba
+title: Nem tudok vendégeket felvenni a csapatba
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 8542540fb9c9164cccc3a06e0d9cbf83324f4118
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
-ms.translationtype: MT
+ms.openlocfilehash: 4c10ffa16b30cccb7552bbaf896b5085bfb29ac3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48364710"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819478"
 ---
-# <a name="cant-add-guests-to-a-team"></a>Nem lehet vendégeket felvenni egy csoportba
+# <a name="cant-add-guests-to-a-team"></a>Nem tudok vendégeket felvenni a csapatba
 
-Ha vendéget szeretne felvenni egy csoportba, az alábbiaknak kell teljesülnie:  
+Ha vendéget szeretne felvenni egy csapatba, az alábbiaknak kell teljesülnie:  
 
-- A rendszergazda bekapcsolta a vendégek hozzáférését a Teams alkalmazásban.
+- A rendszergazda bekapcsolta a vendégelérést a Teamsben.
 - Ön a csapat tulajdonosa.
-- A felvenni kívánt személy kívül esik a szervezetén, például egy partneren vagy egy konzulensen.
+- A hozzáadni kívánt személy nem tagja a szervezetének, például egy partner vagy tanácsadó.
 
-További információt a  [vendégek csatlakozása csapathoz](https://docs.microsoft.com/MicrosoftTeams/guest-joins)című témakörben talál.
+A részletekért lásd: [Vendég csatlakozása egy csapathoz](https://docs.microsoft.com/MicrosoftTeams/guest-joins).

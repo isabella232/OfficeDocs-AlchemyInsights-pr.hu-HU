@@ -1,26 +1,27 @@
 ---
-title: Névkiszolgálók módosítása 1 és 1 IONOS esetén
+title: Névkiszolgálók módosítása a 1 and 1 IONOS rendszernél
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5826"
 - "14"
-ms.openlocfilehash: e85726aad00a40fac041bee1620caf8c5a843bb3
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
-ms.translationtype: MT
+ms.openlocfilehash: b66f587552e5427ca66a70c9e387fccc54b0d4a4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748805"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818902"
 ---
-# <a name="change-nameservers-at-1-and-1-ionos"></a>Névkiszolgálók módosítása 1 és 1 IONOS esetén
+# <a name="change-nameservers-at-1-and-1-ionos"></a>Névkiszolgálók módosítása a 1 and 1 IONOS rendszernél
 
-[A névkiszolgálók módosítása a Microsoft 365 1&1 IONOS rendszerrel való beállításához](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-1-1-internet)
+[A névkiszolgálók módosítása a Microsoft 365 beállításához a 1&1 IONOS rendszerrel](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-1-1-internet)
 
-Más tartományokkal kapcsolatos problémák esetén próbálja ki a [Tartományok gyIK-et](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
+Más tartományokkal kapcsolatos problémák esetén próbálkozzon a [Tartományok GYIK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq) témakörrel

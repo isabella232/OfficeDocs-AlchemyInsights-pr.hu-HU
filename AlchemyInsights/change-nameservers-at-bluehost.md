@@ -1,26 +1,27 @@
 ---
-title: Névkiszolgálók módosítása a Bluehost-nál
+title: Névkiszolgálók módosítása a Bluehostnál
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5858"
 - "14"
-ms.openlocfilehash: 9a8e3157a2f10e88b9fe3da65f32be573f1f2961
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
-ms.translationtype: MT
+ms.openlocfilehash: 60effb8e2a5e4d0bb7c241ed71562d87dffd14b5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748820"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818830"
 ---
-# <a name="change-nameservers-at-bluehost"></a>Névkiszolgálók módosítása a Bluehost-nál
+# <a name="change-nameservers-at-bluehost"></a>Névkiszolgálók módosítása a Bluehostnál
 
-[A névkiszolgálók módosítása a Microsoft 365 beállításához a Bluehost segítségével](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-bluehost?view=o365-worldwide)
+[A névkiszolgálók módosítása a Microsoft 365 beállításához a Bluehosttal](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-bluehost?view=o365-worldwide)
 
-Más domainekkel kapcsolatos problémák esetén próbálja ki a [Tartományok gyIK-et](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+Más tartományokkal kapcsolatos problémák esetén próbálkozzon a  [Tartományok GYIK](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) témakörrel
