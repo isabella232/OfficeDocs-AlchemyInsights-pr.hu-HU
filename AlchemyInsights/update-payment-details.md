@@ -2,21 +2,22 @@
 title: A hitelkártya adatainak frissítése
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720067"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830323"
 ---
 # <a name="update-credit-card-information"></a>A hitelkártya adatainak frissítése
 
@@ -40,4 +41,4 @@ ms.locfileid: "43720067"
 
 Ha problémákat tapasztal a lap betöltésekor, próbálkozzon a weblap megnyitásával egy másik böngészőben vagy egy privát böngészőablakban, például egy InPrivate-ablakban a Microsoft Edge, illetve egy inkognitóablakban a Google Chrome böngésző esetén. 
 
-További információt a [Hitelkártya vagy bankszámla hozzáadása, frissítése vagy eltávolítása a Microsoft 365 Vállalati verzióban](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) és a [Hitelkártyákkal és bankszámlákkal kapcsolatos problémák elhárítása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts) című cikkben talál.
+További információ: [Fizetési módok kezelése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

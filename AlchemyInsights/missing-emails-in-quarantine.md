@@ -1,8 +1,8 @@
 ---
-title: Hiányzó e-mailek a karanténban
+title: Hiányzó e-mailek karanténban
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43f9a1f03084bf9adab706b3f77eff1d1db888ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673716"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831736"
 ---
-# <a name="missing-emails-in-quarantine"></a>Hiányzó e-mailek a karanténban "
+# <a name="missing-emails-in-quarantine"></a>Hiányzó e-mailek a karanténban"
 
-A rendszergazdák [megtekinthetik, felszabadítják vagy törölhetik ezeket az üzeneteket.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
+A rendszergazdák [megtekinthetik, feladhatják vagy törölhetik ezeket az üzeneteket.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
 
-Ha meg szeretné nyitni a biztonsági & megfelelőségi központot, lépjen a webhelyre [https://protection.office.com](https://protection.office.com/) . A karantén lap közvetlen megnyitásához lépjen a gombra [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+A Biztonsági és & megnyitásához nyissa meg a következőt: [https://protection.office.com](https://protection.office.com/) . A karanténlap közvetlen megnyitásához nyissa meg a következőt: [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
 
-A Keresés az alábbi értékek alapján végezhető el:  
+A következő értékek alapján kereshet:  
 
-- **Üzenet azonosítója**: az üzenet globálisan egyedi azonosítója. Ha kijelöl egy üzenetet a listában, az  **üzenet azonosítójának**  értéke megjelenik a megjelenő  **részletek**  panelben. A rendszergazdák az [üzenet nyomon követésével](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) megkereshetik az üzeneteket és a hozzájuk tartozó üzenet-azonosító értékét.
-- **Feladó e-mail-címe**: egyetlen feladó e-mail-címe.
-- **Címzett e-mail-címe**: egyetlen címzett e-mail-címe.
-- **Tárgy**: az üzenet teljes tárgyát használja. A keresés nem megkülönbözteti a kis-és nagybetűket.
+- **Üzenetazonosító:** Az üzenet globálisan egyedi azonosítója. Ha kijelöl egy üzenetet a  listában, megjelenik  az Üzenetazonosító érték a megjelenő Részletek előgombra kattintva. A rendszergazdák az [üzenetkövetés](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) segítségével megkeresheti az üzeneteket és a hozzájuk tartozó üzenetazonosítókat.
+- **Feladó e-mail-címe:** Egyetlen feladó e-mail-címe.
+- **Címzett e-mail-címe:** Egyetlen címzett e-mail-címe.
+- **Tárgy:** Használja az üzenet teljes tárgyát. A keresés nem megkülönbözteti a kis- és a nagybetűket.
 
-Miután beírta a keresési feltételt, az ![ ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Refresh** eredmény szűréséhez kattintson a frissítés gombra.  
+Miután megadta a keresési feltételeket, a Frissítés gombra kattintva ![ ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **szűrheti** a találatokat.  
 
-A karanténba helyezett üzenetek és fájlok megtekintéséhez és kezelésére használt parancsmagok:
+A karanténban lévő üzenetek és fájlok megtekintéséhez és kezeléséhez a következő parancsmagok használhatók:
 - [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
-- [Exportálás – QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
 - [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
-- Előzetes verzió: ne feledje, hogy ez a parancsmag csak a SharePoint Online, a OneDrive vállalati verzió vagy a Teams ATP [-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage)származó üzenetekre, nem pedig a malware-fájlokra vonatkozik.
-- [Kiadás – QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
+- [Preview-QuarantineMessage:](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage)Ne feledje, hogy ez a parancsmag csak üzenetekhez használható, a SharePoint Online-hoz, a OneDrive Vállalati verzióhoz vagy a Teamshez nem tartalmaz kártevőfájlokat.
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

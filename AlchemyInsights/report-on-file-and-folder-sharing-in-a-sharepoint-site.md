@@ -2,21 +2,24 @@
 title: Fájlok és mappák megosztásának jelentése egy SharePoint-webhelyen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: c1d21fb59da298c99bda8a685cb7128077349c6d
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+- "9000191"
+- "3050"
+ms.openlocfilehash: a4b24c699ebd0794d6987e1d3a6bedfc5eeee140
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182585"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830800"
 ---
 # <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Fájlok és mappák megosztásának jelentése egy SharePoint-webhelyen
 

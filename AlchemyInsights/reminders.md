@@ -2,7 +2,7 @@
 title: Emlékeztetők
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3415"
 - "9001434"
-ms.openlocfilehash: 04380315483f59fc0a1fb59aae3356abac32880c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12b48e0fb15559a1efc463ab90378757a32c28a1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693701"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831376"
 ---
-# <a name="cannot-dismiss-reminders"></a>Az emlékeztetők mellőzése
+# <a name="cannot-dismiss-reminders"></a>Nem lehet bezárni az emlékeztetőket
 
-Ha további információra van szüksége arról, hogy mi a teendő, ha nem tudja elmulasztani a naptár emlékeztetőit, olvassa el a [naptári emlékeztetők sikeres elutasítása az Outlookban](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders)című témakört.
+Arról, hogy mi a feladat, ha nem tudja bezárni a naptári emlékeztetőket, a Naptári emlékeztetők nem mellőződtek az Outlookban című témakörben [található információk.](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders)
 

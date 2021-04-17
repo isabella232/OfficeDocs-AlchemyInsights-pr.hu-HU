@@ -1,8 +1,8 @@
 ---
-title: DNS-rekordok frissítése a Dreamhost-on
+title: A DNS-rekordok frissítése a Dreamhost szolgáltatónál
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5822"
-ms.openlocfilehash: ed5a299756345290ced5d272af4fa5453e92a8c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 540ed9398105c233a170e6a36c1704e525da81ff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657755"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830359"
 ---
-# <a name="update-dns-records-at-dreamhost"></a>DNS-rekordok frissítése a Dreamhost-on
+# <a name="update-dns-records-at-dreamhost"></a>A DNS-rekordok frissítése a Dreamhost szolgáltatónál
 
-A DNS-rekordok frissítéséhez használja az alábbi hivatkozásokat.
+Az alábbi hivatkozások segíthetnek a DNS-rekordok frissítésében.
 
-- [DNS-rekordok létrehozása a Dreamhost-on](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost?view=o365-worldwide)
+- [DNS-rekordok létrehozása a Dreamhost rendszerében](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost?view=o365-worldwide)
 - [Egyéni DNS-rekordok hozzáadása és szerkesztése az Office 365 rendszerben](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

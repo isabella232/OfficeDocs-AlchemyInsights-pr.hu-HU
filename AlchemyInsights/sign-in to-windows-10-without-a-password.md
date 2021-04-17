@@ -1,8 +1,8 @@
 ---
-title: Bejelentkezés a Windows 10-es verzióba jelszó használata nélkül
+title: Bejelentkezés a Windows 10-be jelszó használata nélkül
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719955"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830548"
 ---
-# <a name="sign-in-to-windows-10-without-using-a-password"></a>Bejelentkezés a Windows 10-es verzióba jelszó használata nélkül
+# <a name="sign-in-to-windows-10-without-using-a-password"></a>Bejelentkezés a Windows 10-be jelszó használata nélkül
 
-Ha nem szeretne jelszót beírni a Windows indításakor, azt javasoljuk, hogy használja a Windows Hello Secure bejelentkezési beállításait, például a PIN-kódot, az Arcfelismerés vagy az ujjlenyomatot, ha van ilyen. Ha valóban le szeretné tiltani a biztonságos bejelentkezést, olvassa el az alábbi utasításokat az automatikus bejelentkezés a Windows 10-es verzióba című témakörben.
+Ha el szeretné kerülni, hogy jelszót kelljen megadnia a Windows rendszer indításakor, javasoljuk, hogy használja a Windows Hello biztonságos bejelentkezési beállításait, például PIN-kódot, arcfelismerést vagy ujjlenyomatot, ha van ilyen. Ha valóban le szeretné tiltani a biztonságos bejelentkezést, olvassa el alább az "Automatikus bejelentkezés a Windows 10-be" utasításokat.
 
-**A Windows Hello alternatívái a fiók jelszavának védelme**
+**A fiókjelszó alternatívái a Windows Hello biztonságos használata esetén**
 
-Lépjen a **beállítások >-fiókok > bejelentkezési beállítások** elemre (vagy kattintson [ide](ms-settings:signinoptions?activationSource=GetHelp)). A rendelkezésre álló bejelentkezési beállítások megjelennek. Például:
+Válassza **a Beállítások > Fiókok > Bejelentkezési** lehetőségek lehetőséget (vagy kattintson [ide).](ms-settings:signinoptions?activationSource=GetHelp) Az elérhető bejelentkezési lehetőségek listája megjelenik. Például:
 
-![Bejelentkezési lehetőségek](media/sign-in-options.png)
+![Bejelentkezési lehetőségek.](media/sign-in-options.png)
 
-Kattintson vagy koppintson az egyik lehetőségre a beállításához. A Windows következő indításakor vagy zárolásának feloldásakor a jelszó helyett az új lehetőséget fogja használni. 
+A beállításhoz kattintson vagy koppintson az egyik beállításra. Amikor legközelebb elindítja vagy feloldja a Windows zárolását, jelszó helyett használhatja az új beállítást. 
 
-**Automatikus bejelentkezés a Windows 10-es verzióba**
+**Automatikus bejelentkezés a Windows 10-be**
 
-**Megjegyzés**: az automatikus bejelentkezés kényelmes, de biztonsági kockázatot jelent, különösen akkor, ha a számítógépe több személy számára is elérhető. 
+**Megjegyzés:** Az automatikus bejelentkezés kényelmes, de biztonsági kockázatot jelent, különösen akkor, ha a számítógép több felhasználó számára is elérhető. 
 
 1. Kattintson vagy koppintson a **Start** gombra a tálcán.
 
-2. Írja be a **netplwiz** , és az ENTER billentyűt lenyomva nyissa meg a felhasználói fiókok ablakot.
+2. Írja **be a netplwiz parancsot,** és nyomja le az Enter billentyűt a Felhasználói fiókok ablak megnyitásához.
 
-3. A **felhasználói fiókokban**kattintson arra a fiókra, amellyel a Windows indításakor automatikusan be szeretne jelentkezne.
+3. A **Felhasználói fiókok csoportban** kattintson arra a fiókra, amelybe automatikusan be szeretne jelentkezni a Windows indításakor.
 
-4. Törölje a jelet a "felhasználóknak meg kell adni a felhasználónevet és a jelszót a számítógép használatához" jelölőnégyzetből.
+4. Törölje "A felhasználóknak meg kell adnia egy felhasználónevet és jelszót a számítógép használatához" jelölőnégyzet jelölését.
 
-    ![A felhasználóknak meg kell adni a Felhasználónév és a jelszó beállítást.](media/users-must-enter-username.png)
+    ![A felhasználóknak meg kell adnia a felhasználónevet és a jelszót.](media/users-must-enter-username.png)
 
-5. Kattintson az **OK** gombra. A rendszer kérni fogja a kijelölt fiók jelszavának megadását és megerősítését. A befejezéshez kattintson **az OK** gombra. A Windows 10 következő indításakor a program automatikusan bejelentkezik a kijelölt fiókba.
+5. Kattintson az **OK** gombra. A program kérni fogja, hogy adja meg és erősítse meg a kijelölt fiók jelszavát. A **befejezéshez kattintson** az OK gombra. A Windows 10 következő indításakor a rendszer automatikusan bejelentkezik a kiválasztott fiókba.
