@@ -1,8 +1,8 @@
 ---
-title: Megosztás korlátozása a Microsoft 365-ban
+title: A megosztás korlátozása a Microsoft 365-ben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3545"
-ms.openlocfilehash: a569fdb9af1183624d39c4e0244b96480ebaa7d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c374af0bc63133c172cc336bda7781489b93e331
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675947"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836425"
 ---
-# <a name="limit-sharing-in-microsoft-365"></a><span data-ttu-id="86e01-102">Megosztás korlátozása a Microsoft 365-ban</span><span class="sxs-lookup"><span data-stu-id="86e01-102">Limit sharing in Microsoft 365</span></span>
+# <a name="limit-sharing-in-microsoft-365"></a><span data-ttu-id="c5209-102">A megosztás korlátozása a Microsoft 365-ben</span><span class="sxs-lookup"><span data-stu-id="c5209-102">Limit sharing in Microsoft 365</span></span>
 
-<span data-ttu-id="86e01-103">Noha nem lehet teljes mértékben letiltani a belső megosztást, vagy el szeretné távolítani a webhelyek megosztás gombját, többféleképpen is korlátozhatja a megosztást a Microsoft 365-ban, hogy megfeleljen a szervezet igényeinek.</span><span class="sxs-lookup"><span data-stu-id="86e01-103">While you can't disable internal sharing entirely, or remove the Share button from sites, there are a variety of ways you can limit sharing in Microsoft 365 to meet the needs of your organization.</span></span> <span data-ttu-id="86e01-104">További információt a [megosztás korlátozása a Microsoft 365-ban](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing)című témakörben találhat.</span><span class="sxs-lookup"><span data-stu-id="86e01-104">For more information, see [Limit sharing in Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).</span></span>
+<span data-ttu-id="c5209-103">Bár a belső megosztást nem tilthatja le teljesen, illetve nem távolíthatja el a Megosztás gombot a webhelyekről, számos módon korlátozhatja a Microsoft 365-ben való megosztást, hogy megfeleljen szervezete igényeinek.</span><span class="sxs-lookup"><span data-stu-id="c5209-103">While you can't disable internal sharing entirely, or remove the Share button from sites, there are a variety of ways you can limit sharing in Microsoft 365 to meet the needs of your organization.</span></span> <span data-ttu-id="c5209-104">További információ: Megosztás [korlátozása a Microsoft 365-ben.](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing)</span><span class="sxs-lookup"><span data-stu-id="c5209-104">For more information, see [Limit sharing in Microsoft 365](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-limit-sharing).</span></span>

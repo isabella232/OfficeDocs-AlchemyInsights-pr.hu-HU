@@ -1,8 +1,8 @@
 ---
-title: A tulajdonos nem tud almappát létrehozni az Outlookkal
+title: A tulajdonos nem hozhat létre almappát az Outlookkal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665720"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836137"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a><span data-ttu-id="ccd99-102">A tulajdonos nem tud almappát létrehozni az Outlookkal</span><span class="sxs-lookup"><span data-stu-id="ccd99-102">Owner cannot create sub-folder using Outlook</span></span>
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a><span data-ttu-id="c6312-102">A tulajdonos nem hozhat létre almappát az Outlookkal</span><span class="sxs-lookup"><span data-stu-id="c6312-102">Owner cannot create sub-folder using Outlook</span></span>
 
-<span data-ttu-id="ccd99-103">**Folyamatban van egy probléma a nyilvános mappák tulajdonosainak az Outlookkal való létrehozásakor. A probléma hamarosan kijavításra kerül.**</span><span class="sxs-lookup"><span data-stu-id="ccd99-103">**There's an ongoing issue with public folder owners creating subfolders using Outlook. The issue will be fixed soon.**</span></span>
+<span data-ttu-id="c6312-103">**Egy még folyamatban lévő hiba miatt a nyilvános mappatulajdonosok az Outlook segítségével hoznak létre almappákat. A problémát hamarosan kijavítjuk.**</span><span class="sxs-lookup"><span data-stu-id="c6312-103">**There's an ongoing issue with public folder owners creating subfolders using Outlook. The issue will be fixed soon.**</span></span>
 
-<span data-ttu-id="ccd99-104">Eközben használja az alábbi kerülő megoldások egyikét:</span><span class="sxs-lookup"><span data-stu-id="ccd99-104">Meanwhile, use one of the following workarounds:</span></span>
+<span data-ttu-id="c6312-104">Addig is használja az alábbi kerülő megoldásokat:</span><span class="sxs-lookup"><span data-stu-id="c6312-104">Meanwhile, use one of the following workarounds:</span></span>
 
-1. <span data-ttu-id="ccd99-105">A MAC Outlook használata az almappa létrehozásához a probléma hatása csak az asztali Windows Outlook (minden verzió)</span><span class="sxs-lookup"><span data-stu-id="ccd99-105">Use Outlook for MAC to create the subfolder as the issue impacts only Outlook for desktop windows (all versions)</span></span>
-2. <span data-ttu-id="ccd99-106">A rendszergazda hozza létre az almappát az EXO Shell vagy az EAC segítségével</span><span class="sxs-lookup"><span data-stu-id="ccd99-106">Have admin create the subfolder using EXO Shell or EAC</span></span>
-3. <span data-ttu-id="ccd99-107">A felhasználó DefaultPublicFolderMailbox/EffectivePublicFolderMailbox módosítása a problémát okozó mappa tartalmát tartalmazó postaládára</span><span class="sxs-lookup"><span data-stu-id="ccd99-107">Change the DefaultPublicFolderMailbox/EffectivePublicFolderMailbox on the user to other mailbox than the Content Mailbox for the folder causing issue</span></span>  
-    - <span data-ttu-id="ccd99-108">*Set-Mailbox Felhasználó1 DefaultPublicFolderMailbox PubMBX3*</span><span class="sxs-lookup"><span data-stu-id="ccd99-108">*Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*</span></span>
-4. <span data-ttu-id="ccd99-109">Várjon egy órát, indítsa újra az Outlook ügyfélprogramot</span><span class="sxs-lookup"><span data-stu-id="ccd99-109">Wait for an hour, restart outlook client</span></span>
+1. <span data-ttu-id="c6312-105">Az almappa létrehozása a MAC Outlookkal, mivel a probléma csak az asztali Outlookot (az összes verziót) érintette.</span><span class="sxs-lookup"><span data-stu-id="c6312-105">Use Outlook for MAC to create the subfolder as the issue impacts only Outlook for desktop windows (all versions)</span></span>
+2. <span data-ttu-id="c6312-106">Az almappa exo shell vagy EAC használatával való létrehozása a rendszergazdával</span><span class="sxs-lookup"><span data-stu-id="c6312-106">Have admin create the subfolder using EXO Shell or EAC</span></span>
+3. <span data-ttu-id="c6312-107">A problémát okozó mappa DefaultPublicFolderMailbox/EffectivePublicFolderMailbox-jának módosítása a tartalompostaládán kívül más postaládára</span><span class="sxs-lookup"><span data-stu-id="c6312-107">Change the DefaultPublicFolderMailbox/EffectivePublicFolderMailbox on the user to other mailbox than the Content Mailbox for the folder causing issue</span></span>  
+    - <span data-ttu-id="c6312-108">*Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*</span><span class="sxs-lookup"><span data-stu-id="c6312-108">*Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*</span></span>
+4. <span data-ttu-id="c6312-109">Várjon egy órát, indítsa újra az Outlook ügyfélprogramot</span><span class="sxs-lookup"><span data-stu-id="c6312-109">Wait for an hour, restart outlook client</span></span>

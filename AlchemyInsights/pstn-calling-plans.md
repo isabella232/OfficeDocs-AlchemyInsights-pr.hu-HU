@@ -2,7 +2,7 @@
 title: Nyilvános telefonhálózati híváscsomagok
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: 5371f41f5becd50eb19bd3359e82e171cdf7f80d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692468"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835921"
 ---
-# <a name="pstn-calling-plans"></a><span data-ttu-id="2ddb7-102">Nyilvános telefonhálózati híváscsomagok</span><span class="sxs-lookup"><span data-stu-id="2ddb7-102">PSTN calling plans</span></span>
+# <a name="pstn-calling-plans"></a><span data-ttu-id="bcebb-102">Nyilvános telefonhálózati híváscsomagok</span><span class="sxs-lookup"><span data-stu-id="bcebb-102">PSTN calling plans</span></span>
 
-<span data-ttu-id="2ddb7-103">Ha szeretné, hogy felhasználói hagyományos telefonszámokat is tudjanak hívni, és nincs még szolgáltatója a hanghívások lebonyolításához, akkor vásárolnia kell egy híváscsomagot.</span><span class="sxs-lookup"><span data-stu-id="2ddb7-103">If you want your users to be able to call regular phones, and you don't already have a service provider to make voice calls, you need to buy a Calling Plan.</span></span>
+<span data-ttu-id="bcebb-103">Ha szeretné, hogy felhasználói hagyományos telefonszámokat is tudjanak hívni, és nincs még szolgáltatója a hanghívások lebonyolításához, akkor vásárolnia kell egy híváscsomagot.</span><span class="sxs-lookup"><span data-stu-id="bcebb-103">If you want your users to be able to call regular phones, and you don't already have a service provider to make voice calls, you need to buy a Calling Plan.</span></span>
 
-- <span data-ttu-id="2ddb7-104">A vásárlási folyamat megkezdéséhez olvassa el a [Híváscsomag vásárlása](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) című témakört.</span><span class="sxs-lookup"><span data-stu-id="2ddb7-104">See [How to buy a Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) to start the purchasing process.</span></span>
+- <span data-ttu-id="bcebb-104">A vásárlási folyamat megkezdéséhez olvassa el a [Híváscsomag vásárlása](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) című témakört.</span><span class="sxs-lookup"><span data-stu-id="bcebb-104">See [How to buy a Calling Plan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) to start the purchasing process.</span></span>
 
-- <span data-ttu-id="2ddb7-105">A [Kommunikációs kreditek](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) beállításával megakadályozhatja, hogy a felhasználók **elhasználják az összes percet**.</span><span class="sxs-lookup"><span data-stu-id="2ddb7-105">Setup [Communication Credits](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) to prevent users from **running out of minutes**.</span></span> <span data-ttu-id="2ddb7-106">Az árak megtekinthetők [itt](https://products.office.com/microsoft-teams/voice-calling).</span><span class="sxs-lookup"><span data-stu-id="2ddb7-106">See rates [here](https://products.office.com/microsoft-teams/voice-calling).</span></span> 
+- <span data-ttu-id="bcebb-105">A [Kommunikációs kreditek](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) beállításával megakadályozhatja, hogy a felhasználók **elhasználják az összes percet**.</span><span class="sxs-lookup"><span data-stu-id="bcebb-105">Setup [Communication Credits](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) to prevent users from **running out of minutes**.</span></span> <span data-ttu-id="bcebb-106">Az árak megtekinthetők [itt](https://products.office.com/microsoft-teams/voice-calling).</span><span class="sxs-lookup"><span data-stu-id="bcebb-106">See rates [here](https://products.office.com/microsoft-teams/voice-calling).</span></span> 
 
-- <span data-ttu-id="2ddb7-107">További információ: [Microsoft Teams-telefon és Microsoft](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) Teams-hívástervek vagy [Kommunikációs kreditek.](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span><span class="sxs-lookup"><span data-stu-id="2ddb7-107">For more info, see [Microsoft Teams Phone and Microsoft Teams Calling Plans](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) or [What are Communication Credits?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span></span>
+- <span data-ttu-id="bcebb-107">További információ: [Microsoft Teams-telefon és Microsoft](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) Teams-hívástervek vagy [Kommunikációs kreditek.](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span><span class="sxs-lookup"><span data-stu-id="bcebb-107">For more info, see [Microsoft Teams Phone and Microsoft Teams Calling Plans](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) or [What are Communication Credits?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)</span></span>
