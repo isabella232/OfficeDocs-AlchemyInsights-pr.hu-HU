@@ -2,7 +2,7 @@
 title: Excel-munkafüzet megosztása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739287"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828442"
 ---
-# <a name="collaborate-on-excel-documents"></a>Együttműködés az Excel-dokumentumokon
+# <a name="collaborate-on-excel-documents"></a>Együttműködés Excel-dokumentumokon
 
-Ha munkatársaival együtt szeretne dolgozni az Excel-dokumentumokon, használja a **közös szerkesztés funkcióját**. 
+Ha Excel-dokumentumokon szeretne együttműködni munkatársaival, használja a **társszerzői funkciót.** 
 
-További információ a funkció engedélyezéséről és használatáról, valamint a megosztással és közös létrehozással kapcsolatos gyakori kérdésekre adott válaszok, [az Excel-munkafüzetek közös szerkesztése](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)című témakörben talál segítséget.
+A megosztással és a társszerzőségsel kapcsolatos gyakori kérdésekre adott válaszokon kívül a [](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)közös munka Excel-munkafüzeteken való közös munka a társszerzőség funkcióval című cikkből megismerhet további tudnivalókat.

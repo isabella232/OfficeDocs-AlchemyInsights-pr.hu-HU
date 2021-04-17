@@ -1,8 +1,8 @@
 ---
-title: A Microsoft ToDo-hez szükséges licencek
+title: Szükséges licencek a Microsoft ToDo alkalmazáshoz
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +14,18 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 490f1b2284c99d5f6b90b1cd3ac9ad526bda97d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692297"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828766"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>A Microsoft ToDo-hez szükséges licencek
+# <a name="required-licenses-for-microsoft-todo"></a>Szükséges licencek a Microsoft ToDo alkalmazáshoz
 
-[A Microsoft ToDo-hez szükséges licencek](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Szükséges licencek a Microsoft ToDo alkalmazáshoz](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-A Microsoft ToDo használatához a felhasználóknak az alábbi licencek egyikével kell rendelkezniük:
+A felhasználónak az alábbi licencek egyikével kell rendelkezik a Microsoft ToDo szolgáltatáshoz:
   
 - Vállalati Alapverzió
 
@@ -33,21 +33,21 @@ A Microsoft ToDo használatához a felhasználóknak az alábbi licencek egyiké
 
 - Microsoft 365 Firstline F1
 
-- Bármely Office 365 Enterprise csomag
+- Bármely Office 365 Nagyvállalati csomag
 
-- Biztonságos termelékeny üzlet
+- Secure Productive Business
 
-- Biztonságos hatékony nagyvállalati E3 csomag
+- Secure Productive Enterprise E3
 
-- Biztonságos termelékeny nagyvállalati E5 csomag
+- Secure Productive Enterprise E5
 
-- Bármely Office 365 oktatási csomag
+- Bármely Office 365 Oktatási csomag
 
-- Microsoft 365 a3
+- Microsoft 365 A3
 
-- Microsoft 365 a5 csomag
+- Microsoft 365 A5
 
-Az érvényes termékspecifikus licencen kívül az Exchange Online alábbi verzióinak egyike is szükséges ahhoz, hogy a ToDo felhasználói adatokat szinkronizáljon:
+Az érvényes terméklicenc mellett az Exchange Online alábbi verzióinak egyikére is szükség van ahhoz, hogy a ToDo szinkronizálni tudja a felhasználói adatokat:
   
 - Exchange Online 1. csomag
 
@@ -55,7 +55,7 @@ Az érvényes termékspecifikus licencen kívül az Exchange Online alábbi verz
 
 - Exchange Essentials
 
-- Exchange Online kioszk
+- Exchange Online Kioszk
 
 - Exchange Online POP
 

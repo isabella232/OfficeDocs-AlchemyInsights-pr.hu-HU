@@ -1,8 +1,8 @@
 ---
-title: Office 365 oktatási csomagokhoz és árakhoz
+title: Office 365 Oktatási csomagok és árak
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,16 +14,16 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6d6292fddfceb03191c29dc14e9b2295da52e4ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729585"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829594"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a>A Microsoft 365 ingyenes letöltése az egész iskolának
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>A Microsoft 365 ingyenes 365-öt ingyenesen a teljes iskolája számára
 
-Fejlessze az osztálytermi és iskolai együttműködést a szabad hatékonyságnövelő eszközökkel. A fenti ajánlatok előnyeinek kihasználása érdekében ellenőriznie kell, hogy Ön akkreditált oktatási intézmény-e.
+Ingyenes hatékonyságnövelő eszközökkel javíthatja az osztálytermi és iskolai együttműködést. Az ajánlatok előnyeinek kihasználás érdekében igazolnia kell, hogy akkreditált oktatási intézmény.
   
 - [Az oktatási csomagok áttekintése](https://products.office.com/academic/compare-office-365-education-plans)
 

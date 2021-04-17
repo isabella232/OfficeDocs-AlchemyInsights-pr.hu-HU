@@ -2,21 +2,22 @@
 title: Outlookos e-mailek, névjegyek és naptári elemek importálása és exportálása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002365"
 - "4594"
-ms.openlocfilehash: 853a85593d6a5a12690bd51388e31f7adb7bc4c4
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: f5acdb44bc69e9929988824fd52bbfb0979f4ca2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232719"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829198"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Outlookos e-mailek, névjegyek és naptári elemek importálása és exportálása
 

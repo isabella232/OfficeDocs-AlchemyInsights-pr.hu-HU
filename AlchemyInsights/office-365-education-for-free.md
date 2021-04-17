@@ -1,8 +1,8 @@
 ---
-title: Office 365 oktatási verzió ingyen
+title: Ingyenes Office 365 Oktatási intézményeknek
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,15 +13,15 @@ ms.custom:
 - "1426"
 - "1500009"
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
-ms.openlocfilehash: 3769774271ac88d359071e8ea741f2a0faa4dc7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca1d0674fb246b0bf7b3899b21fac503675c0a23
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729945"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829630"
 ---
-# <a name="office-365-education-for-free"></a>Office 365 oktatási verzió ingyen
+# <a name="office-365-education-for-free"></a>Ingyenes Office 365 Oktatási intézményeknek
 
-[Office 365 oktatási verzió ingyen](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[Ingyenes Office 365 Oktatási intézményeknek](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-Nem próbaverzió! A tanulók és a tanárok jogosultak az Office 365-oktatási verzióra, amely a Word, az Excel, a PowerPoint, a OneNote és a most Microsoft Teams, valamint további osztálytermi eszközök lehetőséget tartalmazza.
+Ez nem próbaverzió! A diákok és a tanárok jogosultak az Office 365 Oktatási verzióra, amely tartalmazza a Word, az Excel, a PowerPoint, a OneNote és mostantól a Microsoft Teamst, valamint további osztálytermi eszközöket.

@@ -2,21 +2,22 @@
 title: A kifizetést a rendszer elutasította
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160985"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829054"
 ---
 # <a name="your-payment-was-declined"></a>A kifizetést a rendszer elutasította
 
@@ -24,20 +25,31 @@ A Microsoft a számla dátuma után 3-4 héten belül többször is megkísérli
 
 **Fontos**: Ha új kártyát vett fel, és továbbra is elutasítási közleményt kap a régi hitelkártyáján, akkor lehetséges, hogy társítania kell az új kártyát az előfizetéshez.
 
-1. Nyissa meg a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** elemet.
+**A fizetési mód cseréje az összes tételnél**
 
-2. Jelölje ki azt az előfizetést, amelyet az új kártyával vagy bankszámlával szeretne fizetni. A **Számlázás** szakaszban, a fizetési mód mellett kattintson a **Szerkesztés** elemre.
+1. A Felügyeleti központban menjen a **Számlázás** > **Számlázás és fizetés** > [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra.
 
-3. Kattintson a jelenlegi fizetési mód melletti **Módosítás** gombra.
+2. Jelölje ki a lecserélni kívánt fizetési mód sorát! A jobb oldali ablaktáblában láthatja az összes számlázási profilt és egyéni előfizetést, amelyek a választott fizetési módot használják.
 
-4. A legördülő menüben válasszon egy másik fizetési módot, vagy adjon hozzá egy új fizetési módot.
+3. A jobb oldali ablaktáblában válassza a **Fizetési mód cseréje az összes tételnél** lehetőséget.
 
-**Fizetési mód frissítése vagy új fizetési mód hozzáadása**
+4. Meglévő fizetési mód használatához válasszon egyet a legördülő listából, majd válassza a **Csere** lehetőséget.
 
-1. Lépjen a **Számlázás > Számlázás és fizetés > [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806)** lapra.
+    > [!NOTE]
+    > Ha számlázási profillal társított előfizetései vannak, csak hitelkártyával vagy bankkártyával rendezheti fizetheti a szolgáltatásokért. Ha **Fizetési módok** között szereplnek bankszámái, azok nem lesznek elérhetőek a legördülő listában.
 
-2. Kattintson a **Fizetési mód hozzáadása** elemre, válassza ki a kártyát vagy a bankszámlát a frissítéshez, és kattintson a **Szerkesztés** elemre.
+5. Új fizetési mód hozzáadásához válassza a **Fizetési mód hozzáadása** lehetőséget.
 
-3. Frissítse a fizetési mód adatait (a kártyán vagy a bankszámlán szereplő nevet, a számlázási címet, a telefonszámot vagy az érvényességi dátumot), majd kattintson a **Mentés** elemre.
+6. Az **Fizetési mód hozzáadása** ablaktáblában adja meg a fiók adatait, majd válassza a **Mentés** lehetőséget. A bérlővel azonos országból származó fizetési módot kell használnia.
 
-4. Ne feledje erre az új fizetési módra módosítani az előfizetése(i) fizetési módját. További információért lásd: [Fizetési mód hozzáadása, frissítése vagy eltávolítása](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. Az új fizetési mód már ki van választva a legördülő listában. Válassza a **Csere** lehetőséget.
+
+**Fizetési adatok részleteinek frissítése**
+
+1. A Felügyeleti központban menjen a **Számlázás** > **Számlázás és fizetés** > [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra.
+
+2. Jelölje ki a frissíteni kívánt fizetési mód sorát! A jobb oldali panelben válassza a **Szerkesztés** lehetőséget.
+
+3. Frissítse a fizetési mód adatait, beleértve a hitel- vagy bankkártyán szereplő nevet, a számlázási címet, vagy a lejárati dátumot, majd válassza a **Mentés** lehetőséget.
+
+További információért lásd: [Fizetési módok kezelése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

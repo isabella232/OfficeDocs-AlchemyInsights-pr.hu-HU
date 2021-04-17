@@ -1,8 +1,8 @@
 ---
-title: Áttérés a Microsoft streamről az új Microsoft-adatfolyamra
+title: Áttelepítés a Microsoft Streamről (klasszikus) az új Microsoft Streamre
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "6450"
-ms.openlocfilehash: df9dab8a28ae0ca663279aa8805091c7076e3cbd
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 1443213e1d7c38f83098b6539b2fae6d387aad16
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48274863"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829810"
 ---
-# <a name="migrate-from-microsoft-stream-classic-to-the-new-microsoft-stream"></a>Áttérés a Microsoft streamről az új Microsoft-adatfolyamra
+# <a name="migrate-from-microsoft-stream-classic-to-the-new-microsoft-stream"></a>Áttelepítés a Microsoft Streamről (klasszikus) az új Microsoft Streamre
 
-Ha többet szeretne tudni a klasszikus adatfolyamról az új adatfolyamra való áttérésről, olvassa el a [Microsoft streamről az új Microsoft stream-re való áttérést](https://docs.microsoft.com/stream/classic-migration) ismertető témakört.
+A klasszikus streamről az Új streamre való áttelepítésről további információt az Áttelepítés a [Microsoft Streamről (klasszikus)](https://docs.microsoft.com/stream/classic-migration) az új Microsoft Streamre

@@ -1,8 +1,8 @@
 ---
-title: Lemezterület mentése a Mac OneDrive-fájlokkal
+title: Lemezterület megtakarítása a Mac OneDrive Igény szerinti fájlok szolgáltatásával
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 32aa2fa21acc647092aac75484dde809a7208113
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 3b2e13a57e5b0195c8e2e38dabc439f5b4e8c23e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807522"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828658"
 ---
-# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Lemezterület mentése a Mac OneDrive-fájlokkal
+# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Lemezterület megtakarítása a Mac OneDrive Igény szerinti fájlok szolgáltatásával
 
-A OneDrive-on tárolt fájlok segítségével az összes fájlját OneDrive anélkül érheti el, hogy az összeset le kellene töltenie, és az eszközén tárterületet kellene használnia.  
+A OneDrive Igény szerinti fájlok funkcióval az összes OneDrive-fájlját elérheti anélkül, hogy az összeset le kell töltenie, és tárhelyet használ az eszközén.  
 
-Ha új OneDrive-fiókokat használ a Mac OS Mojave-es vagy újabb verziójában, az igény szerinti fájlok alapértelmezés szerint be vannak kapcsolva a OneDrive beállításakor. A meglévő felhasználóknak be kell kapcsolniuk az igény szerinti fájlokat a OneDrive beállításaiban.  
+A Mac OS Mojave vagy újabb rendszeren az új OneDrive-fiókok esetén a OneDrive beállításakor alapértelmezés szerint be van kapcsolva az Igény szerinti fájlok beállítás. A meglévő felhasználóknak be kell kapcsolnia az Igény szerinti fájlok beállítást a OneDrive beállításai között.  
 
-[További információ a Mac rendszer igény szerinti fájljairól](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0).
+További információ a Mac OS Igény szerinti [fájlokról.](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0)
