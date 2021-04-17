@@ -1,8 +1,8 @@
 ---
-title: Önkiszolgáló adásvételi kérdés
+title: Önkiszolgáló vásárlási kérdés
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 676f8807db95d50e1e714bcf0480e7a8802f2b06
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6294456c9e6c61e52da5e02a8f2e2ccee9fa1323
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740007"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835633"
 ---
 # <a name="self-service-purchase"></a>Önkiszolgáló vásárlás
 
-**Milyen funkciókat nyújt a rendszergazdák önkiszolgáló vásárlásokhoz?**
+**Milyen lehetőségei vannak a rendszergazdáknak az önkiszolgáló vásárlásokkal?**
 
-A rendszergazdák megtekinthetik a szervezeten belül a Microsoft 365 felügyeleti központban végzett összes önkiszolgáló vásárlást. A termékek, a beszerző neve, az előfizetések megvásárlása, a lejárati idő, a korábbi rendelések, a vételár és a hozzárendelt felhasználók minden önkiszolgáló vásárlásban megjelenhetnek.  Ha a szervezete szükséges, a rendszergazdák a PowerShellen keresztül kikapcsolhatják az önkiszolgáló terméket.  A rendszergazdáknak ugyanazok az adatkezelési és hozzáférési szabályok, mint az önkiszolgáló vásárlásban vagy központilag vásárolt termékekkel.
+A rendszergazdák a szervezet összes önkiszolgáló vásárlását megtekinthetik a Microsoft 365 Felügyeleti központban. Minden önkiszolgáló vásárláshoz láthatják a terméket, a beszerző nevét, a megvásárolt előfizetéseket, a lejárati dátumot, a rendelési előzményeket, a beszerzési árat és a hozzárendelt felhasználókat.  Ha a szervezet számára kötelező, a rendszergazdák termékenként kikapcsolják az önkiszolgáló vásárlást a PowerShellen keresztül.  A rendszergazdák ugyanazokkal az adatkezelési és hozzáférési házirendekkel rendelkezik, mint az önkiszolgáló vásárlással vagy központilag vásárolt termékekkel kapcsolatban.
 
-[Önkiszolgáló vásárlás – gyakori kérdések](https://aka.ms/self-service-purchase-faq)
+[Önkiszolgáló vásárlással kapcsolatos gyakori kérdések](https://aka.ms/self-service-purchase-faq)
 
