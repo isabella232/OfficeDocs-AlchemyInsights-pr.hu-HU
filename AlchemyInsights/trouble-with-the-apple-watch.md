@@ -1,8 +1,8 @@
 ---
-title: Probléma az Apple-figyeléssel
+title: Probléma az Apple Watchgal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700025"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832276"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Probléma az Apple-figyeléssel
+# <a name="trouble-with-the-apple-watch"></a>Probléma az Apple Watchgal
 
-Ha problémákat tapasztal az Apple-beli Outlook használata közben, az alábbi hibaelhárítási lépéseket tapasztalhatja: 
+Ha problémái vannak az Outlook Apple Watchon való használatával, az alábbi hibaelhárítási lépéseket követve háríthatja el: 
 
-1. Nyissa meg az iPhone-on futó óra alkalmazást.
+1. Ugrás a Figyelőalkalmazáshoz iPhone-on.
 
-2. Keresse meg az Outlook alkalmazást.
+2. Görgessen az Outlook apphoz.
 
-3. **Kapcsolja ki** az eltávolításhoz az "app megjelenítése Apple-bemutatóhoz" kapcsolót.
+3. Az eltávolításhoz az "Alkalmazás megjelenítése Apple Watchon" kapcsolót **KI-nak** kell ki-nek ki kapcsolva.
 
-4. Kapcsolja **be az** "app megjelenítése az Apple-nézéshez" kapcsolót a figyelésre való ismételt telepítéshez.
+4. Az "Alkalmazás megjelenítése Apple Watchon" kapcsolót **BE-re** váltással telepítheti újra a Watch eszközre.
 
-5. Az Apple App alkalmazásban indítsa el az Outlook alkalmazást, és várjon, amíg meg nem jelennek a legújabbak. 
+5. Indítsa el az Outlook appot az Apple Watchon, és várja meg, amíg az adatok szinkronizálódnak a legújabb verzióra. 
 
-Ha a probléma nem szűnik meg, a támogatási csoport szívesen segít. Nyissa meg a **beállítások > a súgó & a visszajelzés >** az ügyfélszolgálatot. 
+Ha a probléma nem oldódik meg, a támogatási csoport szívesen segít ebben. Lépjen **a Beállítások > Súgó & vagy az > ügyfélszolgálathoz lapra.** 

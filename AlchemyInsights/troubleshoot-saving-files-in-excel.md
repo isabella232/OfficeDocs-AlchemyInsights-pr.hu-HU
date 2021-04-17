@@ -1,8 +1,8 @@
 ---
-title: Fájlok mentése az Excelben – hibaelhárítás
+title: Fájlok mentésének hibaelhárítása az Excelben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000703"
 - "2608"
-ms.openlocfilehash: 71de9a0fced18d90468da4c103e1707c506590c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 809774fd5a8c1fea087d1c9f000f24f3d56175b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664856"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832168"
 ---
-# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>Az Excel-munkafüzetek mentésekor előforduló hibák elhárítása
+# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>Excel munkafüzetek mentésekor a hibák elhárítása
 
-Ha problémát tapasztal az Excel-munkafüzetek mentésekor, olvassa el [ az Excel-munkafüzetek mentésekor előforduló hibák elhárítása](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)című témakört.
+Ha problémái vannak a munkafüzetek Excelben való mentésekor, tekintse át az Excel-munkafüzetek mentésekor előforduló hibák elhárítása című [témakört.](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)

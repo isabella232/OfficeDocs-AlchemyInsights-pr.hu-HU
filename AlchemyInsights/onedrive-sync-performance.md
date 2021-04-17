@@ -1,27 +1,28 @@
 ---
-title: OneDrive szinkronizálási teljesítmény
+title: A OneDrive szinkronizálási teljesítménye
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5840"
-ms.openlocfilehash: f8d91b6a131b9dcb4558634964e294b2b6815df6
-ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
-ms.translationtype: MT
+ms.openlocfilehash: 6fa34593012fd81283eaac50661be8ec9adaf6b4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708007"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832744"
 ---
-# <a name="onedrive-sync-performance"></a>OneDrive szinkronizálási teljesítmény
+# <a name="onedrive-sync-performance"></a>A OneDrive szinkronizálási teljesítménye
 
-Ha a vártnál lassabb szinkronizálást vagy hasonló teljesítményproblémákat tapasztal a OneDrive-on, olvassa el az alábbi hivatkozásokat:
+Ha a vártnál lassabb szinkronizálást vagy hasonló teljesítménybeli problémákat tapasztal a OneDrive-val kapcsolatban, tekintse meg az alábbi hivatkozásokat:
 
-- [Fájlok engedélyezése igény szerint](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e)
-- [Maximalizálja a feltöltési és letöltési sebességet](https://support.microsoft.com/office/8eeadfb8-501f-406d-997b-98ab6ff67f43?ui=en-us&rs=en-us&ad=us)
+- [Igény szerinti fájlok engedélyezése](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e)
+- [A feltöltési és letöltési sebesség maximalizálása](https://support.microsoft.com/office/8eeadfb8-501f-406d-997b-98ab6ff67f43?ui=en-us&rs=en-us&ad=us)
 - [A OneDrive szinkronizációs problémáinak elhárítása](https://support.office.com/article/0899b115-05f7-45ec-95b2-e4cc8c4670b2)

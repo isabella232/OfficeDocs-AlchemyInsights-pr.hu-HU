@@ -1,8 +1,8 @@
 ---
-title: SharePoint Online-naptárak átfedő
+title: Átfedéses SharePoint Online-naptár
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 052330e0cf84c2dbb1586803806b8d013e53dd12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cd18da6e7091153abeeadb83f6f9d95e615dea2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665504"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833473"
 ---
-# <a name="sharepoint-online-calendar-overlay"></a>SharePoint Online-naptárak átfedő
+# <a name="sharepoint-online-calendar-overlay"></a>Átfedéses SharePoint Online-naptár
 
-Ha a SharePoint-naptárak ugyanazon a webhelycsoportban vannak, átfedik egy másik SharePoint-naptárt is. Az Exchange Online szolgáltatásból beolvasott SharePoint Online-vagy SharePoint Server-naptárban nem használhatók a Naptárak átfedésének lehetőségei.
+Átfedésbe is hagyhat egy másik SharePoint-naptárt, ha mindkét SharePoint-naptár ugyanabban a webhelycsoportban található. Az átfedésbe hozó naptárak nem használhatók az Exchange Online-ból beolvasható SharePoint Online- vagy SharePoint Server-naptárakban.
 
-A SharePoint Online modern felületet kínál a Microsoft 365-csoport naptárai számára. További információt [a csoport naptár kijelző használata](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce)című témakörben talál.
+A SharePoint Online modern felhasználói élményt nyújt a Microsoft 365-csoportnaptárokkal. További információ: [A Csoportnaptár kijelző használata.](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce)

@@ -2,7 +2,7 @@
 title: Office-ügyfélalkalmazások telepítése PC-re vagy Macre
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708352"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831952"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Office-ügyfélalkalmazások telepítése PC-re vagy Macre
 
@@ -25,9 +25,9 @@ Az Office-ügyfélalkalmazások telepítéséhez győződjön meg arról, hogy o
 
 **Megjegyzés**: Az [Office Otthoni és kisvállalati verzió](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) egy [otthoni használatra szánt Office-termék](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), és nem egy vállalati előfizetés része. A Project Online alapverzióban nem szerepel a Project asztali verziója, így telepítésre sincs szükség. A Visio 1. csomag felhasználói a Webes Visiót használhatják, mert a csomag nem tartalmazza az asztali Visio alkalmazást. Az asztali Project és Visio alkalmazások nem használhatók Mac gépeken.
 
-Ha Microsoft 365-appokat tartalmazó előfizetése van, csak akkor fogja látni a telepítésre vonatkozó lehetőséget, ha rendelkezik [hozzárendelt licenccel.](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home) Ha Ön a licencek kiosztásáért felelős Office 365-rendszergazda, olvassa el a [Licencek hozzárendelése a felhasználókhoz](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home) című témakört. Továbbá az [Office‎ szoftverletöltési beállításaival](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) megadhatja, hogy a felhasználók telepíthetnek-e ‎Office-alkalmazásokat‎ a saját eszközeiken.
+Ha Microsoft 365-alkalmazások tartalmazó előfizetése van, akkor is csak abban az esetben jelenik meg a telepítési lehetőség, ha van [hozzárendelt licence](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Ha Ön a licencek kiosztásáért felelős Office 365-rendszergazda, olvassa el a [Licencek hozzárendelése a felhasználókhoz](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home) című témakört. Továbbá az [Office‎ szoftverletöltési beállításaival](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) megadhatja, hogy a felhasználók telepíthetnek-e ‎Office-alkalmazásokat‎ a saját eszközeiken.
 
-**Megjegyzés:** Az [Office aktiválási](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) jelentésében látható, hogy mely felhasználók telepítették és aktiválták Microsoft 365-alkalmazásukat legalább egy eszközön.
+**Megjegyzés:** Az [Office aktiválása](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) jelentés bepillantásba veszi, hogy mely felhasználók telepítették és aktiválták a Microsoft 365-alkalmazásokat legalább egy eszközön.
 
 Ezt követően minden felhasználó:
 

@@ -1,8 +1,8 @@
 ---
-title: A lista elrejtésének és felfedésének lépései
+title: Instructions to hide/unhide group from address list
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 1ad9ab294d46ca0fc88a454e3503ddcf80398896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d55866700b9b8494f1f692cd3b865116b96a1bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663011"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831880"
 ---
-# <a name="hide-microsoft-365-group-from-address-list-gal"></a>A Microsoft 365-csoport elrejtése a címlista listából (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Microsoft 365-csoport elrejtése a címlistából
 
-Ha el szeretné rejteni a Microsoft 365-csoportot az Exchange-ügyfélprogramokból (például az Outlookból vagy az OWAből) származó címlistákból, használja az alábbi parancsot az EXO shellben:
+Ha el kell rejtenie egy Microsoft 365-csoportot az Exchange-ügyfelek (például az Outlook vagy az OWA) címlistái elől, használja az alábbi parancsot az EXO rendszerhéjban:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Ha el szeretné rejteni a Microsoft 365-csoportot az Exchange-ügyfélprogramok számára láthatóvá, használja az EXO Shell következő parancsát:
+Ha el kell rejtenie a Microsoft 365-csoportot az Exchange-ügyfelek elől, használja a következő parancsot az EXO rendszerhéjban:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

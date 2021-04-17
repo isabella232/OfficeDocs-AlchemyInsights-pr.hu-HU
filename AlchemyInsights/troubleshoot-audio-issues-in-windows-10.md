@@ -1,8 +1,8 @@
 ---
-title: Hangproblémák elhárítása a Windows 10 rendszerben
+title: Hangproblémák elhárítása a Windows 10-ben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750309"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833293"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Hangproblémák elhárítása a Windows 10 rendszerben
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Hangproblémák elhárítása a Windows 10-ben
 
-**A hang hibaelhárító futtatása**
+**A hanghibát hibaelhárító futtatása**
 
-1.  A [hibaelhárítási beállítások](ms-settings:troubleshoot)megnyitása
+1.  Nyissa meg [a Hibaelhárítási beállításokat.](ms-settings:troubleshoot)
 
-2.  Válassza a **hang lejátszása**  >  **parancsot a hibaelhárítót**.
+2.  Válassza **a**  >  **Hanglejátszás futtassa a hibaelhárítót lehetőséget.**
 
 **Az alapértelmezett eszköz beállítása**
 
-Ha USB-vagy HDMI-kapcsolattal csatlakoztat egy hangeszközt, lehetséges, hogy alapértelmezettként kell beállítania az eszközt:
+Ha USB-n vagy HDMI-n keresztül csatlakozik egy hangeszközhöz, előfordulhat, hogy az eszközt alapértelmezettként kell beállítania:
 
-1. Nyissa meg a **Start**  >  **Sound**gombot, majd a találatok listájában válassza a **hang** vagy a **rendszerhangok módosítása** parancsot.
+1. Nyissa **meg** a Start Hang menüt, majd a találatok listájában válassza a Hang vagy a  >  Rendszerhangok módosítása lehetőséget.  
 
-2.  A **Lejátszás** lapon jelöljön ki egy eszközt, válassza az **alapértelmezett**lehetőséget, majd kattintson **az OK gombra**.
+2.  A Lejátszás **lapon** jelöljön ki egy eszközt, válassza **az** Alapértelmezett gombra, majd az OK **gombot.**
 
-**Kábelek, hangerő, hangszórók és fejhallgató ellenőrzése**
+**A kábelek, a hangerő, a hangszórók és a fejhallgatók ellenőrzése**
 
-1. Ellenőrizze a hangszóró és a fejhallgató kapcsolatát a laza kábeleknél, és győződjön meg róla, hogy a megfelelő aljzathoz csatlakoznak.
+1. Ellenőrizze, hogy a hangszóró és a fejhallgató kábelei vannak-e lazán, és győződjön meg arról, hogy a megfelelő csatlakozóhoz vannak csatlakoztatva.
 
-2. Ellenőrizze a Power és a hangerő szintjét, és próbálja meg bekapcsolni az összes mennyiségi vezérlőt.
+2. Ellenőrizze a tápellátást és a hangerő szintjét, és próbálja meg felfelé forgatni az összes hangerővezérlőt.
 
-3. Egyes hangszórók és alkalmazások saját hangerőszabályzóval rendelkeznek; lehet, hogy ellenőrizni kell őket, hogy biztosan a megfelelő szinten legyenek.
+3. Egyes hangszórók és alkalmazások saját hangerővezérlővel is rendelkezik; lehet, hogy mindegyiket ellenőriznie kell, hogy a megfelelő szinten vannak-e.
 
-4. Próbáljon meg csatlakozni egy másik USB-porton keresztül.
+4. Próbáljon meg másik USB-portot használni a csatlakozáshoz.
 
-**Megjegyzés**: ne feledje, hogy a hangszórók nem működnek, ha a fejhallgató csatlakoztatva van.
+**Megjegyzés:** Ne feledje, hogy előfordulhat, hogy a hangszórók nem működnek, ha a fejhallgató csatlakoztatva van.
 
 **Az Eszközkezelő ellenőrzése**
 
-Ha meg szeretne győződni arról, hogy az illesztőprogramok naprakészek:
+Annak érdekében, hogy az illesztőprogramok naprakészek-e:
 
-1. Válassza a **Start**gombot, írja be az **Eszközkezelő**parancsot, majd válassza az **Eszközkezelő** elemet a találatok listájából.
+1. Válassza **a Start** gombot,  írja be az **Eszközkezelő**, majd a találatok listájában válassza az Eszközkezelő lehetőséget.
 
-2. A **hang-, video-és játékvezérlők**csoportban jelölje ki a hangkártyáját, nyissa meg, majd válassza az **illesztőprogram** fület, és válassza az **Illesztőprogram frissítése**lehetőséget.
+2. A **Hang-, video-** és játékvezérlők alatt válassza ki  a hangkártyát, nyissa meg, válassza az Illesztőprogram fület, majd az **Illesztőprogram frissítése lehetőséget.**
 
-**Megjegyzés**: Ha a Windows nem talál új illesztőprogramot, keresse meg az eszköz gyártójának webhelyét, és kövesse az útmutatást.
+**Megjegyzés:** Ha a Windows nem talál új illesztőprogramot, keressen egyet az eszköz gyártójának webhelyén, és kövesse az ott található útmutatást.
 
 **Az illesztőprogram újratelepítése**
 
-Ha nem tudja frissíteni az Eszközkezelőn keresztül, vagy keressen egy új illesztőprogramot a gyártó webhelyén, próbálkozzon az alábbi lépésekkel:
+Ha nem tud az Eszközkezelőn keresztül frissíteni, vagy új illesztőprogramot keres a gyártó webhelyén, próbálkozzon az alábbi lépésekkel:
 
-1. Az Eszközkezelőben kattintson a jobb gombbal a hangillesztőprogramra (vagy tartsa nyomva), és válassza az **Eltávolítás**parancsot. Indítsa újra az eszközt, és a Windows megkísérli újratelepíteni az illesztőprogramot.
+1. Az Eszközkezelőben kattintson a jobb gombbal a hangillesztő illesztőprogramra (vagy tartsa nyomva), és válassza az Eltávolítás **lehetőséget.** Indítsa újra az eszközt, és a Windows megpróbálja újratelepíteni az illesztőprogramot.
 
-2. Ha nem működik az illesztőprogram újratelepítése, próbálja meg használni a Windows általános hangillesztőprogramját. Az Eszközkezelőben kattintson a jobb gombbal (vagy tartsa lenyomva) a hangvezérlőt > **Illesztőprogram frissítése**a  >  **számítógépen az illesztőprogram-szoftverek között**az eszközillesztők  >  **listájában a számítógépen**, válassza a **High Definition hangeszköz**lehetőséget, majd a **tovább**lehetőséget, és kövesse az utasításokat a telepítéshez.
+2. Ha az illesztőprogram újratelepítése nem működik, próbálkozzon a Windows általános hangillesztőjével. Az Eszközkezelőben kattintson a jobb gombbal a hangillesztőprogramra (vagy tartsa nyomva), > Illesztőprogram frissítése: Tallózással keresse meg a számítógépen az illesztőprogramokat: Válasszon a számítógépen található illesztőprogramok listájából, válassza a High Definition Audio Device (Nagy felbontású hangeszköz) lehetőséget, válassza a Tovább gombot, és kövesse a telepítési  >    >  útmutatót.  

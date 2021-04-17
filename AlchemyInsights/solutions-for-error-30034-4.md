@@ -1,8 +1,8 @@
 ---
-title: A 30034-4-es kódú hibák megoldása
+title: A 30034-4-es hibakódú megoldások
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -14,25 +14,25 @@ ms.custom:
 - "836"
 - "2000020"
 ms.assetid: 02266d4a-f703-43da-9899-277d3664a447
-ms.openlocfilehash: 02f74a04c1f18e176b7044be1de9323109d12aac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2350a49528380683c58a69638040a41d670e1cfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738855"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832492"
 ---
-# <a name="solutions-for-error-30034-4"></a>A 30034-4-es kódú hibák megoldása
+# <a name="solutions-for-error-30034-4"></a>A 30034-4-es hibakódú megoldások
 
-Próbálkozzon ezekkel a megoldásokkal a [30034-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)-es hiba kijavításához:
+A [30034-4-es](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)hiba kijavítása érdekében próbálkozzon az alábbi megoldásokkal:
   
-- Indítsa újra a számítógépet, és próbálja meg [telepíteni az Office](https://portal.office.com/OLS/MySoftware.aspx)-t.
+- Indítsa újra a számítógépet, és próbálja meg [telepíteni az Office-t.](https://portal.office.com/OLS/MySoftware.aspx)
 
 - Töltse le és telepítse a [Támogatási és helyreállítási segédet](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Amikor megnyílik, az **Office-termékek eltávolítása** lapon jelölje ki az eltávolítani kívánt verziót, és válassza a **tovább**gombot.
+1. Amikor megnyílik, az **Office-termékek eltávolítása párbeszédpanelen** jelölje ki az eltávolítani kívánt verziót, és válassza a Tovább **gombot.**
 
 2. Folytassa a képernyőkön végighaladva, és amikor a rendszer kéri, indítsa újra a számítógépet.
 
-    Az újraindítást követően a támogatási és helyreállítási segéd automatikusan újra megnyílik az eltávolítási folyamat befejezéséhez.
+    Az újraindítás után a Támogatási és helyreállítási segéd automatikusan újra megnyílik az eltávolítási folyamat befejezéséhez.
 
-3. Kövesse a hátralévő utasításokat, és [telepítse újra az Office](https://portal.office.com/OLS/MySoftware.aspx) -t, vagy zárja be a Segédet.
+3. Kövesse a további utasításokat, és telepítse [újra az Office-t,](https://portal.office.com/OLS/MySoftware.aspx) vagy zárja be az asszisztenst.

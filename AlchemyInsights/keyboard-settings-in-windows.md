@@ -1,8 +1,8 @@
 ---
-title: 'A Windows 10 billentyűzet beállításai '
+title: 'Billentyűzetbeállítások a Windows 10-ben '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772805"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832969"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>A Windows 10 billentyűzet beállításai
+# <a name="keyboard-settings-in-windows-10"></a>Billentyűzetbeállítások a Windows 10-ben
 
-**Típus beállításai**
+**Gépelés beállításai**
 
-Ha módosítani szeretné a helyesírás-ellenőrzéssel, az automatikus javítással és a hardverrel és érintéses billentyűzettel kapcsolatos Windows-beállításokat, válassza a **beállítások > eszközök > a gépelés lehetőséget**. 
+A Windows helyesírás-ellenőrzéssel, automatikus javítással, javaslatokkal és a hardveres és érintőbillentyűzet más aspektusaival kapcsolatos beállítások módosításához a Gépelés beállításai > eszközök **> gombra kell lépnie.** 
 
-**A nyelv és a billentyűzet beállításai**
+**Nyelvi és billentyűzetbeállítások**
 
-Ha módosítani szeretné a Windows-nyelvhez használni kívánt billentyűzettel vagy beviteli módszerrel kapcsolatos beállításokat, válassza a **beállítások > idő & nyelv > nyelv lehetőséget**. Az **előnyben részesített nyelvek** listában válassza a nyelvek **lehetőséget** , majd kattintson a beállítások gombra, ha billentyűzetet vagy írásjegybevivőt szeretne hozzáadni vagy eltávolítani.
+Ha meg kell változtatnia a Windows-nyelvekhez használt billentyűzettel vagy beviteli módszerrel kapcsolatos beállításokat, kattintson a Beállítások > Idő és & **> lapra.** Válasszon nyelveket az Előnyben  **részesített nyelvek listában,** majd kattintson a Beállítások gombra billentyűzetek vagy beviteli módszerek hozzáadásához és eltávolításához.
