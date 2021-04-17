@@ -1,8 +1,8 @@
 ---
-title: Elakad a Postázandó üzenetek mappa nagyméretű mellékletei miatt
+title: A túl nagy mellékletek miatt elakad a Beérkezett üzenetek mappában
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 2185c1439d84a3beea00fe6849c1dae456131b96
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451834"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825013"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a><span data-ttu-id="8d7bd-102">A Postázandó üzenetek mappában beragadt üzenetek kijavítása a SaRA szolgáltatóval</span><span class="sxs-lookup"><span data-stu-id="8d7bd-102">Fix messages that are stuck in the Outbox with SaRA</span></span>
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a><span data-ttu-id="ae8d9-102">A Beérkezett üzenetek mappában elakadt üzenetek kijavítja a SaRA-val</span><span class="sxs-lookup"><span data-stu-id="ae8d9-102">Fix messages that are stuck in the Outbox with SaRA</span></span>
 
-<span data-ttu-id="8d7bd-103">A [Microsoft támogatási és helyreállítási segéd (SaRa)](https://diagnostics.office.com/#/) eszközéről azt javasoljuk, hogy indítsa el az ["Problémáim vannak az e-mailek küldésével, fogadásával vagy megkeresésével kapcsolatban" hibaüzenetet](https://aka.ms/SaRA-OutlookSendReceive) .</span><span class="sxs-lookup"><span data-stu-id="8d7bd-103">We recommend that you start by running the scenario ["I'm having problems sending, receiving, or finding email messages"](https://aka.ms/SaRA-OutlookSendReceive) on the effected machine from the [Microsoft Support and Recovery Assistant (SaRa)](https://diagnostics.office.com/#/) tool.</span></span>
+<span data-ttu-id="ae8d9-103">Azt javasoljuk, hogy a Microsoft Támogatási és helyreállítási segéd [(SaRa)](https://diagnostics.office.com/#/) eszközével futtassa a "Problémát tapasztalok az e-mailek küldése, fogadása vagy [keresése"](https://aka.ms/SaRA-OutlookSendReceive) forgatókönyv futtatását az effektusos gépen.</span><span class="sxs-lookup"><span data-stu-id="ae8d9-103">We recommend that you start by running the scenario ["I'm having problems sending, receiving, or finding email messages"](https://aka.ms/SaRA-OutlookSendReceive) on the effected machine from the [Microsoft Support and Recovery Assistant (SaRa)](https://diagnostics.office.com/#/) tool.</span></span>
