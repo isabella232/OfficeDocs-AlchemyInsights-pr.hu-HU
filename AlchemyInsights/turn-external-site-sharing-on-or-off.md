@@ -1,8 +1,8 @@
 ---
-title: A külső megosztás be-és kikapcsolása a webhelyen
+title: A külső megosztás be- és kikapcsolása egy webhelyen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 24d170132070008b9c78aca39a0208f028e639b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd1c3dd013d5f1f823555e3cd4aa6e0dcdac1b62
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797154"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834661"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="dcc66-102">A külső megosztás be-és kikapcsolása a webhelyen</span><span class="sxs-lookup"><span data-stu-id="dcc66-102">Turn external sharing on or off for a site</span></span>
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="5e345-102">A külső megosztás be- és kikapcsolása egy webhelyen</span><span class="sxs-lookup"><span data-stu-id="5e345-102">Turn external sharing on or off for a site</span></span>
 
-<span data-ttu-id="dcc66-103">Globális vagy SharePoint-rendszergazdának kell lennie ahhoz, hogy egy webhely (korábbi nevén "webhelycsoport") külső megosztási beállítását módosítania kell.</span><span class="sxs-lookup"><span data-stu-id="dcc66-103">You must be a global or SharePoint admin to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="dcc66-104">A webhely tulajdonosai nem módosíthatják ezt a beállítást.</span><span class="sxs-lookup"><span data-stu-id="dcc66-104">Site owners are not allowed to change this setting.</span></span> 
+<span data-ttu-id="5e345-103">A webhelyek külső megosztási beállításának (korábbi néven "webhelycsoport") módosítása globális vagy SharePoint-rendszergazdának kell lennie.</span><span class="sxs-lookup"><span data-stu-id="5e345-103">You must be a global or SharePoint admin to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="5e345-104">A webhelytulajdonosok nem módosíthatjják ezt a beállítást.</span><span class="sxs-lookup"><span data-stu-id="5e345-104">Site owners are not allowed to change this setting.</span></span> 
 
-<span data-ttu-id="dcc66-105">További információért olvassa el a [külső megosztás be-és kikapcsolása a webhelyen](https://docs.microsoft.com/sharepoint/change-external-sharing-site)című témakört.</span><span class="sxs-lookup"><span data-stu-id="dcc66-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>
+<span data-ttu-id="5e345-105">További információ: A külső megosztás be- és kikapcsolása [webhelyhez.](https://docs.microsoft.com/sharepoint/change-external-sharing-site)</span><span class="sxs-lookup"><span data-stu-id="5e345-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>
