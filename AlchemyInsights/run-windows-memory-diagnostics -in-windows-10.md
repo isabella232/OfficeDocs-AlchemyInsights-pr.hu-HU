@@ -2,41 +2,42 @@
 title: A Windows memóriadiagnosztika futtatása a Windows 10-ben
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: 3fedc52d02f1f70743429d0313eda0361306c3f3
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
-ms.translationtype: MT
+ms.openlocfilehash: ff8f80b3df4e3809e844195128f4d99cbc4667be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44357791"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826669"
 ---
 # <a name="run-windows-memory-diagnostics-in-windows-10"></a>A Windows memóriadiagnosztika futtatása a Windows 10-ben
 
-Ha a Windows és a számítógépen lévő alkalmazások összeomlanak, lefagynak vagy instabil módon működnek, akkor lehet, hogy probléma van a számítógép memóriájával (RAM). A Windows memóriadiagnosztika futtatásával ellenőrizheti, hogy vannak-e problémák a számítógép RAM memóriájával kapcsolatban.
+Ha a Windows és a PC-n telepített alkalmazások összeomlanak, lefagynak vagy instabilan működnek, probléma lehet a PC memóriájával (a RAM-mal). A Windows memóriadiagnosztika futtatásával ellenőrizheti, hogy vannak-e problémák a PC RAM-jával kapcsolatban.
 
-A tálca keresőmezőjébe írja be a **memóriadiagnosztika parancsot,** majd válassza a **Windows memóriadiagnosztika**lehetőséget. 
+A tálcán lévő keresőmezőbe írja be a **memóriadiagnosztika** szót, majd válassza ki a **Windows memóriadiagnosztika** alkalmazást. 
 
-A diagnosztika futtatásához a számítógépnek újra kell indulnia. Lehetősége van arra, hogy azonnal újrainduljon (mentse el a munkáját, és először zárja be a megnyitott dokumentumokat és e-maileket), vagy ütemezze a diagnosztikát úgy, hogy automatikusan fusson a számítógép következő újraindításakor:
+A diagnosztika futtatásához a PC-nek újra kell indulnia. Lehetősége van azonnal újraindítani a PC-t (először mentse a munkáját, és zárja be a megnyitott dokumentumokat és e-maileket), vagy beütemezheti a diagnosztika automatikus futtatását a PC következő újraindulásakor:
 
 ![Windows memóriadiagnosztika](media/windows-memory-diagnostic.png)
 
-Amikor a számítógép újraindul, a **Windows memóriadiagnosztikai eszköz** automatikusan elindul. Az állapot és a folyamat a diagnosztika futása közben jelenik meg, és lehetősége van a diagnosztika megszakítására az **ESC** billentyű nek a billentyűzeten való megnyomásával.
+A PC újraindítása után automatikusan futni kezd a **Windows memóriadiagnosztika eszköz**. A diagnosztika futása során megjelenik az állapot és a folyamat előrehaladása, és a billentyűzeten levő **ESC** billentyű lenyomásával megszakíthatja a diagnosztikát.
 
-Amikor a diagnosztika befejeződött, a Windows a szokásos módon indul el.
-Közvetlenül az újraindítás után, amikor az asztal megjelenik, egy értesítés jelenik meg (a **műveletközpont** ikonja mellett a tálcán), jelezve, hogy találtak-e memóriahibákat. Például:
+A diagnosztika befejeződése után a Windows a szokásos módon elindul.
+Közvetlenül az újraindítás után, az asztal megjelenésekor megjelenik egy értesítés (a tálcán lévő **Műveletközpont** ikon mellett), amely jelzi, hogy találhatók-e memóriahibák. Például:
 
-A Műveletközpont ikonja: ![A Műveletközpont ikonja](media/action-center-icon.png) 
+Ez itt a Műveletközpont ikonja: ![Műveletközpont ikon](media/action-center-icon.png) 
 
-És egy minta értesítés: ![Nincsmemória-hiba](media/no-memory-errors.png)
+Ez pedig egy példa az értesítésre: ![Nincs memóriahiba](media/no-memory-errors.png)
 
-Ha nem fogadott el az értesítést, a **műveletközpont** ikonja a tálcán a **Műveletközpont** megjelenítéséhez és az értesítések görgethető listájának megjelenítéséhez.
+Ha elmulasztotta az értesítést, a tálcán lévő **Műveletközpont** ikon kiválasztásával megjelenítheti a **Műveletközpontot**, amely tartalmazza az értesítések görgethető listáját.
 
-A részletes információk áttekintéséhez írja be az **eseményt** a tálca keresőmezőjébe, és válassza az **Eseménynapló**lehetőséget. Az **Eseménynapló**bal oldali ablaktáblájában keresse meg a **Windows naplók > System ablakot.** A jobb oldali ablaktáblában olvassa be a listát, miközben a **Forrás** oszlopot nézi, amíg meg nem jelennek a **MemoryDiagnostics-Results**forrásértékű események. Jelölje ki az egyes eseményeket, és tekintse meg az eredményadatokat a lista alatti **Általános** lap alatt található mezőben.
+A részletes információk áttekintéséhez írja be az **esemény** szót a tálcán található keresőmezőbe, majd válassza az **Eseménynapló** alkalmazást. Az **Eseménynapló** bal oldali ablaktáblájában lépjen a **Windows-naplók > Rendszer** elemre. A jobb oldali ablaktáblában fentről lefelé haladva nézze át a listát, és figyelje a **Forrás** oszlopot, amíg nem talál olyan eseményeket, amelyeknél a Forrás értéke **MemoryDiagnostics-Results**. Jelölje ki sorban mindegyik ilyen eseményt, és a lista alatti **Általános** lapon levő mezőben tekintse meg az eredményeket.

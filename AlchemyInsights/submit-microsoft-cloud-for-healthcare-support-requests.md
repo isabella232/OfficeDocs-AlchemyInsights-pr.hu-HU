@@ -1,8 +1,8 @@
 ---
-title: A Microsoft Cloud beküldése az egészségügyi támogatási kérelmekhez
+title: Microsoft Cloud for Healthcare támogatási kérések beküldése
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6811"
 - "9003813"
-ms.openlocfilehash: 4dd4b38efa361372d6d59874f9738a0bf5d0a7c7
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: 336ac24a32fb67e74634208c3fad79b46295dc8b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823063"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824977"
 ---
-# <a name="submit-microsoft-cloud-for-healthcare-support-requests"></a>A Microsoft Cloud beküldése az egészségügyi támogatási kérelmekhez
+# <a name="submit-microsoft-cloud-for-healthcare-support-requests"></a>Microsoft Cloud for Healthcare támogatási kérések beküldése
 
-Microsoft Cloud for Healthcare ügyfél: Kérjük, küldje el a jegyét az új [Power platform felügyeleti központban.](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+A Microsoft Cloud for Healthcare ügyfeleként kérjük, hogy a [Power platform új felügyeleti központjában](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow) nyújtsa be a kérést.
 
-Az új portál a Microsoft Cloud for Healthcare szolgáltatáshoz optimalizált támogatott támogatás közvetlen elérési útját adja meg.
+Az új portálon közvetlenebbül juthat el a Microsoft Cloud for Healthcare-hez optimalizált támogatáshoz.

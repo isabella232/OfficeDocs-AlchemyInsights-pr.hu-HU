@@ -1,8 +1,8 @@
 ---
-title: A Teams-értekezletek felvételei a OneDrive-ra
+title: Teams-értekezletek felvétele a OneDrive-ra
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003835"
 - "6853"
-ms.openlocfilehash: 04fcefaa0965129ba577af85615e762fb32ca64c
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
-ms.translationtype: MT
+ms.openlocfilehash: 9a0b610ed3101cef90c9685f5ca34c6245e86ae9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807415"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810270"
 ---
-# <a name="teams-meeting-recordings-to-onedrive"></a>A Teams-értekezletek felvételei a OneDrive-ra
+# <a name="teams-meeting-recordings-to-onedrive"></a>Teams-értekezletek felvétele a OneDrive-ra
 
-A Microsoft Teams új módszert tartalmaz az értekezlet-felvételek mentésére. A klasszikus Microsoft streamről az [új adatfolyamra](https://docs.microsoft.com/stream/streamnew/new-stream)való áttérés első fázisában ez a módszer a Microsoft 365-ban tárolja a felvételeket a Microsoft OneDrive vállalati verzióban és a SharePointban, ahol számos előnnyel jár.  
+A Microsoft Teams új módszert alkalmaz az értekezletek felvételének mentésére. A klasszikus Microsoft Streamről az [új Streamre](https://docs.microsoft.com/stream/streamnew/new-stream) való áttérés első fázisában ez a módszer a Microsoft OneDrive Vállalati verzióban és a SharePointban a Microsoft 365-ben tárolja a felvételeket, és számos előnyt nyújt.  
 
-- [Az értekezlet felvételi beállításának beállítása a OneDrive vállalati verzióban és a SharePointban](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
-- [A OneDrive vállalati verzió és a SharePoint használata az adatfolyam folytatásához](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
+- [Értekezlet felvételi lehetőségének beállítása a OneDrive Vállalati verzióhoz és a SharePointhoz](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#set-up-the-meeting-recording-option-for-onedrive-for-business-and-sharepoint)
+- [A OneDrive Vállalati verzió és a SharePoint kikapcsolása a Stream használatának folytatásához](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#opt-out-of-onedrive-for-business-and-sharepoint-to-continue-using-stream)  
 - [Gyakori kérdések](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change#frequently-asked-questions)

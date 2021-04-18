@@ -1,27 +1,28 @@
 ---
-title: Fájlok áthelyezése a OneDrive Vállalati verzióba egy másik felhőszolgáltatótól
+title: Fájlok áthelyezése a OneDrive Vállalati verzióba másik felhőszolgáltatóból
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003086"
 - "5851"
-ms.openlocfilehash: 29c79dbb0c828418251a84d03d9c32b13e21501d
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
-ms.translationtype: MT
+ms.openlocfilehash: c54a2c665b6ed8761bdcee8c88044a4bc840483d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708686"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825337"
 ---
-# <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>Fájlok áthelyezése a OneDrive Vállalati verzióba egy másik felhőszolgáltatótól
+# <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>Fájlok áthelyezése a OneDrive Vállalati verzióba másik felhőszolgáltatóból
 
-Ha más felhőszolgáltatóktól származó adatokat telepít át a OneDrive-ra vagy a SharePointba, [a Mover](https://go.microsoft.com/fwlink/?linkid=2132453) több mint egy tucat felhőszolgáltatótól , például a Boxtól, a Dropboxtól, az Egnyte-től és a Google Drive-tól támogatja az áttelepítést. A költözöm az egyik SharePoint-bérlőről a másikra, illetve a OneDrive-fogyasztóról vagy OneDrive.com is áttelepíthető.
+Ha más felhőszolgáltatók adatait áthelyezi a OneDrive-ra vagy a SharePointra, a [Mover](https://go.microsoft.com/fwlink/?linkid=2132453) több mint egy tucat felhőszolgáltatóról (például Box, Dropbox, Egnyte és Google Drive) támogatja az áttelepítést. A Mover egyik SharePoint bérlőtől egy másikra való áttelepítésére is használható, vagy OneDrive fogyasztótól, vagy a OneDrive.comról.
 
-[További információ a Moverről.](https://go.microsoft.com/fwlink/?linkid=2132453)
+[További információ a Moverről](https://go.microsoft.com/fwlink/?linkid=2132453).
 
-Megtudhatja, hogy miként helyezheti át a [Microsoft OneDrive-on vagy más felhőalapú fájltárolási szolgáltatásokban tárolt fájlokat](https://support.microsoft.com/office/7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9) az Office 365-beli OneDrive Vállalati verzióba.
+További tudnivalók a [Microsoft OneDrive-on vagy egyéb felhőalapú fájltároló szolgáltatásokban tárolt fájlok áthelyezésének](https://support.microsoft.com/office/7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9) egyéb módjairól a OneDrive Vállalati verzióba az Office 365-ben.

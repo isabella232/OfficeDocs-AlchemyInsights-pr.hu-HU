@@ -1,10 +1,11 @@
 ---
-title: SharePoint-webhely csatlakoztatása csoporthoz
+title: SharePoint-webhely csatlakoztatása egy csoporthoz
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 1c724a131d42aa2e217b7018ed6b414cb3440a99
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
-ms.translationtype: MT
+ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44515631"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817066"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>SharePoint-webhely csatlakoztatása csoporthoz
+# <a name="connect-a-sharepoint-site-to-a-group"></a>SharePoint-webhely csatlakoztatása egy csoporthoz
 
-SharePoint-webhely microsoft 365-ös csoporthoz való csatlakoztatása a csoportkapcsolat varázslóval.
+A csoportkapcsolati varázslóval egy SharePoint-webhelyet csatlakoztathat egy Microsoft 365-csoporthoz.
 
-1. A csoporthoz csatlakozni kívánt webhelyről válassza a **Beállítások (fogaskerék ikon) lehetőséget.**
-2. Válassza **a Csatlakozás az új Microsoft 365-csoporthoz lehetőséget.**
-3. A kapcsolat befejezéséhez kövesse a varázslót.
+1. A csoporthoz csatlakoztatni kívánt webhelyen válassza a  **Beállítások (fogaskerék ikon)** lehetőséget.
+2. Válassza a  **Csatlakozás új Microsoft 365-csoporthoz** lehetőséget.
+3. A csatlakoztatás elvégzéséhez kövesse a varázsló lépéseit.
 
-**Megjegyzés:**  Ha nem érhető el a Csatlakozás az új Microsoft 365-csoporthoz, a hely nem támogatja a csoportos kapcsolatot.
+**Megjegyzés:**  Ha nem érhető el a Csatlakozás új Microsoft 365-csoporthoz funkció, a webhely nem támogatja a csoportkapcsolatot.
 
-További információ: [Csatlakozás Office 365-csoporthoz csoporthoz](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+További információért lásd:  [Csatlakozás Office 365-csoporthoz](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).

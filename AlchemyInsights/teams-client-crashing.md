@@ -2,21 +2,22 @@
 title: Összeomlik a Teams ügyfélprogram?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354054"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826273"
 ---
 # <a name="teams-client-crashing"></a>Összeomlik a Teams ügyfélprogram?
 
@@ -26,19 +27,19 @@ Ha összeomlik a Teams ügyfélprogram, próbálkozzon az alábbiakkal:
 
 - Győződjön meg arról, hogy a [Microsoft 365 összes URL-címe és címtartománya](https://docs.microsoft.com/microsoftteams/connectivity-issues) elérhető.
 
-- Jelentkezzen be a bérlői rendszergazdai fiókkal, és ellenőrizze a [Szolgáltatásállapot-irányítópultot,](https://docs.microsoft.com/office365/enterprise/view-service-health) és ellenőrizze, hogy nincs-e kimaradás vagy szolgáltatáslebontás.
+- Jelentkezzen be a bérlőhöz tartozó rendszergazdai fiókjával, és a [Szolgáltatásállapot irányítópultot](https://docs.microsoft.com/office365/enterprise/view-service-health) ellenőrizve győződjön meg arról, hogy nincs kimaradás vagy teljesítménycsökkenés a szolgáltatás működésében.
 
-- A Teams alkalmazás eltávolítása és újratelepítése (hivatkozás)
-    - Tallózással keresse meg a számítógép %appdata%\Microsoft\teams\ mappáját, és törölje a könyvtár összes fájlját.
-    - [Töltse le és telepítse a Teams alkalmazást,](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)és ha lehetséges, telepítse a Teamst rendszergazdaként (kattintson a jobb gombbal a Teams telepítőjére, és ha elérhető, válassza a "Futtatás rendszergazdaként" lehetőséget).
+- Távolítsa el, majd telepítse újra a Teams alkalmazást (hivatkozás).
+    - Tallózással nyissa meg a számítógépen az %appdata%\Microsoft\teams\ mappát, és törölje a benne lévő összes fájlt.
+    - [Töltse le és telepítse a Teams alkalmazást](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), és lehetőség szerint rendszergazdaként végezze el a Teams telepítését (kattintson a jobb gombbal a Teams telepítőjére, és válassza a „Futtatás rendszergazdaként” menüpontot, ha elérhető).
 
-Ha a Teams-ügyfél még mindig összeomlik, reprodukálhatja a problémát? Ha igen:
+Ha a Teams ügyfélprogram továbbra is összeomlik, reprodukálható a probléma? Ha igen:
 
-1. A lépésrögzítő vel rögzítheti a lépéseket.
-    - Zárja be az összes felesleges vagy bizalmas alkalmazást.
-    - Indítsa el a Lépésrögzítőt, és reprodukálja a problémát, miközben bejelentkezik az érintett felhasználói fiókkal.
-    - [Gyűjtse össze a csapatok naplókat, hogy rögzítse a rögzített repro lépéseket](https://docs.microsoft.com/microsoftteams/log-files). **Megjegyzés:** Győződjön meg arról, hogy rögzíti az érintett felhasználó bejelentkezési címét.
-    - Gyűjtse össze a memóriakép és/vagy a Hibagyűjtő adatait (Windows). Indítsa el a Windows Powershell t azon a számítógépen, amelyen az összeomlás történik, és futtassa a következő parancsokat:
+1. A Problémarögzítő használatával rögzítse az elvégzett lépéseket.
+    - Zárja be az ÖSSZES szükségtelen vagy bizalmas alkalmazást.
+    - Indítsa el a Problémarögzítőt, és reprodukálja a problémát úgy, hogy közben az érintett felhasználói fiókkal van bejelentkezve.
+    - [Gyűjtse össze a rögzített reprodukálási lépéseket tartalmazó Teams-naplókat](https://docs.microsoft.com/microsoftteams/log-files). **Megjegyzés**: Ügyeljen arra, hogy rögzítse az érintett felhasználó bejelentkezési címét.
+    - Gyűjtse össze a memóriaképek és/vagy hibagyűjtők adatait (Windows). Indítsa el a Windows PowerShellt azon a gépen, amelyen az összeomlás előfordul, és futtassa az alábbi parancsokat:
 
         `
         PS C:\Users\user01> cd $env:temp
