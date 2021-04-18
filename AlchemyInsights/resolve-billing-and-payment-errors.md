@@ -1,34 +1,35 @@
 ---
-title: Számlázási és fizetési hibák megoldása
+title: Számlázási és fizetési problémák megoldása
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: bcef12a3b1d4438df07a67b73ec8b59ac0f7d8c3
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 1c126a088b79bc8ad415a5679e18d4da3fde8b15
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707898"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830708"
 ---
-# <a name="resolving-billing-and-payment-errors"></a>Számlázási és fizetési hibák megoldása
+# <a name="resolving-billing-and-payment-errors"></a>Számlázási és fizetési problémák megoldása
 
-Íme néhány gyakori forgatókönyv a számla- és kifizetési hibákkal kapcsolatban
+Íme néhány gyakori eset a számlázási és fizetési problémákkal kapcsolatban
 
-- A **kiszámlázott összeg** eltér a várttól.
-- A licenceket a rendszer hozzáadta vagy eltávolította az előfizetésből. Ha a licencek félidőben módosulnak, ez a következő számlán is megjelenik. Előfordulhat, hogy az előző szolgáltatási időszakra vonatkozó jóváírást és újraszámlát lát a változás elszámolásához.
+- A  **kiszámlázott összeg** különbözik az Ön által várttól.
+- Licenceket adott hozzá vagy távolított el az előfizetésből. Ha a számlázási időszakban változtat a licenceken, az a következő számlán lesz látható. Az előző szolgáltatási időszak változásai a számlán jóváírásként vagy utólagos díjként jelenhetnek meg.
 - Lemondta az előfizetését. A lemondás után egy számlát küldünk Önnek, amely tartalmazza az esetleges, jóváírásokkal csökkentett kinnlevőségeit.
 - Az előfizetése megújult, és új szolgáltatási időszakba lépett, a licencek ára pedig megváltozott.
-- A számlával kapcsolatos további információkért lásd: [A számla ismertetése.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
-- Problémái vannak **a hitelkártyás fizetés feldolgozásával**
-- A **felügyeleti központban**nyissa meg a **Számlázási**   >   **számlák & fizetési**módok fizetési   >   **[módok](https://go.microsoft.com/fwlink/p/?linkid=2018806)** lapot. Válassza ki a fizetési módot, és ellenőrizze, hogy a név, a lejárati dátum és a cím helyes-e. További információt a [Fizetési módok hibaelhárítása című](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods)témakörben talál.
+- További információt a számlákról itt talál: [Számlaértelmezés](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+- Problémákat tapasztal  **a hitelkártyás fizetés feldolgozása során**
+- A  **Felügyeleti központban** menjen a  **Számlázás**  >  **Számlázás és fizetés**  >  **[Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806)** lapra. Válassza ki a fizetési módot, és ellenőrizze, hogy helyes-e a név, a lejárati dátum és a cím. További információt a  [Fizetési problémák megoldása](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods) lapon.
 
-- Meg kell változtatnia a **fizetési módot.** [Hozzáadhat,](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#add-a-payment-method) [frissíthet,](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#update-payment-method-details) [lecserélhet](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#replace-a-payment-method) vagy [törölhet](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#delete-a-payment-method) fizetési módot. További információ: [Fizetési módok kezelése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+- Módosítania kell a **fizetési módot**. [Hozzáadhat újat](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#add-a-payment-method),  [frissítheti](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#update-payment-method-details),  [lecserélheti](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#replace-a-payment-method)  vagy  [törölheti](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#delete-a-payment-method)  a fizetési módot. További információért olvassa el a  [Fizetési módok kezelése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide) lapot.
 - 
