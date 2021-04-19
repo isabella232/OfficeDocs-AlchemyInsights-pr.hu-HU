@@ -1,8 +1,8 @@
 ---
-title: Videó teszt
+title: Videoteszt
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003535"
 - "6442"
-ms.openlocfilehash: e433c8e0ce5f35409b8b6e9777a4535891181e8c
-ms.sourcegitcommit: 2fc3f2a83aee6ef290a1ffddc0312877f07b231d
+ms.openlocfilehash: 202db7d7b29913867f058940db5eb12bc469f8d1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194164"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824221"
 ---
-# <a name="video-test"></a>Videó teszt
+# <a name="video-test"></a>Videoteszt
 
-Íme egy hasznos videó:
+Itt egy hasznos videó:
 
 >[!VIDEO https://www.microsoft.com/videoplayer/embed/dda6df6d-37b0-41ff-905b-089448355a31?autoplay=false]
 
-Íme néhány további szöveg.
+Itt van még néhány szöveg.

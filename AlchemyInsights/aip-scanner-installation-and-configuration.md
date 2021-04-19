@@ -1,45 +1,46 @@
 ---
-title: 'AIP szkenner: telepítés és konfigurálás'
+title: 'AIP-képolvasó: telepítés és konfiguráció'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: d059d411aef03ca57662b71fbd7d27aecd3e0e57
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: c32f3f10e2e17cf67e73ec8404be293eeefb68a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358098"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821665"
 ---
-# <a name="aip-scanner-installation-and-configuration"></a>AIP szkenner: telepítés és konfigurálás
+# <a name="aip-scanner-installation-and-configuration"></a>AIP-képolvasó: telepítés és konfiguráció
 
-**Az AIP-képolvasó telepítéséhez kövesse az ajánlott irányelveket:**
+**Az AIP-képolvasó telepítéséhez kövesse a következő ajánlott irányelveket:**
 
-1. Ha frissítést frissít, és nem végez tiszta telepítést, győződjön meg arról, hogy betartotta [az Azure Information Protection képolvasó és az](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) egyesített címkézési ügyfél frissítésére vonatkozó irányelveket, olvassa el az Azure Information Protection [képolvasó frissítése](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner)című témakört.
-2. Ellenőrizze, hogy megfelel-e a [tűzfalakra és a hálózati infrastruktúra beállításaira vonatkozó összes követelménynek.](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure)
-3. Győződjön meg arról, hogy a házirendek automatikus [címkézésre vannak beállítva,](https://docs.microsoft.com/azure/information-protection/configure-policy) vagy alapértelmezett címkével rendelkeznek a házirendben.
-4. Győződjön meg arról, hogy a megfelelő fájltípus az [Azure Information Protection ügyfél által támogatott fájltípusokban](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection)leírtak szerint van konfigurálva a címkén/védelemben. Ezenkívül, ha módosítani szeretné az alapértelmezett viselkedést, kövesse az alábbi irányelveket: [A fájlok alapértelmezett védelmi szintjének módosítása](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files).
-5. Ellenőrizze, hogy a lapolvasó szolgáltatás futtatására beállított felhasználói fiók rendelkezik-e az összes konfigurált tárház elérésére vonatkozó engedéllyel.
-6. Ha továbbra is problémákat tapasztal, exportálja a lapolvasó naplókat, és adja hozzá őket a támogatási jegyhez.
+1. Ha frissítés alatt áll, és nem végez tiszta telepítést, kérjük, hogy az [Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) scanner frissítésére és az egységes címkézést végző ügyfélprogramra vonatkozó irányelveket az Azure Information [Protection](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner)scanner frissítésével kapcsolatos útmutatásnak megfelelően végezze el.
+2. Ellenőrizze, hogy megfelel-e a [tűzfalak és a hálózati infrastruktúra minden beállítási követelményének.](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure)
+3. Győződjön meg arról, hogy [a házirendek](https://docs.microsoft.com/azure/information-protection/configure-policy) automatikus feliratozásra vannak beállítva, vagy hogy a házirendben van alapértelmezett címke.
+4. Győződjön meg arról, hogy a megfelelő fájltípus a felirat/védelem beállítását ismerteti az Azure Information Protection-ügyfél által támogatott fájltípusok [leírásának megfelelően.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection) Ezenkívül ha meg szeretné változtatni az alapértelmezett viselkedést, kövesse a következő irányelveket: A fájlok alapértelmezett védelmi szintjének [módosítása.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files)
+5. Győződjön meg arról, hogy a képolvasó szolgáltatás futtatására konfigurált felhasználói fiók rendelkezik az összes beállított tár eléréséhez szükséges engedélyekkel.
+6. Ha továbbra is problémákat tapasztal, exportálja a szkennernaplókat, és vegye fel őket a támogatási jegybe.
 
-**Az Azure Information Protection Scanner naplóinak exportálása**
+**Azure Information Protection Scanner-naplók exportálása**
 
-1. Keresse meg a %localappdata%\Microsoft\MSIP mappát a képolvasó szolgáltatást futtató felhasználói környezetben.
-2. Zip minden tartalmát az MSIP mappába.
-3. Mentse a naplókat a választott helyre, és csatolja őket a szolgáltatási kérelemhez.
-4. Használhatja [az Export-AIPLogs -OnBehalfOf parancsot](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps)is.
+1. Keresse meg a %localappdata%\Microsoft\MSIP parancsot a képolvasó szolgáltatást futtató felhasználói környezetben.
+2. Tömörítsen minden tartalmat az MSIP mappában.
+3. Mentse a naplókat a választott helyre, és csatolja őket a szolgáltatáskéréshez.
+4. Használhatja az [Export-AIPLogs -OnBehalfOf használhatja is.](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps)
 
 **További információ:**
-- [Az Azure Information Protection képolvasó telepítése a fájlok automatikus besorolásához és védelméhez](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
+- [Az Azure Information Protection szkenner központi telepítése a fájlok automatikus osztályozásához és védelméhez](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
 - [A Token paraméter megadása és használata a Set-AIPAuthentication paraméterhez](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
-- [Felderítési ciklus futtatása és jelentések megtekintése a képolvasóhoz](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
-- [Tekintse át az Azure Information Protection dokumentációját](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Az Azure-információvédelem követelményei](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Az Azure Information Protection ügyfél letöltése](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Feltárási ciklus futtatása és a képolvasó jelentésének megtekintése](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
+- [Az Azure Information Protection dokumentációjának áttekintése](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Az Azure Information Protection követelményei](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Az Azure Information Protection-ügyfél letöltése](https://www.microsoft.com/download/details.aspx?id=53018)

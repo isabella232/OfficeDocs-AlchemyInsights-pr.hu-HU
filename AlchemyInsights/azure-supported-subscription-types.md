@@ -1,8 +1,8 @@
 ---
-title: Támogatott előfizetési típusok
+title: Támogatott előfizetéstípusok
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,53 +12,53 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807564"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820684"
 ---
-# <a name="supported-subscription-types"></a>Támogatott előfizetési típusok
+# <a name="supported-subscription-types"></a>Támogatott előfizetéstípusok
 
-Kérjük, tekintse át a támogatott előfizetési típusokat a további folytatáshoz.
+A folytatáshoz tekintse át a támogatott előfizetéstípusokat.
 
-[Támogatott előfizetési típusok](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
+[Támogatott előfizetéstípusok](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
 
-**Számlázási tulajdonjog átruházása**
+**A számlázás tulajdonjogának átruházása**
 
-Azure Portal – az átvinni kívánt előfizetést tartalmazó számlázási fiók [rendszergazdája](https://ms.portal.azure.com/)
+Azure Portal, [mint](https://ms.portal.azure.com/) az át átruházni kívánt előfizetéshez szükséges számlázási fiók fiók rendszergazdája
 
-- Keressen a **Cost Management + számlázás** lapon. Válassza a bal oldali ablaktábla **előfizetések** elemét. A hozzáféréstől függően előfordulhat, hogy ki kell választania egy számlázási hatókört, majd **előfizetéseket** vagy **Azure-előfizetéseket** .
-- Válassza a számlázási tulajdonjog átruházása lehetőséget az átvinni kívánt előfizetés esetén
-- Adja meg egy olyan felhasználó e-mail-címét, aki számlázási rendszergazdája az előfizetés új tulajdonosa lesz, majd válassza az **átadás-összehívás küldése** lehetőséget.
-- A felhasználó megkapja az átadási kérést ismertető e-mailt. Az átadás-összehívás jóváhagyásához a felhasználó kiválasztja a hivatkozást az e-mailben, és követi az útmutatást.
+- Keressen a **Költségkezelés + számlázás** elemre. Válassza **az Előfizetések** lehetőséget a bal oldali ablaktáblában. A hozzáféréstől függően előfordulhat, hogy ki kell választania egy számlázási hatókört, majd az **Előfizetések** vagy az **Azure-előfizetések** lehetőséget.
+- Válassza az át átruházni kívánt előfizetés számlázási tulajdonosának átvitele lehetőséget.
+- Adja meg annak a felhasználónak az e-mail-címét, aki az előfizetés új tulajdonosa lesz a fiók számlázási **rendszergazdája,** majd válassza az átviteli kérelem küldése lehetőséget.
+- A felhasználó kap egy utasításokat tartalmazó e-mailt az átadási kérelem áttekintéséhez. Az átadási kérelem jóváhagyásához a felhasználó kiválasztja az e-mailben található hivatkozást, és követi az utasításokat.
 
-Megjegyzés: Ha az előfizetése számlázási tulajdonjogát egy másik Azure AD-bérlői fiókba ruházza át, az előfizetésben szereplő erőforrások kezeléséhez az összes [szerepkör-alapú hozzáférés-vezérlési (RBAC-)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) hozzárendelést véglegesen eltávolítja a rendszer. Az előfizetésben csak az új tulajdonos férhet hozzá az erőforrások kezeléséhez. További információ: [előfizetés átvitele egy másik Azure ad-bérlői fiókba](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Megjegyzés: Ha egy másik Azure AD-bérlő felhasználói fiókjához irányítja át az előfizetés számlázási tulajdonjogát, a [szerepköralapú hozzáférés-vezérlési (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) hozzárendelések végleg törlődnek az előfizetés erőforrásainak kezeléséhez. Az előfizetés erőforrásainak kezelésére csak az új tulajdonos lesz jogosult. További információ: Előfizetés átvitele egy másik [Azure AD-bérlő felhasználónak.](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Az előfizetés tulajdonjogának átruházása**
+**Előfizetés tulajdonjogának átruházása**
 
-Az előfizetés tulajdonosi átvitelének előfeltételei a role-based Access (RBAC) az előfizetésben lévő erőforrások kezeléséhez elvesztik a hozzáférést. Ha szeretne többet megtudni arról, hogy miként vehet fel meglévő előfizetést bérlői fiókba, olvassa el [Az Azure-előfizetés társítása vagy hozzáadása az Azure Active Directoryhoz](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support)című témakört
+Az előfizetés tulajdonjogának átruházása előfeltételei a szerepköralapú hozzáférésnek (RBAC) az előfizetés erőforrásainak kezeléséhez. Ha szeretne többet tudni arról, hogy hogyan adhat hozzá meglévő előfizetést egy bérlőhöz, tekintse meg az Azure-előfizetés társítása vagy hozzáadása az [Azure Active Directoryhozcímet.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-- A meglévő számlázási ciklusból származó meglévő hátralékos előfizetés átvitele az új fiókba nem kerül át az új fizetési instrumentumba. Az új fiókba tartozó felhasználók számára elérhető egyetlen adat az előfizetés utolsó havi költsége. A többi használat és a számlázási előzmények nem adják át az előfizetést.
-- A vállalati szerződési (EA) előfizetések számlázási tulajdonjogának átvitele jelenleg a nagyvállalati szerződés portálon érhető el.
-- A kredit-orientált előfizetések, például a Visual Studio, a BizSpark, a Microsoft partner hálózat új felhasználóknak való átviteléhez Visual Studio/Microsoft partner hálózati licenccel kell rendelkeznie az átadás-összehívás elfogadásához.
-- Minden erőforrás, például a virtuális gépek, a lemezek és a webhelyek sikeres átadása az új fiókba. A következő erőforrásokat érintheti a több bérlői előfizetés átvitele:
+- Az aktuális számlázási ciklusban már fennálló fennálló összeggel fennálló előfizetés-átvitel nem kerül át az új fiók új fizetési eszközére. Az új fiók felhasználói számára csak az előfizetése utolsó havi költsége áll rendelkezésre. A használati és számlázási előzmények többi része nem kerül át az előfizetésbe.
+- A Nagyvállalati szerződés (EA) előfizetések számlázási tulajdonjogának átruházása jelenleg csak a Nagyvállalati szerződés portálon támogatott
+- A hitelképességre vonatkozó előfizetések (például Visual Studio, BizSpark, Microsoft Partner Network) új felhasználónak való átviteléhez Visual Studio/Microsoft-partnerhálózati licenc szükséges az átviteli kérelem elfogadásához
+- Minden erőforrás, például virtuális gépek, lemezek és webhelyek sikeresen átküldve az új fiókba. A bérlők közötti előfizetés-átvitel az alábbi erőforrásokat érintheti:
 
-**Azure AD Domain Services**
+**Azure AD tartományi szolgáltatások**
 
-Azure fő pince-tárolók
+Azure-kulcst tárolók
 
-- Az SQL-alapú [kapcsolódó felhasználók és adatbázisok](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) hatással lehetnek, különösen akkor, ha az ügyfél Azure Active Directory-alapú hitelesítést használ
-- Az Azure Active Directory-hitelesítéssel konfigurált **app-szolgáltatások** hatással lehetnek
-- **Visual Studio-csapat** Az Azure-előfizetésekhez kapcsolódó szolgáltatások átmenetileg elveszíthetik az Accessben, amikor a csatlakoztatott Azure-előfizetés meg van szakítva
+- [Hatással lehet az](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) SQL-hez kapcsolódó felhasználókra és adatbázisokra, különösen akkor, ha az ügyfél Azure Active Directoryval kapcsolatos hitelesítést használ.
+- **Az** Azure Active Directory-hitelesítéssel konfigurált appszolgáltatások hatással lehetnek
+- **Visual Studio team** Az Azure-előfizetésekkel összekapcsolt szolgáltatások fiókjai átmenetileg megszűnhetnek a hozzáférésük a csatlakoztatott Azure-előfizetés lemondása esetén
 
 **Ajánlott dokumentumok**
 
-A számlázási tulajdonjog elfogadása után elvégzendő lépések:
+A számlázási tulajdonjog elfogadásának lépései:
 
-- Ha meg szeretné őrizni a számlázási tulajdonjogot, de módosítani szeretné az előfizetését, olvassa el a következő témakört: [Az Azure-előfizetés váltása másik ajánlatra](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [A Visual Studio, a Microsoft Partner Network (MPN) és a kifizetések átvitele a dev/próba-előfizetések segítségével](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [A vállalati szerződés (EA) előfizetések számlázási tulajdonjogának átvitele](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
-- [Tulajdonosi kérdések átvitele](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Átvitel tulajdonjogával kapcsolatos problémák elhárítása](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- Ha meg kell tartania a számlázási tulajdonjogot, de meg kell változtatnia az előfizetés típusát, olvassa el a következőt: [Azure-előfizetés váltása másik ajánlatra](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [A Visual Studio-, a Microsoft Partner Network- (MPN-) és a használatalapú fizetési móddal rendelkező Dev/Test-előfizetések átadása](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Nagyvállalati szerződéshez (EA) szóló előfizetések számlázási tulajdonjogának átruházása](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
+- [A tulajdonjog átadásával kapcsolatos gyakori kérdések (GYIK)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [A tulajdonjog átadásával kapcsolatos hibaelhárítás](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
