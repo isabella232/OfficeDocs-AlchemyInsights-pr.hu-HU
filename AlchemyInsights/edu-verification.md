@@ -1,5 +1,5 @@
 ---
-title: EDU-ellenőrzés
+title: Oktatási igazolás
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,12 +19,12 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51814374"
 ---
-# <a name="edu-verification"></a>EDU-ellenőrzés
+# <a name="edu-verification"></a>Oktatási igazolás
 
-A legtöbb esetben a jogosultsági kérelmek feldolgozására 24–48 órán belül van szükség. Egyes kérések alaposabb áttekintést igényelnek, és akár 10 munkanapot is igényelnek a feldolgozásig. A művelet befejezése után e-mailben értesítjük az iskola jogosultsági állapotáról.
+Az oktatási jogosultsági kérelmeket a legtöbb esetben 24–48 órán belül feldolgozzuk. Egyes kérelmek alaposabb vizsgálatot igényelnek, és a feldolgozásuk akár 10 munkanapot is igénybe vehet. Miután elkészült, e-mailben értesítjük az iskolai jogosultsági állapotáról.
 
-**Fontos** Ha a tartomány megadása előtt kilépt az [](https://go.microsoft.com/fwlink/p/?linkid=2135255) ellenőrző varázslóból, az ingyenes próbaidőszak során bármikor folytathatja az iskolai hitelesítési varázslót.
+**Fontos** Ha egy tartomány megadása előtt kilépett az ellenőrző varázslóból, az ingyenes próbaidőszak alatt bármikor[ folytathatja az oktatási ellenőrző varázslót](https://go.microsoft.com/fwlink/p/?linkid=2135255).
 
-Ha ellenőrizni szeretné a tartománya állapotát, menjen a [Microsoft 365 Felügyeleti központba.](https://go.microsoft.com/fwlink/p/?linkid=2024339) A kezdőlapon görgessen le, és keresse meg a **Számlázás kártyát.** A **Számlázási** kártya az ellenőrzési folyamat állapotát jelzi (jóváhagyva, függőben, elutasítva, vagy tartomány hozzáadása).
+Ha szeretné ellenőrizni tartománya állapotát, keresse fel a [Microsoft 365 Felügyeleti központot](https://go.microsoft.com/fwlink/p/?linkid=2024339). A kezdőlapon görgessen a képernyő aljára, és keresse meg a **Számlázás** kártyát. A **Számlázás** kártya jelzi az ellenőrzési folyamat állapotát (jóváhagyva, függőben, elutasítva vagy tartomány hozzáadása).
 
-Ha a kérelmét elutasította a rendszer, tekintse meg [Az iskolám nem jogosult. Mit tegyek?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
+Ha a kérelmét elutasítják, olvassa el a következő fejezetet: [Az iskolám nem jogosult. Mit tegyek most?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)

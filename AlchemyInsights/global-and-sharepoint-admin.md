@@ -21,11 +21,11 @@ ms.locfileid: "51811890"
 ---
 # <a name="global-and-sharepoint-admin"></a>Globális és SharePoint-rendszergazda
 
-A globális és a SharePoint-rendszergazdáknak Hozzá kell rendelnie egy SharePoint-licencet. Az újonnan létrehozott, SharePoint-licenc vagy rendszergazdai szerepkörrel rendelkező fiókok problémákat tapasztalhat a SharePoint elérése során, például a "hozzáférés megtagadva" vagy a "nem található felhasználó" miatt. Kérjük, várjon legalább 24 órát a szinkronizálás befejezésére a rendszereinkben. Megértjük, hogy a 24 óra hosszú időnek tűnhet. Sok esetben már dolgozunk a megoldáson.
+A globális és a SharePoint-rendszergazdákhoz hozzá kell rendelni egy SharePoint-licencet. Az újonnan létrehozott fiókok esetén, amelyekhez éppen hozzárendelt egy SharePoint-licencet vagy rendszergazdai szerepkört, a SharePoint elérésekor hibaüzenet, például a „hozzáférés megtagadva” vagy a „felhasználó nem található” jelenik meg. Adjon legalább 24 órát a szinkronizálás számára, hogy végbemenjen a rendszereink között. Megértjük, hogy a 24 óra hosszú időnek tűnhet. Sok esetben már dolgozunk a megoldáson.
 
-A globális vagy SharePoint-rendszergazdai szerepkörrel társított felhasználók hozzáférhetnek a SharePoint Felügyeleti központhoz, és webhelyeket (korábbi néven "webhelycsoportokat") hozhatnak létre és kezelhet, webhelygazdák jelölnek ki, kezelhetik a megosztási beállításokat és sok más mellett. Nem férnek hozzá automatikusan az összes webhelyhez és az egyes felhasználók OneDrive-tárterülethez, de bármilyen webhelyhez vagy OneDrive-hoz hozzáférést adhatnak maguknak. A Microsoft PowerShell használatával a SharePointot és a OneDrive-ot is kezelhetik.
+A globális vagy a SharePoint-rendszergazdai szerepkörrel társított felhasználók hozzáférhetnek a SharePoint Felügyeleti központhoz, és webhelyeket (korábbi néven webhelycsoportokat) hozhatnak létre és kezelhetnek, webhelygazdákat jelölhetnek ki, kezelhetik a megosztási beállításokat és sok mást. Nem férnek hozzá automatikusan minden webhelyhez, sem az egyes felhasználók OneDrive-tárhelyéhez, de hozzáférést tudnak adni maguknak bármelyik webhelyhez, illetve a OneDrive-hoz. Ezenkívül a Microsoft PowerShell segítségével is felügyelhetik a SharePointot és a OneDrive-ot.
 
-További információt A [SharePoint-rendszergazdai szerepkör a Microsoft 365-ben című témakörben olvashat.](https://docs.microsoft.com/sharepoint/sharepoint-admin-role)
+További információt [A SharePoint-rendszergazdai szerepkör bemutatása a Microsoft 365-ben](https://docs.microsoft.com/sharepoint/sharepoint-admin-role) című cikkben talál.
 Számos oka lehet annak, ha a Microsoft SharePoint vagy a Microsoft OneDrive elérhetetlenné válik. Ha nem tud hozzáférni a SharePoint Online-hoz, a probléma elhárításához kövesse az alábbi útmutatót.
 
 - [A SharePoint Online nem érhető el](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)

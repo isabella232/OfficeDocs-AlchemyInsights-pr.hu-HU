@@ -1,5 +1,5 @@
 ---
-title: A képernyő fényerejének módosítása a Windows 10-ben
+title: Képernyő fényerejének módosítása a Windows 10-ben
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,15 +19,15 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51818578"
 ---
-# <a name="change-screen-brightness-in-windows-10"></a>A képernyő fényerejének módosítása a Windows 10-ben
+# <a name="change-screen-brightness-in-windows-10"></a>Képernyő fényerejének módosítása a Windows 10-ben
 
-Ha a Windows 10 újabb, mint az 1903-as verzió, a műveletközpontban található a **Fényerő** csúszka. A műveletközpont megnyitásához  kattintson az Értesítés gombra a tálca jobb szélén, vagy nyomja le a **Windows home + A** billentyűkombinációt.
+Ha a Windows 10 az 1903-as verziónál újabb, a **Fényerő csúszka** a műveletközpontban található. A műveletközpont megnyitásához kattintson az **Értesítés** gombra a tálca jobb szélén, vagy a billentyűzeten nyomja le a **Windows home + A** billentyűkombinációt.
 
 ![Fényerő csúszka](media/brightness-slider.png)
 
-Ha a Windows 10 egy korábbi verzió, a fényerő csúszkája a Beállítások > **[System > kijelzőben található.](ms-settings:display?activationSource=GetHelp)**
+Ha Windows 10 rendszere korábbi verziójú, a fényerő csúszkáját a **[Beállítások > Rendszer > Megjelenítés](ms-settings:display?activationSource=GetHelp)** részen találja.
 
-**Megjegyzések:**
+**Megjegyzések**:
 
-- Előfordulhat, hogy a külső monitort is megjelenítő asztali számítógépeken nem jelenik meg a Fényerő módosítása csúszka. A külső monitor fényerejének beállításhoz használja a monitor vezérlőit.
-- Ha nincs asztali számítógépe, és a csúszka nem jelenik meg vagy nem működik, próbálja meg frissíteni a képernyőillesztőt. A tálcán lévő keresőmezőbe írja be az  **Eszközkezelő**, majd a találatok listájában válassza az Eszközkezelő lehetőséget. Az **Eszközkezelőben** válassza a **Videokártyák** lehetőséget, majd válassza ki a videokártyát. Tartsa nyomva a videokártya nevét (vagy kattintson rá a jobb gombbal), és kattintson az **Illesztőprogram frissítése parancsra;** majd kövesse az utasításokat.
+- Előfordulhat, hogy a külső monitorral rendelkező asztali számítógépeken nem látható a fényerő módosítására szolgáló beépített megjelenítési csúszka. A külső monitorok fényerejének módosításához használja a monitor kezelőszerveit.
+- Ha nincs asztali számítógépe, és a csúszka nem jelenik meg vagy nem működik, próbálkozzon meg a képernyőillesztő frissítésével. A tálca keresőmezőjébe írja be az **Eszközkezelő** szót, majd a találatok listájában válassza az **Eszközkezelő** lehetőséget. Az **Eszközkezelőben** válassza a **Videókártyák** lehetőséget, majd jelölje ki a videókártyát. Nyomja le és tartsa lenyomva (vagy kattintson a jobb gombbal) a videókártya nevére, és kattintson az **Illesztőprogram frissítése** lehetőségre, majd kövesse az utasításokat.

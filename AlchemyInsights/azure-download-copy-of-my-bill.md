@@ -1,5 +1,5 @@
 ---
-title: Számla másolatának letöltése vagy kérése az Azure-ban
+title: A számlám másolatának letöltése vagy lekérése az Azure-ban
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,20 +19,20 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51820864"
 ---
-# <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>Számla másolatának letöltése vagy kérése az Azure-ban
+# <a name="download-or-request-a-copy-of-my-bill-in-azure"></a>A számlám másolatának letöltése vagy lekérése az Azure-ban
 
-A számla letöltéséhez fiók-rendszergazdai szerepkört kell az előfizetéshez. A tulajdonosi, közreműködői vagy olvasói szerepkört használó felhasználók letölthetik a számláját, ha a fiókgazdának van engedélye. További információ: Számlák [letöltésének engedélyezése a felhasználóknak.](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access#opt-in)
+Az előfizetés számlájának letöltéséhez rendszergazdai szerepkörrel rendelkező fiók szükséges. A tulajdonosi, közreműködői vagy olvasói szerepkört betöltő felhasználók letölthetik a számlát, ha a fiók rendszergazdája ezt engedélyezte. További információ: [A felhasználók letölthetnek számlákat](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access#opt-in).
 
-**Azure-számla (.pdf) letöltése**
+**Az Azure-számla (.pdf) letöltése**
 
-1. Válassza ki előfizetését az Azure Portal [Előfizetések](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) lapján [a](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) számlákhoz hozzáférő felhasználóként, majd válassza a **Számlák lehetőséget.**
-2. Kattintson **a Számla letöltése** elemre a PDF-számla másolatának megtekintéséhez. Ha a Nem érhető el lehetőség **látható,** tekintse meg a Miért nem látom a legutóbbi számlázási időszak [számláját?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. A számlázási időszakra kattintva megtekintheti a napi használatot is: A számla PDF-ének és a részletes napi használati fájl () másolatának beszerzéséhez. CSV: [Számla- és használati adatok lekérte](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
+1. Válassza ki az előfizetését az [Előfizetések lapon](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) az Azure Portal felületén [egy olyan felhasználói fiókkal, amelyik hozzáféréssel rendelkezik a számlákhoz](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), majd válassza a **Számlák** lehetőséget.
+2. A PDF-számla egy példányának megtekintéséhez kattintson a **Számla letöltése** gombra. Ha a **Nem érhető el** üzenet jelenik meg, tanulmányozza a következő cikket:[Miért nem jelenik meg a legutóbbi számlázási időszakra vonatkozó számla?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. A napi használatot úgy is megtekintheti, ha a számlázási időszakra kattint, amellyel hozzájut a számlája egy PDF-formátumú példányához, valamint a részletes napi használatot tartalmazó fájlhoz (.CSV): [Számlázási és használati adatok lekérése](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **Az előfizetési számla letöltésének engedélyezése másoknak**
 
-1. Jelentkezzen be az [Azure Portalba](https://portal.azure.com/) fiók adminisztrátorként az előfizetéshez.
+1. Jelentkezzen be az [Azure Portalra](https://portal.azure.com/) az előfizetés fiók-rendszergazdájaként.
 2. Keresse meg a Költségkezelés + számlázás elemet.
-3. Válassza a bal oldali **Számlák** lehetőséget.
-4. Jelölje ki Azure-előfizetését, és kattintson **a Számla letöltésének engedélyezése másoknak elemre.**
-5. Válassza **a Be,** majd **a** Mentés gombot a lap tetején.
+3. Válassza a bal oldalon a **Számlák** lehetőséget.
+4. Jelölje ki az Azure-előfizetését, majd kattintson **a számlák letöltését mások számára engedélyező** lehetőségre.
+5. A lap tetején válassza a **Be**, majd a **Mentés** lehetőséget.

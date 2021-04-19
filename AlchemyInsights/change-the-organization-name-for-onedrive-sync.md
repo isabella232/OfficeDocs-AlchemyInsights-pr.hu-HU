@@ -1,5 +1,5 @@
 ---
-title: A OneDrive szinkronizálási ügyfélalkalmazás szervezetnevének módosítása
+title: A OneDrive szinkronizálási ügyfele szervezetnevének módosítása
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,13 +19,13 @@ ms.contentlocale: hu-HU
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51818326"
 ---
-# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>A OneDrive szinkronizálási ügyfélalkalmazás szervezetnevének módosítása
+# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>A OneDrive szinkronizálási ügyfele szervezetnevének módosítása
 
-A OneDrive a bérlői rendszergazda által beállított szervezetnevet használja.  Módosíthatja a szervezet címét, műszaki [kapcsolattartóját és sok mását.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) Miután végrehajtotta a változtatást a bérlői fiókban, a OneDrive szinkronizálási ügyfélalkalmazás mindaddig nem fogja tükrözni az új nevet, amíg a felhasználók le nem leválasztják, majd újra nem csatolják OneDrive-fiókjukat.
+A OneDrive a bérlői rendszergazda által beállított szervezetnevet használja.  Módosíthatja [a szervezet nevét, műszaki kapcsolattartóját és egyéb adatait](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more). Miután elvégezte a módosítást a bérlői fiókban, a OneDrive szinkronizálási ügyfele mindaddig nem fogja tükrözni az új nevet, amíg a felhasználók le nem leválasztják, majd újra nem csatolják a OneDrive-fiókjukat.
 
 A fiók leválasztása:
 
-1. Válassza a onedrive kék felhőikonját a tálca jobb szélén, majd válassza a További beállítások > **Beállítások > lehetőséget.**
-2. Keresse meg a leválasztni kívánt fiókot, és válassza a Számítógép leválasztása **,** majd a Fiók **leválasztása lehetőséget.**
+1. Válassza a kék OneDrive felhőikont a tálca jobb szélén, majd válassza az **Egyebek > Beállítások > Fiók** lehetőséget.
+2. Keresse meg a leválasztani kívánt fiókot, és válassza a **Számítógép leválasztása**, majd a **Fiók leválasztása** lehetőséget.
 
-A fiók újra kapcsolatba hozása:  válassza a Fiók hozzáadása lehetőséget **a** Beállítások lap Fiók lapján, és jelentkezzen be újra a OneDrive-ba.
+A fiók újracsatolásához válassza a **Fiók hozzáadása** lehetőséget a Beállítások **Fiók** lapján, és jelentkezzen be újra a OneDrive-ba.
