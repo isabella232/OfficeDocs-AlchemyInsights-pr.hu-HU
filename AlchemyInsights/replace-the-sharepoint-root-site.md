@@ -1,29 +1,31 @@
 ---
-title: A SharePoint gyökérwebhelyének cseréje
+title: A SharePoint-gyökérwebhely cseréje
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 33ee85c305aa9daae0028ad2c0c79a003f9dc017
-ms.sourcegitcommit: 505a576cc0e2b20f8ea5ce0a2f26763a11463918
+ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44493291"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826777"
 ---
-# <a name="replace-the-sharepoint-root-site"></a>A SharePoint gyökérwebhelyének cseréje
-Ha egy meglévő hellyel szeretné modernizálni a gyökérwebhelyet, vagy egyszerűen csak egy másik helyet szeretne a gyökérwebhely szintjén, akkor dönthet úgy, hogy lecseréli (cseréli) a webhelyeket.
+# <a name="replace-the-sharepoint-root-site"></a>A SharePoint-gyökérwebhely cseréje
+Ha egy meglévő webhelytel szeretné modernizálni a gyökérwebhelyet, vagy egyszerűen csak egy másik webhelyet szeretne a gyökérwebhely szintjén, lecserélheti (felcserélheti) a webhelyeket.
 
-1. Az új SharePoint Felügyeleti központban nyissa meg az [Aktív helyek lehetőséget.](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true)
-2. Válassza ki a cserélni kívánt gyökérwebhelyet.
-3. Válassza **a Hely cseréje**lehetőséget.
-4. Adja meg a lecserélni helyettesíthető meglévő webhely URL-címét. **Megjegyzés:** Tájékoztatjuk, hogy a webhely használható-e cseregyökér-helyként.
+1. Az új SharePoint Felügyeleti központban menjen az Aktív [webhelyek lapra.](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true)
+2. Jelölje ki a lecserélni kívánt gyökérwebhelyet.
+3. Válassza **a Webhely cseréje lehetőséget.**
+4. Adja meg a lecserélni kívánt webhely URL-címét. **Megjegyzés:** Értesíteni fogja, hogy a webhely használható-e csere gyökérwebhelyként.
 
-A követelményekkel kapcsolatos további információkért [lásd: Gyökérwebhely korszerűsítése.](https://docs.microsoft.com/sharepoint/modern-root-site)
+A követelményekről további információt a [Gyökérwebhely modernizálása lapon található.](https://docs.microsoft.com/sharepoint/modern-root-site)
+

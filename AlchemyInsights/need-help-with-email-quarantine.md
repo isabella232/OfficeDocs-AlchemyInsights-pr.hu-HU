@@ -1,26 +1,27 @@
 ---
-title: Segítségre van szüksége az e-mail es karanténhoz?
+title: Segítségre van szüksége az e-mail-karanténval?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: 24a836365b03da4f85e6b8f0a24304d4af9efa29
-ms.sourcegitcommit: 43acdecef129bfffc8bbe8ebb08fdd581b238a03
+ms.openlocfilehash: b824e4fe12788848ff09cd7f0c6c5a43563fd5c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44281151"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836317"
 ---
-# <a name="need-help-with-email-quarantine"></a>Segítségre van szüksége az e-mail es karanténhoz?
+# <a name="need-help-with-email-quarantine"></a>Segítségre van szüksége az e-mail-karanténval?
 
-- A **karanténból érkező e-mailek megtekintéséhez és feloldásához**nyissa meg [az Office 365 Biztonsági & Megfelelőségi központ Karantén lapját.](https://protection.office.com/quarantine) Részletes utasításokat [itt](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
-- Ha az üzenet **tévesen karanténba került (hamis pozitív),** kattintson az "Üzenetek jelentése elemzésre a Microsoftnak" gombra, miután megtalálta az üzenetet a Karantén lapon. 
-- Keresse meg az **üzenet karanténba helyezése okát** a "karantén oka" mezőben.
-- **Hiányoznak az e-mailek a karanténban?** Egyes karanténba helyezett e-maileket a végfelhasználók nem adhatnak ki. Ezek valószínűleg olyan üzenetek, amelyeket nagy megbízhatóságú adathalász e-maileknek, rosszindulatú programoknak vagy átviteli műveletnek minősítettek. A rendszergazdák [megtekinthetik, feladhatják vagy törölhetik ezeket az üzeneteket.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide) 
+- Az **e-mailek karanténba való** megtekintéséhez és a karanténba való mentesítéshez kattintson a Karantén lapra az [Office 365 Biztonsági & megfelelőségi központban.](https://protection.office.com/quarantine) Részletes útmutató itt [található.](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages)
+- Ha az üzenetet tévesen karanténba helyezte **(tévesen** pozitív), kattintson az "Üzenetek jelentése a Microsoftnak elemzésre" elemre, miután megtalálta az üzenetet a Karantén lapon. 
+- Keresse meg **azt az okot,** amely miatt az üzenet karanténba került a "karantén oka" mezőben.
+- **Hiányzó e-mailek a karanténban?** A végfelhasználók nem adhatnak ki karanténba helyezett e-maileket. Ezek valószínűleg olyan üzenetek, amelyek nagy valószínűséggel adathalász e-mailként, kártevőként vagy átviteli műveletként osztályozva vannak. A rendszergazdák [megtekinthetik, feladhatják vagy törölhetik ezeket az üzeneteket.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide) 
