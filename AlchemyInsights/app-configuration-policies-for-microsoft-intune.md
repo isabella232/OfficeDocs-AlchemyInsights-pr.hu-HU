@@ -1,25 +1,36 @@
 ---
-title: Alkalmazáskonfigurációs házirendek a Microsoft Intune-hoz
+title: Alkalmazáskonfigurációs házirendek a Microsoft Intune-ban
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423605"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821332"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a><span data-ttu-id="18919-102">Alkalmazáskonfigurációs házirendek a Microsoft Intune-hoz</span><span class="sxs-lookup"><span data-stu-id="18919-102">App Configuration policies for Microsoft Intune</span></span>
+# <a name="app-configuration-policies-for-microsoft-intune"></a><span data-ttu-id="8b124-102">Alkalmazáskonfigurációs házirendek a Microsoft Intune-ban</span><span class="sxs-lookup"><span data-stu-id="8b124-102">App Configuration policies for Microsoft Intune</span></span>
 
-<span data-ttu-id="18919-103">A Microsoft Intune alkalmazáskonfigurációs szabályzatai konfigurációs beállításokat biztosítanak iOS- vagy Android-alkalmazásokhoz.</span><span class="sxs-lookup"><span data-stu-id="18919-103">App configuration policies in Microsoft Intune provide configuration settings for iOS or Android applications.</span></span> <span data-ttu-id="18919-104">Ezek a konfigurációs beállítások lehetővé teszik egy alkalmazás testreszabását.</span><span class="sxs-lookup"><span data-stu-id="18919-104">These configuration settings allow an app to be customized.</span></span> <span data-ttu-id="18919-105">A konfigurációs házirendek támogatását az operációs rendszer verziói és alkalmazásai korlátozzák.</span><span class="sxs-lookup"><span data-stu-id="18919-105">Configuration policy support is limited by operating system versions and applications.</span></span>
+<span data-ttu-id="8b124-103">A Microsoft Intune alkalmazáskonfigurációs házirendek használatával biztosítanak konfigurációs beállításokat az iOS- vagy Android-alkalmazásokhoz.</span><span class="sxs-lookup"><span data-stu-id="8b124-103">App configuration policies in Microsoft Intune are used to provide configuration settings for iOS or Android applications..</span></span> <span data-ttu-id="8b124-104">Ezek a konfigurációs beállítások lehetővé teszik az alkalmazások testreszabását.</span><span class="sxs-lookup"><span data-stu-id="8b124-104">These configuration settings allow an app to be customized.</span></span> <span data-ttu-id="8b124-105">Ne feledje, hogy az operációs rendszer verzióira és a konfigurációs házirendek használatát támogató alkalmazásokra korlátozások vonatkoznak.</span><span class="sxs-lookup"><span data-stu-id="8b124-105">Be aware that there are limitations in respect of which operating system versions and which applications support the use of configuration policies.</span></span>
 
-<span data-ttu-id="18919-106">További információt a [Microsoft Intune alkalmazáskonfigurációs szabályzatai](https://docs.microsoft.com/intune/app-configuration-policies-overview)ban talál.</span><span class="sxs-lookup"><span data-stu-id="18919-106">For more details, see [App configuration policies for Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).</span></span>
+<span data-ttu-id="8b124-106">Kérjük, tekintse át az alábbi dokumentációt a részletekért</span><span class="sxs-lookup"><span data-stu-id="8b124-106">Please review the following documentation for details</span></span>
+
+[<span data-ttu-id="8b124-107">Alkalmazáskonfigurációs házirendek a Microsoft Intune-ban</span><span class="sxs-lookup"><span data-stu-id="8b124-107">App configuration policies for Microsoft Intune</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[<span data-ttu-id="8b124-108">Appkonfigurációs házirendek hozzáadása felügyelt iOS-eszközökhöz</span><span class="sxs-lookup"><span data-stu-id="8b124-108">Add app configuration policies for managed iOS devices</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[<span data-ttu-id="8b124-109">Appkonfigurációs házirendek hozzáadása felügyelt Android-eszközökhöz</span><span class="sxs-lookup"><span data-stu-id="8b124-109">Add app configuration policies for managed Android devices</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[<span data-ttu-id="8b124-110">Appkonfigurációs házirendek hozzáadása felügyelt apphoz eszköz regisztrálása nélkül</span><span class="sxs-lookup"><span data-stu-id="8b124-110">Add app configuration policies for managed apps without device enrollment</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
