@@ -14,7 +14,7 @@ ms.custom:
 - "5699"
 ms.openlocfilehash: eb011c85c516b5de602eb4bf8e41ca94526102dd
 ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: hu-HU
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51828334"
@@ -27,7 +27,7 @@ A Naptárban a képernyő tetején található eszközsávban kattintson a  **
 
 **Megjegyzés**: Más személyek naptárait nem oszthatja meg.
 
-- Írja be annak személynek a nevét vagy az e-mail címét, akivel a naptárat meg szeretné osztani.
+- Írja be annak a személynek a nevét vagy az e-mail-címét, akivel a naptárat meg szeretné osztani.
 - Válassza ki, hogy miként használhatja a meghívott személy a naptárát:
     - **Láthatja, hogy mikor vagyok elfoglalt:** A meghívott személy látni fogja, hogy Ön mikor elfoglalt, nem fogja azonban látni az esemény részleteit, például az esemény helyszínét.
     - **Láthatja a címeket és a helyszíneket:** A meghívott személy látni fogja, hogy Ön mikor elfoglalt, és az események címe és helyszíne is látható lesz számára.
