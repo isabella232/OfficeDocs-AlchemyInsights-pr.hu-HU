@@ -1,5 +1,5 @@
 ---
-title: A DLP házirend-tippek nem működött
+title: Nem működnek a DLP-házirendtippek
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679587"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952194"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP-házirend tippekkel kapcsolatos problémák
 
 **Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
-**DLP-házirend – tippek**
+Ha házirendtippeket konfigurálni a DLP-házirendhez a Biztonsági & megfelelőségi központban teljes kényszerítési módban, tegye a következőket:
 
-DLP- **házirendek**használatakor a felhasználók értesítést kaphatnak a házirend-megsértve a **házirend-tippekkel**. A rendszergazdák beállíthatja a házirend-tippeket a DLP-házirend tesztelésekor vagy a házirend teljes kényszerítési módban való megjelenítéséhez.
-  
-Ha a házirend-tippeket a DLP-házirendre vonatkozóan a biztonsági és megfelelőségi központban, a teljes kényszerítési módban szeretné konfigurálni, tegye az alábbiakat:
-  
-- Gondoskodjon arról, hogy a házirend-tippek **engedélyezve** legyenek a DLP-szabályokban [a következő](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)lépésekkel.
+- Győződjön meg arról, hogy engedélyezve vannak **a** házirendtippek a DLP-szabályon. A lépéseket az [E-mail-értesítések küldése és a DLP-házirendekkel kapcsolatos házirendtippek megjelenítése.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-- Ellenőrizze, hogy a **tartalom megfelel** -e az ebben [a cikkben](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)ismertetett szabály indításához **szükséges** lépéseknek.
+Győződjön meg arról, hogy a tartalom megfelel a Bizalmas adattípusú entitások definícióiban ismertetett szabály [alkalmazásához szükséges feltételeknek.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- A házirend-tippek az OWA és az Outlook alkalmazásban egyaránt láthatók. Az **Outlook 2013-es vagy újabb verziójának**használatakor azonban a házirend-tippek csak bizonyos feltételek mellett jelennek meg. Ezek a feltételek itt olvashatók: [az Outlook 2013 vagy újabb verzióiban támogatott feltételek a házirend-tippek megjelenítéséhez](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+A házirendtippek az Outlook Web Appban és az Outlookban egyaránt megjelennek. Az Outlook 2013-as vagy újabb verziójában azonban csak bizonyos feltételek mellett jelennek meg a házirendtippek. A konkrét feltételek listáját Az Outlook 2013-as vagy újabb verziójának támogatott feltételei című témakörben [olvashatja el a házirendtippek megjelenítéséhez.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-A DLP-házirendi tippekről további információt a következő témakörben talál: [házirend-tippek megjelenítése DLP-házirendekhez](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+A DLP-házirendtippekkel [](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) kapcsolatos információkért lásd: DLP-házirendtippek – tippek és támogatási mátrixok a [DLP-házirendtippek használatához.](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)
