@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 07609b39149c003b029f3ea5669f4044af43c25d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
+ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826165"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52059817"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>A PST-fájlok importálásával kapcsolatos hibák elhárítása
 
-- Ha magán az Outlook-ügyfélprogramon belül importál, olvassa el [Az Outlook .pst fájl importálásakor jelentkező problémák elhárítása](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e) című témakört.
+- Ha magában az Outlook ügyfélprogramban importál, az Outlook .pst fájl importálása során problémáinak megoldása című [témakörben további témakört is láthat.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
-- Ha az importálási szolgáltatás használja, akkor annak elakadása esetén kérjük, vegye figyelembe, hogy az Azure Storage tárhelyre feltöltött egyes PST-fájlok mérete nem lehet nagyobb, mint 20 GB. A 20 GB-nál nagyobb PST-fájlok befolyásolhatják a PST-importálási folyamat teljesítményét.
+- Ha importálási szolgáltatást használ, és az elakad, vegye figyelembe, hogy az Azure-tárhelyre feltöltött PST-fájlok mérete nem lehet nagyobb 20 GB-nál. A 20 GB-nál nagyobb PST-fájlok hatással lehetnek a PST-importálási folyamat teljesítményére. A beragadt állások hibaelhárításáról további információt A PST-importálási feladatokat [érintő problémák.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 
-- Ha ellenőrizni szeretné egy adott importálási feladat állapotát, használja a következőt: [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
+- Ha egy adott importálási feladat állapotát szeretné ellenőrizni, használja a [Get-MailboxImportRequest -batchname lehetőséget.](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest)
 
-- Az importálási szolgáltatásról további információt [A szervezet PST-fájljainak importálása – áttekintés ](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide)című témakörben találhat.
+- Az importálási szolgáltatásról további információt A szervezet PST-fájljainak importálása – áttekintés [témakörben talál.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide)
