@@ -1,5 +1,5 @@
 ---
-title: A. pst fájl helyreállítása az importálás előtt
+title: .pst vagy .ost fájlok javítása
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,25 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b6f3d55d69ce0664fa6316c6879ade9849d5950
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799098"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233716"
 ---
-# <a name="repair-pst-file-before-importing"></a><span data-ttu-id="e799b-102">A. pst fájl helyreállítása az importálás előtt</span><span class="sxs-lookup"><span data-stu-id="e799b-102">Repair .pst file before importing</span></span>
+# <a name="repair-pst-or-ost-files"></a><span data-ttu-id="80384-102">.pst vagy .ost fájlok javítása</span><span class="sxs-lookup"><span data-stu-id="80384-102">Repair .pst or .ost files</span></span>
 
-<span data-ttu-id="e799b-103">Mielőtt a. pst fájlt importálja az Outlookban, ellenőrizze, hogy a fájl nem sérült meg a fájl javításával:</span><span class="sxs-lookup"><span data-stu-id="e799b-103">Before you import a .pst file in Outlook, verify the file is not corrupted by repairing the file:</span></span>
+<span data-ttu-id="80384-103">Ellenőrizze, hogy a fájl nem sérült-e a fájl javítással:</span><span class="sxs-lookup"><span data-stu-id="80384-103">Verify the file is not corrupted by repairing the file:</span></span>
 
-1. <span data-ttu-id="e799b-104">Zárja be az Outlook programot.</span><span class="sxs-lookup"><span data-stu-id="e799b-104">Exit Outlook.</span></span>
+1. <span data-ttu-id="80384-104">Zárja be az Outlook programot.</span><span class="sxs-lookup"><span data-stu-id="80384-104">Exit Outlook.</span></span>
 
-2. <span data-ttu-id="e799b-105">Keresse meg és futtassa `Scanpst.exe` az Office-program mappájában (C:\Program Files (x86) \Microsoft Office\root\Office \<Version\> vagy C:\Program Files\Microsoft Office\root\Office \<Version\> ).</span><span class="sxs-lookup"><span data-stu-id="e799b-105">Find and run `Scanpst.exe` in your Office program folder (C:\Program Files (x86)\Microsoft Office\root\Office\<Version\> or C:\Program Files\Microsoft Office\root\Office\<Version\>).</span></span>
+2. <span data-ttu-id="80384-105">Keresse meg és futtassa az Office programmappában `Scanpst.exe` (C:\Program Files (x86)\Microsoft Office\root\Office \<Version\> vagy C:\Program Files\Microsoft Office\root\Office \<Version\> ).</span><span class="sxs-lookup"><span data-stu-id="80384-105">Find and run `Scanpst.exe` in your Office program folder (C:\Program Files (x86)\Microsoft Office\root\Office\<Version\> or C:\Program Files\Microsoft Office\root\Office\<Version\>).</span></span>
 
-3. <span data-ttu-id="e799b-106">A **Microsoft Outlook javítóeszköz**a **Tallózás** gombra kattintva keresse meg a. pst fájlt (például a C:\Users \\<username \> \AppData\Local\Microsoft\Outlook).</span><span class="sxs-lookup"><span data-stu-id="e799b-106">In the **Microsoft Outlook Inbox Repair tool**, click **Browse** to find the .pst file (for example, in C:\Users\\<username\>\AppData\Local\Microsoft\Outlook).</span></span> <span data-ttu-id="e799b-107">Jelölje ki a. pst fájlt, és kattintson a **Megnyitás**gombra.</span><span class="sxs-lookup"><span data-stu-id="e799b-107">Select the .pst file and then click **Open**.</span></span>
+3. <span data-ttu-id="80384-106">A **Microsoft Outlook Üzenetfájl-javító** eszközében  kattintson a Tallózás gombra a .pst vagy az .ost fájl megkereséhez (például C:\Felhasználók \\<felhasználónév \> \AppData\Local\Microsoft\Outlook).</span><span class="sxs-lookup"><span data-stu-id="80384-106">In the **Microsoft Outlook Inbox Repair tool**, click **Browse** to find the .pst or .ost file (for example, in C:\Users\\<username\>\AppData\Local\Microsoft\Outlook).</span></span> <span data-ttu-id="80384-107">Jelölje ki a fájlt, és kattintson a Megnyitás **gombra.**</span><span class="sxs-lookup"><span data-stu-id="80384-107">Select the file and then click **Open**.</span></span>
 
-4. <span data-ttu-id="e799b-108">Kattintson az **Indítás** gombra az ellenőrzés megkezdéséhez.</span><span class="sxs-lookup"><span data-stu-id="e799b-108">Click **Start** to begin the scan.</span></span>
+4. <span data-ttu-id="80384-108">A **vizsgálat megkezdéséhez** kattintson a Start gombra.</span><span class="sxs-lookup"><span data-stu-id="80384-108">Click **Start** to begin the scan.</span></span>
 
-5. <span data-ttu-id="e799b-109">Ha a fájl hibát talál, kattintson a **javítás**elemre, majd kattintson az **OK gombra** a javítás befejeztével.</span><span class="sxs-lookup"><span data-stu-id="e799b-109">If errors are found in the file, click **Repair**, and then click **OK** when the repair is complete.</span></span>
+5. <span data-ttu-id="80384-109">Ha hibákat talál a fájlban, kattintson a Javítás gombra, majd a javítás befejezésekor az **OK** gombra.</span><span class="sxs-lookup"><span data-stu-id="80384-109">If errors are found in the file, click **Repair**, and then click **OK** when the repair is complete.</span></span>
 
-6. <span data-ttu-id="e799b-110">Próbálja meg ismét importálni a. pst fájlt az Outlookban.</span><span class="sxs-lookup"><span data-stu-id="e799b-110">Try to import the .pst file in Outlook again.</span></span>
-
-<span data-ttu-id="e799b-111">További információt az Outlook- [adatfájlok javítása](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) és [az Outlook. pst fájl importálásakor jelentkező problémák elhárítása](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)című témakörben talál.</span><span class="sxs-lookup"><span data-stu-id="e799b-111">For more information, see [Repair Outlook data files](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) and [Fix problems importing an Outlook .pst file](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span></span>
+<span data-ttu-id="80384-110">További információ: [Az adatfájlok Outlook javítása](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) és A [.pst](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)Outlook problémák megoldása.</span><span class="sxs-lookup"><span data-stu-id="80384-110">For more information, see [Repair Outlook data files](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) and [Fix problems importing an Outlook .pst file](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span></span>
