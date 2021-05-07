@@ -1,5 +1,5 @@
 ---
-title: Az Exchange Server biztonsági frissítéseit
+title: A Exchange Server frissítései
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726529"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233464"
 ---
-# <a name="about-exchange-server-security-updates"></a>Az Exchange Server biztonsági frissítéseit
+# <a name="about-exchange-server-updates"></a>A Exchange Server frissítései
 
-A Microsoft számos kritikus biztonsági frissítést adott ki a helyszíni Exchange Serverhez. Az érintett kiszolgálóverziók az Exchange Server 2010, 2013, 2016 és 2019 frissítési szintjei. Az Exchange Online-t nem befolyásolja, de ha a hibrid konfiguráció miatt vannak helyszíni Exchange-kiszolgálói, azok potenciálisan védtelenek.
+A Microsoft általában Exchange Server (biztonsági frissítések) frissítését vagy negyedéves frissítését (kumulatív frissítéseket) ad ki. A legújabb kiadott frissítések bejelentéseit a Exchange [csapat blogjában olvashatja.](https://aka.ms/ehlo)
 
-Kérjük, olvassa el a következő közleményt a javítások helyéről: [Megjelent: 2021. márciusi Exchange Server biztonsági frissítések](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Ha készletet Exchange kiszolgálóiról, használja a Exchange Server Health Checker parancsfájlt (GitHub használja a [legújabb kiadást).](https://aka.ms/ExchangeHealthChecker) A parancsprogram futtatása jelzi, ha bármelyik Exchange kiszolgálók állnak a frissítések (CUs és SUs) mögött.
 
-**Fontos megjegyzések:**
+- A legújabb kumulatív frissítésre való frissítéshez válassza a Frissítési [Exchange varázslót,](https://aka.ms/ExchangeUpdateWizard) és adja meg a futó cu-t és a cél CU-t. Válassza **a Mondja el a lépéseket a** környezetéhez való útvonaltervhez.
 
-Ha manuálisan telepíti a frissítéseket, fontos információkért olvassa el a tudásbáziscikkek "Ismert problémák" című szakaszát. A biztonsági frissítéseket emelt szintű CMD/PowerShell-parancssorból kell futtatni.
-
-A hibaelhárítási információkat itt [talál.](https://aka.ms/exupdatefaq)
+- Ha a frissítések telepítése során vagy után hibaüzenetet Exchange Server, tekintse meg a Sikertelenül telepített biztonsági frissítések javítása Exchange [és biztonsági frissítéseket.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

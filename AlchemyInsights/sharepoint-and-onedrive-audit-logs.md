@@ -1,5 +1,5 @@
 ---
-title: Klasszikus SharePoint-naplózási jelentések
+title: Klasszikus SharePoint naplójelentések
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,41 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
-ms.assetid: ''
-ms.openlocfilehash: daf79f8d75ccdff8ad54f0f307648a5832a6bb71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f84a86331ffe714ffb5154d55608a91725a2fbfb
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662210"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233608"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>A SharePoint és a OneDrive naplói
+# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint és OneDrive naplók
 
-## <a name="sharepoint-classic-audit-logs"></a>Klasszikus SharePoint-napló
+* [Az egyesített naplózás be- és kikapcsolása](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
-A Spongya örökölt naplózását az egyesített naplóba (UAL) migrálták. Mostantól az összes, a UAL-on keresztül megjelenő régi naplózási jelentés átkerül a UAL-ba.
+A naplókereséssel ellenőrizheti a fájl(ak), a mappa(a) és a felhasználó(k) tevékenységét, az engedélyeket:
 
-Főbb változások:
-
-* A körülvágás nem használható lehetőségként.
-* A naplózandó események kiválasztása nem érhető el. Ebben a [dokumentumban](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) az alapértelmezés szerint elérhető naplózási események teljes listáját tekintheti meg.
-* A **testre szabott jelentések** területen a **hely** lehetőség nem érhető el.
-* A **dokumentumok megnyitása és letöltése** eseményekhez lehetőség nem érhető el.
-
-[Webhelycsoport naplózási beállításainak megadása](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
-
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>A SharePoint és a OneDrive modern, egységes könyvvizsgálati naplók a megfelelőségi szolgáltatásból
-
-* [Az egyesített naplózás be-és kikapcsolása](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
-
-A SharePointban és az OneDrive-ban nincs szükség további konfigurálásra.
-
-A naplózás naplózása szolgáltatással ellenőrizheti a fájl (ok), a mappa (ok), a felhasználó (k) és az engedélyek működését:
-
-* [Fájlok és lapok tevékenysége](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
-* [Mappákkal kapcsolatos tevékenységek](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Megosztási és hozzáférés-kérési tevékenységek](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Fájl- és laptevékenységek](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Mappatevékenységek](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Megosztási és hozzáférési tevékenységek](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
 * [Szinkronizálási tevékenységek](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Webhely-felügyeleti tevékenységek](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Webhelyfelügyeleti tevékenységek](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Ha többet szeretne tudni az események beolvasásáról, olvassa el [a keresés a naplóban](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)című témakört.
+Az ilyen események beolvasásával kapcsolatos további információkért lásd: [Keresés a naplóban.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
+
+Az SPO régi típusú naplózását egyesített naplóba migráltuk. Az összes korábbi SPO-naplójelentés az UAL-alapú, és a régi naplójelzéseket áttelepíti az UAL-ba. További információ: [Webhelycsoport naplózási](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)adatainak konfigurálása.

@@ -13,36 +13,36 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: f486846cb3fd509785a99c70f3dbbcf7dcbed242
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: d8cba59f38760edd9ebb693bd5d5e63576966ae3
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286780"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261666"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Előfizetés aktiválása vagy újraaktiválása
 
 **Előfizetés aktiválása**
 
-- Ha hozzáférést szeretne adni a felhasználóknak egy szolgáltatáshoz, rendeljen hozzájuk licencet. Ebből a témakörből megtudhatja, hogyan [oszthat ki licenceket a felhasználókhoz](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Ha már van Önhöz hozzárendelt licence, a [saját fiók lapról](https://portal.office.com/account/#installs)letöltött alkalmazásokat is megtalálhatja. Ezen a lapon láthatja, hogy milyen alkalmazások tölthetők le a kiosztott licencek alapján.
-- Ha már letöltötte az Office-alkalmazásokat, előfordulhat, hogy a munkahelyi vagy iskolai fiókjával kell beírnia az alkalmazásba. Ezt bármely Office-alkalmazásban (Word, Excel stb.) úgy teheti meg, hogy a **fájl**  >  **Office-fiókra** (az alsó részen) kattint. A **felhasználói adatok**csoportban válassza a **fiók váltása**lehetőséget. További információt az Office- [alkalmazások telepítése](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)című témakörben talál.
+- Ha hozzáférést szeretne adni a felhasználóknak egy szolgáltatáshoz, rendeljen hozzájuk licencet. További információ: [Licencek hozzárendelése felhasználókhoz.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Ha már van licence, a Saját fiók lapról letölthető alkalmazásokat [találhatja meg.](https://portal.office.com/account/#installs) Ezen a lapon a hozzárendelt licencek alapján letölthető alkalmazások listája látható.
+- Ha már letöltötte az Office alkalmazásokat, előfordulhat, hogy be kell jelentkeznie az alkalmazásokba a munkahelyi vagy iskolai fiókjával. Ezt bármely Office (Word, Excel stb.) a Fájl Office fiók elemre kattintva  >   (alul) használhatja. A **Felhasználói adatok csoportban** válassza a **Fiókváltás lehetőséget.** További információ: Az Office [telepítése.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
 
 **Előfizetés újraaktiválása**
 
-Ha lejárt az előfizetése, a Microsoft letiltotta, vagy egy előfizetési időszak közepén lemondott róla, akkor a felügyeleti központban újraaktiválhatja.
+Ha lejár az előfizetése, a Microsoft letiltotta vagy lemondta azt egy előfizetési időszak közepén, újraaktiválhatja azt a Felügyeleti központban.
   
-1. A felügyeleti központban lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
-2. A **Products (termékek** ) lapon keresse meg azt az előfizetést, amelyet újra szeretne aktiválni.
-3. Válassza a **További műveletek** (három pont) lehetőséget, majd válassza **az előfizetés újraaktiválása**lehetőséget.
+1. A felügyeleti központban válassza a **Termékek**  >  [számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. A **Termékek lapon** keresse meg az újraaktiválni kívánt előfizetést.
+3. Válassza **a További műveletek** (három pont) lehetőséget, majd az Előfizetés **újraaktiválása lehetőséget.**
     > [!IMPORTANT]
-    > Ha nem látható az **előfizetés újraaktiválása** elérhető műveletként, [hívja fel az ügyfélszolgálatot](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) az előfizetés újraaktiválásához.
-4. Az **előfizetés újraaktiválása** ablaktáblában válasszon egy meglévő fizetési módot, vagy válassza a **fizetési mód hozzáadása**lehetőséget.
-5. Válassza az **újraaktiválás**lehetőséget.
+    > Ha nem látható az Előfizetés újraaktiválása **elérhető** [műveletként,](/microsoft-365/admin/contact-support-for-business-products) az előfizetés újraaktiválhatja az ügyfélszolgálatot.
+4. Az **Előfizetés újraaktiválása** panelen válasszon ki egy meglévő fizetési módot, vagy válassza a **Fizetési mód hozzáadása lehetőséget.**
+5. Válassza **az Újraaktiválás lehetőséget.**
 
 További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.
 
 **Új előfizetés aktiválása termékkulccsal**
 
-1. Ha új Microsoft 365-előfizetést szeretne aktiválni a termékkulcs használatával, olvassa el [a hol található az Office-Termékkulcs beírása](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)című témakört.
-2. Írja be a Microsoft 365-höz tartozó termékkulcsát, és kövesse az utasításokat az előfizetés aktiválásához. Ha problémái vannak az aktiválással, olvassa el a [leggyakoribb termékkulcs-hibák és megoldások](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)című témakört.
+1. Ha új előfizetést Microsoft 365 a termékkulcsával, tekintse meg a Hol lehet megadni a Office [termékkulcsot? lehetőséget.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+2. Írja be a Microsoft 365-höz tartozó termékkulcsát, és kövesse az utasításokat az előfizetés aktiválásához. Ha problémát tapasztal az aktiválással kapcsolatban, tekintse át a termékkulcsokkal kapcsolatos gyakori hibákat és [megoldásokat.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

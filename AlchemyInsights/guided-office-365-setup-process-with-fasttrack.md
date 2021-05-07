@@ -1,5 +1,5 @@
 ---
-title: Interaktív Office 365-beállítási folyamat a FastTrack alkalmazással
+title: A FastTrack Office 365 végigvezeti a telepítési folyamaton
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6939"
-ms.openlocfilehash: 563d6c252740f577d9093febf2985f3cb65662e1
-ms.sourcegitcommit: c0b8e17c8696632e321e69b617aaff2958201e9b
+- "9419"
+ms.openlocfilehash: 4b8006959728192ba97fd1770f0caa71aaf7ca53
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194542"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233752"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>Interaktív Office 365-beállítási folyamat a FastTrack alkalmazással
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>A FastTrack Office 365 végigvezeti a telepítési folyamaton
 
-Ha jogosult az Office 365 FastTrack-támogatásra, a portálon keresztül kérhet segítséget. Ha önkiszolgáló segítséget vagy útmutatást keres egy partnertől, az Office 365 beállítási varázslói vagy egy erre jogosult partner segítséget nyújthatnak a folyamat során.
+Ha jogosult az Office 365 FastTrack-támogatásra, a portálon keresztül kérhet segítséget. Ha önkiszolgáló segítséget vagy útmutatást keres egy partnertől, a Office 365 vagy egy jogosult partnerünk segítséget nyújthat a folyamat során.
 
-1. Ha segítségre van szüksége a FastTrack portálon keresztül, jelentkezzen be a [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) portálra, és a lépéseket követve töltse ki a Microsoft 365-ös segítségkérési űrlapot.
+- Ha segítségre van szüksége a FastTrack portálon keresztül, jelentkezzen be a [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) portálra, és a lépéseket követve töltse ki a támogatási kérést az Microsoft 365 űrlapon.
 
     > [!NOTE]
-    > Ha problémákat tapasztal a bejelentkezésben, vagy további segítségre van szüksége, küldjön e-mailt a [ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
+    > Ha problémákat tapasztal a bejelentkezésben, vagy további segítségre van szüksége, küldjön egy e-mailt a [ftcrfa@microsoft.com.](mailto:ftcrfa@microsoft.com)
 
-2. Ha önkiszolgáló segítségre van szüksége az Office 365-nek, tekintse meg a [telepítési útmutatást.](https://go.microsoft.com/fwlink/?linkid=2125827)
-3. Ha megoldásszolgáltatót keres, tekintse át [a "Megoldásszolgáltatót keresek" 2010-et.](https://go.microsoft.com/fwlink/?linkid=2125918)
+- Ha önkiszolgáló segítséget Office 365, tekintse meg a [telepítési útmutatást.](https://go.microsoft.com/fwlink/?linkid=2125827)
+- Megoldásszolgáltatót a [Megoldásszolgáltatót](https://go.microsoft.com/fwlink/?linkid=2125918)szeretnék keresni?

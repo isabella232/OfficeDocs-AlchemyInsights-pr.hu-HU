@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125206"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233536"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Bővítmények telepítése a Microsoft 365-alkalmazások
 
 A Központi üzembe helyezés az ajánlott módszer a bővítmények Office és csoportok számára való telepítésére a szervezeten belül. Bővítmények telepítéséhez kövesse az alábbi lépéseket:
 
-**Megjegyzés:** Ha egyéni felhasználóként szeretne Office bővítményt telepíteni, tekintse meg a Bővítmények megtekintése, kezelése és telepítése a Office [programokban Office.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Ezenkívül arról is győződjön meg, hogy a Office Áruházbeli bővítmények egyéni beszerzése engedélyezve van. 
+**Megjegyzés:** Ha egyéni felhasználóként szeretne Office bővítményt telepíteni, tekintse meg a Bővítmények megtekintése, kezelése és telepítése a Office [programokban Office.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Ezenkívül arról is győződjön meg, hogy a Office Áruházbeli bővítmények egyéni beszerzése engedélyezve van. Részletes információkért [lásd: Bővítmények](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)letöltésének megakadályozása az összes ügyfél Office (kivéve a Outlook).
 
 1. Győződjön meg arról, hogy környezete megfelel a Bővítmények Központi üzembe helyezés használatával való telepítésének követelményeinek. Részletes információkért lásd: [Követelmények.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
 2. A bővítmények **Gépház** telepítéséhez Gépház alkalmazások letöltése a Microsoft 365 Felügyeleti központban című  >    >   témakört. 
