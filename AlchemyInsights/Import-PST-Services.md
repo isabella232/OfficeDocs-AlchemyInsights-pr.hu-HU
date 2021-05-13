@@ -1,5 +1,5 @@
 ---
-title: 1245-import-PST-szolgáltatások
+title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664064"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470257"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365-importálási szolgáltatás
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Import service
 
-A Microsoft 365 importálási szolgáltatása lehetővé teszi több PST-fájl tömeges importálását az Exchange Online-postaládákba.
+Az Microsoft 365 importálási szolgáltatás lehetővé teszi több PST-fájl tömeges importálását Exchange Online postaládákba.
 
-Az importálási szolgáltatás elérése és az importálási folyamat elindítása:
+Az Importálás szolgáltatás elérése és az importálási folyamat elkezdása:
 
-1. Nyissa meg a [biztonsági & megfelelőségi központot](https://protection.office.com) , és egy rendszergazdai fiók hitelesítő adataival lépjen be a szervezetében.
+1. A Biztonsági & [megfelelőségi központban](https://protection.office.com) jelentkezzen be egy rendszergazdai fiók hitelesítő adataival a szervezetében.
 
-2. A **biztonsági & megfelelőségi központ**bal oldali ablaktábláján kattintson az **adatkezelés > az importálás**parancsra.
+2. A Biztonsági és megfelelőségi központ **bal oldali ablaktábláján** kattintson & információirányítási és **> elemre.**
 
-3. Az **Importálás** lapon kattintson az **új importálási feladat**gombra.
+3. Az Importálás **lapon** kattintson az Új **importálási feladat elemre.**
 
-4. A varázsló lépéseinek elvégzéséhez kövesse az itt szereplő [lépésenkénti útmutatást](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+4. A varázsló lépéseit az alábbi részletes lépéseket követve [hajtsa végre.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
 
-**Fontos**: Ha a biztonsági & megfelelőségi központban szeretné elérni az **Importálás** lapot,  [a megfelelő engedélyeket](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)kell kiosztania.
+**Fontos:** A Biztonsági **&** Megfelelőségi központban az Importálás lap eléréséhez rendelkeznie kell a megfelelő [engedélyekkel.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
 
-Ha csak egy PST-fájlt szeretne importálni a postaládába, olvassa el [ezt a cikket](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Ha csak egy PST-t szeretne importálni a postaládájába, tekintse át ezt [a cikket.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
