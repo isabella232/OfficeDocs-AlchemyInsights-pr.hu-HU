@@ -1,5 +1,5 @@
 ---
-title: A speciális veszélyforrások elleni védelem megszüntetése
+title: A Komplex veszélyforrások elleni védelem lemondása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416279"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543507"
 ---
-# <a name="cancel-advanced-threat-protection"></a>A speciális veszélyforrások elleni védelem megszüntetése
+# <a name="cancel-advanced-threat-protection"></a>A Komplex veszélyforrások elleni védelem lemondása
 
-A rendszergazdák a Microsoft 365 felügyeleti központban törölhetik a szervezete speciális veszélyforrások elleni védelmét előfizetést.
+A rendszergazdák a Felügyeleti központban lemondhatjak szervezetük Komplex veszélyforrások elleni Microsoft 365 előfizetését.
 
-1. Lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
-2. A **Products (termékek** ) lapon keresse meg a lemondani kívánt Advanced Threat Protection csomagot. Válassza a **További műveletek** (három pont) lehetőséget, majd válassza az **előfizetés törlése**lehetőséget.
-3. Az **előfizetés törlése** munkaablakban adja meg a lemondás okát. Tetszés szerint adja meg a visszajelzést.
+1. Válassza a **Termékek**  >  [számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. A Termékek **lapon** keresse meg a lemondani kívánt Komplex veszélyforrások elleni védelemmel kapcsolatos tervet. Válassza a három pontra (további műveletek), majd az **Előfizetés lemondása gombra.**
+3. Az Előfizetés **lemondása ablaktáblában** adja meg a lemondás okát. Tetszés szerint adjon meg bármilyen visszajelzést.
 4. Válassza a **Mentés** elemet.
 
-**Visszatérítés:** A következő számlázási ciklusban bármely kiértékelt jóváírást visszakapja Önnek.
+**Visszatérítés:** Az esetleges produktált krediteket a következő számlázási ciklusban térítünk meg.
 
-További információt az [előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)című témakörben talál.
+További információ: Az előfizetés [lemondása.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

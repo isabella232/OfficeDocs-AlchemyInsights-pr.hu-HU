@@ -1,5 +1,5 @@
 ---
-title: A Visio-előfizetés lemondása
+title: Előfizetés Visio lemondása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 88109091a3a958c1a464bff2d5eef8ac05039c07
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f3f08ebf58473f82ad57dae0e6dd59a065f519a6
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416396"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543363"
 ---
-# <a name="cancel-visio-subscription"></a>A Visio-előfizetés lemondása
+# <a name="cancel-visio-subscription"></a>Előfizetés Visio lemondása
 
-A rendszergazdák a Microsoft 365 felügyeleti központban törölhetik a szervezete Visio-előfizetését.
+A rendszergazdák a felügyeleti központban Visio le a szervezetük Microsoft 365 előfizetését.
 
-1. Lépjen a termékek **számlázása** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
-2. A **Products (termékek** ) lapon keresse meg a lemondani kívánt Visio-előfizetést. Válassza a **További műveletek** (három pont) lehetőséget, majd válassza az **előfizetés törlése**lehetőséget.
-3. Az **előfizetés törlése** munkaablakban adja meg a lemondás okát. Tetszés szerint adja meg a visszajelzést.
+1. Válassza a **Termékek** \> [számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. A **Termékek lapon** keresse meg Visio lemondani kívánt előfizetést. Válassza a három pontra (további műveletek), majd az **Előfizetés lemondása gombra.**
+3. Az Előfizetés **lemondása ablaktáblában** adja meg a lemondás okát. Tetszés szerint adjon meg bármilyen visszajelzést.
 4. Válassza a **Mentés** elemet.
 
-**Visszatérítés:** A következő számlázási ciklusban bármely kiértékelt jóváírást visszakapja Önnek.
+**Visszatérítés:** Az esetleges produktált krediteket a következő számlázási ciklusban térítünk meg.
 
-További információt az [előfizetés lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)című témakörben talál.
+További információ: Az előfizetés [lemondása.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

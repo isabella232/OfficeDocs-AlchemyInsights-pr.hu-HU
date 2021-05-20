@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: d90645758100e3ff29d77dd09848b36f33c3f526
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233392"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543651"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Bizalmasság-címke létrehozása
 
@@ -30,8 +30,8 @@ ms.locfileid: "52233392"
 
     Az automatikus címkézésről további információt a Tartalom automatikus címkézése [tartalomracímke alkalmazásacímkecímkekéntcímkeként olvashat.](https://go.microsoft.com/fwlink/?linkid=2105837)
 
-1. További címkék létrehozásához ismételje meg ezeket a lépéseket. Ha azonban alcímkét szeretne létrehozni, először jelölje ki a szülőcímkét, válassza a **...** lehetőséget a **További** műveletek gombra, majd válassza az **Alcímke hozzáadása lehetőséget.**
+1. További címkék létrehozásához ismételje meg ezeket a lépéseket. Ha azonban alcímkét szeretne létrehozni, először jelölje ki a szülőcímkét, jelölje ki a három pontot (további műveletek), majd válassza az Alcímke **hozzáadása lehetőséget.**
 
 1. Miután létrehozta az összes szükséges címkét, tekintse át a sorrendjüket, és ha szükséges, mozgassa őket felfelé vagy lefelé. 
     
-    A feliratok sorrendjének beállításhoz válassza a **...** lehetőséget a További műveletek **hoz,** majd válassza a **Fel** vagy a Le **lehetőséget.**
+    A feliratok sorrendjének a sorrendjét a három pontra (további műveletek), majd a Felfelé vagy a Lejjebb lehetőséget **választva módosíthatja.** 

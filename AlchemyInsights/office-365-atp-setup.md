@@ -1,5 +1,5 @@
 ---
-title: Az Office 365-hez szükséges Microsoft Defender (ATP) beállítása
+title: Microsoft Defender Office 365 telepítéshez
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9fb4d7b85bc7bcdfc0fe82f5371213aa7470fca7
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708640"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543615"
 ---
-# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender az Office 365-hez (ATP)
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender Office 365
 
-Az Office 365 [](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)ATP biztonságos mellékleteket, [biztonságos](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)hivatkozásokat, [speciális adathalászat-gátlókat](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)és egyéb funkciókat tartalmaz. 
+A Microsoft Defender Office 365 [többek](/microsoft-365/security/office-365-security/atp-safe-attachments)között Széf mellékleteket, [Széf](/microsoft-365/security/office-365-security/atp-safe-links)hivatkozásokat, [speciális adathalászat-](/microsoft-365/security/office-365-security/atp-anti-phishing)elleni védelmet. 
 
-ATP az előfizetések része, például az Office 365 Nagyvállalati E5 csomag, az Office 365 Oktatási A5 csomag és a Microsoft 365 Vállalati prémium verzió. Ha előfizetése nem tartalmazza az ATP-t, bővítményként megvásárolhatja az ATP-t. További információt az [Office 365 ATP szolgáltatásleírásában olvashat.](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
+A Microsoft Defender Office 365 része az előfizetések, például az Office 365 Nagyvállalati verzió E5, a Office 365 Oktatási verzió A5 és a Microsoft 365 Vállalati prémium verzió. Ha előfizetése nem tartalmazza azt, meg is vásárolhatja bővítményként. További információ: [Microsoft Defender Office 365 szolgáltatás leírása.](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
-## <a name="set-up-office-365-atp"></a>Az Office 365 ATP beállítása
+## <a name="set-up-microsoft-defender-for-office-365"></a>A Microsoft Defender beállítása Office 365
 
-Ahhoz, hogy aTp-védelem érvényben legyen, konfigurálnia kell a házirendeket. Rövid útmutató: A Microsoft Defender beállítása [az Office 365-hez.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
+Ahhoz, hogy a Office 365 a Microsoft Defender érvényben legyen, konfigurálnia kell a házirendeket. Lásd: Rövid útmutató: A [Microsoft Defender Office 365.](/microsoft-365/security/office-365-security/office-365-atp)
 

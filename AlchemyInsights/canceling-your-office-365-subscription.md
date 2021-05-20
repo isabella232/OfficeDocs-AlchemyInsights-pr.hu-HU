@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 59fd13ca0e1151740ebca23b3f382611a565bc42
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261594"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543183"
 ---
 # <a name="canceling-your-subscription"></a>Lemondja az előfizetését?
 
 Sajnáljuk, hogy el kell mennie, de ha le szeretné mondani az előfizetését, a következő lehetőségek közül választhat:
   
-- Ha kevesebb mint 25 hozzárendelt licenccel rendelkezik, online lemondhatja az előfizetését. Keresse fel **a Termékek számlázása** \> **[lapot,](https://go.microsoft.com/fwlink/p/?linkid=842054)** és keresse meg a lemondani kívánt előfizetést. Válassza **a További műveletek** (három pont) gombra, majd az Előfizetés **lemondása gombra.**
-- Ha több mint 25 licencet osztott ki a felhasználóknak, az előfizetés lemondásához hívja fel [az ügyfélszolgálatot.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
+- Ha kevesebb mint 25 hozzárendelt licenccel rendelkezik, online lemondhatja az előfizetését. Keresse fel **a Termékek számlázása** \> **[lapot,](https://go.microsoft.com/fwlink/p/?linkid=842054)** és keresse meg a lemondani kívánt előfizetést. Válassza a három pontra (további műveletek), majd az **Előfizetés lemondása gombra.**
+- Ha több mint 25 licencet osztott ki a felhasználóknak, az előfizetés lemondásához hívja fel [az ügyfélszolgálatot.](https://go.microsoft.com/fwlink/p/?linkid=518322)
   
 **Visszatérítés: A következő számlázási ciklusban térítünk meg minden időkorrált jóváírást.**
 
 > [!NOTE]
 > Ha nem látja a lemondási lehetőséget, válassza ki az előfizetést a részletek lap megtekintéséhez. Az **Előfizetési és fizetési beállítások szakaszban** válassza az Előfizetés **lemondása lehetőséget.**
 
-További információ: Az előfizetés [lemondása.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+További információ: Az előfizetés [lemondása.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
