@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233788"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539646"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Bizalmasság-címke közzététele
 
@@ -36,6 +36,6 @@ ms.locfileid: "52233788"
 
 1. Ismételje meg ezeket a lépéseket, ha különböző felhasználóknak vagy helyeknek különböző házirend-beállításokra van szüksége. További címkéket szeretne például a felhasználók egy csoportjához vagy egy másik alapértelmezett címkét a felhasználók egy részcsoportja számára.
 
-1. Ha több címke-házirendet hoz létre, amely ütközést okozhat egy felhasználó vagy hely esetén, tekintse át a házirend sorrendjét, és szükség esetén mozgassa őket felfelé vagy lefelé. Ha módosítania kell egy címke-házirend sorrendjét, válassza a **...** lehetőséget a További műveletek **hoz,** majd válassza a **Fel** vagy a Lejjebb **lehetőséget.**
+1. Ha több címke-házirendet hoz létre, amely ütközést okozhat egy felhasználó vagy hely esetén, tekintse át a házirend sorrendjét, és szükség esetén mozgassa őket felfelé vagy lefelé. A címke-házirendek sorrendjének beállításhoz jelölje ki a három pontot (további műveletek), majd válassza a Fel vagy a Le **lehetőséget.** 
 
 A varázsló befejezése automatikusan közzéteszi a címke házirendet.

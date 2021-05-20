@@ -1,5 +1,5 @@
 ---
-title: További információ aTp szolgáltatásról
+title: További információ a Microsoft Defender Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403565"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539790"
 ---
-# <a name="learn-about-atp"></a>További információ aTp szolgáltatásról
+# <a name="learn-about-microsoft-defender-for-office-365"></a>További információ a Microsoft Defender Office 365
 
-Néhány információ az Office 365 Komplex veszélyforrások elleni védelemről:
+Néhány információ a Microsoft Defender for Office 365:
 
-**Mi az ATP?**
+**Mi a Microsoft Defender Office 365?**
 
-ATP egy felhőalapú e-mail-szűrési szolgáltatás, amely védelmet nyújt a szervezeteknek az ismeretlen kártevők és vírusok ellen azáltal, hogy hatékony nulla napos védelmet nyújt. Olyan funkciókat tartalmaz, amelyek védik a szervezeteket a valós idejű kártékony hivatkozásoktól.
+A Microsoft Defender Office 365 egy felhőalapú e-mail-szűrési szolgáltatás, amely hatékony nulla napos védelmet nyújtva védelmet nyújt a szervezeteknek az ismeretlen kártevők és vírusok ellen. Olyan funkciókat tartalmaz, amelyek védik a szervezeteket a valós idejű kártékony hivatkozásoktól.
 
-**Hogyan aktiválható aTp?**
+**Hogyan aktiválható a Microsoft Defender Office 365?**
 
-A biztonságos mellékletek, a biztonságos hivatkozások és az adathalászat elleni védelem az ATP szolgáltatás részét képezi. A Nagyvállalati E5, az Oktatási A5 és a Microsoft 365 Vállalati verzió beépített ATP-funkciókat tartalmaz. Minden más csomaghoz bővítmény-bővítmény-előfizetésre van szükség. Ki kell rendelnie a megfelelő licenceket a felhasználókhoz az Office 365 ATP védelme érdekében. A funkció eléréséhez globális rendszergazdai vagy biztonsági rendszergazdai jogosultsággal kell rendelkeznie. Ha többet szeretne megtudni arról, hogy miként alkalmazhat licenceket tömegesen a végfelhasználókra, olvassa el a Licencek hozzárendelése felhasználókhoz az [Office 365 Vállalati verzióban.](https://go.microsoft.com/fwlink/?linkid=2093435)
+Széf A mellékletek, Széf hivatkozások és az adathalászat elleni védelem a Microsoft Defender Office 365 része. A Nagyvállalati E5, az Oktatási A5 és Microsoft 365 Vállalati verzió Microsoft Defender beépített funkcióival Office 365 funkciókat. Minden más csomaghoz szükség van egy Microsoft Defender bővítményre Office 365 előfizetéshez. Ki kell rendelnie a megfelelő licenceket a felhasználókhoz ahhoz, hogy a Microsoft Defender védelmet nyújt Office 365. A funkció eléréséhez globális rendszergazdai vagy biztonsági rendszergazdai jogosultsággal kell rendelkeznie. Ha többet szeretne megtudni arról, hogy miként alkalmazhat licenceket tömegesen a végfelhasználókra, olvassa el a Licencek hozzárendelése felhasználókhoz a Office 365 [vállalati verzióban.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
-**Hogyan kezelem aTp-t, vagy többet megtudok róla?**
+**Hogyan kezelem a Microsoft Defendert Office 365 vagy többet megtudok róla?**
 
 a. Kattintson a [Beállítás gombra.](https://go.microsoft.com/fwlink/p/?linkid=2075721)
 b. A **Bejelentkezés és biztonság alatt keresse** meg a Speciális veszélyforrások elleni védelem növelése lehetőséget, és válassza a Nézet [lehetőséget.](https://go.microsoft.com/fwlink/?linkid=2109302) 

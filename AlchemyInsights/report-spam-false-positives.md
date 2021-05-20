@@ -1,5 +1,5 @@
 ---
-title: az 975 szeretné bejelenteni a levélszemét hamis pozitívját a Microsoftnak?
+title: 975 Szeretne egy tévesen pozitív levélszemetet jelenteni a Microsoftnak?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692333"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540402"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Hamis pozitívan szeretné bejelenteni a Microsoftnak a levélszemétet?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Egy tévesen pozitív levélszemétről szeretne bejelentést küldeni a Microsoftnak?
 
-Rendszergazdaként a legjobb módszer annak megállapítására, hogy miért lett kézbesítve az adathalász vagy a levélszemét üzenet, ha elküldi a mintát a Microsofthoz a beküldött üzenetek [Intézőben](https://protection.office.com/reportsubmission). Annak érdekében, hogy megkönnyítse a felhasználóknak, hogy közvetlenül jelentést készítsen a Microsoftnak a [jelentéskészítő üzenet bővítményen](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)keresztül.
+Rendszergazdaként úgy állapíthatja meg a legjobb módszerrel, hogy miért kézbesített egy adathalász vagy levélszemét jellegű üzenetet, hogy elküldi a mintát a Microsoftnak a [Beküldéskezelőben.](https://protection.office.com/reportsubmission) A könnyebbség érdekében a jelentésüzenetek bővítmény segítségével közvetlenül a Microsoftnak is [bejelentheti őket.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-Javasoljuk, hogy körültekintően járjon el, ha [a Microsoft 365 levélszemét-szűrőinek megkerülését](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)választja.
+Azt javasoljuk, hogy legyen körültekintő, ha úgy dönt, hogy megkerüli Microsoft 365 [levélszemétszűrőket.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**Tudta?**: mostantól közvetlenül elküldheti a mintákat az [üzenet nyomon követése](https://protection.office.com/messagetrace) és az E5/ATP csomag 2 ügyféltől, amely a [fenyegetések Explorerből](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)tud mintát küldeni.
+**Tudta?**: Mostantól közvetlenül az üzenetkövetésből küldhet mintákat, az E5/Microsoft Defender Office 365 2. csomag ügyfelei pedig mintákat küldhetnek a [](https://protection.office.com/messagetrace) Veszélyforrás-tervezőből. [](/microsoft-365/security/office-365-security/threat-explorer)

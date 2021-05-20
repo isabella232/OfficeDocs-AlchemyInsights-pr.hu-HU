@@ -1,5 +1,5 @@
 ---
-title: A Microsoft 365 Nagyvállalati verzió csomagja közötti különbségek
+title: Microsoft 365 Nagyvállalati verzió különbségek a tervben
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745664"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539754"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>A Microsoft 365 Nagyvállalati verzió csomagja közötti különbségek
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Nagyvállalati verzió különbségek a tervben
 
-A Microsoft 365 Nagyvállalati E5 csomag tartalmazza a Microsoft 365 Nagyvállalati E3 csomag összes funkcióját, valamint speciális biztonsági funkciókat, például:
+Microsoft 365 Nagyvállalati verzió Az E5 csomag az E3 Microsoft 365 Nagyvállalati verzió funkciókat, valamint speciális biztonsági funkciókat tartalmaz, például:
 
-- Komplex veszélyforrások elleni védelem (ATP)
+- Veszélyforrások elleni védelem
 - Speciális adatirányítás
 - Ügyfélszéf
-- Microsoft 365 Cloud App Security
+- Microsoft 365 Felhőappbiztonság
 - Speciális feltárás
 - Rights Management Services
 - Azure kulcstár
 
-A Microsoft 365 Nagyvállalati E5 e5 nagy teljesítményű elemzési és hangalapú funkciókat is tartalmaz, például:
+Microsoft 365 Nagyvállalati verzió Az E5 E5 nagy teljesítményű elemzési és hangalapú funkciókat is tartalmaz, például:
 
 - Élő irányítópultok
-- Jelentések a Power BI-val
+- Jelentések Power BI
 - Modern hangkomóta
 - Hangkonferencia
 - Online értekezletek
 
-Ha szeretne többet megtudni a Microsoft 365 Nagyvállalati E5 verzióról vagy egy próba-előfizetésre, olvassa el [a Microsoft 365-előfizetés](https://go.microsoft.com/fwlink/?linkid=2099673)kipróbálása vagy vásárlása lehetőséget.
+Az E5 Microsoft 365 Nagyvállalati verzió előfizetésről vagy a próba-előfizetésre való regisztrációról a Próba-előfizetés kipróbálása vagy [Microsoft 365 olvashat.](https://go.microsoft.com/fwlink/?linkid=2099673)
 
 A nagyvállalati csomagok funkcióinak összehasonlítását a Nagyvállalati csomagok [összehasonlítása](https://go.microsoft.com/fwlink/?linkid=2097200)
 
