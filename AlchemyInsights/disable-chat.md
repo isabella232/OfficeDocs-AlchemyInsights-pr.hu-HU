@@ -13,22 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: b6041dd41d0d94b832b962518c73560737684ce1
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088887"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573748"
 ---
 # <a name="disable-chat"></a>Csevegés letiltása
 
-Ha le szeretné tiltani a csevegést a szervezete számára, olyan házirendeket hozhat létre, amelyek lehetővé teszik a csevegési és-csatornán elérhető üzenetkezelési funkciók szabályozását. A csevegés konfigurálásának módjától függően többféleképpen is elvégezheti ezt a feladatot.
+A csevegés szervezeti engedélyezéséhez vagy letiltásához létrehozhat olyan házirendeket, amelyek lehetővé teszik annak szabályozását, hogy mely csevegési és csatornaüzenet-kezelő funkciók érhetők el. Ennek számos módja van attól függően, hogy hogyan kell konfigurálnia a csevegést.
 
-- **Üzenetküldés**: a Teams felügyeleti központban lépjen az [üzenetküldési házirendek](https://admin.teams.microsoft.com/)elemre, és kapcsolja be vagy **ki** a **csevegést** . Az egyéni üzenetkezelési házirendekről és a házirendek felhasználókhoz való hozzárendeléséről további információt az [üzenetküldési házirendek kezelése a Teams alkalmazásban](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams)című témakörben talál.
-- **Értekezlet**: a Teams felügyeleti központban nyissa meg az [értekezlet házirendjeit](https://admin.teams.microsoft.com/) – a csevegés beállítása **lehetővé teszi a csevegést az értekezleteken**. Az egyéni értekezlet-házirendek létrehozásáról további információt az [értekezlet-házirendek kezelése a Teams alkalmazásban](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) és a [csevegés engedélyezése az értekezleteken](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)című témakörben talál.
-- **Guest Users**: beállíthatja a vendégek hozzáférését szabályozó házirendeket úgy, hogy a vendégek hozzáférhessenek a csevegéshez, és ki-vagy **bekapcsolhatja** a **csevegést** . További információért olvassa el a [vendégek hozzáférésének beállítása a Teams felügyeleti központban](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)című témakört.
-- **Diákok**: Ha le szeretné tiltani a csevegést egy tanuló számára, olvassa el a csevegés engedélyezése az értekezleteken és a 1:1-csevegés engedélyezése a Teams-házirendekben [és az oktatási házirend-csomagokban](https://docs.microsoft.com/microsoftteams/policy-packages-edu)című témakört.
+- **Értekezlet:** A Teams felügyeleti központban az Értekezleti házirendek [–](https://admin.teams.microsoft.com/) A csevegés beállítása a Csevegés engedélyezése az értekezleteken című **témakörben található.** Az egyéni értekezleti házirendek [](/microsoftteams/meeting-policies-in-teams) létrehozásáról további információt az Értekezleti házirendek kezelése a Teams a Csevegés engedélyezése értekezleteken Teams [talál.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
+- **M*essaging:** A Teams Felügyeleti központban kattintson az Üzenetkezelési házirendek  [elemre,](https://admin.teams.microsoft.com/)és a Csevegés be- vagy kikapcsolása **gombot.** Az egyéni üzenetkezelési házirendek és a házirendek felhasználókhoz rendelésének mikéntjére vonatkozó további információkért lásd: Üzenetkezelési házirendek kezelése a [Teams.](/microsoftteams/messaging-policies-in-teams)
+
+- **Diákok:** Ha le szeretné tiltani a csevegést egy diák számára, tekintse meg, hogy milyen lehetőségek vannak a csevegés engedélyezésére az értekezleteken, illetve a kétszobás csevegés engedélyezésére az Teams házirendek és házirendcsomagok oktatási [csomagjaiban.](/microsoftteams/policy-packages-edu)
+
+- Vendégfelhasználók: Vendégelérési házirendeket konfigurálhat úgy, hogy a vendégek hozzáférjenek a csevegéshez, akik a csevegést be- vagy **kikapcsolhatja.** További információt a Vendég hozzáférés beállítása a Teams [felügyeleti központban című témakörben.](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)
 
 
 

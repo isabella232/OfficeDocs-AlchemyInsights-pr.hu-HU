@@ -1,35 +1,33 @@
 ---
 title: Az előfizetés már nem aktív
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789232"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544256"
 ---
 # <a name="subscription-no-longer-active"></a>Az előfizetés már nem aktív
 
-Ha egy [Microsoft-alkalmazás megnyitásakor előfizetési értesítés jelenik meg](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB), akkor valószínű, hogy újra kell aktiválnia az előfizetését.
+Ha [előfizetési értesítés jelenik](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) meg egy Microsoft-alkalmazás megnyitásakor, akkor valószínűleg újra kell aktiválni az előfizetését.
 
 **Előfizetés újraaktiválása**
 
-1. A Felügyeleti központban lépjen a **Számlázás > [Termékek és szolgáltatások](https://go.microsoft.com/fwlink/p/?linkid=842054)** lapra.
+1. A felügyeleti központban válassza a **Termékek**  >  [számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. A **Termékek lapon** keresse meg az újraaktiválni kívánt előfizetést. Válassza a három pontra (további műveletek), majd az **Előfizetés újraaktiválva lehetőséget.**
+3. Az **Előfizetés újraaktiválása** ablaktáblában válasszon ki egy fizetési módot a legördülő listából, vagy válassza a Fizetési **mód hozzáadása lehetőséget.**
+4. Válassza a **Mentés** elemet.
 
-2. A Termékek és szolgáltatások lapján keresse meg az újraaktiválni kívánt előfizetést.
-
-3. A Számlázás részben kattintson az **Újraaktiválás most** lehetőségre.  A Kártyák nézetben kattintson a Név és a Rendelkezésre álló mennyiség közötti három pontra, majd válassza a menü Újraaktiválás elemét. **Megjegyzés**: Ha nem látja a keresett előfizetést, előfordulhat, hogy módosítania kell az Előfizetés állapota szűrőt a lap tetején az **Összes** értékre.
-
-4. Erősítse meg a fizetési adatait a meglévő fizetési adatai frissítéséhez. Miután befejezte a fizetési mód megadását, kattintson az **Újraaktiválás** lehetőségre.
-
-További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription) című részt. 
+További információért tekintse meg [Az előfizetés újraaktiválása](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.
