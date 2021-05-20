@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Defender ATP bevezetése
+title: Be Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673427"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545306"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a><span data-ttu-id="7eed1-102">A Microsoft Defender ATP bevezetése</span><span class="sxs-lookup"><span data-stu-id="7eed1-102">Onboarding Microsoft Defender ATP</span></span>
+# <a name="onboarding-microsoft-defender-atp"></a><span data-ttu-id="867ad-102">Be Microsoft Defender ATP</span><span class="sxs-lookup"><span data-stu-id="867ad-102">Onboarding Microsoft Defender ATP</span></span>
 
-<span data-ttu-id="7eed1-103">A Windows 10, a Windows Server és a Mac és Linux rendszerű gépeken futó Microsoft Defender-ATP-források a következő témakörökben találhatók:</span><span class="sxs-lookup"><span data-stu-id="7eed1-103">For resources to onboard Microsoft Defender ATP for Windows 10, Windows servers, and Mac and Linux machines, see:</span></span> 
+<span data-ttu-id="867ad-103">További források a Microsoft Defender ATP, Windows 10, Windows És Linux rendszerű gépekhez való telepítéshez:</span><span class="sxs-lookup"><span data-stu-id="867ad-103">For resources to onboard Microsoft Defender ATP for Windows 10, Windows servers, and Mac and Linux machines, see:</span></span> 
 
-- <span data-ttu-id="7eed1-104">**Windows 10-es gépek** Az üzleti követelményektől függően a Windows 10 rendszerű gépekre vonatkozó beállítások közül választhat.</span><span class="sxs-lookup"><span data-stu-id="7eed1-104">**Windows 10 machines** Depending on your business requirements, you can choose from options to onboard a machine running Windows 10.</span></span> <span data-ttu-id="7eed1-105">További információt a [Windows 10 rendszerű eszközök fedélzeti eszközei és módszerei](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints)című témakörben találhat.</span><span class="sxs-lookup"><span data-stu-id="7eed1-105">For more info, see [Onboarding tools and methods for Windows 10 devices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints).</span></span> 
+- <span data-ttu-id="867ad-104">**Windows 10 gépek** Az üzleti követelményektől függően választhat a lehetőségek közül, hogy be tudja-e Windows 10.</span><span class="sxs-lookup"><span data-stu-id="867ad-104">**Windows 10 machines** Depending on your business requirements, you can choose from options to onboard a machine running Windows 10.</span></span> <span data-ttu-id="867ad-105">További információt a Bejelző eszközök és módszerek a Windows 10 [lapon.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints)</span><span class="sxs-lookup"><span data-stu-id="867ad-105">For more info, see [Onboarding tools and methods for Windows 10 devices](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints).</span></span> 
 
-- <span data-ttu-id="7eed1-106">**Windows-kiszolgálók** Ha a Microsoft Defender ATP-t a Windows Server-verziójához szeretné benyújtani, tanulmányozza a következő témakört: [fedélzeti kiszolgálók a Microsoft DEFENDER ATP szolgáltatáshoz](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).</span><span class="sxs-lookup"><span data-stu-id="7eed1-106">**Windows servers** To onboard Microsoft Defender ATP for your version of Windows Server, see [Onboard servers to the Microsoft Defender ATP service](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).</span></span>
+- <span data-ttu-id="867ad-106">**Windows kiszolgálók** Az Ön Microsoft Defender ATP verziójának Windows az [Onboard servers to the Microsoft Defender ATP (Az Microsoft Defender ATP szolgáltatásba)](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)</span><span class="sxs-lookup"><span data-stu-id="867ad-106">**Windows servers** To onboard Microsoft Defender ATP for your version of Windows Server, see [Onboard servers to the Microsoft Defender ATP service](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).</span></span>
 
-- <span data-ttu-id="7eed1-107">**Nem Windows-végpontok**  Mielőtt nem Windows rendszerű rendszert használ, meg kell felelnie a [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) és a [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)rendszer követelményeinek.</span><span class="sxs-lookup"><span data-stu-id="7eed1-107">**Non-Windows endpoints**  Before you onboard a non-Windows system, you must meet the system requirements for [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) or [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).</span></span>
+- <span data-ttu-id="867ad-107">**Nem Windows végpontok**  Mielőtt egy nem Windows rendszert használ, meg kell felelnie a Mac vagy [Linux](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) rendszerkövetelményeinek. [](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)</span><span class="sxs-lookup"><span data-stu-id="867ad-107">**Non-Windows endpoints**  Before you onboard a non-Windows system, you must meet the system requirements for [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) or [Linux](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).</span></span>
 
-    <span data-ttu-id="7eed1-108">A rendszerkövetelmények megerősítését követően lásd: [fedélzeti nem Windows-eszközök](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).</span><span class="sxs-lookup"><span data-stu-id="7eed1-108">After you confirm your system requirements, see [Onboard non-Windows devices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).</span></span>
+    <span data-ttu-id="867ad-108">A rendszerkövetelmények megerősítése után lásd: Nem új [eszközök Windows eszközökre.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines)</span><span class="sxs-lookup"><span data-stu-id="867ad-108">After you confirm your system requirements, see [Onboard non-Windows devices](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).</span></span>
