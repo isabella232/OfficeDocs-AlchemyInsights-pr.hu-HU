@@ -1,5 +1,5 @@
 ---
-title: Mac Teams-bővítmény
+title: Teams Mac bővítmény
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670330"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582072"
 ---
-# <a name="teams-add-in-for-mac"></a>Mac Teams-bővítmény
+# <a name="teams-add-in-for-mac"></a>Teams Mac bővítmény
 
-Ha meg szeretné tudni, hogy miként oldhatja meg a hiányzó Teams-bővítményt a Mac operációs rendszer felhasználóinak, kövesse az alábbi lépéseket:
+Ha el szeretne hárítani egy hiányzó Teams maces operációsrendszer-felhasználóknak, kövesse az alábbi lépéseket:
 
-**Lépés 1:** Ha a helyszíni hibrid Exchange (2016 CU3 vagy újabb verzió szükséges), az Test-HMA.ps1 eszközzel erősítse meg, hogy a hibrid, modern hitelesítés megfelelően van konfigurálva. További információt az [iOS és az Android rendszerhez készült hibrid, modern hitelesítés beállítása](https://aka.ms/AA980zq)című témakörben talál.  
+**1. lépés:** Ha hibrid hibrid Exchange (2016 CU3 vagy újabb szükséges), az Test-HMA.ps1 eszközzel győződjön meg arról, hogy a hibrid modern hitelesítés megfelelően van konfigurálva. További információ: A hibrid modern hitelesítés beállítása [iOS](https://aka.ms/TestHMAEAS)és Android Outlook esetén.  
 
-**Note (Megjegyzés** ) Használja az UPN-címet (például [username@contoso.com](mailto:username@contoso.com)), ne TARTOMANY\felhasznalonev. Ezt még a felhasználók számára is megteheti az Exchange Online-postaládákkal.
+**Megjegyzés** Használja az UPN-címformátumot [(például username@contoso.com](mailto:username@contoso.com)), és ne a tartomán\felhasználónév formátumot. Még a postaládával is Exchange Online felhasználók számára.
 
-Második **lépés:** Használja a felhasználó a **Tools**-  >  **fiókok**lehetőséget. a Mac Outlookban, és keresse meg és jelölje ki a fiókot. Ellenőrizze, hogy a megadott Felhasználónév UPN formátumú-e (például [username@contoso.com](mailto:username@contoso.com)).
+**2. lépés:** A felhasználónak az Eszközök **fiókok...**  >   lehetőséget Mac Outlook, majd keresse meg és jelölje ki a fiókot. Győződjön meg arról, hogy a felsorolt felhasználónév UPN formátumban van (például [username@contoso.com).](mailto:username@contoso.com)
 
-**3. lépés:** Erősítse meg, hogy a felhasználó licencelt Microsoft Teams-felhasználó. A felhasználónak a Mac Office 365-előfizetés, a Product 16,24-es vagy újabb verzióját kell használnia.
+**3. lépés:** Győződjön meg arról, hogy a felhasználó licencelt Microsoft Teams felhasználó. A felhasználónak a Mac Office 365 16.24-es vagy újabb termékverzióját kell használnia.

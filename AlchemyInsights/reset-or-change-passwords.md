@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810198"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569653"
 ---
 # <a name="reset-or-change-passwords"></a>Jelszavak alaphelyzetbe állítása vagy módosítása
 
-A felhasználók módosíthatja a saját jelszavukat a **Saját** fiók biztonsági  >  [beállításai & beállítások között.](https://portal.office.com/account/#security)
+A felhasználók módosíthatják a saját jelszavukat, ha kiválasztják a felhasználói fényképet vagy monogramot a > **megtekintéséhez.**
   
 Ha a felhasználó elfelejtette a jelszavát, a rendszergazda alaphelyzetbe állíthatja a jelszót a Users Active users (Aktív felhasználók) lehetőséget választva, jelölje ki a  >  [](https://portal.office.com/adminportal/home#/users)felhasználó(ok)t, és kattintson a Jelszó alaphelyzetbe **állítása elemre.**
   
-[További információért](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)kattintson ide, vagy hagyja, hogy a felhasználók alaphelyzetbe álltatják elfelejtett jelszavukat.
+A jelszavakról és a saját jelszavuk alaphelyzetbe állításának engedélyezéséről további információt a Jelszavak alaphelyzetbe [állítása.](/microsoft-365/admin/add-users/reset-passwords)

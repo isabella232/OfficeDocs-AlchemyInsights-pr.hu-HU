@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 8d0071360330248b93dbd5bbf42a2b595d287364
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f20d0ff5e724ceab17a6d3d965534d63b00bbee7
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804635"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569581"
 ---
 # <a name="trying-to-remove-your-domain"></a>A tartománya eltávolítására készül?
 
-Kövesse a [Tartomány eltávolítása](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain) című cikkben ismertetett lépéseket.
+Kövesse a [Tartomány eltávolítása](/microsoft-365/admin/get-help-with-domains/remove-a-domain) című cikkben ismertetett lépéseket.
   
-A tartomány eltávolítása előtt frissítenie kell a tartománynévhez hozzárendelt felhasználókat és csoportokat. További általános megoldásokat a [tartományokról szóló gyakori kérdések](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq) között talál.
+A tartomány eltávolítása előtt frissítenie kell a tartománynévhez hozzárendelt felhasználókat és csoportokat. További általános megoldásokat a [tartományokról szóló gyakori kérdések](/microsoft-365/admin/setup/domains-faq) között talál.
   
