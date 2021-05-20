@@ -1,5 +1,5 @@
 ---
-title: Mellékletek nyomtatása
+title: Melléklet nyomtatása
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "8000046"
 - "1002"
 - "1003"
-ms.openlocfilehash: eb497d3555a2c044e42b5877b1d9b0f524819f55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c52e13b159edb5215e39f10fcfca983fcecb08d8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798126"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544400"
 ---
-# <a name="print-an-attachment-in-outlookcom"></a>Melléklet nyomtatása a Outlook.com
+# <a name="print-an-attachment-in-outlookcom"></a>Melléklet nyomtatása a Outlook.com-on
 
 1. Nyissa meg a nyomtatni kívánt mellékletet tartalmazó üzenetet.
-2. Vigye a kurzort a mellékletre, és válassza a **További műveletek** ikont. <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAYAAADQWvz5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gYGES4Try474AAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABHElEQVQ4jdXTsUsCYRjH8a/xQhy0tFyIULMo2B/QQUPQ5hA0BC0tQksFOTo2ZlTDHQRxS20SFWEcBg5Gg9sLijQ0XCCCs3AcHLwNEWHenUUO9Vvf5/3A8/A8CaWUYgKZmgTyH6CWRPrf+OVLZCsO6taxy5V4zJdcHJxR78ZBgOfWsE9ueA7DfEmlbNPoByNPw1BqDl2A91LFspwvyCv3lk3N9UBbYD4VB2U3KBWMd6xzxd7xJ+ZYR1x3PBA6xtY+a9lhKBG2kL2nc8zLJv1AMJNZYYlHHtoDAqFjFEps5qZHWguFAHrOKYe3bQYf4xCzLK7vsr2cDCuP3qPk6g7FfBoNAI10PhoBQI2Je2cqs+qOK1ORrf00f/3WfpE30qej7DKYKekAAAAASUVORK5CYII=' /> > **Letöltést**.
-3. Miután letöltötte a fájlt, nyissa meg a megfelelő programmal, és válassza ki a nyomtatni kívánt lehetőséget. Nyisson meg például egy. doc fájlt a Wordben, majd nyomtassa ki.
+2. Vigye a kurzort a melléklet fölé, és válassza a Három pont (további műveletek) lehetőséget > **elemre.**
+3. Miután letöltötte a fájlt, nyissa meg a megfelelő programmal, és válassza ki a nyomtatásra vonatkozó lehetőséget. Nyisson meg például egy .doc a Wordben, majd nyomtassa ki.
 
-További információt az [e-mail-üzenetek, a mellékletek és a naptárak nyomtatása az Outlook.com-](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)on című témakörben olvashat.
+További információt az E-mailek, mellékletek és naptárak nyomtatása a [Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy)webhelyen Outlook.

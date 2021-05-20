@@ -1,5 +1,5 @@
 ---
-title: Hibaelhárítás a Microsoft Defender for Office 365-ban
+title: A Microsoft Defender Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801445"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545270"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Hibaelhárítás a Microsoft Defender for Office 365-ban
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>A Microsoft Defender Office 365
 
-- Tapasztal késedelmet az üzenet kézbesítésében? Használja a [dinamikus kézbesítési](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) lehetőséget az ATP Safe mellékletek házirendjében. Ez segít elkerülni az üzenetek késleltetését, miközben megvédi a címzetteket a kártékony fájlokból.
+- **Késik az üzenetek kézbesítése?** A Microsoft Defender [Dinamikus kézbesítés](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) funkcióját használva Office 365 Széf mellékletek házirendjét. Ezzel megelőzheti az üzenetek késését, miközben védelmet nyújt a címzetteknek a kártékony fájloktól.
 
-- Hamis pozitív vagy hamis negatívokat szeretne jelenteni a Microsoftnak? Ezzel a [hivatkozással](https://www.microsoft.com/wdsi/filesubmission/) elküldhet fájlokat az elemzéshez.
+- **Szeretne hamis pozitív vagy hamis negatív értékeket jelenteni a Microsoftnak?** Használja [a Beküldéskezelőt.](https://protection.office.com/reportsubmission)
 
-- Tudta, hogy a szervezeten belüli címzettek által küldött belső e-mailek biztonsága érdekében engedélyezheti a biztonságos hivatkozások védelmét? Hajtsa végre az alábbi lépéseket:
+-** Tudta, hogy engedélyezheti a Széf hivatkozások elleni védelmet a szervezeten belüli címzettek között küldött belső e-mailekben?** Kövesse az alábbi lépéseket:
 
-  1. Lépjen [https://protection.office.com](https://protection.office.com) egy globális rendszergazdai vagy biztonsági rendszergazdai fiókjával, és lépjen be.
+  1. Jelentkezzen be globális rendszergazdai vagy [https://protection.office.com](https://protection.office.com) biztonsági rendszergazdai fiókkal.
 
-  2. A bal oldali navigációs ablakban a **fenyegetések kezelése** csoportban válassza a **házirend** - \> **megbízható hivatkozások** lehetőséget.
+  2. A bal oldali navigációs ablakban a **Veszélyforrások kezelése** alatt válassza **a Házirendek** és \> **Széf lehetőséget.**
 
-  3. A teljes szervezet szakaszra vonatkozó **házirendekben** jelölje ki a házirendet, és kattintson a **Szerkesztés** gombra.
+  3. A teljes **szervezetre vonatkozó** házirendek szakaszban jelölje ki a házirendet, és kattintson a Szerkesztés **gombra.**
 
-  4. A **Beállítások** csoportban engedélyezze **a biztonságos hivatkozások alkalmazása a szervezeten belül küldött üzenetekre** lehetőséget.
+  4. A **Gépház** alatt engedélyezze a Biztonságos hivatkozások alkalmazása a szervezeten belül **küldött üzenetekre beállítását.**

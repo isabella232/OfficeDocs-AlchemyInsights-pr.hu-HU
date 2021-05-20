@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824617"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544832"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Túl sok levélszemetet kap a postaládájában?
 
-**Megjegyzés** A Microsoft 365 biztonsági központ a következő webhelyén [https://security.microsoft.com](https://security.microsoft.com) található: .
+**Megjegyzés** A Microsoft 365 Biztonsági központját itt találja: [https://security.microsoft.com](https://security.microsoft.com).
 
-Microsoft 365-rendszergazdaként úgy állapíthatja meg a legjobban, hogy miért érkezett adathalász vagy levélszemét, ha elküldi a mintát a Microsoftnak a [Beküldéskezelőben.](https://security.microsoft.com/reportsubmission) Azonnali visszajelzést kap az üzenetszűrésről és a problémák okának okról.
+A Microsoft 365 a legjobb módszer annak meghatározására, hogy miért érkezett adathalászat vagy levélszemét, ha elküldi a mintát a Microsoftnak a [Beküldéskezelőben.](https://security.microsoft.com/reportsubmission) Azonnali visszajelzést kap az üzenetszűrésről és a problémák okának okról.
 
 A könnyebbség érdekében a jelentésüzenetek bővítmény segítségével közvetlenül a Microsoftnak is [bejelentheti őket.](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-**Tudta?**: Mostantól közvetlenül az üzenetkövetésből küldhet mintákat, és az E5/ATP 2. csomag ügyfelei mintákat küldhetnek a [Veszélyforrás-intézőből.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) [](https://security.microsoft.com/messagetrace)
+**Tudta?**: Mostantól közvetlenül az üzenetkövetésből küldhet mintákat, az E5/Microsoft Defender Office 365 2. csomag ügyfelei pedig mintákat küldhetnek a [](https://security.microsoft.com/messagetrace) Veszélyforrás-tervezőből. [](/microsoft-365/security/office-365-security/threat-explorer)

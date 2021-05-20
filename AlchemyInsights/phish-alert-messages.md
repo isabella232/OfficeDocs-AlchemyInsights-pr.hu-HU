@@ -1,5 +1,5 @@
 ---
-title: az 2491 riasztási e-mail-üzeneteket a bérlői fiók vagy a felhasználó felülírása házirend szerint
+title: '2491: E-mailek értesítése a "Kézbesítésről bérlő vagy felhasználó felülbírálása miatt" házirendről'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,29 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 5b5faa08542cb5878107f10afb34427f636562ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b373423cf3e63b76a62465dd62076c023580e94
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728613"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544580"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>E-mail-üzenetek küldése a bérlői fiók vagy a felhasználó felülírása házirend által kiszállított adathalászó számára
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>E-mail üzenetek riasztása a "Kézbesítés a bérlő vagy a felhasználó felülbírálása miatt" házirendből
 
-A bérlői fiók vagy a felhasználó felülírása "az adathalászók számára kiszállítva" nevű alapértelmezett riasztási házirendet a bérlők az ATP P1 és 365 a P2 licenccel rendelkező bérlői fiókba építették. Ha ezt az értesítést kapta, az alábbi lépéseket követve vizsgálja meg:
+A Microsoft Defender Office 365 P1 és P2 licenccel rendelkező bérlői fiókokban egy alapértelmezett "Kézbesítés bérlői fiók vagy felhasználói felülbírálás miatt" nevű riasztási házirendet hoztunk létre. Ha megkapta ezt a riasztást, az alábbi lépéseket kell vizsgálnia:
 
-1. A riasztási üzenetben az értesítés **megtekintése** gombra kattintva nyissa meg az **értesítések** lapot a biztonsági & megfelelőségi központban.
+1. A riasztási üzenetben kattintson a  Riasztás megtekintése elemre a Biztonsági megfelelőségi központ Riasztások & lapjára való ugráshoz. 
 
-2. A riasztás elemre koppintva megtekintheti az **üzenetlistában megtekinthető** és az **üzenetek megtekintése az Intézőben**című témakört. Mindkét beállítással megadhatja az üzenet részleteit, beleértve az üzenet AZONOSÍTÓját is. Fontos tudni, hogy a fenyegetések Explorer hivatkozása automatikusan szűri az értesítési feltételnek megfelelő üzeneteket. Előfordulhat, hogy módosítania kell a szűrőt a fenyegetések Explorerben.
+2. A figyelmeztetést választva megtekintheti az Üzenetlista megtekintése **vagy** az **Üzenetek megtekintése Intézőben lehetőséget.** Mindkét lehetőséggel az üzenet részleteire megjelenik, amely tartalmazza az üzenetazonosítót. Vegye figyelembe, hogy a Veszélyforrás-intéző hivatkozás automatikusan szűri a riasztási feltételeknek megfelelő üzeneteket. Előfordulhat, hogy módosítania kell a dátumszűrőt a Veszélyforrás-intézőben.
 
-Az adathalászati üzenet a manuálisan konfigurált felülbírálás miatt lett kézbesítve:
+Az adathalász üzenet kézbesítése egy kézzel konfigurált felülbírálás miatt történt:
 
 - A felhasználó által beállított engedélyezett feladó vagy tartomány.
 
-- Egy levélszemét elleni házirendben a rendszergazda által beállított engedélyezett feladó vagy tartomány.
+- A rendszergazda által egy levélszemét elleni házirendben beállított engedélyezett feladó vagy tartomány.
 
-- Egy engedélyezett IP-cím a kapcsolati szűrő házirendjében.
+- Egy kapcsolatszűrő házirendben engedélyezett IP-cím.
 
-- E-mail-forgalom szabálya (más néven átviteli szabály), amely az üzenetek engedélyezésére van konfigurálva.
+- Egy olyan e-mail-forgalom szabály (más néven átviteli szabály), amely az üzenetek fogadására van beállítva.
 
-Ha úgy véli, hogy az üzenet tévesen volt megjelölve adathalászként, az Outlook [-jelentés üzenet bővítményével](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) elküldheti az üzenet mintáit a Microsoftnak.
+Ha úgy véli, hogy az üzenetet helytelenül jelölte [](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) meg phish Outlook, az "Üzenet bejelentése" bővítmény használatával küldje el az üzenetmintákat a Microsoftnak.

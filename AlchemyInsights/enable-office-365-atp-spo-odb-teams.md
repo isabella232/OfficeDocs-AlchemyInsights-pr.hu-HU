@@ -1,5 +1,5 @@
 ---
-title: Az Office 365 ATP engedélyezése a SharePointhoz, a OneDrive és a Microsoft Teams alkalmazáshoz
+title: A Office 365, a SharePoint, a OneDrive és a Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801050"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543930"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>A Microsoft Defender for Office 365 engedélyezése a SharePoint Online-hoz, a OneDrive-hoz és a Microsoft Teams-hoz
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>A Microsoft Defender engedélyezése Office 365 online SharePoint, OneDrive és Microsoft Teams
 
-1. Ugrás https://protection.office.com és bejelentkezés.
-2. Válassza a **veszélyforrások kezelése** a  >  **Policy**  >  **biztonságos mellékleteket** .
-3. Jelölje be **az ATP bekapcsolása a sharepointhoz, a OneDrive és a Microsoft Teams** jelölőnégyzetet, és kattintson a **Mentés** gombra.
-4. Ajánlott Globális rendszergazdaként vagy SharePoint Online-rendszergazdaként futtassa a [set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) parancsmagot a **DisallowInfectedFileDownload** paraméter *true* értékre állításával.
-5. Ajánlott Az észlelt fájlokra vonatkozó [értesítések beállítása](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) .
+1. Jelentkezzen https://protection.office.com be.
+2. Válassza **a Veszélyforrások elleni**  >  **Széf**  >  **mellékletek lehetőséget.**
+3. Válassza **a Defender bekapcsolás a Office 365 a SharePoint,** a OneDrive és a Microsoft Teams lehetőséget, majd kattintson a Mentés **gombra.**
+4. (Ajánlott) Globális rendszergazdaként vagy a SharePoint Online rendszergazdájaként futtassa a [Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) parancsmagot úgy, hogy a **DisallowInfectedFileDownload** paraméter értéke *true*.
+5. (Ajánlott) [Értesítések beállítása az](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) észlelt fájlokhoz.
 
 > [!NOTE]
-> Az ATP a SharePoint Online, a OneDrive vagy a Microsoft Teams minden egyes fájljának beolvasását fogja tartalmazni. A fájlok egy-egy megosztási és vendég-tevékenységi eseményeket használó folyamaton keresztül, valamint intelligens heurisztikus és veszélyforrás jelzésekkel beolvassák a kártékony fájlokat. Lásd: [ATP for SharePoint, OneDrive és Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+> A Microsoft Defender Office 365 nem vizsgálja meg az összes fájlt a SharePoint, a OneDrive és a Microsoft Teams. A fájlokat aszinkron módon, megosztási és vendégtevékenység-eseményeket használó folyamaton keresztül, intelligens heurisztikus és veszélyforrás-észleléssel azonosíthatja a kártékony fájlokat. Lásd: [Microsoft Defender Office 365 a SharePoint,](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)a OneDrive és a Microsoft Teams.

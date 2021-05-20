@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 2f93020fc3b350e1d85064e9c57de80a65814687
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714749"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545378"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Veszélyforrás-szakértők – Célzott támadási értesítés
 
-A célzott támadási értesítés a Microsoft veszélyforrás-szakértők két képességének egyike. Ez egy proaktív veszélyforrás-keresési szolgáltatás, amely speciális ismereteket és elemzéseket nyújt, amelyek segítenek a legkritikusabb veszélyforrások gyors és pontos azonosításában és megoldásában.
+A Célzott támadási értesítés a két Microsoft Veszélyforrás-szakértők egyike. Ez egy proaktív veszélyforrás-keresési szolgáltatás, amely speciális elemzéseket és elemzéseket nyújt, amelyek segítenek a legfontosabb veszélyforrások azonosításában és gyors és pontos megoldásában.
 
-Ha Ön Microsoft Defender for Endpoint ügyfél, akkor a Microsoft Veszélyforrások szakértőit kell alkalmaznia – célzott támadási értesítéseket kell kérnie, hogy speciális ismereteket és elemzéseket kapjon, amelyek segítenek azonosítani a legfontosabb veszélyforrásokat, hogy gyorsan megválaszolni tudja őket.
+Ha Ön a Microsoft Defendert használja az Endpoint programhoz, a Microsoft Veszélyforrás-szakértők célzott támadási értesítéseket kell alkalmaznia, hogy speciális ismereteket és elemzéseket kapjon, amelyek segítenek azonosítani a legfontosabb veszélyforrások azonosítását, hogy gyorsan reagálni tudjanak rájuk.
 
-A Microsoft Veszélyforrás-szakértőkre való regisztrációhoz – a célzott támadási értesítések előnyeiről a Beállítások általános speciális funkcióit a Microsoft Veszélyforrás-szakértők – Célzott támadási értesítések lapon  >    >    >   alkalmazhatja. Miután elfogadta a meghívást, a célzott támadási értesítések előnyeit fogja kapni.
+Ha regisztrálni Microsoft Veszélyforrás-szakértők – Célzott támadási értesítések előnyökre, a speciális Gépház szolgáltatások Microsoft Veszélyforrás-szakértők – Célzott támadási értesítések megjelenik.  >    >    >   Miután elfogadta a meghívást, a Célzott támadási értesítések előnyeit fogja kapni.
 
-A Microsoft Veszélyforrás-szakértők célzott támadásról szóló értesítését az alábbi adathordozón keresztül kaphatja meg:
+Célzott támadási értesítéseket kaphat a Microsoft Veszélyforrás-szakértők az alábbi adathordozón keresztül:
 
 - The Defender for Endpoint Portal's Incidents page
 - The Defender for Endpoint Portal's Alerts dashboard
 - OData-riasztási API és REST API
-- DeviceAlertEvents table in Advanced hunting
+- DeviceAlertEvents table in Advanced keresési
 - Az Ön e-mail-címe, ha úgy dönt, hogy konfigurálja azt
 
-Ha célzott támadásról szóló értesítéseket e-mailben is meg kell kapnia, hozzon létre egy e-mailes értesítési szabályt. 
+Ha e-mailben meg kell kapnia a célzott támadási értesítéseket, hozzon létre egy e-mailes értesítési szabályt. 
 
-További [információt a Microsoft veszélyforrás-szakértők képességeinek](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) konfigurálása és kezelése tartalmaz.
+További [információt A Microsoft Veszélyforrás-szakértők és kezelése.](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)

@@ -1,5 +1,5 @@
 ---
-title: A szoftver leltára hiányzik vagy pontatlan
+title: A szoftverkészlet hiányzik vagy pontatlan
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665288"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543966"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>A szoftver leltára hiányzik vagy pontatlan
+# <a name="software-inventory-is-missing-or-inaccurate"></a>A szoftverkészlet hiányzik vagy pontatlan
 
-A Microsoft Defender ATP szolgáltatás szoftverének készlete tartalmazza a terméknév vagy a szállító nevét, a legújabb verziószámot, valamint az észlelt gyenge pontokat és biztonsági réseket. További információt a [Készletkezelés – veszélyforrás és a sebezhetőség kezelése](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)című témakörben talál.
+A szoftverkészlet az Microsoft Defender ATP szolgáltatásban biztosítja a termék nevét vagy szállítóját, legutóbbi verziószámát, valamint a felfedezett biztonsági réseket és problémákat. További információ: [Szoftverkészlet – Veszélyforrás- és biztonságirés-kezelés.](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)
 
-A következő lépésekkel jelezheti a pontatlan vagy hiányos információkat, a pontatlan verziószámokat vagy a szoftver-nyilvántartási információkat.  
+Az alábbi lépésekkel pontatlan vagy hiányos információkat, téves verziószámokat vagy szervizbe tett szoftverkészlet-információkat jelenthet be.  
 
-1. Nyissa meg a szoftver menüjét, és válassza az alkalmazást a szoftver-leltár lapon.
-2. Jelölje be a pontatlan **jelentés**jelölőnégyzetet, és a legördülő listában válasszon egy kategóriát a legördülő listából.
-3. Adja meg az e-mail-címét és a pontosság részleteit.
-4. Kattintson a **elküldött**gombra.</br>
-    A visszajelzést azonnal elküldjük a fenyegetések & a sebezhetőségi menedzsment szakemberei számára.
+1. Nyissa meg a szoftveres úszó panelt, és válassza ki az alkalmazást a Szoftver készlet lapján.
+2. Válassza **a Jelentés inaccuracy** elemet, és az előugró panelen válasszon egy kategóriát a legördülő menüből.
+3. Adja meg az e-mail-címét és az inaccuracy adatait.
+4. Válassza a **Küldés gombot.**</br>
+    A rendszer azonnal elküldi a visszajelzését a Veszélyforrások & biztonsági rések kezelése szakértőinek.

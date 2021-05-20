@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 0c9e7a5bed309e473cc626f2572f902f1a581234
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 464efadcfa0a80efecad107199e669dbadfbae39
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261759"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544796"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Hangkonferencia
 
-Segítségre van szüksége a [hangkonferencia bekapcsolásához vagy beállításához a Microsoft Teamsben](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)?  A felhasználó mostanában lett létrehozva? Ha igen, akkor a beállítások érvénybe lépéséhez várnia kell néhány órát.
+Segítségre van szüksége a [hangkonferencia bekapcsolásához vagy beállításához a Microsoft Teamsben](/microsoftteams/set-up-audio-conferencing-in-teams)?  A felhasználó mostanában lett létrehozva? Ha igen, akkor a beállítások érvénybe lépéséhez várnia kell néhány órát.
 
-Ha [licencet vásárolt](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), ellenőrizze, hogy a felhasználó rendelkezik-e a Microsoft 365-hangkonferenciára vonatkozó licenccel és alapértelmezettként beállított nem ingyenes számmal.
+Ha [licencet vásárolt](/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), ellenőrizze, hogy a felhasználó rendelkezik-e a Microsoft 365-hangkonferenciára vonatkozó licenccel és alapértelmezettként beállított nem ingyenes számmal.
 
 1. Válassza az [Aktív felhasználók](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) elemet, majd jelölje ki a kérdéses felhasználót.
 
 2. A felügyeleti központ verziójától függően válassza a **Licencek és appok** lehetőséget, vagy kattintson a **Szerkesztés** elemre a **Terméklicencek** panelen.
 
-3. Ellenőrizze, hogy a felhasználó rendelkezik-e licenccel a **Microsoft 365-angkonferenciához, Microsoft Teamshez**, és a **Skype Vállalati online verzióhoz (2. csomag)**. Ha nincs **Microsoft 365-hangkonferencia** licence, először [meg kell vásárolnia a bővítménylicenceket](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business).
+3. Ellenőrizze, hogy a felhasználó rendelkezik-e licenccel a **Microsoft 365-angkonferenciához, Microsoft Teamshez**, és a **Skype Vállalati online verzióhoz (2. csomag)**. Ha nincs **Microsoft 365-hangkonferencia** licence, először [meg kell vásárolnia a bővítménylicenceket](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business).
 
 4. A **Felügyeleti központokban** kattintson **Az összes megjelenítése**, majd a **Teams** lehetőségre.
 
@@ -40,4 +40,4 @@ Ha [licencet vásárolt](https://docs.microsoft.com/microsoftteams/set-up-audio-
 
 7. Jelölje ki a kérdéses felhasználót, és ellenőrizze, hogy a felhasználó rendelkezik-e **alapértelmezett nem ingyenes telefonszámmal**.
 
-Ha további segítségre van szüksége a **Microsoft audiokonferencia** licenceinek megvásárlásához, hívja fel a [Microsoft számlázási támogatást](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support).
+Ha további segítségre van szüksége a Microsoft audiokonferencia-licencének megvásárlásával kapcsolatban, forduljon a [Microsoft számlázási ügyfélszolgálatához.](https://go.microsoft.com/fwlink/p/?linkid=518322) 
