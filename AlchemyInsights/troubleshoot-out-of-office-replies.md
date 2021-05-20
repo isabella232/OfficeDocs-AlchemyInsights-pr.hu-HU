@@ -1,5 +1,5 @@
 ---
-title: A "Out of Office" automatikus válaszok hibaelhárítása
+title: Automatikus válaszok Office elhárítása
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 59d07326e8a9c9ec987d1346c03ac1f5323127d3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f71d9dca45fab5f63faf6cb4b6286f8ac57176a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832240"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573712"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a><span data-ttu-id="87d7a-102">A "Out of Office" automatikus válaszok hibaelhárítása</span><span class="sxs-lookup"><span data-stu-id="87d7a-102">Troubleshooting Out Of Office automatic replies</span></span>
+# <a name="troubleshooting-out-of-office-automatic-replies"></a><span data-ttu-id="aef2b-102">Automatikus válaszok Office elhárítása</span><span class="sxs-lookup"><span data-stu-id="aef2b-102">Troubleshooting Out Of Office automatic replies</span></span>
 
-<span data-ttu-id="87d7a-103">Számos oka lehet annak, ha probléma merül fel attól függően, hogy miként állította be az automatikus "Out of Office" válaszokat.</span><span class="sxs-lookup"><span data-stu-id="87d7a-103">A wide variety of possible causes could be the reason for problems depending on how you have configured the Out of Office automatic replies.</span></span>
+<span data-ttu-id="aef2b-103">A problémák számos különböző oka lehet attól függően, hogy miként állította be a "Office válaszüzeneteket.</span><span class="sxs-lookup"><span data-stu-id="aef2b-103">A wide variety of possible causes could be the reason for problems depending on how you have configured the Out of Office automatic replies.</span></span>
 
-<span data-ttu-id="87d7a-104">Ha mélyebben meg tudja érteni, hogy hol lehet a probléma, olvassa el A "Out [of Office" (OOF)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972) válaszok ismertetése és hibaelhárítása</span><span class="sxs-lookup"><span data-stu-id="87d7a-104">For a deeper comprehension of where the problem could be, please read  [Understanding and troubleshooting Out of Office (OOF) replies](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)</span></span>
+<span data-ttu-id="aef2b-104">A probléma helyének mélyebb megértéséhez olvassa el A "Out [of Office (OOF) (OOF)](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)válaszok ismertetése és elhárítása" témakört.</span><span class="sxs-lookup"><span data-stu-id="aef2b-104">For a deeper comprehension of where the problem could be, please read  [Understanding and troubleshooting Out of Office (OOF) replies](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies).</span></span>
