@@ -1,5 +1,5 @@
 ---
-title: Teams Outlook bővítmény
+title: 'Teams Outlook bővítmény (Megosztás a következőre: Teams , Értekezlet most, Új értekezlet Teams, Bekapcsolódás Teams értekezletbe)'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835021"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542751"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="7ec95-102">Teams Outlook bővítmény</span><span class="sxs-lookup"><span data-stu-id="7ec95-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a><span data-ttu-id="94b9e-102">Teams Outlook bővítmény (Megosztás a következőre: Teams , Értekezlet most, Új Teams értekezlet, Bekapcsolódás Teams értekezletbe)</span><span class="sxs-lookup"><span data-stu-id="94b9e-102">Teams Outlook add-in (Share to Teams , Meet now, New Teams meeting, Join Teams meeting)</span></span>
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="7ec95-103">Hiányzó Teams Outlook-bővítmény hibaelhárítása</span><span class="sxs-lookup"><span data-stu-id="7ec95-103">To troubleshoot a missing Teams Outlook add-in</span></span>
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="94b9e-103">Hiányzó bővítmény Teams Outlook elhárítása</span><span class="sxs-lookup"><span data-stu-id="94b9e-103">To troubleshoot a missing Teams Outlook add-in</span></span>
 
-1. <span data-ttu-id="7ec95-104">Futtassa a szolgáltatásdiagnosztikai szolgáltatást a felügyeleti portálon.</span><span class="sxs-lookup"><span data-stu-id="7ec95-104">Run the Service Diagnostic in the Admin Portal.</span></span> 
-2. <span data-ttu-id="7ec95-105">Ha a Szolgáltatásdiagnosztika nem jelez problémákat, az érintett felhasználói gépeken az outlookos [Microsoft Támogatási](https://aka.ms/SaRA-TeamsAddInScenario)és helyreállítási segéd Outlook-bővítmény letöltésével és futtatásával diagnosztizálhatja és kijavíthatja az ügyfélprogramokkal kapcsolatos  >  **hibákat.**</span><span class="sxs-lookup"><span data-stu-id="7ec95-105">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
+1. <span data-ttu-id="94b9e-104">Futtassa a diagnosztikai "Team add-in is missing in Outlook", which validates that a user has the correct policies to enable the Teams Outlook add-in.</span><span class="sxs-lookup"><span data-stu-id="94b9e-104">Run the diagnostic “Team Add-in is missing in Outlook,” which validates that a user has the correct policies to enable the Teams Outlook add-in.</span></span> <span data-ttu-id="94b9e-105">A diagnosztikai eszköz eléréséhez írja be a **Diag: Teams a hiányzó bővítmény Outlook a** keresőmezőbe.</span><span class="sxs-lookup"><span data-stu-id="94b9e-105">To access the diagnostic, type **Diag: Teams Add-in Missing in Outlook** in the search box.</span></span>
 
-<span data-ttu-id="7ec95-106">Ha manuálisan szeretne elhárítani egy hiányzó Teams Outlook-bővítményt, tekintse át azokat a lehetséges tényezőket, amelyek miatt előfordulhat, hogy a Teams-bővítmény nem jelenik meg a listában.</span><span class="sxs-lookup"><span data-stu-id="7ec95-106">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="7ec95-107">További információt a Nem látható a Teams-értekezlet bővítmény a [Windows Outlookban című témakörben talál.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)</span><span class="sxs-lookup"><span data-stu-id="7ec95-107">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+1. <span data-ttu-id="94b9e-106">Ha a szolgáltatásdiagnosztika nem jelez problémákat, a [Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)Támogatási és helyreállítási segéd Teams Outlook bővítményes forgatókönyv letöltésével és futtatásával diagnosztizálhatja és kijavíthatja az érintett felhasználói gépeken esetleges ügyfélalkalmazásokkal kapcsolatos  >  **hibákat.**</span><span class="sxs-lookup"><span data-stu-id="94b9e-106">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="7ec95-108">Teams-értekezlet más nevében történő ütemezési hibáinak elhárítása (meghatalmazott)</span><span class="sxs-lookup"><span data-stu-id="7ec95-108">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+<span data-ttu-id="94b9e-107">Ha manuálisan szeretne elhárítani egy hiányzó Teams Outlook, tekintse át azokat a lehetséges tényezőket, amelyek miatt előfordulhat, Teams bővítmény nem jelenik meg a listában.</span><span class="sxs-lookup"><span data-stu-id="94b9e-107">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="94b9e-108">További információért lásd: Teams nem látható értekezleti bővítmény Outlook a Windows [bővítményben.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)</span><span class="sxs-lookup"><span data-stu-id="94b9e-108">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
 
-<span data-ttu-id="7ec95-109">Ha más nevében Teams-értekezletet ütemezni, tekintse át A Microsoft Teams és az Exchange Server interakciós problémáinak [elhárítása témakört.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)</span><span class="sxs-lookup"><span data-stu-id="7ec95-109">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="94b9e-109">Értekezlet más Teams történő ütemezésével kapcsolatos hibák elhárítása (meghatalmazott)</span><span class="sxs-lookup"><span data-stu-id="94b9e-109">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+
+<span data-ttu-id="94b9e-110">Ha más Teams értekezletet ütemezni, tekintse meg a Problémamegoldás másvalaki és Microsoft Teams Exchange Server [témakört.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)</span><span class="sxs-lookup"><span data-stu-id="94b9e-110">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>
