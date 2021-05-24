@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821116"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626079"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Ingyenesen hívható telefonszám hozzárendelése a hangkonferencia-hídhoz
 
 Új telefonszám hozzárendeléséhez a hangkonferencia-hídhoz:
 
-1. Jelentkezzen be az Office 365-be a munkahelyi fiókjával.
-2. Lépjen a **Microsoft 365 Felügyeleti központ > Felügyeleti központok > Teams és Skype > Elavult portálverzió > Hang > Telefonszámok** elemre.
-3. Válassza ki a telefonszámot a listából, majd kattintson a **Művelet** panelen a **Hozzárendelés** elemre.
-4. A **Hozzárendelés** lapon kattintson a **Mentés** elemre.
+1. Lépjen a Microsoft Teams felügyeleti központ oldalára.
+1. A bal oldali navigációs ablakban válassza az **Értekezletek**  >  **konferenciahidak lehetőséget.**
+1. Jelölje ki az alapértelmezettként beállítani kívánt szolgáltatási számot.
+1. Válassza az **Alapértelmezett** gombot.
 
-További információért lásd a [Hangkonferencia-híd telefonszámának módosítása](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge) című témakört.
+További információért lásd a [Hangkonferencia-híd telefonszámának módosítása](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge) című témakört.
