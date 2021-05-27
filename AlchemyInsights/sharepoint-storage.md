@@ -1,5 +1,5 @@
 ---
-title: SharePoint-tárterület
+title: Saját online SharePoint kezelése
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773741"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689860"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>SharePoint Online-tárterület kezelése
+# <a name="manage-your-sharepoint-online-storage"></a>Saját online SharePoint kezelése
 
-Megtudhatja [, hogyan számítja ki a bérlői tárterületet](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) a terv alapján.
+A legtöbb szervezetnél SharePoint a tárterület kezelése automatikusan történik, így webhelycsoportonként nem kell korlátokat beállítania. A bérlő tárhelyének az Ön csomagja alapján kiszámított kiszámításáról további információt a Korlátok terv szerint [(](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan))
 
-A legtöbb szervezet esetében a SharePoint-tárterületet automatikusan kezeli a rendszer, így nem kell webhelycsoport korlátozását beállítania.
+További információ:
 
-Megtudhatja, hogy miként [tekintheti meg a szervezete teljes és rendelkezésre álló tárterületét](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+- [Webhely tárterületkorlátának kezelése](/sharepoint/manage-site-collection-storage-limits)
 
-Megtudhatja, hogy miként [kezelheti az egyes webhelycsoport-tárolási korlátozásokat](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+- [Egyéni webhelytárolási korlátozások kezelése](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-Ha a webhelye nem érhető el, vagy meg szeretné tudni, hogy melyik tár vagy lista használja a helyet, válassza a **webhely beállításai**  >  **tároló metrikája** (webhelycsoport-rendszergazdai engedélyek szükségesek) lehetőséget.
+Ha a webhelynek nincs elég hely, vagy meg szeretné tudni, hogy melyik tár vagy lista használja ki a helyet, akkor a Webhely Gépház  >  **Storage Metrikák** csoportban (webhelycsoport-rendszergazdai engedélyek szükségesek).
 
-Megtudhatja, hogy miként [figyelheti a webhely tárterületének korlátait a PowerShell segítségével](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+További információ:
 
-Megtudhatja, hogy miként [vásárolhat extra tárhelyet](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
+- [Webhely tárterületkorlátának figyelése a PowerShell használatával](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [Tárterület hozzáadása az előfizetéshez](/microsoft-365/commerce/add-storage-space) 
   
