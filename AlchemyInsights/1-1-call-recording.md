@@ -1,5 +1,5 @@
 ---
-title: 1:1-es hívásrögzítés
+title: Két hanghívás felvétele két hangra
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733851"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696960"
 ---
-# <a name="11-call-recording"></a>1:1-es hívásrögzítés
+# <a name="11-call-recording"></a>Két hanghívás felvétele két hangra
 
-A rendszergazdáknak azonnal el kell fogadnia a szükséges lépéseket ahhoz, hogy a felhasználók folytathatják az 1:1-es hívások rögzítését.
- 
-2021. április 12-től kezdve bevezetjük az *AllowCloudRecordingForCalls* új Teams-hívási házirend-beállítását. 
+Ha a **Rögzítés elindítani** gomb szürkén jelenik meg egy az egyhez hívásban, módosítania kell az érintett felhasználó házirendbeállítását.   
 
-A hívásrögzítési funkciókat jelenleg a Teams-értekezleti házirendek *AllowCloudRecording* beállításával lehet vezérelni. Ha a felhasználóknak engedélyezett a Teams-értekezletek rögzítésére, az egy:1-es hívásokat is rögzíthetnek.
+2021. május 31-től bevezetünk egy új hívási házirendet az *AllowCloudRecordingForCalls* Teams hívási házirendben. A változás előtt az kéthívásos felvétel vezérlése az *AllowCloudRecording* Teams szabály szerint történik. Ez a változás az Üzenetközpont bejegyzésében [található: (Frissítve) 1:1 Hívásrögzítési házirend – bevezetés.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)  
 
-Ha minden felhasználót le szeretne tiltani az 1:1-es hívások rögzítésében, nem kell semmilyen műveletet megtennie. *Az AllowCloudRecordingForCalls* hívásházirend beállítása alapértelmezés szerint $False engedélyezett.
+*AllowCloudRecordingForCalls*   hívási házirend beállítás alapértelmezés **szerint $False** van beállítva. Ha azt szeretné, hogy az összes felhasználó ne rögzítsen két hanghívást, akkor nincs semmilyen teendőja.  
 
-Ez a változás az Üzenetközpont következő bejegyzésében található: [(Frissítve) 1:1-es hívásrögzítési](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) házirend – Bevezetés A Teams hívási házirend beállításának beállítását a [Teams PowerShell használatával](https://docs.microsoft.com/microsoftteams/teams-powershell-install)kell beállítani.
+Ha engedélyezni szeretné a hívásrögzítést az összes felhasználó számára két Teams a PowerShellben, futtassa az alábbi parancsmagot: 
 
-**A hívásrögzítés engedélyezése 1:1-es hívásokban:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-**A hívásrögzítés 1:1-es** hívásokban való letiltásához: Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+Másik lehetőségként létrehozhat egy új házirendet, és beállíthatja az  **-AllowCloudRecordingForCalls** $true és hozzárendelheti a házirendet a felhasználókhoz. 
 
+További információ: Hívásrögzítési házirend-vezérlők [(majdnem!) Itt .](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668)

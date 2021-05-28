@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573748"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696888"
 ---
 # <a name="disable-chat"></a>Csevegés letiltása
 
@@ -26,7 +26,7 @@ A csevegés szervezeti engedélyezéséhez vagy letiltásához létrehozhat olya
 
 - **Értekezlet:** A Teams felügyeleti központban az Értekezleti házirendek [–](https://admin.teams.microsoft.com/) A csevegés beállítása a Csevegés engedélyezése az értekezleteken című **témakörben található.** Az egyéni értekezleti házirendek [](/microsoftteams/meeting-policies-in-teams) létrehozásáról további információt az Értekezleti házirendek kezelése a Teams a Csevegés engedélyezése értekezleteken Teams [talál.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
-- **M*essaging:** A Teams Felügyeleti központban kattintson az Üzenetkezelési házirendek  [elemre,](https://admin.teams.microsoft.com/)és a Csevegés be- vagy kikapcsolása **gombot.** Az egyéni üzenetkezelési házirendek és a házirendek felhasználókhoz rendelésének mikéntjére vonatkozó további információkért lásd: Üzenetkezelési házirendek kezelése a [Teams.](/microsoftteams/messaging-policies-in-teams)
+- **Üzenetküldés:** A Teams Felügyeleti központban kattintson az Üzenetkezelési [házirendek](https://admin.teams.microsoft.com/)elemre, és a **Csevegés** be- vagy kikapcsolása **gombot.** Az egyéni üzenetkezelési házirendek és a házirendek felhasználókhoz rendelésének mikéntjére vonatkozó további információkért lásd: Üzenetkezelési házirendek kezelése a [Teams.](/microsoftteams/messaging-policies-in-teams)
 
 - **Diákok:** Ha le szeretné tiltani a csevegést egy diák számára, tekintse meg, hogy milyen lehetőségek vannak a csevegés engedélyezésére az értekezleteken, illetve a kétszobás csevegés engedélyezésére az Teams házirendek és házirendcsomagok oktatási [csomagjaiban.](/microsoftteams/policy-packages-edu)
 
