@@ -1,5 +1,5 @@
 ---
-title: 1:1-es hívásrögzítés
+title: Két hanghívás felvétele két hangra
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733851"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696960"
 ---
-# <a name="11-call-recording"></a><span data-ttu-id="37ca3-102">1:1-es hívásrögzítés</span><span class="sxs-lookup"><span data-stu-id="37ca3-102">1:1 call recording</span></span>
+# <a name="11-call-recording"></a><span data-ttu-id="4c20c-102">Két hanghívás felvétele két hangra</span><span class="sxs-lookup"><span data-stu-id="4c20c-102">1:1 call recording</span></span>
 
-<span data-ttu-id="37ca3-103">A rendszergazdáknak azonnal el kell fogadnia a szükséges lépéseket ahhoz, hogy a felhasználók folytathatják az 1:1-es hívások rögzítését.</span><span class="sxs-lookup"><span data-stu-id="37ca3-103">Administrators need to take action now to continue allowing users to Record 1:1 calls.</span></span>
- 
-<span data-ttu-id="37ca3-104">2021. április 12-től kezdve bevezetjük az *AllowCloudRecordingForCalls* új Teams-hívási házirend-beállítását.</span><span class="sxs-lookup"><span data-stu-id="37ca3-104">Beginning April 12, 2021, we will start enforcing a new Teams Calling Policy option *AllowCloudRecordingForCalls*.</span></span> 
+<span data-ttu-id="4c20c-103">Ha a **Rögzítés elindítani** gomb szürkén jelenik meg egy az egyhez hívásban, módosítania kell az érintett felhasználó házirendbeállítását.</span><span class="sxs-lookup"><span data-stu-id="4c20c-103">If the **Start Recording** button is grayed out in a 1:1 call, you need to change the policy settings for the impacted user.</span></span>   
 
-<span data-ttu-id="37ca3-105">A hívásrögzítési funkciókat jelenleg a Teams-értekezleti házirendek *AllowCloudRecording* beállításával lehet vezérelni.</span><span class="sxs-lookup"><span data-stu-id="37ca3-105">Currently 1:1 call recording capabilities are controlled by the *AllowCloudRecording* option in Teams Meeting Policies.</span></span> <span data-ttu-id="37ca3-106">Ha a felhasználóknak engedélyezett a Teams-értekezletek rögzítésére, az egy:1-es hívásokat is rögzíthetnek.</span><span class="sxs-lookup"><span data-stu-id="37ca3-106">If your users are allowed to record Teams Meetings they can also record 1:1 calls.</span></span>
+<span data-ttu-id="4c20c-104">2021. május 31-től bevezetünk egy új hívási házirendet az *AllowCloudRecordingForCalls* Teams hívási házirendben.</span><span class="sxs-lookup"><span data-stu-id="4c20c-104">Beginning May 31, 2021, we'll start enforcing a new Teams Calling Policy *AllowCloudRecordingForCalls*.</span></span> <span data-ttu-id="4c20c-105">A változás előtt az kéthívásos felvétel vezérlése az *AllowCloudRecording* Teams szabály szerint történik.</span><span class="sxs-lookup"><span data-stu-id="4c20c-105">Prior to this change, 1:1 call recording is controlled by the *AllowCloudRecording* Teams Meeting Policy.</span></span> <span data-ttu-id="4c20c-106">Ez a változás az Üzenetközpont bejegyzésében [található: (Frissítve) 1:1 Hívásrögzítési házirend – bevezetés.](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)</span><span class="sxs-lookup"><span data-stu-id="4c20c-106">This change is documented in the Message Center post: [(Updated) 1:1 Call recording policy introduction](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796).</span></span>  
 
-<span data-ttu-id="37ca3-107">Ha minden felhasználót le szeretne tiltani az 1:1-es hívások rögzítésében, nem kell semmilyen műveletet megtennie.</span><span class="sxs-lookup"><span data-stu-id="37ca3-107">If you prefer to block all users from recording 1:1 calls, you do not need to take any action.</span></span> <span data-ttu-id="37ca3-108">*Az AllowCloudRecordingForCalls* hívásházirend beállítása alapértelmezés szerint $False engedélyezett.</span><span class="sxs-lookup"><span data-stu-id="37ca3-108">*AllowCloudRecordingForCalls* calling policy option will be $False by default.</span></span>
+<span data-ttu-id="4c20c-107">*AllowCloudRecordingForCalls*   hívási házirend beállítás alapértelmezés **szerint $False** van beállítva.</span><span class="sxs-lookup"><span data-stu-id="4c20c-107">*AllowCloudRecordingForCalls* calling policy option is set to **$False** by default.</span></span> <span data-ttu-id="4c20c-108">Ha azt szeretné, hogy az összes felhasználó ne rögzítsen két hanghívást, akkor nincs semmilyen teendőja.</span><span class="sxs-lookup"><span data-stu-id="4c20c-108">If you prefer to block all users from recording 1:1 calls, you don't need to take any action.</span></span>  
 
-<span data-ttu-id="37ca3-109">Ez a változás az Üzenetközpont következő bejegyzésében található: [(Frissítve) 1:1-es hívásrögzítési](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) házirend – Bevezetés A Teams hívási házirend beállításának beállítását a [Teams PowerShell használatával](https://docs.microsoft.com/microsoftteams/teams-powershell-install)kell beállítani.</span><span class="sxs-lookup"><span data-stu-id="37ca3-109">This change is documented in the following Message Center Post: [(Updated) 1:1 Call recording policy introduction](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) To set the Teams Calling Policy Option you must use [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install).</span></span>
+<span data-ttu-id="4c20c-109">Ha engedélyezni szeretné a hívásrögzítést az összes felhasználó számára két Teams a PowerShellben, futtassa az alábbi parancsmagot:</span><span class="sxs-lookup"><span data-stu-id="4c20c-109">To enable call recording for all users in 1:1 calls use Teams PowerShell to run the following cmdlet:</span></span> 
 
-<span data-ttu-id="37ca3-110">**A hívásrögzítés engedélyezése 1:1-es hívásokban:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True</span><span class="sxs-lookup"><span data-stu-id="37ca3-110">**To enable call recording in 1:1 calls:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True</span></span>
+<span data-ttu-id="4c20c-110">**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True**</span><span class="sxs-lookup"><span data-stu-id="4c20c-110">**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True**</span></span> 
 
-<span data-ttu-id="37ca3-111">**A hívásrögzítés 1:1-es** hívásokban való letiltásához: Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False</span><span class="sxs-lookup"><span data-stu-id="37ca3-111">**To disable call recording in 1:1 calls:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False</span></span>
+<span data-ttu-id="4c20c-111">Másik lehetőségként létrehozhat egy új házirendet, és beállíthatja az  **-AllowCloudRecordingForCalls** $true és hozzárendelheti a házirendet a felhasználókhoz.</span><span class="sxs-lookup"><span data-stu-id="4c20c-111">Alternatively, you can create a new policy and set **-AllowCloudRecordingForCalls** to **$true** and assign that policy to your users.</span></span> 
 
+<span data-ttu-id="4c20c-112">További információ: Hívásrögzítési házirend-vezérlők [(majdnem!) Itt .](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668)</span><span class="sxs-lookup"><span data-stu-id="4c20c-112">For more information, see [1:1 Call Recording Policy Controls Are (Almost!) Here](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).</span></span>
