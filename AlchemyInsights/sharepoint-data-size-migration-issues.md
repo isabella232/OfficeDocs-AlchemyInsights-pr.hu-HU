@@ -1,5 +1,5 @@
 ---
-title: Az adatok SharePoint Online-ba való áttelepítésekor jelentkező problémák
+title: Problémák az adatok online SharePoint való áttelepítése során
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700889"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694778"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="f7cbf-102">Az adatok SharePoint Online-ba való áttelepítésekor jelentkező problémák</span><span class="sxs-lookup"><span data-stu-id="f7cbf-102">Issues while migrating data to SharePoint Online</span></span>
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="a09b1-102">Problémák az adatok online SharePoint való áttelepítése során</span><span class="sxs-lookup"><span data-stu-id="a09b1-102">Issues while migrating data to SharePoint Online</span></span>
 
-<span data-ttu-id="f7cbf-103">**Áttérés az 100TB keresztül**</span><span class="sxs-lookup"><span data-stu-id="f7cbf-103">**Migrating over 100TB of data**</span></span>
+<span data-ttu-id="a09b1-103">**Több mint 100 TB adat áttelepítése**</span><span class="sxs-lookup"><span data-stu-id="a09b1-103">**Migrating over 100TB of data**</span></span>
 
-<span data-ttu-id="f7cbf-104">Úgy tűnik, hogy az adatok áttelepítése a SharePoint Online-ra 100TB.</span><span class="sxs-lookup"><span data-stu-id="f7cbf-104">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="f7cbf-105">Kérjük, kövesse az alábbi lépéseket, hogy a lehető leghamarabb segítséget nyújtunk.</span><span class="sxs-lookup"><span data-stu-id="f7cbf-105">Please follow the steps below so we may assist you as soon as possible.</span></span> 
+<span data-ttu-id="a09b1-104">Úgy tűnik, hogy több mint 100TB adatot kell át áttelepítést SharePoint online.</span><span class="sxs-lookup"><span data-stu-id="a09b1-104">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="a09b1-105">Kérjük, hogy az alábbi lépéseket követve segítünk Önnek a lehető leghamarabb.</span><span class="sxs-lookup"><span data-stu-id="a09b1-105">Please follow the steps below so we may assist you as soon as possible.</span></span> 
 
-1. <span data-ttu-id="f7cbf-106">Válassza az **új szolgáltatási kérelem**, majd az **új szolgáltatási kérelem**lehetőséget.</span><span class="sxs-lookup"><span data-stu-id="f7cbf-106">Select **New Service Request**, and then **New Service Request**.</span></span> 
-2. <span data-ttu-id="f7cbf-107">Hagyja meg a címet és a leírást a **SharePoint áttelepítési 100TB**.</span><span class="sxs-lookup"><span data-stu-id="f7cbf-107">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
-3. <span data-ttu-id="f7cbf-108">Miután elküldte a jegyet, kérjük, frissítse a következő adatokkal:</span><span class="sxs-lookup"><span data-stu-id="f7cbf-108">Once the ticket has been submitted, please update it with the following information:</span></span> 
+1. <span data-ttu-id="a09b1-106">Válassza a **Kapcsolatfelvétel az ügyfélszolgálattal**, majd az **Új szolgáltatáskérés lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="a09b1-106">Select **Contact Support**, and then **New Service Request**.</span></span> 
+2. <span data-ttu-id="a09b1-107">A **100 TB-SharePoint** meg a címet és a leírást.</span><span class="sxs-lookup"><span data-stu-id="a09b1-107">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
+3. <span data-ttu-id="a09b1-108">Miután beküldte a jegyet, frissítse azt a következő információkkal:</span><span class="sxs-lookup"><span data-stu-id="a09b1-108">Once the ticket has been submitted, please update it with the following information:</span></span> 
 
-    - <span data-ttu-id="f7cbf-109">Az áttelepítés becsült mérete.</span><span class="sxs-lookup"><span data-stu-id="f7cbf-109">Estimated size of your migration.</span></span>
-    - <span data-ttu-id="f7cbf-110">Az áttelepítés megkezdésének és befejezésének becslése.</span><span class="sxs-lookup"><span data-stu-id="f7cbf-110">An estimate of when you would like to start and complete your migration.</span></span>
-    - <span data-ttu-id="f7cbf-111">Itt megadhatja, hogy hová szeretné áttelepíteni a tartalmakat, például a SharePoint Server, a Box, a GDrive, a fájlmegosztás stb.</span><span class="sxs-lookup"><span data-stu-id="f7cbf-111">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
+    - <span data-ttu-id="a09b1-109">Az áttelepítés becsült mérete.</span><span class="sxs-lookup"><span data-stu-id="a09b1-109">Estimated size of your migration.</span></span>
+    - <span data-ttu-id="a09b1-110">Annak becsült becslése, hogy mikor szeretné elkezdeni és befejezni az áttelepítést.</span><span class="sxs-lookup"><span data-stu-id="a09b1-110">An estimate of when you would like to start and complete your migration.</span></span>
+    - <span data-ttu-id="a09b1-111">Írja le, hogy honnan (például SharePoint, Box, GDrive, fájlmegosztások stb.).</span><span class="sxs-lookup"><span data-stu-id="a09b1-111">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
