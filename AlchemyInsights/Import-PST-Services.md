@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470257"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721638"
 ---
-# <a name="microsoft-365-import-service"></a><span data-ttu-id="fbe80-102">Microsoft 365 Import service</span><span class="sxs-lookup"><span data-stu-id="fbe80-102">Microsoft 365 Import service</span></span>
+# <a name="microsoft-365-import-service"></a><span data-ttu-id="31416-102">Microsoft 365 Import service</span><span class="sxs-lookup"><span data-stu-id="31416-102">Microsoft 365 Import service</span></span>
 
-<span data-ttu-id="fbe80-103">Az Microsoft 365 importálási szolgáltatás lehetővé teszi több PST-fájl tömeges importálását Exchange Online postaládákba.</span><span class="sxs-lookup"><span data-stu-id="fbe80-103">The Microsoft 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span>
+<span data-ttu-id="31416-103">Az Importálás szolgáltatás elérése és az importálási folyamat elkezdása:</span><span class="sxs-lookup"><span data-stu-id="31416-103">To access the Import service and start the import process:</span></span>
 
-<span data-ttu-id="fbe80-104">Az Importálás szolgáltatás elérése és az importálási folyamat elkezdása:</span><span class="sxs-lookup"><span data-stu-id="fbe80-104">To access the Import service and start the import process:</span></span>
+1. <span data-ttu-id="31416-104">Az [M365 Megfelelőségi központba bejelentkezve](https://compliance.microsoft.com/)jelentkezzen be egy rendszergazdai fiók hitelesítő adataival a szervezetében.</span><span class="sxs-lookup"><span data-stu-id="31416-104">Go to the [M365 Compliance Center](https://compliance.microsoft.com/), and sign in using the credentials for an administrator account in your organization.</span></span>
 
-1. <span data-ttu-id="fbe80-105">A Biztonsági & [megfelelőségi központban](https://protection.office.com) jelentkezzen be egy rendszergazdai fiók hitelesítő adataival a szervezetében.</span><span class="sxs-lookup"><span data-stu-id="fbe80-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your organization.</span></span>
+1. <span data-ttu-id="31416-105">Az M365 Megfelelőségi központ bal oldali ablaktábláján a Megoldások alatt **válassza** az **Információirányítás**  >  **importálása lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="31416-105">In the left pane of the M365 Compliance Center under **Solutions**, select **Information governance** > **Import**.</span></span>
 
-2. <span data-ttu-id="fbe80-106">A Biztonsági és megfelelőségi központ **bal oldali ablaktábláján** kattintson & információirányítási és **> elemre.**</span><span class="sxs-lookup"><span data-stu-id="fbe80-106">In the left pane of the **Security & Compliance Center**, click **Information governance > Import**.</span></span>
+1. <span data-ttu-id="31416-106">Az Importálás **lapon** válassza az Új **importálási feladat lehetőséget.**</span><span class="sxs-lookup"><span data-stu-id="31416-106">On the **Import** page, select **New import job**.</span></span>
 
-3. <span data-ttu-id="fbe80-107">Az Importálás **lapon** kattintson az Új **importálási feladat elemre.**</span><span class="sxs-lookup"><span data-stu-id="fbe80-107">On the **Import** page, click **New import job**.</span></span>
+1. <span data-ttu-id="31416-107">A varázsló lépéseit a Szervezeti [PST-fájlok](/compliance/use-network-upload-to-import-pst-files)importálása hálózati feltöltéssel a fájlok importálásához a Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="31416-107">To complete the steps in the wizard, see [Use network upload to import your organization's PST files to Microsoft 365](/compliance/use-network-upload-to-import-pst-files).</span></span>
 
-4. <span data-ttu-id="fbe80-108">A varázsló lépéseit az alábbi részletes lépéseket követve [hajtsa végre.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)</span><span class="sxs-lookup"><span data-stu-id="fbe80-108">To complete the steps in the wizard, follow these [step-by-step instructions](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md).</span></span>
+<span data-ttu-id="31416-108">Az Importálás **lap eléréséhez** győződjön meg arról, hogy rendelkezik a megfelelő engedélyekkel.</span><span class="sxs-lookup"><span data-stu-id="31416-108">To access the **Import** page, make sure you have been assigned the appropriate permissions.</span></span> <span data-ttu-id="31416-109">További információ: [PST-fájlok](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)importálása hálózati feltöltés használatával.</span><span class="sxs-lookup"><span data-stu-id="31416-109">For more info, see [Using network upload to import PST files](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).</span></span>
 
-<span data-ttu-id="fbe80-109">**Fontos:** A Biztonsági **&** Megfelelőségi központban az Importálás lap eléréséhez rendelkeznie kell a megfelelő [engedélyekkel.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)</span><span class="sxs-lookup"><span data-stu-id="fbe80-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md).</span></span>
+<span data-ttu-id="31416-110">Ha pst-fájlt szeretne importálni a postaládájába, tekintse át az E-mailek, névjegyek és naptár importálása Outlook [.pst fájlból Outlook.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)</span><span class="sxs-lookup"><span data-stu-id="31416-110">If you want to import a PST to your mailbox, see [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
 
-<span data-ttu-id="fbe80-110">Ha csak egy PST-t szeretne importálni a postaládájába, tekintse át ezt [a cikket.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)</span><span class="sxs-lookup"><span data-stu-id="fbe80-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
+<span data-ttu-id="31416-111">Ha importálással kapcsolatos problémája van, tekintse át A PST-importálási feladatokat [érintő problémák.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)</span><span class="sxs-lookup"><span data-stu-id="31416-111">If you're having a problem with an import, see [Issues that affect PST import jobs](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).</span></span>
+
