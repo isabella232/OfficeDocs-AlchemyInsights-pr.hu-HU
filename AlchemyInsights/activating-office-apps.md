@@ -1,5 +1,5 @@
 ---
-title: A Microsoft 365-alkalmazások aktiválása
+title: Az Microsoft 365 aktiválása
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823033"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798610"
 ---
-# <a name="activating-microsoft-365-apps"></a>A Microsoft 365-alkalmazások aktiválása
+# <a name="activating-microsoft-365-apps"></a>Az Microsoft 365 aktiválása
+
+**Megjegyzés:** Ha a Windows régebbi verzióját használja (például Windows 7), gondoskodjon arról, hogy alapértelmezés szerint a TLS 1.2 legyen engedélyezve. További információt a Frissítés a [TLS 1.1 és a TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)alapértelmezett biztonságos protokollként való engedélyezéséhez a Windowsbanhttps://Windows.
 
 Az Office-appok aktiválásához lásd:
 
@@ -27,7 +29,7 @@ Az Office-appok aktiválásához lásd:
 
 - [Az Office aktiválása Mac gépen](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Megjegyzés:**  Győződjön meg arról, hogy olyan Office 365- vagy Microsoft 365-előfizetése van, amely tartalmazza az Office-ügyfélalkalmazásokat ( például Microsoft 365 Business Standard, Vállalati Microsoft 365-appok vagy Nagyvállalati Microsoft 365-appok). [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e) Ezenkívül győződjön meg arról, hogy az Office-appokba való bejelentkezéshez használt felhasználói fiókhoz licenc [van rendelve.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Megjegyzés:**  Győződjön meg arról, hogy olyan Office 365- vagy Microsoft 365-előfizetése van, amely Office-ügyfélalkalmazásokat [(](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)például Microsoft 365 Vállalati standard verzió, Üzleti Microsoft 365-alkalmazások vagy Nagyvállalati Microsoft 365-alkalmazások) is Nagyvállalati Microsoft 365-alkalmazások. Ezenkívül győződjön meg arról, hogy az alkalmazásokba való bejelentkezéshez használt felhasználói fiókhoz Office van [hozzárendelve licenc.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Az Office aktiválási hibáinak elhárításához lásd:
 
@@ -38,7 +40,7 @@ Az Office aktiválási hibáinak elhárításához lásd:
 
 **Tipp** Windows rendszerű gépeken számos gyakori Office-bejelentkezési problémát diagnosztizálhatunk és automatikusan kijavíthatunk Ön helyett. Automatizált eszközünk használatához töltse le és futtassa a **[Microsoft Támogatási és helyreállítási segédet](https://aka.ms/SaRA-OfficeSignInScenario)**.
 
-Ha nem tud bejelentkezni a Microsoft 365-ös alkalmazásokba, kövesse az alábbi lépéseket:
+Ha nem tud bejelentkezni az Microsoft 365 appba, kövesse az alábbi lépéseket:
 
 1. Nyisson meg egy Office-appot, és [jelentkezzen ki](https://go.microsoft.com/fwlink/?linkid=2114082) minden meglévő felhasználói fiókból.
 
@@ -46,6 +48,6 @@ Ha nem tud bejelentkezni a Microsoft 365-ös alkalmazásokba, kövesse az alább
 
 3. A **Windows beállításai > Fiókok > Hozzáférés munkahelyi vagy iskolai rendszerhez** lehetőséget használva válassza le a régi vagy nem használt munkahelyi fiókokat.
 
-4. [Állítsa vissza az Office aktiválási állapotát,](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) majd [az új fiókot használva jelentkezzen be az Office-](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)appokba.
+4. [Állítsa vissza az Office aktiválási állapotát,](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) majd [az új fiókot használva jelentkezzen be az Office-](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426)appokba.
 
 További hibaelhárítási műveleteket talál az [Előfizetési értesítés jelenik meg az Office 365-ös alkalmazások megnyitásakor](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) című cikkben.
