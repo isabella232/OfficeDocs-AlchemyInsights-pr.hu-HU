@@ -1,5 +1,5 @@
 ---
-title: A Teams frissítési útmutatója
+title: Teams frissítési útmutató
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333930"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095402"
 ---
-# <a name="microsoft-teams-upgrade"></a>A Microsoft Teams frissítése
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams frissítés
 
-**Fontos**: Ha a Skype vállalati online verzióról a Microsoft Teams csak a Teams-beli verziójára frissített, de még nem áll készen, a támogatási diagnosztikai szolgáltatással javíthatja ezt. Győződjön meg róla, hogy az új felügyeleti központot használja az **új felügyeleti központ**jobb felső sarkában lévő kapcsoló bejelölésével. Használja az új felügyeleti központot, és kattintson a **segítségre van szüksége?** elemre, írja be a "**Teams upgrade**" parancsot, majd a megjelenő utasításokat követve futtassa a diagnosztikai szolgáltatást.
+Akár csak most ismerkedik az Teams-rel, akár már használja az Teams-et az Skype Vállalati verzió mellett, vagy készen áll a frissítésre, biztosítani szeretnénk, hogy minden szükséges szükséges lépéssel eligazodjon a Teams. További információért látogasson el az alábbi hivatkozásokra.
 
-Akár csak az első lépések a Teams alkalmazásban, akár a Skype vállalati verzióban, akár a frissítésre készen áll, gondoskodni szeretne arról, hogy a Teams egy sikeres eléréséhez navigáljon. További információért olvassa el az alábbi hivatkozásokat.
+[A frissítési folyamat első Microsoft Teams](/MicrosoftTeams/upgrade-start-here)
 
-[A Microsoft Teams frissítése – első lépések](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[A frissítés megterve](/MicrosoftTeams/upgrade-plan-journey)
 
-[A frissítés megtervezése](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[A Microsoft Teams és Skype Vállalati verzió és a közös tartás](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[A Microsoft Teams és a Skype vállalati verzió együttélésének ismertetése](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[A frissítés végrehajtása Skype Vállalati verzió Online-Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[A frissítés elvégzése a Skype vállalati online verzióból a Teams szolgáltatásba](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[A frissítés végrehajtása a helyszíni Skype vállalati verzióból a csoportokba](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Frissítés végrehajtása helyszíni Skype Vállalati verzió-ről Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[A Skype vállalati online verzió állapotának ellenőrzése a Teams frissítéséhez a PowerShell segítségével](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[A PowerShell-Skype Vállalati verzió frissítés Teams online verzió állapotának ellenőrzése](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
