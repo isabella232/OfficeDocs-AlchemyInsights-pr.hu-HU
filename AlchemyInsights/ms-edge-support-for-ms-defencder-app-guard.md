@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge támogatása a Microsoft Defender alkalmazás-Gárda számára
+title: Microsoft Edge támogatott a Microsoft Defender alkalmazásőr
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583582"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346064"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge támogatása a Microsoft Defender alkalmazás-Gárda számára
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge támogatott a Microsoft Defender alkalmazásőr
 
-A Windows 10 és a Microsoft Edge rendszerhez készült alkalmazás-őr hardveres elkülönítési megközelítést használ, amely lehetővé teszi, hogy egy felhasználó egy nem védett webhelyre navigáljon egy elszigetelt, hiper-V-os tárolótól, amely a fogadó operációs rendszertől elválasztva van.
+A Microsoft Defender az identitáshoz egy központi helyet biztosít, ahol a rendszergazdák azonosítják, észlelik és kivizsgálják a helyszíni identitás veszélyeit. 
 
-A vállalati rendszergazdák a megbízható webhelyek, a felhőalapú erőforrások és a belső hálózatok listáját határozzák meg. Ha egy felhasználó olyan webhelyet látogat meg, amely nem szerepel a listán, a Microsoft Edge megnyitja a webhelyet a tárolóban. Ez azt jelenti, hogy ha a webhely kártékonynak tűnik, a gazdaszámítógép védett marad, és a támadó nem fog megjelenni a vállalati adatszolgáltatásban.
+A [Microsoft Defender identitásbeállítási útmutatója](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) segítségével ellenőrizze, hogy elégedett-e minden környezetfeltételekkel; hozzon létre egy példányt, csatlakozzon az Active Directoryhoz, és telepítse az érzékelőt. 
 
-A bővítmények telepítése a tárolóban a Microsoft Edge 81-es verziójában érhető el, és egy házirenden keresztül is ellenőrizhető. Az ExtensionInstallForcelist-házirendben használt updateURL-címet semleges erőforrásként kell hozzáadni az alkalmazás-Gárda által használt hálózat-elkülönítési házirendekhez.
-
-További információt a Microsoft [Edge támogatása a Microsoft Defender alkalmazás-Gárda számára](https://go.microsoft.com/fwlink/?linkid=2134229)című témakörben talál.
+Amikor végzett, a felhasználók identitását figyeljük, és azonnali lépéseket lehet tenni a szervezetet veszélyeztető rosszindulatú tevékenységekkel szemben.
