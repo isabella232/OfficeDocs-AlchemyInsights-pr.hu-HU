@@ -1,5 +1,5 @@
 ---
-title: A csoport törlése webhely
+title: Csoportwebhely törlése
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745824"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532113"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Microsoft 365-csoportba tartozó SharePoint-webhely törlése
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Egy SharePoint csoporthoz tartozó webhely Microsoft 365 törlése
 
-A csoporttal összekapcsolt webhelyek törlésével a csoport és az összes erőforrása, például az Outlook-postaláda és-naptár, valamint a Teams-csatornák is törlődnek.
+A csoporthoz kapcsolt webhely törlésével törli a csoportot és annak összes erőforrását, beleértve a Outlook a naptárt, valamint az esetleges Teams csatornáit.
   
-Fontos
+Fontos:
 
-- A törölt webhelyeket 93-napra állíthatja vissza. A törölt csoportokat 30 napon belül vissza kell állítani. A [törölt webhelyek megtekintése és visszaállítása](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) közvetlenül a SharePoint felügyeleti központból. A [ **törölt csoportok**megtekintéséhez és visszaállításához](https://outlook.office.com/people/group/deleted)válassza a **csoportok kezelése**, majd a **törölt elemek**lehetőséget.
-- Ha a webhely adatmegőrzési házirend része, előfordulhat, hogy nem tudja törölni, amíg a webhelyet el nem távolítja a [biztonsági & megfelelőségi felügyeleti központból](https://protection.office.com/?rfr=AdminCenter#/retention). További információt az [adatmegőrzési házirendek áttekintése](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)című témakörben talál.
+- A törölt webhelyeket 93 napig helyreállíthatja. A törölt csoportokat 30 napon belül vissza kell állítani. [A törölt webhelyeket](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) közvetlenül a felügyeleti központból SharePoint vissza. A törölt csoportok megtekintéséhez és [ **visszaállításához**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)válassza a Csoportok kezelése **,** majd a **Törölt lehetőséget.**
+- Ha a webhely adatmegőrzési házirend része, előfordulhat, hogy mindaddig nem tudja törölni, amíg el nem távolítja azt a Biztonsági & [Felügyeleti központból.](https://protection.office.com/?rfr=AdminCenter#/retention) További információt Az adatmegőrzési szabályok [áttekintése témakörben talál.](/microsoft-365/compliance/retention-policies)
   
-További információt [a webhelyek kezelése az új SharePoint felügyeleti központban](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)című témakörben talál.
+További információt a Webhelyek kezelése az új felügyeleti [SharePoint című témakörben.](/sharepoint/manage-sites-in-new-admin-center)

@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539646"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532257"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Bizalmasság-címke közzététele
 
-1. A Besorolás bizalmasság címkéi Office 365 biztonsági & megfelelőségi > **meg.**  >  
+1. További információért Microsoft 365 megfelelőségi központ > **adatvédelmi**  >  **címkékre vonatkozó szabályzatokat.**
 
-1. A Bizalmasság-címkék lapon válassza a **Címke-házirendek** fület, majd a Címkék **közzététele lehetőséget.**
+1. A **+ Címke közzététele lehetőséget választva** indítsa el az Új bizalmasság címke varázslót.
 
 1. Válassza **a Közzétenni kívánt bizalmasság-címkék kiválasztása lehetőséget.** Jelölje ki az alkalmazásokban és szolgáltatásokban elérhetővé tenni kívánt címkéket, és válassza a Hozzáadás **gombra.**
 
