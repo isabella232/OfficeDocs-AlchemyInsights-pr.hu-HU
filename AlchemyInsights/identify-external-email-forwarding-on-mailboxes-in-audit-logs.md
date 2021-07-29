@@ -1,5 +1,5 @@
 ---
-title: A postaládák külső e-mail-továbbításának meghatározása a naplókban
+title: Külső e-mail-továbbítás azonosítása a naplók postaládáiban
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,31 +13,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696299"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630251"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>A postaládákon való külső e-mail-továbbítás beállítása
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Annak azonosítása, hogy a külső e-mail-továbbítás mikor van beállítva a postaládákban
 
-Ha egy Microsoft 365-felhasználó egy postaládában külső e-mail-továbbítást konfigurál, a tevékenységet a **set-Mailbox** parancsmag részeként naplózza a rendszer. A tevékenységet a biztonsági & megfelelőségi központban, a naplózás keresése funkció segítségével tekintheti meg.
+Amikor egy Microsoft 365 konfigurálja egy postaládán a külső **e-mail-továbbítást,** a tevékenység a Postaláda-halmaz parancsmag részeként lesz naplóállítva. A tevékenységet naplókereséssel a Biztonsági és megfelelőségi központban & láthatja.
 
-1. Jelentkezzen be a [Microsoft 365 biztonsági & megfelelőségi központjába](https://protection.office.com/).
+1. Jelentkezzen be a [Microsoft 365 megfelelőségi központba.](https://protection.office.com/)
 
-2. Nyissa meg a **keresési**  >  **napló keresési** lapját.
+2. Lépjen a Keresési  >  **napló keresési lapjára.**
 
-3. Válassza ki a dátumtartomány értékét a **kezdési dátum** és a **Záró dátum** mezőben. Nem kell megadnia a felhasználónevet. Ellenőrizze, hogy a **tevékenységek** mező az **összes tevékenység eredményét jeleníti**-e meg.
+3. Jelölje ki a dátumtartományt a **Kezdő dátum** és a Záró **dátum mezőben.** Nem kell megadnia a felhasználónevet. Ellenőrizze, **hogy a Tevékenységek mező** az Összes tevékenység **eredményének megjelenítése beállításra van-e állítva.**
 
-4. Kattintson a **Keresés**gombra.
+4. Kattintson a **Keresés gombra.**
 
-A találatok között kattintson az **eredmény szűrése** elemre, és írja be a **set-Mailbox** parancsot a tevékenység szűrője mezőbe. Jelöljön ki egy naplózási rekordot az eredmények között. Kattintson a **részletek** menü **További információk**parancsára. Meg kell vizsgálnia az egyes könyvvizsgálati rekordok részleteit annak megállapításához, hogy a tevékenység az e-mailek továbbításához kapcsolódik-e.
+A találatok között kattintson az Eredmények **szűrése elemre,** és írja be a **Set-Mailbox (Postaláda beállítása)** mezőt a tevékenységszűrő mezőbe. Jelöljön ki egy naplórekordot az eredmények között. A Részletek **úszó panelen** kattintson a További **információ elemre.** Az egyes naplórekordok részleteiben kell megállapítania, hogy a tevékenység kapcsolódik-e az e-mail-továbbításhoz.
 
-- **ObjectId**: a módosított postaláda alias értéke.
+- **ObjectId:** A módosított postaláda aliasértéke.
 
-- **Paraméterek**: a _ForwardingSmtpAddress_ a cél e-mail-címét adja meg.
+- **Paraméterek:** _A ForwardingSmtpAddress_ a cél e-mail-címet jelzi.
 
-- **Userid**: az a felhasználó, aki e-mail-továbbítást konfigurált a postaládában a **ObjectId** mezőben.
+- **UserId:** Az **ObjectId** mező postaládájában e-mail-továbbítást konfiguráló felhasználó.
 
-További tudnivalókat az [e-mail-továbbítás beállítása postaládához](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)című témakörben talál.
+További információ: Annak megállapítása, hogy ki állíthatja be az e-mail-továbbítást [egy postaládában.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
