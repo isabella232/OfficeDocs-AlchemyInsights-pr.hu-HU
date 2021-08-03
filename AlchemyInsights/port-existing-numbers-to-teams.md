@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 8da057d33e6b733e3aeb899a5da97f83b96ea893
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 127a7f8f00843e5e6d6a833a7f3e39d8b73da7f2
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801449"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688328"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Meglévő számok portolása a Teamsbe
 
-Ha már van telefonszolgáltatója, és felhasználói vagy szolgáltatói már rendelkeznek telefonszámokkal, akkor „számhordozási kérelmet“ kell létrehoznia, amellyel a meglévő telefonszámokat átviheti a Microsoft Teamsbe.
+Ha már van telefonszolgáltatója, és felhasználói vagy szolgáltatói már rendelkeznek telefonszámokkal, akkor „számhordozási kérelmet“ kell létrehoznia, amellyel a meglévő telefonszámokat átviheti a Microsoft Teamsbe.  
 
-- A portolás elvégzéséhez szükséges információt a [Telefonszámok átvitele a Teamsbe](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) témakörben talál. 
+Új portrendelés létrehozásához vagy egy meglévő ellenőrzéshez kövesse az alábbi lépéseket: 
 
-- A telefonszámok kezeléséhez szükséges információt a [Telefonszámok kezelése a szervezetben](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) témakörben talál. 
+1. Nyissa meg a [Teams felügyeleti központot](https://admin.teams.microsoft.com/phone-numbers) a Telefon lap megnyitásához. 
 
-További információt a [Portbeállítások áttekintése](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)című témakörben talál. 
+1. Válassza **a Telefonszám támogatási hivatkozásának lekérte lehetőséget.** 
+
+Ha közvetlenül a telefonszámok ügyfélszolgálatához kapcsolódik, tekintse meg a [Telefon szolgáltatásközpontot.](https://pstnsd.powerappsportals.com/)  

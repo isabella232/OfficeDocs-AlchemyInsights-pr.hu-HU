@@ -3,6 +3,7 @@ title: Előfizetés lemondása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,28 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: af5b16a55afd7e26601e8ffa6288a72c94b9b1fb
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: e8aa177477c1f87de6ce87cecd5f015d1a03756c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088797"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689120"
 ---
 # <a name="how-to-cancel-a-subscription"></a>Előfizetés lemondása
 
-Az Azure-előfizetést csak akkor mondhatja le az Azure portálon, ha Ön a fiók rendszergazdája vagy az előfizetése. Kövesse az alábbi lépéseket.
+Az Azure-előfizetéseket csak akkor mondhatja le az Azure Portalon, ha Ön a fiók adminisztrátora vagy az előfizetés. Hajtsa végre az alábbi lépéseket.
 
-1. Válassza ki az előfizetését az [Azure portál előfizetések lapjáról](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Jelölje ki a lemondani kívánt előfizetést.
-3. Válassza az **Áttekintés**, majd az **előfizetés törlése** lehetőséget.
+1. Válassza ki azt az előfizetést az [Azure portál Előfizetések lapján](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
+2. Válassza ki a lemondani kívánt előfizetést.
+3. Válassza az **Áttekintés**, majd az **Előfizetés lemondása** lehetőséget.
 
 **Mi történik az előfizetés lemondása után?**
 
-Az előfizetés lemondása után a számlázás azonnal leállt. A lemondás azonban akár 10 percet is igénybe vehet a portálon. Ha lemondja az előfizetését egy számlázási időszak közepén, a záró számlát az időszak lejárta után a szokásos számlára küldi.
+Az előfizetés lemondása után a számlázás azonnal leáll. A lemondás megjelenítése a portálon azonban akár 10 percet is igénybe vehet. Ha egy számlázási időszak közepén mondja le az előfizetését, az időszak végén küldjük el a számla végén a szokásos számladátumon szereplő utolsó számlát.
 
-A lemondás után a szolgáltatások le vannak tiltva. Ez azt jelenti, hogy a virtuális gépeket kiosztották, az ideiglenes IP-címeket felszabadítják, és a tárterület írásvédett.
+A lemondás után a szolgáltatások le vannak tiltva. Ez azt jelenti, hogy a virtuális gépek felosztása megszűnik, az ideiglenes IP-címek felszabadulnak, és a tárterület csak olvashatóvá válik.
 
-Az előfizetés lemondása után a Microsoft várja a 30-90 napokat, mielőtt véglegesen törölni szeretné az adatait abban az esetben, ha hozzá kell férnie, vagy ha meggondolja magát. Nem számoljuk fel az adat megőrzését. További információ: [Microsoft Trust Center – az adatok kezelése](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Az előfizetés lemondása után a Microsoft 30-90 napot vár az adatok végleges törlése előtt arra az esetre, ha hozzá kell férnie, vagy ha meggondolja magát. Az adatok megőrzéséért nem számítunk fel díjat. További információ: [Microsoft Adatvédelmi központ – Az adatok kezelése.](https://www.microsoft.com/trust-center/privacy/data-management#leave)
 

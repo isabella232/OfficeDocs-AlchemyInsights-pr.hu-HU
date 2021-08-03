@@ -1,8 +1,9 @@
 ---
-title: Az alapértelmezett megújítási subsscription
+title: Alapértelmezett megújítási alsó index
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,25 +11,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 9bf0273fc2f0ca653750d037f022c5bf367bf23a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416632"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689300"
 ---
-# <a name="renewing-your-subscription"></a>Az Előfizetés megújítása
+# <a name="renewing-your-subscription"></a>Az előfizetés megújítása
 
-Ha hitelkártyával vagy bankszámláról fizet, az ismétlődő számlázás alapértelmezés szerint be van kapcsolva. Ha az ismétlődő számlázás be van kapcsolva, az előfizetést a program az előfizetett napon minden évben számlázni fogja. Ha az előfizetése aktív, ki-vagy bekapcsolhatja a felügyeleti központot.
+Ha hitelkártyával vagy bankszámlával fizet, az ismétlődő számlázás alapértelmezés szerint be van kapcsolva. Ha az ismétlődő számlázás be van jelentkezve, az előfizetést minden évben kiszámlázjuk a feliratkozás napján. Ha előfizetése aktív, a Felügyeleti központban ki- és bekapcsolhatja ismét.
 
-Ha egy termékkulccsal előre kifizette az előfizetését, az előfizetése lejár az előfizetési időszak végén. Bekapcsolhatja az ismétlődő számlázást, és hitelkártyát vagy bankszámláról szóló információkat adhat meg, hogy az előfizetése az előfizetése napján minden évben számlázással maradjon.
+Ha termékkával előre kifizette az előfizetését, az előfizetés az előfizetési időszak végén lejár. Bekapcsolhatja az ismétlődő számlázást, és meg kell adnia hitelkártya- vagy bankszámlaadatokat, hogy előfizetését minden évben kiszámlázjuk az előfizetése napján.
 
-Az ismétlődő számlázás bekapcsolása:
+Az ismétlődő számlázás bekapcsolásához:
 
-1. A felügyeleti központban lépjen a termékek **számlázása**  >  [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) lapra.
-2. A **Products (termékek** ) lapon jelölje ki a módosítani kívánt előfizetést.
-3. Az előfizetés részletei lap **előfizetés és fizetés beállításai**területén válassza az **ismétlődő számlázás szerkesztése**lehetőséget.
-4. Az **ismétlődő számlázási beállítások szerkesztése** munkaablakban válassza **a bekapcsolva**, a bekapcsolva **, de a megújítást**, vagy **kapcsolja ki**a gombot.
+1. A felügyeleti központban válassza a **Termékek**  >  [számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. A **Termékek lapon** jelölje ki a módosítani kívánt előfizetést.
+3. Az előfizetés adatait tartalmazó lap Előfizetés és fizetési beállítások lapján **válassza** az **Ismétlődő számlázás szerkesztése lehetőséget.**
+4. Az Ismétlődő **számlázási beállítások szerkesztése ablaktáblában** válassza a **Be,** a **Be, de a megújítás** egyszer lehetőséget, vagy kapcsolja ki a **beállítást.**
 5. Válassza a **Mentés** elemet. 

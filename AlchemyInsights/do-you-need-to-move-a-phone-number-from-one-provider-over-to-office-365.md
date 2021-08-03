@@ -1,5 +1,5 @@
 ---
-title: Át kell helyeznie egy telefonszámot egy szolgáltatótól a Microsofthoz?
+title: Át kell áthelyezni egy Telefon-számot egy szolgáltatóról a Microsoftra?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712150"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689408"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Meglévő számok portolása a Teamsbe
 
-Ha már van telefonszolgáltatója, és felhasználói vagy szolgáltatói már rendelkeznek telefonszámokkal, akkor „számhordozási kérelmet“ kell létrehoznia, amellyel a meglévő telefonszámokat átviheti a Microsoft Teamsbe.
+Ha már van telefonszolgáltatója, és felhasználói vagy szolgáltatói már rendelkeznek telefonszámokkal, akkor „számhordozási kérelmet“ kell létrehoznia, amellyel a meglévő telefonszámokat átviheti a Microsoft Teamsbe.  
 
-- A portolás elvégzéséhez szükséges információt a [Telefonszámok átvitele a Teamsbe](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) témakörben talál. 
+Új portrendelés létrehozásához vagy egy meglévő ellenőrzéshez kövesse az alábbi lépéseket: 
 
-- A telefonszámok kezeléséhez szükséges információt a [Telefonszámok kezelése a szervezetben](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) témakörben talál. 
+1. Nyissa meg a [Teams felügyeleti központot](https://admin.teams.microsoft.com/phone-numbers) a Telefon lap megnyitásához. 
 
-További információt a [Portbeállítások áttekintése](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)című témakörben talál.  
+1. Válassza **a Telefonszám támogatási hivatkozásának lekérte lehetőséget.** 
+
+Ha közvetlenül a telefonszámok ügyfélszolgálatához kapcsolódik, tekintse meg a [Telefon szolgáltatásközpontot.](https://pstnsd.powerappsportals.com/)  
