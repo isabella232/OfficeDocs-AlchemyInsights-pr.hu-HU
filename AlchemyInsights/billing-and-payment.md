@@ -3,6 +3,8 @@ title: Számlázás és fizetés
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820396"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686888"
 ---
 # <a name="billing-and-payment"></a>Számlázás és fizetés
 
@@ -35,27 +38,27 @@ Ha hitelkártyával vagy bankszámlával fizet, az előfizetéséhez társított
 
 Ha felvett egy új kártyát, de továbbra is elutasító értesítést kap a régi hitelkártyáról, előfordulhat, hogy az új kártyát az előfizetéshez kell társítania.
 
-1. A felügyeleti központban válassza a Számlázási **számlák** és  >  **& Fizetési** módok  >  [lapot.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. A Felügyeleti központban menjen a **Számlázás** > **Számlázás és fizetés** > [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra.
 
-2. Jelölje ki a lecserélni kívánt fizetési mód sorát. A jobb oldali panelen látható az összes számlázási profil és az egyes előfizetések, amelyek a választott fizetési módot használják.
+2. Jelölje ki a lecserélni kívánt fizetési mód sorát! A jobb oldali ablaktáblában láthatja az összes számlázási profilt és egyéni előfizetést, amelyek a választott fizetési módot használják.
 
-3. A jobb oldali ablaktáblában válassza **a Fizetési mód cseréje az összes tételhez lehetőséget.**
+3. A jobb oldali ablaktáblában válassza a **Fizetési mód cseréje az összes tételnél** lehetőséget.
 
-4. Ha meglévő fizetési módot használ, válasszon egyet a legördülő listából, majd válassza a Csere **lehetőséget.**
+4. Meglévő fizetési mód használatához válasszon egyet a legördülő listából, majd válassza a **Csere** lehetőséget.
 
     > [!NOTE]
-    > Ha számlázási profilhoz előfizetések vannak társítva, csak hitelkártyával vagy bankkártyával fizethet számukra. Ha a Fizetési módok  lapon bankszámla van felsorolva, azok nem választhatók ki a legördülő listából.
+    > Ha számlázási profillal társított előfizetései vannak, csak hitelkártyával vagy bankkártyával rendezheti fizetheti a szolgáltatásokért. Ha **Fizetési módok** között szereplnek bankszámái, azok nem lesznek elérhetőek a legördülő listában.
 
-5. Új fizetési mód hozzáadásához válassza a **Fizetési mód hozzáadása lehetőséget.**
+5. Új fizetési mód hozzáadásához válassza a **Fizetési mód hozzáadása** lehetőséget.
 
-6. A Fizetési **mód felvétele ablaktáblában** adja meg a fiók adatait, majd válassza a Mentés **lehetőséget.** A bérlői webhelyével azonos országból származó fizetési módot kell használnia.
+6. Az **Fizetési mód hozzáadása** ablaktáblában adja meg a fiók adatait, majd válassza a **Mentés** lehetőséget. A bérlővel azonos országból származó fizetési módot kell használnia.
 
-7. Az új fizetési mód már ki van jelölve a legördülő listában. Válassza a **Csere lehetőséget.**
+7. Az új fizetési mód már ki van választva a legördülő listában. Válassza a **Csere** lehetőséget.
 
-További információ: [Fizetési módok kezelése.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+További információért lásd: [Fizetési módok kezelése](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Számlázási gyakoriság**
 
 A számlák létrehozása havonta vagy évente történik a fizetéskor kiválasztott számlázási gyakoriságtól függően.  
 
-**Megjegyzés:** Az éves számlázással rendelkező rendelések a időszak közepén kaphatnak számlát, ha módosításokat tettek, például licencek hozzáadását vagy eltávolítását. [A számlázási gyakoriság módosítása.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Megjegyzés:** Az éves számlázással rendelkező rendelések a időszak közepén kaphatnak számlát, ha módosításokat tettek, például licencek hozzáadását vagy eltávolítását. [A számlázási gyakoriság módosítása.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

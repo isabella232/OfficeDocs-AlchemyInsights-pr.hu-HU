@@ -3,36 +3,39 @@ title: Fizetési mód módosítása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 185de725abca43ca5ff378adb5bae95c1b6030c8
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601141"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685304"
 ---
 # <a name="change-payment-method"></a>Fizetési mód módosítása
 
-A fizetési módot a **Microsoft 365 Felügyeleti központban módosíthatja.**
+A fizetési módot a Következő **Microsoft 365 Felügyeleti központ.**
   
-1. A Felügyeleti központban válassza a Számlázási számlák és  >  **& Fizetési** módok  >  [lapot.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
-2. Jelölje ki a lecserélni kívánt fizetési mód sorát. A jobb oldali panel felsorolja az összes számlázási profilt és egyéni előfizetést, amelyek a kiválasztott fizetési módot használják.
-3. A jobb oldali ablaktáblában válassza a **Fizetési mód cseréje lehetőséget az összes tételhez.**
-4. Ha meglévő fizetési módot használ, válasszon egyet a legördülő listából, majd válassza a **Csere lehetőséget.**
+1. A Felügyeleti központban menjen a **Számlázás** > **Számlázás és fizetés** > [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra.
+2. Jelölje ki a lecserélni kívánt fizetési mód sorát! A jobb oldali ablaktáblában láthatja az összes számlázási profilt és egyéni előfizetést, amelyek a választott fizetési módot használják.
+3. A jobb oldali ablaktáblában válassza a **Fizetési mód cseréje az összes tételnél** lehetőséget.
+4. Meglévő fizetési mód használatához válasszon egyet a legördülő listából, majd válassza a **Csere** lehetőséget.
     > [!NOTE]
-    > Ha számlázási profilhoz előfizetése van, csak hitelkártyával vagy bankkártyával fizethet értük. Ha a Fizetési módok  lapon a bankszámlák szerepelnek, azok nem választhatók ki a legördülő listában.
-5. Új fizetési mód hozzáadásához válassza a **Fizetési mód hozzáadása lehetőséget.**
-6. A Fizetési **mód hozzáadása ablaktáblában** adja meg a fiók adatait, majd válassza a **Mentés gombot.** A bérlői webhelyével azonos országból származó fizetési módot kell használnia.
-7. Az új fizetési mód már ki van jelölve a legördülő listában. Válassza **a Csere gombot.**
+    > Ha számlázási profillal társított előfizetései vannak, csak hitelkártyával vagy bankkártyával rendezheti fizetheti a szolgáltatásokért. Ha **Fizetési módok** között szereplnek bankszámái, azok nem lesznek elérhetőek a legördülő listában.
+5. Új fizetési mód hozzáadásához válassza a **Fizetési mód hozzáadása** lehetőséget.
+6. Az **Fizetési mód hozzáadása** ablaktáblában adja meg a fiók adatait, majd válassza a **Mentés** lehetőséget. A bérlővel azonos országból származó fizetési módot kell használnia.
+7. Az új fizetési mód már ki van választva a legördülő listában. Válassza a **Csere** lehetőséget.
 
-A fizetési módok hozzáadásáról, frissítésről, cseréjéről és törléséről a Fizetési módok kezelése [csoportban olvashat.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+A fizetési módok hozzáadásáról, frissítésről, cseréjéről és törléséről további információt a Fizetési [módok kezelése csoportban olvashat.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-A fizetési módok közötti váltásról az Előfizetés kifizetése útmutatóban [olvashat.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+A fizetési módok közötti váltásról további információt az [Előfizetés kifizetése a fizetési módok között .](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
