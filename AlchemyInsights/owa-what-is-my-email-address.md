@@ -1,5 +1,5 @@
 ---
-title: Mi az e-mail-cím a webes Outlookban
+title: Mi az e-mail címem a Webes Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 235e84dc70aff078aa5413dd3e1ef38c86e17d60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38480c8baf9ba6f4d538c0bc3dec19035e62931544c5444699dab908f64d7f0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999710"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Mi az e-mail-címem a webes Outlookban?
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Mi az e-mail címem a Webes Outlook?
 
-A munkahelyi vagy iskolai e-mail-címét Önnek kell kiosztania. Úgy néz ki, mint a ellen@contoso.onmicrosoft.com, a ellen@contoso.edu vagy a ellen@contoso.com. Ez a munkahelyi vagy iskolai fiók a Microsoft 365 munkahelyi vagy iskolai verzióba való bejelentkezéshez használt e-mail-cím és fiók.
+Az e-mail-címét a munkahelye vagy az iskolája rendeli Hozzá. Úgy tűnik, ellen@contoso.onmicrosoft.com, ellen@contoso.edu vagy ellen@contoso.com. Ez a munkahelyi vagy iskolai fiók az az e-mail-cím és fiók, Microsoft 365 munkahelyi vagy iskolai fiókba való bejelentkezéshez.
 
-A munkahelyi vagy az iskolai fiókja nem egyezik meg a Microsoft-fiókkal. Microsoft-fiókját használhatja személyes szolgáltatásokhoz, például Outlook.com, Xbox Live-hoz, Skype-hoz stb.
+Munkahelyi vagy iskolai fiókja eltér a Microsoft-fiókjától. Microsoft-fiókját személyes szolgáltatásokhoz (például Outlook.com, Xbox Live, Skype stb.) használhatja.
 
-További információt a [Mi a felhasználói azonosító, és miért van rá szükségem a Microsoft 365 vállalati](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4) verzióra? című témakörben talál.
+További információt a Mi az a felhasználói azonosítóm, és miért van rá szükségem a [vállalati Microsoft 365?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)

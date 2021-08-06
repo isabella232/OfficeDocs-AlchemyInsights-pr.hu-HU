@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aff548db493087e16629e81f5da9990a00c53e510bc5f92743dee393956d9c1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036566"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Nem a megfelelő alkalmazásban megnyitott vagy nem megnyitott Word-dokumentum
 
@@ -31,19 +31,19 @@ Próbálkozzon az alábbi javaslatokkal:
 
 1. A **Programok és szolgáltatások > Vezérlőpult > megnyitása**
 
-2. Jelölje ki a kijavítani kívánt Office-terméket, és válassza a Módosítás **gombot.**
+2. Jelölje ki Office kijavítani kívánt terméket, és válassza a Módosítás **gombot.**
 
 3. Válassza a **Gyors helyreállítás,** majd a Javítás **lehetőséget.**
 
-**A nem használt Office-verziók eltávolítása**
+**A nem használt Office verziók eltávolítása**
 
-1. Válassza **a Vezérlőpult > Program** eltávolítása lehetőséget, és válassza ki az Office eltávolítani kívánt verzióját.
+1. Válassza **a Vezérlőpult > Program** eltávolítása lehetőséget, majd válassza ki az eltávolítani Office verzióját.
 
 2. Kattintson **az Eltávolítás gombra.**
 
 3. Indítsa újra a számítógépet.
 
-**A hibaelhárító futtatásával beállíthatja, hogy az Office-fájlkiterjesztések megnyílnak az Office-ban**
+**Ezzel a hibaelhárítóval beállíthatja, hogy Office fájlkiterjesztések a Office**
 
 1. Futtassa a következő hibaelhárítót: https://aka.ms/diag_officefile .
 

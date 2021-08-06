@@ -1,5 +1,5 @@
 ---
-title: Bejelentkezés letiltása minden felhasználó számára
+title: Bejelentkezés blokkolása az összes felhasználónál
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003536"
 - "6445"
-ms.openlocfilehash: b1596fdf463413a5b6714c48f4097e9552948070
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 90d29fe284e70959e8e2c85e15667269517dc9c3eaf75688bc4750d8767fa2fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019258"
 ---
-# <a name="block-sign-in-for-all-users"></a>Bejelentkezés letiltása minden felhasználó számára
+# <a name="block-sign-in-for-all-users"></a>Bejelentkezés blokkolása az összes felhasználónál
 
-Ha mindenkit le szeretne tiltani az Office-ba való bejelentkezésről, kövesse az alábbi lépéseket:
+Ha mindenkit le akar tiltani a Office, kövesse az alábbi lépéseket:
 
-1. A felügyeleti központban nyissa meg a [ **felhasználók**  >  **aktív felhasználóit**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-2. Az összes felhasználó kijelölése: jelölje be a **megjelenítendő név** melletti jelölőnégyzetet. Ügyeljen arra, hogy törölje a bejelentkezett rendszergazdai fiók jelölőnégyzetét.
-3. Kattintson a **"..."** elemre a **felhasználók exportálása** a  >  **bejelentkezési állapot szerkesztése** elem mellett, majd válassza **a felhasználók letiltása a bejelentkezéskor** lehetőséget. Az új bejelentkezések azonnal le vannak tiltva. Ha egy felhasználó már be van jelentkezve, akkor a felhasználó a 60 percen belül automatikusan kijelentkezik az összes Microsoft-szolgáltatásból.
+1. A felügyeleti központban menjen a Felhasználók aktív [   >  **felhasználók lapra.**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+2. Jelölje ki az összes felhasználót a Megjelenítendő név melletti **pipa ikonra kattintva.** Győződjön meg arról, hogy törli annak a rendszergazdai fióknak a jelölését, amelybe bejelentkezett.
+3. Kattintson **a "..."** gombra a **Felhasználók exportálása** Bejelentkezési állapot szerkesztése  >  mellett, majd válassza a **Felhasználók bejelentkezésének blokkolása lehetőséget.** Az új bejelentkezések azonnal le vannak tiltva. Ha egy felhasználó már bejelentkezett, akkor a rendszer 60 percen belül automatikusan kijelentkeztet minden Microsoft-szolgáltatások szolgáltatásból.

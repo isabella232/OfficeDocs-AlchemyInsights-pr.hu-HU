@@ -1,5 +1,5 @@
 ---
-title: Előfizetés lemondva – régi-ingyenes fiók
+title: Az előfizetés lemondva – Régi – ingyenes fiók
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6847"
-ms.openlocfilehash: 36755f68e45d3a0099c0e378e166bff82362e490
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: e2cedead6e93fa7303e5d54b8d79fda14ae2cb9987a17986c6327ac78189c4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999206"
 ---
-# <a name="subscription-cancelled---legacy---free-account"></a>Előfizetés lemondva – régi-ingyenes fiók
+# <a name="subscription-cancelled---legacy---free-account"></a>Az előfizetés lemondva – Régi – ingyenes fiók
 
-Az előfizetés le van tiltva az Azure-egyenleg lejártakor.
+Előfizetése le van tiltva, mert lejárt az Azure-kredit.
 
-**Az Azure-egyenleg lejárt**
+**Azure-kredit lejárt**
 
-Amikor feliratkozik az Azure ingyenes fiókjára, ingyenes próbaverziós előfizetést kap, amely az Azure-kreditek 30 napig és 12 hónapig ingyenes szolgáltatást nyújt az $200. 30 nap elteltével az Azure letiltotta az előfizetést. Az előfizetése le van tiltva, hogy védve legyen az előfizetéséhez tartozó hitelkártyán és ingyenes szolgáltatáson kívüli használati díjakról. Az Azure Services használatának folytatásához [frissítenie kell az előfizetést](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription). A frissítés után az előfizetése még 12 hónapig is elérhető az ingyenes szolgáltatásokhoz. Csak a szabad szolgáltatásokon és mennyiségeken kívüli felhasználásra kell fizetnie.
+Ha regisztrál egy ingyenes Azure-fiókra, kap egy ingyenes próba-előfizetést, amely 200 USD-s Azure-krediteket biztosít 30 napra és 12 hónapos ingyenes szolgáltatásokra. 30 nap végén az Azure letiltja az előfizetését. Az előfizetés le van tiltva, hogy megvédje az előfizetésében szereplő krediten és ingyenes szolgáltatásokon túli használati díjaktól. Az Azure-szolgáltatások használatának folytatásához frissítenie kell [az előfizetését.](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription) A frissítés után az előfizetése 12 hónapig továbbra is hozzáfér az ingyenes szolgáltatásokhoz. Az ingyenes szolgáltatásokon és mennyiségeken kívül csak az ingyenes szolgáltatásokért és mennyiségekért számítunk fel díjat.
 
-Az előfizetés frissítéséhez végezze el az alábbi lépéseket:
+Az előfizetés frissítéséhez kövesse az alábbi lépéseket:
 
-1. Bejelentkezés az [Azure portálra](https://portal.azure.com/)
-2. **Előfizetések** keresése
-3. Jelölje ki azt az előfizetést, amely az Azure ingyenes fiókkal való regisztrációkor jött létre.
-4. Az előfizetés áttekintése lapon kattintson az **előfizetés frissítése** gombra a parancssorban. Ha nem látható a frissítés előfizetése gomb, kattintson a lap tetején a frissítés feliratra.
-5. Ha nincs fizetési mód a fiókjához, a rendszer megkérdezi, hogy felveszi-e a fiókjába.
-6. Előfordulhat, hogy meg kell adnia egy telefonszámot az identitás ellenőrzéséhez.
+1. Jelentkezzen be az [Azure portálra](https://portal.azure.com/).
+2. Keressen rá az **Előfizetések kifejezésre.**
+3. Válassza ki azt az előfizetést, amely az Ingyenes Azure-fiókra való feliratkozáskor jött létre.
+4. Az előfizetések áttekintésekor kattintson az **Előfizetés frissítése** gombra a parancssávon. Ha nem látja a Frissítési előfizetés gombot, kattintson a frissítési szalagcímre a lap tetején.
+5. Ha nincs fizetési mód a fiókjához, a rendszer kérni fogja, hogy vegyen fel egyet.
+6. Előfordulhat, hogy be kell írnia egy telefonszámot a személyazonossága ellenőrzéséhez.
 7. Írja be az előfizetés nevét.
-8. Kattintson a  **frissítés** gombra.
+8. Kattintson a **Frissítés gombra.**

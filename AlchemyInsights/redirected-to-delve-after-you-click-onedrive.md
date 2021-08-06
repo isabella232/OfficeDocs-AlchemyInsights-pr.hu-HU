@@ -1,5 +1,5 @@
 ---
-title: A OneDrive Vállalati webalkalmazás átirányítja a Delve-et
+title: OneDrive Vállalati verzió Web OneDrive redirects to Delve
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 295dea987cd14ea848d2bf802f57429642d554b9661dc4dbfc805a447b7d0ede
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799991"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922989"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Átirányítva a Delve-be, miután a OneDrive-ra kattintott
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>A hivatkozásra Delve kattintva átirányítja a OneDrive
 
 Tekintse meg részletes [hibaelhárítási útmutatónkat.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-A probléma megoldásához a rendszergazdának meg kell hoznia a felhasználóknak a saját webhelyek létrehozására vonatkozó jogot. Ennek az az oka, hogy a OneDrive Vállalati verzió lap a Saját helyek lapon jön létre.
+A probléma megoldásához a rendszergazdának meg kell hoznia a felhasználóknak a saját webhelyek létrehozására vonatkozó jogot. Ennek az az oka, OneDrive Vállalati verzió lap a Saját helyek lapon jön létre.
 
 A jog megadásához kövesse az alábbi lépéseket:
 
-1. A SharePoint Felügyeleti központban kattintson a **felhasználói profilok elemre.**
+1. A felügyeleti SharePoint kattintson a **felhasználói profilok elemre.**
 
 2. A Személyek **csoportban** kattintson a **Felhasználói engedélyek kezelése elemre.**
 
@@ -35,4 +35,4 @@ A jog megadásához kövesse az alábbi lépéseket:
 
 4. Miután hozzáadta a felhasználót, felhasználókat vagy csoportot, győződjön meg arról, hogy a hozzáadott  felhasználó, felhasználók vagy csoport ki van jelölve, görgessen az Engedélyek szakaszhoz, és jelölje be a Személyes webhely létrehozása **(személyes tárhelyhez,** hírcsatornához és követett tartalomhoz szükséges) melletti jelölőnégyzetet.
 
-5. Kattintson **az OK** gombra, majd a webhely létrehozásához keresse meg a OneDrive lapot.
+5. Kattintson **az OK** gombra, majd a webhely létrehozásához keresse meg OneDrive lapját.

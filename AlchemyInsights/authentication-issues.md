@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976851"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019510"
 ---
 # <a name="authentication-issues"></a>Hitelesítési problémák
 
@@ -75,14 +75,14 @@ A feltételes hozzáféréssel kapcsolatos további információkért lásd:
 - [A feltételes hozzáféréssel kapcsolatos kihívások kezelése az MSAL segítségével](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Fejlesztői útmutató az Azure Active Directory feltételes hozzáféréséhez](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Az Azure Active Directory-hitelesítési tár (ADAL) és az Azure AD Graph API (AAD Graph) támogatásának vége_* _
+***Az Azure Active Directory Authentication Library (ADAL) és az Azure AD Graph API (AAD-hitelesítés) támogatása Graph)***
 
 - 2020. június 30-tól kezdődően nem adunk hozzá új funkciókat az Azure Active Directory-hitelesítési tár (ADAL) és az Azure AD Graph API (AAD Graph) szolgáltatáshoz. A jövőben is biztosítani fogunk technikai támogatási és biztonsági frissítéseket, funkciófrissítéseket azonban nem.
 - 2022. június 30-tól kezdődően véget vetünk az ADAL- és az AAD Graph-támogatásnak, és a továbbiakban nem biztosítunk technikai támogatást és biztonsági frissítéseket.
     - Az ADAL-t már meglévő operációs rendszereken használó appok ezután is működnek, de sem technikai támogatásban, sem biztonsági frissítésben nem részesülnek.
     - Előfordulhat, hogy az AAD Graphot használó appok ezt követően nem kapnak választ az AAD Graph-végponttól.
 
-_ *ADAL Migration**
+**ADAL-áttelepítés**
 
 Javasoljuk, hogy frissítsen a [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview) szolgáltatásra, amely a legújabb funkciókat és biztonsági frissítéseket használja. Ezt azzal kapcsolatban javasoljuk, hogy a Microsoft az alkalmazásait MSAL-re telepíti át a támogatás megszűnésének határidejére. A Microsoft-appok MSAL-be való áttelepítésének célja annak biztosítása, hogy az appok kihasználják az MSAL folyamatos biztonsági és funkciófejlesztéseit.
 

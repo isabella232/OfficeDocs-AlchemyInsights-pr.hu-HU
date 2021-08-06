@@ -1,5 +1,5 @@
 ---
-title: Előfizetés-kezelés – biztonsági és megfelelőségi kérések – Azure Industry megfelelőségi akkreditáció
+title: Előfizetés-kezelés – biztonsági és megfelelőségi kérelmek – Azure-iparági megfelelőség megfelelősége
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998945"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Előfizetés-kezelés – biztonsági és megfelelőségi kérések – Azure Industry megfelelőségi akkreditáció
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Előfizetés-kezelés – biztonsági és megfelelőségi kérelmek – Azure-iparági megfelelőség megfelelősége
 
-A probléma leírása alapján megtalálunk egy megoldást. A legtöbb ügyfél saját maga oldhatja fel a problémát a dokumentációt követően.
+A probléma leírása alapján megoldást találtunk az Ön számára. A legtöbb ügyfél a dokumentációt követően egyedül megoldotta a problémát.
 
-- **Házirend**: a Microsoft megfelelőségi dokumentumaival kapcsolatos esetleges kérdésekért lásd az [Azure Trust Center megfelelősége](https://docs.microsoft.com/compliance/regulatory/offering-SOC)című témakört.
+- **Házirend:** A Microsoft Compliance-dokumentummal kapcsolatos kérdéseit az [Azure Adatvédelmi központ megfelelősége oldalon láthatja.](https://docs.microsoft.com/compliance/regulatory/offering-SOC)
 
-- **HIPAA és a HITECH Act**: lásd: Windows Azure HIPAA Guide ha ÉRDEKLI a HIPAA és az HITECH Act, a Windows Azure releváns képességeinek megismeréséhez.
+- **A HIPAA és** a HITECH törvény: Ha érdekli a HIPAA és a HITECH törvény, Windows Azure HIPAA-útmutatót is, megértheti az Azure Windows funkcióit.
 
-- **FedRamp tanúsítvány**: a FedRamp-tanúsítványokkal kapcsolatos esetleges információkért lásd a FedRamp piactér című témakört.
+- **FedRamp-tanúsítvány:** A FedRamp minősítéssel kapcsolatos további információkért lásd: FedRamp Piactér.
 
-- **Azure PCI DSS-megfelelőség**: a fizetési kártyával való megfelelőség eléréséhez szükséges Azure-kapcsolódó dokumentumok a "megfelelőség igazolása" és a "felelősségi mátrix", amelyek mindegyike elérhető az Azure Trust Centerben. Ellenőrizze, hogy rendelkezik-e ezekkel a dokumentumokkal. Ha rendelkezik ezekkel a dokumentumokkal, de további igazolásra van szüksége a Microsoft Azure PCI-adatbiztonság megfelelőségéről, olvassa el a [Microsoft és a PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)című témakört.
+- **Azure PCI DSS-megfelelőség:** A fizetésikártya-iparágnak való megfelelőség eléréséhez Azure-ral kapcsolatos dokumentumok a "Megfelelőségi igazolások" és a "Felelősségi mátrix", amelyek mind elérhetők az Azure Trust Centerben. Ellenőrizze, hogy van-e ilyen dokumentuma. Ha ezekkel a dokumentumokkal van, de további bizonyítékra van szüksége Microsoft Azure PCI Data Security Standard Compliance programhoz, tekintse át a Microsoft és [a PCI DSS webhelyet.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
-- **Azure-műveletek/biztonság/megfelelőség**: Ha általános biztonsággal kapcsolatos kérdései vannak az Azure-ról, olvassa el a normál válasz a Microsoft Azure biztonsági, adatvédelmi és megfelelőségi kérelméről, ha megfelelőségi kérdései vannak, kérjük, olvassa el a következő témakört: Microsoft STP-megfelelőség és Service Trust Portal – gyakori kérdések.
+- **Azure-műveletek/biztonság/megfelelőség:** Ha általános, biztonsággal kapcsolatos kérdése van az Azure-ral kapcsolatban, olvassa el a Standard Response to Request for Information Microsoft Azure Security, Privacy and Compliance (Általános válasz információkérésre Microsoft Azure Biztonság, adatvédelem és megfelelőség) című témakört. Ha megfelelőségi kérdései vannak, olvassa el a következő témakört: Microsoft STP – Megfelelőség és szolgáltatás megbízhatósági portál – gyik.
 
-Ha megfelelőséggel kapcsolatos kérdései vannak, tanulmányozza a [Microsoft STP-megfelelőség](https://www.microsoft.com/trust-center/compliance/compliance-overview) és a Service Trust portál – gyakori kérdések című témakört.
+Ha megfelelőségi kérdései vannak, olvassa el a [Microsoft STP – Megfelelőség és](https://www.microsoft.com/trust-center/compliance/compliance-overview) szolgáltatás megbízhatósági portál – gyakori kérdések című témakört.
 
-- A **GDPR megfelelősége**: Ha kérdése van az adatfeldolgozási szerződéssel kapcsolatban, olvassa el az "adatvédelemi feltételek" című szakasz 7., az "online szolgáltatási feltételek" című témakört. Az OST az elsődleges adatfeldolgozási feltételt tartalmazza, de a szokásos kereskedelmi szerződésbe is belefoglalja. Többek között szerződési kötelezettséget nyújt a GDPR kötelezettségeivel kapcsolatban. További tudnivalókat a szerződés végén található GDPR-specifikus kifejezésekről a "melléklet 4" című témakörben talál, az 42-től kezdve. Ezek a szakaszok a Microsoft GDPR kapcsolatos kötelezettségeit adatfeldolgozóként és alprocesszorként is tartalmazzák egy másik adatfeldolgozó számára.
-
-> [!NOTE]
-> Javasoljuk, hogy az Adobe Acrobat Reader alkalmazással nyissa meg a PDF-dokumentumokat, a többi PDF-néző hibájának megfelelően. Azt is javasoljuk, hogy egy böngészőablakban ne nyissa meg a fájlt, hanem a hibát okozó hibát.
-
-- **HDS-megfelelőség**: az Azure most "egészségügyi adatok üzemeltetése", a francia követelményekkel összhangban tanúsított. További információért olvassa el a "Microsoft Azure most tanúsított bizalmas adatok tárolása Franciaországban" jelölőnégyzetet.
-
-- **Penetrációs tesztelés**: a teljes "behatolási teszt kérése" folyamat az ügyfél egy önkiszolgáló folyamat a "legfelgyülemlettebb" kifejezésre.
-
-A behatolási tesztekről további információt az [elterjedtségi vizsgálat](https://docs.microsoft.com/azure/security/fundamentals/pen-testing)című témakörben találhat.
-
-- **Ügyfél értesítései az alfolyamatok módosításaihoz**: Előfordulhat, hogy a Microsoft személyes adatok alfolyamatok listájában szereplő módosítások beérkezéséről értesítő értesítést szeretne bejelentkezni.
+- **GDPR-megfelelőség:** Ha kérdése van az adatkezelési szerződésről, az "Online Szolgáltatások feltételei" 7. oldaltól kezdve az "Adatvédelmi feltételek" oldalon kereshet. Az operációs rendszer tartalmazza az elsődleges adatkezelési feltételeket, de szerepel a normál kereskedelmi szerződésben. Többek között szerződési kötelezettségvállalást biztosít a GDPR-kötelezettségekkel kapcsolatban. Ezenkívül a 42. oldaltól kezdődően a szerződés végén, a 4. mellékletben lásd a GDPR-specifikus feltételeket. Ezek a szakaszok a Microsoft GDPR-re vonatkozó, adatfeldolgozóként és más adatfeldolgozóval szembeni GDPR-kötelezettségeire vonatkoznak.
 
 > [!NOTE]
-> Online szolgáltatások: az ügyfél és a személyes adatlista értesítése teljes mértékben automatizált. További információt a Microsoft adatvédelmi források című témakörben találhat.
+> Erősen javasoljuk, hogy az Adobe Acrobat Reader használatával nyissa meg a PDF-dokumentumokat, mivel a többi PDF-megtekintővel kapcsolatos problémákat jeleztük. Azt is javasoljuk, hogy töltse le a fájlt helyben, ne böngészőablakban, mert az hibákat okozhat.
+
+- **HDS-megfelelőség:** Az Azure mostantól "Health Data Hosting" minősítéssel rendelkezik, a francia követelményeknek megfelelően. További információt "A Microsoft Azure rendelkezik bizalmas egészségügyi adatok franciaországi szolgáltatói minősítéssel".
+
+- **Tesztelés tesztelése:** A "Tesztelési teszt beküldése" folyamat egy önkiszolgáló folyamat a "pentest" tesztnél.
+
+A teszteléssel kapcsolatos további részletekért lásd: [Tesztelési teszt tesztelése.](https://docs.microsoft.com/azure/security/fundamentals/pen-testing)
+
+- **Ügyfélértesítések** a részfolyamat változásaihoz: Dönthet úgy, hogy értesítést kap a Microsoft Személyes adatok részfolyamatok listájának változásairól.
+
+> [!NOTE]
+> Az Online Szolgáltatások Ügyféladatok és a Személyes adatok listája értesítés teljesen automatizált. További információ: A Microsoft adatvédelmi forrásai.
 
 **Ajánlott dokumentumok**
 
-- [Beállítások exportálása vagy törlése az Azure portálon](https://docs.microsoft.com/azure/azure-portal/set-preferences)
-- [Tevékenységekről szóló jelentések keresése az Azure portálon](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- [Azure Active Directory – kockázati események](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Veszélyeztetett felhasználók](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Beállítások exportálása vagy törlése az Azure Portalon](https://docs.microsoft.com/azure/azure-portal/set-preferences)
+- [Tevékenységjelentések megkeresése az Azure Portalon](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
+- [Azure Active Directory események](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [A kockázatnak kitéve](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 - [Kockázatos bejelentkezések](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Mik az Azure Active Directory-jelentések?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
-- [A Microsoft és a HIPAA és a HITECH Act](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [US Department of Defense (DoD) ideiglenes engedélyezési dokumentáció az IL4-on](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- [Mik azok Azure Active Directory jelentések?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [A Microsoft és a HIPAA, valamint a HITECH törvény](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
+- [Az EGYESÜLT Egyesült Állam védelmi osztálya (DoD) engedélydokumentációja az IL4-en](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

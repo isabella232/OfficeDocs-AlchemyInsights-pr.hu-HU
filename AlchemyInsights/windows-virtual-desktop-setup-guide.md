@@ -1,5 +1,5 @@
 ---
-title: A Windows Virtual Desktop beállítása
+title: A virtuális Windows beállítása
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036638"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>A Windows Virtual Desktop beállítása
+# <a name="set-up-windows-virtual-desktop"></a>A virtuális Windows beállítása
 
-A Windows Virtual Desktop a felhőben futó teljes asztali és app virtualizációs szolgáltatás. Ez az egyetlen olyan virtuális asztali infrastruktúra (VDI), amely egyszerűsített felügyeletet, többfázisú Windows 10-es verziót, Microsoft 365-alkalmazások optimalizálását, valamint a távoli asztali szolgáltatások (RDS) környezetének támogatását biztosítja. A Windows-asztalokat és-alkalmazásokat az Azure percekben telepítheti és átméretezheti, és beépített biztonsági és megfelelőségi funkciókat kaphat.
+Windows A Virtual Desktop egy átfogó, felhőben futó asztali és app virtualizációs szolgáltatás. Ez az egyetlen virtuális asztali infrastruktúra, amely egyszerűsített felügyeleti, több munkamenetes Windows 10-t, az Microsoft 365-alkalmazások-optimalizálásokat és a távoli asztali szolgáltatások (RDS) környezetek támogatását biztosítja. A beépített biztonsági és megfelelőségi funkciókat Windows percek alatt üzembe helyezheti és átméretesheti az asztali számítógépeket és alkalmazásokat az Azure-ba.
 
-A [Windows virtuális asztal beállítási útmutatója](https://go.microsoft.com/fwlink/?linkid=2146236) biztosítja a rendszergazdáknak a tervezést és a telepítést, a telepítési útmutatást és a további erőforrásokat.
+A [Windows virtuális](https://go.microsoft.com/fwlink/?linkid=2146236) asztal beállítási útmutatója tervezési erőforrásokat, valamint a telepítés előfeltételeit, telepítési útmutatást és további erőforrásokat biztosít a rendszergazdáknak.

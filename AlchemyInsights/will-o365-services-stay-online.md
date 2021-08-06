@@ -1,5 +1,5 @@
 ---
-title: Az Office 365 szolgáltatásai online maradnak?
+title: Az Office 365 online állapotban marad?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678685"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036854"
 ---
-# <a name="will-office-365-services-stay-online"></a>Az Office 365 szolgáltatásai online maradnak?
+# <a name="will-office-365-services-stay-online"></a>Az Office 365 online állapotban marad?
 
-Igen. Ezeket a szolgáltatásokat a rugalmasság szem előtt tartásával fejlesztettük ki. A szolgáltatások mindegyike egyszerre több példányt futtat, így még ha egy példányban problémák merülnek fel, az ügyfeleinket nem érinti. Az egyes szolgáltatások is megtalálhatók, így ha a probléma egy szolgáltatással jön létre, akkor nem fog átterjedni a többire. Végül minden szolgáltatás kódjába be vannak építve a biztonsági óvintézkedések, amelyek megakadályozhatják a szolgáltatáson keresztüli lépcsőzetes problémák megoldását.
+Igen. Ezeket a szolgáltatásokat a rugalmasság szem előtt tartva fejlesztettük. Minden egyes szolgáltatás egyszerre több példányt futtat, így még ha egy példányban problémák is vannak, az ügyfeleket ez nem érinti. Minden egyes szolgáltatást is tartalmaz, így ha egy szolgáltatással probléma áll elő, az nem terjed ki a többi szolgáltatásra. Végül az egyes szolgáltatások kódjaiba biztonsági rendszereket ágyazottunk be, hogy megelőzzük a problémák kaszkádolt kaszkádolását a szolgáltatásban.
 
-Ha többet szeretne tudni a szolgáltatásaink folyamatos megőrzésére irányuló erőfeszítéseiről, olvassa el a [vállalati üzletmenet folytonossági kezelése (EBCM) felhőalapú szolgáltatásokkal](https://go.microsoft.com/fwlink/?linkid=2124377)című témakört.
+Ha további információra van szükség arra, hogy szolgáltatásaink stabilak maradjanak, olvassa el a Vállalati üzletmenet-folytonosságkezelés [(EBCM) felhőalapú szolgáltatásokkal való biztosítása érdekében tett erőfeszítéseit.](https://go.microsoft.com/fwlink/?linkid=2124377)
 
-Nagyra értékeljük a visszajelzését, ezért kérjük /  , a megjelenő kérdésnél válassza az igen, majd a tapasztalat értékelése lehetőséget.
+Nagyra értékeljük visszajelzését, ezért a megjelenő kérdésnél válassza az **Igen** Nem lehetőséget, majd értékelje /  tapasztalatait.

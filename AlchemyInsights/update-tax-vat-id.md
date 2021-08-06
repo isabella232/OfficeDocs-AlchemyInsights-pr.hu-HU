@@ -1,5 +1,5 @@
 ---
-title: ÁFA/ÁFA-azonosító frissítése
+title: Adó-/áfaazonosító frissítése
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7323"
-ms.openlocfilehash: 086b91c3247214d33e9b71b53ea6ba4d001936e3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 378ad1434f80d31c9649cecee363a448fb6dc342d36dc06123a59bacfd9d73f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908460"
 ---
-# <a name="update-taxvat-id"></a>ÁFA/ÁFA-azonosító frissítése
+# <a name="update-taxvat-id"></a>Adó-/áfaazonosító frissítése
 
-Ha az adó-vagy hozzáadottértékadó-AZONOSÍTÓval kapcsolatos problémák merülnek fel, forduljon a Microsoft licencelési partneréhez (partner vagy szoftver tanácsadó). Ezek a partnerek a regionális műveleti központtal (ROC) kapcsolatos kérdések ADÓJÁval/HÉA-AZONOSÍTÓval kapcsolatos kérdéseire. 
+Ha adóazonosítójával vagy áfaazonosítójával kapcsolatban bármilyen probléma lép fel, lépjen kapcsolatba a Microsoft licencprogram-partnerével (partnerével vagy szoftvertanácsadójával). A regionális operations centerhoz (ROC) lépnek kapcsolatba az Adó-/áfaazonosítóval kapcsolatos kérdésekért. 

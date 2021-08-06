@@ -1,5 +1,5 @@
 ---
-title: Előfizetés lemondva – Legacy-javasolt lépések
+title: Az előfizetés lemondva – régi – ajánlott lépések
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564802"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999062"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Előfizetés lemondva – Legacy-javasolt lépések
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Az előfizetés lemondva – régi – ajánlott lépések
 
-A rekord azt jelzi, hogy az előfizetést egy tulajdonosi jogosultsággal rendelkező felhasználó érvénytelenítette. Az előfizetés újraaktiválásához keresse meg az alábbi lépéseket.
+Nyilvántartásunk szerint az előfizetést egy tulajdonosi jogokkal felmondott felhasználó törölte. Az előfizetés újraaktiválhatja az alábbi lépéseket.
 
-A [fiók rendszergazdája](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) újraaktiválhatja a lemondott fizetési mód előfizetését a fiók központjában.
+A [fiók rendszergazdája](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) újraaktiválhatja a lemondott "Go-ként" előfizetést az Fiókközpontban.
 
-1. Bejelentkezés a [fiók központba](https://account.azure.com/Subscriptions)
-2. Jelölje ki a lemondott előfizetést, és kattintson az **újraaktiválás** gombra.
+1. Jelentkezzen be a [Fiókközpontba.](https://account.azure.com/Subscriptions)
+2. Jelölje ki a lemondott előfizetést, és kattintson az **Újraaktiválás gombra.**
 
-Egyéb előfizetési típusok esetén [forduljon az ügyfélszolgálathoz](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) , és kérje újra az előfizetést.
+Más előfizetési típusok esetén lépjen [kapcsolatba az ügyfélszolgálattal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) az előfizetés újraaktiválásához.

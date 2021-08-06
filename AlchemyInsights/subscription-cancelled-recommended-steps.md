@@ -1,5 +1,5 @@
 ---
-title: Előfizetés lemondva – régebbi – kiadási korlát
+title: Az előfizetés lemondva – Régi kiadások korlátja
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6848"
-ms.openlocfilehash: da4f7456359b04619a505d3c9fd378387c255a24
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 31480f84c8eed63163b1436246eaf1812f15f6d7c2dad29653b2019f8a15f1af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999026"
 ---
-# <a name="subscription-cancelled---legacy---spending-limit"></a>Előfizetés lemondva – régebbi – kiadási korlát
+# <a name="subscription-cancelled---legacy---spending-limit"></a>Az előfizetés lemondva – Régi kiadások korlátja
 
-A rekordok azt jelzik, hogy az előfizetésben meghatározott kiadási korlát van, és a felhasználás túllépte a kiadási korlátot. Így az előfizetése le van tiltva.
+Nyilvántartásunk szerint az előfizetéshez egy költségkeret van beállítva, és a használat túllépte a korlátot. Így az előfizetés le van tiltva.
 
-**Elérte az előfizetéshez tartozó kiadási korlátot**
+**Elérte az előfizetésre vonatkozó költségkeretet**
 
-A kreditekkel rendelkező Azure-előfizetések esetében korlátozottak a kiadások. Ez azt jelenti, hogy a benne lévő hitelhez csak a szolgáltatások használhatók. Ha a használat eléri a kiadási korlátot, az Azure letiltja az előfizetést a számlázási időszak hátralévő részében. Az előfizetése le van tiltva, hogy védve legyen az előfizetéséhez tartozó hitelen kívüli használati díjak véletlen használatából. Ha el szeretné távolítani a kiadási korlátot, olvassa el [a kiadási korlát eltávolítása a fiók központjában](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove)című témakört.
+A jóváírással elérhető Azure-előfizetések költségkeretet vonatkoznak rájuk. Ez azt jelenti, hogy a szolgáltatásokat csak a mellékelt krediten át használhatja. Amikor a használat eléri a költségkeretet, az Azure a számlázási időszak hátralévő részére letiltja az előfizetést. Az előfizetés le van tiltva, hogy megvédje az előfizetésében szereplő jóváíráson túli használati díjak véletlen kiírását. A költségkeret eltávolításáról A költségkeret eltávolítása az [Fiókközpontban.](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove)
 
-Kövesse az alábbi lépéseket a kiadások korlátozásának eltávolításához és az előfizetés újraaktiválásához:
+Az alábbi lépéseket követve eltávolíthatja a költségkeretet, és újraaktiválhatja az előfizetését:
 
-1. Bejelentkezés az [Azure Portal](https://portal.azure.com/) -ba fiók-rendszergazdaként.
-2. Keressen a **Cost Management + számlázás** lapra.
-3. Az **előfizetések** listájában válassza ki az ingyenes próbaverziós vagy fiókra szóló előfizetést.
-4. Az előfizetés áttekintése lapon kattintson az Orange-transzparensre a kiadások korlátozásának eltávolításához.
-5. Adja meg, hogy az adott kiadási korlátot véglegesen vagy csak az aktuális számlázási időszakra szeretné-e törölni.
-6. A fizetési mód **kiválasztása** elemre kattintva választhatja ki az előfizetéshez tartozó fizetési módot. Ez lesz az aktív fizetési mód az előfizetéséhez.
+1. Jelentkezzen be az [Azure Portalba](https://portal.azure.com/) fiókkezelőként.
+2. Keresse meg a **Költségkezelés + számlázás** elemet.
+3. A My **subscriptions (Saját előfizetések) listában** válassza ki az ingyenes próbaverziós/fiókos előfizetést.
+4. Az Előfizetések áttekintése menüben kattintson a narancssárga szalagcímre a költségkeret eltávolításához.
+5. Adja meg, hogy a költségkeretet korlátlan ideig vagy csak az aktuális számlázási időszakra szeretné-e eltávolítani.
+6. A **Fizetési mód kiválasztása elemre kattintva** válasszon ki egy fizetési módot az előfizetéséhez. Ez lesz az előfizetése aktív fizetési módja.
 7. Kattintson a **Befejezés** lehetőségre.

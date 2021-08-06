@@ -1,5 +1,5 @@
 ---
-title: Az önszuggesztió gyors szerkesztése
+title: Gyorsszerkesztés automatikus elérés
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "7232"
-ms.openlocfilehash: 7e6781347e96a794c45ae5508282d44c958d3187
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: cdb9541c4f5a23a3c4903d0586e5eca105f473a0ab0aca68a948fdcac2363edd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447348"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923097"
 ---
-# <a name="quick-edit-autosuggest"></a>Az önszuggesztió gyors szerkesztése
+# <a name="quick-edit-autosuggest"></a>Gyorsszerkesztés automatikus elérés
 
-A SharePoint-listákban kétféle módon szerkesztheti az elemeket. A lista nézet egyetlen elemét szerkesztheti, ez az alapértelmezett módszer. Vagy még hatékonyabb lehet, ha több elemet is szerkeszthet a kész szerkesztés nézetben. Az elemek szerkesztéséhez hozzájárulási jogosultsággal vagy magasabb szintű engedélyre van szükség. További információt a [listaelemek szerkesztése a SharePoint Online-ban](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7)című témakörben találhat.
+SharePoint-listaelemet kétféleképpen szerkeszthet. Szerkeszthet egyetlen elemet a listanézetben, ez az alapértelmezett módszer. A nagyobb hatékonyságért pedig szerkeszthet számos elemet is egyszerre a Gyorsszerkesztés nézetben. Az elemek szerkesztéséhez „Közreműködés“ vagy magasabb szintű engedélyre van szükség. További információ: [Listaelemek szerkesztése a SharePoint Online-ban.](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7)

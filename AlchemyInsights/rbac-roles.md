@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7265"
-ms.openlocfilehash: 7c4c9d1a76f395dfb2f831d555199b76c354ca57
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 1faa9f69942d39b8d78c8f3e1316f93b52eeede6408dfabc89d0f7fe38b86fb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923133"
 ---
-# <a name="rbac-rules"></a>RBAC szabályok
+# <a name="rbac-rules"></a>RBAC-szabályok
 
-Ha az engedélyről tájékoztató hibaüzenet jelenik meg: 
+Ha az engedélyre vonatkozó hibaüzenet jelenik meg: 
 
-- **Az objektum-azonosítóval rendelkező ügyfél nem engedélyezte a hatókör feletti műveletet (kód: AuthorizationFailed)**: amikor megkísérel létrehozni egy erőforrást, ellenőrizze, hogy van-e bejelentkezve olyan felhasználóval, akinek van írási engedélye az erőforráshoz a kijelölt hatókörben. Ha például egy erőforráscsoport virtuális számítógépeit szeretné kezelni, akkor a [virtuális gép közreműködői](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) szerepkört kell tartalmaznia az erőforráscsoport (vagy a szülő hatóköre) számára. Az egyes beépített szerepkörök engedélyeinek listáját a [beépített szerepkörök az Azure-források esetében](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support)című témakörben találhatja meg.
-- **Nincs engedélye arra, hogy támogatási kérést hozzon létre**: Ha egy támogatási jegyet próbál létrehozni vagy frissíteni, ellenőrizze, hogy jelenleg be van-e jelentkezve egy olyan felhasználóval, akinek van hozzárendelve a Microsoft. support/supportTickets/írási engedélye (például [támogatási kérelem munkatárs](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor)).
-- **Nem hozhatók létre több szerepkör-hozzárendelés (kód: RoleAssignmentLimitExceeded)**: amikor megpróbál hozzárendelni egy szerepkört, próbálja meg csökkenteni a szerepkör-hozzárendelések számát úgy, hogy a szerepköröket kiosztja a csoportokba. Az Azure támogatja az **2000** szerepkör-hozzárendeléseinek előfizetését.
+- Az objektumazonosítóval rendelkező ügyfélnek nincs engedélye a műveletek elvégzésére hatókör **(kód: AuthorizationFailed) esetén:** amikor erőforrást próbál létrehozni, ellenőrizze, hogy be van-e jelentkezve egy olyan felhasználóval, aki írási engedéllyel rendelkezik a választott hatókörben lévő erőforráshoz. Egy erőforráscsoport virtuális gépeit például az erőforráscsoport [](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) virtuális számítógép-közreműködői szerepkörével (vagy szülőhatókörével) kell felügyelni. Az egyes beépített szerepkörök engedélyeinek listáját Az [Azure-erőforrások](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support)beépített szerepkörei.
+- Nincs engedélye támogatási kérelem létrehozására: ha támogatási jegyet próbál létrehozni vagy frissíteni, ellenőrizze, hogy be van-e jelentkezve egy Olyan felhasználónál, aki microsoft.support/supportTickets/write engedéllyel rendelkezik (például támogatási kérelem közreműködője). [](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor)
+- Nem lehet több szerepkör-hozzárendelést **létrehozni (kód: RoleAssignmentLimitExceeded):** Amikor megpróbál hozzárendelni egy szerepkört, próbáljon meg csökkenteni a szerepkör-hozzárendelések számát úgy, hogy ehelyett szerepköröket rendel a csoportokhoz. Az Azure előfizetésenként **legfeljebb 2000** szerepkör-hozzárendelést támogat.
 
-Az Azure RBAC szerepköreiről további információt az [Azure RBAC szerepkörei](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support)című témakörben talál.
+Az Azure RBAC-szerepkörökről további információt Az [Azure RBAC-szerepkörök](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support)szolgáltatásban talál.

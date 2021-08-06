@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: ff8f80b3df4e3809e844195128f4d99cbc4667be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 63ba3afdd8f74b17559484f37e9250587aec9b4a929325d8f82e3c9ad06f1783
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826669"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922543"
 ---
 # <a name="run-windows-memory-diagnostics-in-windows-10"></a>A Windows memóriadiagnosztika futtatása a Windows 10-ben
 
