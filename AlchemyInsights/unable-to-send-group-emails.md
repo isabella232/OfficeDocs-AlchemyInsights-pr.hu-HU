@@ -1,5 +1,5 @@
 ---
-title: az 8000053 nem tud csoportos e-maileket küldeni
+title: 8000053 Nem lehet csoportos e-maileket küldeni
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4be0f4a06100205083834763e39552a1daf008488232fbe681c3ab71e549f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060570"
 ---
 # <a name="unable-to-send-group-emails"></a>Nem lehet csoportos e-maileket küldeni
 
-Ha nem tud e-mailt küldeni a partnerlista vagy a partnercsoport között az Outlook.com-ban, próbálkozzon az alábbiakkal:
+Ha nem tud e-mailt küldeni a Outlook.com webhelyen található partnerlistáknak vagy partnercsoportoknak, próbálkozzon az alábbiakkal:
   
-1. Használja a Outlook.com bétaverzióját. További információért olvassa el [a Outlook.com bétaverzióját](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Használja Outlook.com bétaverzióját. További információ: [A Outlook.com bétaverziója.](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)
     
-2. Ha továbbra is problémákat tapasztal az e-mailek csoportba írásakor, lépjen a [személyek](https://outlook.live.com/people/)elemre, jelölje ki a partnerlista vagy a csoport jelölőnégyzetet, és válassza az **e-mail küldése**elemet.
+2. Ha továbbra sem tudja elküldeni az e-mailt a [](https://outlook.live.com/people/)csoportjának, válassza a Személyek lehetőséget, jelölje ki a partnerlistát vagy csoportot, és válassza az E-mail **küldése lehetőséget.**
     
  **Megjegyzések:**
   
-1. Ügyeljen arra, hogy az előugró ablakok ne legyenek Letiltva: az e-mailek küldése a partnerek listájáról lapon megnyílik egy új ablak.
+1. Győződjön meg arról, hogy nincsenek blokkolva az előugró ablakok: az e-mailek küldése a partnerlista lapján egy új ablakot nyit meg.
     
-2. E-mailek küldése a partnerlista automatikusan elhelyezi a listát a **címzett** sorba. Ha el szeretné rejteni a partnerlista adatait, kattintson a jobb felső sarokban található **Titkos másolat** gombra, majd másolja és illessze be a partnerlista a **Titkos másolat mezőbe** , és törölje a **címzett** bejegyzését. 
+2. Az E-mail küldése a partnerlistáról automatikusan a CÍMZETT **sorba kerül.** Ha el szeretné rejteni a partnerlista adatait, kattintson a **Titkos** másolat gombra a jobb felső sarokban, másolja és illessze be a partnerlistát a **Titkos** másolat lapra, és törölje a **TO** bejegyzést. 
     
-3. **Titkos másolat**használatakor célszerű mindig a **címzett** sorba bemutatni valamit, például saját "feladó" címről. 
+3. A **Titkos másolat csoport használata** esetén jó ötlet,  ha a CÍMZETT sorban mindig van valami, például a saját "from" címe. 
     
 
