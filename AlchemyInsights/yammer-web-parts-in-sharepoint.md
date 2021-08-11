@@ -1,5 +1,5 @@
 ---
-title: Yammer kijelzők a SharePointban
+title: Yammer kijelzők a SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5475"
 - "9002494"
-ms.openlocfilehash: d8b4043bb2889429a18c477505e7eca662943051
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a252dab703e639c7c11fe6aead1db04aeecfe54bc6d52bcd4a28433aed4701d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664352"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970333"
 ---
-# <a name="yammer-web-parts-in-sharepoint"></a>Yammer kijelzők a SharePointban
+# <a name="yammer-web-parts-in-sharepoint"></a>Yammer kijelzők a SharePoint
 
-A Yammer beszélgetések és a Yammer kiemeli a kijelzők együttműködését a modern és a klasszikus SharePoint-lapokon. További információt a [Yammer beszélgetések](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations)  és a  [Yammer kiemeli](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights)című témakörben találhat.    
+Yammer A Beszélgetések és Yammer kijelzők kiemelik a modern és a klasszikus lapokon SharePoint együttműködést. További információt a Beszélgetések [és Yammer a](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#conversations) Yammer [lapon.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da#highlights)    
 
-A modern Yammer beszélgetések kijelző frissül az új Yammer felülettel, és elérhető a célzott kiadási bérlők számára. A GA-bevezetés elindult. Az új funkciók közé tartozik a beszélgetés (kérdések, szavazások, dicséret) és a legjobb válaszok közvetlen megjelölése a SharePointból. További információt az [új Yammer és gyakori kérdések](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq)című témakörben talál.
+A Yammer Beszélgetések kijelző frissül az új felhasználói Yammer, és elérhető a Célzott megjelenés bérlői webhelyeken. Megkezdődött az GA bevezetés. Az új funkciók közé tartozik a beszélgetés bármilyen bejegyzéssel (Kérdések, Szavazások, Dicséret) és a legjobb válaszok megjelölése közvetlenül a SharePoint. További információt az Új [ügyfélszerződések és Yammer és a GYIK című témakörben talál.](https://docs.microsoft.com/yammer/get-started-with-yammer/newyammer-faq)
 
- A [Yammer kijelző használata a SharePoint Online-ban](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)című témakörből megtudhatja, hogy melyik kijelzőt és konfigurációt használhatja Önnek.  
+ Ha meg tudja érteni, hogy melyik kijelző és konfiguráció a megfelelő Önnek, tekintse meg a Yammer kijelző használata [a SharePoint-ban.](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)  
 
-**Kijelzők használata a SharePoint Serverben**  
+**Kijelzők használata SharePoint kiszolgálóval**  
 
-A kijelzők a modern és a klasszikus lapokon is használhatók a helyszíni környezeteken belül.
+A kijelzők modern és klasszikus lapokon használhatók helyszíni környezetekben.
 
-- A modern lapokról további információt a [Yammer-hírcsatorna felvétele modern lapra a SharePoint Server 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019)című témakörben talál. 
-- A klasszikus lapokról további információt a [Yammer-hírcsatorna felvétele klasszikus lapra a SharePoint-kiszolgálók 2013, 2016 és 2019-ban](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)című témakörben találhat.
+- A modern lapokról további információt a Hírcsatorna felvétele Yammer a [dokumentumban egy modern](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-modern-page-in-sharepoint-server-2019)lapra SharePoint Server 2019. 
+- A klasszikus lapokról további információt a Yammer-hírcsatorna felvétele [a SharePoint Servers 2013, 2016 és 2019](https://docs.microsoft.com/yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site#add-a-yammer-feed-to-a-classic-page-in-sharepoint-servers-2013-2016-and-2019)klasszikus lapjára SharePoint.
 
-**Yammer beágyazása**  
+**Yammer Beágyazás**  
 
-Tesztelje a beágyazási használatot a beágyazási konfiguráció eszközzel. A beágyazás jövőbeli frissítése lehetővé teszi az új Yammer élményét. További információért olvassa el a [Yammer-beágyazási konfigurációs eszköz](https://aka.ms/YammerEmbedConfigureTool)című témakört. A Yammer beágyazási összetevőjének jobb megismeréséhez olvassa el a [hírcsatorna beágyazása](https://aka.ms/YammerDevDocs)című témakört.
+A Beágyazás konfigurálása eszközzel tesztelje a beágyazás használatát. A Beágyazás későbbi frissítése lehetővé teszi az új Yammer funkciókat. További információt a Konfiguráció beágyazása [Yammer eszközben.](https://aka.ms/YammerEmbedConfigureTool) A Tartalombe ágyazás Yammer összetevőt a Beágyazási [adatcsatorna (Embed Feed) résznél tudja jobban megérteni.](https://aka.ms/YammerDevDocs)
 
 **Ismert problémák és korlátozások**
 
-- A csoport azonosítói nem érhetők el az új Yammer URL-címei közül, amelyek megváltoztak. Térjen vissza a klasszikus üzemmódba, ha csoport-vagy egyéb azonosítókat szeretne beolvasni az URL-címekről.
-- Az egyéni (hiúságos) tartományok használata nem támogatott.
-- A Yammer beágyazás nem optimalizált a mobilhoz. Használja a modern oldalakat a Yammer beszélgetések kijelzővel a legjobb élményért.
-- Az egyéni témák befolyásolhatják a Yammer beszélgetések kijelző megjelenését és használhatóságát. Nyisson meg egy támogatási ügyet a problémák bejelentéséhez.
+- A csoport-url-ek nem érhetők el az Yammer url-címekről, amelyek módosultak. A klasszikus módra váltva csoportos vagy más adatokat szerezhet be URL-címekről.
+- Az egyéni (vanity) tartományok nem támogatottak.
+- Yammer A beágyazás nincs mobilra optimalizálva. A legjobb élmény érdekében modern lapokat Yammer Beszélgetések kijelzővel.
+- Az egyéni témák hatással lehetnek a Beszélgetések Yammer megjelenésére és használhatóságára. Nyisson meg egy támogatási esetet a problémák bejelentéséhez.

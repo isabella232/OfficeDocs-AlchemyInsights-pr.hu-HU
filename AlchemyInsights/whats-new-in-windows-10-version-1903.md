@@ -1,5 +1,5 @@
 ---
-title: Újdonságok a Windows 10 1903-es verziójában
+title: Az 1903-as Windows 10 újdonsága
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970657"
 ---
-# <a name="whats-new-in-windows-10-version-1903"></a>Újdonságok a Windows 10 1903-es verziójában
+# <a name="whats-new-in-windows-10-version-1903"></a>Az 1903-as Windows 10 újdonsága
 
-Az alábbiakban felsoroljuk a Windows 10 1903-es verzió, más néven a Windows 10 May 2019 Update (frissítés) új és frissített funkcióit és tartalmát. Ez a frissítés a Windows 10 korábbi, 1809-es verziójának korábbi göngyölt frissítéseiben megtalálható összes funkciót és javítást tartalmazza:
+Íme az 1903-as Windows 10 új és frissített funkciói és Windows 10 2019. májusi frissítése. Ez a frissítés tartalmazza az összes olyan funkciót és javítást is, amely a korábbi kumulatív frissítésekben Windows 10, 1809-es verzió:
 
 1. [Bevezetés](https://go.microsoft.com/fwlink/?linkid=2114296)
-1. [Karbantartási](https://go.microsoft.com/fwlink/?linkid=2114493)
+1. [Karbantartás](https://go.microsoft.com/fwlink/?linkid=2114493)
 1. [Biztonság](https://go.microsoft.com/fwlink/?linkid=2114297)
 1. [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2114298)

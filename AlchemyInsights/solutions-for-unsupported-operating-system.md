@@ -1,5 +1,5 @@
 ---
-title: A "nem támogatott operációs rendszer" megoldások
+title: A "Nem támogatott operációs rendszer" megoldásai
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -13,24 +13,24 @@ ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.custom:
 - "906"
 - "2000023"
-ms.openlocfilehash: dbbe86406cb1b5d2166e9f5a61df6f0803f5172b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a18ae7c7a24183e2b2d9c0768ac8770be5f8e20d8c805caa8a18ab4cd1816423
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738099"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093126"
 ---
-# <a name="solutions-for-unsupported-operating-system"></a>A "nem támogatott operációs rendszer" megoldások
+# <a name="solutions-for-unsupported-operating-system"></a>A "Nem támogatott operációs rendszer" megoldásai
 
-Amikor megpróbálja telepíteni a Microsoft 365-et, egy nem **támogatott operációs rendszerről** tájékoztató hibaüzenet jelenhet meg, ha az eszköz nem felel meg a [rendszerkövetelményeknek](https://products.office.com/office-system-requirements).
+Amikor megpróbálja telepíteni a Microsoft 365, nem támogatott  operációs rendszerről hibaüzenet jelenhet meg, ha az eszköz nem felel meg a [rendszerkövetelményeknek.](https://products.office.com/office-system-requirements)
   
-A Microsoft 365 a következőket igényli:
+Microsoft 365 szükséges:
   
-- PC: Windows 10, Windows 8,1, Windows 8, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 vagy Windows Server 2008 R2
+- PC: Windows 10, Windows 8.1, Windows 8, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 vagy Windows Server 2008 R2
 
     VAGY
 
-- Mac OS X 10,10
+- Mac OS X 10.10
 
-Ha a következő üzenet jelenik meg, miközben az Office-t mobileszközön vagy Chromebookon kísérli meg telepíteni, olvassa el a [Microsoft Office telepítése és futtatása Chromebookon-on](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA)című témakört.
+Ha ez az üzenet akkor jelenik meg, amikor mobileszközre vagy Chromebookra próbálja Office telepíteni az appot, tekintse meg a [Chromebookon](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA)való Microsoft Office és futtatása.
   

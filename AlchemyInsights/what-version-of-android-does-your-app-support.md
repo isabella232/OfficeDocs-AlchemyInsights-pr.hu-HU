@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ad25cd49fb37a34afe4d65106d0f881fb051224ed0a7e2a27a1fd2f52645433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824185"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970729"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Az Android melyik verzióját támogatja az app?
 
@@ -27,13 +27,13 @@ Ha naprakész az Android operációs rendszerén, de továbbra is értesítések
 
 Teendők: 
 
-1. Android-telefonon vagy -táblagépen nyissa meg a Beállítások, **majd** **az Alkalmazások vagy** az Alkalmazások **alkalmazást.**
+1. Android-telefonján vagy -táblagépén nyissa meg a **Gépház,** majd **az Alkalmazások vagy** az Alkalmazások **appot.**
 
 2. A képernyő tetején koppintson az Egyéb **(ez** lehet egy három pontra vagy három függőleges pontra is), majd a **Rendszer megjelenítése ére.** 
 
 3. Görgessen le, és koppintson a **Google Play-szolgáltatások szolgáltatásokat stb.** 
 
-4. Koppintson **a Tárterület,** majd **a Gyorsítótár ürítése ra.** 
+4. Koppintson **Storage,** majd a **Gyorsítótár ürítése ra.** 
 
 5. Koppintson **a Tárhely kezelése,** majd **az Összes adat ürítása ra.** 
 
