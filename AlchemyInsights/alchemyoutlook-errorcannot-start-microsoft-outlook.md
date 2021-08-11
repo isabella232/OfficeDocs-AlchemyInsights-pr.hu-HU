@@ -1,5 +1,5 @@
 ---
-title: Outlook-hiba nem indítható el a Microsoft Outlook
+title: 'Outlook hiba: Nem indítható el a Microsoft Outlook'
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,17 +13,17 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: c542acf753cc684afcbb02c9e11fdf509bd419f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22c3c21d9a361712e84dd75123ded376a81756989ad1d7ec5aa573e0046c04b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933647"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook-hiba: nem indítható el a Microsoft Outlook
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook hiba: A Microsoft-fiók nem indítható Outlook
 
-Ha problémákat tapasztal az Outlook 2016, az Outlook 2013 vagy az Outlook 2010 indításakor, vagy a "nem indítható el a Microsoft Outlookot" nem indítható el. Nem nyitható meg az Outlook ablaka "hibaüzenetek?
+Problémái vannak a Microsoft Outlook 2016, Outlook 2013 vagy Outlook 2010 alkalmazás indítási vagy Outlook. Nem lehet megnyitni Outlook ablak" hibaüzenetet?
   
-Először a [jelen cikkben](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) található hibaelhárítási lépéseket követve megoldhatja az indítási problémákat. 
+Első lépésként használja a [](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) cikkben található hibaelhárítási lépéseket az ilyen indítási problémák megoldásához. 
   
-Futtathatja a [speciális diagnosztikai eszközt](https://aka.ms/SaRA-OutlookAdvDiagnostics) is az érintett számítógépen.
+Az érintett gépen futtathatja az [Advanced Diagnostics](https://aka.ms/SaRA-OutlookAdvDiagnostics) eszközt is.

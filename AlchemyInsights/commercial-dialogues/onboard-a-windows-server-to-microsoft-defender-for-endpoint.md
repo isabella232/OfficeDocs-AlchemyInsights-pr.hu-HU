@@ -1,5 +1,5 @@
 ---
-title: Windows-kiszolgáló beállítása a Microsoft Defenderrel végpontként
+title: Kiszolgáló beállítása Windows Microsoft Defenderrel végponthoz
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 51bcb58f20b9867d2b75db5ee9df1c62e8b66109
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0772f67175053be2cb1e8eacece98fe68776e35800763526e3e6f4fd5375228c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967515"
 ---
-# <a name="onboard-a-windows-server-to-microsoft-defender-for-endpoint"></a>Windows-kiszolgáló beállítása a Microsoft Defenderrel végpontként
+# <a name="onboard-a-windows-server-to-microsoft-defender-for-endpoint"></a>Kiszolgáló beállítása Windows Microsoft Defenderrel végponthoz
 
-Windows Server operációs rendszer esetén a Microsoft Defender az végponthoz speciális funkciókat biztosít a támadások észleléséhez és kivizsgálására. Ezeket a képességeket zökkenőmentesen biztosítjuk a Microsoft Defender biztonsági központ konzolján keresztül.
+A Windows Server operációs rendszer esetén a Microsoft Defender az Végponthoz speciális funkciókat biztosít a támadások észleléséhez és kivizsgálására. Ezek a funkciók zökkenőmentesen biztosítanak a Microsoft Defender biztonsági központ konzolon keresztül.
 
-A Végponthoz való Defender az alábbi Windows Server-verziókat támogatja:
+A Végponthoz való Defender a következő verziójú Windows támogatja:
 
 - Windows Server 2008 R2 SP1
 - Windows Server 2012 R2
 - Windows Server 2016
-- A Windows Server 1803-as vagy újabb verziója
+- Windows Server (TM) version 1803 and later
 - Windows Server 2019 vagy újabb
 - Windows Server 2019 core edition
 
-További információt a [Windows-kiszolgálók onboard to the Microsoft Defender for Endpoint (Végponthoz](https://go.microsoft.com/fwlink/?linkid=2143627)való Microsoft Defender) szolgáltatáshoz történő beállítása .
+További információt az [Onboard Windows a Microsoft Defender for Endpoint szolgáltatáshoz](https://go.microsoft.com/fwlink/?linkid=2143627).

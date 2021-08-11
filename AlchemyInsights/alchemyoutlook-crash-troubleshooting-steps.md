@@ -1,5 +1,5 @@
 ---
-title: Alkímia – az Outlook összeomlik hibaelhárítási lépései
+title: Alchemy – Outlook hibaelhárítási lépések
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933683"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Az Outlook összeomlását okozó hibák elhárításának lépései
 
-Ha az Outlook asztali összeomlási problémái merülnek fel, először kövesse az alábbi három lépést, amelyek a jelen cikkben részletesen olvashatók: az [Outlook összeomlását okozó hibák elhárítása és a válaszadás megszüntetése.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Ha asztali összeomlási problémákat Outlook, kezdje az alábbi három lépéssel, amelyek mindegyikét részletesen felsoroljuk ebben Outlook cikkben: Az összeomlást vagy a válaszadást Outlook hibák [elhárítása.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-1. lépés: a bővítmények lehetséges problémáinak vizsgálata
+1. lépés: A bővítményekkel kapcsolatos lehetséges problémák kivizsgálása.
   
-2. lépés: az Outlook kijavítása és a [támogatási és helyreállítási segéd eszköz](https://aka.ms/SaRA-OutlookWontStart) futtatása az Outlook indítási hibáinak elhárításához az érintett számítógépen.
+2. lépés: A Outlook kijavítása és Támogatási és helyreállítási segéd [eszköz futtatásával](https://aka.ms/SaRA-OutlookWontStart) elháríthatja az Outlook indítási hibáit az érintett gépen.
   
-3. lépés: új Outlook-profil létrehozása vagy az [Outlook-profil eszköz](https://aka.ms/SaRA-OutlookSetupProfile) futtatása az érintett számítógépen.
+3. lépés: Hozzon létre egy Outlook profilt, vagy futtassa a Outlook [profileszközt](https://aka.ms/SaRA-OutlookSetupProfile) az érintett gépen.
   
-Ha a probléma egy frissítés után jelentkezett, és a fenti lépések eredménytelenek, alighanem vissza kell állnia egy előző build használatára. A cikkből megtudhatja, hogy [miként térhet vissza az Office 2016 korábbi verziójához](https://support.microsoft.com/help/2770432).
+Ha a probléma egy frissítés után jelentkezett, és a fenti lépések eredménytelenek, alighanem vissza kell állnia egy előző build használatára. Lásd: Visszatérés az Office [2016](https://support.microsoft.com/help/2770432)Kattintásra korábbi verziójához.
   

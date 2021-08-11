@@ -1,5 +1,5 @@
 ---
-title: A Windows 10 indítási beállításai
+title: Indítási beállítások a Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828154"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909828"
 ---
-# <a name="startup-settings-in-windows-10"></a>A Windows 10 indítási beállításai
+# <a name="startup-settings-in-windows-10"></a>Indítási beállítások a Windows 10
 
 **Annak módosítása, hogy mely alkalmazások futnak automatikusan indításkor**
 
-1. Kattintson a [Beállítások > Alkalmazások > gombra.](ms-settings:startupapps?activationSource=GetHelp)
+1. A [rendszerindításkor Gépház > alkalmazások > meg.](ms-settings:startupapps?activationSource=GetHelp)
 
 2. Győződjön meg arról, hogy az indításkor futtatni kívánt alkalmazások be vannak **kapcsolva.**
 
@@ -33,15 +33,15 @@ ms.locfileid: "51828154"
 
 2. Kattintson a jobb gombbal az appra, kattintson az Egyéb **parancsra,** majd a Fájl **helyének megnyitása parancsra.** Ezzel megnyitja azt a helyet, ahová az alkalmazás parancsikonja mentve van. Ha nincs lehetőség a Fájl helyének megnyitása beállításra, az azt jelenti, hogy az alkalmazás nem tud elindulni.
 
-3. Nyissa meg a fájl helyét, nyomja le a Windows billentyű **+ R** billentyűkombinációt, írja be a **shell:startup** parancsot, majd kattintson az **OK gombra.** Ezzel megnyitja az Indítópult mappát.
+3. Nyissa meg a fájlhelyet, nyomja le a **Windows + R** billentyűkombinációt, írja be a **shell:startup** parancsot, majd kattintson az **OK gombra.** Ezzel megnyitja az Indítópult mappát.
 
 4. Másolja és illessze be az alkalmazás parancsikonját a fájl helyéről az Indítópult mappába.
 
-**Speciális indítási beállítások (beleértve a csökkentett módot, az UEFI-beállításokat és a másik eszközről való indítást)**
+**Speciális indítási beállítások (például Széf mód, UEFI-beállítások és indítás másik eszközről)**
 
 1. Mentse a munkáját, és zárja be a megnyitott dokumentumokat, mivel ezek a lépések újraindítják a számítógépet.
 
-2. Kattintson a [Beállítások > Biztonsági & vagy > elemre.](ms-settings:recovery?activationSource=GetHelp)
+2. A biztonsági [Gépház > biztonsági & frissítése > ugráshoz.](ms-settings:recovery?activationSource=GetHelp)
 
 3. A **Speciális indítás alatt** kattintson az Újraindítás **gombra.** 
 
@@ -49,6 +49,6 @@ ms.locfileid: "51828154"
 
     - Ha egy eszközről, például egy USB-meghajtóról szeretne indulni, kattintson **az Eszköz használata elemre.**
 
-    - Az UEFI-beállítások (MÁS néven A. OKT.) beállításához kattintson az **UEFI** belső vezérlőprogram beállításai > Speciális beállítások > hivatkozásra. 
+    - Az UEFI-beállítások (MÁS néven A. OKT.) beállításához kattintson az UEFI belső vezérlőprogram speciális beállításainak > hibaelhárítása > **elemre, majd Gépház.** 
 
-    - A csökkentett mód beállításához vagy a speciális indítási beállítások módosításához kattintson a Speciális beállítások hibaelhárítása > indítási beállítások > **,** majd kattintson az Újraindítás **gombra.** A rendszer megkérheti, hogy adja meg [a BitLocker helyreállítási kulcsot.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) A számítógép újraindítása után kattintson a használni kívánt indítási beállításra.
+    - Az Széf mód megnyitásához vagy a speciális indítási beállítások módosításához kattintson a Speciális beállítások > hibaelhárítása > **indításkor , Gépház** kattintson az Újraindítás **gombra.** A rendszer megkérheti, hogy adja meg [a BitLocker helyreállítási kulcsot.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) A számítógép újraindítása után kattintson a használni kívánt indítási beállításra.

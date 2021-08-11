@@ -1,5 +1,5 @@
 ---
-title: 1575 – a PowerApps és a Microsoft flow Plan bővítmény
+title: 1575-PowerApps és Microsoft Flow csomagbővítmény
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960441"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>A PowerApps és a Microsoft flow terv bővítménye
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps és Microsoft Flow csomagbővítmény
 
-Ha a **Microsoft-flow** -hoz vagy a **PowerApps** -hoz egy csomaghoz való kiterjesztést kell kérnie, és a bérlői fiók már rendelkezik aktív felhasználókkal az alábbi funkciók közül, nincs szükség támogatási kérésre.
+Ha tervbővítményt kíván igényelni az **Microsoft Flow** vagy a **PowerApps** szolgáltatáshoz, és bérlője már rendelkezik az alábbi szolgáltatások egyikének aktív felhasználóival, nem kell támogatási kérelmet kérnie.
 
-- Egyéni összekötők létrehozása és közzététele a PowerApps-ban és a Microsoft flow-ban
-- A SharePointon és a OneDrive kívül áramló HTTP-egyéni műveletek
-- Helyszíni adatforgalom integrációja a helyszíni adatátjárón keresztül
+- Egyéni összekötők létrehozása és kiadványa a PowerAppsban és Microsoft Flow
+- A külső és külső http Flow műveletek SharePoint és OneDrive
+- Helyszíni adatok integrációja a helyszíni adatátjárón keresztül
 
-Az e funkciók aktív felhasználóit használó ügyfelek automatikus kiterjesztést kapjanak, amíg január 31, 2020 vagy a meglévő Microsoft 365-előfizetési szerződés lejárata, amelyik hosszabb.
+Az e funkciók aktív felhasználóit használó ügyfelek 2020. január 31-ig vagy a meglévő Microsoft 365-előfizetési időszak lejáratáig (amelyik hosszabb) automatikus meghosszabbítást kap.

@@ -1,5 +1,5 @@
 ---
-title: Törölt események naplóinak olvasása
+title: A törölt események naplóinak olvasása
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 9739fb1eb8e4f5adf81cd699c851a51176f0429e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967335"
 ---
-# <a name="read-the-audit-logs-for-deleted-events"></a>Törölt események naplóinak olvasása
+# <a name="read-the-audit-logs-for-deleted-events"></a>A törölt események naplóinak olvasása
 
 Ehhez tegye a következőt:
 
-1. Menjen az [Office 365 Biztonsági & megfelelőségi központba.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. A biztonsági Office 365 [megfelelőségi & meg.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
 1. Válassza **a Keresés**  >  [**naplókeresés lehetőséget.**](https://go.microsoft.com/fwlink/?linkid=2103759)
     > [!NOTE]
-    > Ha egy értesítés arról tájékoztatót lát, hogy be kell kapcsolnia a funkciót, akkor kapcsolja be most. Ha a funkció nincs bekapcsolva, a keresési eredmények nem fogják tudni lekeresni a korábbi dátumok adatait.
-1. Válassza **a Tevékenységek** lehetőséget, majd keresse meg az **Exchange-postaláda-tevékenységeket.** Válassza **a Törölt elemek mappából törölt** üzeneteket és **az Áthelyeztek** üzeneteket a Törölt elemek mappába beállítási lehetőségeket. Amikor végzett, kattintson az ablakon kívülre a Tevékenységek **ablaktábla kis méretűvé állításhoz.**
+    > Ha egy figyelmeztetést lát, amely szerint be kell kapcsolnia a funkciót, nyugodtan bekapcsolhatja most. Ha a funkció nincs bekapcsolva, a keresési eredmények nem tudnak adatokat lekért a korábbi dátumok adataiból.
+1. Válassza **a Tevékenységek** lehetőséget, majd keresse meg Exchange **postaláda-tevékenységeket.** Válassza **a Törölt elemek mappából törölt** üzenetek és az Üzenetek átkerülése **a Törölt elemek** mappába lehetőséget. Amikor végzett, kattintson az ablaktáblán kívülre a Tevékenységek ablaktábla kis **méretűvé állításhoz.**
 1. Adja meg a dátumtartományt, majd a Felhasználók mezőben válassza ki a vizsgálni kívánt felhasználó felhasználónevét.  Egyszerre több felhasználót is kijelölhet.
-1. Válassza a **Keresés lehetőséget.** A tevékenységek az Eredmények **alatt jelennek meg.**
-1. A részletek megtekintéséhez jelöljön ki egy tevékenységet, majd válassza a **További információ lehetőséget.** A Törölt elemek mezőben további információk is megjelennek, például a tárgysor és a törléskor az elem **helye.**
+1. Válassza a **Keresés lehetőséget.** A tevékenységek az Eredmények alatt **jelennek meg.**
+1. A részletek megtekintéséhez jelöljön ki egy tevékenységet, majd válassza a **További információ lehetőséget.** A Törölt elemek mezőben további információk jelennek meg a törölt elemről, például a tárgysorról és az elem törlés utáni **helyéről.**
     > [!NOTE]
-    > A napló funkcióval nem lehet visszaállítani a törölt elemeket. A törölt elemek visszaállításáról a Törölt elemek vagy e-mailek helyreállítása az [Outlook Web Appban című témakörben tájékozódhat.](https://go.microsoft.com/fwlink/?linkid=2103759)
+    > A napló funkcióval nem lehet visszaállítani a törölt elemeket. A törölt elemek visszaállításáról a Törölt elemek vagy e-mailek helyreállítása a [Outlook Web App.](https://go.microsoft.com/fwlink/?linkid=2103759)
 
-További információért olvassa el a Keresés az [Office 365 naplójában](https://go.microsoft.com/fwlink/?linkid=2103944)a gyakori esetek elhárításához.
+További információért olvassa el a Keresés a naplóban Office 365 gyakori esetek [elhárításához témakört.](https://go.microsoft.com/fwlink/?linkid=2103944)

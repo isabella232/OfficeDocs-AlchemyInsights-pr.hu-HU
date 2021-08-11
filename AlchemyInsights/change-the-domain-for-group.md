@@ -1,5 +1,5 @@
 ---
-title: A Microsoft 365-csoport tartományának módosítása
+title: A csoport tartományának Microsoft 365 módosítása
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: eab64b90775c28a84ebd33774ec5bf68303892dd4b2880493a4b236d9d8993d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911769"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916993"
 ---
-# <a name="change-the-domain-for-a-microsoft-365-group"></a>Microsoft 365-csoport tartományának módosítása
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Tartomány módosítása Microsoft 365 csoportban
 
-Ha a létrehozás során módosítani szeretné egy Microsoft 365-csoport tartományát, kövesse a [Microsoft 365-csoportok](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)létrehozásakor használni kívánt tartomány kiválasztása lehetőséget.
+Ha a létrehozás során módosítani szeretné egy Microsoft 365-csoport tartományát, kövesse A csoport létrehozásakor használni kívánt tartomány kiválasztása [Microsoft 365 lépéseket.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
 
-Egy meglévő Microsoft 365-csoport tartományának módosításához rendszergazdaként lépjen a Microsoft 365 Felügyeleti központba, és végezze el az https://admin.microsoft.com alábbi lépéseket:
+Ha rendszergazdaként módosítani szeretne egy meglévő Microsoft 365-csoport tartományát, lépjen a Microsoft 365 Felügyeleti központ központba, és végezze el az alábbi https://admin.microsoft.com lépéseket:
 
-- Choose **Groups** from the left-side menu
-- Keresse meg a módosítani kívánt M365-csoportot, és  válassza  ki, majd az Általános lapon kattintson az E-mail-címek csoport Szerkesztés **gombjára.**
+- Válassza **a Bal** oldali menü Csoportok parancsát
+- Keresse meg a módosítani kívánt M365-csoportot, és  válassza  ki, majd az Általános lap E-mail-címek csoportjában kattintson a **Szerkesztés elemre.**
 - Most már módosíthatja az elsődleges e-mail-cím tartományát, és e-mail-aliasokat is felvehet.
 
 > [!IMPORTANT]
-> A szokásos terjesztési csoportok és levelezési biztonsági csoportok lehetővé teszik kevesebb beállítás kezelését az M365 Felügyeleti központ Csoportok **szakaszában.** Ha több adatot szeretne kezelni, kattintson  a Beállítások fülre az M365 Felügyeleti központban való szerkesztéskor, és válassza a További beállítások kezelése lehetőséget az **Exchange Felügyeleti központban.**
+> A normál terjesztési csoportok és a levelezési biztonsági csoportok lehetővé teszik, hogy kevesebb beállítást kezeljen az M365 Felügyeleti központ Csoportok **szakaszában.** Ha több részletet szeretne kezelni, kattintson a **Gépház** fülre, amikor szerkeszti valamelyiket az M365 Felügyeleti központban, és válassza a További beállítások kezelése lehetőséget Exchange Felügyeleti **központban.**

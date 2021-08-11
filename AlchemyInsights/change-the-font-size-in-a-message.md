@@ -1,5 +1,5 @@
 ---
-title: Az üzenet betűméretének módosítása
+title: Üzenet betűméretének módosítása
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003564"
 - "6664"
-ms.openlocfilehash: 43d14dae440cb7f41624bb4247feb8381cc10a3f
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
+ms.openlocfilehash: 6b3c56e1dab9603e51e8888de69e15fac2c8d5b6662d297aa86eb714978c05e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48364719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916921"
 ---
-# <a name="change-the-font-size-in-a-message"></a>Az üzenet betűméretének módosítása
+# <a name="change-the-font-size-in-a-message"></a>Üzenet betűméretének módosítása
 
 1. Ha már beírta az üzenetet, jelölje ki a szöveget.
-2. Válassza a  **Formátum** ikont az üzenet alatt (az első ikon).
-3. Válassza az üzenet fölötti  **betűméret**  ikont (ez a hetedik ikon).
-4. Válassza ki a kívánt méretet.
+2. Válassza az  **üzenet** alatti Formátum ikont (ez az első ikon).
+3. Válassza  **a Betűméret**  ikont az üzenet fölött (ez a hetedik ikon).
+4. Válasszon egy méretet.

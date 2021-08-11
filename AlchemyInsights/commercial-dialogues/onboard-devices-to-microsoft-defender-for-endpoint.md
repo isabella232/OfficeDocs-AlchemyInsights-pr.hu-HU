@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967479"
 ---
 # <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Eszközök beállítása a Microsoft Defender végponthoz
 
-A Microsoft Defender végponthoz egy központi biztonsági műveleteket biztosít Windows és nem Windows platformon. Segítségével megvédheti szervezete hálózatát, és a Microsoft Defender biztonsági központ használatával áttekintheti a különböző támogatott operációs rendszerekről származó riasztásokat:
+A Microsoft Defender az végponthoz egy központosított biztonsági műveleteket biztosít a Windows és a nem Windows platformokon. A segítségével megvédheti szervezete hálózatát, és a Microsoft Defender biztonsági központ áttekintheti a különböző támogatott operációs rendszerekről származó riasztásokat:
 
-- **Windows 10-es gépek esetén lásd: Windows 10-es** eszközök be- és [telepítőeszközei .](https://go.microsoft.com/fwlink/?linkid=2143460)
-- **Windows-kiszolgálók esetén lásd:** [Onboard servers to the Microsoft Defender for Endpoint service](https://go.microsoft.com/fwlink/?linkid=2143627).
-- Nem **Windows-végpontok** esetén ellenőrizze, hogy a rendszer megfelel-e a [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) vagy [a Linux](https://go.microsoft.com/fwlink/?linkid=2143462)rendszer követelményeinek, majd folytassa a [telepítésvel.](https://go.microsoft.com/fwlink/?linkid=2143628)
+- A **Windows 10 esetén lásd:** Az eszközök be Windows 10 [módszerei.](https://go.microsoft.com/fwlink/?linkid=2143460)
+- A Windows kiszolgálók esetén [lásd: Onboard servers to the Microsoft Defender for Endpoint service](https://go.microsoft.com/fwlink/?linkid=2143627).. 
+- A **nem Windows** esetén ellenőrizze, hogy a rendszer megfelel-e a [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) vagy [a Linux](https://go.microsoft.com/fwlink/?linkid=2143462)rendszer követelményeinek, majd folytassa a [telepítésvel.](https://go.microsoft.com/fwlink/?linkid=2143628)
