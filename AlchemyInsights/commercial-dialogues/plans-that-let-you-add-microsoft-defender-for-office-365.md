@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Defender Office 365-hez való hozzáadását 2010-es csomagokkal
+title: A Microsoft Defender microsoftos verziójának hozzáadását Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 48e6f55c35a1a0af04453c17bb8dfe9cce194b5c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 890f55e87048d62121aaa07db24a518faddfe89db9c7162c593ef240de83f1b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746554"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916129"
 ---
-# <a name="plans-that-let-you-add-microsoft-defender-for-office-365"></a>A Microsoft Defender Office 365-hez való hozzáadását 2010-es csomagokkal
+# <a name="plans-that-let-you-add-microsoft-defender-for-office-365"></a>A Microsoft Defender microsoftos verziójának hozzáadását Office 365
 
-Ha az alábbi csomagok egyikével dolgozik, hozzáadhatja a Microsoft Defendert az Office 365-hez:
+Ha az alábbi csomagok egyikével van, hozzáadhatja a Microsoft Defendert Office 365 hozzá:
 
 - Exchange Online 1. vagy 2. csomag
 - Exchange Online Kioszk
 - Exchange Online Védelmi szolgáltatás
-- Office 365 Vállalati alap verzió vagy Vállalati prémium verzió
-- Office 365 Nagyvállalati E1, E3 vagy F1
-- Office 365 A1 vagy A3
+- Office 365 Vállalati alapverzió vagy üzleti Prémium
+- Office 365 Nagyvállalati verzió E1, E3 vagy F1
+- Office 365 A1 csomag vagy A3

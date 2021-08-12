@@ -1,5 +1,5 @@
 ---
-title: Megoldódott a nyomtatásisor-kezelő hibája
+title: Megoldottuk a nyomtatásisor-kezelővel kapcsolatban problémát.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 73ff86928c043dd41f49d456d30c2fcf7947bd4cb304d0456c634d4fa5808239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801843"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911340"
 ---
-# <a name="print-spooler-issue-is-resolved"></a>Megoldódott a nyomtatásisor-kezelő hibája
+# <a name="print-spooler-issue-is-resolved"></a>Megoldottuk a nyomtatásisor-kezelővel kapcsolatban problémát.
 
-Ha az eszközét a Windows 10  **OS 19041,329-es verzióval**frissítette, lehet, hogy megfigyelte azt a hibát, amely miatt egyes nyomtatók nem nyomtathatók ki. A nyomtatásisor-kezelő hibát okozhat, vagy váratlanul bezárul, amikor megpróbál kinyomtatni, és a kimenet nem érkezik meg az érintett nyomtatóból. Ezt a hibát a 19041,331-es verzió ( **19041.331**-es összeállítás) [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
+Ha az eszközt az Windows 10 **19041.329-es** buildjére frissítettük, előfordulhat, hogy bizonyos nyomtatók nem nyomtatnak.   A nyomtatási várólista hibát okozhat, vagy váratlanul bezárulhat nyomtatás közben, és az érintett nyomtató nem hoz létre kimenetet. Ezt a problémát az operációs rendszer **19041.331-es** és [KB4567523-as buildjában megoldottuk.](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523)  
 
 **Folyamatban lévő vizsgálat**
 
-Előfordulhat, hogy az LSASS-fájl (**Isass.exe**) néhány eszközön sikertelen lesz, és a hibaüzenet "a kritikus rendszerfolyamat, C:\WINDOWS\system32\Isass.exe, sikertelen volt az állapotkód c0000008. A gépet most újra kell indítani.  **A Microsoft a megoldáson dolgoznak, és egy későbbi kiadásban frissítést fog biztosítani.**
+Előfordulhat, hogy a helyi biztonsági alrendszerszolgáltatás (LSASS) fájlja (**Isass.exe**) egyes eszközökön sikertelen lehet a "Kritikus rendszer-folyamat, C:\WINDOWS\system32\Isass.exe, nem sikerült a c0000008 állapotkóddal. A gépet most újra kell indítani".  **A Microsoft dolgozik a megoldáson, és egy közelgő kiadásban frissíteni fog.**
 
-További információért olvassa el a  [Windows 10 2004-es verzió ismert problémái](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc)című témakört.
+További információt a [2004-es Windows 10](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc)ismert problémáiról ad.

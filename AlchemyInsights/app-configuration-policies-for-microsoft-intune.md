@@ -1,5 +1,5 @@
 ---
-title: Alkalmazáskonfigurációs házirendek a Microsoft Intune-ban
+title: Alkalmazáskonfigurációs házirendek Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,20 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc23546a6287300075f0dcbc120e4e09dded2b8e03899e98d8c27ff6c94b737e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821332"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931991"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>Alkalmazáskonfigurációs házirendek a Microsoft Intune-ban
+# <a name="app-configuration-policies-for-microsoft-intune"></a>Alkalmazáskonfigurációs házirendek Microsoft Intune
 
-A Microsoft Intune alkalmazáskonfigurációs házirendek használatával biztosítanak konfigurációs beállításokat az iOS- vagy Android-alkalmazásokhoz. Ezek a konfigurációs beállítások lehetővé teszik az alkalmazások testreszabását. Ne feledje, hogy az operációs rendszer verzióira és a konfigurációs házirendek használatát támogató alkalmazásokra korlátozások vonatkoznak.
+Az appkonfigurációs házirendek Microsoft Intune az iOS- vagy Android-alkalmazások konfigurációs beállításainak beállítására használhatók. Ezek a konfigurációs beállítások lehetővé teszik az alkalmazások testreszabását. Ne feledje, hogy az operációs rendszer verzióira és a konfigurációs házirendek használatát támogató alkalmazásokra korlátozások vonatkoznak.
 
 Kérjük, tekintse át az alábbi dokumentációt a részletekért
 
-[Alkalmazáskonfigurációs házirendek a Microsoft Intune-ban](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+[Alkalmazáskonfigurációs házirendek Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
 
 [Appkonfigurációs házirendek hozzáadása felügyelt iOS-eszközökhöz](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
 
