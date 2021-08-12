@@ -1,5 +1,5 @@
 ---
-title: A OneDrive vállalati verzió tárolási kvótájának módosítása
+title: A OneDrive Vállalati verzió módosítása
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 34dd21f8baa8e186a001d4a1e65beea68700ec04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59e7b484d8783a5ab710e50f7b27d48d852e4bac6ab208355005671621461ce4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968676"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>A felhasználói tárterület alapértelmezett OneDrive módosítása
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>A felhasználók OneDrive alapértelmezett tárterületének módosítása
 
-1. Nyissa meg a [OneDrive felügyeleti központ tárterület lapját](https://admin.onedrive.com/?v=StorageSettings).
+1. Válassza a [Storage felügyeleti központ OneDrive lapját.](https://admin.onedrive.com/?v=StorageSettings)
     
-2. Adja meg az alapértelmezett tárterületet (GB-ban) az **alapértelmezett tárterület** mezőben, majd kattintson a **Mentés**gombra.
+2. Adja meg az alapértelmezett tárterület mennyiségét (GB-ban) az Alapértelmezett **tárterület** mezőben, majd kattintson a Mentés **gombra.**
     
-Ez a tárterület-beállítás minden olyan felhasználó esetében érvényes, akinek nincsenek meghatározott tárterület-korlátozásai. Ha módosítani szeretné bizonyos felhasználók tárterületét, a Microsoft PowerShellt kell használnia. Ebből a témakörből megtudhatja, hogy miként végezheti el a következő témakört: a [felhasználók OneDrive-tárterületének módosítása a PowerShell használatával](https://go.microsoft.com/fwlink/?linkid=866402).
+Ez a tárterület-beállítás azokra a felhasználókra vonatkozik, akiknél nem adott meg tárterületkorlátot. Ha adott felhasználók tárterületét módosítania kell, akkor a Microsoft PowerShellt kell használnia. Erről további információt A felhasználók saját tárterületének módosítása [OneDrive PowerShell használatával.](https://go.microsoft.com/fwlink/?linkid=866402)
   
 

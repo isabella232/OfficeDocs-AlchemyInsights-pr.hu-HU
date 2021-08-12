@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715239"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917713"
 ---
 # <a name="auditing-results-are-blank"></a>A naplózási eredmények üresek
 
- **A klasszikus webhelyekről szóló naplózási jelentések**
+ **Audit reports for classic sites**
   
-SharePoint-webhelycsoport naplózási jelentésének megtekintéséhez a webhelycsoport rendszergazdájának kell lennie. A rendszergazdaként való hozzáadásáról a [webhelycsoport-rendszergazdák felvétele globális vagy SharePoint-rendszergazdaként](https://go.microsoft.com/fwlink/?linkid=869390)című témakörben olvashat. A naplóval végzett használatról a [naplózási jelentések megtekintése](https://go.microsoft.com/fwlink/?linkid=395237)című témakörben olvashat bővebben. 
+Egy adott webhelycsoportra vonatkozó SharePoint megtekintéséhez rendszergazdának kell lennie a webhelycsoportban. Ha rendszergazdaként szeretne felvenni egy webhelycsoportgazdát, tekintse meg a Webhelycsoportgazdák hozzáadása globális vagy [rendszergazdai SharePoint című témakört.](https://go.microsoft.com/fwlink/?linkid=869390) A naplókról további információt a [Naplójelentések megtekintése lapon.](https://go.microsoft.com/fwlink/?linkid=395237) 
   
  **Keresés a naplóban**
   
-Globális rendszergazdának kell lennie ahhoz, hogy a [biztonsági &amp; megfelelőségi központban](https://protection.office.com)a naplóval működjön. A Kezdés előtt kapcsolja be a naplózást. Ezután futtathatja a naplók keresését. 
+A biztonsági megfelelőségi központban naplózható munkához globális [ &amp; rendszergazdának kell lennie.](https://protection.office.com) Mielőtt hozzákezd, kapcsolja be a naplózást. Ezután futtathat egy naplókeresést. 
   
-[Megtudhatja, hogy miként keresheti meg a naplót](https://go.microsoft.com/fwlink/?linkid=708432).
+[További információ a naplóban való keresésről.](https://go.microsoft.com/fwlink/?linkid=708432)
   
 
