@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: e42352ff36b5cf5e8b514cef96f84ef6c19d0240
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a908e7887512e78fdd8fc51e4c973989a742265c07eac1731f4d658231cd29e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943485"
 ---
 # <a name="purchase-visio-subscription"></a>Visio-előfizetés vásárlása
 
-A rendszergazdák a Microsoft 365 Felügyeleti központban vásárolhatják meg a **szervezetük Visio-előfizetését.**
+A rendszergazdák az Visio vásárolhatják meg a szervezetük **Microsoft 365 Felügyeleti központ.**
 
-1. A Számlázási **szolgáltatások vásárlása** lapon megtekintheti a szervezet számára megvásárolható  >  **[](https://go.microsoft.com/fwlink/p/?linkid=868433)** előfizetéseket.
+1. Kattintson a **Számlázás** > **[Szolgáltatások vásárlása](https://go.microsoft.com/fwlink/p/?linkid=868433)** oldalra a szervezete számára megvásárlásra elérhető előfizetések megtekintéséhez.
 
 2. Keresse meg a Visio-csomagokat a „Visio“ szövegre rákeresve.
 

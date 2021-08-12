@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746975"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966579"
 ---
 # <a name="what-happens-to-quarantined-messages"></a>Mi történik a karanténba helyezett üzenetekkel?
 
-Ha úgy dönt, hogy semmit sem csinál, az Office 365 a lejáratkor automatikusan törli az üzenetet. Jegyezze meg az alábbiakat:
+Ha úgy dönt, hogy semmit sem csinál, a program a lejáratkor automatikusan törli Office 365 üzenetet. Jegyezze meg az alábbiakat:
 
 1. Alapértelmezés szerint a levélszemét, a tömeges, a kártevők és az adathalász üzenetek 15 napig karanténba vannak állítva.
 2. Az e-mail-forgalom szabályának megfelelő karanténba helyezett üzeneteket 7 napig karanténba helyezi a rendszer (ezt nem szabhatja testre).
-3. Amikor az Office 365 törli az üzenetet a karanténból, nem tudja azt visszahozni.
+3. Amikor Office 365 egy üzenetet a karanténból, nem tudja azt visszahozni.
 4. Ha szeretné, módosíthatja a karanténba helyezett üzenetek megőrzési időszakát a tartalomszűrő házirendek Levélszemét megőrzése (napokban) beállításával.

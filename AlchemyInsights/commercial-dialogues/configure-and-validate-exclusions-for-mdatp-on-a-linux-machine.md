@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4fad0a513f7c6d2f0337019488a4055c25e1650d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916417"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Kivételek konfigurálása és érvényesítése az MDATP-hez Linux rendszerű gépeken
 
@@ -26,4 +26,4 @@ Az MDATP-be való beolvasásból kizárhat bizonyos fájlokat, mappákat, folyam
 További információ: Kivételek konfigurálása és érvényesítése Linux [MDATP-hez.](https://go.microsoft.com/fwlink/?linkid=2144517)
 
 > [!IMPORTANT]
-> A cikkben ismertetett kivételek nem vonatkoznak a Linux MDATP egyéb funkcióira, beleértve a végpontok észlelését és válaszát (EDR). A cikkben ismertetett módszerekkel kizárt fájlok továbbra is kiválthatják az EDR-riasztásokat és más észlelési funkciókat.
+> A cikkben ismertetett kivételek nem vonatkoznak a Linux MDATP egyéb funkcióira, beleértve a végponti észlelés és reagálás (EDR). A cikkben ismertetett módszerekkel kizárt fájlok továbbra is kiválthatják a EDR észlelési funkciókat.
