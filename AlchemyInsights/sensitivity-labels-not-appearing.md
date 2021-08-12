@@ -1,5 +1,5 @@
 ---
-title: Nem jelennek meg a tartalmi Címkék
+title: Nem jelennek meg a bizalmasság-címkék
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 824824257fee4aaaab1f2dd32597b4cdc858d035fabd357af90cf054dd35c9c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061434"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Nem jelennek meg a tartalmi Címkék
+# <a name="sensitivity-labels-not-appearing"></a>Nem jelennek meg a bizalmasság-címkék
 
-A tartalmi címkék segítségével minősítheti és védheti a bizalmas tartalmakat. Ezek a Microsoft 365 megfelelőségi központban, a Microsoft 365 biztonsági központban vagy a Microsoft 365 biztonsági & megfelelőségi központban hozhatók létre > a tartalmi címkék osztályozása csoportban. A funkcióról a [tartalmi címkék áttekintése](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)című témakörben olvashat bővebben.
+A bizalmas tartalomcímkék segítségével osztályozhatja és megvédheti bizalmas tartalmait. A besorolási és bizalmasségi címkék Microsoft 365 Megfelelőségi központ, Microsoft 365 vagy Microsoft 365 > megfelelőségi központban & osztályban lehet létrehozni őket. A funkcióról további információt A bizalmasság-címkék [áttekintése témakörben talál.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Ha beállította a tartalmi címkéit, de nem jelennek meg a Microsoft 365-alkalmazásokban, ellenőrizze az alábbiakat:
+Ha konfigurálta a bizalmasság-címkéket, de azok nem jelennek meg a Microsoft 365 appokban, ellenőrizze az alábbiakat:
 
-- Erősítse meg, hogy a tartalmi címkét [közzétették](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) a kívánt felhasználók és csoportok számára.
+- Győződjön meg arról, hogy [](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) a bizalmasság címkéje közzé lett tett a kívánt felhasználóknak és csoportoknak.
 
-- Ellenőrizze, hogy a felhasználó egy olyan alkalmazást használ-e, amely támogatja a tartalmi címkéket – lásd: [a dokumentumban lévő tartalmi címkék](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
+- Győződjön meg arról, hogy a felhasználó egy olyan alkalmazást használ, amely támogatja a bizalmasság-címkéket – lásd a bizalmasság-címkéket [a dokumentumban.](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)
 
-- Ha Azure- [adatvédelemi címkéket szeretne áttelepíteni](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), ügyeljen az [itt](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)ismertetett szempontokra.
+- Ha Azure [Information Protection-címkéket](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)áttelepítésekor figyelembe kell vennie az itt felsorolt [szempontokat.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)
 
-- Adatveszteség-megelőzés (DLP) támogatása: jelenleg csak az adatmegőrzési címkék használhatók feltételként a DLP-házirendekben.  Egy DLP-házirendben az érzékenységi címkék támogatása még nem érhető el, de éppen dolgozunk rajta.
+- Adatveszteség-megelőzési (DLP) támogatás: Jelenleg csak az adatmegőrzési címkék használhatók feltételként a DLP-házirendben.  A bizalmasság-megelőzési házirendek támogatása még nem érhető el, de dolgozunk rajta.
 
-- Ha a titkosítás engedélyezve van egy tartalmi címkén, az alábbiakra van lehetősége:
+- Ha a titkosítás engedélyezve van egy bizalmasság-címkén, a következő beállítások közül választhat:
     - Engedélyek hozzárendelése most
-    - Engedélyek hozzárendelése a felhasználókhoz
+    - Engedélyek hozzárendelésének lehetővé teszi a felhasználók számára
 
 
-A lehetséges problémákról további információt az [érzékenységi címkék ismert problémái](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)című témakörben talál.
+A lehetséges problémákról további információt az Ismert [problémák a bizalmasság-címkékkel kapcsolatban.](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)

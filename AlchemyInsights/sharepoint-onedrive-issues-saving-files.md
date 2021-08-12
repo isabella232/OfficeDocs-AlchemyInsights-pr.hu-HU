@@ -1,5 +1,5 @@
 ---
-title: Mappa vagy fájlok feltöltése egy dokumentumtárba
+title: Mappa vagy fájlok feltöltése dokumentumtárba
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 02297639c9fcc16e4e622547ebd3085b1a8f0c15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31688d9a091780cfc7df30ddaf56626015c13d97ba6d6d344cf93b3536c2e0e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670942"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910512"
 ---
-# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>Nem lehet Office-dokumentumokat menteni a SharePointba vagy a OneDrive-dokumentumtárba
+# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>Nem lehet menteni Office dokumentumokat SharePoint vagy OneDrive dokumentumtárakba
 
-Ha problémákat tapasztal az Office-dokumentumok SharePoint-vagy OneDrive való mentésekor, az alábbi információk segíthetnek.
+Ha problémákat tapasztal az Office dokumentumok mentésekor SharePoint vagy OneDrive dokumentumtárakba, az alábbi információk segíthetnek.
 
-[Fájl mentése (másolat)](https://support.office.com/article/save-a-file-in-microsoft-office-a7f0a209-ad22-4212-bb53-6cd8e801a6fb)
+[Fájl mentése (másolás)](https://support.office.com/article/save-a-file-in-microsoft-office-a7f0a209-ad22-4212-bb53-6cd8e801a6fb)
 
-[Mi az automatikus mentés?](https://support.office.com/article/what-is-autosave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+[Mi az az Automatikus Mentés?](https://support.office.com/article/what-is-autosave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 
-[Ellenőrizze a fájl korlátozásait, hogy biztosan támogatott legyen a fájl.](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+[Ellenőrizze a fájlkorlátokat, és győződjön meg arról, hogy a fájl támogatott.](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
 [Az Office dokumentum-gyorsítótárának törlése](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
 
-[Javítás futtatása az Office-ban](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+[Javítás futtatása Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-További információért vagy részletekért olvassa [el a SharePoint-tárakban lévő dokumentumok megnyitásával és mentésével kapcsolatos hibák elhárítása](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536) című cikket.
+További információért vagy részletekért olvassa el A dokumentumok dokumentumtárba való megnyitásakor és mentésekor SharePoint [cikket.](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 
 

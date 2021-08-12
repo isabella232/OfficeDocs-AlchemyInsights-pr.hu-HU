@@ -1,5 +1,5 @@
 ---
-title: A PO-szám frissítése az Azure EA portálon – ajánlott lépések
+title: Rendelésszám frissítése az Azure EA Portal webhelyen – ajánlott lépések
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714817"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007180"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>A PO-szám frissítése az Azure EA portálon – ajánlott lépések
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Rendelésszám frissítése az Azure EA Portal webhelyen – ajánlott lépések
 
-A HÉA/ADÓAZONOSÍTÓ vagy a megrendelés (PO) számának módosítása a következő számlára érvényes lesz. Ha egy már generált számlára szeretné módosítani a VAT/TAX azonosítót vagy a PÓ-számot, nyisson meg egy támogatási jegyet. Ha a hozzáadottérték-ADÓJÁval kapcsolatos problémák merülnek fel, elérheti a Microsoft licencelési partnerét (partner-vagy szoftverfejlesztői tanácsadót). A következő kérdésekkel léphet a regionális műveleti központtal (ROC) kapcsolatban az ÁFA/adó azonosítójával kapcsolatos kérdésekért. 
+Az áfaszám vagy a rendelésszám (PO) módosításai a következő számlán lépnek életbe. Ha egy már létrehozott számlára módosítja az áfa-/adóazonosítót vagy a rendelésszámot, nyisson egy támogatási jegyet. Ha az áfa-/adóazonosítóval kapcsolatban bármilyen probléma ad problémát, akkor a Microsoft licencelési partnerével (partnerével vagy szoftvertanácsadójával) kapcsolatban kell beszélnie. A regionális üzemeltetési központhoz (ROC) lépnek kapcsolatba az Ön áfa- és adóazonosítójával kapcsolatos kérdésekért. 
 
-Az Azure EA portál automatikusan létrehoz egy alapértelmezett PO-számot, kivéve, ha az EA-rendszergazda a számla dátuma előtt beállítja az egyiket. EA-rendszergazdaként (közvetlen regisztráció)/partner rendszergazdája (közvetett regisztráció) a PO-számot az Azure EA portálon frissítheti. A PO-számot bármikor frissítheti az aktuális számlázási időszakra generált számla és az automatikus számla-értesítő e-mailek kézhezvétele után hét napon keresztül.    
+Az Azure EA Portal automatikusan létrehoz egy alapértelmezett rendelésszámot, hacsak az EA-rendszergazda nem állít be egyet a számla dátuma előtt. Ea-rendszergazdaként (közvetlen regisztráció) vagy partner-rendszergazdaként (közvetett regisztráció) frissítheti a rendelésszámot az Azure EA Portalon. A rendelésszámot a számla létrehozása előtt bármikor frissítheti az aktuális számlázási időszakra, illetve legfeljebb hét napra azt követően, hogy megkapta az automatikus számlaértesítési e-mailt.    
 
-A PO-szám frissítése:
+A rendelésszám frissítése:
 
-1. Bejelentkezhet az [EA portálra](https://ea.azure.com/).
-1. A bal oldali ablaktáblában kattintson a **jelentések** elemre.
-1. A lap tetején kattintson a **látogatottság összegzése** elemre, és jelölje be a legördülő listában jelölje ki a megfelelő időszakot.
-1. Kattintson a **Po-számok megtekintése/szerkesztése** elemre.
-1. Adja meg az új PO-számot, majd kattintson a **Mentés** gombra.
+1. Jelentkezzen be az [EA Portalba.](https://ea.azure.com/)
+1. A bal oldali ablaktáblában kattintson a Jelentések **elemre.**
+1. A lap tetején kattintson a Használati összegzés **elemre,** és válassza ki a megfelelő időszakot a legördülő menüből.
+1. Kattintson **a Rendelésszámok megtekintése/szerkesztése elemre.**
+1. Írja be az új rendelésszámot, és kattintson a **Mentés gombra.**
 
 **Ajánlott dokumentumok** 
 
-- [Azure Enterprise-beiratkozási számlák](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Ismerje meg az Azure Enterprise Agreement számláját](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
-- [Az Azure Enterprise szerepköreinek ismertetése](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Másik vállalati rendszergazda létrehozása (EA-rendszergazda)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Azure Nagyvállalati verzió regisztrációs számlái](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
+- [Az Azure-Nagyvállalati Szerződés ének](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Azure Enterprise-szerepkörök](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
+- [Másik vállalati rendszergazda (EA-rendszergazda) létrehozása](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

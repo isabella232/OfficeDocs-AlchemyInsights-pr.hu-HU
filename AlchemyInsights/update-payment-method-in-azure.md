@@ -1,5 +1,5 @@
 ---
-title: A fizetési részletek frissítése az Azure-ban
+title: Fizetési adatok frissítése az Azure-ban
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,23 +12,23 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9003546"
 - "6860"
-ms.openlocfilehash: 6a08916c67e0a14d6781be7c3c6874115a0df3b9
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 6f6898f4cb56e1b1027bab03a4ba9046edfb59864d4f3cfdf8057a18d737f6e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007252"
 ---
-# <a name="update-payment-details-in-azure"></a>A fizetési részletek frissítése az Azure-ban
+# <a name="update-payment-details-in-azure"></a>Fizetési adatok frissítése az Azure-ban
 
-Ha a hitelkártyája megújult, és a szám változatlan marad, frissítse a meglévő hitelkártya adatait, például a lejárati dátumot. Ha a hitelkártyája száma megváltozik, mert a kártya elveszett, ellopták vagy lejárt, kövesse a [hitelkártya felvétele fizetési módként](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) című szakasz lépéseit. Nem kell frissítenie a CVV-t.
+Ha a hitelkártyája megújul, és a szám ugyanaz marad, frissítse a meglévő hitelkártyaadatokat, például a lejárat dátumát. Ha hitelkártyaszáma megváltozik, mert a kártya elveszett, ellopták vagy lejárt, kövesse [a](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#addcard) Hitelkártya hozzáadása fizetési módként című szakasz lépéseit. Nem kell frissítenie a CVV-t.
 
-A hitelkártya módosításához vagy frissítéséhez a fiók rendszergazdájának kell lennie. A hitelkártya/fizetési mód frissítéséhez kövesse az alábbi lépéseket.
+A hitelkártya módosítása vagy frissítése csak fiók-rendszergazdaként lehet elérhető. Kövesse az alábbi lépéseket a hitelkártya/fizetési mód frissítéséhez.
 
-1. Bejelentkezés az [Azure Portal](https://portal.azure.com/) -ba fiók-rendszergazdaként.
-2. Keressen a **Cost Management + számlázás** lapra.
-3. Válassza ki azt az előfizetést, amelyhez hozzá szeretné adni a hitelkártyát.
-4. Válassza a **fizetési módok** lehetőséget.
-5. Jelölje ki a szerkeszteni kívánt hitelkártyát. A jobb oldalon megjelenik egy hitelkártya-űrlap
-6. A hitelkártya adatainak frissítése
+1. Jelentkezzen be az [Azure Portalba](https://portal.azure.com/) fiókkezelőként.
+2. Keresse meg a **Költségkezelés + számlázás** elemet.
+3. Jelölje ki azt az előfizetést, amelybe fel szeretné adni a hitelkártyát.
+4. Válassza **a Fizetési módok lehetőséget.**
+5. Jelölje ki a szerkeszteni kívánt hitelkártyát. A jobb oldalon megjelenik egy hitelkártya
+6. Frissítse a hitelkártya adatait.
 7. Válassza a **Mentés** elemet.

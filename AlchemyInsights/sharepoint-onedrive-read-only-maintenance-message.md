@@ -1,5 +1,5 @@
 ---
-title: A SharePoint vagy a OneDrive használatakor a karbantartási üzenet írásvédett
+title: Read-Only a Maintenance (Karbantartás) üzenettel próbálkozik, amikor megkísérli használni SharePoint vagy OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910548"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>A SharePoint vagy a OneDrive használatakor a karbantartási üzenet írásvédett
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only a Maintenance (Karbantartás) üzenettel próbálkozik, amikor megkísérli használni SharePoint vagy OneDrive
 
-A SharePoint vagy a OneDrive használatakor a felhasználók **csak olvashatóan kapják meg a karbantartási** üzenetet, ha a következő esetek egyikét kísérli meg használni. 
+Amikor megkísérli **használni** a karbantartáshoz szükséges SharePoint vagy OneDrive a következő esetek egyikére, a felhasználók csak olvasható üzenetet kaphatnak. 
 
--   Tervezett vagy aktív karbantartási tevékenység.  Ellenőrizze, hogy az [üzenetközpont](https://portal.office.com/adminportal/home#/messagecenter)segítségével navigáljon.
--   Nagy prioritású, aktív szolgáltatási incidens. Ellenőrizze, hogy van-e valamilyen tanácsadója/incidense a [szolgáltatás állapotának](https://portal.office.com/adminportal/home#/servicehealth)megfelelő navigálásban.
--   Egy kisebb automatikus gyógyulási forgatókönyv, amely a kiszolgálók váratlan eseményei miatt az esetlegesen 30 percnél rövidebbek lehetnek. 
+-   Tervezett vagy aktív karbantartási tevékenység.  Ezeket az Üzenetközpontba [navigálva ellenőrizheti.](https://portal.office.com/adminportal/home#/messagecenter)
+-   Magas prioritású aktív szolgáltatási incidens, amely előfordulhat. Az esetleges tanácsadókat és incidenseket a Szolgáltatás állapota csoportban [ellenőrizheti.](https://portal.office.com/adminportal/home#/servicehealth)
+-   Kisebb automatikus helyreállítási forgatókönyv, amely a kiszolgálókon nem várt események miatt történhet, amelyek 30 percnél rövidebbek lehetnek. 
     
-    Ezek a kisebb visszanyerések esetén nincsenek üzenetközpont vagy szolgáltatás-egészségügyi bejegyzések, de a szokásostól nagyon hamar vissza kell térnie.
+    Ezekhez a kisebb helyreállításhoz nem megjelenik az Üzenetközpont vagy a Szolgáltatás állapota bejegyzés, de hamarosan visszatér a normál állapothoz.
 
-Nagyon néhány esetben azt tapasztaltuk, hogy a fenti három eset egyike az oka, és a szolgáltatás vissza lett állítva, de a felhasználók böngésző-gyorsítótára nem törlődik.
+Nagyon néhány alkalommal azt figyeltünk meg, hogy a fent felsorolt három eset egyike okozhatja ezt, és a szolgáltatás vissza lett mondva, de a felhasználók böngészőjének gyorsítótára nem lett törölve.
 
-A webhelyre való navigálás előtt próbálkozzon a gyorsítótár kiürítésével.
+Mielőtt a webhelyre navigál, próbálja meg kiürítni a böngésző gyorsítótárát.
 
-1. A Microsoft Edge böngészőben válassza a **Beállítások**, majd az **Adatvédelem és biztonság**lehetőséget.
-2. A **böngészés törlése**csoportban válassza ki **a törölni kívánt**elemet.
-3. Jelölje ki a **cookie-k és a mentett webhely adatai**lehetőséget, és válassza a **Törlés**lehetőséget.
-
->[!Note] 
-> Ezek a lépések eltérőek lehetnek más böngészők, például a Mozilla Firefox vagy a Google Chrome használatakor.
+1. A böngészőben Microsoft Edge **válassza** a Gépház , majd az Adatvédelem és biztonság **lehetőséget.**
+2. A **Böngészés üríte alatt** válassza a Törölje a kívánt **adatokat lehetőséget.**
+3. Válassza **a Cookie-k és mentett webhelyadatok**, majd a Törlése **lehetőséget.**
 
 >[!Note] 
-> Egy másik lehetőség az, hogy megnyitja a SharePoint-webhelyet vagy a OneDrive egy új InPrivate-ablakban.
+> Ezek a lépések eltérhetnek más böngészők, például a Mozilla Firefox vagy a Google Chrome használata esetén.
+
+>[!Note] 
+> Másik lehetőségként nyissa meg a SharePoint vagy OneDrive InPrivate-ablakban.

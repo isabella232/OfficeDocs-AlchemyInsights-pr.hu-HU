@@ -1,5 +1,5 @@
 ---
-title: SharePoint-naptár hozzáadása
+title: Naptár SharePoint hozzáadása
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0694d68be73eb7b3cf46b933a3fd263800b82f7657823703b2a6bf175eca6409
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935159"
 ---
-# <a name="add-a-sharepoint-calendar"></a>SharePoint-naptár hozzáadása
+# <a name="add-a-sharepoint-calendar"></a>Naptár SharePoint hozzáadása
 
-A SharePoint-naptárak olyan klasszikus listatípusok, amelyek néha összetévesztendők a Microsoft 365-ös csoportnaptárokkal.
+SharePoint A naptárak olyan klasszikus listatípusok, amelyek néha nem Microsoft 365 a csoportnaptárokkal.
  
-SharePoint-naptár létrehozásához kövesse az alábbi lépéseket:
+Naptár létrehozása SharePoint kövesse az alábbi lépéseket:
  
-1.  Válassza a **Beállítások fogaskerék** ikont, majd az **Alkalmazás hozzáadása lehetőséget.**
+1.  Válassza a **Gépház** fogaskerék ikont, majd válassza az **Alkalmazás hozzáadása lehetőséget.**
 2.  Az Alkalmazás **keresése keresőmezőbe** írja be a Naptár parancsot, **és** nyomja le az Enter billentyűt.
 3.  Válassza a Naptár nevű **alkalmazást,** majd írja be a naptár nevét.
 
-A Microsoft 365-csoportokról további információt a Tudnivalók a [Microsoft 365-csoportokról.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
+A csoportokról további információt Microsoft 365 A csoportok [Microsoft 365.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 
