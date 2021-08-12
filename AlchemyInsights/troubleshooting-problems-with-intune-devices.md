@@ -1,5 +1,5 @@
 ---
-title: A Intune-eszközökkel kapcsolatos problémák elhárítása
+title: Intune-eszközökkel kapcsolatos problémák elhárítása
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003834"
 - "6851"
-ms.openlocfilehash: 80d09a9ccb9f76d35a12e5cc70903aa03ca0819e
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: bd00f075f52227cfc44655b86c99a6668360bcbb840f8261ea777a78c21a2494
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920901"
 ---
-# <a name="troubleshooting-problems-with-intune-devices"></a>A Intune-eszközökkel kapcsolatos problémák elhárítása
+# <a name="troubleshooting-problems-with-intune-devices"></a>Intune-eszközökkel kapcsolatos problémák elhárítása
 
-Ha egy Intune által felügyelt eszköz problémákat tapasztal, először tekintse át az [Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) -dokumentációt, hogy megerősítse az alapvető konfigurációt, és ellenőrizze az eszköz állapotát.
+Ha egy Intune által felügyelt eszköz esetén problémákat tapasztal, először tekintse át az [Eszközök kezelése az Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) dokumentációjában, és erősítse meg az alapkonfigurációt, és ellenőrizze az eszköz állapotát.
 
-Hibák, például a hiányzó vagy késleltetett házirendek, a helytelen házirendek, a váratlan hozzáférés vagy a hozzáférés hiánya okozhatja azt, hogy az eszköz nem fog szinkronizálni a Intune használatával. További információért tekintse át az [eszköz szinkronizálási](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) dokumentációját.
+A hiányzó vagy késleltetett házirendeket, helytelen házirendeket, váratlan hozzáférést vagy a hozzáférés hiányát az okozza, hogy az eszköz nincs szinkronban az Intune-nal. További információt [az Eszközszinkronizálás](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) dokumentációjában talál.
 
-Az eszközök beadásával, a házirend-szinkronizálással és az eszközök konfigurációjával kapcsolatos gyakori problémák a [Gyakori kérdések és válaszok](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) vagy a [hibaelhárítási házirend](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) dokumentációjában találhatók.
+Az eszközellenőrzéssel, a házirend-szinkronizálással és az eszközkonfigurációval kapcsolatos gyakori problémák a Gyakori kérdések és válaszok vagy a Házirend hibaelhárítása [dokumentációban találhatók.](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) [](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
