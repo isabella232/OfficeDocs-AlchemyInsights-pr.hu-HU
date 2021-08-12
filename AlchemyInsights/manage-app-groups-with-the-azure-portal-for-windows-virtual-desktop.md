@@ -1,5 +1,5 @@
 ---
-title: Az alkalmazások csoportjai kezelése az Azure Portal for Windows Virtual Desktop használatával
+title: Alkalmazáscsoportok kezelése az Azure Portal for Windows Virtual Desktop segítségével
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912060"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Az alkalmazások csoportjai kezelése az Azure Portal for Windows Virtual Desktop használatával
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>Alkalmazáscsoportok kezelése az Azure Portal for Windows Virtual Desktop segítségével
 
-Az új Windows virtuális asztali alkalmazáskészlethez létrehozott alapértelmezett app-csoport a teljes asztalt is közzéteszi. Emellett az Azure portál segítségével létrehozhat egy vagy több RemoteApp app-csoportot az alkalmazáskészlethez.
+Az új virtuális asztali állomáskészlethez Windows alapértelmezett appcsoport szintén közzéteszi a teljes asztalt. Emellett az Azure Portal használatával létrehozhat egy vagy több RemoteApp appcsoportot az állomáskészlethez.
 
-A telepítés folyamata az alábbi műveleteket hajtja végre:
+A telepítési folyamat az alábbiakat fogja tenni:
 
-1. A RemoteApp app csoport létrehozása
-2. Adja hozzá a kijelölt alkalmazásokat az alkalmazás csoporthoz.
-3. Egyéni felhasználók vagy felhasználócsoportok közzététele az App-csoportban
-4. Ha ezt a lehetőséget választja, regisztrálja az App csoportot.
-5. Az Azure Resource Manager-sablonra mutató hivatkozás létrehozása a konfiguráció szerint, amelyet letölthet és menthet.
+1. Hozza létre a RemoteApp appcsoportot.
+2. A kijelölt alkalmazások felvétele az alkalmazáscsoportba.
+3. Közzéteheti az egyes felhasználókat vagy felhasználói csoportokat az appcsoportban.
+4. Ha úgy dönt, regisztrálja az appcsoportot.
+5. A konfigurációnak megfelelően hozzon létre egy Azure Resource Manager-sablonra mutató hivatkozást, amelyet letölthet és menthet.
 
-Ha a Windows Virtual Desktop RemoteApp csoportját szeretné létrehozni, kövesse az [alkalmazások csoportjai az Azure portál segítségével](https://go.microsoft.com/fwlink/?linkid=2129550)című témakör útmutatását.
+Ha RemoteApp-csoportot Windows virtuális asztalhoz, kövesse az Appcsoportok kezelése az Azure Portal webhelyen található [utasításokat.](https://go.microsoft.com/fwlink/?linkid=2129550)

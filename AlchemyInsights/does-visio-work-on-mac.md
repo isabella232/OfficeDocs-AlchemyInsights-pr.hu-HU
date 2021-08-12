@@ -1,5 +1,5 @@
 ---
-title: Mac gépen dolgozik a Visio?
+title: Nem Visio Mac gépen
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1799"
 - "9000201"
-ms.openlocfilehash: be1ebb680a99c1a91fa6c9a4272ec28786c87bda
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a6f8925d89582942c05596ea0431eee3fc71c9e8c15fdc555dbbeaa7790d976
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965211"
 ---
-# <a name="does-visio-work-on-a-mac"></a>Működik a Visio a Mac gépen?
+# <a name="does-visio-work-on-a-mac"></a>Működik Visio Mac gépen?
 
-Mac gépekhez nem készült asztali Visio alkalmazás. Mindaddig, amíg az alkalmazást igénylő felhasználóhoz tartozik egy [Visio online-licenc](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users), [megtekintheti, hozhatja létre és szerkesztheti a diagramokat a Visio online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) -ban egy böngészőben.
+Mac gépekhez nem készült asztali Visio alkalmazás. Ha azonban az appot használó felhasználóhoz van [Visio Online-licenc](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)hozzárendelve, akkor a felhasználó megtekintheti, létrehozhatja és szerkesztheti a diagramokat a [Visio Online-ban](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) egy webböngészőben.
   
   

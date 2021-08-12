@@ -14,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972979"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Szükséges licencek a Microsoft ToDo alkalmazáshoz
 
@@ -33,31 +33,31 @@ A felhasználónak az alábbi licencek egyikével kell rendelkezik a Microsoft T
 
 - Microsoft 365 Firstline F1
 
-- Bármely Office 365 Nagyvállalati csomag
+- Bármely Office 365 Nagyvállalati verzió csomag
 
 - Secure Productive Business
 
-- Secure Productive Enterprise E3
+- Secure Productive Enterprise E3 csomag
 
-- Secure Productive Enterprise E5
+- Secure Productive Enterprise E5 csomag
 
-- Bármely Office 365 Oktatási csomag
+- Bármely Office 365 Oktatási verzió csomag
 
-- Microsoft 365 A3
+- Microsoft 365 A3 csomag
 
-- Microsoft 365 A5
+- Microsoft 365 A5 csomag
 
-Az érvényes terméklicenc mellett az Exchange Online alábbi verzióinak egyikére is szükség van ahhoz, hogy a ToDo szinkronizálni tudja a felhasználói adatokat:
+Az érvényes terméklicenc mellett az Exchange Online alábbi verzióinak egyike is szükséges ahhoz, hogy a ToDo szinkronizálni tudja a felhasználói adatokat:
   
 - Exchange Online 1. csomag
 
 - Exchange Online 2. csomag
 
-- Exchange Essentials
+- Exchange Alapvető fontosságú
 
 - Exchange Online Kioszk
 
 - Exchange Online POP
 
-[Licencek hozzárendelése felhasználói fiókokhoz az Office 365 PowerShell használatával](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Licencek hozzárendelése felhasználói fiókokhoz a PowerShell Office 365 használatával](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

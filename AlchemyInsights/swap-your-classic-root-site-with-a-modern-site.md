@@ -1,5 +1,5 @@
 ---
-title: A klasszikus root webhely cseréje modern webhellyel
+title: A klasszikus gyökérwebhely felcserélizálása modern webhelyekkel
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 10e8e4bf5e0def9a8256066e1a3c39b9923d31b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940821"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>A klasszikus root webhely cseréje modern webhellyel
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>A klasszikus gyökérwebhely felcserélizálása modern webhelyekkel
 
-Ha a környezete az 2019 áprilisa előtt volt beállítva, a Microsoft PowerShell segítségével módosíthatja a legfelső szintű webhelyet a modern webhelyekhez:
+Ha a környezete 2019 áprilisa előtt volt beállítva, a Microsoft PowerShell segítségével modern webhelyre módosíthatja a gyökérwebhelyet:
 
-- Ha egy másik webhelyet szeretne használni a legfelső szintű webhelyként, lecserélheti [(felcserélheti) a legfelső szintű webhelyét](https://docs.microsoft.com/sharepoint/modern-root-site) . 
-    - A [SPOSiteSwap hivatkozhat](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) arra, hogy a webhely helyét egy másik webhelyre cseréli az eredeti webhely archiválása közben. Mindkét csoportwebhely számára elérhető (nem kapcsolódhat egy csoporthoz) és egy kommunikációs webhelyhez. 
+- Ha van egy másik webhelye, amit gyökérwebhelyként szeretne használni, helyettesítheti [(felcserélheti)](https://docs.microsoft.com/sharepoint/modern-root-site) a gyökérwebhelyet vele. 
+    - Az [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) segítségével felcserélje egy webhely helyét egy másik webhelyre az eredeti webhely archiválásával. A csoportwebhely (csoporthoz nem kapcsolt) és a kommunikációs webhely számára is elérhető. 
 
-- A további lehetőségeket hamarosan bevezetjük, amelyek lehetővé teszik a webhely tartalmának használatát, de a meglévő webhelyet konvertálja egy kommunikációs webhelyre. 
+- Hamarosan további funkciókat is bevezetünk, amelyek lehetővé teszik, hogy továbbra is a webhelyen lévő tartalmakat használja, de a meglévő webhelyet kommunikációs webhelyké alakítsa át. 
 >[!Important]
->Ezek a funkciók fokozatosan jelennek meg. Továbbra is ellenőrizze az üzenetközpont frissítéseit. 
+>Ezeket a képességeket fokozatosan vezetjük be. Folytassa a frissítéseket az Üzenetközpontban. 
 
-## <a name="known-issues-with-swapping-sites"></a>A webhelyek cseréjével kapcsolatos ismert problémák
+## <a name="known-issues-with-swapping-sites"></a>Ismert problémák a webhelyek felcserélésével
 
-- Előfordulhat, hogy a cél egy rövid időre "not found" (HTTP 404) hibát ad vissza.
-- A keresési index frissítéséhez a tartalmat újra kell bejárni. Nincs szükség kézi lépésre – ezt automatikusan elvégzi a program.
-- A "statikus" hivatkozásokkal (például a fájlok szinkronizálására és a OneNote-fájlokra) függő bármit manuálisan kell kijavítani.
-- Ha a forrás webhelye szervezeti hírkiszolgáló volt, frissítse az URL-címet.Az összes szervezeti híroldalak listájának beszerzése.
-- Előfordulhat, hogy a Project Server-webhelyek érvényesítése szükséges ahhoz, hogy a rendszer továbbra is megfelelően társítsa őket.
+- Előfordulhat, hogy a célwebhely rövid ideig "nem található" (HTTP 404) hibát ad vissza.
+- A keresési index frissítéséhez a tartalmat vissza kell tolni. Nincs szükség manuális lépésre – ez automatikusan történik.
+- A statikus hivatkozásoktól (például Fájlszinkronizálás és OneNote) függő összes adatokat manuálisan kell kijavítani.
+- Ha a forráswebhely szervezeti hírwebhely volt, frissítse az URL-címet. Az összes szervezeti híroldal listájának lekérte.
+- Project Előfordulhat, hogy ellenőrizni kell a kiszolgálói webhelyeket annak érdekében, hogy a megfelelő módon legyen társítva.

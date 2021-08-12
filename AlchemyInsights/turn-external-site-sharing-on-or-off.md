@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: fd1c3dd013d5f1f823555e3cd4aa6e0dcdac1b62
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8b0d4f9f6958fec0dd7391280135338453a0cc345f94becc46ca7fae89cfd86f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834661"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920325"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-site"></a>A külső megosztás be- és kikapcsolása egy webhelyen
 
-A webhelyek külső megosztási beállításának (korábbi néven "webhelycsoport") módosítása globális vagy SharePoint-rendszergazdának kell lennie. A webhelytulajdonosok nem módosíthatjják ezt a beállítást. 
+A webhely külső megosztási SharePoint (korábbi néven "webhelycsoport") csak globális vagy rendszergazdai jogosultságokkal lehet módosítani. A webhelytulajdonosok nem módosíthatjják ezt a beállítást. 
 
 További információ: A külső megosztás be- és kikapcsolása [webhelyhez.](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
