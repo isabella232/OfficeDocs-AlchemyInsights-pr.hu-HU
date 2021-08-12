@@ -1,5 +1,5 @@
 ---
-title: Vendégfelhasználóval kapcsolatos problémák elhárítása
+title: Vendégfelhasználói problémák elhárítása
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004358"
 - "7822"
-ms.openlocfilehash: 0f2a10b918fee067b167ab58ac2544a89e0c8ea1
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 9e6030919721b4c0805a26ca45d365f31d88894e86ea08225f47576e7d152047
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939381"
 ---
-# <a name="troubleshoot-guest-user-issues"></a>Vendégfelhasználóval kapcsolatos problémák elhárítása
+# <a name="troubleshoot-guest-user-issues"></a>Vendégfelhasználói problémák elhárítása
 
-1. Az alkalmazásokhoz való vendégelérés kezeléséről a Vendég hozzáférés kezelése [az Azure AD-hozzáférés véleményezésével.](https://docs.microsoft.com/azure/active-directory/governance/manage-guest-access-with-access-reviews)
-1. Vendégfelhasználók felvétele a címtárba az [Azure Portalon:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal)Ebben a rövid útmutatóban új vendégfelhasználót kell felvennie az Azure AD címtárába az Azure Portalon keresztül, meghívót kell küldenie, és látnia kell, hogy a vendégfelhasználó meghívó-beváltási folyamata hogyan néz ki.
+1. Az alkalmazásokhoz való vendégelérés kezeléséről a Vendég hozzáférésének kezelése [az Azure AD-hozzáférés véleményezésével.](https://docs.microsoft.com/azure/active-directory/governance/manage-guest-access-with-access-reviews)
+1. [Vendégfelhasználók](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal)felvétele a címtárba az Azure Portalon: Ebben a rövid útmutatóban egy új vendégfelhasználót fog felvenni az Azure AD címtárába az Azure Portalon keresztül, meghívót küld, és láthatja, hogy a vendégfelhasználó meghívó-beváltási folyamata hogyan néz ki.
 1. [Vendégfelhasználó hozzáadása a PowerShell használatával:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-invite-powershell)Ebben a rövid útmutatóban a New-AzureADMSInvitation paranccsal adhat hozzá egy vendégfelhasználót az Azure-bérlőjéhez.
-1. A felhasználók és csoportok Azure Active Directory (Azure AD) nagyvállalati alkalmazásokhoz való hozzárendelésének mikéntjére vonatkozó információkért olvassa el az Azure Portalon vagy a PowerShell használatával elérhető felhasználói hozzárendelések kezelését az [Azure Active Directoryban.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal) 
-1. Az Azure Active Directory (Azure AD) B2B együttműködés a legtöbb, az Azure AD-val integrálható alkalmazással együttműködik. Ebben a [cikkben](https://docs.microsoft.com/azure/active-directory/external-identities/configure-saas-apps)az Azure AD B2B-val használható népszerű SaaS-alkalmazások konfigurálásához talál útmutatást.
-1. Olyan szervezetként, amely az Azure Active Directory (Azure AD) B2B együttműködési képességeit használja a partnerszervezetek vendégfelhasználóinak az Azure AD szolgáltatásba való meghívásához, mostantól hozzáférést nyújthat ezeknek a B2B-felhasználóknak a helyszíni alkalmazásokhoz. Ezek a helyszíni appok SAML-alapú hitelesítést vagy integrált Windows-hitelesítést (IWA) használhatnak Kerberos-kényszeres delegálással (KCD). További információt az [Azure AD-ben a B2B-felhasználók](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-cloud-to-on-premises)hozzáférésének megadása a helyszíni alkalmazásokhoz.
-1. Megtudhatja, hogy miként adhat hozzáférést a helyileg kezelt partnerfiókok számára a felhőbeli erőforrásokhoz [az Azure AD B2B együttműködésével.](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-on-premises-to-cloud)
+1. Ha meg szeretne tudni, hogy miként rendelhet hozzá felhasználókat és csoportokat a nagyvállalati alkalmazásokhoz az Azure Active Directory (Azure AD) szolgáltatásban, akár az Azure Portalról, akár a PowerShell használatával, olvassa el az Alkalmazás felhasználói hozzárendelésének kezelése a [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal) 
+1. Azure Active Directory (Azure AD) vállalaton keresztüli együttműködés a legtöbb, az Azure AD-val integrálható alkalmazással működik. Ebben a [cikkben](https://docs.microsoft.com/azure/active-directory/external-identities/configure-saas-apps)néhány népszerű SaaS-appnak az Azure AD B2B-val való használatra való konfigurálásához talál útmutatást.
+1. Olyan szervezetként, amely az Azure Active Directory (Azure AD) vállalat B2B együttműködési képességeit használja a partnerszervezetek vendégfelhasználóinak az Azure AD-be való meghívására, mostantól hozzáférést nyújthat ezeknek a B2B-felhasználóknak a helyszíni alkalmazásokhoz. Ezek a helyszíni appok SAML-alapú hitelesítést vagy integrált Windows (IWA) használhatnak Kerberos-alapú korlátozott delegálással. További információ: Hozzáférés az [Azure AD-beli B2B-felhasználóknak a helyszíni alkalmazásokhoz.](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-cloud-to-on-premises)
+1. Megtudhatja, hogyan adhat helyileg kezelt partnerfiókokat a felhőbeli erőforrásokhoz [az Azure AD vállalat b2b-alapú együttműködése segítségével.](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-on-premises-to-cloud)

@@ -1,5 +1,5 @@
 ---
-title: Profil adatainak hozzáadása vagy frissítése – régebbi WD-ajánlott lépések
+title: Profilinformációk hozzáadása vagy frissítése – Régi WD – ajánlott lépések
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,50 +13,50 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7339"
-ms.openlocfilehash: a3cbf78949c7e22d537f54c2498133277a6cb5d6
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: 9f83ca6145219c7ebee94315b177a6922391f526514fbf2c846f9a26a44228ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953835"
 ---
-# <a name="add-or-update-profile-information---legacy-wd---recommended-steps"></a>Profil adatainak hozzáadása vagy frissítése – régebbi WD-ajánlott lépések
+# <a name="add-or-update-profile-information---legacy-wd---recommended-steps"></a>Profilinformációk hozzáadása vagy frissítése – Régi WD – ajánlott lépések
 
-**Az Azure számlázási fiók elérhetőségi adatainak módosítása**
+**Azure számlázási fiók kapcsolattartási adatainak módosítása**
 
-**Számlázási cím**: a számlázási cím annak a szervezetnek vagy magánszemélynek a címe és elérhetőségi adatai, aki a számlázási fiókért létrehozott számlákért felelős. Ha egy [Microsoft Online-szolgáltatási program (MOSP) számlázási fiókja](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address)van, akkor egy számlázási cím jelenik meg, amely megjelenik a fiókhoz generált összes számlán.
+**Számlázási cím:** A számlázási cím annak a szervezetnek vagy személynek a címe és kapcsolattartási adatai, aki felelős a számlázási fiókhoz létrehozott számlák kifizetéséért. A [Microsoft Online Service Program (MOSP)](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address)számlázási fiókja esetén egy számlázási cím jelenik meg, amely a fiókhoz létrehozott összes számlán megjelenik.
 
-E-mail **-cím a szolgáltatás-és marketing-e-mailek esetében**: [megadhat egy olyan e-mail-címet](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#change-your-contact-email-address) , amely különbözik az Ön által bejelentkezett e-mail-címmel, hogy az Azure-fiókjával kapcsolatos fontos számlázással, szolgáltatással kapcsolatos és ajánlási értesítésekkel kapcsolatos értesítéseket kapjon. A szolgáltatási értesítő e-mailek, például a sürgős biztonsági problémák, az árak változásai vagy a fiókban használt szolgáltatások változásának megszüntetése mindig a bejelentkezési címre érkezik.
+Kapcsolatfelvételi e-mail-cím szolgáltatás- és **marketinglevelekhez:** Az Azure-fiókjával kapcsolatos fontos számlázási, szolgáltatásokkal és javaslatokkal kapcsolatos értesítések fogadásához megadhat egy e-mail-címet, amely eltér attól az e-mail-címtől, amelybe bejelentkezik. [](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#change-your-contact-email-address) A szolgáltatásértesítési e-maileket, például a sürgős biztonsági problémákat, az árváltozásokat vagy a szolgáltatás használatának megszakadása a fiókjában való használatot mindig a bejelentkezési címére küldi el.
 
-A MOSP számlázási fiók címének frissítéséhez végezze el az alábbi lépéseket:
-1. Bejelentkezés az Azure portálra az e-mail-cím használatával, amelynek rendszergazdai engedélyekkel kell rendelkeznie a fiókhoz.
-2. Keresse meg és válassza a **költség kezelése + számlázás** lehetőséget. 
-3. Kattintson a **Tulajdonságok** lehetőségre a bal oldali oldalról. 
-4. A **számlázási cím frissítése** elemre kattintva frissítse az eladott és a számlázási címeket. Adja meg az új címet, majd kattintson a **Mentés** gombra.
+Egy MOSP-számlázási fiók címének frissítéséhez kövesse az alábbi lépéseket:
+1. Jelentkezzen be az Azure Portalra annak az e-mail-címnek a használatával, amelynek fiókhoz van rendszergazdai engedélye.
+2. Keresse meg és válassza a **Költségkezelés + Számlázás lehetőséget.** 
+3. Kattintson **a tulajdonságok** elemre a bal oldalon. 
+4. Kattintson **a Számlázási cím frissítése elemre** a számlázási cím és a számlázási címek frissítéséhez. Írja be az új címet, majd kattintson a Mentés **gombra.**
 
-**A névjegykártya e-mail-címének módosítása** 
+**A partner e-mail-címének módosítása** 
 
-Ha meg szeretné változtatni a névjegykártya e-mail-címét, végezze el az alábbi lépéseket:
-1. Ha Ön egy MOSP-fiók rendszergazdája, kövesse az [MOSP számlázási fiókjának módosítása című](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address) témakörben található utasításokat, és kattintson a legutóbbi lépésben a **kontakt-adatok frissítése** elemre. 
-2. Adja meg az új e-mail-címet. 
-3. Lépjen az Azure portál [elérhetőségi adatok](https://ms.portal.azure.com/) ablaktáblájába, és írja be az új e-mail-címet. 
-4. Kattintson az ikonra a monogramokkal vagy a képpel. 
-5. Válassza a **helyi menü (...) lehetőséget > a saját névjegyek adatait** elemre, és írja be az új e-mail-címet.
+A partner e-mail-címének módosítása az alábbi lépésekkel:
+1. Ha Ön mosP-fiók rendszergazdája, kövesse a [MosP-számlázási](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile#update-an-mosp-billing-account-address) fiók címének  frissítése szakasz utasításait, és kattintson a Partneradatok frissítése elemre az utolsó lépésben. 
+2. Írja be az új e-mail-címet. 
+3. Lépjen az Azure Portal Partner [adatai](https://ms.portal.azure.com/) ablaktáblájához, és írja be az új e-mail-címet. 
+4. Kattintson a monogramját vagy a képét is ikonra. 
+5. Válassza **a helyi menüt (...) > Kapcsolatfelvételi adatok** elemet, és írja be az új e-mail-címet.
 
-**Profil adatainak hozzáadása vagy frissítése**
+**Profilinformációk hozzáadása vagy frissítése**
 
-Az Azure Active Directory (Azure AD) segítségével felhasználói profilokkal kapcsolatos információkat vehet fel, többek között egy profil képét, egy konkrét információt és néhány beállítást. Az új felhasználók felvételéről további információt a [felhasználók hozzáadása vagy törlése az Azure Active Directoryban](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)című témakörben találhat.
+A profiladatokat (például profilképet, feladatspecifikus információkat és bizonyos beállításokat) az Azure AD Azure Active Directory meg. Az új felhasználók hozzáadásáról további információt a Felhasználók felvétele és törlése a [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 
-A profil adatainak hozzáadásához vagy módosításához végezze el az alábbi lépéseket:
+Ha profiladatokat szeretne felvenni vagy módosítani, kövesse az alábbi lépéseket:
 
-1. Bejelentkezés az Azure portálra a szervezet felhasználói rendszergazdájaként.
-2. Válassza az **Azure Active Directory > a felhasználók** elemet, majd kattintson a frissíteni kívánt felhasználói profilra. 
-3. A **Szerkesztés** gombra kattintva tetszés szerint felveheti vagy frissítheti az egyes szakaszokba foglalt információkat. 
+1. Jelentkezzen be az Azure Portalba a szervezet rendszergazdájaként.
+2. Válassza **Azure Active Directory > Felhasználók** lehetőséget, majd kattintson a frissíteni kívánt felhasználói profilra. 
+3. Kattintson **a Szerkesztés** gombra az elérhető szakaszokban szereplő információk hozzáadásához vagy frissítéséhez. 
 4. Kattintson a **Mentés** gombra.
 
 **Ajánlott dokumentumok**
 
-- [Számlázási fiókok és hatókörök az Azure portálon](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts) 
-- [Hitelkártya hozzáadása vagy módosítása az Azure-hoz](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [Számlázási fiókok és hatókörök az Azure Portalon](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts) 
+- [Hitelkártya hozzáadása vagy frissítése Azure-ban](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 
 

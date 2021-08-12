@@ -12,16 +12,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: 7275cf99a92f0eedeeb86f7beb555120c5649453
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd398ebe9200615044f30304b6bd4cd61e00c8c2bbfac027ad50c9f5489b1734
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954015"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>Felhasználó e-mail-címének hozzáadása vagy eltávolítása
 
-[Kövesse az alábbi lépéseket](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) a Microsoft 365 felügyeleti központban a kezdéshez.
+[Első lépésként kövesse](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) az Microsoft 365 Felügyeleti központ lépéseit.
 
- **Megjegyzés**: több e-mail-címet is használhat a felhasználóknak, de a további  *e-mail-aliasokat*  csak e-mailek fogadására használhatja. Ha aliassal rendelkező e-mailt kell küldenie, hozzon létre egy [megosztott postaládát](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox). Így küldheti el és fogadhatja az aliast a levelek küldéséhez és beolvasásához.
+ **Megjegyzés:** Egy felhasználónak több e-mail-címe is lehet, de további e-mail-aliasok csak az e-mailek fogadására használhatók.  Ha aliassal kell e-mailt küldenie, hozzon létre egy [megosztott postaládát.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) Ily módon megkapja az e-mailek küldését és fogadását stb. aliast.
   

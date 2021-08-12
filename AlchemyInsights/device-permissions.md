@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50714168"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913969"
 ---
 # <a name="device-permissions"></a>Eszközengedélyek
 
-Windows-eszköz kezeléséhez a helyi rendszergazdák csoportjának tagja kell lennie. Az Azure Active Directory (Azure AD) csatlakozási folyamatának részeként az Azure AD frissíti a csoport tagságát egy eszközön. A tagság frissítését testre szabhatja úgy, hogy megfeleljen az üzleti követelményeknek. A tagsági frissítés például akkor hasznos, ha engedélyezni szeretné a segítőknek, hogy rendszergazdai jogokat igénylő feladatokat tudjanak elvégezni az eszközön.
+Ha kezelni Windows eszközét, tagja kell lennie a helyi rendszergazdák csoportjának. Az Azure AD Azure Active Directory részeként az Azure AD frissíti a csoport tagságát egy eszközön. Testre szabhatja a tagság frissítését, hogy megfeleljen az üzleti követelményeknek. A tagsági frissítés például hasznos lehet, ha engedélyezni szeretné a segítőknek, hogy rendszergazdai jogokat igénylő feladatokat tudjanak elvégezni az eszközön.
 
-A helyi rendszergazdák tagságának frissítését és az Azure AD-csatlakozás során való testreszabását a helyi rendszergazdák eszközökhöz való hozzárendelése című témakörben [olvashatja el.](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin) A cikk tartalma nem vonatkozik a hibrid Azure AD-hez csatlakozott eszközökre.
+A helyi rendszergazdai tagság frissítésének működésről és az Azure AD-csatlakozás során való testreszabásáról a Helyi rendszergazdák hozzárendelése eszközökhez című [témakörben olvashat.](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin) A cikk tartalma nem vonatkozik az Azure AD-hez csatlakozású hibrid eszközökre.
