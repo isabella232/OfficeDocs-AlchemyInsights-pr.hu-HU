@@ -1,5 +1,5 @@
 ---
-title: Postaláda kiépítési késleltetése
+title: Postaláda-kiépítési késleltetés
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: 36fd55ece2d3edd605fecfd11ed5dfdb1f194633
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 047c7d854b1afeecaf47cfd7358dd219913f5354ad7ad329a33a795c75da5d7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912456"
 ---
 # <a name="your-users-mailbox-is-being-created"></a>A felhasználó postaládájának létrehozása folyamatban van
 
-Akár egy órát is igénybe vehet, mielőtt egy új postaláda készen áll a használatra.
+Akár egy óra is eltelhet, mire egy új postaláda készen áll a használatra.
   
-Ha egy felhasználó postaládája több mint egy órára "készül", megpróbálhatja törölni, majd újból létrehozni a felhasználót, vagy használhatja a "Felhívjuk Önt" lehetőséget, ha egy támogatási szakemberrel szeretne beszélni.
+Ha egy felhasználó postaládája már több mint egy órája "előkészítés" volt, megpróbálhatja törölni, majd újra létrehozni a felhasználót, vagy a "Felhívjuk" lehetőséget választva beszélhet támogatási szakemberével.
   
 

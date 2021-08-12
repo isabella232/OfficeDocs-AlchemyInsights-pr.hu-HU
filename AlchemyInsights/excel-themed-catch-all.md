@@ -1,5 +1,5 @@
 ---
-title: Excel themed catch all
+title: Excel összes fogó
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "2723"
 - "9000779"
-ms.openlocfilehash: a087da2c243589b137895b29d3aadfda58444cf5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 199db9cd2cc8e2c39bc7aa1e749d1b29f47f3b3fdb02d07edc2b7dc10c19dbbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946473"
 ---
-# <a name="commonly-requested-content-for-excel"></a>Gyakran kért excel-tartalom
+# <a name="commonly-requested-content-for-excel"></a>Gyakran kért tartalom Excel
 
-Az Excellel kapcsolatos kérdésre adott pontosabb válasz érdekében röviden fogalmazze meg a kérdést a probléma leírásához, beleértve az esetleges hibákat, a használt funkciókat stb. 
+A problémára adott még pontosabb választ Excel röviden fogalmazze meg a kérdést a probléma leírásához, beleértve az esetleges hibákat, a használt funkciókat stb. 
 
-Íme néhány gyakran kért Excel-témakör:
+Íme néhány gyakran kért Excel témakör:
 
-- [Gyakori összeomlások az Excelben](https://support.office.com/article/Excel-not-responding-hangs-freezes-or-stops-working-37E7D3C9-9E84-40BF-A805-4CA6853A1FF4)
+- [Gyakori Excel összeomlások](https://support.office.com/article/Excel-not-responding-hangs-freezes-or-stops-working-37E7D3C9-9E84-40BF-A805-4CA6853A1FF4)
 - ["Nem működik" hibaüzenet](https://support.office.com/client/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Üresen nyílik meg az Excel alkalmazás](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)
-- [Problémák az Excel-munkafüzetek mentésekor](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)
-- [Excel-dokumentumok megosztása vagy közös létrehozása](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
+- [Excel alkalmazás üresen nyílik meg](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank)
+- [Problémák a Excel mentésekor](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)
+- [Dokumentumok megosztása vagy közös Excel dokumentumokon](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
 - ["Nincs elegendő memória a művelet befejezéséhez" hibaüzenet](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)
-- [Mi az automatikus mentés?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+- [Mi az az Automatikus Mentés?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 - [A fájl írásra van megnyitva](https://support.office.com/article/why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)
 - [Súgó a PowerBI-hoz](https://powerbi.microsoft.com/support/)

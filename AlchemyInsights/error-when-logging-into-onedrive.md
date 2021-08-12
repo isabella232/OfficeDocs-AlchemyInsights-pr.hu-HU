@@ -1,5 +1,5 @@
 ---
-title: 0x8004de40 OneDrive indításakor hibaüzenet jelenik meg
+title: 0x8004de40 hiba a OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 23c57356c8bd94c1cbafb538c9318208429754115a7c4e88abc93d293b5ea6e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946581"
 ---
-# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 OneDrive indításakor hibaüzenet jelenik meg
+# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 hiba a OneDrive
 
-Ha hibaüzenet jelenik meg, **0x8004de40** OneDrive-ba való bejelentkezéskor, indítsa újra a számítógépet, miközben a munkahelyi vagy iskolai tartományhoz csatlakozik. Ha az újraindítás után a következő hibaüzenet jelenik meg, próbálkozzon ezzel a munkahelyi vagy iskolai tartományhoz való csatlakozáskor:
+Ha hibaüzenet jelenik meg, **0x8004de40** a OneDrive, indítsa újra a számítógépet, miközben a munkahelyi vagy iskolai tartományhoz csatlakozik. Ha az újraindítás után a következő hibaüzenet jelenik meg, próbálkozzon ezzel a munkahelyi vagy iskolai tartományhoz való csatlakozáskor:
 
 1. Kattintson a Start gombra, írja be a **cmd** vagy **a parancssor** parancsot a keresőmezőbe, kattintson a jobb gombbal a parancssor alkalmazásra, és válassza a **Futtatás rendszergazdaként parancsot.** Ha a rendszer rendszergazdai jelszó vagy megerősítés kérését kéri, írja be a jelszót, vagy kattintson az Allow (Megengedve) **gombra.**  
 

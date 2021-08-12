@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6676"
-ms.openlocfilehash: 6a350c6bca18306e64f647cfa3a7f14fa204109b
-ms.sourcegitcommit: 9626d39e5891f83774ba31574a00b0bae92ad442
+ms.openlocfilehash: 8918b0da0172e0421ade6f0cca936e14d1d609896bc4c75c5a8491c0dbe75aff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48758586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938445"
 ---
 # <a name="azure-subscription-disabled"></a>Azure-előfizetés letiltva
 
-Az Azure-előfizetése le tud tiltani, mert lejárt a hitelkerete, elérte a kiadási korlátot, lejárt számlával rendelkezik, megtalálta a hitelkártyája korlátját, vagy azért, mert a fiók rendszergazdája megszakította az előfizetést. Az előfizetés ismételt engedélyezésének módjáról alább tájékozódhat. További információ: az [Azure-előfizetés újraaktiválása](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+Azure-előfizetését letilthatja, ha lejárt a kreditje, elérte a költségkeretet, lejárt a számla, eléri a hitelkártyás korlátot, vagy lemondta az előfizetést a fiók rendszergazdája. Alább arról olvashat, hogy miként engedélyezheti újra előfizetését. További információ: [Azure-előfizetés újraaktiválása](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Az Azure-előfizetés ismételt engedélyezése (az előfizetés véletlenül lemondva)** A [fiók rendszergazdája](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) újraaktiválhatja a lemondott fizetési mód előfizetését a fiók központjában:
+**Azure-előfizetés újra engedélyezése (az előfizetést véletlenül megszüntették)** A [fiók rendszergazdája](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) újraaktiválhat egy lemondott "Go-ként" előfizetést az Fiókközpontban:
 
-1. Bejelentkezés a [fiók központba](https://account.windowsazure.com/Subscriptions)
-2. Jelölje ki a lemondott előfizetést. Kattintson az **újraaktiválás** gombra.
+1. Jelentkezzen be a [Fiókközpontba.](https://account.windowsazure.com/Subscriptions)
+2. Válassza ki a lemondott előfizetést. Kattintson **az Újraaktiválás gombra.**
 
-Egyéb előfizetési típusok esetén [forduljon az ügyfélszolgálathoz](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) , és kérje újra az előfizetést.
+Más előfizetési típusok esetén lépjen [kapcsolatba az ügyfélszolgálattal](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) az előfizetés újraaktiválásához.
 
 **Lejárt hitelkártya**
 
-Amikor feliratkozik az **Azure ingyenes fiókjára** , ingyenes próbaverziós előfizetést kap, amely az Azure-kreditek 30 napig és 12 hónapig ingyenes szolgáltatást nyújt az $200. 30 nap elteltével az Azure letiltotta az előfizetést. Az előfizetése le van tiltva, hogy védve legyen az előfizetéséhez tartozó hitelkártyán és ingyenes szolgáltatáson kívüli használati díjakról. Az Azure Services használatának folytatásához [frissítenie kell az előfizetést](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support). A frissítés után az előfizetése még 12 hónapig is elérhető az ingyenes szolgáltatásokhoz. Csak a szabad szolgáltatásokon és mennyiségeken kívüli felhasználásra kell fizetnie.  
-További információ: [lejárt hitelkártya](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
+Ha regisztrál egy **ingyenes** Azure-fiókra, kap egy ingyenes próba-előfizetést, amely 200 USD-s Azure-krediteket biztosít 30 napra és 12 hónap ingyenes szolgáltatásokra. 30 nap végén az Azure letiltja az előfizetését. Az előfizetés le van tiltva, hogy megvédje az előfizetésében szereplő krediten és ingyenes szolgáltatásokon túli használati díjaktól. Az Azure-szolgáltatások használatának folytatásához frissítenie kell [az előfizetését.](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support) A frissítés után az előfizetése 12 hónapig továbbra is hozzáfér az ingyenes szolgáltatásokhoz. Az ingyenes szolgáltatásokon és mennyiségeken kívül csak az ingyenes szolgáltatásokért és mennyiségekért számítunk fel díjat.  
+További információ: [Lejárt hitelkártya](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
 
-**Kiadási korlát elérve**
+**Elérte a korlátot**
 
-Ha a használat eléri a kiadási korlátot, az Azure letiltja az előfizetést a számlázási időszak hátralévő részében. Az előfizetése le van tiltva, hogy védve legyen az előfizetéséhez tartozó hitelen kívüli használati díjak véletlen használatából. Ha el szeretné távolítani a kiadási korlátot, olvassa el az [Azure kiadások korlátozása](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)című témakört.  
-További információ: [a kiadások korlátjának elérése](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
+Amikor a használat eléri a költségkeretet, az Azure a számlázási időszak hátralévő részére letiltja az előfizetést. Az előfizetés le van tiltva, hogy megvédje az előfizetésében szereplő jóváíráson túli használati díjak véletlen kiírását. Ha el szeretné távolítani a költségkeretet, tekintse meg az [Azure költségkeretét.](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)  
+További információ: [Elérte a költségkeretet](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
 
-**Lejárt számlázás**
+**Esedékes számla**
 
-A korábbi esedékes egyenleg feloldásáról az [Azure-előfizetés múltbeli esedékes egyenlegének feloldása az Azure-hoz küldött e-mailek esetén](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)című témakörben talál további tájékoztatást.
+A hátralékos egyenleg feloldásáról az Azure-előfizetésen túli esedékes összeg feloldása az [Azure-ból e-mail-cím beszerzése után.](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **A számla túllépi a hitelkártyás korlátot**
 
-A probléma megoldásához [váltson másik hitelkártyára](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Vagy ha vállalkozást képvisel, [számlás fizetésre válthat](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
+A probléma megoldásához [váltson át egy másik hitelkártyára.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support) Vagy ha egy vállalkozást képvisel, számlával is [fizethet.](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Megjegyzés** : a program új előfizetési évforduló (SA) dátumot rendel az újból felhasználható előfizetésekhez. Annak a napoknak (intervallumnak) a száma, amelyben az előfizetést felfüggesztették, a program hozzáadja az eredeti biztonsági társítási dátumhoz. A 29, 30 vagy 31 hónapra eső évfordulós idő a következő hónap első napjának értéke lesz.  
-Például
+**Megjegyzés:** Az újra engedélyezett előfizetések egy új előfizetési évfordulós dátumot fognak hozzárendelni. Az előfizetés felfüggesztésének időtartama (intervalluma) hozzá lesz adva az eredeti sa dátumhoz. Ha az évforduló 29., 30. vagy 31. napja esik, akkor a sa dátum a következő hónap 1-jára lesz beállítva.  
+Példa:
 
-- Az eredeti előfizetési évfordulója a 25;
-- Az előfizetést felfüggesztették az 10/3-ben, és újból engedélyezte a 10/9-on;
-- Az előfizetést 6 napra letiltották (6-os intervallum);
-- Az intervallum megjelenik az eredeti biztonsági társításban, és az összeg az új biztonsági társítás dátuma lesz (25 + 6 = 31). 
+- Az eredeti előfizetési évfordulója 25.
+- Az előfizetést január 3-án felfüggesztettük, és 2009. 10-én újra engedélyezték;
+- Az előfizetést 6 napig letiltották (6-os intervallum);
+- A rendszer ezután hozzáadja az időközt az eredeti sa-hez, és az összeg lesz az új Sa dátum (25+6=31). 
 
-**Megjegyzés** : ebben a példában az, hogy az SA dátuma most már 28-nál nagyobb, az új SA dátuma a következő hónap első száma lesz.
+**Megjegyzés:** Ebben a példában, mivel a Sa dátum mostantól nagyobb, mint 28, az új Sa dátum a következő hónap első dátuma lesz.
 
 **Ajánlott dokumentumok**
 
-- [Előfizetés váltása](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Előfizetésváltás](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
 - [Előfizetés lemondása](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
-- [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
-- A [fiók-rendszergazda](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) megkeresése
-- [Mi a teendő, ha az Azure-előfizetés le lesz tiltva?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Azure kiadási korlát](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure Piactér](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
+- A [fiók-rendszergazda megkeresi](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- [Mit tegyek, ha az Azure-előfizetésemet letiltják?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure-költési korlát](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)

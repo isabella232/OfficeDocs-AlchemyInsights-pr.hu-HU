@@ -1,5 +1,5 @@
 ---
-title: Tájékoztató e-mailek
+title: Tájékoztató e-mail
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 04fcc9930de844d221033e976adb04ef483a27ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1c7027eeba1d156ed2b7b68502504f9eb0b940519d43ac84df1c94435260101
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955860"
 ---
-# <a name="about-briefing-email"></a>Tájékoztató e-mailek
+# <a name="about-briefing-email"></a>Tájékoztató e-mail
 
-Ha többet szeretne megtudni a tájékoztatóról, olvassa el az [e-mailek áttekintése](https://docs.microsoft.com/briefing/be-overview)című témakört.  
+A Tájékoztatóról további információt Az e-mailek rövid [áttekintése – áttekintés témakörben talál.](https://docs.microsoft.com/briefing/be-overview)  
 
-Ez a funkció jelenleg nem érhető el, ezért előfordulhat, hogy a szervezete nem kapja meg a tájékoztató e-mailt, ha az üzenet engedélyezve van. Fontos tudni, hogy a felhasználók nem garantáltak a napi tájékoztató e-mailekben. Az e-maileket a program csak akkor küldi el, ha a felhasználó legalább egy, az adott napra vonatkozó javaslattal rendelkezik. További információt [a tájékoztató e-mailekre vonatkozó gyakori kérdések](https://docs.microsoft.com/briefing/be-faqs)című témakörben talál.
+Ez a funkció jelenleg is elérhető, ezért előfordulhat, hogy szervezete még akkor sem kapja meg a tájékoztató e-mailt, ha engedélyezve van a Tájékoztató funkció. Felhívjuk a figyelmét arra, hogy a felhasználók nem minden nap kapnak tájékoztató e-mailt. Az e-mailek csak akkor küldhetők el, ha a felhasználónak van legalább egy műveletre vonatkozó javaslata az adott napra. További információ: A tájékoztató e-mail [gyakori kérdései.](https://docs.microsoft.com/briefing/be-faqs)

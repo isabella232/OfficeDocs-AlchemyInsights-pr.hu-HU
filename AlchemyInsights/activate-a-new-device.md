@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 85aa0ad68929eca77aa7adfb1031d91b0e9d46c77f6820ee52a7848cd4a19211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938481"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>Új, Windows 10-et futtató eszköz aktiválása
+# <a name="activating-a-new-device-running-windows-10"></a>Új eszköz aktiválása Windows 10
 
-Ha új, Windows 10-et futtató eszközt vásárolt, az automatikusan aktiválódik, amikor csatlakoztatja az eszközt az internethez. Ha az aktiválási kiszolgálók foglaltak, előfordulhat, hogy várnia kell, amíg a Windows aktiválódik.
+Ha új eszközt vásárolt, Windows 10 automatikusan aktiválódik, amikor csatlakoztatja az eszközt az internethez. Ha az aktiválási kiszolgálók foglaltak, előfordulhat, hogy várnia kell, amíg a Windows aktiválódik.
 
-Az aktiválási állapot ellenőrzéséhez válassza a **Start** **Settings** Update &  >  **aktiválás**  >  **lehetőséget.**
+Az aktiválási állapot ellenőrzéséhez válassza a **Frissítés Gépház**   >  **aktiválása &**  >  **lehetőséget.**
 
-**Megjegyzés:** Bizonyos esetekben előfordulhat, hogy be kell írnia az eszköz csomagolásán található Windows 10-es termékkulcsot, illetve azt kártyaként vagy az eszközhöz mellékelt eredetiséget igazoló tanúsítványon (COA).
+**Megjegyzés:** Bizonyos esetekben előfordulhat, hogy be kell írnia az eszköz csomagolásán vagy kártyaként vagy az eszközhöz mellékelt eredetiséget igazoló tanúsítványon (COA) szereplő Windows 10-termékkulcsot.
 
-[További információ a Windows 10-ben való aktiválásról](https://support.microsoft.com/help/12440)
+[További információ az aktiválásról a Windows 10](https://support.microsoft.com/help/12440)
