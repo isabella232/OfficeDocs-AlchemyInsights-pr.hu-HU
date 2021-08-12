@@ -1,5 +1,5 @@
 ---
-title: Megjegyzések letiltása a listákon
+title: Megjegyzések letiltása listákban
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "7613"
-ms.openlocfilehash: 28a04424cdace0083ac012b7301595a7b9ca2687
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: e797c8ea75aa9a11358cec6ccac0f51f203f93aa5e6e0a0811ec50178c914b20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928761"
 ---
-# <a name="disable-comments-on-lists"></a>Megjegyzések letiltása a listákon
+# <a name="disable-comments-on-lists"></a>Megjegyzések letiltása listákban
 
-A rendszergazdák a **set-SPOTenant PowerShell-** parancsmagban a **CommentsOnListItemsDisabled** paraméter módosításával letilthatják a funkciókat szervezeti szinten.
+A rendszergazdák szervezeti szinten letilthatják a szolgáltatást a **Set-SPOTenant** PowerShell-parancsmag **CommentsOnListItemsDisabled** paraméterének módosításával.
 
-A webhely vagy a lista szintjén jelenleg nem lehet letiltani a megjegyzéseket. Reméljük, hogy ezeket a vezérlőket később, az 2021 első negyedévében kell módosítania.
+A megjegyzések webhely vagy lista szintjén jelenleg nem tiltható le. Reményeink szerint a vezérlőket egy későbbi frissítésben ismertetjük, valószínűleg 2021 első negyedévében.

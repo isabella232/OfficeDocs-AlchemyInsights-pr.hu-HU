@@ -1,5 +1,5 @@
 ---
-title: PRT-s probléma elhárítása
+title: PRT-probléma elhárítása
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972718"
 ---
-# <a name="troubleshoot-prt-issue"></a>PRT-s probléma elhárítása
+# <a name="troubleshoot-prt-issue"></a>PRT-probléma elhárítása
 
-Ahhoz, hogy bármilyen eszköz hitelesítve legyen, teljes mértékben be kell jegyeztetni, és jó állapotban kell lennie, és az elsődleges frissítési tokent (PRT) meg kell szereznie.
+A hitelesítés befejezéséhez minden eszköznek teljes regisztrálva kell lennie, és jó állapotban kell lennie, és hozzá kell szereznie egy elsődleges frissítési jogkivonatot (PRT).
 
-A hibrid Azure AD csatlakozás regisztrációs folyamathoz az eszközöknek vállalati hálózaton kell lenniük. Ez a funkció többek között a VPN-en is működik, de van némi kikötése. Hallottuk, hogy az ügyfelek segítségre szorulnak a hibrid Azure AD-csatlakozás regisztrációjának hibaelhárításához a távoli munka körülményei között. Az alábbiakban felsoroljuk, hogy mi történik a regisztrációs folyamat során a motorháztető alatt.
+A hibrid Azure AD-csatlakozás regisztrációs folyamata megköveteli, hogy az eszközök vállalati hálózatot használjanak. A VPN-en keresztül is működik, de ennek vannak kikötései. Azt halljuk, hogy ügyfeleinknek segítségre van szükségük a hibrid Azure AD-bekapcsolódási regisztrációs folyamat hibaelhárításához távoli munkahelyi körülmények között. Az alábbi részletezésben arról lesz szó, hogy mi történik "a motorháztető alatt" a regisztrációs folyamat során.
 
-**Felhőalapú hitelesítési környezet (az Azure AD Password hash szinkronizálása vagy a továbbítás hitelesítése)**
+**Felhőalapú hitelesítési környezet (Azure AD-jelszó kivonatszinkronizálás vagy átmenő hitelesítés használata)**
 
-Ez a regisztrációs folyamat "szinkronizálási csatlakozás" néven is ismert.
+Ezt a regisztrációs folyamatot szinkronizálási illesztésnek is nevezik.
 
-1. A Windows 10 a felhasználó által az eszközre való bejelentkezéskor megtalál egy SCP-rekordot.
-    1. Az eszköz először az ügyféloldali SCP-ből kísérli meg beolvasni a bérlői adatokat a beállításjegyzékben [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. További információt ebben a [dokumentumban](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)talál.
-    2. Ha nem működik, az eszköz a helyszíni Active Directoryval (AD) kommunikál a bérlői adatok eléréséhez a Service Connection Pointból (SCP). A SZOLGÁLTATÁSKAPCSOLÓDÁSI pont ellenőrzéséhez olvassa el ezt a [dokumentumot](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point). 
-
-> [!NOTE]
-> Javasoljuk, hogy engedélyezze az SCP használatát a HIRDETÉSben, és csak az ügyféloldali szolgáltatáskapcsolódási pontok használatát a kezdeti ellenőrzéshez.
-
-2. A Windows 10 a rendszerkörnyezetben próbál meg kommunikálni az Azure AD szolgáltatással, és az Azure AD-ot használva hitelesíti magát. Ellenőrizheti, hogy az eszköz hozzáférhet-e a Microsoft-erőforrásokhoz a rendszerfiók csoportban a számítógép-nyilvántartási csatlakozási parancsfájl használatával.
-
-3. A Windows 10 létrehoz egy önaláírt tanúsítványt, és a számítógép-objektum alatt tárolja a helyszíni hirdetések között. Ehhez a tartományvezérlőt kell megadnia.
-
-4. A tanúsítványt tartalmazó eszköz-objektum az Azure ad Connect segítségével szinkronizálódik az Azure AD-kapcsolaton keresztül. A szinkronizálási ciklus alapértelmezés szerint 30 percenként van, de az Azure AD Connect konfigurációjától függ. További információért olvassa el ezt a [dokumentumot](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. Ebben a szakaszban látnia kell a tárgy eszközt "függőben" állapotban az Azure-portál eszköz Blade területén.
-
-6. A Windows 10 rendszer következő felhasználó bejelentkezésekor a regisztráció be lesz töltve. 
+1. Windows 10 SCP-rekordot fedez fel, amikor a felhasználó bejelentkezik az eszközre.
+    1. Az eszköz először megpróbálja lekérni a bérlői adatokat az ügyféloldali SCP-értékből a beállításjegyzékben [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. További információ ebben a [dokumentumban található.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
+    2. Ha nem sikerül, az eszköz a helyszíni Active Directoryval (AD) kommunikálva bekérte a bérlő adatait a Service Connection Point (SCP) szolgáltatásból. Az SCP ellenőrzéséhez tanulmányozza ezt a [dokumentumot.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
 > [!NOTE]
-> Ha a VPN-en tartózkodik, és a kijelentkezési bejelentkezési folyamat lemondja a tartomány kapcsolatát, a regisztrációt kézzel is aktiválhatja:
- 1. Dsregcmd/JOIN a rendszergazdától, vagy távolról a PSExec-on keresztül a számítógépre. Például PsExec-s \\ win10client01 cmd, dsregcmd/JOIN
+> Azt javasoljuk, hogy az AD-ben engedélyezi az SCP-t, és csak ügyféloldali SCP-t használva.
 
- 2. A hibrid kapcsolódási problémákkal kapcsolatos további részletekért olvassa el az [eszközökkel kapcsolatos problémák elhárítása](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)című témakört.
+2. Windows 10 megpróbál kommunikálni az Azure AD-val a rendszerkörnyezetben, hogy hitelesítse magát az Azure AD-val. Az Eszköz-regisztrációs kapcsolat tesztelése parancsprogramot használva ellenőrizheti, hogy az eszköz hozzáfér-e a rendszerfiók microsoftos erőforrásaihoz.
+
+3. Windows 10 önaírt tanúsítványt hoz létre, és a számítógép-objektum alatt tárolja a helyszíni AD-ban. Ehhez szem előtt kell lennie a tartományvezérlőnek.
+
+4. A tanúsítvánnyal rendelkezik eszközobjektumokat a rendszer szinkronizálja az Azure AD szolgáltatáson keresztül az Azure AD Csatlakozás. A szinkronizálási ciklus alapértelmezés szerint 30 percenként van, de attól függ, hogy az Azure AD-fiók hogyan van Csatlakozás. További információért olvassa el ezt a [dokumentumot.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. Ebben a fázisban a tárgyeszközt "Függőben" állapotban kell látnia az Azure Portal Eszközszála alatt.
+
+6. A bejelentkezéshez a következő Windows 10 a regisztrációt. 
+
+> [!NOTE]
+> Ha VPN-t használ, és egy embléma-bejelentkezési folyamat megszünteti a tartomány csatlakozását, manuálisan elindíthatja a regisztrációt:
+ 1. Dsregcmd /join hibát ad meg helyileg egy rendszergazdai üzenetben, vagy távolról, a PSExecen keresztül a PC-n. Például: PsExec -s \\ win10client01 cmd, dsregcmd /join
+
+ 2. A Hibrid csatlakozással kapcsolatos problémákról az Eszközproblémák elhárítása [témakörben olvashat bővebben.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)
