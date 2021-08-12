@@ -1,5 +1,5 @@
 ---
-title: Adatelérési hely
+title: Adathely
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,15 +11,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b42fd2380fc1a98d33443aa8cacdb23e55fa8832
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 848285b940c19e3d6bb2b42483f01d39bce3952f42aa723d51b1a6392f0f1dcc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731457"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914617"
 ---
-# <a name="data-location"></a>Adatelérési hely
+# <a name="data-location"></a>Adathely
 
-Ha meg szeretné tekinteni a bérlő helyét a felügyeleti központban, navigáljon a [ **szervezeti profil** lapjára](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) , és válassza az **adathely**parancsot.
+Bérlői webhelyének helyét a Felügyeleti központban a Szervezet [](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) profillapján, majd az Adathely parancsot **választva megtekintheti.**
 
-Azok az alkalmazások, amelyeknek nincs előfizetése, tekintse meg, hogy [Hol tárolja a Microsoft 365-ös ügyfél adatait](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
+Ha olyan alkalmazásra van előfizetve, amelyre nem előfizetett, a Hol Microsoft 365 az ügyféladatok [tárolása?](https://docs.microsoft.com/office365/enterprise/o365-data-locations)

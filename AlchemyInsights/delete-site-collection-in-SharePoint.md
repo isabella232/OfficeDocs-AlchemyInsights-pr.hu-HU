@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d87d45af15ff2e08c585f952994fbc60c3b840f92587170c45ab3c9b53c6e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948165"
 ---
 # <a name="delete-a-site"></a>Webhely törlése
 
-Ha töröl egy webhelyet, a program a törölt webhelyekre helyezi át, és 93 napra megőrzi. Ha törölni szeretne egy webhelyet, lépjen az [aktív webhelyek](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)elemre. 
+Ha töröl egy webhelyet, az a Törölt webhelyekre kerül, és 93 napig megmarad. Webhely törléséhez kattintson az Aktív [webhelyek gombra.](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) 
 
-Ha töröl egy webhelyet, annak minden része törlődik, többek között az alábbiak:
+Amikor töröl egy webhelyet, a benne található összes adatokat törli, beleértve az alábbiakat:
 
-- Dokumentumtárakat és fájlokat.
-- A listák és a lista adatainak megjelenítése
-- Webhely beállításai és előzmények parancsra.
-- Alwebhelyek és azok tartalma.
+- Dokumentumtárak és -fájlok.
+- Listák és listaadatok.
+- Webhely beállításai és előzményei.
+- Az esetleges al webhelyek és tartalmuk.
 
-A webhelyek törlése előtt értesítenie kell a webhely rendszergazdáit és az alwebhelyek tulajdonosait, hogy az adataikat más helyre tudják áthelyezni, és a felhasználókat a törölt webhelyek törlésekor is tájékoztassa.
+A webhely törlése előtt értesítenie kell a webhelygazdát és az alwebhely-tulajdonosokat, hogy áthelyezni tudják adataikat egy másik helyre, és tájékoztatják a felhasználókat arról, hogy mikor lesznek törölve a webhelyek.
 
-További információt [a webhely törlése](https://docs.microsoft.com/sharepoint/delete-site-collection)című témakörben talál.
+További információ: [Webhely törlése.](https://docs.microsoft.com/sharepoint/delete-site-collection)

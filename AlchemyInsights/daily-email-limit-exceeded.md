@@ -1,5 +1,5 @@
 ---
-title: A napi e-mail-korlát túllépve. A munkafolyamat fel van függesztve.
+title: Túllépte a napi levelezési korlátot. A munkafolyamat fel van függesztve.
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: dfb42b24f1c2b4b05cb067a82505a6a8b63f277e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60ddbe68298e998a4e0b271a15209efc135c80638702c98dbcb3e0b2f1554860
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914653"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>A napi e-mail-korlát túllépve. A munkafolyamat fel van függesztve.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Túllépte a napi levelezési korlátot. A munkafolyamat fel van függesztve.
 
-A hiba az alábbi esetekben fogadható el:
+Ez a hiba az alábbi esetekben jelenhet meg:
 
-- Munkafolyamata van a SharePoint Online-ban, amely a SharePoint 2010 vagy a SharePoint 2013 munkafolyamat platform típusát használja.
-- A munkafolyamat úgy van konfigurálva, hogy az egyéni e-mail-üzeneteket több mint 200-felhasználónál, naponta több mint 10 000 címzett, vagy percenként több mint 30 üzenetet küldjön.
-- A munkafolyamat futtatásakor az e-maileket nem küldi el a program, és a következő viselkedést tapasztalja:
-    - Ha a munkafolyamathoz a SharePoint 2013 platformját használja, tallózással keresse meg a **munkafolyamat állapota** lapot. A Munkafolyamat állapota lapon a **belső állapot** az **Indítás**értékre van állítva, az információs buborék pedig **nem tud elküldeni a címzetteknek**.
+- A SharePoint Online-ban van egy olyan munkafolyamata, amely a SharePoint 2010 vagy SharePoint 2013-as munkafolyamat-platformtípust használja.
+- A munkafolyamat úgy van konfigurálva, hogy egyszerre több mint 200 felhasználónak, naponta több mint 10 000 címzettnek vagy percenként több mint 30 üzenetnek küldjön egyéni e-mailt.
+- A munkafolyamat futtatásakor az e-mail nem lesz elküldve, és a következő viselkedést veszi észre:
+    - Az SharePoint 2013 platformtípust használó munkafolyamatok esetén a Munkafolyamat **állapota lapra kell** tallózni. A Munkafolyamat állapota lapon  a Belső állapot beállítás Elindítva **,** az információs buborék pedig a Nem lehet üzenetet küldeni **a címzettnek üzenet jelenik meg.**
 
-A probléma megoldásához állítsa be úgy a munkafolyamatot, hogy e-mail-üzeneteket küldjön az [Exchange Online-beli feladó korlátozásainak](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)túllépése nélkül. Használhatja például a munkafolyamatban a szünetet, elküldheti az e-mailt egy Microsoft 365-csoportba, egy terjesztési csoportba vagy egy levelezési biztonsági csoportba, vagy elküldheti az üzenetet legalább 200 címzettnek.
+A probléma megoldásához konfigurálja a munkafolyamatot úgy, hogy e-maileket küldjön anélkül, hogy túllépte volna a [Exchange Online korlátait.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits) Használhat például egy szüneteltetési funkciót a munkafolyamatban, elküldheti az e-mailt egy Microsoft 365-csoportnak, terjesztési csoportnak vagy levelezési címmel rendelkező biztonsági csoportnak, vagy egyszerre kevesebb mint 200 címzettnek küldheti el az üzenetet.
 
 
-További információt a következő [cikkben](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)talál.
+További információt a következő cikkben [talál.](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)
 
 ## <a name="related-topics"></a>Kapcsolódó témakörök
-- [Folyamatábra létrehozása](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint és flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [Új Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint és Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

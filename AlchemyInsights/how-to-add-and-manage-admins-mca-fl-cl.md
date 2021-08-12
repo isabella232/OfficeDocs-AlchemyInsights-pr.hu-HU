@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 924e195740e55c53b9605a9b9bd694a72cf9951006d1dc5e888023cd6e3f9d45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963825"
 ---
 # <a name="how-to-add-and-manage-admins"></a>Rendszergazdák hozzáadása és kezelése
 
-A probléma leírása alapján megtalálunk egy megoldást. A legtöbb ügyfél saját maga oldhatja fel a problémát a dokumentációt követően.
+A probléma leírása alapján megoldást találtunk az Ön számára. A legtöbb ügyfél a dokumentációt követően egyedül megoldotta a problémát.
 
-A Microsoft Customer Agreement (MCA) számlázási fiókjának kezeléséhez eltérő szerepköröket használhat az Access kívánt szintjéhez. Ezek a szerepkörök az Azure rendszer beépített szerepköreit is magukban foglalják, amelyek segítik az erőforrások irányítását.
+A Microsoft ügyfélszerződés (MCA) számlázási fiókjának kezeléséhez különböző szerepköröket használhat a kívánt hozzáférési szinttel. Ezek a szerepkörök az Azure beépített szolgáltatási szerepkörei mellett vannak, amelyek segítenek az erőforrások szabályozásában.
 
-**Számlázási Szerepkörök hozzáadása az Azure portálon:**
+**Számlázási szerepkörök hozzáadása az Azure Portalon:**
 
-1. Bejelentkezés az [Azure portálra](https://portal.azure.com/)
-2. Keressen a *Cost Management + számlázás* lapra.
-3. Válassza a hozzáférés-vezérlés (IAM) lehetőséget olyan hatókörben, mint például a Számlázási fiók, a számlázási profil vagy a számla szakasz, ahol hozzáférést szeretne adni.
-4. A hozzáférés-vezérlés (IAM) lap felsorolja azokat a felhasználókat és csoportokat, amelyek az adott hatókörhöz tartozó egyes szerepkörökhöz vannak rendelve.
-5. Ha hozzáférést szeretne adni egy felhasználóhoz, válassza a lap tetején a **Hozzáadás** lehetőséget. A *szerepkör* legördülő listában válasszon egy szerepkört. Adja meg annak a felhasználónak az e-mail-címét, akinek hozzáférést szeretne adni. A szerepkör hozzárendeléséhez válassza a **Mentés** gombot.
-6. Ha el szeretné távolítani a hozzáférést egy felhasználóhoz, jelölje ki azt a felhasználót, akivel el szeretné távolítani az eltávolítandó szerepkör-feladatot. Kattintson az **Eltávolítás** gombra.
+1. Jelentkezzen be az [Azure portálra](https://portal.azure.com/).
+2. Keresse meg a *Költségkezelés + számlázás* elemet.
+3. Válassza a Hozzáférés-vezérlés (IAM) lehetőséget egy olyan hatókörben, mint amilyen például a számlázási fiók, a számlázási profil vagy a számlaszakasz, ahol hozzáférést szeretne adni.
+4. A Hozzáférés-vezérlés (IAM) lap felsorolja az adott hatókörben az egyes szerepkörhöz hozzárendelt felhasználókat és csoportokat.
+5. Ha hozzáférést szeretne adni  egy felhasználónak, válassza a Hozzáadás lehetőséget a lap tetején. A Szerepkör *legördülő* listában válasszon egy szerepkört. Írja be annak a felhasználónak az e-mail-címét, akinek hozzáférést szeretne adni. Válassza a **Mentés** lehetőséget a szerepkör hozzárendeléséhez.
+6. Egy felhasználó hozzáférésének eltávolításához jelölje ki azt a felhasználót, aki az eltávolítani kívánt szerepkör-hozzárendeléssel rendelkezik. Válassza az **Eltávolítás lehetőséget.**
 
 **Ajánlott dokumentumok**
 
 - [Számlázási szerepkör-definíciók](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
-- [Számlázási fiók – szerepkörök és feladatok](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)
-- [Első lépések az MCA számlázási fiókjával](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-overview)
-- [Microsoft-ügyfél-szerződéshez való hozzáférés ellenőrzése](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Számlázási fiókok szerepkörei és feladatai](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)
+- [Az MCA számlázási fiókkal kapcsolatos első lépések](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-overview)
+- [A Microsoft ügyfélszerződéshez való hozzáférés ellenőrzése](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)

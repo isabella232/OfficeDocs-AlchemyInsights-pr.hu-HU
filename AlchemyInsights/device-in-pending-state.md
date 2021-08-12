@@ -1,5 +1,5 @@
 ---
-title: Eszköz függőben állapotban
+title: Eszköz függőben lévő állapotban
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,54 +12,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: f70b43a8b914b0d2dda9db61606b8ae24523f869
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678482"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914005"
 ---
-# <a name="device-in-pending-state"></a>Eszköz függőben állapotban
+# <a name="device-in-pending-state"></a>Eszköz függőben lévő állapotban
 
-**Előfeltételek**
+**Előfeltételek:**
 
-1. Ha első alkalommal állítja be az eszközök regisztrációját, győződjön meg arról, hogy az Azure Active Directory-ban az Azure Active Directory-ban áttekintheti az [eszközillesztők bevezetését](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) , amely bemutatja, hogy miként szerezhet be eszközöket az Azure ad felügyelete alá.
-2. Ha közvetlenül az Azure AD-ba jelentkezik be, és beiratkozik őket a Intune-ba, gondoskodnia kell arról, hogy az Intune-t [konfigurálta](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) , és először a [licencet](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) állítsa be.
-3. Ellenőrizze, hogy jogosult-e műveletek végrehajtására az Azure AD-ban és a helyszíni AD-ban. Az Azure AD szolgáltatásban csak egy globális rendszergazda kezelhetik az eszközök regisztrációjának beállításait. Ha a helyszíni Active Directoryban automatikus regisztrációkat állít be, az Active Directory és az Active Directory összevonási szolgáltatások (ha szükséges) rendszergazdájának kell lennie.
+1. Ha első alkalommal ad meg eszközregisztrációkat, kérjük, tekintse át a Bevezetés az eszközkezelésbe az [Azure Active Directory -ban (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) bemutatót, amely útmutatást ad arról, hogy miként irányíthatja az eszközöket az Azure AD irányításához.
+2. Ha közvetlenül regisztrál eszközöket az Azure AD-be, és regisztrálja őket az Intune-ba, [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) először meg kell bizonyosodnia arról, hogy konfigurálta az [Intune-t,](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) és megfelelően beállította a licencelést.
+3. Győződjön meg arról, hogy jogosult műveletek elvégzésére az Azure AD-ban és a helyszíni AD-ban. Az eszközregisztrációk beállításait csak az Azure AD globális rendszergazdája kezelheti. Ezenkívül ha automatikus regisztrációt hoz létre a helyszíni Active Directoryban, akkor az Active Directory és az Active Directory FS (ha van) rendszergazdájának kell lennie.
 
-A hibrid Azure AD csatlakozás regisztrációs folyamathoz a vállalati hálózatban lévő eszközökre van szükség. Ez a funkció többek között a VPN-en is működik, de van némi kikötése. Hallottuk, hogy az ügyfelek segítségre szorulnak a hibrid Azure AD-csatlakozás regisztrációs folyamatának hibaelhárítása távoli munkakörülmények között.
+A hibrid Azure AD-csatlakozás regisztrációs folyamata megköveteli, hogy az eszközök vállalati hálózatot használjanak. A VPN-en keresztül is működik, de ennek vannak kikötései. Ügyfeleink szerint távoli munkahelyi körülmények között segítségre van szükségük az Azure AD bekapcsolódási folyamatának hibaelhárításához.
 
-**Felhőalapú hitelesítési környezet (az Azure AD Password hash szinkronizálása vagy a továbbítás hitelesítése)**
+**Felhőalapú hitelesítési környezet (Azure AD-jelszó kivonatszinkronizálás vagy átmenő hitelesítés használata)**
 
-Ez a regisztrációs folyamat "szinkronizálási csatlakozás" néven is ismert.
+Ezt a regisztrációs folyamatot szinkronizálási illesztésnek is nevezik.
 
-Itt megtudhatja, hogy mi történik a regisztrációs folyamat során:
+Az alábbi részletezés be van lebontva arra, hogy mi történik a regisztrációs folyamat során:
 
-1. A Windows 10 feltárta a Service Connection Point (SCP) rekordját, amikor a felhasználó bejelentkezik az eszközre.
+1. Windows 10 szolgáltatás csatlakozási pont (SCP) rekordját, amikor a felhasználó bejelentkezik az eszközre.
 
-    1. Az eszköz először az ügyféloldali SCP-ből kísérli meg beolvasni a bérlői adatokat a beállításjegyzékben [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. További információt a [dokumentum](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)című témakörben találhat.
-    1. Ha nem működik, az eszköz a helyszíni Active Directoryval kommunikál a bérlői adatoknak a SZOLGÁLTATÁSKAPCSOLÓDÁSI pontból való beszerzéséhez. A SZOLGÁLTATÁSKAPCSOLÓDÁSI pont ellenőrzéséhez tekintse át ezt a [dokumentumot](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
-
-    > [!NOTE]
-    > Javasoljuk, hogy engedélyezze az SCP használatát az Active Directoryban, és csak ügyféloldali szolgáltatáskapcsolódási pontok használatát a kezdeti ellenőrzéshez.
-
-2. A Windows 10 a rendszerkörnyezetben próbál meg kommunikálni az Azure AD szolgáltatással, és az Azure AD-ot használva hitelesíti magát.
-
-    Ellenőrizheti, hogy az eszköz hozzáférhet-e a Microsoft-erőforrásokhoz a rendszerfiók csoportban a számítógép- [nyilvántartási csatlakozási parancsfájl](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0)használatával.
-
-3. A Windows 10 önaláírt tanúsítványt hoz létre, és a számítógép-objektum alatt tárolja a helyszíni Active Directoryban. Ehhez a tartományvezérlőt kell megadnia.
-
-4. A tanúsítványt tartalmazó eszköz-objektum az Azure ad Connecten keresztül szinkronizálódik az Azure AD-hoz. A szinkronizálási ciklus alapértelmezés szerint minden 30 perc, de az Azure AD Connect konfigurációjától függ. További információért olvassa el ezt a [dokumentumot](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. Ebben a szakaszban látnia kell a tárgy eszközt "**függőben**" állapotban az Azure-portál eszköz Blade területén.
-
-6. A Windows 10 rendszer következő felhasználó bejelentkezésekor a regisztráció be lesz töltve.
+    1. Az eszköz először megpróbálja lekérni a bérlői adatokat az ügyféloldali SCP-értékből a beállításjegyzékben [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. További információ: [dokumentum.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
+    1. Ha nem sikerül, az eszköz a helyszíni Active Directoryval kommunikálva bekérte a bérlői adatokat az SCP-től. Az SCP ellenőrzéséhez tanulmányozza ezt a [dokumentumot.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)
 
     > [!NOTE]
-    > Ha a VPN és a kijelentkezés/bejelentkezés funkció lemondja a tartomány kapcsolatát, akkor a regisztrációt kézzel is aktiválhatja. Teendő:
-    >
-    > Az `dsregcmd /join` PSExec-on keresztül távolról, a számítógépén keresztül is kiadhatja a helyileg a rendszergazdát.
-    >
-    > Példa: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    > Azt javasoljuk, hogy az Active Directoryban engedélyezi az SCP-t, és csak ügyféloldali SCP-t használva.
 
-Az Azure Active Directory-regisztrációval kapcsolatos gyakori problémák az [eszközök – gyakori kérdések](https://docs.microsoft.com/azure/active-directory/devices/faq)című témakörben olvashatók.
+2. Windows 10 megpróbál kommunikálni az Azure AD-val a rendszerkörnyezetben, hogy hitelesítse magát az Azure AD-val.
+
+    Az Eszköz-regisztrációs kapcsolat tesztelése parancsprogramot használva ellenőrizheti, hogy az eszköz hozzáfér-e a rendszerfiók microsoftos [erőforrásaihoz.](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0)
+
+3. Windows 10 önaírt tanúsítványt hoz létre, és a számítógép-objektum alatt tárolja a helyszíni Active Directoryban. Ehhez szem előtt kell lennie a tartományvezérlőnek.
+
+4. A tanúsítvánnyal rendelkezik eszközobjektumot a rendszer szinkronizálja az Azure AD szolgáltatáson keresztül az Azure AD Csatlakozás. A szinkronizálási ciklus alapértelmezés szerint 30 percenként van, de attól függ, hogy hogyan van konfigurálva az Azure AD Csatlakozás. További információért olvassa el ezt a [dokumentumot.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+
+5. Ebben a fázisban az Azure Portal eszközszála alatt látható a tárgyeszköz " függőben **"** állapota.
+
+6. A bejelentkezéshez a következő Windows 10 a regisztrációt.
+
+    > [!NOTE]
+    > Ha VPN-t használ, és az embléma/bejelentkezés megszünteti a tartomány csatlakozását, manuálisan elindíthatja a regisztrációt. A következőt kell tenni:
+    >
+    > Helyileg vagy a PSExecen keresztül a PC-n keresztül helyileg is közzétehető `dsregcmd /join` rendszergazdai kérést ad.
+    >
+    > Például: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+
+Az eszközregisztrációval kapcsolatos gyakori Azure Active Directory olvassa el az Eszközök – gyakori [kérdések című témakört.](https://docs.microsoft.com/azure/active-directory/devices/faq)
