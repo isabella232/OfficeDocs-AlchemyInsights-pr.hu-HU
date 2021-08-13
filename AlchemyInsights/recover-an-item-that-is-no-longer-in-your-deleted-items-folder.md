@@ -1,5 +1,5 @@
 ---
-title: A törölt elemek mappában már nem szereplő elem visszaállítása
+title: A Törölt elemek mappában már nem található elem helyreállítása
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,38 +13,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 81a7a2e9623c788743fad99e15c4d771bb12a6c1c81f35a9d2a6a0729ecf8db7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564786"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062350"
 ---
-# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>A törölt elemek mappában már nem szereplő elem visszaállítása
+# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>A Törölt elemek mappában már nem található elem helyreállítása
 
-Ha nem talál egy elemet a törölt elemek mappában, a következő hely, ahol érdemes keresni, a helyreállítható elemek mappa. Ez egy rejtett mappa, amelyet az elemek a következő esetekben kerülnek át:
-- Törlődnek a törölt elemek mappából.
-- A törölt elemek mappa az Ön által vagy az Ön rendszergazdája által beállított házirend szerint ürítve van.
-- Egy elemet úgy törölhet, hogy kijelöli, majd lenyomja a **SHIFT + DELETE** billentyűkombinációt.
+Ha nem talál egy elemet a Törölt elemek mappában, a következő hely, ahol keresni lehet, a Helyreállítható elemek mappa. Ez egy rejtett mappa, amelybe az elemek a következő esetben kerülnek:
+- Ezek törlődnek a Törölt elemek mappából.
+- A Törölt elemek mappát kiürül a rendszer, akár Ön, akár a rendszergazda által beállított házirend.
+- Az elemek törléséhez jelölje ki őket, és nyomja le a **Shift+Delete billentyűkombinációt.**
 
-A helyreállítható elemek mappába áthelyezett elemek megtekintése és helyreállítása:
-1. Jelentkezzen be az Outlook Web Appba egy böngészőben azon az URL-címen, amelyet a szervezeténél az e-mailekért felelős személytől kapott meg. Adja meg a felhasználónevét és a jelszavát, majd válassza a **Bejelentkezés** gombot.
-1. A levelezési mappák listájában kattintson a jobb gombbal a **törölt elemek** mappára, és válassza a **törölt elemek helyreállítása** parancsot.
-1. Ha szükséges, használja a keresőmezőt a helyreállítani kívánt elem megkereséséhez.
-1. Amikor megtalálta az elemet, jelölje ki, és kattintson a **helyreállítás** elemre.
-   A helyreállított elemek az egyes elemtípus-típusokhoz tartozó alapértelmezett helyre kerülnek.
-    - Az üzenetek a Beérkezett üzenetek mappába kerülnek.
-    - A naptárelemek a naptárba kerülnek.
-    - A névjegyek a Névjegyalbum mappába kerülnek.
-    - A feladatok a feladatok mappába kerülnek.
+A Helyreállítható elemek mappába áthelyezendő elemek megtekintése és helyreállítása:
+1. Jelentkezzen be az Outlook Web Appba egy böngészőben azon az URL-címen, amelyet a szervezeténél az e-mailekért felelős személytől kapott meg. Írja be a felhasználónevét és a jelszavát, majd válassza a **Bejelentkezés lehetőséget.**
+1. Az e-mail mappalistában kattintson a jobb gombbal a Törölt elemek **elemre,** majd válassza a **Törölt elemek helyreállítása parancsot.**
+1. Ha szükséges, a keresőmező segítségével keresse meg a helyreállítani kívánt elemet.
+1. Ha megtalálja az elemet, jelölje ki, és kattintson a helyreállítás **elemre.**
+   A helyreállított elemek minden elemtípus alapértelmezett helyére kerülnek.
+    - Az üzenetek a Beérkezett üzenetek mappába mennek.
+    - A naptárelemek a naptárba mennek.
+    - A névjegyek a Névjegyek mappába kerülnek.
+    - A feladatok a Feladatok mappába kerülnek.
 
-**Tippek az elemek helyreállításához a helyreállítható elemek mappában**
+**Tippek helyreállítható elemek mappában lévő elemek helyreállításához**
 
-- A helyreállítható elemek mappában lévő elemek törölt dátuma akkor jelenik meg, ha az elem át lett helyezve a törölt elemek mappába. Nem az a dátum, amikor az elemet áthelyezték a helyreállítható elemek mappába.
-- A helyreállítható elemek mappában található elemek nem rendelkeznek ikonnal, így mind nagyon hasonlóak.
-    - Ha meg szeretne keresni egy névjegykártyát, keressen egy olyan elemet, amely a személy nevét tartalmazza, de nincs tárgy.
-    - Ha naptárban szeretne találkozót keresni, keressen egy olyan elemet, amely nem tartalmaz személy nevét vagy a tárgy sorát.
-    - Ha egy személyt, naptár-találkozót vagy feladatot keres, keresse meg az adott elem szövegét.
-- Több elem helyreállításához vigye az egérmutatót az egyes elemek fölé, és jelölje be a mellette lévő jelölőnégyzetet, és kattintson a **helyreállítás** elemre. Ha több egymás melletti elemet is vissza szeretne állítani, jelölje be az első elem jelölőnégyzetét, tartsa lenyomva a **SHIFT** billentyűt, és jelölje be az utolsó elem jelölőnégyzetét. Ha minden elem ki van jelölve, válassza a **helyreállítás** lehetőséget.
-- A **törölt elemek visszaállítása** listából törölheti az elemeket. Csak jelölje ki a kívánt elemet, és válassza a **végleges törlés** lehetőséget. Ha töröl egy elemet, akkor nem fogja tudni használni a törölt elemek visszaállítása elemet. Az üzenetek végleges törlésével a program nem távolítja el azt a törölt biztonsági másolatból.
-- Előfordulhat, hogy szervezete meghatározta, hogy mennyi ideig legyenek elérhetők a helyreállítható elemek mappában található elemek. Lehet például olyan házirend, amely 30 napig törli a törölt elemek mappában található elemeket, valamint egy másik házirendet, amely lehetővé teszi a helyreállítható elemek mappában található elemek helyreállítását, akár egy másik 14 napra.
+- A Helyreállítható elemek mappában lévő elem törlési dátuma az a dátum, amikor az elemet a Törölt elemek mappába áthelyezte. Ez nem az a dátum, amikor az elem a Helyreállítható elemek mappába került.
+- A Helyreállítható elemek mappában lévő elemekhez nem jelennek meg ikonok, így nagyon hasonlítanak egymásra.
+    - Ha névjegyet keres, olyan elemet keressen, amely az adott személy nevét tartalmazza, tárgysor nélkül.
+    - Ha naptárban találkozót keres, olyan elemet keresse, amely nem tartalmazza a személy nevét vagy tárgysorát.
+    - Ha névjegyet, naptári találkozót vagy feladatot keres, keresse meg az elem szövegét.
+- Több elem helyreállításához mutasson az egyes elemekre, és jelölje be a mellette lévő jelölőnégyzetet, és kattintson a helyreállítás **elemre.** Ha több egymás melletti elemet is helyre tud állítani, jelölje be az első elem jelölőnégyzetét, tartsa lenyomva a **Shift** billentyűt, majd jelölje be az utolsó elem jelölőnégyzetét. Ha az összes elem ki van jelölve, válassza a helyreállítás **elemet.**
+- Véglegesen törölhet elemeket a Törölt **elemek helyreállítása listából.** Egyszerűen jelölje ki az elemet, majd válassza a **Végleges végleges elemet.** Ha véglegesen töröl egy elemet, nem fogja tudni visszaállítani a Törölt elemek helyreállítása elemet. Az üzenetek végleges törlése nem távolítja el őket a végleges törlése előtt készített biztonsági másolatból.
+- Előfordulhat, hogy szervezete meghatározta, hogy mennyi ideig lehet elemeket helyreállítani a Helyreállítható elemek mappában. Lehet például egy olyan házirend, amely 30 nap múlva törli a Törölt elemek mappában lévő elemeket, illetve egy másik házirend, amely 14 napig lehetővé teszi elemek helyreállítását a Helyreállítható elemek mappában.

@@ -1,5 +1,5 @@
 ---
-title: A SharePoint központi webhelyek áttekintése
+title: SharePoint webhelyek áttekintése
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,27 +11,27 @@ ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
 ms.custom:
 - "1591"
 - "5300012"
-ms.openlocfilehash: 99e4cc09df3e7e687e192069c09af229202b55af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d95c282ef6b6fb33736cce1bd8112476639cb0ecacc04a99e06869bf3feb830f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093760"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>A SharePoint központi webhelyek áttekintése
+# <a name="sharepoint-hub-sites-overview"></a>SharePoint webhelyek áttekintése
 
-A SharePoint-alapú webhelyek segítenek a szervezet igényeinek kielégítésében, ha a projektek, részlegek, divíziók, régiók stb. segítségével megkönnyítik a következő feladatok elvégzését:
+SharePoint központi webhelyek segítenek a szervezet igényeinek kielégítése abban, hogy projektek, részlegek, részlegek, régiók stb. alapján összekapcsolja és rendezi a webhelyeket, megkönnyítve ezzel a következőt:
 
-- Fedezze fel a kapcsolódó tartalmakat, például híreket és más webhely-tevékenységeket.
+- Felfedezheti a kapcsolódó tartalmakat, például híreket és egyéb webhelytevékenységeket.
 
-- Gyakori navigálás és védjegyezés alkalmazása a kapcsolódó webhelyeken. 
+- Közös navigáció és arculat alkalmazása a társított webhelyeken. 
 
-- Keresés az összes társított webhelyen
+- Keresés az összes társított webhely között.
 
-A központi webhelyekről további információt az alábbi témakörökben találhat:
-- [Központi webhely létrehozása a SharePoint Online-ban](https://docs.microsoft.com/sharepoint/create-hub-site): megtudhatja, hogy miként hozhat létre központi webhelyet az új felügyeleti központból vagy powershellből.
+A központi webhelyekkel kapcsolatos további információkért lásd az alábbiakat:
+- [Központi webhely létrehozása a SharePoint](https://docs.microsoft.com/sharepoint/create-hub-site)Online-ban: Megtudhatja, hogy miként hozhat létre központi webhelyet az új Felügyeleti központban vagy PowerShellben.
 
-- [SharePoint-webhely társítása egy központi webhellyel](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): a meglévő webhelyek társítása egy központi webhelyre az új felügyeleti központból vagy a powershellből című témakörben tájékozódhat.
+- [Társítsa a SharePoint](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)egy központi webhelyhez: Megtudhatja, hogy hogyan társítja a meglévő webhelyeket egy központi webhelyhez az új Felügyeleti központból vagy a PowerShellből.
 
-- [Hub-webhely eltávolítása](https://docs.microsoft.com/sharepoint/remove-hub-site): itt megtudhatja, hogy miként távolíthat el egy meglévő központi webhelyet az új felügyeleti központban vagy PowerShellben.
+- [Központi webhely eltávolítása:](https://docs.microsoft.com/sharepoint/remove-hub-site)Megtudhatja, hogy miként távolíthat el egy meglévő központi webhelyet az új Felügyeleti központban vagy a PowerShellben.
 
