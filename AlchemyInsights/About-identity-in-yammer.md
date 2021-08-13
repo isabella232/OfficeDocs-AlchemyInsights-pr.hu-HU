@@ -1,5 +1,5 @@
 ---
-title: Tudnivalók az identitásról az Yammer-on
+title: Identitás a Yammer
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6039"
 - "9003111"
-ms.openlocfilehash: f417117acac4c3040932fc0a35e5d0b1c3709cd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 57e7e6328747fc05b89799d631b2c6d7e0056547253aa3d75cdecb38cea3ad7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918939"
 ---
-# <a name="about-identity-in-yammer"></a>Tudnivalók az identitásról az Yammer-on
+# <a name="about-identity-in-yammer"></a>Identitás a Yammer
 
-Az identitással kapcsolatos problémák elkerülése érdekében ajánlott a minden hálózat a következő lépéseket végrehajtani:
+Azt javasoljuk, hogy az identitással kapcsolatos problémák elkerülése érdekében minden hálózat az alábbi lépéseket kövesse:
 
-1. Az Office 365-identitás érvényesítése a Microsoft 365-fiókok létesítése után az Azure AD felhasználói számára annak érdekében, hogy a felhasználók az elsődleges Microsoft 365-fiók segítségével bejelentkeznek. További információt a Yammer- [felhasználók Office 365-identitásának érvényesítése](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity)című témakörben talál.
-2. Több Yammer-hálózat összevonása. A régebbi Yammer-konfigurációk lehetővé teszik, hogy több Yammer-hálózat csatlakozzon egy bérlőhöz. További információt a [hálózati áttelepítés – több Yammer-hálózat megszilárdítása](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)című témakörben talál.
-3. Ha nem rendelkezik licenccel, akkor kényszerítheti a Yammer, hogy a felhasználók ne Yammer le a felhasználókat. További információt a [Yammer felhasználói licencek kezelése az Office 365-ban](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)című témakörben találhat.
-4. Végezetül ellenőrizze a felhasználók listáját a régebbi Yammer-hálózatokhoz, és felfüggessze a régi felhasználókat. Javasoljuk, hogy a törlés helyett a felhasználókat felfüggessze (inaktiválja), mert a törlés visszafordíthatatlan. További információt a [Yammer-felhasználók naplózása az Office 365-hoz csatlakoztatott hálózatokban](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) és a [felhasználók eltávolítása](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users)című témakörben talál.
+1. Kényszerítsen Office 365 identitásra az Azure AD-beli felhasználók Microsoft 365-fiókjainak kiépítése után annak érdekében, hogy minden felhasználó az elsődleges Microsoft 365 használatával jelentkezzen be. További információért [lásd: A Office 365 identitásának érvényesítése a Yammer számára.](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity)
+2. Több hálózat Yammer összesíteni. A régi Yammer több Yammer teszi lehetővé, hogy egy bérlőhöz kapcsolódjon. További információ: Hálózati áttelepítés – Több Yammer [összesítése.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
+3. Ha licenccel nem rendelkezik, Yammer licenccel rendelkező felhasználók Yammer letilthatja a licenccel rendelkező felhasználókat. További információt a [Felhasználói licencek Yammer kezelése a](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)Office 365.
+4. Végül a régebbi hálózat felhasználói listájának naplózásával Yammer fel a régebbi felhasználókat. Javasoljuk, hogy a törlés helyett függessze fel (inaktiválja) a felhasználókat, mivel a törlés nem lehetséges. További információt a [Felhasználók naplózása Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) és a Felhasználók eltávolítása Office 365 [lapon.](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users)
 
-Ha a fenti lépésekkel konfigurálja a Yammer, akkor is készen áll a Yammer-hálózat konfigurálására natív módra a Microsoft 365-ban. További információt a Yammer- [hálózat beállítása natív módra a Microsoft 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode)című témakörben talál.
+Ha ezekkel a Yammer konfigurálja a hálózatát, készen áll arra, hogy a saját Yammer a saját hálózatát a számítógép natív Microsoft 365. További információt A saját hálózat beállítása Yammer a számítógép natív módjához [Microsoft 365.](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode)

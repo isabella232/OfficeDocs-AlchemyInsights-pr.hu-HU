@@ -1,5 +1,5 @@
 ---
-title: Házon kívül automatikus válaszok beállítása az Outlookban
+title: A "irodán kívül" funkció automatikus válaszának beállítása a Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "3514"
 - "9000761"
-ms.openlocfilehash: 4ac8c5c4eac5ae9c1ea1b14595e69d983ee4b007
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb378f0a51ff4cdd16227bbeca4aeceac0002c27e5982d1a2bb25579dc2cd21b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671554"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924699"
 ---
-# <a name="set-up-out-of-office-automatic-replies"></a>Házon kívül automatikus válaszok beállítása
+# <a name="set-up-out-of-office-automatic-replies"></a>Automatikus "irodán kívül" válaszok beállítása
 
-- [Automatikus válaszok beállítása egy felhasználó postaládájánál a Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/configure-mailboxes/set-automatic-replies)
+- [Az automatikus válaszok beállítása egy felhasználó postaládájában a Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/configure-mailboxes/set-automatic-replies)
 - [Házon kívül válaszok automatikus küldése az Outlook-ban](https://support.office.com/article/9742f476-5348-4f9f-997f-5e208513bd67)
 - [Automatikus „házon kívül” válaszok küldése a Webes Outlookban](https://support.office.com/article/0c193ab0-b9e1-4058-84be-a5b014242290)
 - [Házon kívül válaszok automatikus küldése a Mac Outlookban](https://support.office.com/article/4e07ab75-beda-4f9e-bcdc-44471ebacdee)

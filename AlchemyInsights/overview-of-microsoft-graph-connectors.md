@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Graph összekötők – áttekintés
+title: A Microsoft összekötőinek Graph áttekintése
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924535"
 ---
-# <a name="overview-of-microsoft-graph-connectors"></a>A Microsoft Graph összekötők – áttekintés
+# <a name="overview-of-microsoft-graph-connectors"></a>A Microsoft összekötőinek Graph áttekintése
 
-A Microsoft Graph összekötők tervezéséről az  [Összekötők áttekintése](https://docs.microsoft.com/microsoftsearch/connectors-overview)című témakörben olvashat.
+A Microsoft Összekötők Graph az Összekötők áttekintése [témakörben olvashat.](https://docs.microsoft.com/microsoftsearch/connectors-overview)
 
-- Lásd: a Microsoft vagy [az összekötők által partnerek](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)által létrehozott [Összekötők](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) .
-- [Kezelheti az összekötőt a Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector)-ben.
+- Lásd: [Összekötők Microsoft vagy](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) [Összekötők partnerek szerint.](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Az összekötő kezelése Microsoft Keresés.](https://docs.microsoft.com/microsoftsearch/manage-connector)
 
-A Microsoft Search megtervezéséhez a  [Microsoft Search áttekintése](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)című témakörben talál további tájékoztatást.
+A csomag megterv Microsoft Keresés az Áttekintés [a](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)Microsoft Keresés.
