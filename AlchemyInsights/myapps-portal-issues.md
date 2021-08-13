@@ -13,44 +13,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
-ms.translationtype: HT
+ms.openlocfilehash: 09e5b7c40f77f6221acc7c072d3ddf6f072e8d7fafdf29be8262dfeed051dddd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986083"
 ---
 # <a name="myapps-portal-issues"></a>A MyApps portállal kapcsolatos problémák
 
-A Saját alkalmazások portálra való bejelentkezés vagy a Saját alkalmazások portál használata során tapasztalt problémák elhárításáról a Saját alkalmazások portál hibáinak elhárítása témakörben [kaphat további hasznosat.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+Ha a Saját alkalmazások portálra való bejelentkezéskor vagy a Saját alkalmazások portál használatával tapasztalt problémákat is meg tudja hárítani, tekintse át a Saját alkalmazások portál hibáinak [elhárítása témakört.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
-**Nem látom a várt alkalmazásokat az alkalmazáselérési panelen**
+**Nem látom a várt alkalmazásokat az alkalmazás-hozzáférési panelen**
 
-Ha segítségre van szüksége annak kiderítéséhez, hogy a várt alkalmazások miért nem jelennek meg az alkalmazáselérési panelen, tekintse át a következőt:
+Ha segítségre van szüksége annak kiderítéséhez, hogy a várt alkalmazások miért nem jelennek meg az alkalmazás-hozzáférési panelen, tekintse át a következőt:
 
 - [Nem tudom, hogy egy hozzárendelt alkalmazás miért nem jelenik meg a hozzáférési panelen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
 - [Nem tudom, miért jelenik meg egy alkalmazás a hozzáférési panelen](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Problémákat tapasztalok az alkalmazáselérési panelre való bejelentkezés során**
+**Problémákat tapasztalok az alkalmazás-hozzáférési panelre való bejelentkezés során**
 
-Az alkalmazáselérési panelre való bejelentkezéssel kapcsolatos problémák megoldásához lásd:
+Az alkalmazás-hozzáférési panelre való bejelentkezéssel kapcsolatos hibák elhárításához lásd:
 
 [Nem tudok bejelentkezni a hozzáférési panel webhelyére](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
 **Problémákat tapasztalok az alkalmazáselérési panel böngészőbővítményének használata során**
 
-Az alkalmazáselérési panel böngészőbővítményével kapcsolatos hibák elhárításához lásd:
+Az alkalmazás-hozzáférési panel böngészőbővítményével kapcsolatos hibák elhárításához lásd:
 
 [Hibaüzenet jelenik meg az alkalmazáselérési panel böngészőbővítményének telepítésekor](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
-**Problémákat tapasztalok egy funkcióval az alkalmazáselérési panelen**
+**Problémákat tapasztalok az alkalmazás-hozzáférési panel egyik funkcióval kapcsolatban**
 
-Az alkalmazáselérési panel adott funkcióval kapcsolatos problémáinak elhárításához lásd:
+Az alkalmazás-hozzáférési panel egy adott szolgáltatásával kapcsolatos problémák elhárításához lásd:
 
-- [Nem tudom, hogyan használhatom az önkiszolgáló alkalmazáselérést](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [Nem tudom, hogyan lehet önkiszolgáló alkalmazáselérést használni](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [Problémát észleltem az önkiszolgáló alkalmazáselérés használata során](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Problémát észleltem önkiszolgáló alkalmazás-hozzáférés használata során](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
 **Ha problémákat tapasztal a Saját alkalmazások portál telepítése vagy használata esetén**
 
@@ -60,7 +60,7 @@ A MyApps portál telepítésekor vagy használata során tapasztalt hibák elhá
     
 - [Önkiszolgáló alkalmazás-hozzárendelés konfigurálása](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [Végfelhasználói hibák elhárítása a Saját alkalmazások portálon](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Végfelhasználói problémák elhárítása a Saját alkalmazások portálon](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 

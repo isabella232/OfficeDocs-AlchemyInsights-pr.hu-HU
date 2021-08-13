@@ -1,5 +1,5 @@
 ---
-title: A Teams PS modul telepítése és ismertetése
+title: Teams PS-modul telepítése és hivatkozása
 ms.author: heidip
 author: heidip
 manager: serdards
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43eb15a49fe5f47aa524a6b3fd5cba39dfaa0bbb5e5c0643df90ae37b33dd1f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956547"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>A Microsoft Teams PowerShell modullal végezhető funkciók
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>A PowerShell modullal Microsoft Teams teljesítmény
 
-Ha tudni szeretné, hogy miként telepítheti a Teams PowerShell modult, megtekintheti [ezt a blogot](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
+Ha meg kell tudni, hogyan telepítheti a Teams PowerShell modult, nézze meg ezt a [blogot.](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)
 
 További információ:
 
-- Tekintse át a [Teams PowerShell-áttekintést](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) a [rendszergazdai szerepkör-funkciók](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)megismeréséhez, a [csoportok létrehozásához és kezeléséhez a PowerShell segítségével](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell), valamint a házirendek és [konfigurációk](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) [kezeléséhez](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) 
-- A PowerShellen keresztül elérhető parancsok listájának áttekintéséhez tekintse át a [Microsoft Teams PowerShell-parancs hivatkozását](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) . 
+- A Teams [PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) áttekintése című témakörben áttekintheti a rendszergazdai szerepkör [képességeit,](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)csoportokat hozhat létre és kezelhet a [Powershellen](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)keresztül, valamint kezelheti [a házirendeket](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) és a [konfigurációkat.](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) 
+- Tekintse Microsoft Teams [PowerShell parancshivatkozást](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) a PowerShellen keresztül elérhető parancsok listájáért. 

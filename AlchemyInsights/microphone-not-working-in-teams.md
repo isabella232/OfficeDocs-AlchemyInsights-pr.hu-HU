@@ -1,5 +1,5 @@
 ---
-title: A mikrofon nem működik a Teamsben
+title: A mikrofon nem működik a Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003568"
 - "6654"
-ms.openlocfilehash: 32461b94abb4d7caf80096a1d36f414801e52cfc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 2e734506a97f68509a3b41529bbdde07917472c10a24c1d40305fdad7feff41a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944709"
 ---
-# <a name="microphone-isnt-working-in-teams"></a>A mikrofon nem működik a Teamsben
+# <a name="microphone-isnt-working-in-teams"></a>A mikrofon nem működik a Teams
 
 Kezdje el a hibaelhárítást az alábbi lépésekkel:
 
-- A Windows és a Teams frissítésének keresése.
+- A frissítések Windows és Teams keresése.
 - Zárja be a mikrofont használó egyéb alkalmazásokat.
 - Teszthívások összehívása annak ellenőrzésére, hogy a mikrofon megfelelően működik-e.
 
-A részletekért és a hibaelhárítási lépésekért lásd: Nem működik a mikrofonom [a Teamsben.](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a)
+A részletekért és a hibaelhárítási lépésekért lásd: A mikrofonom nem működik a [Teams.](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a)

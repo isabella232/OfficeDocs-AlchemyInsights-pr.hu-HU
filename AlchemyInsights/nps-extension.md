@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "8603"
-ms.openlocfilehash: 6e4b4a0f9f891bbe6bc5140e119b55a802bcd7a5
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 26350d0adc665334163c5eff5f27b227bbf4c9312d76c441b2057471e99e0b30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985903"
 ---
 # <a name="network-policy-server-extension"></a>Network Policy Server extension
 
-Az Azure AD Multi-Factor Authentication hálózati házirend-kiszolgálója (NPS) bővítménye felhőalapú MFA-funkciókat ad a hitelesítési infrastruktúrához a meglévő kiszolgálók használatával. Az NMÉ-bővítmény segítségével anélkül adhat hozzá telefonhívást, SMS-t vagy telefonalkalmazás-ellenőrzést a meglévő hitelesítési folyamathoz, hogy új kiszolgálókat kell telepítenie, konfigurálnia és karbantartania.
+Az Azure AD Multi-Factor Authentication hálózati házirend-kiszolgálója (NPS) bővítmény a meglévő kiszolgálók használatával felhőalapú többtényezős hitelesítést ad a hitelesítési infrastruktúrához. Az NPS-kiterjesztéssel hozzáadhat telefonhívást, SMS-t vagy telefonalkalmazás-ellenőrzést a meglévő hitelesítési folyamathoz anélkül, hogy új kiszolgálókat kell telepítenie, konfigurálnia és fenntartania.
 
-Az NPS-bővítmény adapterként működik a SUGÁR és a felhőalapú Azure AD Multi-Factor Authentication között, hogy egy második hitelesítési tényezőt biztosítson az összevont vagy szinkronizált felhasználók számára.
+Az NPS-bővítmény adapterként működik a SUGÁR és a felhőalapú Azure AD Multi-Factor Authentication között, hogy egy második hitelesítési tényezőt biztosítson az összevont vagy szinkronizált felhasználóknak.
 
-Az NMÉ-bővítmény működését a meglévő hálózati házirend-kiszolgáló (NPS) infrastruktúrájának integrálása [az Azure AD többtényezős hitelesítéssel.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension)
+Az NPS-bővítmény működését A meglévő hálózati házirend-kiszolgáló (NPS) infrastruktúrájának integrálása [az Azure AD Többtényezős](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension)hitelesítésselcímű részen olvashat bővebben.

@@ -1,5 +1,5 @@
 ---
-title: Nyilvános mappa(ak) áthelyezése a nyilvános mappafiókok között
+title: Nyilvános mappa(ak) áthelyezése a nyilvános mappa postaládái között
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 5edcff180bb8599b882630b09f3bbff7c4a07c06
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: fc2a7de297b0c85046490b8e9147ea739f3c9a7f259a723d1c5ab95d57006fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986227"
 ---
-# <a name="move-public-folders-between-public-folder-mailboxes"></a>Nyilvános mappa(ak) áthelyezése a nyilvános mappafiókok között
+# <a name="move-public-folders-between-public-folder-mailboxes"></a>Nyilvános mappa(ak) áthelyezése a nyilvános mappa postaládái között
 
-Az Exchange Online-ban a nyilvános mappák áthelyezhetők a nyilvános mappafiókok között a Windows Outlook asztali ügyfélprogram használatával.
+Az online nyilvános Exchange a nyilvános mappapostafiókok között a Windows Outlook használatával lehet áthelyezni.
 
-Ha nyilvános mappákat próbál áthelyezni a helyszíni Exchange-ről az Exchange Online-be, olvassa el az alábbi cikkeket:
+Ha nyilvános mappákat próbál a helyszíni mappából Exchange online Exchange áthelyezni, olvassa el az alábbi cikkeket:
 
-[Exchange Server 2013,2016,2019 nyilvános mappák áttelepítése Exchange Online-ra](https://aka.ms/ModernPFToEXO)
+[2013 Exchange Server 2016,2019 nyilvános mappák áttelepítése Exchange mappába](https://aka.ms/ModernPFToEXO)
 
-[Exchange Server 2010 nyilvános mappák áttelepítése Exchange Online-ra](https://aka.ms/LegacyPFToEXO)
+[2010 Exchange Server nyilvános mappák áttelepítése Exchange Online](https://aka.ms/LegacyPFToEXO)
