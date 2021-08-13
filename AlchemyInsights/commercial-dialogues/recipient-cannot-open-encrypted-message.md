@@ -1,5 +1,5 @@
 ---
-title: A védett üzenetek Outlookban való megtekintésével kapcsolatos problémák megoldása
+title: A védett üzenetek üzenetben való megtekintésekor a Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3ed8f26a7745ab11282f4f52ad7dc5c84885227b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967155"
 ---
-# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>A védett üzenetek Outlookban való megtekintésével kapcsolatos probléma megoldása
+# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>A védett üzenetek üzenetben való megtekintésekor a Outlook
 
 Ha egy címzett problémát tapasztal egy titkosított üzenet megnyitásakor, győződjön meg arról, hogy a címzett az üzenetben található hivatkozásra kattintva kér egy egyszeres pin-kódot.
 
@@ -35,6 +35,6 @@ A titkosított üzenetek megnyitásához a felhasználóknak az alábbi lépése
 
 3. A **Folytatás gombra** kattintva olvassa el az üzenetet.
 
-További információt a Titkosított üzenetek küldése, megtekintése és megválaszolása a [PC-s Outlookban című témakörben található.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
+További információért lásd: Titkosított üzenetek küldése, megtekintése és megválaszolása [Outlook PC-n.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
 
 

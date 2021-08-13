@@ -1,5 +1,5 @@
 ---
-title: Hiányzó partnerek a javaslatok listában a levelek írása közben
+title: Hiányzó partner a javaslatlistában levél írása közben
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "1060"
-ms.openlocfilehash: 7a1b99ff336a50619c9560833c05785546634e27
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ae6e347c315af0e987b3fb1323b3a4a39ecc484f15eaeba75840b5ab134cc4d1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673967"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975211"
 ---
-# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a>Hiányzó partnerek a javaslatok listában a levelek írása közben
+# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a>Hiányzó partner a javaslatlistában levél írása közben
 
-1. Kattintson a **Címzett:** elemre, majd válasszon egy, a listából kiválasztott névjegykártyát.
-2. Válassza a **Küldés**gombot.
+1. Válassza **a To:** lehetőséget, majd jelöljön ki egy partnert a listából.
+2. Válassza a **Küldés gombot.**
 
-    A partnerek a javaslatok listájában jelennek meg.
+    A partner megjelenik a javaslatok listájában.

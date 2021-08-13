@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 3e576a11e223917160c2f31d3d83c54329013879
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 77cd36021099fbdb0980b2ba38c7cbdfaf4e53b00ad9729e0deb3396f88dd7e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913212"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Mi a történik, ha a postaláda mérete már 100 GB
 
@@ -25,13 +25,13 @@ E3 vagy E5 csomag használata után a postaláda mérete már 100 GB, és nincs 
   
 Az e-mailek archiválásának engedélyezése:
   
-1. A Microsoft 365 Felügyeleti központban menjen az Exchange **felügyeleti** \> **központokhoz.** 
+1. A felügyeleti Microsoft 365 Felügyeleti központ a Felügyeleti **központok csoportban** \> **Exchange.** 
     
 2. Válassza **a Címzettek** \> **postaládái** lehetőséget, és jelöljön ki egy postaládát. 
     
 3. A Részletek ablaktáblában a **Hely archívuma** alatt válassza az Engedélyezés **lehetőséget.** 
     
-4. Néhány perc múlva megjelenik egy új mappa a felhasználó Webes Outlookjában ,a Hely archívuma *vagy* az Outlook appban az *Online archívum – . \<name\>* A felhasználó áthúzhatja az e-maileket az archívumba. 
+4. Néhány perc múlva megjelenik egy új mappa a felhasználó Webes Outlook nevű helyarchívumban *vagy* Outlook Online archívum – *alkalmazásban. \<name\>* A felhasználó áthúzhatja az e-maileket az archívumba. 
     
 Korlátlan mennyiségű tárterülethez férhet hozzá archiváláshoz. További információ: Korlátlan [archiválás engedélyezése.](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)
   

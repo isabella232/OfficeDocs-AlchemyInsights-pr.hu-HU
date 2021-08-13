@@ -1,5 +1,5 @@
 ---
-title: a 414 keresési felülete frissítve
+title: 414 Frissült a keresési élmény
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -14,13 +14,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 66f42725118b078bd833ae6a143f89825e1627aa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c0386b821e16226a50e49410fdbd23a8da02ac74b4967adf7409f93c49d8068
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691865"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958551"
 ---
-# <a name="search-experience-updated"></a>Frissített keresési élmény
+# <a name="search-experience-updated"></a>Frissült a keresési élmény
 
-A Keresés most már az alkalmazás alján található. A funkció érintésével közvetlen hozzáférést biztosít a legfontosabb partnereihez, a közelgő utazási útvonalakhoz, a csomag kézbesítéséhez és a legutóbbi mellékletekhez. Bármelyik fiókjában kereshet e-maileket, fájlokat és névjegyeket egyetlen keresőmezőben, vagy az új szűrők segítségével szűkítheti a keresést.
+A keresés most már az app alján található. Ha rákoppint, közvetlenül elérheti a legfontosabb partnereit, a közelgő utazások tervét, a csomagküldetéseket és a legutóbbi mellékleteket. Egyetlen keresőmezőből kereshet e-maileket, fájlokat és névjegyeket bármelyik fiókjában, vagy az új szűrőink segítségével szűkítheti a keresést.

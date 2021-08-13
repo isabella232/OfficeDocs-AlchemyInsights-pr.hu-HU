@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 1f5db1349d2029715e9994f2872bf85cac14646b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 458cba655675f9c1f06814a71fa97128786d1d9676c29aefdfd752c2d26917d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795606"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958731"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Törölt SharePoint-alwebhely visszaállítása
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Törölt alwebhely SharePoint visszaállítása
 
-A törölt alwebhelyeket a program a webhelycsoport – Lomtár mappába küldi, ahol a 93 napokig tartanak. Törölt alwebhely visszaállítása:
+A törölt alwebhelyeket a rendszer a webhelycsoport lomtárába küldi, ahol 93 napig tetszetnek. Törölt alwebhely visszaállítása:
   
-1. Az új SharePoint felügyeleti központban keresse meg azt a webhelyet, amelyből a webhelyet törölték, és győződjön meg arról, hogy Ön a webhelycsoport rendszergazdája. 
+1. Az új SharePoint felügyeleti központban keresse meg azt a webhelyet, amelyről az alwebhelyet törölte, és győződjön meg arról, hogy Ön webhelycsoportgazda. 
     
-2. Nyissa meg a webhelyet. Kattintson a **Lomtár** elemre a bal oldali ablaktáblában. (Ha nem látható a Lomtár, kattintson a Beállítások ikonra, majd a **webhely tartalma**parancsra. A Lomtár a tetején lévő parancssáv jobb szélén található.)
+2. Ugrás a webhelyre Kattintson **a Lomtár** elemre a bal oldali ablaktáblában. (Ha nem látja a Lomtárat, kattintson a Lomtár ikonra Gépház majd kattintson a Webhely **tartalma elemre.** A Lomtár a felül lévő parancssáv jobb felső felében található.)
     
-3. Kattintson a lap alján a **második fázisú Lomtár**elemre.
+3. A lap alján kattintson a Másod fázisú **lomtár elemre.**
     
-4. Kattintson az alwebhely bal oldalára, majd a **visszaállítás**parancsra.
+4. Kattintson az alwebhelytől balra, majd kattintson a Visszaállítás **elemre.**
     
 

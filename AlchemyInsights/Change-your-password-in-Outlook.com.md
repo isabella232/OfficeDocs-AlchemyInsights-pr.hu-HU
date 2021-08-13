@@ -10,14 +10,14 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 7903069254a2889445b552c9d638c9d7049e112a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 37e048f1e6caea30d7dcff75a7e6877496c7d47e9dcaa6868f4d0315b5eb0d56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51805175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918812"
 ---
-# <a name="change-your-password-in-outlook"></a>Jelszó módosítása az Outlookban
+# <a name="change-your-password-in-outlook"></a>Jelszó módosítása a Outlook
 
 Ha elfelejtette a jelszavát, menjen a [Microsoft-fiók jelszavának alaphelyzetbe állítva lapra.](https://go.microsoft.com/fwlink/p/?linkid=841909) Ellenkező esetben kövesse az alábbi utasításokat.
   
@@ -25,4 +25,4 @@ Ha elfelejtette a jelszavát, menjen a [Microsoft-fiók jelszavának alaphelyzet
 2. Az Üdv! transzparensen válassza **a Jelszó módosítása lehetőséget.**
 3. Válasszon egy új jelszót, és válassza a Mentés **gombot.**
 
-További információért olvassa el [a Jelszó módosítása a Outlook.com.](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx)
+További információt A jelszó módosítása [a Outlook.com-on Outlook.](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx)

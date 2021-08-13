@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 0c15f7f3771c6abd69f3489d46910f43f6afb904
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cb645d58f41e095def09dbbe61bd6264f621b82c0f42c428a5a88e702c0c950b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918577"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Postaláda engedélyeinek módosítása
 
@@ -26,5 +26,5 @@ Ha a felhasználóknak nem a saját postaládájukhoz van hozzáférésük, az a
     
 - Megosztott postaláda – lásd: [Megosztott postaláda beállításainak konfigurálása.](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members)
     
-Ha a fenti lépések után az engedélyek nem működnek megfelelően, az Exchange Felügyeleti központban próbálja meg ott beállítani az engedélyeket (lásd: Címzettek engedélyeinek [kezelése).](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)
+Ha a fenti lépések után az engedélyek nem működnek megfelelően, akkor a Exchange Felügyeleti központban próbálja meg ott beállítani az engedélyeket (lásd: Címzettek engedélyeinek [kezelése).](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)
   
