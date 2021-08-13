@@ -1,5 +1,5 @@
 ---
-title: PayNow/fizetés azonnal
+title: PayNow/Make payment immediately
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 822f098967fbce4a80b96b232ae3e3c7ce5470b00e0a77737c090798ca6945fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944421"
 ---
-# <a name="paynowmake-payment-immediately"></a>PayNow/fizetés azonnal
+# <a name="paynowmake-payment-immediately"></a>PayNow/Make payment immediately
 
-A probléma leírása alapján megtalálunk egy megoldást. A legtöbb ügyfél saját maga oldhatja fel a problémát a dokumentációt követően.
+A probléma leírása alapján megoldást találtunk az Ön számára. A legtöbb ügyfél a dokumentációt követően egyedül megoldotta a problémát.
 
-Azure Enterprise Agreement-előfizetés esetén a fizetési mód hozzáadása/frissítése/módosítása nem támogatott. Ha egy meglévő számlán szeretné módosítani a címet, kérjük, forduljon a Microsoft képviselőjéhez.
+Azure Nagyvállalati verziós előfizetés esetén a fizetési mód hozzáadása/frissítése/módosítása nem támogatott. Ha módosítani szeretné egy meglévő számla címét, forduljon Microsoft-képviselőjéhez.
 
-Ha az Azure előrefizetést szeretné használni az Azure-fogyasztással és/vagy vásárlással kapcsolatos számlák rendezéséhez, forduljon az ügyfélszolgálathoz. Felhívjuk a figyelmét arra, hogy a számlán külön-külön számlázott díjak és a piactér-szolgáltatások nem ellensúlyozzák az Azure előrefizetést. A közvetett igényléshez győződjön meg arról, hogy partnerei tájékoztatást kapnak a számlák lehetséges hatásairól. A közvetlen ügyfelek számára érdemes lehet megtartani a Bill-To-partnert.
+Ha az Azure Prepayment használatával szeretné rendezni az Azure-felhasználás és/vagy vásárlások számláit, forduljon az ügyfélszolgálathoz. Felhívjuk a figyelmét arra, hogy a külön-külön számlázható és a Piactér-szolgáltatásokat nem lehet kiegyenlíteni az Azure Prepayment szolgáltatásokkal. A közvetett regisztráció esetében gondoskodjon arról, hogy partnerei tájékozódni kapjanak a számlákra gyakorolt esetleges hatásról. Közvetlen ügyfelek esetén fontos lehet, hogy folyamatosan Bill-To elérhetőségét.
 
 **Ajánlott dokumentumok**
 
-- [A túlfizetések kifizetése az Azure-előfizetéssel](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
+- [A túlóra kifizetése az Azure Prepayment használatával](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)

@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Edge telepítése, frissítése és kezelése a Konfigurációkezelő segítségével a Windowsban
+title: A Configuration Manager segítségével telepítheti, frissítheti és kezelheti a Microsoft Edge a Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: ee978146ff0964e9ebd9f476f9c92d1f97aa042c
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 226878c7ce12a9cdc9c6b24a1b05cdbf39ed67ad631b3a7dc02bbe0d7d6b91a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919542"
 ---
-# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>A Microsoft Edge telepítése, frissítése és kezelése a Konfigurációkezelő segítségével a Windowsban
+# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>A Configuration Manager segítségével telepítheti, frissítheti és kezelheti a Microsoft Edge a Windows
 
-A Configuration Manager 1910-es verziójának használatával a Microsoft Edge (77-es vagy újabb verzió) telepíthető PowerShell-parancsfájlon keresztül. A parancsfájl kikapcsolja az automatikus frissítéseket, így így kezelheti a frissítéseket a Configuration Manager segítségével. Ha többet szeretne tudni a Konfigurációkezelő használatáról és egyéb előnyeiről, olvassa el a [Microsoft Edge Management](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?)című témakört.
+A Configuration Manager 1910-es verziójától egy PowerShell Microsoft Edge programon keresztül telepítheti a Microsoft Edge (77-es és újabb verziók) segítségével. A parancsfájl kikapcsolja az automatikus frissítéseket, és ez lehetővé teszi a frissítések kezelését a Configuration Manager segítségével. Ha többet szeretne megtudni erről és a Configuration Manager használatának további előnyeiről, olvassa el a [Microsoft Edge kezelése.](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?)

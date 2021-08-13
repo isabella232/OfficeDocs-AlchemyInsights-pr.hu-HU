@@ -1,5 +1,5 @@
 ---
-title: A Microsoft-appok kezelési állapotának megtekintése az iOS és Android rendszerű eszközökre készült Microsoft Edge használatával
+title: A Microsoft-appok kezelési állapotának megtekintése az iOS Microsoft Edge Android-eszközökre készült Microsoft Edge használatával
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004622"
 - "8325"
-ms.openlocfilehash: 4b88c97e15b62f68f5ff6c0bcc4243c78dfabb6a
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+ms.openlocfilehash: da3b7e920ab4aa83bee0141af517ca249d9d838f37137d3901f6841b98ba9aae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50841511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919497"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-using-microsoft-edge-for-ios-or-android-devices"></a>A Microsoft-appok kezelési állapotának megtekintése az iOS és Android rendszerű eszközökre készült Microsoft Edge használatával
+# <a name="view-the-management-status-of-microsoft-apps-using-microsoft-edge-for-ios-or-android-devices"></a>A Microsoft-appok kezelési állapotának megtekintése az iOS Microsoft Edge Android-eszközökre készült Microsoft Edge használatával
 
-A felügyelt iOS- vagy Android-appok hibaelhárítása érdekében az appnaplók eléréséhez nyissa meg a Microsoft Edge-et, és írja be a ***about:intunehelp*** címet a címmezőbe. A Microsoft Edge hibaelhárítási módban indul el.
+A felügyelt iOS- vagy Android-appok hibaelhárítása érdekében az appnaplók eléréséhez nyissa meg a Microsoft Edge, és írja be a ***about:intunehelp*** címet a címmezőbe. Microsoft Edge hibaelhárítási módban indul el.
 
 Az appnaplókban tárolt beállítások listáját az Ügyfélalkalmazás-védelmi naplók áttekintése [lapon láthatja.](https://go.microsoft.com/fwlink/?linkid=2141401)
 

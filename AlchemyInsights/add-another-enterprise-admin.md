@@ -1,5 +1,5 @@
 ---
-title: Másik vállalati rendszergazda által javasolt lépés hozzáadása
+title: Másik vállalati rendszergazda hozzáadása – ajánlott lépések
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 820bdb44e8efa6d14c6b5646cde432865a43e456a07219527218eecd1beb0819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755474"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954688"
 ---
-# <a name="add-another-enterprise-administrator---recommended-steps"></a>Másik vállalati rendszergazda által javasolt lépés hozzáadása
+# <a name="add-another-enterprise-administrator---recommended-steps"></a>Másik vállalati rendszergazda hozzáadása – ajánlott lépések
 
-A probléma leírása alapján megtalálunk egy megoldást. A legtöbb ügyfél saját maga oldhatja fel a problémát a dokumentációt követően.
+A probléma leírása alapján megoldást találtunk az Ön számára. A legtöbb ügyfél a dokumentációt követően egyedül megoldotta a problémát.
 
-Nagyvállalati verziós tanúsítványigényléshez több vállalati rendszergazda is lehet.
+Egy vállalati regisztrációhoz több vállalati rendszergazdát is lehet bevonni.
 
 **Másik vállalati rendszergazda hozzáadása:**
 
-1. Bejelentkezés az [Azure Enterprise portálra](https://ea.azure.com/)
-1. Navigáljon a  >  **beiratkozási részletek** kezeléséhez.
-1. Kattintson a **+ rendszergazda hozzáadása** elemre a jobb felső sarokban.
-1. Írásvédett hozzáférés esetén állítsa az Read-Only lehetőséget az **Igen** értékre, és válassza a **Hozzáadás** gombot.
+1. Jelentkezzen be az [Azure Enterprise portálra.](https://ea.azure.com/)
+1. Lépjen a **Regisztrációs**  >  **adatok kezelése lapra.**
+1. Kattintson **a jobb felső sarokban a** + Rendszergazda hozzáadása elemre.
+1. Csak olvasható hozzáférés esetén állítsa a beállításokat Igen Read-Only majd **válassza** a Hozzáadás **lehetőséget.**
 
-Ellenőrizze, hogy rendelkezik-e a felhasználó e-mail-címével és előnyben részesített hitelesítési móddal (például munka, iskolai vagy Microsoft-fiók). Ha nem Ön a vállalati rendszergazda, kérje meg a vállalati rendszergazdát, hogy vegye fel a regisztrációt. Az új rendszergazdák csak a meglévő rendszergazdák által adhatók hozzá. Miután felvette az előfizetést, az aktiválási e-mail-üzenetet kapja.
+Győződjön meg arról, hogy a felhasználó e-mail-címe és az elsődleges hitelesítési módja (például munkahelyi, iskolai vagy Microsoft-fiókja) van. Ha Nem Ön a vállalati rendszergazda, forduljon egy vállalati rendszergazdához, és kérje meg, hogy vegye fel a regisztrációba. Új rendszergazdákat csak a meglévő rendszergazdák adnak hozzá. Miután hozzáadta a regisztrációt, kapni fog egy aktiválási e-mailt.
 
-**Részleg-adminisztrátor felvétele:**
+**Részleg-rendszergazda hozzáadása:**
 
-Miután egy Azure EA-rendszergazda létrehoz egy részleget, az Azure Enterprise Administrator felveheti a részlegek rendszergazdáit, és társíthatja őket egy részleghez. Az egyes nagyvállalati verziókban több felügyeleti intézmény is megadható.
+Miután az Azure EA-rendszergazda létrehozott egy részleget, az Azure Enterprise rendszergazdája felveheti a részleg rendszergazdáját, és mindegyiket egy részleghez társíthatja. Minden vállalati regisztrációhoz több részleg-rendszergazdát is lehet bevonni.
 
-1. Bejelentkezés az [Azure Enterprise portálra](https://ea.azure.com/)
-1. Navigáljon a  >  **részleg** kezelése lapra, és válassza ki az osztályt.
-1. Válassza a **+ rendszergazda hozzáadása** lehetőséget, és adja meg a szükséges információkat.
-1. Írásvédett hozzáférés esetén állítsa az Read-Only lehetőséget az **Igen** értékre, és válassza a **Hozzáadás** gombot.
+1. Jelentkezzen be az [Azure Enterprise portálra.](https://ea.azure.com/)
+1. Lépjen a **Részleg**  >  **kezelése lapra,** és válassza ki a részleget.
+1. Válassza **a + Rendszergazda hozzáadása lehetőséget,** és adja meg a szükséges adatokat.
+1. Csak olvasható hozzáférés esetén állítsa a beállításokat Igen Read-Only majd **válassza** a Hozzáadás **lehetőséget.**
 
 **Rendszergazda frissítése/eltávolítása:**
 
-1. Húzza az egérmutatót az EA-rendszergazda eltávolításához, és kattintson a kék **X** ikonra.
-1. Ellenőrizze, hogy a kívánt rendszergazda van-e kijelölve, majd kattintson az **Igen** gombra.
+1. Vigye az egérmutatót az EA Admin elemre az eltávolításhoz, és kattintson a kék **X ikonra.**
+1. Győződjön meg arról, hogy a kívánt rendszergazda van kijelölve, és kattintson az Igen **gombra.**
 
 **Ajánlott dokumentumok**
 
-- [Az Azure Enterprise Agreement felügyeleti szerepköreinek ismertetése az Azure-ban](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
-- [Azure EA-portál felügyelete](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)
+- [Az Azure Nagyvállalati Szerződés szerepköreit az Azure-ban](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
+- [Az Azure EA Portal felügyelete](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)

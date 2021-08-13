@@ -1,5 +1,5 @@
 ---
-title: E-mail végleges törlése az Outlookban
+title: E-mail végleges törlése a Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0aa1c016f229399f451655f691486c4618fce55d2952ea677edb902349dd270
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944385"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>E-mail végleges törlése az Outlookban
+# <a name="permanently-delete-an-email-in-outlook"></a>E-mail végleges törlése a Outlook
 
 - A Beérkezett üzenetek nézetben nyomja le hosszan az üzenetet, és megjelenik a kuka ikon. Erre az ikonra koppintva törölheti az üzenetet.
 
-- A "törlés" pöccintéssel is beállítható (**Beállítások -> Pöccintés beállításai**); majd az ujjával pöccintsen a törölni kívánt e-mailre. 
+- A "törlés" pöccintéssel is beállítható ( Gépház **-> beállítások**); majd az ujjával pöccintsen a törölni kívánt e-mailre. 
 
 - Ha törölni szeretne egy üzenetet egy megnyitott e-mail nézetből, koppintson a kuka ikonra a képernyő tetején. A törölt üzenetek a Kuka mappába kerülnek. 
 

@@ -1,5 +1,5 @@
 ---
-title: Hogyan használja a Microsoft Edge a Microsoft Defender SmartScreent?
+title: Hogyan Microsoft Edge a Microsoft Defender SmartScreen?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,17 +15,17 @@ ms.custom:
 - "6897"
 - "8331"
 - "9004625"
-ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: b1b8125961c1033b58fa5d560de855e03c967718dffec65eba7ac59a66cd3f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926931"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>A Microsoft Edge által használt Microsoft Defender SmartScreen
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Az Microsoft Edge használatának Microsoft Defender SmartScreen
 
-A webes biztonság érdekében a Microsoft Edge a Microsoft Defender SmartScreen böngészőt használja a korai figyelmeztetési rendszerként az adathalász támadások által támadott webhelyekkel szemben, és célzott támadásokon keresztül terjeszti a kártevőket.
+A webes biztonság érdekében a Microsoft Edge a Microsoft Defender SmartScreen a webhelyekkel szemben, amelyek az adathalász támadások áldozatán esnek, és kártevőket terjesztanak a célzott támadásokon keresztül.
 
-A rendszergazdák csoportházirend, Microsoft Intune vagy mobileszköz-kezelési (MDM) beállítások használatával konfigurálhatja a Microsoft Defender SmartScreent. A Microsoft Defender SmartScreen beállításának alapján figyelmeztetési lapot állíthat be a felhasználóknak, és hagyhatja, hogy továbbra is a webhelyre folytassanak, vagy teljesen letiltsák a webhelyet.
+A rendszergazdák csoportházirend Microsoft Defender SmartScreen- Microsoft Intune mobileszköz-kezelési (MDM) beállításokkal konfigurálják a beállításokat. A felhasználói Microsoft Defender SmartScreen szerint figyelmeztetést is állíthat be a felhasználóknak, és hagyhatja, hogy továbbra is a webhelyre folytassanak, vagy teljesen letiltják a webhelyet.
 
-További információ: A Microsoft Edge támogatása a [Microsoft Defender SmartScreen és](https://go.microsoft.com/fwlink/?linkid=2133081) a Microsoft Defender [alkalmazásőr számára.](https://go.microsoft.com/fwlink/?linkid=2132839)
+További információt a Támogatási Microsoft Edge [a](https://go.microsoft.com/fwlink/?linkid=2133081) Microsoft Defender SmartScreen és a [Microsoft Defender alkalmazásőr.](https://go.microsoft.com/fwlink/?linkid=2132839)
