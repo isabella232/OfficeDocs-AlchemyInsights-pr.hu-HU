@@ -1,5 +1,5 @@
 ---
-title: Az Azure Active Directory-alapú személyazonosság elleni védelem kiépítése és telepítése
+title: A Azure Active Directory identitásvédelem kiépítése és üzembe helyezése
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927861"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Hogyan működik az Azure Active Directory-alapú személyazonosság elleni védelem kiépítése és telepítése?
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Hogyan Azure Active Directory ki és telepíthető az identitásvédelem?
 
-Alapértelmezés szerint az Azure Active Directory-identitás védelem funkciói a bérlői szinten engedélyezettek a bérlői szinten.
+Alapértelmezés szerint az Azure Active Directory identitásvédelem szolgáltatása engedélyezve van a bérlői szinten a bérlői webhelyen belüli összes felhasználó számára.
 
-További információt a [Mi az Azure Active Directory-identitás elleni védelem?](https://go.microsoft.com/fwlink/?linkid=2130395) című témakörben talál.
+További információért olvassa el a Mi az Azure Active Directory [identitásvédelem?](https://go.microsoft.com/fwlink/?linkid=2130395)
