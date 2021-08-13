@@ -1,5 +1,5 @@
 ---
-title: Külső felhasználó nem tud hozzáférni a tartalomhoz
+title: A külső felhasználó nem fér hozzá a tartalomhoz
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 70ae38749bde631000d373a981de2bd1be50084b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6868d8238aa376cace020950490de22ea0fc26d05b8308bfc4d9e5f1fc992bf2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977659"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Külső felhasználó nem fér hozzá a SharePoint-vagy a OneDrive-tartalmakhoz
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>A külső felhasználó nem fér hozzá SharePoint vagy OneDrive tartalomhoz
 
-Ha egy külső felhasználó meghívást kap, és nem tud hozzáférni a tartalomhoz, kérjük, keresse fel az alábbi hivatkozásokat:
+Ha meghívtak egy külső felhasználót, és nem tud hozzáférni a tartalomhoz, kérjük, látogasson el az alábbi hivatkozásokra:
 
-- [A külső felhasználók engedélyeket kaphatnak a webhelyek elérésekor](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["A szervezet szabályzata nem teszi lehetővé a megosztást ezekkel a felhasználókkal" hibaüzenet jelenik meg a SharePoint Online-ban vagy a OneDrive vállalati verzióban tárolt elemek vagy webhelyek megosztásakor](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [A megosztási beállítások szürkén jelennek meg a SharePoint Online-ból vagy a OneDrive-ról való megosztáskor](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [A külső felhasználók engedélyekkel kapcsolatos hibákat kapnak a webhely elérésekor](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["A szervezeti házirendek nem engedélyezik a megosztást ezekkel a felhasználókkal" hibaüzenet jelenik meg, amikor egy elemet vagy webhelyet oszt meg a SharePoint Online-on vagy OneDrive Vállalati verzió](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [A megosztási lehetőségek szürkén jelennek meg, SharePoint online vagy OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

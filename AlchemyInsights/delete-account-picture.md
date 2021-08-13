@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1a9e3fe14e3cd2062b54a2443fdc6dd2f1a7bcccf79538fc439295ce43082149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815545"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948213"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>Fiókkép törlése a Windows 10-ben
+# <a name="delete-an-account-picture-in-windows-10"></a>Fiókkép törlése a Windows 10
 
-A Windows a három legújabb kép közötti váltásra lett tervezve. Ha törölnie kell valamelyik fiókképét:
+Windows úgy lett kialakítva, hogy a legutóbbi három kép között váltson. Ha törölnie kell valamelyik fiókképét:
 
 1. Nyissa meg a Fájlkezelőt a tálcáról. Ha nem látja a Fájlkezelőt (a mappa ikont) a tálcán, válassza a **Start** gombot, és írja be a **Fájlkezelő parancsot.**
 
