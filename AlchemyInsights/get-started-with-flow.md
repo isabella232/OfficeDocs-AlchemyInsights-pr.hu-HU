@@ -1,5 +1,5 @@
 ---
-title: Folyamat – első lépések
+title: Első lépések a Flow
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
-ms.openlocfilehash: c2cb1f6b6621f467f7f626c8fe66d53e7f36601a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52bb7980243cd4eedca500c4809bf49e9f578cf3dd36ea5d543f0780c4606ff2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964338"
 ---
-# <a name="get-started-with-microsoft-flow"></a>Microsoft flow – első lépések
+# <a name="get-started-with-microsoft-flow"></a>Első lépések a Microsoft Flow
 
-A Microsoft flow-val a következő lehetőségek közül választhat:
+A Microsoft Flow:
   
-- Egyszerűen megkeresheti a sablonokat és a szolgáltatásokat.
+- Egyszerűen kereshet sablonokat és szolgáltatásokat.
     
 - Válasszon a legnépszerűbb szolgáltatások közül.
     
-- Tekintse át az egyes folyamatok áttekintését.
+- Áttekintheti az egyes folyamatokat.
     
-[További információ a Microsoft flow-ról](https://go.microsoft.com/fwlink/?linkid=874446)
+[További információ a Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=874446)
   
 

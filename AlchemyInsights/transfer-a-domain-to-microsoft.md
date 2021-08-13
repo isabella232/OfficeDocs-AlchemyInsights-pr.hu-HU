@@ -1,5 +1,5 @@
 ---
-title: Tartomány átadása a Microsoftnak
+title: Tartomány átvitele a Microsofthoz
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7304"
-ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 17cd75fb3eacd35a5177affc0308c4864359b35ace3aebe317c0c126092b6bba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980971"
 ---
-# <a name="transfer-a-domain-to-microsoft"></a>Tartomány átadása a Microsoftnak
+# <a name="transfer-a-domain-to-microsoft"></a>Tartomány átvitele a Microsofthoz
 
-A tartományok regisztrációja és számlázása nem ruházható át a Microsoftba.
+Tartomány regisztrálása és számlázása nem átvitele a Microsofthoz.
 
-Ha meglévő tartományt szeretne hozzáadni, kövesse a [tartomány hozzáadása varázslót](https://admin.microsoft.com/Adminportal/Domains/Wizard), vagy válassza a **Settings**  >  **Domains**  >  **tartomány hozzáadása** lehetőséget.
+Ha egy már a tulajdonában van tartományt szeretne felvenni, kövesse a Tartomány hozzáadása [varázslót](https://admin.microsoft.com/Adminportal/Domains/Wizard), vagy válassza a **Gépház**  >  **Tartomány**  >  **hozzáadása lehetőséget.**
 
-Ha további információra van szüksége a tartomány ellenőrzéséhez szükséges DNS-változásokról, olvassa el a [DNS-rekordok hozzáadása a tartomány csatlakoztatásához](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)című témakört.
+A tartomány igazolásához szükséges DNS-módosításokról további információt A [tartomány csatlakoztatásához szükséges DNS-rekordok hozzáadása című című csoportban található.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-A tartományokkal kapcsolatos kérdésekről a [tartományok – gyakori kérdések](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)című témakörben tájékozódhat.
+A tartományokkal kapcsolatos esetleges kérdésekért olvassa el a Tartományok – [gyakori kérdések című témakört.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

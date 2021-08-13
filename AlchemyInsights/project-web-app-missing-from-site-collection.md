@@ -1,5 +1,5 @@
 ---
-title: A Project Web App hiányzik a SharePoint-webhelycsoportban
+title: Project A Web App hiányzik SharePoint webhelycsoportból
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82487c13bfc763387d3f433f31e4dc895d6ce3c04f6d8b6426e999a8b5f4b79f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973087"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>A Project Web App hiányzik a SharePoint-webhelycsoportban
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project A Web App hiányzik a SharePoint webhelycsoportból
 
-Előfordulhat, hogy a Project Web App a következő okokból hiányzik a SharePoint-webhelycsoportban:
+Project Előfordulhat, hogy a Web App nem SharePoint a webhelycsoportból az alábbi okokból:
 
-1. A szervezeteknek csak Project online Essentials licenccel (s) kell rendelkezniük. A rendszergazdáknak létre kell hozniuk egy Project online Professional-és/vagy prémium licencet. A webhely ekkor már csak olvasható. További információt a [projektvezetési megoldások összehasonlítása](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)című témakörben talál.
-2. A bérlő olyan kiépítési hibát észlelt, amelyben a Project Web App-webhely kiépítése késik. Ha több mint 24 óra telt el, és továbbra is tapasztalja a problémát, kérjük, jelentkezzen be egy támogatási jegybe. Tisztában vagyunk azzal, hogy a 24 óra hosszú ideig jelenhet meg. Sok esetben már dolgozunk a megoldáson. Kérjük, hogy végezze el a megfelelő megoldást legalább 24 óráig.
+1. A szervezeteknek csak Project Online alapverzió licencük van. A rendszergazdáknak hozzá kell adni egy Project Online Professional és/vagy Prémium kell. A webhely akkor csak olvasható lesz. További információt a [Compare Project (Felügyeleti megoldások összehasonlítása) Project.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. A bérlői webhely kiépítési hibát észlelt, amelyben Project webalkalmazás-webhely kiépítése késik. Ha több mint 24 óra telt el, és még mindig jelentkezik a probléma, kérjük, írjon be egy támogatási jegyet. Megértjük, hogy a 24 óra hosszú időnek tűnhet. Sok esetben már dolgozunk a megoldáson. Kérjük, várjon legalább 24 órát a megoldásunkra.

@@ -1,5 +1,5 @@
 ---
-title: Intune Insider-hibajelentés
+title: Intune Insider hiba iktatás
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667628"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925923"
 ---
-# <a name="intune-insider-bug-filing"></a>Intune Insider-hibajelentés
+# <a name="intune-insider-bug-filing"></a>Intune Insider hiba iktatás
 
-Köszönjük érdeklődését az Intune Insider-programokban. Ha már bejelentkezett a Intune Insiders programba, és egy támogatási kérést kell benyújtani, akkor:
+Köszönjük az Intune Insiders program iránti érdeklődését. Ha már be van használhatja az Intune Insiders programot, és támogatási kérelmet kell kérnie, akkor:
 
-1. Írja le a fenti mezőbe a problémát.
-2. Új szolgáltatási kérelem létrehozása az alábbi lehetőségekkel.
+1. Írja le a problémát a fenti mezőben.
+2. Hozzon létre egy új szolgáltatáskérést az alábbi lehetőségeket használva.
 
-A Intune támogatási szakembere felveszi Önnel a kapcsolatfelvételt.
+Az Intune terméktámogatási szakembere megkeresi.
 
-Ha még nem szerepel az Intune Insider-programban, Köszönjük érdeklődését. Jelenleg még nem toborozunk új résztvevőket.
+Ha nem része az Intune Insiders programnak, köszönjük érdeklődését. Jelenleg nem szervezünk új résztvevőket.

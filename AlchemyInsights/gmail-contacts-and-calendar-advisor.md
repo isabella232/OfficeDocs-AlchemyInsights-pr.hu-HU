@@ -1,5 +1,5 @@
 ---
-title: Gmail-névjegyek vagy Google-naptárak áttelepítése az Office 365-be vagy az Outlookba
+title: Gmail-névjegyek vagy Google-naptárak áttelepítése Office 365-Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964302"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Gmail-névjegyek vagy Google-naptárak áttelepítése az Office 365-be vagy az Outlookba
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Gmail-névjegyek vagy Google-naptárak áttelepítése Office 365-Outlook
 
-A Gmail-névjegyek és a naptár Office-ba való importálásának legegyszerűbb módja a Gmail-partnerek és a naptár-tanácsadó használata.
+A Gmail-névjegyeket és -naptárakat legegyszerűbben a Gmail-névjegyek és Office a Gmail névjegyalbumában és naptár-tanácsadójában importálhatja.
 
-A [Gmail-partnerek és a naptár-tanácsadók](https://go.microsoft.com/fwlink/?linkid=2134386) azt mutatják be, hogy a Gmail-névjegyek és a naptárelemek szinkronizálása az Office 365-ba különböző importálási és exportálási módszerekkel történjen.
+A [Gmail-névjegyek és](https://go.microsoft.com/fwlink/?linkid=2134386) naptártanácsadók számos importálási és exportálási módszerrel bemutatja, hogy miként szinkronizálhatja Gmail-névjegyeit és Office 365 naptárelemeket a naptárba.
 
-Ha még nem telepítette az e-mailt, az [e-mailek beállítási tanácsadója](https://go.microsoft.com/fwlink/?linkid=2133951) részletes útmutatást ad a postaláda-áttelepítés befejezéséhez.
+Ha még nem migrálta a [](https://go.microsoft.com/fwlink/?linkid=2133951) levelezését, a levelezés beállítási tanácsadója részletes útmutatást nyújt a postaláda áttelepítésének befejezéséhez.
 
-Ha meg szeretné tudni, hogy miként tekintheti meg Google-naptárát az Outlookban, olvassa el [a Google Naptár megtekintése az Outlookban című témakört](https://go.microsoft.com/fwlink/?linkid=2083939).
+Ha meg szeretne tudni arról, hogy miként láthatja Google-naptárát a Outlook, olvassa el A Google-naptár megtekintése a [Outlook.](https://go.microsoft.com/fwlink/?linkid=2083939)

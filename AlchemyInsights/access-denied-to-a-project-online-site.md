@@ -1,5 +1,5 @@
 ---
-title: Hozzáférés megtagadva egy Project Web App-webhelyhez
+title: Access denied to a Project Web App site
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955347"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Engedélyek biztosítása a Project online-ban
+# <a name="give-users-permissions-in-project-online"></a>Engedélyeket adhat a felhasználóknak a Project Online
 
-Hozzáférés biztosítása a felhasználóknak a Project Web App-webhelyekhez a SharePoint-engedélyezési mód használatával:
+Hozzáférés beállítása Project webhelyhez a SharePoint használatával:
 
-1. Jelentkezzen be a Project online-ba rendszergazdaként.
-2. A Project Web App kezdőlapján kattintson a **megosztás** elemre a jobb felső sarokban.
-3. A **Project Web App megosztása** párbeszédpanelen adja meg annak a személynek a felhasználónevét, akinek hozzáférést szeretne adni a **személyek meghívása** mezőben.
-4. Válassza a **Beállítások megjelenítése lehetőséget**, majd a **jogosultsági szint kiválasztása** menüben válassza a projektmenedzserek **a Project Web App alkalmazásban**lehetőséget.
-5. Válassza a **megosztás**lehetőséget.
+1. Jelentkezzen be Project Online rendszergazdaként.
+2. A Project Web App kezdőlapján válassza **a** Megosztás lehetőséget a jobb felső sarokban.
+3. A Share **Project Web App** (Web App megosztása) párbeszédpanelEn írja be annak a személynek a felhasználónevét, akinek hozzáférést szeretne adni a Személyek meghívása **mezőbe.**
+4. Válassza **a Beállítások megjelenítése** elemet, majd a Jogosultsági szint kiválasztása menüben válassza **a** Project Kezelők a Project **elemet.**
+5. Válassza a **Megosztás lehetőséget.**
 
-Ha projekt-engedélyezési módot használ, vagy további információra van szüksége, olvassa el [a személyek felvétele a Project online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)-ba című témakört.
+Ha az Engedélyek Project módot használja, vagy további információra van szükség, olvassa el a Személyek felvétele a [Project Online.](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)
