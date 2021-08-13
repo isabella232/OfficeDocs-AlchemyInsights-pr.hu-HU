@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d95687db675b05fa9580aec4d444ab916e26ff73221ca289791b80807ca62f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668493"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938661"
 ---
 # <a name="access-services"></a>Access Services
 
-A SharePoint Online Access Services funkciója megszűnt. Az új Access-alapú webalkalmazások és webes adatbázisok már nem hozhatók létre, és a meglévő webalkalmazások és webes adatbázisok a 2018 áprilisában kerülnek leállításra. Az asztali Access-adatbázisokat (. accdb) a változtatások nem érintik. Azt javasoljuk, hogy a Microsoft PowerApps a webes alkalmazások és a webes adatbázisok alternatívájaként. 
+Az Access Services Online SharePoint szolgáltatása már nem elérhető. Új Access-alapú webalkalmazások és webes adatbázisok már nem létezik, a meglévő webalkalmazásokat és webes adatbázisokat pedig 2018. áprilisig leállítjuk. Az asztali Access-adatbázisokat (.accdb) nem befolyásolja ez a változás. Azt javasoljuk Microsoft PowerApps az Access-webalkalmazások és a webes adatbázisok alternatívájaként. 
   
-[További információ a Microsoft PowerApps](https://powerapps.microsoft.com/)
+[Tudnivalók a Microsoft PowerApps](https://powerapps.microsoft.com/)
   

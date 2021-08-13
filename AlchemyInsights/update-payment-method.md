@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6462"
-ms.openlocfilehash: cfc4d84c8161c321a981eb5c4b0fb749c0c12047
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b757aa6ba3aa97e5f0b34d4c25e8778a13d30b9ee9a975ea1eb28a6afba4f8c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972169"
 ---
 # <a name="manage-card-and-payment-method"></a>Kártya és fizetési mód kezelése
 
-Az Azure Portalon ügyfél-rendszergazdaként felvehet egy új bank- vagy hitelkártyát, frissíthet egy meglévő hitelkártyát, vagy törölheti a nem használt bank- és hitelkártyaadatokat. A [Microsoft ügyfélszerződésében](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)a fizetési módok számlázási profilokhoz [vannak társítva.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) Csak az Azure-ba regisztrált felhasználó frissítheti a fizetési módot.
+Az Azure Portalon ügyfél-rendszergazdaként felvehet egy új terhelési/hitelkártyát, frissíthet egy meglévő terhelési/hitelkártyát, illetve törölheti a nem használt bankkártyákat. A [Microsoft ügyfélszerződése](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)esetén a fizetési módok a számlázási [profilokhoz vannak társítva.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile) Csak az Azure-ba regisztrált felhasználó frissítheti a fizetési módot.
 
 **Új bankkártya vagy hitelkártya hozzáadása Azure-előfizetéshez**
 
-1. Jelentkezzen be az [Azure Portalba](https://ms.portal.azure.com/) [fiók-rendszergazdaként.](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Válassza **a Költségkezelés + Számlázás lehetőséget.**
+1. Jelentkezzen be az [Azure Portalba](https://ms.portal.azure.com/) [fiókgazdaként.](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Válassza **a Költségkezelés + Számlázás lehetőséget.**
 2. Válassza ki azt az előfizetést, amelybe fel szeretné felvenni a bankkártyát vagy a hitelkártyát. Válassza **a Fizetési módok lehetőséget.**
-3. A bal felső sarokban válassza a **+** kártya hozzáadását. A jobb oldalon megjelenik egy bankkártya- és hitelkártyaűrlap. Adja meg a bank- vagy hitelkártyaadatokat.
-4. Ha ezt a kártyát aktív fizetési módként  használni, jelölje be az "Ez legyen az aktív fizetési mód" jelölőnégyzetet az űrlapon. Ez a kártya lesz az összes olyan előfizetés aktív fizetőeszköze, amely ugyanazt a kártyát használja, mint a kijelölt előfizetés. Válassza a **Tovább** gombot.
-5. Kattintson **az Aktív beállítása gombra.** 
+3. Válassza a bal felső sarokban lévő gombot **+** kártya hozzáadásához. A jobb oldalon megjelenik a bankkártya- és bankkártyaűrlap. Adja meg a bank- vagy hitelkártyaadatokat.
+4. Ha ezt a kártyát aktív fizetési módként  használni, jelölje be a Legyen ez az aktív fizetési mód jelölőnégyzetet az űrlapon. Ez a kártya lesz az aktív fizetési eszköz minden olyan előfizetésben, amely ugyanazt a kártyát használja, mint a kijelölt előfizetés. Válassza a **Tovább** gombot.
+5. Kattintson **az Aktív beállítása elemre.** 
  
-**Meglévő terhelési vagy hitelkártya frissítése,módosítása/eltávolítása**
+**Meglévő terhelési vagy hitelkártyás kártya frissítése,módosítása/eltávolítása**
 
-1.  Jelentkezzen be az [Azure Portalba](https://portal.azure.com/) [fiók-rendszergazdaként.](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Keressen a **Költségkezelés + Számlázás kifejezésre.**
-2.  Válassza **a Fizetési módok lehetőséget.** Kattintson arra a hitelkártyára vagy bankkártyára, amit szerkeszteni szeretne. A jobb oldalon megjelenik egy bankkártya- és hitelkártyaűrlap.
+1.  Jelentkezzen be az [Azure Portalba](https://portal.azure.com/) [fiókgazdaként.](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Keressen a **Cost Management + Billing (Költségkezelés + számlázás) kifejezésre.**
+2.  Válassza **a Fizetési módok lehetőséget.** Kattintson a szerkeszteni szeretné a szerkeszteni szeretné azt a hitelkártyát vagy bankkártyát, amit módosítani szeretne. A jobb oldalon megjelenik a bankkártya- és bankkártyaűrlap.
 3.  Frissítse a bank- vagy hitelkártyaadatokat. Válassza a **Mentés** elemet.
 4.  Az **eltávolításhoz** jelölje be az eltávolítani kívánt kártya melletti jelölőnégyzetet.
 5.  Kattintson a **Törlés** gombra.
 
-**Megjegyzés:** Nem távolíthatja el a bank- vagy hitelkártyáját, ha az más aktív Microsoft-előfizetésekkel van társítva. El kell távolítania a hitelkártyát a Microsofttal használt összes aktív előfizetéséből, és újra kell próbálkozni.
+**Megjegyzés:** A bankkártya nem távolítható el, ha az más aktív Microsoft-előfizetésekkel van társítva. El kell távolítania a hitelkártyát a Microsofttal használt összes aktív előfizetéséből, és újra kell próbálkozni.
 
-További információ: Fizetési módok [frissítése, módosítása és eltávolítása](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
+További információt a Fizetési módok [frissítése, módosítása vagy eltávolítása](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Fizetési problémák elhárítása**
 
-Olvassa [el a Fizetési problémák elhárítása/hibakeresési](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues) eseteket, és nézze meg, hogy az megoldja-e a problémát.
+A [Fizetési hibák elhárítása és elhárítása](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues) témakörben láthatja, hogy megoldotta-e a problémát.
 
-Ha a kártyán fizetés függőben van annak következtében, hogy a pénzügyi intézmény  megtagadja az Ön kártyáját, kérjük, forduljon a pénzügyi intézményhez a probléma megoldásához. Használja az alábbi mutatókat:
+Ha a kártyán fizetés függőben van annak következtében, hogy pénzügyi intézménye megtagadta a kártyáját, a probléma megoldásához lépjen lépjen fel pénzügyi intézményével.  Használja az alábbi mutatókat:
 
 - Előfordulhat, hogy a banknál kell ellenőriznie a következő eket: 
-    - Ha a nemzetközi tranzakció engedélyezve van a kártyán
+    - Ha a kártyán engedélyezve van a nemzetközi tranzakció
     - Ha a kártyán hitelkorlát van az egyenleg rendezéséhez
     - Ha az ismétlődő fizetés engedélyezve van a kártyán
 
@@ -58,5 +58,5 @@ Ha a kártyán fizetés függőben van annak következtében, hogy a pénzügyi 
 
 - [Invoicing beállítása](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice)
 - [Fizetési mód módosítása – gyakori kérdések](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Számlázási profil fizetési módszerének módosítása](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [Fizetési mód módosítása számlázási profilhoz](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
 - [A Microsoft ügyfélszerződéshez való hozzáférés ellenőrzése](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)

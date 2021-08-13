@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Edge kisegítő lehetőségei
+title: Kisegítő lehetőségek a Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004622"
 - "8369"
-ms.openlocfilehash: 612ebc7913de55d25804789d9fded4291ead6dcc
-ms.sourcegitcommit: bdbe81bbb5beb641b27b974c69207428eb11e60f
+ms.openlocfilehash: 04f6d8d13f437a45b7d69a592610a84c6240236d17b3596c9ac28dcd3c3cacc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50841586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938553"
 ---
-# <a name="accessibility-features-in-microsoft-edge"></a>A Microsoft Edge kisegítő lehetőségei
+# <a name="accessibility-features-in-microsoft-edge"></a>Kisegítő lehetőségek a Microsoft Edge
 
-A Microsoft Edge beépített akadálymentes lehetőségeket tartalmaz, hogy az igényeinek megfelelően böngészhet a weben.
+Microsoft Edge beépített kisegítő lehetőségeket is tartalmaz, hogy az igényeinek megfelelően böngészhet a weben.
 
-További információt A Microsoft Edge kisegítő lehetőségei című [cikk tartalmaz.](https://go.microsoft.com/fwlink/?linkid=2153648)
+További információt A kisegítő lehetőségek a Microsoft Edge című [Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2153648)
