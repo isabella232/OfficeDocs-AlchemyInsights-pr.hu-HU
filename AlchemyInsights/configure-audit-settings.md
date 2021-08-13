@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 03889c763a8ae9a49c83ef4532bbe788d011d293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 464c0e8a37b5f572db319ee6f304bb2c6858f748ce8e6d58d155e458ce8517a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680973"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915481"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>A SharePoint naplózási beállításainak megadása
+# <a name="configure-sharepoint-audit-settings"></a>A SharePoint beállításainak megadása
 
-A SharePoint-webhelycsoport rendszergazdái a naplózási beállítások megadásával nyomon követhetik a tartalomra vonatkozó felhasználói műveleteket.
+SharePoint a webhelycsoportgazdák a naplózási beállítások meg beállításával nyomon követhetik a tartalmakon végzett felhasználói műveleteket.
   
-1. Nyissa meg a SharePoint-webhelyet.
+1. Nyissa meg SharePoint webhelyet.
     
-2. Kattintson a Beállítások ikonra, majd a **webhely beállításai**parancsra. Ha nem látható a "webhely beállításai" parancs, kattintson a **webhely adatai**elemre, majd a **minden webhely beállításai**elemre.
+2. Kattintson a Gépház ikonra, majd a Webhely **beállításai parancsra.** Ha nem látható a "Webhely beállításai" parancs, kattintson a Webhely adatai **gombra,** majd Az összes **webhelybeállítás megtekintése parancsra.**
     
-3. A webhelycsoport **felügyelete**csoportban válassza a webhelycsoport **naplózási beállításai**lehetőséget. (Ha nem látható, először kattintson **az Ugrás a legfelső szintű webhely beállításai** elemre.) 
+3. A **Webhelycsoport felügyelete csoportban** válassza a **Webhelycsoport naplózási beállításai lehetőséget.** (Ha nem látja, először kattintson az Ugrás a legfelső szintű **webhelybeállításokra elemre.)** 
     
-Ha tudni szeretné, hogy mit tartalmaz a SharePoint-naplózási jelentések, és hogyan tekintheti meg őket, tekintse át [a webhelycsoport naplózási beállításainak megadása](https://go.microsoft.com/fwlink/?linkid=404050)című témakört.
+Az egyes naplójelentések SharePoint és megtekintéséről további információt [a](https://go.microsoft.com/fwlink/?linkid=404050)Webhelycsoport naplózási beállításainak konfigurálása.
   
 

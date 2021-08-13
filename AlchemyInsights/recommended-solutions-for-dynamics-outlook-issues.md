@@ -1,5 +1,5 @@
 ---
-title: Javasolt megoldások a Dynamics 365 tárolási problémáihoz
+title: Javasolt megoldások a Dynamics 365 Storage problémákhoz
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -14,30 +14,30 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 5a1c95907a7e9a3287fa9be467d4eb45602c7abe
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 6b164968b32727e320ba7a6a40b0de22ad88681881464d42e6eb553d714506d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708820"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062442"
 ---
-# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Javasolt megoldások a Dynamics 365 tárolási problémáihoz
+# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Javasolt megoldások a Dynamics 365 tárterületével kapcsolatos problémákhoz
 
-* [Alkalmazás: Nincs találat a Kereséssel kapcsolatban](https://support.microsoft.com/help/4489111)
+* [App: Nincs találat a Vonatkozó keresésben](https://support.microsoft.com/help/4489111)
 
-* [App: Hiba jelenik meg az Outlook-app megnyitásakor](https://go.microsoft.com/fwlink/p/?linkid=2007021)
+* [Alkalmazás: Hiba jelenik meg a következő alkalmazások Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
 
-* [Alkalmazás: Az e-mail vagy találkozó "Track Pending" (Nyomon követése függőben) megjelenik](https://go.microsoft.com/fwlink/p/?linkid=2007022)
+* [App: Az e-mail vagy találkozó "Track Pending" (Nyomon követése függőben) üzenetként jelenik meg](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [App: Üres lap jelenik meg az Outlook-app megnyitásakor](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [Alkalmazás: Üres lap jelenik meg az alkalmazás megnyitásakor Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
-* [Teljes ügyfél: Nem lehet csatlakoztatni a D365 for Outlook 8.x verzióját egy 9.x D365-ös példányhoz](https://go.microsoft.com/fwlink/p/?linkid=2007023)
+* [Teljes ügyfélprogram: Nem lehet csatlakoztatni a D365 Outlook 8.x verziójú D365-ös verzióját egy 9.x D365-ös példányhoz](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 
-* [Teljes ügyfél: "Várakozás arra, hogy egy lap beolvassa a CRM-kiszolgálóról..." üzenet jelenik meg](https://go.microsoft.com/fwlink/p/?linkid=2007129)
+* [Teljes ügyfél: "Várakozás arra, hogy a rendszer beolvasson egy lapot a CRM-kiszolgálóról..." üzenet jelenik meg](https://go.microsoft.com/fwlink/p/?linkid=2007129)
 
-* [Teljes ügyfélprogram: Az Outlook D365-ös problémáinak diagnosztizálása](https://go.microsoft.com/fwlink/p/?linkid=2007024)
+* [Teljes ügyfél: A D365 diagnosztizálása Outlook problémákhoz](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [App: Az Outlookhoz való D365 app hibaelhárítása](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [App: A D365 app hibaelhárítása Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
 * [App: Központi telepítés](https://docs.microsoft.com/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook)
 

@@ -1,5 +1,5 @@
 ---
-title: Elem helyreállítása a törölt elemek mappából
+title: Elem helyreállítása a Törölt elemek mappából
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: 643c58003e62c88cb6ac6cf420f746dd8f03ed82
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: d90c9573cea9823310399bce452cb010343cdca1bfeefef7733550125b20fffc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564797"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062406"
 ---
-# <a name="recover-an-item-from-your-deleted-items-folder"></a>Elem helyreállítása a törölt elemek mappából
+# <a name="recover-an-item-from-your-deleted-items-folder"></a>Elem helyreállítása a Törölt elemek mappából
 
-E-mailek, névjegyek, naptárelemek vagy feladatok törlésekor a program áthelyezi a törölt elemek mappába.
+Ha töröl egy e-mailt, névjegyet, naptárelemet vagy feladatot, az a Törölt elemek mappába kerül.
 
-1. Jelentkezzen be az Outlook Web Appba egy böngészőben azon az URL-címen, amelyet a szervezeténél az e-mailekért felelős személytől kapott meg. Adja meg a felhasználónevét és a jelszavát, majd válassza a **Bejelentkezés** gombot.
-1. A levelezési mappák listájában válassza a **törölt elemek** elemet.
-1. Ha vissza szeretne állítani egy e-mailt, tegye az alábbiak egyikét: a. Ha vissza szeretne állítani egy üzenetet a Beérkezett üzenetek mappájába, kattintson a jobb gombbal az üzenetre, és válassza a **Beérkezett üzenetek > áthelyezése** parancsot.
-    b. Ha vissza szeretne állítani egy üzenetet egy másik mappába, kattintson a jobb gombbal az üzenetre, és válassza az **áthelyezés > tovább** lehetőséget. Válassza ki a mappa helyét, majd kattintson az **Áthelyezés** gombra.
-4. Egyéb típusú elemek visszaállítása:
-    - Névjegy visszaállításához kattintson rá a jobb gombbal, és válassza az **Áthelyezés a névjegyalbumba** parancsot.
-    - Egy naptár elem visszaállításához kattintson rá a jobb gombbal, majd válassza az **Áthelyezés a naptárba** parancsot.
-    - Ha vissza szeretne állítani egy feladatot, kattintson rá a jobb gombbal, és válassza az **Áthelyezés a tevékenységekre** parancsot.
+1. Jelentkezzen be az Outlook Web Appba egy böngészőben azon az URL-címen, amelyet a szervezeténél az e-mailekért felelős személytől kapott meg. Írja be a felhasználónevét és a jelszavát, majd válassza a **Bejelentkezés lehetőséget.**
+1. Az e-mail mappalistában válassza a **Törölt elemek elemet.**
+1. E-mail-üzenet visszaállításához tegye az alábbiak egyikét: a. Egy üzenet Beérkezett üzenetek mappába való visszaállításához kattintson a jobb gombbal az üzenetre, és válassza a Beérkezett **> áthelyezése lehetőséget.**
+    b. Egy üzenet másik mappába való visszaállításához kattintson a jobb gombbal az üzenetre, és válassza az Áthelyezés **> gombra.** Válasszon egy mappahelyet, és kattintson az Áthelyezés **gombra.**
+4. Más típusú elemek visszaállítása:
+    - Névjegy visszaállításához kattintson rá a jobb gombbal, és válassza az **Áthelyezés a névjegyek közé lehetőséget.**
+    - Naptárelem visszaállításához kattintson rá a jobb gombbal, és válassza az **Áthelyezés a naptárba lehetőséget.**
+    - Feladat visszaállításához kattintson rá a jobb gombbal, és válassza az Áthelyezés **a Feladatok közé lehetőséget.**
 
-**Tippek az elemek helyreállításához a törölt elemek mappában**
+**Tippek törölt elemek mappában lévő elemek helyreállításához**
 
-- Ha töröl egy mappát, az a törölt elemek mappába kerül, és almappaként jelenik meg. Ha vissza szeretné állítani (és az összes elemet tartalmazza), kattintson a jobb gombbal a törölt mappára, válassza az **Áthelyezés** parancsot, és válassza ki azt a mappát, ahová át szeretné helyezni.
-- Előfordulhat, hogy egy adott számú nap után rendszergazda állította be a törölt elemek mappában lévő elemek törlésére szolgáló házirendet. Akárcsak egy elem törlésekor, a házirend által törölt elemek a helyreállítható elemek mappába kerülnek. Így ha nem talál valamit a törölt elemek mappában, keresse meg azt a helyreállítható elemek mappában.
+- Ha töröl egy mappát, az a Törölt elemek mappába kerül, és almappaként jelenik meg. A mappa (és a benne található összes elem) helyreállításához kattintson a jobb gombbal a törölt mappára, válassza az Áthelyezés parancsot, majd válassza ki azt a mappát, amelybe át kell azt áthelyezni.
+- Előfordulhat, hogy a rendszergazda beállított egy házirendet, amely törli az elemeket a Törölt elemek mappából bizonyos számú nap után. A házirend által törölt elemeket a rendszer a Helyreállítható elemek mappába is áthelyezi, akárcsak az elemek törlésekor. Ezért ha nem talál valamit a Törölt elemek mappában, keresse azt a Helyreállítható elemek mappában.
