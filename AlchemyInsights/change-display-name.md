@@ -1,5 +1,5 @@
 ---
-title: 959 a megjelenítendő név módosítása
+title: 959 A megjelenítendő név módosítása
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
@@ -12,25 +12,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: dea443384edf60028d3e4b25ed48388e335c0e0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7657935ca752744b6a53fbbff1e69b8642239a074376722cbb0b1fa4036650c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979423"
 ---
 # <a name="change-your-display-name"></a>A megjelenítendő név módosítása
   
-Ha meg szeretné változtatni a megjelenítendő nevet az Outlookban, kövesse az alábbi lépéseket.
+Ha módosítania kell a megjelenített nevet a Outlook, kövesse az alábbi lépéseket.
   
-1. Az Outlookban válassza **a** \> **Account Settings** \> **Fiókbeállítások**beállításai lehetőséget.
+1. A Outlook válassza  a \> **Fájlfiók Gépház** \> **Fiók Gépház**.
 
-2. Jelölje ki az e-mail-fiókot, és válassza a **módosítás**lehetőséget.
+2. Jelölje ki az e-mail-fiókot, és válassza a Módosítás **lehetőséget.**
 
     > [!NOTE]
-    > Ha nem látható a megjelenítendő név megváltoztatása beállítás, valószínűleg Microsoft Exchange-alapú e-mail-fiókot használ. Ebben az esetben meg kell forduljon a rendszergazdához a megjelenítendő név módosításához. Lásd: [Felhasználónév és e-mail-cím módosítása](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+    > Ha nem látja a megjelenítendő név módosítása lehetőséget, valószínűleg Microsoft-fiókot Exchange használ. Ebben az esetben kapcsolatba kell lépnie a rendszergazdával a megjelenítendő név módosítása miatt. Lásd: [Felhasználónév és e-mail-cím módosítása.](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
-3. Miután módosította a megjelenítendő nevet, kattintson **az OK** gombra a módosítások mentéséhez. A módosítások elvégzése több óráig is eltarthat, amíg a módosítások a szervezet egészében megjelennek.
+3. Miután módosította a megjelenítendő nevet, az **OK gombra kattintva** mentse a módosításokat. Néhány óra is eltelhet, hogy a módosítások a teljes szervezetben tükröződni tudjanak.
 
-További információért olvassa el [a címzettek megjelenítendő nevének módosítása](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)című témakört.
+További információ: A címzettek által megjelenített név [módosítása.](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx)
   

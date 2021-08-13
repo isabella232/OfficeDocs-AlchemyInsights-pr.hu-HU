@@ -1,5 +1,5 @@
 ---
-title: 607 elfoglaltsági hibák elhárítása
+title: 607 elfoglaltsági hibaelhárító
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987685"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>A naptár elérhetősége (szabad/foglalt) hibaelhárítási lépései
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>A naptár elérhetőségének hibaelhárítási lépései (Szabad/foglalt)
 
-A szabad/foglalt problémák elhárításának legjobb eszköze általában az [Exchange Remote connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) , ahol a probléma nem látható. Az RCA-ban részletesen megtudhatja, hogy mi a teendő, és milyen hibák történtek a konkrét hibaüzenetekkel kapcsolatban, ha megoldást keres. A [Microsoft támogatási és helyreállítási Segédre](https://diagnostics.office.com/)mutató hivatkozást is tartalmaz.
+A szabad/foglaltsági problémák elhárításának legjobb eszköze az [RCA Exchange](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) segítségével láthatja, hogy a probléma hol nem működik. Az RCA részletes információkat nyújt arról, hogy mi működött és mi nem sikerült, ha adott hibaüzenetek találják a megoldást. Emellett a [Microsoft-webhelyre mutató Támogatási és helyreállítási segéd.](https://diagnostics.office.com/)
 
-Másik hasznos eszköz az [Outlook naptár-ellenőrzési eszközével](https://www.microsoft.com/download/details.aspx?id=28786) , ha a felhasználó rendelkezik az Outlookkal.
+Egy másik jó eszköz, ha a felhasználó Outlook naptárellenőrő Outlook. [](https://www.microsoft.com/download/details.aspx?id=28786)

@@ -1,5 +1,5 @@
 ---
-title: Hozzáférés megtagadva üzenetek hibaelhárítása
+title: Hozzáférés megtagadott üzenetekkel kapcsolatos hibák elhárítása
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,34 +9,34 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af0bc0215f8feacc28a0b9bdf6b2659778736d669f7a3ff17628401e23d5fb6f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691685"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957975"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Hozzáférés megtagadva üzenetek hibaelhárítása
+# <a name="troubleshoot-access-denied-messages"></a>Hozzáférés megtagadott üzenetekkel kapcsolatos hibák elhárítása
 
-Ha a SharePoint Online-webhelyen való tallózáskor hozzáférés-megtagadásról tájékoztató üzenetet kap, kérjük, olvassa el az alábbi cikkeket.
+Ha egy SharePoint Online-webhely tallózása közben "hozzáférés megtagadva" üzenetet kap, olvassa el az alábbi cikkeket.
 
-**A felhasználó hozzáadása és licence**
+**Felhasználó hozzáadása és licencel**
 
-Győződjön meg arról, hogy [licenceket rendel a felhasználókhoz a Microsoft 365 vállalati](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)verziójában.
+Győződjön meg arról, hogy licenceket rendel a [felhasználókhoz Microsoft 365 Vállalati verzióban.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
 **Engedélyek hozzárendelése**
 
-Ha a felhasználó SharePoint-licenccel rendelkezik, és továbbra is egy hozzáférés-megtagadási üzenetet kap, győződjön meg arról, hogy rendelkeznek a [megfelelő jogosultsági szinttel](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Ha a felhasználóhoz hozzárendelt egy SharePoint-licencet, és továbbra is "hozzáférés megtagadva" üzenetet kap, ellenőrizze, hogy rendelkezik-e a megfelelő jogosultsági [szinttel.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-**A hozzáférés kérése funkció használata**
+**Fontolja meg a hozzáférési kérelem funkció használatának megfontolását**
 
-A [hozzáférési kérés](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) funkció lehetővé teszi, hogy a felhasználók hozzáférést kérjen olyan tartalmakhoz, amelyekre jelenleg nincs engedélye. 
+A [hozzáférés-kérelmező](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) funkcióval a felhasználók hozzáférést kérhetnek olyan tartalmakhoz, amelyekhez jelenleg nincs engedélyük. 
 
-**Hozzáférés megtagadását okozó egyéni parancsfájlok engedélyezése**
+**Az egyéni parancsfájlok engedélyezése hozzáférés-megtagadó problémákat okozhat**
 
-Bizonyos esetekben az "egyéni parancsfájl engedélyezése" funkció a hozzáférés megtagadását is lehetővé teszi. Az érintett szolgáltatások listáját, a biztonsági megfontolásokat és a funkció letiltását is lehetővé teszi. Kérjük, keresse meg, [engedélyezze vagy megelőzze az egyéni parancsfájlokat](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Bizonyos esetekben előfordulhat, hogy az "Egyéni parancsfájlok engedélyezése" funkció nem engedélyezi a hozzáférést. Az érintett szolgáltatások listája biztonsági szempontokat és a funkció letiltására vonatkozó lehetőséget tartalmazza. Kérjük, látogasson el az egyéni [parancsfájlok engedélyezése vagy megakadályozása webhelyre.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Megjegyzés: Ha egy OneDrive vagy SharePoint-webhely nem érhető el több olyan felhasználónál, aki korábban hozzáféréssel rendelkezik, előfordulhat, hogy ideiglenes szolgáltatási probléma van. [Ellenőrizze a szolgáltatás állapota irányítópultot](https://portal.office.com/adminportal/home#/servicehealth).
+Megjegyzés: Ha egy OneDrive vagy SharePoint nem érhető el több, korábban hozzáféréssel rendelkező felhasználó számára, átmeneti szolgáltatás-probléma lehet. [Ellenőrizze a szolgáltatás állapot-irányítópultját.](https://portal.office.com/adminportal/home#/servicehealth)
 
 
   

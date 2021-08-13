@@ -1,5 +1,5 @@
 ---
-title: A SharePoint és a OneDrive letöltésének tiltása
+title: Tiltsa le a SharePoint és a OneDrive
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004146"
 - "7241"
-ms.openlocfilehash: aa6440f36c832d2cd5576ee0adf13ba14518485c
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 87f0b48f5c3ef68af5053414b893adc66ad35d28e163154db8c3f2b3a52cf4a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969099"
 ---
-# <a name="block-downloads-for-sharepoint-and-onedrive"></a>A SharePoint és a OneDrive letöltésének tiltása
+# <a name="block-downloads-for-sharepoint-and-onedrive"></a>Tiltsa le a SharePoint és a OneDrive
 
-A SharePoint és a OneDrive szolgáltatásból többféle módon is letilthatja a letöltéseket. További információt az alábbi cikkekben találhat.
+Többféleképpen is letilthatja a letöltéseket a SharePoint és OneDrive. További információt az alábbi cikkekben talál.
 
-- [A SharePoint és a OneDrive-ban csak megtekintésre használható fájlok letöltésének tiltása](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
+- [A csak megtekintésre letölthető fájlok letöltésének blokkolása a SharePoint-ban és a OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
 - [Nem kezelt eszközök hozzáférésének kezelése](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
-- [A SharePoint-és a OneDrive-adatforrások elérésének szabályozása hálózati hely alapján](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [A SharePoint és OneDrive hozzáférésének szabályozása hálózati hely alapján](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)

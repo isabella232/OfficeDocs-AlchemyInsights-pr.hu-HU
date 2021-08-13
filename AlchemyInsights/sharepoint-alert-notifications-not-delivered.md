@@ -1,5 +1,5 @@
 ---
-title: Nem kézbesítve a SharePoint riasztási értesítései
+title: SharePoint értesítések nem kézbesítése
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957903"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Nem kézbesítve a SharePoint riasztási értesítései
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint értesítések nem kézbesítése
 
-Jelölje be az e-mailek levélszemét mappáját, mert időnként riasztások is előfordulhatnak.
+Ellenőrizze a Levélszemét mappát az e-mailjeiben, mert néha előfordulhat, hogy ott is riasztják a riasztásokat.
 
-Annak megállapítása, hogy az **összes értesítés nem kézbesítve** van-e, illetve hogy nem kézbesíti-e az adott fájl vagy tár **Egyéni figyelmeztetését** .
+Állapítsa **meg, hogy nem történik-e** meg az összes riasztás kézbesítése, vagy egy adott fájlból vagy tárból származó egyes riasztások nem. 
 
-- A **rendszer nem kézbesíti az egyes riasztásokat**: Ha egy adott fájlból vagy tárból érkező egyéni figyelmeztetést nem kézbesítenek, akkor megkísérelheti törölni és újból létrehozni azt. A riasztás újbóli létrehozásához olvassa el a [SharePoint-értesítések kezelése, megtekintése és törlése](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) című témakört.
-- A rendszer **nem kézbesíti az összes értesítést**: Ha a több fájlból vagy tárból származó összes értesítés nem érhető el, keresse fel a [szolgáltatás állapota irányítópultot](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , és ellenőrizze, hogy vannak-e olyan tanácsadók/incidensek, amelyek a SharePoint vagy az Exchange alkalmazásban esetleg előfordulnak. A probléma lehet a SharePoint riasztási képessége vagy az e-mailek késése az Exchange-ben. Fontos tudni, hogy más e-maileket kézbesítenek-e, és ha nem, a probléma valószínűleg az Exchange késésekkel fog rendelkezni.
+- **Az egyes értesítések kézbesítése** nem történik meg: Ha egy adott fájlból vagy tárból származó különálló riasztás nem lesz kézbesítve, megpróbálhatja törölni, majd ismét létrehozni. Az értesítések újbóli megtekintéséhez tekintse [meg, tekintse SharePoint vagy](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) törölje az értesítéseket.
+- **Nem történik** meg minden riasztás kézbesítése: Ha több fájlból vagy [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) tárból nem kap meg minden riasztást, a Szolgáltatás állapota irányítópulton ellenőrizze, hogy nincsenek-e az adott fájlokkal vagy tárakkal kapcsolatban esetlegesen előforduló SharePoint vagy Exchange. A problémát az e-mailek SharePoint vagy késése okozhatja a Exchange. Azt is fontos megjegyezni, hogy más e-mailek kézbesítése történik-e, és ha nem, akkor a probléma valószínűleg Exchange késéssel.
 
-Gyakori kérdések az értesítésekről:
+Gyakori kérdések a riasztásokkal kapcsolatban:
 
-- Nem lehet értesítéseket küldeni a terjesztési csoportnak, csak a biztonsági és O365-csoportok támogatottak.
-- A riasztási e-mail-sablonok nem szabhatók testre; Ezek eléréséhez Microsoft FLOW vagy SharePoint Designer-munkafolyamatot kell használnia.
+- Nem lehet riasztásokat küldeni a terjesztési csoportoknak, csak a biztonsági és az O365-csoportok támogatottak.
+- Az értesítő e-mail sablonok nem szabhatók testre; ezek eléréséhez a Microsoft FLOW vagy a SharePoint Designer-munkafolyamatot kell használnia.
 
 ## <a name="related-topics"></a>Kapcsolódó témakörök
 
-Szeretné kipróbálni a Microsoft flow-t a SharePoint Online-ban?
+Szeretné kipróbálni az Microsoft Flow az SharePoint-ban?
 
-- [Folyamatábra létrehozása](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Új Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint és flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint és Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)
