@@ -1,5 +1,5 @@
 ---
-title: Mappa áthelyezése a Outlook.com
+title: Mappa áthelyezése a Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.assetid: 5042f2a4-6edb-425e-8d6e-df4d9c6c5434
 ms.custom:
 - "8000062"
 - "1070"
-ms.openlocfilehash: 3ca780d479bace5415501370206a65c98d462573
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f226e7ddba2d0c5c0bd0e05540b4491f4351e852e477dbcd1b982478481f4642
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772336"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984103"
 ---
-# <a name="move-a-folder-in-outlookcom"></a>Mappa áthelyezése a Outlook.com
+# <a name="move-a-folder-in-outlookcom"></a>Mappa áthelyezése a Outlook.com-on
 
-A **Kedvencek**csoportban átrendezheti a mappákat, **a mappák csoportban** azonban nem lehet átrendezni a mappákat, vagy almappákat is létrehozhat. Ha véletlenül áthelyezett egy mappát egy másik mappába, hozzon létre egy új mappát, és másolja az összes e-mailt az almappából az új mappába.
+A Kedvencek csoportban átrendezheti a mappákat, de mappákat  nem rendezhet át a Mappák csoportban, és almappát sem lehet almappát csinálni.  Ha véletlenül áthelyezett egy mappát egy másik mappába, hozzon létre egy új mappát, és másolja az almappában található összes e-mailt az új mappába.
   
-További információt az [üzenet mappáival végzett műveletek az Outlook.com-](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)on című témakörben talál.
+További információt az Üzenetmappák használata a [Outlook.com webhelyen Outlook.](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)

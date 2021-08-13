@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge felhasználói ügynök karakterlánca (asztali)
+title: Microsoft Edge ügynök karakterláncának megjelenítése (asztal)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678097"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976003"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge felhasználói ügynök karakterlánca (asztali)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge ügynök karakterláncának megjelenítése (asztal)
 
-A User Agent (UA) karakterláncok segítségével megállapítható, hogy egy adott böngésző melyik verzióját használja egy bizonyos operációs rendszeren. A többi böngészőben hasonlóan a Microsoft Edge a "User-Agent" HTTP fejlécében lévő információkat is tartalmazza, valahányszor kérést hoz létre egy webhelyre. A böngésző-verzióra vonatkozó információk a "Navigator. userAgent" érték lekérdezésével is elérhetők a JavaScripten keresztül.
+Felhasználói ügynök (UA) karakterláncok segítségével lehet észlelni, hogy egy adott böngésző melyik verzióját használják egy adott operációs rendszeren. Más böngészőkhöz Microsoft Edge információk a "Felhasználói ügynök" HTTP-fejlécen adatokat tartalmaznak minden alkalommal, amikor egy webhelyre vonatkozó kérést tesz. A böngészőverzióra vonatkozó információk a JavaScripten keresztül is elérhetők a "navigator.userAgent" érték lekérdezésével.
 
-Azt javasoljuk, hogy a webfejlesztők minden alkalommal használják a funkció észlelését, ha lehetséges a kódok megőrzésének javítása, a titkosítás csökkentése és a kód törésének kockázata a jövőbeli UA-karakterláncok frissítései esetén.
+Azt javasoljuk, hogy a webfejlesztők akkor használják a funkcióészlelést, amikor csak lehetséges, hogy javítsák a kódhasználatot, csökkentsék a kód töredelhetőségét, és kiküszöbölzék a kódtörés kockázatát az UA karakterlánc jövőbeli frissítései esetén.
 
-További információt a [Microsoft Edge User Agent karakterlánc (asztali)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string)című témakörben talál.
+További információt a Felhasználói ügynök [karakterláncának Microsoft Edge (asztali) oldalon.](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string)

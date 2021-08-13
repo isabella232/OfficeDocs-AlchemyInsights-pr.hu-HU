@@ -13,13 +13,13 @@ ms.custom:
 - "921"
 - "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: 9180e7f6194d6bd862c2e51ca6459188e4c25134
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68d68a7acfd99174bae5b14d3560fc2e02b580bf62d1bf4f948543708c901a8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704932"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926607"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>A Outlook.com elérése utazás közben
 
-Ha utazás közben szeretne hozzáférni a Outlook.com, győződjön meg arról, hogy a Microsoft-fiók biztonsági adatai – egy másodlagos e-mail-cím vagy telefonszám, ahol biztonsági kódokat kaphat – naprakész. További információt [a Outlook.com elérése utazás közben](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy)című témakörben talál.
+Ha utazás közben el Outlook a Outlook.com webhelyet, győződjön meg arról, hogy a Microsoft-fiókja biztonsági adatai – egy másik e-mail-cím vagy telefonszám, ahol biztonsági kódokat kaphat – naprakész. További információért [lásd: A Outlook.com](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy)elérése utazás közben.

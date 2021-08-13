@@ -13,18 +13,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: e1461582b8aa88116c600559855d32e6115cdf03
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 028e4623b7db7c0ee7a8eaab2e8971587d8cf0318c7c918ba6621f0d57b116be
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943629"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>NYILVÁNOS telefonhálózati hívás a Skype Vállalati online verzióval
+# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN-hívás a Skype Vállalati verzió Online-sal
 
-Ahhoz, hogy nyilvános telefonhálózati hívásokat kezdeményezni tudja a Microsoft [365-ben, Microsoft 365-hívási](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) csomagra vagy a helyszíni nyilvános telefonhálózati infrastruktúrával létesített kapcsolatra van szüksége. További információt a következő források tartalmaznak: 
+Ahhoz, hogy nyilvános telefonhálózati hívásokat Microsoft 365 [](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) a Microsoft 365 vagy kapcsolatot kell létesíteni a helyszíni nyilvános telefonhálózati telefonos infrastruktúrával. További információt a következő források tartalmaznak: 
 
-- [Az ország és a régió elérhetősége hangkonferenciákhoz és Microsoft Teams-hívási csomagokhoz](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Az ország és a régió elérhetősége hangkonferenciákhoz és hívásokat Microsoft Teams csomagokhoz](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
 - [Audio conferencing common questions](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Egyenleg hozzáadása és kommunikációs kreditek kezelése](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [A nyilvános telefonhálózati hívók nem csatlakozhatnak a Skype Vállalati verzióbeli betárcsázós konferenciahíváshoz](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [A nyilvános telefonhálózati hívók nem tudnak Skype Vállalati verzió betárcsázós konferenciahíváshoz csatlakozni](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

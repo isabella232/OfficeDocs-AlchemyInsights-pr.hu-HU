@@ -1,5 +1,5 @@
 ---
-title: Hiányzó mappák Outlook.com
+title: Outlook.com hiányzó mappák
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,19 +16,19 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 5ebabab51cceb9750ebc592218074c9c6604d7ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ede5d5a7dede4356e20af57740440ce8773d27ddc97de699466ad05c1c7a4bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984067"
 ---
-# <a name="find-missing-folders"></a>Hiányzó mappák megkeresése
+# <a name="find-missing-folders"></a>Hiányzó mappák megkeresve
 
-Előfordulhat, hogy néhány felhasználó nem tudja látni a bal oldali mappa ablaktáblát kis képernyőn való megjelenítéskor.
+Előfordulhat, hogy kis képernyőn való megjelenítéskor egyes felhasználók nem látják a bal oldali mappaablakot.
 
-- Ha nem látható a mappa ablaktábla, maximalizálja a böngészőablakot, vagy görgetheti a mappát a mappalista megtekintéséhez.
-- Bontsa ki a mappa ablaktáblát, ha szüksége van rá. A bal oldali sávban a három sor ikont választva megjelenítheti vagy elrejtheti a mappákat.
-- Nyissa meg az [elrendezés beállításai](https://outlook.live.com/mail/options/mail/layout) lapot, és válassza az **Olvasóablak elrejtése** , majd a **Mentés**lehetőséget. Így a képernyő több helyet ad a mappák megjelenítéséhez.
+- Ha nem látja a mappaablakot, teljes méretűre állíthatja a böngészőablakot, vagy balra görgetve megtekintheti a mappalistát.
+- Csak akkor bontsa ki a mappaablakot, ha szüksége van rá. Válassza a három vonal ikont a bal oldali sávon a mappák elrejtéshez vagy elrejtéshez.
+- Nyissa [meg az elrendezési beállításokat,](https://outlook.live.com/mail/options/mail/layout) és **válassza az Olvasóablak elrejtése,** majd a Mentés **lehetőséget.** Ez több helyet biztosít a képernyőn a mappák megjelenítése számára.
 
-Ha véletlenül törölt egy mappát, akkor helyreállíthatja, ha még a törölt elemek mappában van. Ha többet szeretne megtudni, olvassa el [a törölt e-mailek visszaállítása az Outlook.com-](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)on című témakört.
+Ha véletlenül töröl egy mappát, helyreállíthatja, ha még a Törölt elemek mappában van. További információt a Törölt e-mailek visszaállítása a [Outlook.com-on Outlook.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)

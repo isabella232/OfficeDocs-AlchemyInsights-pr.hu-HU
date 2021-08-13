@@ -1,5 +1,5 @@
 ---
-title: Az Outlook.com POP-, IMAP-és SMTP-beállításai
+title: A Outlook.com POP-, IMAP- és SMTP-beállításai
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,25 +14,25 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 1885297a578b433e5c74a4fc72557a1e0807cf40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a1ec9cf117d39ba293c4b6e2759472d892db11d86c7415e1689027aa8a728ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983815"
 ---
-# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Az Outlook.com POP-, IMAP-és SMTP-beállításai
+# <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>A Outlook.com POP-, IMAP- és SMTP-beállításai
 
-Ha a POP-vagy IMAP-kapcsolatot támogató Outlook.com-fiókot szeretne felvenni, az alábbi beállításokat kell megadnia:
+Ha hozzá szeretné adni a Outlook.com-fiókját egy POP vagy IMAP protokollt támogató levelezőalkalmazáshoz, a következő kiszolgálóbeállításokra lesz szüksége:
   
-- **IMAP-kiszolgáló neve:** Outlook.office365.com
+- **IMAP-kiszolgáló neve:** outlook.office365.com
 - **IMAP-port:** 993
 - **IMAP-titkosítási módszer:** TLS
-- **Pop-kiszolgáló neve:** Outlook.office365.com  
-- **Pop-Port:** 995  
-- **Pop-titkosítási módszer:** TLS  
-- **SMTP-kiszolgáló neve:** SMTP.office365.com
+- **POP-kiszolgáló neve:** outlook.office365.com  
+- **POP-port:** 995  
+- **POP-titkosítási módszer:** TLS  
+- **SMTP-kiszolgáló neve:** smtp.office365.com
 - **SMTP-port:** 587
 - **SMTP-titkosítási módszer:** STARTTLS
 
-További információ arról [, hogy miként adhat hozzá Outlook.com-fiókját egy másik levelezőprogram vagy intelligens eszközhöz](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).
+További információ a [Outlook.com-fiók másik levelezőalkalmazáshoz](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy)vagy intelligens eszközhöz való hozzáadásáról.

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com MSA
+title: Outlook.com MSA nyelvi ellenőrzés
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,24 +16,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f8cdef6068e0adef44f8b4172d2429c86947cb39e7a0eeb168ca6b4400e8b585
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983959"
 ---
 # <a name="security-info-and-security-codes"></a>Biztonsági adatok és biztonsági kódok
 
 Biztonsági adatok felvétele a Microsoft-fiókba:
 
-1. Microsoft-fiókjával jelentkezhet be a [Biztonság alapjaiba](https://account.microsoft.com/security) .
-1. Válassza a **biztonsági kontakt-adatok**lehetőséget.
-1. Kattintson a **biztonsági adatok hozzáadása** elemre, és az utasításokat követve adja meg a telefonszámot vagy az e-mail-címet.
-1. Az adott telefonszámon vagy e-mail-címben biztonsági kódot kell megfogadnia. Adja meg a **biztonsági adatok hozzáadása** ablakban a kapott biztonsági kódot, és válassza a **tovább**gombot.
+1. Jelentkezzen be [a Biztonsági alapismeretek szolgáltatásba](https://account.microsoft.com/security) Microsoft-fiókjával.
+1. Válassza **a Biztonsági kapcsolattartási adatok lehetőséget.**
+1. Válassza **a Biztonsági adatok hozzáadása lehetőséget,** és az utasításokat követve adjon meg egy telefonszámot vagy e-mail-címet.
+1. Erre a telefonszámra vagy e-mail-címre biztonsági kódot fog kapni. Írja be a kapott biztonsági kódot a Biztonsági adatok **hozzáadása ablakban,** és válassza a Tovább **gombot.**
 
-Ha el szeretne távolítani egy telefonszámot vagy e-mail-címet, válassza a mellette lévő **Eltávolítás** lehetőséget.
+Ha el szeretne távolítani egy telefonszámot vagy e-mail-címet, kattintson a mellette **az** Eltávolítás gombra.
 
-Ha módosítani szeretné, hogy melyik telefonszám vagy e-mail cím kapja meg a biztonsági figyelmeztetéseket, válassza az **értesítési beállítások módosítása lehetőséget**.
+Ha módosítani szeretné, hogy melyik telefonszám vagy e-mail-cím kapja meg a biztonsági riasztásokat, válassza a **Riasztási beállítások módosítása lehetőséget.**
 
-További információért olvassa el a [Microsoft-fiók biztonsági adatai és a hitelesítési kódok](https://support.microsoft.com/help/12428/)című témakört.
+További információért olvassa el a [Microsoft-fiók biztonsági adatait és ellenőrzőkódját.](https://support.microsoft.com/help/12428/)
