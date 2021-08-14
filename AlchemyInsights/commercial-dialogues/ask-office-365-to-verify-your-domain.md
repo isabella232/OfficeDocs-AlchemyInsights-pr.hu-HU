@@ -1,5 +1,5 @@
 ---
-title: A tartomány ellenőrzésére kéri az Office 365-öt
+title: Kérje meg Office 365, hogy igazolja a tartományát
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 432ae69a244b22bcbc8826702c17da00040752d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e4089c8c81012c1c579c21ad6b5b5fe7ecea51ccd2324ef208818bb7242e4af4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949605"
 ---
-# <a name="ask-office-365-to-verify-your-domain"></a>A tartomány ellenőrzésére kéri az Office 365-öt
+# <a name="ask-office-365-to-verify-your-domain"></a>Kérje meg Office 365, hogy igazolja a tartományát
 
-Ha az Office 365 megtalálja a megfelelő TXT rekordot, a tartomány hitelesített lesz. Ha meg kell kérnie az Office 365-öt a tartománya ellenőrzésére, végezze el az alábbi lépéseket:
+Ha az Office 365 megtalálja a megfelelő TXT rekordot, a tartomány hitelesített lesz. Ha meg Office 365 tartománya igazolását, végezze el az alábbi lépéseket:
 
 1. Győződjön meg arról, hogy a **Tartomány igazolása lapon** van. Ha nem ezen a lapon van, válassza a **Setup > Domains**(Tartománybeállítás) lehetőséget,  válassza ki az igazolnia megfelelő tartományt, majd kattintson a Beállítás kezdése vagy a Beállítás **folytatása gombra.** A Tartomány igazolása **lapra** kell visszalaposodni.
 

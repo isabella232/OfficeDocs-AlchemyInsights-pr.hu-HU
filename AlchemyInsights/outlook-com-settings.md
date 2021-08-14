@@ -1,5 +1,5 @@
 ---
-title: Outlook.com beállítások
+title: Outlook.com beállításai
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "9000302"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: bb233bc26bdaae2797293889e07fde7b32a5469c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95aafc234c4c1cff28816ffe1e8ec2ab258f43c6d05b3e1a778ad1a701235512
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063594"
 ---
-# <a name="settings-in-outlookcom"></a>Beállítások a Outlook.com-ban
+# <a name="settings-in-outlookcom"></a>Gépház a Outlook.com-on
 
-Ha nem tudja megnyitni a Outlook.com beállításait, akkor [kattintson ide](https://outlook.live.com/mail/options/general/timeAndLanguage).
+Ha nem tudja megnyitni a Outlook.com beállításait, kattintson [ide.](https://outlook.live.com/mail/options/general/timeAndLanguage)
 
-Bizonyos közvetlen hivatkozások nem nyílnak meg a pillanatban – dolgozunk rajta!
+Egyes közvetlen hivatkozások pillanatnyilag nem nyitnak meg – már dolgozunk rajta!

@@ -1,5 +1,5 @@
 ---
-title: False positives/negatives in Microsoft Defender for Endpoint (Vak pozitív/negatív címek a Microsoft Defenderben végpont esetén)
+title: False positives/negatives in Microsoft Defender for Endpoint (Vak pozitív/negatívok cím a Microsoft Defenderben végpont esetén)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007385"
 - "12446"
-ms.openlocfilehash: 226e9212b7413a87711731c1362bd247bf5ff4efaeceabfa7caf31d0a97b8ede
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f4e61c085cab174e68a9524ac978f2f415b97d21649d47b2eb16f24abe83f828
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57813637"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868572"
 ---
-# <a name="address-false-positivesnegatives-in-microsoft-defender-for-endpoint"></a>False positives/negatives in Microsoft Defender for Endpoint (Vak pozitív/negatív címek a Microsoft Defenderben végpont esetén)
+# <a name="address-false-positivesnegatives-in-microsoft-defender-for-endpoint"></a>False positives/negatives in Microsoft Defender for Endpoint (Vak pozitív/negatívok cím a Microsoft Defenderben végpont esetén)
 
-A végpontvédelmi megoldásokban a hamis pozitív észlelés egy olyan entitás (például fájl vagy folyamat) , amely kártékonyként lett észlelve és azonosítható annak ellenére, hogy az entitás valójában nem jelent fenyegetést. 
+A végpontvédelmi megoldásokban a hamis pozitív egy entitás , például egy fájl vagy egy folyamat, amely kártékonyként észlelt és azonosított, még akkor is, ha az entitás valójában nem veszélyforrás. 
 
-A hamis negatív egy olyan entitás, amely nem észlelhető veszélyforrásként, még akkor is, ha valójában rosszindulatú. Hamis pozitívak/negatívok bármilyen veszélyforrás-védelmi megoldás esetén előfordulhatnak, beleértve a [Microsoft Defender végpontot.](/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint)
+A hamis negatív egy olyan entitás, amely nem észlelhető veszélyforrásként, még akkor is, ha valójában rosszindulatú. Hamis pozitívak/negatívok bármilyen veszélyforrás-védelmi megoldás esetén előfordulhatnak, beleértve a [Microsoft Defender végpontot.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint)
 
-További információ: Vak pozitív/negatívok címzése a [Microsoft Defender végponthoz](/microsoft-365/security/defender-endpoint/defender-endpoint-false-positives-negatives).
+További információ: Vak pozitív/negatívok címzése a [Microsoft Defender végponthoz](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/defender-endpoint-false-positives-negatives).

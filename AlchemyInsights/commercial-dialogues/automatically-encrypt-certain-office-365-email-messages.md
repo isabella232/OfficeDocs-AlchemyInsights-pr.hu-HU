@@ -1,5 +1,5 @@
 ---
-title: Egyes Office 365-ös e-mailek automatikus titkosítása
+title: Bizonyos e-Office 365 automatikus titkosítása
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: e4b2f4ffcacf03e145b4c6d5ff6e73a75cb7c184
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746127"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949569"
 ---
-# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Egyes Office 365-ös e-mailek automatikus titkosítása
+# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Bizonyos e-Office 365 automatikus titkosítása
 
 Automatikusan titkosíthatja a felhasználók által bizonyos külső személyeknek vagy szervezeteknek küldött üzeneteket. Ehhez kövesse az alábbi lépéseket:
 
-1. Az [Exchange Felügyeleti központban válassza](https://outlook.office365.com/ecp/)az **e-mail-forgalom és > lehetőséget.** 
-2. Kattintson az **Új (+)** ikonra, majd az **Office 365** Üzenettitkosítás és jogvédelem alkalmazása az üzenetekre elemre.
+1. A felügyeleti [Exchange központban válassza](https://outlook.office365.com/ecp/)az **e-mail-forgalom és > lehetőséget.** 
+2. Kattintson az **Új (+)** ikonra, majd a Szövegvédelem Office 365 Üzenettitkosítás és jogvédelem alkalmazása **az üzenetekre elemre.**
 3. A **Név** formában adja meg a szabály nevét, például a következőnek küldött üzenetek *titkosítása DrToniRamos@gmail.com.*
 4. A **Szabály alkalmazása, ha** lehetőséget választva válassza A címzett > ez a személy **lehetőséget.** 
 5. A Tagok **kiválasztása ablakban** jelölje ki annak a személynek a nevét, akire alkalmazni szeretné a titkosítási szabályt, majd kattintson a hozzáadás **gombra.** 
@@ -38,5 +38,5 @@ Automatikusan titkosíthatja a felhasználók által bizonyos külső személyek
 > [!IMPORTANT]
 > A szabályt később is mindig módosíthatja.
 
-A titkosítási szabályok létrehozásáról további információt az E-mail-forgalom szabályainak [definiálva az Office 365-ben az e-mailek titkosításához.](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+A titkosítási szabályok létrehozásáról további információt az [E-mail-forgalom](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)szabályainak meghatározása az e-mailek titkosításához a Office 365.
 
