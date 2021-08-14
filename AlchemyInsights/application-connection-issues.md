@@ -1,5 +1,5 @@
 ---
-title: Alkalmazáskapcsolati problémák
+title: Alkalmazás csatlakozási problémái
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004326"
 - "7825"
-ms.openlocfilehash: 5d27592e2233a01fead0332e6e2af08bf6cd9287
-ms.sourcegitcommit: a43e2fae2ed9cc7bc2bd869d97a1d57fa98955c5
+ms.openlocfilehash: 4f8d97d4820e2fad5d3bdf314370236b509b6081dc5f87078995282e72da0c18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931537"
 ---
-# <a name="application-connection-issues"></a>Alkalmazáskapcsolati problémák
+# <a name="application-connection-issues"></a>Alkalmazás csatlakozási problémái
 
-[Oktatóanyagok alkalmazások Azure Active Directoryval](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) való integrálásához – Az alkalmazások Azure Active Directoryval való integrálása érdekében olyan oktatóanyag-gyűjteményt fejlesztettünk ki, amely végigsegíti a konfiguráción.
+[Oktatóanyagok](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) az alkalmazások Azure Active Directory-val való integrálásához – Az Azure Active Directory-val való integrálása érdekében fejlesztettünk egy olyan oktatóanyag-gyűjteményt, amely végigkomolja a konfiguráción.
 
-**Alkalmazásproxy ügynök összekötő hibaelhárítása**
+**Alkalmazásproxy-ügynök összekötő hibaelhárítása**
 
-Ha egy összekötő telepítése sikertelen, segítségért lásd: [Probléma az alkalmazásproxy ügynök összekötő telepítésekor.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem)
+Ha az összekötő telepítése sikertelen, a Probléma az [alkalmazásproxy-ügynök összekötő telepítésével.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connector-installation-problem)
 
-[A hibakeresési alkalmazásproxy összekötőivel](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) kapcsolatos problémák segítenek elhárítani az Azure Active Directory (Azure AD) alkalmazásproxy-összekötőivel kapcsolatos hibákat. Ha az Alkalmazásproxy szolgáltatást használja a helyszíni webalkalmazáshoz való távoli hozzáféréshez, de problémákat okoz az alkalmazáshoz való csatlakozáskor, ezzel a folyamatábrával megoldja az összekötők problémáit.
+[Az alkalmazásproxyval kapcsolatos](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) hibakeresési problémák az azure Azure Active Directory (Azure AD) alkalmazásproxyval kapcsolatos összekötők hibáinak elhárításában segítenek. Ha az Alkalmazásproxy szolgáltatást használja a helyszíni webalkalmazáshoz való távoli hozzáféréshez, de problémákat okoz az alkalmazáshoz való csatlakozáskor, ezzel a folyamatábrával megoldjuk az összekötők problémáit.
 
-[Az](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) alkalmazásproxy-alkalmazásokhoz nem található működő összekötő-csoport segít megoldani az Azure Active Directoryval integrált alkalmazásproxy-alkalmazásokhoz nem észlelt összekötők gyakori problémáit.
+[Az Alkalmazásproxy alkalmazáshoz](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-connectivity-no-working-connector) talált munkacsatlakozócsoport nem segít megoldani azokkal a gyakori problémákkal kapcsolatos problémákat, amelyek akkor Azure Active Directory.
 
-**A Cisco AnyConnect-integráció hibaelhárítása**
+**A Cisco AnyConnect integrációjának hibaelhárítása**
 
-Ha tudni szeretne arról, hogy miként integrálhatja a Cisco AnyConnectet az Azure Active Directoryval (Azure AD), olvassa el az oktatóanyagot: Azure Active Directory egyszeri bejelentkezés [(SSO) integráció a Cisco AnyConnect alkalmazással.](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)
+A Cisco AnyConnect és az Azure Active Directory (Azure AD) integrálásáról az Oktatóprogram: Egyszeri bejelentkezés [(SSO) integrációja Azure Active Directory Cisco AnyConnect alkalmazással.](https://docs.microsoft.com/azure/active-directory/saas-apps/cisco-anyconnect)
