@@ -1,5 +1,5 @@
 ---
-title: Alkalmazás-engedélyezési házirendek
+title: Alkalmazásengedély-házirendek
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951675"
 ---
-# <a name="app-permission-policies"></a>Alkalmazás-engedélyezési házirendek
+# <a name="app-permission-policies"></a>Alkalmazásengedély-házirendek
 
-Az [app-engedélyezési házirendek](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)segítségével az alábbi műveleteket végezheti el:
-- Rendszergazdaként kezelheti az alkalmazások beállítási házirendjét a [Microsoft Teams felügyeleti központban](https://admin.teams.microsoft.com/policies/app-permission).
-- Annak szabályozása, hogy milyen alkalmazások érhetők el a Microsoft Teams felhasználói számára globális házirend segítségével, illetve [Egyéni házirendek létrehozása és hozzárendelése](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) az alkalmazások felhasználói elérésének testre szabásához és szabályozásához. 
+Az [alkalmazásengedély-házirendek segítségével](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)az alábbi lehetőségek közül választhat:
+- Rendszergazdaként az appbeállítási házirendeket a Felügyeleti központban [Microsoft Teams kezelheti.](https://admin.teams.microsoft.com/policies/app-permission)
+- Szabályozhatja, hogy mely appok érhetők el Microsoft Teams [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) felhasználóknak a szervezetben globális házirendek használatával, illetve egyéni házirendeket hozhat létre és rendelhet hozzá az appok felhasználói hozzáférésének testreszabásához és szabályozásához. 
 > [!NOTE]
-> A szervezeti szintű alkalmazások beállításai felülbírálják a globális házirendet és az Ön által létrehozott és a felhasználókhoz hozzárendelt egyéni házirendeket.
-- Az [app beállítási házirendjei](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) segítségével testre szabhatja a Microsoft Teams alkalmazást, hogy kiemelje a felhasználók számára legfontosabb alkalmazásokat. 
+> A szervezeti szintű appbeállítások felülbírálják a globális házirendet és a felhasználókhoz létrehozott és hozzájuk hozzárendelt egyéni házirendeket.
+- Az [appbeállítási házirendekkel](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) testre szabhatja a Microsoft Teams kiemelheti a felhasználóknak legfontosabb alkalmazásokat. 
 
 
-Ha többet szeretne tudni a bérlői app-házirendek létrehozásáról, olvassa el az alábbiakat:
-- [Az alkalmazások kezelése a Microsoft Teams felügyeleti központban](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Alkalmazás-engedélyezési házirendek kezelése a Microsoft Teams alkalmazásban](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Egyéni app-házirendek és-beállítások kezelése a Microsoft Teams alkalmazásban](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+További információ az app házirendek bérlői webhelyhez való létrehozásáról:
+- [Alkalmazások kezelése a Microsoft Teams Felügyeleti központban](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Alkalmazásengedély-házirendek kezelése a Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Egyéni alkalmazás házirendek és beállítások kezelése a Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

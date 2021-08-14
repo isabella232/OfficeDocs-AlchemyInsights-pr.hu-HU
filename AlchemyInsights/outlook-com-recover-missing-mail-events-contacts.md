@@ -1,5 +1,5 @@
 ---
-title: Hiányzó vagy törölt e-mailek, naptári események és névjegyek megkeresése és helyreállítása
+title: Hiányzó vagy törölt e-mailek, naptáresemények vagy névjegyek megkeresése és helyreállítása
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -21,19 +21,19 @@ ms.custom:
 - "803"
 - "8000003"
 ms.assetid: 8e24b096-fcbf-4d7e-a412-f6db2afad623
-ms.openlocfilehash: 5a8bfc34bc5642be97c7c07dd933f7f98707855f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d550831af54105330bf4c08e6dad4dce34a9f679536f208bb5e037471cd0c50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063738"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Hiányzó vagy törölt e-mailek, naptári események vagy partnerek Outlook.com megkeresése és helyreállítása
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-outlookcom"></a>Hiányzó vagy törölt e-mailek, naptáresemények vagy névjegyek megkeresése és helyreállítása Outlook.com
 
-- A levelek nézetben használja a <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- A lap tetején lévő **keresési** sáv [üzenetek vagy névjegyek kereséséhez](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy).
+- A Mailben a <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **A** lap tetején lévő keresősávon kereshet [üzeneteket vagy névjegyeket.](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
   
-- A naptárban használja a <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- A lap tetején lévő **Keresés** sáv [, amelyen szó, név vagy kifejezés használatával kereshet eseményeket](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy). Ha egynél több naptár van megnyitva, a Keresés az aktuálisan kijelölt naptárra fog összpontosítani.
+- A Naptár nézetben a <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ **Search** bar at the top of the page to [search for events using a word, name, or phrase](https://support.office.com/article/5bc05289-c84c-4849-95a8-7eac05ed478a?wt.mc_id=Office_Outlook_com_Alchemy). Ha több naptár van megnyitva, a keresés az aktuálisan kijelölt naptárra összpontosít.
   
-- Ha véletlenül törölt egy üzenetet, naptár-eseményt vagy-partnert, akkor [visszaállíthatja ezeket az elemeket, ha még a törölt elemek vagy a Levélszemét mappában vannak](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+- Ha véletlenül töröl egy üzenetet, naptáreseményt vagy névjegyet, helyreállíthatja azokat az elemeket, amelyek még a Törölt elemek vagy a Levélszemét mappában [vannak.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)

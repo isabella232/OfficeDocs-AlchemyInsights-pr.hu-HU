@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "11938"
 - "9007100"
-ms.openlocfilehash: b7cff060379bee1da07db1d5f8e5d1a861d223482ddabdaf1ca086d1a9be67f4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 22d80b4dcabaf81c25352445c7e20daaab5bf2f9838c9d4c39057bda423a2ecc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57813061"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868608"
 ---
 # <a name="get-started-with-microsoft-webview2"></a>A Microsoft WebView2 – első lépések
 
-Ahhoz, hogy a WebView2 vezérlő használatával felépítse és tesztelje az appot, telepítve kell lennie a WebView2 SDK csomagnak. Első lépésekként válasszon az alábbi lehetőségek közül:
+Ahhoz, hogy a WebView2 vezérlővel felépítse és tesztelje az appot, telepítve kell lennie a WebView2 SDK csomagnak. Első lépésekként válasszon az alábbi lehetőségek közül:
 
-- [Első lépések Win32 C/C++ billentyűkombinációval](/microsoft-edge/webview2/get-started/win32)
-- [Első lépések WPF-fájlokkal](/microsoft-edge/webview2/get-started/wpf)
-- [Első lépések WinForm formátummal](/microsoft-edge/webview2/get-started/winforms)
-- [Első lépések WinUI3-nal](/microsoft-edge/webview2/get-started/winui)
+- [Első lépések Win32 C/C++ billentyűkombinációval](https://docs.microsoft.com/microsoft-edge/webview2/get-started/win32)
+- [Első lépések WPF-fájlokkal](https://docs.microsoft.com/microsoft-edge/webview2/get-started/wpf)
+- [Első lépések WinForm formátummal](https://docs.microsoft.com/microsoft-edge/webview2/get-started/winforms)
+- [Első lépések WinUI3-nal](https://docs.microsoft.com/microsoft-edge/webview2/get-started/winui)
 
 A WebView2-minták tárház olyan mintákat tartalmaz, amelyek a WebView2 SDK összes funkcióját és API-használati mintáit mutatják be. A WebView2 SDK további funkcióinak hozzáadása után a mintaalkalmazások frissülnek.
 

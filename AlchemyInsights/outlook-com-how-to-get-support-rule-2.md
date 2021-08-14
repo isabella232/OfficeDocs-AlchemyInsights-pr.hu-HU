@@ -1,5 +1,5 @@
 ---
-title: A támogatás beszerzésének Outlook.com
+title: Outlook.com Hogyan lehet támogatást kapni?
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: fe8a3956dbeff811935e976a8d75274f5e736482
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 1d42e026814499c28396913906346b70c6b7299176dea67e0cd420df73a0cda4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096049"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>Támogatás kérése az Outlook.com-on
+# <a name="how-to-get-support-in-outlookcom"></a>Támogatás a Outlook.com-on
 
-Sajnáljuk, a Outlook.com nem kínál telefonos támogatást, de dedikált csapatunk van, akik segíthetnek.
-Írja be a kérdését, vagy írja le a problémát a fenti **Súgó** mezőben, majd válassza a **Segítség kérése**lehetőséget.
+Sajnáljuk, Outlook.com nem nyújt telefonos támogatást, de dedikált csapatunk segíthet Önnek.
+Írja be a kérdését vagy írja le a problémát a **fenti** Súgó mezőben, majd válassza a **Segítség gombra.**
 
-[Segítség kérése az Outlook.com-hoz](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Segítség a Outlook.com-hoz](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 

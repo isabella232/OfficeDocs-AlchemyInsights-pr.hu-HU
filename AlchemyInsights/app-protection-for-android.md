@@ -1,5 +1,5 @@
 ---
-title: Az Android app Protection Policy beállításai a Microsoft Intune-ban
+title: Android-appvédelmi házirend beállításai a Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003997"
 - "7057"
-ms.openlocfilehash: 327df6e0a901037cd929cb845f805466d9bd4eff
-ms.sourcegitcommit: 81c86027933c06db08d264918f2698d9c9a1659a
+ms.openlocfilehash: ff253ad4b2ba12e25a786b5aa5bac76ae4765206a2e12880a0673ce5fcbf30c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447412"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951639"
 ---
-# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Az Android app Protection Policy beállításai a Microsoft Intune-ban
+# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Android-appvédelmi házirend beállításai a Microsoft Intune
 
-Az App Protection Policy beállításai az Android-eszközökhöz három kategóriába sorolhatók:
+Az Appvédelmi házirend beállításainak három kategóriája érhető el Android-eszközökön:
 
-**Az adatvédelem szabályozza a** vállalati adatkezelési módokat, például hogy az adatmásolható vagy beilleszthető-e egy másik alkalmazásba, illetve hogy van-e képernyőkép az alkalmazásról. A beállítások a vállalati adatok titkosítását is kikényszerítik, és kezelik, hogy bizonyos adatok szinkronizálva legyenek-e a natív eszköz alkalmazásaival, például a partnerlista vagy a webböngésző használatával. További információt az [Adatvédelem](https://go.microsoft.com/fwlink/?linkid=2135259)című témakörben találhat.
+**Az adatvédelem** szabályozza a céges adatok kezelését, például azt, hogy az adatok másolhatók vagy bemásolhatók-e egy másik appba, illetve hogy lehet-e képernyőképet készíteni az alkalmazásról. A beállítások emellett a vállalati adatok titkosítását is érvényesítik, és kezelhetik, hogy bizonyos adatok szinkronizálva legyenek-e a natív eszközalkalmazásokkal, például a partnerlistával vagy a webböngészővel. További információért lásd: [Adatvédelem.](https://go.microsoft.com/fwlink/?linkid=2135259)
 
-A **hozzáférési követelményekkel** a felhasználók elérheti az alkalmazást. Egy alkalmazásban például szükség lehet arra, hogy a felhasználó PIN-kódot vagy ujjlenyomatot írjon az eléréséhez. További információt a [hozzáférési követelmények](https://go.microsoft.com/fwlink/?linkid=2135260)című témakörben találhat.
+**Az Access követelményei** azt kalauzják, hogy a felhasználók hogyan férhetnek hozzá az apphoz. Előfordulhat például, hogy egy alkalmazás PIN-kódot vagy ujjlenyomatot kér a felhasználótól a hozzáféréshez. További információ: [Az Access követelményei.](https://go.microsoft.com/fwlink/?linkid=2135260)
 
-A **feltételes indítás** szabályozza az alkalmazások bejelentkezési biztonsági beállításait, például a zárolás előtti maximális kísérleteket, illetve az alkalmazás futtatásához szükséges minimális operációs rendszert. További információt a [feltételes indítás](https://go.microsoft.com/fwlink/?linkid=2135507)című témakörben találhat.
+**A feltételes indítás** az appok bejelentkezési biztonsági beállításaira, például a zárolás előtti maximális PIN-kód-kísérletekre vagy az app futtatásához szükséges minimális operációs rendszerre van szükség. További információért lásd: [Feltételes indítás](https://go.microsoft.com/fwlink/?linkid=2135507).

@@ -1,5 +1,5 @@
 ---
-title: Az adathalászat kezelése az Outlook.com-on
+title: Adathalászat kezelése a Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ecd2b35824b6ef5c3655ff88a9c93ab2abe03084c891b10a40c5dacd02818d57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798234"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095904"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Adathalászó e-mailek kezelése
+# <a name="how-to-deal-with-a-phishing-email"></a>Az adathalász e-mailek ismertetése
 
-Az adathalászatos átverés olyan e-mailek, amelyek legitimnek tűnnek, de valójában kísérlet arra, hogy ellopja személyes adatait vagy pénzét. A csalók olyan technikát is használhatnak, amely a hamisítást is lehetővé teszi úgy, mintha Ön saját maga kapja meg az e-mailt.
+Az adathalászat olyan e-mail, amely valódinak látszik, de valójában személyes adatokat vagy pénzt próbál kicsalni Öntől. A csalók hamisításnak nevezett eljárást is használhatnak, hogy úgy tetsszen, mintha saját magától kapott volna egy e-mailt.
 
-Ha egy olyan e-mailt kap, amely egy adathalászó átverésnek tűnik, bejelentheti az üzenetet, majd kiválaszthatja a **Levélszemét**-  >  **adathalászat**lehetőséget.
+Ha olyan e-mailt kap, amely adathalászatnak tűnik, az üzenet kijelölésével, majd a Levélszeméthalászat lehetőség kiválasztásával **jelentheti**  >  **be.**
 
-*Megjegyzés:* Ha egy üzenetet adathalászatként jelöl meg, csak a feladót jelenti.Nem akadályozza meg, hogy a feladó ne küldjön üzeneteket a jövőben. A feladó letiltásához fel kell vennie a feladót a letiltott feladók listájára. További információt a [feladók letiltása vagy a feladók feloldása az Outlook.com-](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)on című témakörben talál.
+*Megjegyzés:* Ha adathalász üzenetként jelöl meg egy üzenetet, az csak a feladót jelenti. Nem tiltja le, hogy a feladó a jövőben üzeneteket küldsen Önnek. Ha le szeretne tiltani egy feladót, fel kell vegye a feladót a letiltott feladók listájára. További információt a Feladók blokkolása és letiltásának feloldása a [Outlook.com webhelyen Outlook.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Megtudhatja, hogy miként [kezelheti a visszaélések, az adathalászat](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) és a hamisítás funkcióit a Outlook.com-ban és a [Microsoft 365-előfizetők speciális biztonsági Outlook.com](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+További információ a visszaélések, az adathalászat és a hamisítás ellen az [Outlook.com-on](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) és a Outlook.com fejlett biztonsági funkciókkal [Microsoft 365 előfizetők számára.](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)

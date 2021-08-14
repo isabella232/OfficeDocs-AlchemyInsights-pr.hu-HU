@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7801"
-ms.openlocfilehash: b4f5d96cf92b37ecc31a11c0f33db2e3db8510cc
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: bbe71ac33b3ffc9d7414369432ce096520a3f7f1d8a0e34a256df2db7765d583
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885073"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951603"
 ---
 # <a name="app-proxy-connection-issue"></a>Alkalmazásproxyval kapcsolatos probléma
 
-1. Ha az Alkalmazásproxy szolgáltatást használja a helyszíni webalkalmazáshoz való távoli hozzáféréshez, de [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) nem tud csatlakozni az alkalmazáshoz, ebből a cikkből segítséget kaphat az Azure Active Directory (Azure AD) alkalmazásproxy-összekötőivel kapcsolatos hibák elhárításához.
-2. Ha segítségre van szüksége az Azure Active Directoryval integrált alkalmazásproxy-alkalmazás összekötőinek észlelésekor felmerülő gyakori problémák megoldásához, kövesse a "Nincs működő összekötő csoport, amely egy alkalmazásproxy-alkalmazás esetén található" témakörben található lépéseket a hibaelhárításhoz. [](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector)
+1. Ha az Alkalmazásproxy szolgáltatást használja egy helyszíni webalkalmazáshoz való távoli hozzáféréshez, de [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) problémákat okoz az alkalmazáshoz való csatlakozáskor, ebben a cikkben segítséget kaphat az Azure Active Directory (Azure AD) alkalmazásproxy összekötőivel kapcsolatos problémák elhárításához.
+2. Ha segítségre van szüksége annak a gyakori problémáknak a megoldásához, amelyek akkor lépnek fel, amikor a rendszer nem észlel összekötőt az Azure Active Directory-val integrált alkalmazásproxy-alkalmazás esetén, kövesse a Nincs munkacsatlakozó csoport az alkalmazásproxy-alkalmazásokhoz található hibák elhárításához témakörben található lépéseket. [](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector)
