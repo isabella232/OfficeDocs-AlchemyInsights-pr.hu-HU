@@ -1,5 +1,5 @@
 ---
-title: az 8000044 elküldött e-mailek "sikertelen kézbesítés" üzenet jelenik meg a Outlook.com
+title: 8000044 az elküldött e-mailek kézbesítése sikertelen lesz a Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 0da2655f31fd74297249d9f697fc2487159d03f1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e1eeabc9ef499f870d3ce14507791fc11508f52f13830b706ad1044c98454c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942693"
 ---
-# <a name="sent-email-comes-back-delivery-failed"></a>Az elküldött e-mailek "sikertelen kézbesítés" üzenet jelenik meg
+# <a name="sent-email-comes-back-delivery-failed"></a>Az elküldött e-mailek kézbesítése sikertelen.
 
-A kézbesítési hibák vagy a kézbesíthetetlenként kapott e-mailek több okból is megtörténhetnek. Ha többet szeretne tudni a leggyakoribb hibaüzenetekről, valamint a javasolt megoldásokról, olvassa el az [elküldött e-mailek Outlook.com a "sikertelen kézbesítés"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy)hibaüzenetet.
+A kézbesítés sikertelenségének, illetve a kézbesíthetetlenként visszatűnő e-mail-üzeneteknek számos oka lehet. Ha többet szeretne megtudni a leggyakoribb hibaüzenetekről és a javasolt megoldásokról, olvassa el az Elküldött e-mailek a [Outlook.com-on](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy)"sikertelen kézbesítés" üzenet jelenik meg.
   

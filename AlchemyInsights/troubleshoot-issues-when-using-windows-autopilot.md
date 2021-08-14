@@ -1,5 +1,5 @@
 ---
-title: A Windows Autopilot használatakor fellépő problémák elhárítása
+title: Az AutoPilot használata során Windows hibák elhárítása
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008332"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>A Windows Autopilot használatakor fellépő problémák elhárítása
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Az AutoPilot használata során Windows hibák elhárítása
 
-Ha problémát tapasztal az autopilottal, olvassa el az [Autopilot hibaelhárítása](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) és [ismert problémák](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) lapja című témakört.
+Ha az AutoPilottal kapcsolatban van probléma, tekintse át az [Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) hibaelhárítási és ismert problémák [lapját.](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues)
 
-Ha problémák lépnek fel a Windows Autopilot leállásakor a beiratkozási állapot lap (ESP) fázisa során, kérjük, olvassa el az alábbi dokumentumot, amely útmutatást ad a probléma megoldásához. [A beiratkozási állapot lap ismertetése és hibaelhárítása](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+Ha problémát okoz az Windows AutoPilot leállítása egy regisztrációs állapotlap (ESP) fázis során, kérjük, olvassa el az alábbi dokumentumot, és olvassa el, hogy miként háríthatja el a problémát. [A Regisztráció állapota lap megtekintése és hibaelhárítása](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-Ha a Hololens 2 készülékkel próbálja meg kipróbálni az Autopilot-t, kérjük, ellenőrizze, hogy áttekinti-e a "[Windows Autopilot a Hololens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) " dokumentációt. Ez a cikk segítséget nyújt a Hololens 2 robotpilóta által való regisztrálásához szükséges előfeltételek és az ajánlott lépések megismeréséhez  
+Ha ki próbálja ki az Autopilotot a Hololens 2 eszközökkel, kérjük, tekintse át a " Windows[Autopilot for HoloLens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) dokumentációt. Ez segít megérteni a Hololens 2 autopilottal való regisztrálásának előfeltételeit és ajánlott lépéseit.  
 
-A Windows Autopilot beállításáról további információt a [Windows-eszközök regisztrálása az Intune-ban a Windows Autopilot segítségével](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot) című témakörben talál.
+Az Autopilot eszköz beállításával kapcsolatos további Windows a Mobileszközök Windows regisztrálása az Intune-ban az [Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot) használatával

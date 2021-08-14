@@ -1,5 +1,5 @@
 ---
-title: A SharePoint automatikus kivonatoló e-mail-címe
+title: SharePoint E-mailek automatikus kivonatolása
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6f724b73c292ca85d694eee715d435556d9cdfc9af3c9b99ddea1e094f3d16a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942171"
 ---
-# <a name="sharepoint-auto-digest-email"></a>A SharePoint automatikus kivonatoló e-mail-címe
+# <a name="sharepoint-auto-digest-email"></a>SharePoint E-mailek automatikus kivonatolása
 
-A SharePoint automatikus hír-kivonata automatikusan e-mailt küld a cég felhasználóinak a legújabb, számukra még nem olvasott hírekről.
+SharePoint Az automatikus hír-kivonat automatikus e-mailt küld a vállalat felhasználóinak a legújabb, számukra még nem olvasott hírekről.
 
 További információért látogasson el a [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- A Microsoft 365 fejlesztési ütemtervének azonosítója:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Microsoft 365 Roadmap ID: [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
 - Időzítés: A célzott megjelenésű ügyfelek július közepén **(korábban** júniusban, és minden ügyfélnél augusztus közepén (korábban augusztus **elején) befejezték a megjelenést.**
 - Bevezetés: Felhasználói szintű bevezetés
 - Vezérlő típusa: Felhasználói vezérlő, **Rendszergazdai vezérlő a PowerShellen keresztül (hamarosan)

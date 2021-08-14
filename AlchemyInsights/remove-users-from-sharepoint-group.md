@@ -1,5 +1,5 @@
 ---
-title: Felhasználók eltávolítása SharePoint-csoportból
+title: Felhasználók eltávolítása SharePoint csoportból
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: 7a66c8440ba7eb1bb0794efd94ad4e707b9d2298
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b34042a48baa26a7e2a4b6a29ff864f2eed823893d76fb8837704769b0ce5166
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094566"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a>Felhasználók eltávolítása SharePoint-csoportból
+# <a name="remove-users-from-a-sharepoint-group"></a>Felhasználók eltávolítása SharePoint csoportból
 
-A SharePoint-csoportok olyan felhasználók gyűjteményei, akiknek azonos engedélykészletük van a webhelyekhez és a tartalmakhoz. Ahelyett, hogy egyszerre csak egy személyhez rendeli hozzá az engedélyeket, csoportok használatával egyidejűleg kényelmesen hozzárendelheti ugyanazt az engedélyszintet több személyhez is.
+A SharePoint olyan felhasználók gyűjteménye, akik azonos engedélykészletben vannak megállítva a webhelyekhez és a tartalmakhoz. Ahelyett, hogy egyszerre csak egy személyhez rendeli hozzá az engedélyeket, csoportok használatával egyidejűleg kényelmesen hozzárendelheti ugyanazt az engedélyszintet több személyhez is.
 
 - [Felhasználók eltávolítása egy csoportból](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [Tagok hozzáadása vagy eltávolítása a Microsoft 365-csoportokból a Felügyeleti központban](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [Tagok hozzáadása és eltávolítása Microsoft 365 csoportokból a Felügyeleti központban](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

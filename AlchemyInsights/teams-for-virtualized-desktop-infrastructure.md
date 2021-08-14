@@ -1,5 +1,5 @@
 ---
-title: Teams a virtualizált asztali infrastruktúrához
+title: Teams virtualizált asztali infrastruktúra fejlesztése
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 684fe91cf4e8cc6a767878efe397ccaf0f7cc0cf74ba29f21b40d77c18a028f7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829414"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008512"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams a virtualizált asztali infrastruktúrához
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams virtualizált asztali infrastruktúra fejlesztése
 
-A Teams virtualizált asztali infrastruktúra-környezetekkel kapcsolatos részletes információkért lásd: [Teams virtualizált asztali infrastruktúra .](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
+Az asztali infrastruktúra virtualizált Teams környezetekben való használatának részletes információkért lásd: Teams virtuális asztali infrastruktúra [használata.](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
 
 A VDI-környezetek ismert problémáit [](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) és korlátait ugyanannak a cikknek az Ismert problémák és korlátozások című szakasza tartalmazza, amely az alábbi témaköröket tartalmazza:
  - Ügyfél központi telepítése, telepítése és beállítása

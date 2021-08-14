@@ -1,5 +1,5 @@
 ---
-title: Hozzáférés korlátozása a SharePointban vagy a OneDrive
+title: Hozzáférés korlátozása a SharePoint-ban OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,28 +8,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: cc6f93ba8ae3a030f83da5eca2d28dcf38f0f8f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 71cfef0cedcc17833b19ed5f050a6510fe1371b58de9054eace2f29a46b3e06d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942135"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>IRM-védelem SharePoint-fájlokban
+# <a name="irm-protection-to-sharepoint-files"></a>IRM Protection to SharePoint files
 
 
-A SharePoint Online-ban a tartalomvédelmi szolgáltatás a lista és a tár szintjén található fájlokra érvényes. Mielőtt a szervezete használhatja a tartalomvédelmi szolgáltatást, először be kell állítania a Rights Management szolgáltatást. A tartalomvédelmi szolgáltatás az Azure Rights Management szolgáltatáson alapul az Azure Information Protectiontől a használati korlátozások titkosításához és hozzárendeléséhez. Egyes Microsoft 365-előfizetések közé tartozik az Azure Rights Management, de nem az összes. 
+A SharePoint Online-ban a tartalomvédelmi szolgáltatás a lista- és könyvtárszinten lévő fájlokra vonatkozik. Mielőtt szervezete használhatná a tartalomvédelmi szolgáltatást, először be kell állítania a tartalomvédelmet. A tartalomvédelmi szolgáltatás az Azure Information Protection Azure Rights Managementre támaszkodik a titkosítás és a használati korlátozások hozzárendelése érdekében. Egyes Microsoft 365 előfizetések tartalmaznak Azure Tartalomvédelmi szolgáltatások, de nem mindegyiket. 
 
 További információt az alábbi témakörökben találhat:
 
-- [Az Office-alkalmazások és-szolgáltatások támogatják az Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)szolgáltatást.
+- [Az Office-alkalmazások és szolgáltatások támogatási Azure Tartalomvédelmi szolgáltatások.](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)
 
-- [A tartalomvédelmi szolgáltatás (IRM) beállítása a SharePoint felügyeleti központban](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).
+- [A tartalomvédelmi szolgáltatás (IRM)](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)beállítása a SharePoint felügyeleti központban.
 
-- [Tartalomvédelem – SharePoint-dokumentumtárak és-listák engedélyezése](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [Tartalomvédelmi szolgáltatás engedélyezése SharePoint dokumentumtárakban és listákban.](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)
 
-- [A tartalomvédelmi funkció az Office-ban](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [A szolgáltatásban a Office.](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c)
 
-- [A tartalomvédelmi szolgáltatás az Exchange Online-ban](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online)
+- [A szolgáltatásban a Exchange Online.](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online)
 
 

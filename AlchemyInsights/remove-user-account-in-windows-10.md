@@ -1,5 +1,5 @@
 ---
-title: Felhasználói fiók eltávolítása a Windows 10-ben
+title: Felhasználói fiók eltávolítása a Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094608"
 ---
-# <a name="remove-an-account-in-windows-10"></a>Fiók eltávolítása a Windows 10-ben
+# <a name="remove-an-account-in-windows-10"></a>Fiók eltávolítása a Windows 10
 
-Így távolíthat el egy fiókot a Windows 10-ről:
+Így távolíthat el egy fiókot a Windows 10:
 
-1. Windows 10 Enterprise használata esetén a Start Settings Account Family & (vagy a Más személyek) lapon további beállításokat  >    >    >   is meg kell kezdenie. 
+1. Ha más **Gépház**  >    >  **használja,**& a Fiók családi használatának  >   Windows 10 Enterprise.
 2. Jelölje ki az eltávolítani kívánt fiókot, válassza az **Eltávolítás**, majd a **Fiók és adatok törlése lehetőséget.**
  
 **Megjegyzés:** Olyan fiók nem törölhető, amelybe jelenleg be van jelentkezve.  Ha le kell cserélnie azt a fiókot, amelybe be van jelentkezve:

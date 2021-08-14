@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 4b7e0f0dfed0a96ed46b88c400bd6afaf8d3f225
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79b2eb434a4d346843b86c2b284e5961439aea412e3828847b28927a08f17a70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941955"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>Hozzáférés biztosítása a felhasználóknak a SharePoint-webhelyhez
+# <a name="give-users-access-to-sharepoint-site"></a>Hozzáférés hozzáadása SharePoint webhelyhez
 
-A hozzáférési kérés funkció lehetővé teszi, hogy a felhasználók hozzáférést kérjen olyan tartalmakhoz, amelyekre jelenleg nincs engedélye. A webhely tulajdonosaként beállíthatja, hogy a szolgáltatás akkor küldjön e-mailt, ha valaki hozzáférést kér egy webhelyhez. További információért olvassa el a [hozzáférési kérelmek beállítása és kezelése](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)című témakört.
+A hozzáférés-kérelmező funkcióval a felhasználók hozzáférést kérhetnek olyan tartalmakhoz, amelyekhez jelenleg nincs engedélyük. Webhelytulajdonosként beállíthatja, hogy a szolgáltatás akkor küldjön e-mailt Önnek, amikor valaki hozzáférést kér egy webhelyhez. További információ: Hozzáférési kérelmek beállítása és [kezelése.](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
 
-Íme néhány gyakori hivatkozás a hozzáférési kérelmekkel kapcsolatban:
+Íme néhány gyakori hivatkozás a hozzáférési kérelmekre vonatkozóan:
 
-- [Hozzáférés megtagadva "a hozzáférési kérelmek listájához vagy a" sikertelen jóváhagyás kérése "hibaüzenet jelenik meg a SharePoint Online-ban folyamatban lévő kérések feldolgozása során](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
+- [Access Denied" to Access Requests list or "Request approval failed" when you process apending request in SharePoint Online](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
 - [Hozzáférési kérelmek beállításainak módosítása](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [Webhely hozzáférési kérelmeinek jóváhagyása vagy elutasítása](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [Webhely hozzáférési kérelmének jóváhagyása vagy elutasítása](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [Külső felhasználóknak szóló meghívók kezelése (csak a SharePoint Online-ban)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [Külső felhasználóknak szóló meghívók kezelése (csak online SharePoint)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [Meghívás újraküldése](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [Meghívó újraküldése](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 
