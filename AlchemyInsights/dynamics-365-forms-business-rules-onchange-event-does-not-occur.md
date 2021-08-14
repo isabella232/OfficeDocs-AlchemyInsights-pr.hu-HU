@@ -1,5 +1,5 @@
 ---
-title: A Dynamics 365 űrlapok üzleti szabályai – az üzleti szabály nem égetése űrlapon
+title: Dynamics 365-űrlapok üzleti szabályai – Az üzleti szabály nem működik egy űrlapon
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1926"
 - "6200018"
-ms.openlocfilehash: 7422b67973f93ce10c1639209cc50206a1016c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8425918950e1ef6c44f2866e6fa8987fe165536ae21e08ea6a1da880f761d512
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711493"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947301"
 ---
-# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>A módosítási esemény nem következik be, ha a mező programozott módon változik
+# <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>Az OnChange esemény nem fordul elő, ha a mező programozással lett megváltoztatva
 
-A *módosított esemény nem* jelenik meg, ha a mező programozottan változik az attribútum használatával *.* [Értékbeállítás](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metódus Ha azt szeretné, hogy az eseménykezelők az érték beállítása után fussanak a *módosítási* eseményhez, akkor a *formContext. Data. Entity attribútum* [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) metódust kell használnia a kódban.
+Az *OnChange* esemény nem fordul elő, ha a mező az attribútummal programozással *módosul.* [setValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metódus. Ha azt szeretné, hogy az *OnChange* esemény eseménykezelői futtassanak, miután beállította az értéket, a *formContext.data.entity* attribútum [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) metódusát kell használnia a kódban.
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)

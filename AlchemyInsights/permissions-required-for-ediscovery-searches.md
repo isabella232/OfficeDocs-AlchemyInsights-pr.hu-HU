@@ -1,5 +1,5 @@
 ---
-title: 1489-engedélyek-eDiscovery-keresések
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973843"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>A eDiscovery kereséséhez szükséges engedélyek
+# <a name="permissions-required-for-ediscovery-searches"></a>Az elektronikus adatokban való kereséshez szükséges engedélyek
 
-Ha a biztonsági & megfelelőségi központban szeretne tartalmat keresni, a felhasználónak legalább az eDiscovery-kezelő szerepkör-csoport tagjának kell lennie, amely lehetővé teszi a kereséseket és a helyek tárolását a postaládákon, a SharePoint-webhelyeken és a OneDrive-helyeken. A tagok létrehozhatnak és kezelhetnek eDiscovery-eseteket, tagokat vehetnek fel és távolíthat el, illetve létrehozhatnak és szerkeszthetnek, és a speciális eDiscovery is létrehozhatnak és szerkeszthetnek adatkapcsolatokat.
+Ahhoz, hogy tartalomkereséseket végezzen a Biztonsági & Megfelelőségi központban, a felhasználónak legalább tagja kell lennie az Elektronikus adatok észlelése kezelője szerepkörcsoportnak, amely lehetővé teszi számukra a postaládákban, az SharePoint-webhelyeken és az OneDrive-helyeken való keresést és OneDrive helykereséseket. A tagok elektronikus adatfeladatokat hozhatnak létre és kezelhet, tagokat adhatnak hozzá és távolíthat el az esetekhez, tartalomkereséseket hozhatnak létre és szerkeszthet, valamint elérhetik a kis- és Advanced eDiscovery.
 
-A helyi eDiscovery kereséséhez az Exchange felügyeleti központban (EAC) a felhasználónak az Exchange Online felderítési felügyeleti szerepkör csoportjának tagjának kell lennie.
+A In-Place Felügyeleti központban (Exchange EAC) a feltárási keresések elvégzéséhez a felhasználónak tagja kell lennie a Feltáráskezelés szerepkörcsoportnak a Exchange Online.
 
-A eDiscovery engedélyeiről további információt a következő témakörökben találhat: 
+A elektronikus adatfel neked való engedélyekkel kapcsolatos további információkért lásd: 
 
-- [EDiscovery-engedélyek hozzárendelése a biztonsági & megfelelőségi központban](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- [EDiscovery-engedélyek hozzárendelése a Biztonsági & megfelelőségi központban](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-- [EDiscovery-engedélyek hozzárendelése az Exchange-ben](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Elektronikus észlelési engedélyek hozzárendelése a Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Megjegyzés**: az eDiscovery-engedélyek hozzárendelése után előfordulhat, hogy néhány percet meg kell várnia az engedélyek propagálásához.
+**Megjegyzés:** Adiscovery-engedélyek hozzárendelése után előfordulhat, hogy várnia kell néhány percet, amíg az engedélyek propagálása meg nem adhatja.

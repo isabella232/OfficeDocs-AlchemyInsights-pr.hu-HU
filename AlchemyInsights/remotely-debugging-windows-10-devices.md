@@ -1,5 +1,5 @@
 ---
-title: Első lépések a Windows 10-es eszközök távoli hibakeresésében
+title: Első lépések a távoli hibakeresési eszközök Windows 10 eszközén
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398566"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959397"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Első lépések a Windows 10-es eszközök távoli hibakeresésében
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Első lépések a távoli hibakeresési eszközök Windows 10 eszközén
 
-Élő tartalmak távoli hibakeresése Windows 10-es eszközön Windows vagy macOS rendszerű számítógépről:
+Élő tartalmak távoli hibakeresése Windows 10 eszközről Windows macOS-számítógépről:
 
-1. Állítsa be Windows 10-es eszközét távoli hibakeresésre, majd csatlakozzon hozzá a fejlesztőgépről.
-2. Élő tartalmak vizsgálata és hibakeresése Windows 10-es eszközén a fejlesztőgépről.
-3. Képernyőfelvétel a Windows 10-es eszközről egy DevTools-példányra a fejlesztőgépen.
+1. Állítsa be Windows 10 eszközét távoli hibakereséshez, majd csatlakozzon hozzá a fejlesztőgépről.
+2. Élő tartalmakat vizsgálhatja meg és hibakereséssel Windows 10 eszközén a fejlesztőgépről.
+3. Képernyőfelvétel a Windows 10 eszközről egy DevTools-példányra a fejlesztőgépen.
 
-További információt A [Windows 10-es](https://go.microsoft.com/fwlink/?linkid=2142172)eszközök hibakeresése a Microsoft Edge-ben – Első lépésekben található.
+További információért olvassa el a Távoli [Első lépések eszközkereséssel Windows 10](https://go.microsoft.com/fwlink/?linkid=2142172)eszköz használata Microsoft Edge.

@@ -1,5 +1,5 @@
 ---
-title: Sikertelen átfolyás kijavítása
+title: Sikertelen folyamat kijavítás
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945969"
 ---
-# <a name="fix-a-flow-that-failed"></a>Sikertelen adatforgalom javítása
+# <a name="fix-a-flow-that-failed"></a>Sikertelen folyamat kijavítva
 
-1. Nyissa meg a [Microsoft flow](https://flow.microsoft.com/)-t, és kattintson a jobb felső sarokban látható értesítések ikonra. (Vagy a mobil alkalmazásban válassza a tevékenység fület.) Jelölje ki azt az áramlást, amely nem nézett ki a részletekkel.
+1. Válassza [a Microsoft Flow](https://flow.microsoft.com/), majd kattintson a jobb felső sarokban az Értesítések ikonra. (Vagy a mobilappban válassza a Tevékenység fület.) Válassza ki azt a folyamatot, amely nem teksérte meg a részleteket.
     
-2. Keresse meg a kívánt lépést a piros felkiáltójel ikonnal a folyamathoz tartozó hibaüzenet megtekintéséhez.
+2. Keresse meg a lépést a piros felkiáltójel ikonnal, hogy lássa a folyamat hibaüzenetét.
     
-3. A hibaüzenettől függően szerkesztheti az áramlást, és kijavíthatja azt. 
+3. A hibaüzenettől függően szerkesztenie kell a folyamatot, és javítania kell azt. 
     
-[Gyakori áramlási hibák](https://go.microsoft.com/fwlink/?linkid=872110)
+[Gyakori folyamathibák](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

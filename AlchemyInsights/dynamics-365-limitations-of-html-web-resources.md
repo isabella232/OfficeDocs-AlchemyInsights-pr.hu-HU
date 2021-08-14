@@ -1,5 +1,5 @@
 ---
-title: A Dynamics 365 űrlap XML-sémája
+title: Dynamics 365-űrlap XML-séma
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d8d652e991c0ebaae6a79230a5fd0fcacf8ce6bbdf2622dfdcc448cc7e2353c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947265"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Weblap-(HTML-) weberőforrások korlátai
+# <a name="webpage-html-web-resources-limitations"></a>A weblapok (HTML) webes erőforrásainak korlátozásai
 
-* Egy HTML-alapú webes erőforrás nem tartalmazhat olyan kódot, amelyet végre kell hajtani a kiszolgálón. A ASP.NET-lapok nem tölthetők le HTML-alapú webes erőforrásként.
+* A HTML-weberőforrás nem tartalmazhat a kiszolgálón végrehajtandó kódot. ASP.NET lapokat nem lehet HTML-webforrásként feltölteni.
 
-* A HTML-alapú webes erőforrások csak korlátozott számú lekérdezési karakterlánc paramétert fogadhatnak. További információ: paraméterek átadása [HTML-weberőforrásokra](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* A HTML-alapú webes erőforrások csak korlátozott számú lekérdezési karakterlánc-paramétert fogadhatnak el. További információ: [Paraméterek bérlete WEBES HTML-erőforrásoknak](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Weblap (HTML) webes források](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Webes források weblaphoz (HTML-fájlokhoz)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

@@ -1,6 +1,6 @@
 ---
 ms.author: pebaum
-title: Outlook-problémák az Exchange 2007-ben
+title: Outlook 2007-es Exchange problémák
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 5b8988e234a4cb15d7c3388d1727efe5840f3038
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: be1c062d4f8d4fce889564f77de9558b16e26b76482f9af8c3a6b5e20966445a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983311"
 ---
 # <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Megoldás a következő hibára: "Az aktuális postaládából nem tud majd e-maileket fogadni"
-Ha Exchange 2007-kiszolgálóval kísérel meg outlook 365/2016-ot használni, az alábbi hibaüzeneteket kapja:
+Ha a 365/2016-os Outlook 2016-ot egy 2007-es kiszolgálóval próbálja Exchange használni:
 
-*Állj! Várjon az Office 2016 telepítésvel! Az aktuális postaládából nem tud majd e-maileket fogadni. Az Outlook 2016 nem kompatibilis az Exchange 2007-es verziójával. Ezzel a kérdéssel forduljon a postaláda-szolgáltatóhoz vagy a rendszergazdához. A használni próbált erőforrás a Microsoft Exchange nem támogatott verziójában található. Segítségért forduljon az e-mail-rendszergazdához.*
+*Állj! Várjon a 2016-os Office telepítéséhez. Az aktuális postaládából nem tud majd e-maileket fogadni. Outlook 2016 nem kompatibilis a Exchange 2007-es verzióval. Ezzel a kérdéssel forduljon a postaláda-szolgáltatóhoz vagy a rendszergazdához. Az erőforrás, amit használni próbál, a Microsoft-fiók nem támogatott verziójában Exchange. Segítségért forduljon az e-mail-rendszergazdához.*
 
-Ha az Outlookot az Exchange 2007-et használja, telepítheti az Outlook 2013-as verzióját, ha az Outlook egy korábbi verziójáról frissített. További információt a Hogyan telepíthető újra az [Office 2013 az Office 2016-ra](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3) frissítés után?
+Ha a Outlook 2007-es verziójával Exchange használni, telepítheti a Outlook 2013-as verzióját, ha a Outlook. További információt a Hogyan telepíthető újra a [2013 Office 2013 a 2016-os](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3) Office után?

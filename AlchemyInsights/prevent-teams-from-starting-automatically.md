@@ -1,5 +1,5 @@
 ---
-title: A csoportok automatikus indításának megakadályozása
+title: Az Teams automatikus indításának megakadályozása
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6662"
 - "9003571"
-ms.openlocfilehash: cc5951a271173d1f6849df0d9d2b67df8b776bdc
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 0e35a182fb8ffbb48e5c3bff72881c2cd14d778f83c759efc99c372900de6991
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364870"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923796"
 ---
-# <a name="prevent-teams-from-starting-automatically"></a>A csoportok automatikus indításának megakadályozása
+# <a name="prevent-teams-from-starting-automatically"></a>Az Teams automatikus indításának megakadályozása
 
-Alapértelmezés szerint a Teams automatikusan megnyílik az eszköz indításakor.
+Az eszköz Teams automatikusan megnyílik.
 
-A beállítás módosításához válassza ki a Teams-profilja képét, **és válassza az**  >   **általános**lehetőséget. Az  **alkalmazás**csoportban törölje a jelet az  **Automatikus indítás alkalmazása**jelölőnégyzetből.
+Ha módosítania kell ezt a beállítást, jelölje ki Teams profilképét, majd válassza az **Általános Gépház**  >   **lehetőséget.** Az **Alkalmazás alatt** jelölje be az Automatikus **indítású alkalmazás jelölőnégyzetet.**
 
-További információt a  [beállítások módosítása a Teams alkalmazásban](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7)című témakörben talál.
+További információt A beállítások módosítása [a](https://support.microsoft.com/office/b506e8f1-1a96-4cf1-8c6b-b6ed4f424bc7)Teams.
