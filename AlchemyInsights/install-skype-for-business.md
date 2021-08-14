@@ -15,15 +15,15 @@ ms.custom:
 - "9000741"
 - "2669"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: 51e9c110fd1874d688b92e1d8098186eddf29953
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1f24aaf32def8f500900437c848f2076491131ff615d874deb685ccb8c5f3271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014434"
 ---
 # <a name="install-skype-for-business"></a>A Skype Vállalati verzió telepítése
 
-A Skype Vállalati verzió telepítéséhez kövesse az itt található [lépéseket.](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)
+A telepítéshez Skype Vállalati verzió lépéseket [követve.](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx)
 
-Az eltávolításról további információt A Skype Vállalati verzió [eltávolítása című oldalon található.](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)
+Az eltávolításról további információt A fájlok eltávolítása [Skype Vállalati verzió.](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902)

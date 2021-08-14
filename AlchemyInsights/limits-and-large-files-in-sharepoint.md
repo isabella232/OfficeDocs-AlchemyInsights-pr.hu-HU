@@ -1,5 +1,5 @@
 ---
-title: Korlátok és nagyméretű fájlok a SharePointban
+title: A fájlok méretkorlátja és SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709180"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986704"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>A SharePoint Online-on nem feltölthetők fájlok
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Az online webhelyre nem feltölthetők SharePoint fájlok
 
-Ha egy fájl nem tölt fel a SharePoint Online-on, győződjön meg arról, hogy:
+Ha egy fájl nem tölt fel az online SharePoint, győződjön meg az SharePoint:
   
-- Kisebb, mint 15 GB méretű.
+- A méret kisebb, mint 15 GB.
     
-- A fájlnevet is beleértve a teljes elérési út kevesebb, mint 400 karakter.
+- A fájlnevet is beleértve a teljes elérési út kevesebb mint 400 karakter.
     
-- A fájlnév nem tartalmazza a következő \* karaktereket: : \< \> ? / \ | és nem szerepel az érvénytelen [nevek listáján.](https://go.microsoft.com/fwlink/?linkid=866430)
+- A fájlnév nem tartalmazza a következő karaktereket: " \* : \< \> ? / \ | és nem szerepel az érvénytelen [nevek listáján.](https://go.microsoft.com/fwlink/?linkid=866430)
     
-Ha az asztali OneDrive app használatával próbálja feltölteni a [](https://go.microsoft.com/fwlink/p/?LinkID=717734) fájlt, tekintse meg a Fájlok és mappák szinkronizálásakor, illetve a OneDrive szinkronizálási problémáinak elhárításakor érvényben lévő [korlátozásokat.](https://go.microsoft.com/fwlink/?linkid=866431)
+Ha a fájlt az asztali OneDrive alkalmazással próbálja feltölteni, [](https://go.microsoft.com/fwlink/p/?LinkID=717734) tekintse meg A fájlok és mappák szinkronizálására vonatkozó korlátozások vagy a Probléma OneDrive szinkronizálási app [elhárítása OneDrive szinkronizálási app.](https://go.microsoft.com/fwlink/?linkid=866431)
   
 

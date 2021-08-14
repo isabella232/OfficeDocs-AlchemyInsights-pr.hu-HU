@@ -14,16 +14,16 @@ ms.custom:
 - "13"
 - "2"
 ms.assetid: 7d193eb3-dfaf-4be8-a03c-151905a1e9f1
-ms.openlocfilehash: 82b3624de2f574364270ead70f64ae97e9821380
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b430d86a9384005ca389ec2e98708ea2be15beb8c0549093acb829f90189d38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815104"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978199"
 ---
 # <a name="distribution-group-not-showing-in-groups-list"></a>A terjesztési csoport nem jelenik meg a Csoportok listában
 
 Akár 60 perc is eltelhet, mire az új terjesztési lista megjelenik a Felügyeleti központban.
   
-Ha azonnal tagokat szeretne felvenni, vagy más módosításokat szeretne szerkeszteni, használja az Exchange Felügyeleti központ Csoportok [funkcióját.](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1)
+Ha azonnal tagokat szeretne felvenni vagy egyéb módosításokat szeretne, használja a Csoportok funkciót a Exchange [Felügyeleti központban.](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1)
   

@@ -1,5 +1,5 @@
 ---
-title: Android nagyvállalati igénylés – áttekintés
+title: Android Nagyvállalati verzió regisztrálása – áttekintés
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2496"
-ms.openlocfilehash: 23ce3850639f29324118f3d1e98d17e8b3d88c65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9561496aa8c28fe729b048561241ec39612fb42a66626eb5c83c73fdbe61d904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717903"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932891"
 ---
-# <a name="android-enterprise-enrollment---overview"></a>Android nagyvállalati igénylés – áttekintés
+# <a name="android-enterprise-enrollment---overview"></a>Android Nagyvállalati verzió regisztrálása – áttekintés
 
-Az Android nagyvállalati verziós regisztráció használatához először [csatlakoztatnia kell az Intune-fiókját a felügyelt Google Play-fiókjához](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
+Ahhoz, hogy használni tudja az Android Enterprise regisztrációját a szervezetében, először meg kell Csatlakozás Intune-fiókját a [Felügyelt Google Play fiókjába.](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise) 
 
-A sikeres csatlakozást követően kiválaszthatja az Android-regisztrációk típusának megfelelő lépéseket, amelyeket követni szeretne a felhasználóknak:
+A kapcsolódás sikeres csatlakoztatása után kiválaszthatja a felhasználók által követni kívánt Android-regisztráció típusának megfelelő lépéseket:
 
-- [Az Android vállalati Munkaprofil eszközök tanúsítványigénylésének beállítása](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
-- [Az "Android Enterprise dedikált eszközök" Intune-regisztrációjának beállítása](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
-- [Az "Android" teljes mértékben felügyelt eszközök Intune-regisztrációjának beállítása](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
+- [Az Android Nagyvállalati verziós munkahelyi profileszközök regisztrálásának beállítása](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
+- [Az Intune-regisztráció beállítása dedikált Android Nagyvállalati verziós eszközökre](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
+- [Az Intune-regisztráció beállítása teljesen felügyelt Android Nagyvállalati verziós eszközökre](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
 
-Az Android-alapú nagyvállalati eszközök beállítási és igénylési folyamatairól a gyakori kérdések áttekintése az [Android Enterprise-eszközök konfigurálása és hibaelhárítása a Microsoft Intune-ban](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune)című témakörben olvasható.
+Ha androidos nagyvállalati eszközök beállítását és regisztrálását, valamint egy gyakori kérdésekre adott áttekintést szeretne, olvassa el Az Android Nagyvállalati eszközök konfigurálása és hibaelhárítása a Vállalati [verzióban című Microsoft Intune.](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune)
 
-Ha többet szeretne tudni az eszközök tanúsítványigényléséről és az Android néhány beadási hibáról, olvassa el a [Microsoft Intune eszközök tanúsítványigénylésének hibaelhárítása](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)című témakört.
+Az eszközbe-regisztrációval kapcsolatos általános hibaelhárításról és az Android-regisztrációval kapcsolatos hibákról az Eszközregisztrációs hibák elhárítása a következő [Microsoft Intune.](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-Ha érdekli a COSU-eszközök QR-kód beiktatási menthod, olvassa el [ezt a blogot](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
+Ha érdekli a COSU-eszközök QR-kódregisztrációs menthod szolgáltatása, tekintse meg [ezt a blogot.](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184)
 
-Azt is megteheti, hogy az [Intune hibaelhárítási pengéjét leíró tartalmat](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) a felhasználók által észlelt hibák meghatározására szolgáló témakörben találhatja meg.
+Az [Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) Hibaelhárítási blade tartalmát is használhatja annak azonosításához, hogy a felhasználók milyen regisztrációs problémákat tapasztalnak.
