@@ -1,5 +1,5 @@
 ---
-title: Tagok hozzáadása privát csatornákhoz
+title: Tagok felvétele privát csatornákra
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6875"
-ms.openlocfilehash: d5adc7f14baef80704d7455fafef36aed6cd5318
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 7948013bb4c1715512572880369a04adaff3c06b824d245394139380abc65378
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481956"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953115"
 ---
-# <a name="adding-members-to-private-channels"></a>Tagok hozzáadása privát csatornákhoz
+# <a name="adding-members-to-private-channels"></a>Tagok felvétele privát csatornákra
 
-A privát csatorna tulajdonosa az a személy, aki létrehoz egy privát csatornát, és ez a személy csak arra van jogosultsága, hogy közvetlenül vegyen fel vagy távolítson el személyeket abból. A privát csatornatulajdonosok bármelyik csapattagot felvehetik az ön által létrehozott privát csatornába, beleértve a vendégeket is.
+A privát csatorna tulajdonosa egy olyan személy, aki létrehoz egy privát csatornát, és ez a személy csak arra a jogosultságra rendelkezik, hogy közvetlenül felvessen vagy eltávolítson személyeket abból. A privát csatornatulajdonosok bármelyik csapattagot felvehetik az Ön által létrehozott privát csatornába, beleértve a vendégeket is.
 
-A csoporttulajdonosok láthatják a csoport összes privát csatornáját, és törölhetik a csoport bármely privát csatornáját is (a törölt privát csatorna a törlést követő 30 napon belül visszaállítható.) A csoporttulajdonosok csak akkor láthatják a fájlokat egy privát csatornában, illetve a beszélgetésekben és a tagok listájában, ha tagjai ennek a privát csatornának.
+A csoporttulajdonosok láthatják a csoport összes privát csatornáját, és törölhetik is a privát csatornákat a csoportban (a törölt privát csatorna a törlést követő 30 napon belül visszaállítható).) A csoporttulajdonosok csak akkor láthatják a fájlokat egy privát csatornában, illetve a beszélgetésekben és a tagok listájában, ha tagjai az érintett privát csatornának.
 
-A csapattagok csak olyan privát csatornákat láthatnak, amelyekre fel vannak adva.
+A csapattagok csak olyan privát csatornákat láthatnak, amelyekhez hozzá vannak adva.
 
-További információ: [Tulajdonosok](https://docs.microsoft.com/MicrosoftTeams/private-channels#adding-and-removing-owners-and-members) és tagok hozzáadása és eltávolítása a privát csatornákból.
+További információt a Tulajdonosok és tagok felvétele és [eltávolítása](https://docs.microsoft.com/MicrosoftTeams/private-channels#adding-and-removing-owners-and-members) privát csatornákból.

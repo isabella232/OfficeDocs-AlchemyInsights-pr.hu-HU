@@ -1,5 +1,5 @@
 ---
-title: Be Microsoft Defender ATP
+title: A Microsoft Defender ATP beállítása
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: de38bd58c83ed840ccc8c610b61aa8d8b956251dea20895a7fc0e193d11585df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985471"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>Be Microsoft Defender ATP
+# <a name="onboarding-microsoft-defender-atp"></a>A Microsoft Defender ATP beállítása
 
-További források a Microsoft Defender ATP, Windows 10, Windows És Linux rendszerű gépekhez való telepítéshez: 
+További források a Microsoft Defender ATP Windows 10, Windows Mac és Linux rendszerű gépekhez való telepítéséhez: 
 
 - **Windows 10 gépek** Az üzleti követelményektől függően választhat a lehetőségek közül, hogy be tudja-e Windows 10. További információt a Bejelző eszközök és módszerek a Windows 10 [lapon.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints) 
 
-- **Windows kiszolgálók** Az Ön Microsoft Defender ATP verziójának Windows az [Onboard servers to the Microsoft Defender ATP (Az Microsoft Defender ATP szolgáltatásba)](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
+- **Windows kiszolgálók** A Microsoft Defender ATP az Ön Windows Server-verziójához való Windows a Kiszolgálók a [Microsoft Defender ATP szolgáltatásba való betábláltatása.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
 
 - **Nem Windows végpontok**  Mielőtt egy nem Windows rendszert használ, meg kell felelnie a Mac vagy [Linux](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) rendszerkövetelményeinek. [](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
 

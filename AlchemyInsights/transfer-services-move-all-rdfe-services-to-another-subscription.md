@@ -1,5 +1,5 @@
 ---
-title: Átviteli szolgáltatások – az összes RDFE-szolgáltatás áthelyezése másik előfizetésbe
+title: Szolgáltatások átvitele – Az összes RDFE-szolgáltatás áthelyezése egy másik előfizetésbe
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004116"
 - "7196"
-ms.openlocfilehash: d6744484fe42f09f03de562a00fd56712607d418
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 89217922b8b51f2548f9fff53bf80364c0e897b1d9b34bfb7016f0b0f197cf17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940060"
 ---
-# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Átviteli szolgáltatások – az összes RDFE-szolgáltatás áthelyezése másik előfizetésbe
+# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Szolgáltatások átvitele – Az összes RDFE-szolgáltatás áthelyezése egy másik előfizetésbe
 
 **Erőforrások áthelyezése**
 
-Az Azure-erőforrásokat az Azure Portal, az Azure PowerShell, az Azure CLI vagy a REST API segítségével áthelyezheti egy másik Azure-előfizetésbe vagy erőforrás-csoportba az erőforrások áthelyezéséhez.
+Az Azure-erőforrások áthelyezhetőek ugyanazon előfizetésen belül egy másik Azure-előfizetésbe vagy erőforráscsoportba az Azure Portal, az Azure PowerShell, az Azure CLI vagy a REST API használatával az erőforrások áthelyezéséhez.
 
-Az erőforrások áthelyezése előtt az alábbiakra van lehetősége:
+Mielőtt áthelyezheti az erőforrásokat, tekintse át a következő forrásokat:
 
-- [Ellenőrzőlista az erőforrások áthelyezése előtt](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#checklist-before-moving-resources)
-- [Áthelyezhető szolgáltatások](https://docs.microsoft.com/azure/azure-resource-manager/move-support-resources?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Az áthelyezés érvényesítése](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
-- [Útmutatás áthelyezése a szolgáltatásokhoz](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Ellenőrzőlista az erőforrások áthelyezését megelőzően](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#checklist-before-moving-resources)
+- [Áthelyezhet szolgáltatásokat](https://docs.microsoft.com/azure/azure-resource-manager/move-support-resources?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Az áthelyezés ellenőrzése](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
+- [Útmutató áthelyezése a szolgáltatásokhoz](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Ha a meglévő erőforrásokat át szeretné helyezni egy másik erőforráscsoporthoz vagy előfizetésbe, az alábbiakat használhatja:
+A meglévő erőforrások másik erőforráscsoportba vagy előfizetésbe való áthelyezéséhez a következőt használhatja:
 
-- [Azure-portál](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-the-portal)
+- [Azure Portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-the-portal)
 - [Azure PowerShell](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-powershell)
 - [Azure CLI](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-cli)
 - [REST API](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-rest-api)
 
-Oktatóanyag: [Az Azure-erőforrások áthelyezése másik erőforrás-csoportba vagy-előfizetésbe](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
+Oktatóprogram: [Azure-erőforrások áthelyezése másik erőforráscsoportba vagy -előfizetésbe](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
 
-**Az Azure Resource Manager hibáinak elhárítása**
+**Az Azure Resource Managerrel kapcsolatos hibák elhárítása**
 
-Az alábbi cikkekből megtudhatja, hogy miként találhatja meg az Azure néhány gyakori központi telepítési hibáját, és hogyan kaphat információt a megoldásához. Ha nem találja a központi telepítő hibájának megfelelő hibakódot, olvassa el a [hibakód keresése](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code)című témakört.
+Az alábbi cikkekből megismerhat néhány gyakori Azure-telepítési hibát, és információkat kaphat a megoldásukhoz. Ha nem találja a telepítési hibához szükséges hibakódot, tekintse meg a [Hibakód megkeresi a következőt:](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code).
 
-- [A központi telepítő hibáinak elhárítása](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
-- [Azure-erőforrások új erőforráscsoporthoz vagy előfizetésbe való áthelyezésével kapcsolatos hibák elhárítása](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
+- [Telepítési hibák elhárítása](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
+- [Azure-erőforrások új erőforráscsoportba vagy -előfizetésbe való áthelyezésével kapcsolatos hibák elhárítása](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
 
-Felhívjuk a figyelmét arra, hogy ha frissíteni szeretné az Azure-előfizetését, például az ingyenes fizetésről a befizetésre, az előfizetést konvertálnia kell.
+Felhívjuk a figyelmét arra, hogy ha frissíteni szeretné Azure-előfizetését, például az ingyenes előfizetésről a "fizetés"-előfizetésre szeretne váltani, át kell alakítania az előfizetését.
 
-- Ha frissíteni szeretne egy ingyenes próbaverziót, olvassa el [az ingyenes próbaverzió frissítése vagy a Microsoft Imagine Azure-előfizetés a fizetéshez](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription).
-- Ha egy fizetési mód szerinti fizetési módot szeretné módosítani, olvassa el az [Azure Pay-as-your-go-előfizetés módosítása másik ajánlatra](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer)című témakört.
+- Az ingyenes próbaverzió frissítéséhez tekintse meg Az ingyenes próbaverzió frissítése vagy a Microsoft Imagine Azure-előfizetésének frissítése ["Fizessen használatra" lehetőséget.](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription)
+- Ha másik fizetési fiókot módosítanának, tekintse meg Az Azure"-előfizetés módosítása másik ajánlatra " (Azure [Pay-As-You-Go) előfizetését.](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer)
 
-**Azure-előfizetés hozzáadása vagy társítása az Azure Active Directory-bérlői webhelyhez:**
+**Azure-előfizetés hozzáadása vagy társítása a Azure Active Directory bérlői fiókhoz:**
 
-1. Bejelentkezés, és válassza ki a használni kívánt előfizetést az [Azure Portal előfizetések lapjáról](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Válassza a **címtár módosítása** elemet.
-3. Ellenőrizze a megjelenő figyelmeztetéseket, majd kattintson a **módosítás** gombra.
-4. Az előfizetés megváltoztatja a címtárat, és sikerről szóló üzenetet kap.
-5. Nyissa meg az új könyvtárat a *címtár* -kapcsoló használatával. Akár 10 percet is igénybe vehet, hogy minden megfelelően megjelenjen.
+1. Jelentkezzen be, és válassza ki a használni kívánt előfizetést az [Azure Portal Előfizetések lapján.](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Válassza **a Címtár módosítása lehetőséget.**
+3. Tekintse át a megjelenő figyelmeztetéseket, és válassza a Módosítás **gombot.**
+4. Az előfizetéshez módosult a címtár, és egy sikeres üzenetet kap.
+5. A *Címtár-kapcsolóval* az új címtárra válthat. Akár 10 perc is elehet, hogy minden megfelelően mutasson.
 
 **Ajánlott dokumentumok**
 
 - [Azure-előfizetés tulajdonjogának átvitele](https://docs.microsoft.com/azure/billing-subscription-transfer)
-- [Erőforrások áthelyezése új erőforrás-csoportba vagy előfizetésbe](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
-- [Erőforrások kezelése az Azure Portal segítségével](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)
+- [Erőforrások áthelyezése új erőforráscsoportba vagy -előfizetésbe](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
+- [Erőforrások kezelése az Azure Portal használatával](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)

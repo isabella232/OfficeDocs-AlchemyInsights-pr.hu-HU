@@ -1,5 +1,5 @@
 ---
-title: 620 az időzóna és a nyelvi beállítás beállítása a webes Outlookban
+title: 620 Az időzóna és a nyelv beállításának beállítása a Webes Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 252537c180cdebf803a86d6b8f5ff9aed72eab28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4908bdaa1483b34909e425b39b7a38433f8e193294085e63bf08b267d967424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952935"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Az időzóna és a nyelvi beállítások módosítása a webes Outlookban
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a>Időzóna és nyelvi beállítások módosítása a Webes Outlook
 
-Ha módosítani szeretné az időzóna és a nyelvi beállításokat a webes Outlookban, amelyet a munkahelyi vagy iskolai fiókjával használ, olvassa el [az időzóna és a nyelvi beállítások módosítása a webes Outlookban](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)című témakört.
+Az időzóna és a nyelvi beállítások Webes Outlook, amelyet munkahelyi vagy iskolai fiókjával is [el](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)lehet elérésbe állítani, az Időzóna és a nyelvi beállítások módosítása a Webes Outlook.
   

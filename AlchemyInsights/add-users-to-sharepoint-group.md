@@ -1,5 +1,5 @@
 ---
-title: Felhasználók felvétele SharePoint-csoportba
+title: Felhasználók felvétele SharePoint csoportba
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3199"
-ms.openlocfilehash: 807d6b9dce934887df65d0a1df6ba73b197e62aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bec5c47b149329f9fa0a6110c6340a1271620787062b7fbdf2d8d4b96b97b202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953187"
 ---
-# <a name="add-users-to-a-sharepoint-group"></a>Felhasználók felvétele SharePoint-csoportba
+# <a name="add-users-to-a-sharepoint-group"></a>Felhasználók felvétele SharePoint csoportba
 
-A SharePoint-csoportok olyan felhasználók gyűjteményei, akiknek azonos engedélykészletük van a webhelyekhez és a tartalmakhoz. Ahelyett, hogy egyszerre csak egy személyhez rendeli hozzá az engedélyeket, csoportok használatával egyidejűleg kényelmesen hozzárendelheti ugyanazt az engedélyszintet több személyhez is.
+A SharePoint olyan felhasználók gyűjteménye, akik azonos engedélykészletben vannak megállítva a webhelyekhez és a tartalmakhoz. Ahelyett, hogy egyszerre csak egy személyhez rendeli hozzá az engedélyeket, csoportok használatával egyidejűleg kényelmesen hozzárendelheti ugyanazt az engedélyszintet több személyhez is.
 
 - [Felhasználók hozzáadása csoporthoz](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-users-to-a-group)
-- [Tagok hozzáadása vagy eltávolítása a Microsoft 365-csoportokból a Felügyeleti központban](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [Tagok hozzáadása és eltávolítása Microsoft 365 csoportokból a Felügyeleti központban](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

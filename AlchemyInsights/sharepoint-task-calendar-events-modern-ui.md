@@ -1,5 +1,5 @@
 ---
-title: A feladatok és a naptár esemény listája a modern KEZELŐFELÜLETen
+title: Feladat- és naptáresemények listája a modern felhasználói felületen
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f229837492d9ed8ca6f28e1dc4bc01f5ebec30438a868c1c9c25640e4003ccc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795462"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941334"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>A feladatok és a naptár esemény listája a modern KEZELŐFELÜLETen
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>Feladat- és naptáresemények listája a modern felhasználói felületen
 
-A "cím" megjelenítésekor a "cím" hibaüzenet jelenhet `< ID >_.000` meg a feladatok és az események listájában, amikor modern nézetben próbálják megjeleníteni őket.
+Amikor megpróbálja megjeleníteni őket Modern nézetben, hibaüzenet jelenhet meg a "Cím" szövegben, mint a FELADAT és az `< ID >_.000` ESEMÉNY listában.
 
-A listák és a tárak bizonyos típusait még nem építették meg, hogy egy modern felhasználói felületen (például Feladatlista vagy események listája) megjelenjenek.
+Bizonyos típusú listák és tárak még nem úgy vannak beépítve, hogy modern felhasználói felületen, például feladatlistában vagy eseménylistában megjelenik.
 
-Számunkra a legfontosabb elem, ha a modern UX részeként támogatja a feladatok és események listáját. Ennek a támogatásnak azonban nincs ETA-je, ezért kérjük, továbbra is használja az alábbi listák klasszikus felületét.
+Számunkra az egyik prioritási elem a TASK és az EVENT lista támogatása a modern felhasználói felület részeként. Ehhez a támogatáshoz azonban nincs ETA-unk, ezért kérjük, használja továbbra is a klasszikus felhasználói élményt ezekhez a listákhoz.
 
-További információért tekintse meg a [modern listák és tárak teljes méretű használatát](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)ismertető témakört.
+További információt A modern listák és tárak [használatának](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)maximalizálása .

@@ -14,21 +14,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 3ba6e6a6f93225bc843dfd1a028d31223f01280c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48d4ccbbc0ed3dc54cbcd17ae7b9040bfd9ecc426897c06b653bf40bc7d5e9b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952971"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>ADFS összevonási tanúsítvány lejárata
 
 A probléma megoldásához kövesse az alábbi lépéseket:
   
-1. Telepítse a Microsoft Azure Active Directory modult a Windows PowerShellhez a számítógépen (ha a modul még nincs telepítve). Ehhez az Azure AD kezelése a Windows PowerShell használatával 2010-et [kell használnia.](https://aka.ms/aadposh)
+1. Telepítse Microsoft Azure Active Directory modul Windows PowerShell számítógépen (ha a modul még nincs telepítve). Ehhez a Manage [Azure AD using Windows PowerShell (Azure AD](https://aka.ms/aadposh)kezelése a Windows PowerShell.
 
-2. Kövesse "1. forgatókönyv: Az AD FS-jogkivonat lejárt" című szakasz "Hiba történt a webhely elérésében" című szakasz lépéseit, amikor egy összevont felhasználó bejelentkezik [a Microsoft 365-be,](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)az Azure-ba vagy az Intune-ba.
+2. Kövesse "1. forgatókönyv: Az AD FS jogkivonat-aláíró tanúsítvány lejárt" szakaszának "Hiba történt a webhely elérésében" hibaüzenetet az AD FS szolgáltatásból, amikor egy összevont felhasználó bejelentkezik az [Microsoft 365-be,](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)az Azure-ba vagy az Intune-ba.
 
 3. Kövesse az Összevont tartomány beállításainak frissítése vagy javítása a Microsoftban, az Azure-ban vagy az [Intune-ban található lépéseket.](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)
 
-    Az összevonási tanúsítványok megújítását A [Microsoft 365](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)és az Azure Active Directory összevonási tanúsítványának megújításacímú cikk mutatja be.
+    Az összevonási tanúsítványok megújítását az Összevonási tanúsítványok megújítása az összevonási és összevonási Microsoft 365 [és Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)
