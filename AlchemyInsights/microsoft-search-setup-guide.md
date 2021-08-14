@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Search beállítási útmutatója
+title: Microsoft Keresés telepítési útmutató
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004591"
 - "8203"
-ms.openlocfilehash: 681fc808a167f365ce017df6a5cafcb1744c4d41
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: f61d90967af882ef5b9871e8535704e112e26125878e6540b772f2ae54e83d37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975802"
 ---
-# <a name="microsoft-search-setup-guide"></a>A Microsoft Search beállítási útmutatója
+# <a name="microsoft-search-setup-guide"></a>Microsoft Keresés telepítési útmutató
 
-A [Microsoft Search beállítási útmutatóját használva](https://go.microsoft.com/fwlink/?linkid=2153798) állítsa be és konfigurálja a Microsoft Searchet. Legyen szó arról, hogy egy felhasználócsoporthoz szeretné-e próba-, vagy a szervezet minden tagja számára el szeretné-e azt vezetni. Keresési rendszergazdákat és keresésszerkesztőket rendel hozzá, majd válaszokat és további beállításokat is adhat hozzá a felhasználókhoz, például a Bing bővítményt a Chrome-hoz, vagy a Binget alapértelmezett keresőmotorként adhatja meg.
+Az Microsoft Keresés [beállításához](https://go.microsoft.com/fwlink/?linkid=2153798) és konfigurálásához használja a Microsoft Keresés. Legyen szó akár a próba-, akár a felhasználók egy csoportjának való bevezetésről a szervezet minden tagja számára. Hozzá kell rendelnie a keresési rendszergazdákat és a keresési szerkesztőket, majd válaszokat és további lehetőségeket nyújtva testre szabhatja a keresési élményt, például az Bing-bővítményt a Chrome-hoz vagy a Bing-t alapértelmezett keresőmotorként.
