@@ -1,5 +1,5 @@
 ---
-title: Nem működött a hitelkártya-számhoz tartozó DLP-szabály
+title: Nem működő hitelkártyaszám DLP-szabálya
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,48 +13,48 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679443"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005092"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>DLP-problémák a hitelkártya-számokkal
+# <a name="dlp-issues-with-credit-card-numbers"></a>DLP-problémák hitelkártyaszámokkal
 
 **Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
-**DLP-problémák a hitelkártya-számokkal**
+**DLP-problémák hitelkártyaszámokkal**
 
-Problémát tapasztal az **adatvesztés-megelőzéssel (DLP)** kapcsolatban, ha nem működik a **hitelkártyát** tartalmazó tartalom, ha a O365-ban DLP típusú bizalmas adattípust használ? Ha igen, gondoskodjon arról, hogy a tartalom a kiértékeléskor a DLP-házirend elindításához szükséges információkat tartalmazza. A 85%-os megbízhatósági szinttel konfigurált **hitelkártya-házirend** esetén például a program kiértékeli az alábbiakat, és a következőhöz kell észlelni:
+Az Adatveszteség-megelőzés **(DLP)** nem működik **olyan** tartalom esetén, amely hitelkártyaszámot tartalmaz, ha bizalmas adatveszteség-megelőzési adattípust használ az O365-ben? Ebben az esetben győződjön meg arról, hogy a tartalom tartalmazza a DLP-házirend kiértékelésekor a szükséges információkat. Egy 85%-os megbízhatósági szinttel konfigurált hitelkártya-házirend esetén például az alábbi feltételeket értékeli ki a rendszer, és a szabály csak akkor aktiválódik, ha észleli őket: 
   
-- **[Formátum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 számjegy, amely formázható vagy formázható (közönséges számsorozatként), és meg kell adnia a Luhn tesztet.
+- **[Formátum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 számjegy, formázható vagy formázatlan (ddddddd), és át kell adni a Luhn-tesztet.
 
-- **[Minta:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Nagyon bonyolult és robusztus minta, amely az egész világon elérhető főbb márkák kártyáit észleli, többek között Visa, MasterCard, Discover Card, JCB, American Express, Gift Cards és Diner kártyával.
+- **[Minta:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Rendkívül összetett és hatékony minta, amely a világ összes jelentős márkajegyének kártyáit észleli, beleértve a Visa, a MasterCard, a Discover Card, a JCB, az American Express, az ajándékkártyákat és a Diner-kártyákat.
 
-- **[Ellenőrzőösszeg:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Igen, az Luhn ellenőrzőösszeg
+- **[Ellenőrzőum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Igen, Luhn-ellenőrzőum
 
-- **[Definíció:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** A DLP-házirend 85%-os megbízhatósági szinttel jelenti az ilyen típusú bizalmas adatok észlelését, ha az 300 karaktereken belül:
+- **[Definíció:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** A DLP-házirend 85%-os magabiztosan észleli ezt a bizalmas információt, ha 300 karakteren belül:
 
-  - A függvény Func_credit_card megkeresi a mintázattal egyező tartalmat.
+  - A függvény Func_credit_card mintára illeszkedő tartalmat talál.
 
   - Az alábbiak egyike igaz:
 
-  - A Keyword_cc_verification kulcsszója megtalálható.
+  - Található egy Keyword_cc_verification.
 
-  - Keyword_cc_name található kulcsszó
+  - Található egy Keyword_cc_name
 
-  - A függvény Func_expiration_date a megfelelő dátum formátumban keresi a dátumot.
+  - A függvény Func_expiration_date talál egy megfelelő formátumú dátumot.
 
-  - Az ellenőrzőösszeg áthalad
+  - Az ellenőrzőum halad
 
-    Az alábbi példa például egy DLP-beli hitelkártya-házirendet indít el:
+    Az alábbi példa például DLP-hitelkártyaszám-házirend esetén aktiválódik:
 
   - Visa: 4485 3647 3952 7352
   
-  - Lejárat: 2/2009
+  - Lejár: 2009.02.02.
 
-Ha többet szeretne megtudni arról, hogy mire van szüksége a tartalomhoz a **hitelkártyaszám** felderítéséhez, olvassa el a következő cikket: [Mi a bizalmas adattípusok keresése a hitelkártyával #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+Ha további információra van szüksége **arról,** hogy mi szükséges ahhoz, hogy a rendszer észlelni tudja a hitelkártyaszámokat a tartalomhoz, tekintse meg a cikk következő szakaszát: A bizalmas adatok típusainak keresve [Hitelkártya#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Ha más beépített bizalmas adattípust használ, további információt a következő témakörben talál: [a bizalmas adattípusok keresése](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Más, beépített bizalmas információtípust használva a következő cikkben talál információt a más típusokhoz szükséges információkról: Mit keresnek a bizalmas [adattípusok?](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

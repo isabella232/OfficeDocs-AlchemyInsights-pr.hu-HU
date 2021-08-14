@@ -1,5 +1,5 @@
 ---
-title: Az amerikai bankszámlaszám nem mûködõ DLP-szabály
+title: Nem működik az US bankfiókszámra vonatkozó DLP-szabály
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005020"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP-problémák az amerikai bankszámlák számaival
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>DLP-problémák az amerikai bankszámlaszámokkal
 
 **Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
-**DLP-problémák az amerikai bankszámlák számaival**
+**DLP-problémák az amerikai bankszámlaszámokkal**
 
-Problémákat tapasztal az **adatvesztés-megelőzéssel (DLP)** , ha nem működik az **amerikai bankszámlaszám** tartalmazó tartalmaknál a O365-ban DLP típusú bizalmas adattípus használatakor? Ha igen, győződjön meg arról, hogy a tartalom a kiértékeléskor a DLP-házirend szempontjából szükséges információkat tartalmazza.
+Az Adatveszteség-megelőzés **(DLP)** nem működik olyan tartalom esetén, amely us **bankfiókszámot** tartalmaz, ha bizalmas DLP-adattípust használ az O365-ben? Ebben az esetben győződjön meg arról, hogy a tartalom tartalmazza azokat az információkat, amelyekre a DLP-házirend értékelésekor szüksége van.
   
-Például az 85%-os megbízhatósági szinttel konfigurált **amerikai bankszámlaszám** -házirend esetén a program kiértékeli az alábbiakat, és a szabálynak a következőképpen kell kiértékelést végeznie:
+Egy 85%-os megbízhatósági szinttel konfigurált us bankfiókszám-házirend esetén például a következőt értékeli ki a rendszer, és a szabály csak akkor aktiválódik, ha: 
   
-- **[Formátum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 számjegyek
+- **[Formátum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 számjegy
 
-- **[Minta:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 egymást követő számjegyek.
+- **[Minta:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8–17 egymást követő számjegy.
 
-- **[Ellenőrzőösszeg:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nem, nincs ellenőrzőösszeg
+- **[Ellenőrzőum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nem, nincs Ellenőrzőum
 
-- **[Definíció:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** A DLP-házirend 75%-os megbízhatósági szinttel jelenti az ilyen típusú bizalmas adatok észlelését, ha az 300 karaktereken belül:
+- **[Definíció:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** A DLP-házirend 75%-os magabiztosan észleli ezt a típusú bizalmas információt, ha 300 karakteren belül:
 
-  - A normál kifejezés Regex_usa_bank_account_number megkeresi a mintázatnak megfelelő tartalmat
+  - A reguláris Regex_usa_bank_account_number mintára illeszkedő tartalmat talál.
 
-  - A Keyword_usa_Bank_Account kulcsszója megtalálható.
+  - Található egy Keyword_usa_Bank_Account.
 
-    A következő minta például az **amerikai bankszámlaszám** -házirend: a 78344011 fiók ellenőrzése
+    Az amerikai bankszámlaszám házirend esetében például **az** alábbi minta aktiválódik: Checking Account 78344011
 
-Ha szeretne többet megtudni arról, hogy mire van szükség egy **amerikai bankszámlaszám** a tartalomhoz való felderítéséhez, olvassa el a jelen cikk következő szakaszát: [Mi a bizalmas adattípusok keresése az amerikai bankszámlák számát](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
+Ha további információra van szüksége **arról,** hogy mi szükséges ahhoz, hogy a rendszer észlelni tudja az egyesültünki bankszámlaszámokat a tartalomhoz, tekintse meg a jelen cikk következő [szakaszát:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number) Az amerikai bankszámlaszámok bizalmas adattípusa
   
-Ha más beépített bizalmas adattípust használ, további információt a következő témakörben talál: [a bizalmas adattípusok keresése](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Más, beépített bizalmas információtípust használva a következő cikkben talál információt a más típusokhoz szükséges információkról: Mit keresnek a bizalmas [adattípusok?](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
