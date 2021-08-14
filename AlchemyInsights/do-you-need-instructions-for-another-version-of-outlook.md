@@ -1,5 +1,5 @@
 ---
-title: Szüksége van utasításokra az Outlook egy másik verziójához?
+title: Utasításokra van szüksége a Outlook?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: 20dfad09d53d43078de3b57fde7874819582adf3
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: e69deeb4e036dc803a8cf076e3212c255beef4204c6ca78a104750332b5d3a71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947517"
 ---
-# <a name="do-you-need-instructions-for-another-version-of-outlook"></a>Szüksége van utasításokra az Outlook egy másik verziójához?
+# <a name="do-you-need-instructions-for-another-version-of-outlook"></a>Utasításokra van szüksége a Outlook?
 
-- [Törölt e-mailek visszaállítása az Outlook.com-on](https://support.microsoft.com/office/restore-deleted-email-messages-in-outlook-com-cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)
+- [Törölt e-mailek visszaállítása a Outlook.com-on](https://support.microsoft.com/office/restore-deleted-email-messages-in-outlook-com-cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)
 
-- [Törölt e-mailek helyreállítása a webes Outlookban](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
+- [Törölt e-mailek helyreállítása a Webes Outlook](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
 
-- [Törölt elemek helyreállítása a Windows Outlookban](https://support.microsoft.com/office/recover-deleted-items-in-outlook-for-windows-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+- [Törölt elemek helyreállítása a Outlook-ban Windows](https://support.microsoft.com/office/recover-deleted-items-in-outlook-for-windows-49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)

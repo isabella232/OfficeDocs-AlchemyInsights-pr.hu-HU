@@ -1,5 +1,5 @@
 ---
-title: Telepítenie kell az Office 2013-t
+title: A 2013-as Office kell telepítenie
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 99529e9e9b18ae0211cfae4fbc789d4e1563ac4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5063c515bfe2a359ec916d82b0fc85f9090f4e359ee5457f7d007693b71f7a06
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974599"
 ---
-# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Az Office 2013 már nem támogatott a Microsoft 365-előfizetésekben
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office előfizetések már nem támogatják a 2013-as Microsoft 365
 
-Február 28, 2017 óta az Office 2013 már nem támogatott a Microsoft 365-előfizetésekben.
+2017. február 28., Office 2013 már nem támogatott az Microsoft 365 előfizetésében.
   
-Ha gondoskodni szeretne Office-csomagjának biztonságáról, és meg szeretne kapni minden új funkciót, telepítse az Office legújabb verzióját a Microsoft 365-előfizetés részeként. Lásd: a [felhasználók frissítése a legújabb Office-ügyfélprogramra](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).
+A Office csomag biztonságának biztosítása és az összes legújabb funkció biztosítása érdekében az Office legújabb verzióját ingyen telepítheti az Microsoft 365 előfizetése részeként. Lásd: Felhasználók frissítése a legújabb [ügyfélprogramra Office.](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client)
   
