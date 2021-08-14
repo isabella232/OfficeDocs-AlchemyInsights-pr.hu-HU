@@ -1,5 +1,5 @@
 ---
-title: Privilegizált identitás-kezelési szerepkör
+title: Privileged Identity Management szerepkör
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "6825"
-ms.openlocfilehash: 726511d016462f56c48a4272b57abc3e9f0cbc3d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 358e446192e6b58ace81afa06e0d65ae3a207282351ffc3ec9975a24779951fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973231"
 ---
-# <a name="privileged-identity-managementpim-role"></a>Jogosultsági jogosultságok kezelése (PIM) szerepkör
+# <a name="privileged-identity-managementpim-role"></a>Privileged Identity Management(PIM) szerepkör
 
-**A szerepkör aktiválása után a rendszer nem biztosít engedélyeket**
+**Jogosultságok nem adhatók meg a szerepkör aktiválása után**
 
-Ha aktiválja az Azure AD privilegizált Identitáskezelő (PIM) szerepkörét, előfordulhat, hogy az aktiválás nem terjed ki azonnal az összes olyan portálra, amely a kiváltságos szerepkört igényli. Előfordulhat, hogy a módosítás propagálása még akkor is, ha a módosítás nem azonnal lép életbe a portálon.
+Amikor aktivál egy szerepkört az Azure AD Privileged Identity Management (PIM) szolgáltatásban, előfordulhat, hogy az aktiválás nem propagálható azonnal az összes olyan portálon, amely szükséges a jogosultsági szerepkörhöz. Néha még a módosítás propagálása esetén is előfordulhat, hogy a portálon való webes gyorsítótárazás azt eredményezi, hogy a módosítás nem lép azonnal hatályba.
 
-Ha késik az aktiválás, kövesse az alábbi lépéseket:
+Ha az aktiválás késik, kövesse az alábbi lépéseket:
 
-1. Kijelentkezhet az Azure portálról, majd ismét bejelentkezhet. Az Azure AD szerepkör vagy az Azure Resource szerepkör aktiválása után az aktiválás szakaszai láthatók. Miután minden szakasz befejeződött, megjelenik egy "kijelentkezés" hivatkozás. Ez a hivatkozás a kijelentkezésre használható. Ez megoldja a legtöbb esetet az aktiválás késleltetése során.
-2. A PIM-ban győződjön meg arról, hogy a szerepkör tagjaként szerepel a listában.
-3. Ha aktiválja az Exchange-rendszergazdai szerepkört, győződjön meg arról, hogy kijelentkezik, majd újra bejelentkezik. Ha a probléma nem szűnik meg, nyisson meg egy támogatási jegyet, és emelje fel ezt a problémát. Ha az Exchange-rendszergazda szerepkört használja a biztonsági és megfelelőségi központ eléréséhez, olvassa el a következő lépést.
-4. Ha egy szerepkört aktivál a biztonsági és megfelelőségi központ eléréséhez, vagy ha aktiválja a SharePoint-rendszergazdai szerepkört, néhány perccel az aktiválási késleltetést néhány percen belül megtapasztalhatja. Ez egy ismert probléma, és aktívan dolgozunk ezekkel a csapatokkal a probléma mielőbbi megoldásához.
+1. Jelentkezzen ki az Azure Portalról, majd jelentkezzen be újra. Azure AD-szerepkör vagy Azure-erőforrás-szerepkör aktiválásakor láthatja az aktiválás fázisokat. Ha az összes szakasz elkészült, látni fog egy Kijelentkezás hivatkozást. Erre a hivatkozásra kattintva kijelentkezhet. Ez megoldja a legtöbb esetben az aktiválási késleltetést.
+2. A PiM-listában ellenőrizze, hogy Ön szerepel-e a szerepkörben.
+3. Ha a rendszergazdai rendszergazdai Exchange, jelentkezzen ki, majd jelentkezzen be újra. Ha a probléma nem szűnik meg, nyisson egy támogatási jegyet, és emelje fel a problémát. Ha a Biztonsági és megfelelőségi központ Exchange rendszergazdai szerepkört használja, tekintse meg a következő lépést.
+4. Ha a Biztonsági és megfelelőségi központ eléréséhez aktivál egy szerepkört, vagy ha az SharePoint Rendszergazda szerepkört aktiválja, néhány perctől néhány óráig némi aktiválási késleltetést tapasztal. Ez egy ismert probléma, és aktívan dolgozunk ezekkel a csoportokkal a probléma lehető leghamarabbi megoldása érdekében.
 
 További információ:
 
-- [Az Azure AD-szerepkörök aktiválása a PIM-ban](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
-- [Az Azure Resource-szerepkörök aktiválása a PIM-ban](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
+- [Azure AD-szerepkörök aktiválása a felhasználói környezetben](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
+- [Azure-erőforrás-szerepkörök aktiválása a piM-ban](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
 
-**Az engedélyek nem törlődnek a szerepkör inaktiválása vagy a szerepkör-aktiválás lejárta után**
+**A szerepkör inaktiválásának vagy a szerepkör aktiválásának lejárata után a rendszer nem távolítja el az engedélyeket.**
 
-Ha inaktiválja az Azure AD-jogosultságok kezelésének szerepkörét, vagy ha lejár egy szerepkör-aktiválási időszak, akkor lehet, hogy késés van, ahol továbbra is hozzáférése van.
+Ha inaktivál egy szerepkört az Azure AD-ban Privileged Identity Management vagy lejár egy szerepkör aktiválási időszaka, előfordulhat, hogy egy késedelem, amikor továbbra is hozzáfér.
 
-Ha késik a deaktiválása, kövesse az alábbi lépéseket:
+Ha az inaktiválás késik, kövesse az alábbi lépéseket:
 
-1. Ha inaktívvá teszi az Exchange-rendszergazdai szerepkört vagy a szerepkör-aktiválási időszakot, és jelentős késést tapasztal az engedélyek eltávolítása előtt, nyisson meg egy támogatási jegyet, és mondja el a támogatási szakemberének, hogy segítsen Önnek jegyet benyújtani az Office-ban az Office-szal kapcsolatos kiváltságos hozzáférés-kezelési (PAM) csapattal.
-2. Ha az aktiválási időszak lejárt, de továbbra is meg van nyitva a böngészési folyamat, zárja be a böngészőt. Addig is használhatja a szerepkört, amíg be nem zárja a munkamenetet. Ez egy ismert probléma, és az aktiválás lejárta után egy esetleges javítást keresünk.
+1. Ha a Exchange-rendszergazdai szerepkört inaktiválja, vagy ha lejár a szerepkör aktiválási időszaka, és jelentős késést figyel fel az engedélyek eltávolítása előtt, nyisson egy támogatási jegyet, és mondja meg a támogatási szakembernek, hogy segítsen a jogosultsággal rendelkező hozzáférés kezelését (PAM) Office-csoportnál a hiba érvénybe lépéséhez.
+2. Ha az aktiválási időszak lejárt, de még meg van nyitva a böngésző munkamenete, zárja be a böngészőt. A szerepkört mindaddig használhatja, amíg be nem zárja a munkamenetet. Ez egy ismert probléma, és jelenleg egy lehetséges javítást folytatunk annak érdekében, hogy az aktiválás lejárta után aktívan visszavonjuk az egyes munkameneteket.
 
-Ha a késése eltér a két forgatókönyvtől, kérjük, nyisson meg egy támogatási jegyet.
+Ha a késése eltér a fenti két helyzettől, nyisson egy támogatási jegyet.

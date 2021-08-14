@@ -1,5 +1,5 @@
 ---
-title: 604 hibaelhárítási kategóriák
+title: 604 – Kategóriák hibaelhárítása
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972529"
 ---
-# <a name="outlook-categories"></a>Outlook-kategóriák
+# <a name="outlook-categories"></a>Outlook kategóriák
 
-A kategóriák csak a naptárban szereplő elemekre vonatkoznak. Ha színkategóriát alkalmaz egy értekezlet-összehívásra vagy egy másik személytől kapott értekezletre, akkor ez a színkategória csak a naptárban jelenik meg.  Ha színkategóriát alkalmaz egy megosztott postaládában, delegálhatja a postaládát, a csoport postaládáját, a helyiség postaládáját stb. a színkategória csak az Ön nézetére van hatással.
+A kategóriák csak a naptárban lévő elemekre vonatkoznak. Ha színkategóriát alkalmaz egy értekezlet-összehívásra vagy egy másik személytől kapott értekezletre, az adott színkategória csak a naptárban lesz meg.  Ha egy megosztott postaládára, delegált postaládára, csoportpostafiókra, helyiség-postaládára stb. alkalmaz színkategóriát, a színkategória csak a nézetre van hatással.
 
-További információ: [színkategória hozzárendelése naptári találkozóhoz, értekezlethez vagy eseményhez](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
+További információ: [Színkategória hozzárendelése találkozóhoz, értekezlethez vagy eseményhez a naptárban](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
