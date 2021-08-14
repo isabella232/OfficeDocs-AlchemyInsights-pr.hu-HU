@@ -1,5 +1,5 @@
 ---
-title: Fájlok letöltésének megakadályozása a SharePointból vagy a OneDrive-ból
+title: A fájlok letöltésének megakadályozása SharePoint-OneDrive
 ms.author: pebaum
 author: pebaum
 manager: matteva
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 3ada8657ebe4cd29d1390f9c30f75d1b0b95056a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d492f26584199f76531f0c1afe026b4754383a1457b33c2e4c643fb13977b319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063054"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Fájlok letöltésének megakadályozása a SharePointból vagy a OneDrive-ból
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>A fájlok letöltésének megakadályozása SharePoint-OneDrive
 
-Többféle módszer használható a letöltés megakadályozására vagy letiltására. Kérjük, hogy az alábbi hivatkozásokra kattintva keresse meg a megfelelő módszereket:
+A letöltéseket többféle módszerrel előzheti meg vagy tilthatja le. Kérjük, az alábbi hivatkozásokra kattintva keresse fel a megfelelő módszereket:
 
-- [Fájlok letöltésének tiltása az Azure AD feltételes hozzáféréssel](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Fájlletöltés letiltása Azure AD feltételes hozzáféréssel](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
 - [Nem kezelt eszközök hozzáférésének kezelése](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [IRM-házirendek beállítása SharePoint-dokumentumtárakban a tartalom letöltésének korlátozásához](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
+- [Tartalomvédelmi házirendek beállítása SharePoint dokumentumtárakban a tartalom letöltésének korlátozásához](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)

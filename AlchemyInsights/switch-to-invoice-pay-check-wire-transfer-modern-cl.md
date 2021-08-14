@@ -1,5 +1,5 @@
 ---
-title: Váltás számlás fizetésre (ellenőrzés/átutalás)
+title: Váltás számlával történő fizetésre (csekk/átutalás)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 09f4f4787e634e28e31b02533319853b51f41e5bc37553be6615c2389063818c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009070"
 ---
-# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Váltás számlás fizetésre (ellenőrzés/átutalás)
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Váltás számlával történő fizetésre (csekk/átutalás)
 
-A probléma leírása alapján megtalálunk egy megoldást. A legtöbb ügyfél saját maga oldhatja fel a problémát a dokumentációt követően.
+A probléma leírása alapján megoldást találtunk az Ön számára. A legtöbb ügyfél a dokumentációt követően egyedül megoldotta a problémát.
 
-Ha számlára vált, az azt jelenti, hogy a számlát a számla dátuma után 30 napon belül fizeti ki. Ha az Azure-előfizetéséhez számlával szeretne fizetni, nyújtson be egy kérést az Azure terméktámogatási szolgálatához. Miután jóváhagyta a kérését, átválthat egy előfizetést a számlás fizetésre az Azure portálon.
+Ha számlával fizet, az azt jelenti, hogy a számla dátumát követő 30 napon belül ki kell fizetnie a számláját. Az Azure-előfizetés díjának számlával való fizetésre való jogosultságához küldjön egy kérelmet az Azure ügyfélszolgálatának. Miután jóváhagyta a kérelmét, az Azure Portalon számlás fizetésre válthat az előfizetésről.
 
-**Mielőtt folytatná a további lépéseket, tekintse át az alábbi követelményeket/korlátozásokat a számla fizetésének kérése beállításnál:**
+**Mielőtt továbblép, tekintse át az alábbi, számlafizetési lehetőség igénylésére vonatkozó követelményeket és korlátozásokat:**
 
-- Bejelentkezés az [Azure portálján](https://portal.azure.com/), keresse meg a fizetési módokat, és ellenőrizze, hogy már előzetesen jóváhagyta-e a számlás fizetést.
-- A számlás fizetés csak üzleti fiókokhoz érhető el, nem személyes fiókokhoz.
-- A számlás fizetésre való áttérés előtt minden esedékes költséget ki kell fizetnie.
-- A támogatási csoport áttekinti a fiókot annak megállapításához, hogy jogosult-e a fizetési mód számlára.
-- Ha a számlás fizetésre vált, nem tud visszaváltani a hitelkártyás vagy hitelkártyás fizetésre.
+- Jelentkezzen be az [Azure Portalra,](https://portal.azure.com/)lépjen a fizetési módokhoz, és ellenőrizze, hogy előre engedélyezte-e a számlás fizetést.
+- A számlás fizetés csak vállalati fiókokhoz érhető el, személyes fiókokhoz nem.
+- A számlás fizetésre váltás előtt minden fennálló díjat ki kell fizetnie.
+- A támogatási csoport a fiókot áttekintve megállapítja, hogy jogosult-e a számlás fizetési módra.
+- Miután számlás fizetésre váltott, nem válthat vissza hitelkártyás vagy bankkártyás fizetésre.
 
-Miután jóváhagyta a számlás fizetést, átválthatja az Azure-előfizetését az [Azure portálon](https://portal.azure.com/)az ellenőrzés vagy a banki átutalás segítségével.
-Teendő:
+Miután jóváhagyta a számlás fizetéshez szükséges jóváhagyást, az Azure Portalon csekken vagy átutalással számlás fizetésre válthat [Azure-előfizetése ellenében.](https://portal.azure.com/)
+A következőt kell tenni:
 
-1. Bejelentkezés az [Azure Portal](https://portal.azure.com/)-ba   fiók-rendszergazdaként. Keresse meg és válassza a **költség kezelése + számlázás** lehetőséget.
-2. A menüben válassza a **Számlázási profilok** elemet.
-3. Válassza ki a számlázási profilt.
-4. A *Számlázási profil* menüben válassza a **fizetési módok** lehetőséget.
-5. Jelölje ki azt a bannert, amely szerint jogosult a fizetésre az ellenőrzés/átutalással.
+1. Jelentkezzen be az [Azure Portalba](https://portal.azure.com/)   fiókkezelőként. Keresse meg és válassza a **Költségkezelés + Számlázás lehetőséget.**
+2. A menüben válassza a Számlázási **profilok elemet.**
+3. Válasszon ki egy számlázási profilt.
+4. A Számlázási *profil menüben* válassza a **Fizetési módok lehetőséget.**
+5. Válassza ki azt a transzparenst, amely szerint csekken vagy átutalással fizetheti a fizetést.
 
 **Ajánlott dokumentumok**
 
-- [Az Azure számlázási számlájának és használati adatainak kérése/letöltése/megtekintése](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Az Azure-számlák küldése közvetlenül a Beérkezett üzenetek mappába](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Azure számlázási számla és használati adatok kérése/letöltése/megtekintése](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Azure-számlák küldése közvetlenül a Beérkezett üzenetek mappába](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Számlás fizetés](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
-- [A számlán szereplő fogalmak ismertetése](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
+- [A számlán szereplő feltételek](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)

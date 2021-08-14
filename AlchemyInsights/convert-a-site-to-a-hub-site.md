@@ -1,5 +1,5 @@
 ---
-title: Webhely konvertálása központi webhelyre
+title: Webhely átalakítása központi webhelygé
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,23 +12,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929811"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>SharePoint-hub-webhely létrehozása
+# <a name="create-a-sharepoint-hub-site"></a>Központi SharePoint létrehozása
 
-1. Az új SharePoint felügyeleti központ **webhelyek**területén kattintson az **aktív webhelyek**lehetőségre.
+1. Az új felügyeleti SharePoint Webhelyek **csoportban kattintson** az **Aktív webhelyek elemre.**
 
-2. Jelölje ki a központi webhelyet használni kívánt webhelyet, kattintson a **központi webhely**elemre, majd a **regisztrálás központi webhelyen**parancsra.
+2. Jelölje ki azt a webhelyet, amely központi webhelyként szeretne lennie, kattintson a Központi webhely **elemre,** majd kattintson a **Regisztrálás központi webhelyként elemre.**
 
-3. Adja meg a központi webhely megjelenítendő nevét, és adja meg azokat a felhasználókat vagy biztonsági csoportokat, amelyeknek engedélyezni szeretné a webhelyek társítását a hub-szal.
+3. Adja meg a központi webhely megjelenítendő nevét, és adja meg azokat a felhasználókat vagy biztonsági csoportokat, akik számára engedélyezni szeretné a webhelyek társítását a központtal.
 
     > [!NOTE]
-    >  Azt javasoljuk, hogy jelöljön ki egy kommunikációs webhelyet vagy egy új sablont használó csoportwebhely-webhelyet. Ha klasszikus csoportwebhelyt használ, a hub navigációs sávja csak a modern lapokon fog megjelenni, és a központi webhely beállításai csak a modern lapokon jelennek meg. A másik központtal társított webhelyek nem regisztrálhatók központi webhelyként.
+    >  Javasoljuk, hogy jelöljön ki egy kommunikációs webhelyet vagy egy olyan csapatwebhelyet, amely az új sablont használja. Ha klasszikus csapatwebhelyet használ, a központi navigáció csak a modern lapokon fog megjelenni, a központi webhely beállításai pedig csak a modern lapokon jelennek meg. A másik központhoz már társított webhelyek nem regisztrálható központi webhelyként.
   
 [További információ a központi webhelyekről](https://go.microsoft.com/fwlink/?linkid=869149)
   

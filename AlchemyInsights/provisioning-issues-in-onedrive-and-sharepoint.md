@@ -1,5 +1,5 @@
 ---
-title: Kiépítési problémák a OneDrive-ban és a SharePointban
+title: Kiépítési problémák a OneDrive-ban és a SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,16 +7,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: aee565878fe2d879f0d74cd20dcff044e08abc12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5b416da323c1c02bde2a85b52027ba582aca7dc49bcf4db7fcede5100d0ed7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801546"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943773"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Kiépítési problémák a OneDrive-ban és a SharePointban
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Kiépítési problémák a OneDrive-ban és a SharePoint
 
-Ha egy felhasználó hozzá lett adva egy meglévő bérlőhöz, előfordulhat, hogy a SharePoint Online vagy a OneDrive vállalati verzió ikonjai "beállítás" értékkel jelennek meg, amíg a kiépítési folyamat el nem fejeződött. Az újonnan létrehozott fiókokhoz a felhasználóknak a Microsoft 365 felügyeleti központba kell bejelentkeznek a saját fiókjával, majd a OneDrive gombra kattintva manuálisan kezdhetik meg a OneDrive-webhely szolgáltatását.
+Amikor egy felhasználót egy meglévő bérlőhöz ad hozzá, előfordulhat, hogy a SharePoint Online vagy a OneDrive Vállalati verzió ikonjai "Beállítás" jelennek meg, amíg a kiépítési folyamat be nem fejeződik. Újonnan létrehozott fiókok esetén a felhasználóknak be kell jelentkezniük a Microsoft 365 Felügyeleti központ a saját fiókjukkal, majd az OneDrive elemre kattintva manuálisan el kell kezdeniük a OneDrive webhelyét.
   
-Ha több mint 24 óra telt el, mióta először látta ezt a problémát, kérjük, jelentkezzen be támogatási ügyben. Sok esetben már dolgozunk a megoldáson. Kérjük, hogy végezze el a megfelelő megoldást legalább 24 óráig.
+Ha a probléma első jelentkeztét óta több mint 24 óra telt el, kérjük, írjon egy támogatási esetet. Sok esetben már dolgozunk a megoldáson. Kérjük, várjon legalább 24 órát a megoldásunkra.
   

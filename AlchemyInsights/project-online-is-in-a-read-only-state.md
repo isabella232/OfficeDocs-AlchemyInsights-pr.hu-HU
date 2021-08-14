@@ -1,5 +1,5 @@
 ---
-title: A Project online írásvédett állapotban van
+title: Project Online írási állapotban van
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: ad2a9f95bf30708772edb166945f3f42e0f1f503
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 988d87ca43f5394728b77561edd8e26fa0668f4ad876a5fcd09cf739092a4d6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063018"
 ---
-# <a name="project-online-is-in-a-read-only-state"></a>A Project online írásvédett állapotban van
+# <a name="project-online-is-in-a-read-only-state"></a>Project Online írási állapotban van
 
-Három általános oka lehet annak, hogy a Project online csak olvasható állapotot érhet el:
+Három gyakori oka lehet annak Project Online hogy a Project Online írásra van beolvasva:
 
-1. A szervezeteknek csak Project online Essentials licenccel (s) kell rendelkezniük. Ez nem elegendő ahhoz, hogy a webhely életben maradjon, és az előbbi használatba kerül.Egy írásvédett államba tesszük a webhelyet, hogy a rendszergazdák tudják, hogy valami nem stimmel, és a megfelelő licencek is megszerezhetők. A rendszergazdáknak létre kell hozniuk egy Project online Professional-és/vagy prémium licencet. A webhely ekkor már csak olvasható. További információt a [projektvezetési megoldások összehasonlítása](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)című témakörben talál.
-2. Elérte a hozzárendelt kvótát. További információt a [Project Web App-kvóta](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota)című témakörben találhat. Ellenőrizze, hogy a [Project online időfázisos jelentéskészítési adatainak összesítését szeretné-](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) e ellenőrizni, hogy miként befolyásolhatják a jelentések részletességét.
-3. Írásvédett lehet nagyon ideiglenes feltétel, amely a karbantartás során is bekövetkezhet. Ügyfeleink a legtöbb karbantartást még észre sem veszik, és nem fogja látni ezt, de vannak olyan esetek, amikor a rövid idő csak olvasható.
+1. A szervezeteknek csak Project Online alapverzió licencük van. Ez nem elég ahhoz, hogy a webhelyet még élve tartsa, és végül kiépítik. Írást engedélyező állapotba helyezzük a webhelyet, hogy a rendszergazdák tudják, hogy valami nem megfelelő, és beszerezheti a megfelelő licenceket. A rendszergazdáknak hozzá kell adni egy Project Online Professional és/vagy Prémium kell. A webhely akkor csak olvasható lesz. További információt a [Compare Project (Felügyeleti megoldások összehasonlítása) Project.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. Elérte a hozzárendelt kvótát. További információ: A [Project kvótája.](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota) Jelölje [be Az időfázisos jelentési](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) adatok összegző Project Online, hogy a jelentés részletessége hogyan befolyásolhatja a kvótahasználatot.
+3. Az írás csak olvasható állapot lehet nagyon ideiglenes, amely karbantartás közben történhet. A karbantartást ügyfeleink nem is észreveték, és ezt gyakran nem is fogja látni, de vannak olyan időszakok, amikor rövid írási időre van lehetőség.

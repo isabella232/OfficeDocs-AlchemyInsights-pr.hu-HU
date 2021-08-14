@@ -1,5 +1,5 @@
 ---
-title: Kijelentkezés a webes Outlookból
+title: Kijelentkezás a Webes Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341cdededd28da9b224d292149cfc648d13939f28e11104cecdec14eef7c5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802131"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063162"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kijelentkezés a webes Outlookból
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kijelentkezás a Webes Outlook
 
-A webes Outlookból való kijelentkezéshez válassza ki a nevét vagy a képét a jobb felső sarokban, és válassza a **kijelentkezés**lehetőséget.
+Ha ki akar jelentkezni a Webes Outlook, jelölje ki a nevét vagy a képét a jobb felső sarokban, és válassza a **Kijelentkezás lehetőséget.**
 
-A munkahelyi vagy iskolai fiókjába való automatikus bejelentkezés leállítása:
+A munkahelyi vagy iskolai fiókjába való automatikus bejelentkezést a következővel állíthatja le:
 
-1. Jelölje ki a nevét vagy a képét, és válassza a **kijelentkezés**lehetőséget.
-1. Nyissa meg a [Outlook.Office.com](https://outlook.office.com/) , és válassza a **másik fiók használata**lehetőséget.
-1. Bejelentkezés a használni kívánt e-mail-címhez.
+1. Jelölje ki a nevét vagy a képét, és válassza a **Kijelentkezás lehetőséget.**
+1. Válassza a [Outlook.office.com,](https://outlook.office.com/) majd a **Másik fiók használata lehetőséget.**
+1. Jelentkezzen be a használni kívánt e-mail-címmel.
 
-További információt a be- [és kijelentkezés a webes Outlookban](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)című témakörben talál.
+További információt a Bejelentkezés és kijelentkezás a [Webes Outlook.](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)

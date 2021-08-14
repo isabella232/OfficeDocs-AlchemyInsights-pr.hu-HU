@@ -1,5 +1,5 @@
 ---
-title: A tulajdonos nem hozhat létre almappát az Outlookkal
+title: A tulajdonos nem hozhat létre almappát a Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60190727e75c120ad3915da8b563b7f6b1a3238b46bb6e14cbf956365e1a84e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063126"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>A tulajdonos nem hozhat létre almappát az Outlookkal
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>A tulajdonos nem hozhat létre almappát a Outlook
 
-**Egy még folyamatban lévő hiba miatt a nyilvános mappatulajdonosok az Outlook segítségével hoznak létre almappákat. A problémát hamarosan kijavítjuk.**
+**Egy még folyamatban lévő probléma miatt a nyilvános mappatulajdonosok almappákat hoznak létre az Outlook. A problémát hamarosan kijavítjuk.**
 
 Addig is használja az alábbi kerülő megoldásokat:
 
-1. Az almappa létrehozása a MAC Outlookkal, mivel a probléma csak az asztali Outlookot (az összes verziót) érintette.
+1. Az almappa Outlook MAC rendszeren használható, mivel a probléma csak az asztali Outlook (az összes verzióban)
 2. Az almappa exo shell vagy EAC használatával való létrehozása a rendszergazdával
 3. A problémát okozó mappa DefaultPublicFolderMailbox/EffectivePublicFolderMailbox-jának módosítása a tartalompostaládán kívül más postaládára  
     - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*

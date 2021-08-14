@@ -1,5 +1,5 @@
 ---
-title: SharePoint-naptár szinkronizálása az Outlookkal
+title: A naptár SharePoint szinkronizálása a Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659168"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008881"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>A naptárnak az eszközökre való szinkronizálásával kapcsolatos problémák
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problémák a naptár eszközökre való szinkronizálása során
 
-A SharePoint-naptárak olyan klasszikus fájltípusok, amelyeket a Microsoft 365 csoport naptárai időnként összetévesztenek.
+SharePoint A naptárak olyan klasszikus listatípusok, amelyek néha nem Microsoft 365 a csoportnaptárokkal.
 
-Ha egy SharePoint-naptárt az Outlookba szeretne szinkronizálni, kövesse az alábbi lépéseket:
+Ha szinkronizálni SharePoint naptárt Outlook, kövesse az alábbi lépéseket:
 
-1. Kattintson a **Beállítások** fogaskerék ikonra, majd a **webhely tartalma**parancsra.
-2. Nyissa meg azt a naptárt, amelyet szinkronizálni szeretne (ez az esemény lista típusa).
-3. A klasszikus menüszalag menüben kattintson a **Naptár**elemre, majd a **Csatlakozás az Outlook programhoz**parancsra.
-4. A szinkronizálás megerősítését kérő előugró ablakban kattintson az **Engedélyezés**gombra.
+1. Kattintson a **Gépház** fogaskerék ikonra, majd a Webhely **tartalma elemre.**
+2. Nyissa meg a szinkronizálni szeretné a naptárt (amely egy Esemény listatípus).
+3. A klasszikus menüszalag menüjében kattintson **a** Naptár , majd a Naptár **Csatlakozás elemre** Outlook.
+4. Az előugró ablakban, amely a szinkronizálás megerősítését kéri, kattintson az Allow (Megengedve) **gombra.**
 
 >[!Note]
-> Ha módosítja a szinkronizált Outlook-naptárat, az a SharePoint-naptárban fog megjelenni, és fordítva.
+> Amikor módosítja a szinkronizált naptárt, Outlook a naptárban fog megjelenni, SharePoint naptárban, és fordítva.
 
-A Microsoft 365 csoportjairól a következő [cikkben](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)olvashat bővebben.
+A csoportokról további Microsoft 365 ebben a [cikkben olvashat.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
