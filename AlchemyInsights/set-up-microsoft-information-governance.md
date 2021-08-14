@@ -15,15 +15,15 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921621"
 ---
 # <a name="set-up-microsoft-information-governance"></a>A Microsoft információirányításának beállítása
 
 A [Microsoft](https://go.microsoft.com/fwlink/?linkid=2146529) információirányítási beállítási útmutatója biztosítja a szervezet irányítási stratégiájának beállításához és kezeléséhez szükséges információkat annak érdekében, hogy adatai az Ön által meghatározott életciklus-irányelveknek megfelelően osztályozva és kezelhetők.
 
-Ebből az útmutatóból megtudhatja, hogy miként hozhat létre, alkalmazhat automatikusan és tehet közzé címkéket, címke-házirendeket és adatmegőrzési házirendeket, amelyek a szervezet újrahasználható tartalom- és megfelelőségi rekordjaira vannak alkalmazva. A csv-fájlok tömeges esetekre vonatkozó fájltervekkel történő importálásával, illetve az egyes dokumentumok manuális alkalmazásával kapcsolatos információkat is kap.
+Ebből az útmutatóból megtudhatja, hogy miként hozhat létre, alkalmazhat és tehet közzé a szervezet újrahasználható tartalom- és megfelelőségi rekordjaira alkalmazott címkéket, címke-házirendeket és adatmegőrzési házirendeket. Arról is tájékoztatást kap, hogy tömeges forgatókönyv esetén hogyan importálhat CSV-fájlokat egy fájltervvel, vagy manuálisan tudja őket alkalmazni az egyes dokumentumokra.

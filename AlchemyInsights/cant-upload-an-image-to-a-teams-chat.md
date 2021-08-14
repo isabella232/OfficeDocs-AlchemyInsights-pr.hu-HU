@@ -1,5 +1,5 @@
 ---
-title: Nem lehet képet feltölteni a Teams-csevegésbe
+title: Nem lehet képet feltölteni Teams csevegésbe
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49949835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930803"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Nem lehet képet feltölteni a Teams-csevegésbe
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Nem lehet képet feltölteni Teams csevegésbe
 
 Hibaelhárítási javaslatok:
 
-- Ha a Teamst használja a weben, próbálkozzon egy másik böngészővel. A támogatott böngészők listáját a Microsoft Teams korlátai és specifikációi "Böngészők" című szakaszában [láthatja.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
-- Ellenőrizze a hardver és az operációs rendszer kompatibilitását. További információ: [A Microsoft Teams hardverkövetelményei.](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)
-- Ellenőrizze, hogy a Legújabb Teams-verzióval van-e. További információt a Teams frissítési [folyamatában](https://docs.microsoft.com/microsoftteams/teams-client-update) talál.
+- Ha webes Teams használ, próbálkozzon egy másik böngészővel. A támogatott böngészők listáját A böngészőkre vonatkozó korlátozások és specifikációk című szakasz ["Böngészők" Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams)
+- Ellenőrizze a hardver és az operációs rendszer kompatibilitását. További információt A számítógép [hardverkövetelményei Microsoft Teams.](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app)
+- Ellenőrizze, hogy a legújabb verzióval Teams-e. További információt a frissítési [Teams olvashat](https://docs.microsoft.com/microsoftteams/teams-client-update) részletesen.

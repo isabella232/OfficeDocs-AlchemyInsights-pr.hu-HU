@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: d7f35bbe482d3bc5bae8c9d7af4ec1e3dcd0de35
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 73e4ac01293bb1625376674bc19354942a348bccc7ea101c9676cf468d0df6f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930695"
 ---
 # <a name="check-for-app-using-camera"></a>Alkalmazás ellenőrzése kamerával
 
-1. Válassza **a Start** gombot, majd a > **adatvédelmi >** (ms-settings:privacy-webkamera) lehetőséget.
+1. Válassza **a Start** gombot, Gépház > a > **kamera** (ms-settings:privacy-webkamera) lehetőséget.
 2. Keresse meg az alkalmazáslistában a "jelenleg használatban lévő" alkalmazást, és zárja be az alkalmazást.

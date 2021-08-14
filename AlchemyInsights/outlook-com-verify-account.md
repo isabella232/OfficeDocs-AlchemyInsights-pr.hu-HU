@@ -14,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d65ee2ec5507e3a691c5db6c44e5790ca60c47ac9b52e04f4c9052bf9503402d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694241"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961593"
 ---
 # <a name="how-to-verify-your-outlookcom-account"></a>Az Outlook.com-fiók ellenőrzése
 
-A kétlépéses ellenőrzés megkönnyíti a védelmet azáltal, hogy nehezebbé teszi a Microsoft-fiókba való bejelentkezést. Két különböző identitást használ: a jelszavát és a partnerlista (más néven biztonsági információ).
+A kétlépéses ellenőrzés további védelmet nyújt Önnek azáltal, hogy megnehezíti másoknak az Ön Microsoft-fiókjába való bejelentkezést. Két különböző típusú identitást használ: a jelszavát és egy kapcsolatfelvételi módot (más néven biztonsági adatokat).
   
-A kétlépéses ellenőrzés be-és kikapcsolása:
+A kétlépéses ellenőrzés be- és kikapcsolása:
   
-1. Lépjen a [biztonsági alapok lapra](https://go.microsoft.com/fwlink/?linkid=842325) , és bejelentkezés a Microsoft-fiókjával.
-2. Válassza a **további biztonsági beállítások**elemet.
-3. A kétlépéses **ellenőrzés**csoportban válassza a **kétlépéses ellenőrzés beállítása** lehetőséget, és kövesse az útmutatást.
+1. A Biztonság alapjai [lapon](https://go.microsoft.com/fwlink/?linkid=842325) jelentkezzen be Microsoft-fiókjával.
+2. Válassza **a További biztonsági beállítások lehetőséget.**
+3. A **Kétlépéses ellenőrzés alatt válassza** a **Kétlépéses** ellenőrzés beállítása lehetőséget, és kövesse az utasításokat.
 
-Ha bekapcsolja a kétlépcsős azonosítást, akkor minden esetben két formában kell szerepelnie. Ha elveszíti a kapcsolati módszert, a jelszó csak akkor lép vissza a fiókjába, ha a hozzáférés visszaszerzése 30 napig tart.
+Ha bekapcsolja a kétlépéses ellenőrzést, mindig szüksége lesz két azonosítási formra. Ha elveszíti a kapcsolatfelvételi módot, a jelszava nem jut vissza a fiókjához – és a hozzáférés visszanyerése 30 napot is.
   
-További információ a [kétlépéses ellenőrzésről](https://go.microsoft.com/fwlink/?linkid=872270).
+További információ a [kétlépéses ellenőrzésről.](https://go.microsoft.com/fwlink/?linkid=872270)
   
