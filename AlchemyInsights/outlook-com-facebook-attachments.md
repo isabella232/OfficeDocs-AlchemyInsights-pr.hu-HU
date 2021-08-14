@@ -1,5 +1,5 @@
 ---
-title: E-mail-előfizetések Outlook.com
+title: Outlook.com e-mail-előfizetések
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c9c1ea9b3da7f035e1221b435f30ef5c801e5bdcd010c1a1922d712b6d626b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962313"
 ---
 # <a name="unable-to-attach-or-upload-files-from-facebook"></a>Nem lehet fájlokat csatolni vagy feltölteni a Facebookról
 
-A Facebook-ban az 2019 október 23-án megjelenő feltételek és kikötések miatt a továbbiakban nem tudja közvetlenül a Facebookról feltölteni a mellékleteket, a Facebook pedig már nem jelenik meg a Felhőbeli helyek listájában. 
+A Facebook használati feltételeinek és feltételeinek 2019. október 23. után a továbbiakban nem lehet közvetlenül a Facebookról feltölteni a mellékleteket, és a Facebook a továbbiakban nem fog megjelenni a felhőbeli helyek listájában. 
 
-Kezelheti a többi felhőalapú hely listáját a [tároló fiókokban](https://go.microsoft.com/fwlink/?linkid=2111075).
+A többi felhőbeli hely listáját kezelheti a Storage [fiókokban.](https://go.microsoft.com/fwlink/?linkid=2111075)
 
-További információ a [tárolási fiókokról](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
+További információ a [Storage fiókokról.](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)
   

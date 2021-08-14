@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8b94898e703a14fdfa4903565a680e7d5dea0f1cafedc59412d425b4ff9bbb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932777"
 ---
 # <a name="anonymous-sharing"></a>Névtelen megosztás
 
- **A névtelen hozzáférés engedélyezése**
+ **Névtelen hozzáférés engedélyezése**
   
-Az új SharePoint felügyeleti központban kattintson a **megosztás** elemre a bal oldali ablaktáblában. 
+Az új felügyeleti SharePoint kattintson a megosztás **elemre** a bal oldali ablaktáblában. 
   
-- Jelölje ki a következőt: a **hitelesített külső felhasználóknak való megosztás engedélyezése és a névtelen hozzáférés használata.**
+- Válassza a következőt: Megosztás engedélyezése hitelesített külső felhasználóknak és **névtelen hozzáférés használata.**
   
-(Tetszés szerint beállíthatja a hivatkozásokat meghatározott számú napra, és kiválaszthatja, hogy miként használhatják a címzettek a hivatkozásokat.)
+(Másik lehetőségként beállíthatja, hogy a hivatkozás adott számú nap múlva lejárjon, és megszüli, hogy a címzettek hogyan használják a hivatkozásokat.)
     
  **Fájl vagy mappa megosztása névtelenül**
   
-- Jelölje ki a megosztani kívánt fájlt vagy mappát, majd kattintson a **megosztás**gombra. 
+- Jelölje ki a megosztani kívánt fájlt vagy mappát, és kattintson a Megosztás **gombra.** 
     
-- Ki szeretne dolgozni ehhez a hivatkozáshoz? kattintson a mindenki elemre **.**
+- Who szeretné, hogy ez a hivatkozás működjön? kattintson a **Bárki elemre.**
   
- **Megjegyzés**: **valaki** olyan hivatkozást hoz létre, amellyel bárki elérheti a dokumentumot vagy a mappát, akkor is, ha nem jelentkezett be a Microsoft 365-ba vagy a OneDrive-ra. Ezzel a szolgáltatással megoszthatja a szervezeten belüli vagy kívüli személyeket. Ez a hivatkozás bárki számára elérhető. 
+ **Megjegyzés:** **Bárki olyan** hivatkozást hoz létre, amelyből bárki hozzáférhet a dokumentumhoz vagy mappához, még akkor is, ha nincs bejelentkezve Microsoft 365 vagy OneDrive. Ezt használva bárkivel megoszthatja a vállalaton belül vagy kívül. Ezt a hivatkozást bárkinek továbbíthatja. 
     
 

@@ -1,5 +1,5 @@
 ---
-title: Hub-webhely társítása
+title: Központi webhely társítása
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989629"
 ---
-# <a name="associate-existing-site-with-a-hub-site"></a>Meglévő webhely társítása egy központi webhellyel
+# <a name="associate-existing-site-with-a-hub-site"></a>Meglévő webhely társítása központi webhelyhez
 
-Ha meglévő webhelyet szeretne társítani a központi webhelyhez, tegye az alábbiakat:
+Ha egy meglévő webhelyet a központi webhelyhez társítani, tegye a következőket:
   
-1. A webhelyén válassza a **Beállítások** (a fogaskerék ikont a jobb felső sarokban), és válassza a **webhely adatai**parancsot.
+1. A webhelyén válassza **a** Gépház (a fogaskerék ikon a jobb felső sarokban), majd válassza a **Webhely adatai lehetőséget.**
 
-2. A **webhely adatai** munkaablak a **központi webhely társítása** menüben válassza ki a webhelyhez társítani kívánt központi webhelyet, és kattintson a **Mentés**gombra. A webhely megjelenése a hub webhelyének és a központi webhely navigációs sávjának a tetején fog megegyezni.
+2. A **Webhely adatainak szerkesztése panelEn** a Központi **webhelytársítások** menüben válassza ki a webhelyhez társítani kívánt központi webhelyet, majd kattintson a Mentés **gombra.** A webhely megjelenése a központi webhely megjelenésének megfelelőre változik, felül pedig megjelenik a központi webhely navigációs sávja.
 
 >**Megjegyzés**
 >
->Ha a központi webhely társítása beállítás nem jelenik meg, vagy nincsenek felsorolva webhelyek, akkor előfordulhat, hogy a központi webhelyek nem engedélyezettek, vagy nem lehet jogosultsága a webhelyek társítására a központi webhelyekkel. További információért forduljon a rendszergazdához.
+>Ha a Központi webhelytársítási lehetőség nincs jelen, vagy ott nem szerepelnek webhelyek, akkor lehet, hogy a központi webhelyek nincsenek engedélyezve, vagy nincs engedélye webhelyek központi webhelyhez való társítására. További információért forduljon a rendszergazdához.
 >
->Nincs korlátozva a központi webhelyhez társítható webhelyek száma.
+>A központi webhelyhez társítható webhelyek száma korlátlan.
   
