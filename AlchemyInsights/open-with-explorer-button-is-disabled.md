@@ -1,5 +1,5 @@
 ---
-title: Le van tiltva a Megnyitás Intézővel gomb
+title: A Megnyitás Intézővel gomb le van tiltva
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944601"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Le van tiltva a Megnyitás Intézővel gomb
+# <a name="the-open-with-explorer-button-is-disabled"></a>A Megnyitás Intézővel gomb le van tiltva
 
-- Tallózással keresse meg azt a SharePoint-vagy OneDrive-helyet az Internet Explorer 10 vagy az Internet Explorer 11-es verziójában. A gomb nem kompatibilis a többi webböngészővel.
+- Tallózással keresse meg SharePoint OneDrive az internet explorerben Internet Explorer 10 helyet. A gomb nem kompatibilis más webböngészőkhöz.
     
 > [!NOTE]
-> Ha egy tár megnyitása a Fájlkezelőben akkor hasznos, ha egyszerre több fájlt és mappát kell másolni vagy áthelyeznie, de ha rendszeresen dolgozni szeretne a tárban, azt javasoljuk, hogy szinkronizálja. További segítségért és a Fájlkezelőben való megnyitással kapcsolatos egyéb hibák elhárításáról a [Megnyitás az Intézőben](https://go.microsoft.com/fwlink/?linkid=871665)című témakörben olvashat bővebben. A szinkronizálás beállításáról további információt a [SharePoint-fájlok szinkronizálása az új OneDrive szinkronizálási ügyfélprogrammal](https://go.microsoft.com/fwlink/?linkid=871666)című témakörben talál. 
+> Akkor érdemes a Fájlkezelőben megnyitni egy tárat, ha egyszerre több fájlt és mappát kell másolnia vagy áthelyezni, de ha rendszeresen szeretne dolgozni a tárban, azt javasoljuk, hogy szinkronizálja. További segítségért és a Fájlkezelőben való megnyitás egyéb hibáinak elhárításához tekintse meg a Megnyitás [Intézővel témakört.](https://go.microsoft.com/fwlink/?linkid=871665) A szinkronizálás beállításával kapcsolatos további információkért lásd: SharePoint fájlok szinkronizálása az új OneDrive szinkronizálási app [ügyfélalkalmazással.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

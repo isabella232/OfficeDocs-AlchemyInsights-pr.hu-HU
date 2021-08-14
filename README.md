@@ -1,2 +1,3 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft nyílt forrás magatartási kódex
-Ezt a projektet a [Microsoft Open Source magatartási](https://opensource.microsoft.com/codeofconduct/)fogadott el. További információt lásd a [GYIK magatartás kódot](https://opensource.microsoft.com/codeofconduct/faq/) , vagy lépjen kapcsolatba [opencode@microsoft.com](mailto:opencode@microsoft.com) további kérdéseket és megjegyzéseket.
+## <a name="microsoft-open-source-code-of-conduct"></a>A Microsoft nyílt forráskódú viselkedési szabályzata
+Ez a projekt a Microsoft nyílt forráskódú [viselkedési szabályzatát vezeti be.](https://opensource.microsoft.com/codeofconduct/)
+További információért [](https://opensource.microsoft.com/codeofconduct/faq/) olvassa el a viselkedési szabályzatra vonatkozó gyakori kérdéseket, [vagy lépjen kapcsolatba opencode@microsoft.com](mailto:opencode@microsoft.com) további kérdésekkel vagy megjegyzésekkel.

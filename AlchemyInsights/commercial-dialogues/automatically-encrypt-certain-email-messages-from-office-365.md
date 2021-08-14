@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5ddaaed361f6ec934cfffb00cc62a9df2d1a04e8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746134"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988837"
 ---
 # <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Bizonyos e-mailek automatikus titkosítása az Office 365-ben
 
-1. Az [Exchange Felügyeleti központban válassza](https://outlook.office365.com/ecp/)az **e-mail-forgalom és > lehetőséget.** 
-2. Kattintson az **Új (+)** ikonra, majd az **Office 365** Üzenettitkosítás és jogvédelem alkalmazása az üzenetekre elemre.
+1. A felügyeleti [Exchange központban válassza](https://outlook.office365.com/ecp/)az **e-mail-forgalom és > lehetőséget.** 
+2. Kattintson az **Új (+)** ikonra, majd a Szövegvédelem Office 365 Üzenettitkosítás és jogvédelem alkalmazása **az üzenetekre elemre.**
 3. A **Név** formában adja meg a szabály nevét, például *Az összes üzenet titkosítása.*
 4. A **Szabály alkalmazása, ha lehetőséget** választva válassza a **[Mindegyik üzenetre] lehetőséget.** 
 5. A következő **lépés mező mellett** kattintson a Válasszon **gombra.** 
@@ -36,5 +36,5 @@ ms.locfileid: "50746134"
 > [!IMPORTANT]
 > A szabályt később is mindig módosíthatja.
 
-A titkosítási szabályok létrehozásáról további információt az E-mail-forgalom szabályainak megadása az [Office 365-ben](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) az e-mailek titkosításához
+A titkosítási szabályok létrehozásáról további információt az [E-mail-forgalom](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) szabályainak megadása az e-mailek titkosításához a Office 365
 

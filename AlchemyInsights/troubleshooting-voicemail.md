@@ -1,5 +1,5 @@
 ---
-title: 'A hangposta hibaelhárítása '
+title: 'Hangposta hibaelhárítása '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677964"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972385"
 ---
-# <a name="troubleshooting-voicemail"></a>A hangposta hibaelhárítása
+# <a name="troubleshooting-voicemail"></a>Hangposta hibaelhárítása
 
-Ügyeljen arra, hogy a foglalt elfoglalt funkció a szándékos legyen.
+Győződjön meg arról, hogy az Elfoglalt funkció szándékosan van így.
 
-Ha ez a funkció nem szükséges a felhasználónál:
+Ha a felhasználónak nincs szüksége erre a funkcióra:
 
-1. Nyissa meg a [Teams felügyeleti központot](https://admin.teams.microsoft.com/policies/calling).
-1. A bal oldali sínre való **navigáláshoz** a  >  **hanghívási házirendek**  >  **kezelése** a **hívási házirendben**.
-1. Válassza a **felhasználók kezelése** lehetőséget.
-1. A **híváskor** a felhasználó keresése és a hívási házirend módosítása egy olyanra, amely **elfoglalt állapotban van.**
+1. A Felügyeleti [Teams lapra.](https://admin.teams.microsoft.com/policies/calling)
+1. A bal oldali rácson navigáljon **a**  >  **hanghívási**  >  **házirendek kezeléséhez a** **hívási házirenden.**
+1. Válassza **a Felhasználók kezelése lehetőséget.**
+1. Keressen rá a felhasználóra, és módosítsa a hívási házirendet Olyanra, amely elfoglalt, **és hívásban Ki** **állásba van kapcsolva.**
 1. Kattintson az **Alkalmaz** gombra.
 > [!NOTE]
-> A házirendek módosításai akár 24 órát is igénybe vehetik a replikálást.
+> A házirendek módosításainak replikálása akár 24 órát is igénybe vehet.
 
-A funkcióról a következő témakörben olvashat bővebben: a foglalt [on elfoglalt funkció a hívás közben is elérhető](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+A funkcióról további információt a következőben található: Elfoglaltság hívás [közben.](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)

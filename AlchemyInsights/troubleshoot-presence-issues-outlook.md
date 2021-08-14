@@ -1,13 +1,13 @@
 ---
-title: "Jelenléti problémák elhárítása az Outlookban" ms.author: pebaum author: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (
+title: "Jelenléti problémák elhárítása a Outlook-ben" ms.author: pebaum szerző: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (
 - 9257
 - 9003349
 ---
 
-# <a name="troubleshoot-presence-issues-in-outlook"></a>Jelenléti problémák elhárítása az Outlookban
+# <a name="troubleshoot-presence-issues-in-outlook"></a>Jelenléti problémák elhárítása a Outlook
 
-A felhasználók jelenléti állapotával kapcsolatos problémák diagnosztizálásához és kijavításához az Outlookban töltse le és futtassa a Microsoft Támogatási és helyreállítási segédet a Teams > [futtatásával.](https://aka.ms/SaRA-TeamsPresenceScenario)
+A Microsoft jelenléti állapotával kapcsolatos problémák diagnosztizálásához és kijavításához töltse le és Outlook Microsoft jelenléti állapotot Támogatási és helyreállítási segéd > [Teams esetén.](https://aka.ms/SaRA-TeamsPresenceScenario)
 
-Az Outlook jelenléti problémáinak manuális elhárításához kövesse a Felhasználói jelenléti problémák az Outlookban című [témakör lépéseit.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
+A jelenléti adatokkal kapcsolatos problémák kézi Outlook kövesse A felhasználói jelenléti állapottal kapcsolatos problémák a [Outlook.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
 
-Ha a Teamsben nem frissül a jelenléti állapot, tekintse meg A tényleges jelenléti állapot nem jelenik meg [a Teamsben.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
+Ha a jelenléti állapot nem frissül a Teams lásd: A tényleges jelenléti állapot nem jelenik meg a [Teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
