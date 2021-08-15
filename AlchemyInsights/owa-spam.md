@@ -1,5 +1,5 @@
 ---
-title: Levélszemét és levélszemét kezelése a webes Outlookban
+title: Levélszemét kezelése a Webes Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 4a12668ee95aa4dd3c07b0d781a3935f69792211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd05f419fbe0ad8cc5b840d0934934aca34891c01dfb5fd258f9deba3e63ec0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982591"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>E-mail-üzenetek megjelölése levélszemétként a webes Outlookban
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>E-mailek megjelölése levélszemétként a Webes Outlook
 
-Ha levélszemétként vagy levélszemétként szeretne megjelölni egy üzenetet, jelölje ki az üzenetet az üzenetlistában, és válassza a **Levélszemét**lehetőséget  >  **Junk**.
+Ha egy üzenetet levélszemétként vagy levélszemétként jelöl meg, jelölje ki az üzenetet az üzenetlistában, és válassza **a**  >  **Levélszemét lehetőséget.**
 
-Ha egy adott e-mail-címről származó összes üzenetet le szeretné tiltani, jelölje ki az üzenetet vagy az üzeneteket az üzenetlistában, majd válassza a **Levélszemét**  >  **blokkolása**lehetőséget.
+Ha egy adott e-mail-címről minden üzenetet le akar tiltani, jelölje ki az üzenetet vagy üzeneteket az üzenetlistában, majd válassza a **Levélszemét**  >  **lehetőséget.**
 
-Ha véletlenül megjelöli az üzenetet levélszemétként, jelölje ki az üzenetet a Levélszemét mappában, és válassza a **nem levélszemét**elemet  >  **Not junk**. (*Megjegyzés:* a Levélszemét mappa elemei 30 nap elteltével törlődnek.)
+Ha véletlenül levélszemétként jelöl meg egy üzenetet, jelölje ki az üzenetet a Levélszemét mappában, és válassza a **Nem**  >  **levélszemét nem levélszemét lehetőséget.** (*Megjegyzés:* A Levélszemét mappában lévő elemek 30 nap után törlődnek.)
 
-További információ arról, hogy hogyan [segítheti a levélszemét és a levélszemét kiszűrését a Beérkezett üzenetek mappából a webes Outlookban.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+További információ arról, hogy miként tarthatja távol a levélszemetet és a levélszemetet Webes Outlook [Beérkezett üzenetek mappától.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)

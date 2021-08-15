@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Edge telepítése iOS/iPadOS vagy Android rendszerű mobiltelefonra
+title: Az Microsoft Edge telepítése iOS/iPadOS vagy Android rendszerű mobileszközökre
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005452"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>A Microsoft Edge telepítése iOS/iPadOS vagy Android rendszerű mobiltelefonra
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Az Microsoft Edge telepítése iOS/iPadOS vagy Android rendszerű mobileszközökre
 
-Az alábbiakban összefoglalt interaktív forgatókönyv segítséget nyújt a Microsoft Edge-nek az iOS, a iPadOS és az Android-eszközök felhasználóihoz való hozzárendeléséhez. A lépések elvégzése után a Microsoft Intune-házirendek a Microsoft Edge vállalati verzió alábbi funkcióit fogják engedélyezni:
+Az alábbi interaktív eset segítséget Microsoft Edge iOS, iPadOS és Android rendszerű eszközök felhasználóinak való kiosztásában. A lépések befejezése után Microsoft Intune házirendek lehetővé teszik a vállalati verzió alábbi Microsoft Edge szolgáltatásait:
 
 - Kettős identitás
-- Integráció a Microsoft Intune app védelmi házirendjével
-- Integráció az Azure Active Directory alkalmazásproxy használatával
-- A felügyelt kedvencek és a Kezdőlap billentyűparancsai
+- Integráció az Microsoft Intune alkalmazásvédelmi házirendekkel
+- Integráció az Azure Active Directory alkalmazásproxyval
+- Felügyelt kedvencek és kezdőlap parancsikonjai
 
 > [!NOTE]
-> Ha letiltotta a felhasználókat a mobileszközök regisztrálásakor, ez az irányított forgatókönyv nem fog működni, és a felhasználóknak telepíteniük kell a Microsoft Edge-et.
+> Ha letiltotta a felhasználók mobileszközökre való regisztrálását, ez az irányított forgatókönyv nem fog működni, és a felhasználóknak külön Microsoft Edge kell telepíteniük a mobileszközt.
 
-Ha a Microsoft Edge for Mobile for iOS/iPadOS vagy Android rendszert szeretne telepíteni, olvassa el a következő témaköröket:
+Az iOS Microsoft Edge/iPadOS vagy Android mobilapp telepítéséhez lásd:
 
 1. [Előfeltételek](https://go.microsoft.com/fwlink/?linkid=2133027)
 2. [Bevezetés](https://go.microsoft.com/fwlink/?linkid=2133520)
-3. [Alapjai](https://go.microsoft.com/fwlink/?linkid=2133421)
-4. [Konfigurációs](https://go.microsoft.com/fwlink/?linkid=2133521)
-5. [Hozzárendelések](https://go.microsoft.com/fwlink/?linkid=2132869)
+3. [Alapismeretek](https://go.microsoft.com/fwlink/?linkid=2133421)
+4. [Konfiguráció](https://go.microsoft.com/fwlink/?linkid=2133521)
+5. [Feladatok](https://go.microsoft.com/fwlink/?linkid=2132869)
 6. [Véleményezés és létrehozás](https://go.microsoft.com/fwlink/?linkid=2133522)

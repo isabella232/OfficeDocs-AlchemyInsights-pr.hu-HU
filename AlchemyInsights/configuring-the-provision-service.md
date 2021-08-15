@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004687"
 - "8468"
-ms.openlocfilehash: fd272f8d554d73c87b832443815c25ebb2acc3eb
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: 271ab7ad34c0f85f6f5a9d8d3dc2d901fe6fe8f978a2cc98eed986f594036f17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033280"
 ---
 # <a name="configuring-the-provision-service"></a>A Provision szolgáltatás konfigurálása
 
-A felhasználók automatikus kiépítése csak akkor működik, ha az Azure AD érvényes hitelesítő adatokkal rendelkezik, amelyek lehetővé teszik, hogy csatlakozzon a Workday Web Services API-hoz. A Workday to AD User Provisioning app Tesztkapcsolat gombja ezenkívül ellenőrzi, hogy képes-e csatlakozni az AD-tartományhoz társított Azure AD Connect Provisioning Agent szolgáltatáshoz.
+Az automatikus felhasználóbeépítéshez az Azure AD-nek érvényes hitelesítő adatokra van szüksége, amelyek lehetővé teszik, hogy csatlakozzon a Workday Web Services API-hoz. Ezenkívül az AD-felhasználó kiépítési apphoz tartozó Workday (Kapcsolat tesztelése) gomb is ellenőrzi, hogy tud-e csatlakozni az AD-tartományhoz társított Azure AD Csatlakozás Provisioning Agent szolgáltatáshoz.
 
 Ha az Azure Portal hibaüzenetet ad vissza a hitelesítő adatok mentésekor, kövesse az alábbi ajánlott lépéseket:
 
-1. Ellenőrizze, hogy konfigurálta-e a Workday Integration System felhasználói fiókját a Workday alkalmazás integrációs rendszerének felhasználóit ismertető oktatóanyag [szakaszának megfelelően.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)
-2. Győződjön meg arról, hogy az Azure AD Connect Provisioning Agent szolgáltatás a szolgáltatások felügyeleti konzolját használva működik a helyszíni Windows-kiszolgálón. Az Azure Portalon az ügynök állapotát a Helyszíni ügynökök megtekintése gombra kattintva is ellenőrizheti.
-3. Győződjön meg arról, hogy a "Workday Username" mező értékét az username@workday-tenant-name formátumban adja meg. Ha a munkanap-bérlő-név hiányzik, a Workday-hitelesítés sikertelen lesz.
-4. Ha a Workday implementációs bérlői fiókkal konfigurálja az integrációt, jegyezze fel a Workday-bérlő ütemezett állásidejét. A munkabeosztási bérlők leállását a hétvégékre (általában péntek estétől szombat reggelig) ütemezte, és a leállási időkeret csatlakozási sikertelenségei ismert problémát jelentek, amely automatikusan megoldja a problémát, amint a bérlők újra online állapotba állnak.
-5. Ritkán ez a hibaüzenet akkor is előfordulhat, ha az integrálórendszer-felhasználó jelszava megváltozott a bérlői fiók frissítése miatt, vagy ha a fiók zárolt vagy lejárt állapotban van. Ellenőrizze az integrációs rendszer felhasználójának állapotát a Workday rendszergazdájával.
+1. Győződjön meg arról, hogy konfigurálta a Workday Integration System User fiókot a [Workdayben](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)című oktatóanyag szakasznak megfelelően.
+2. Győződjön meg arról Csatlakozás hogy az Azure AD Csatlakozás Provisioning Agent Szolgáltatás működik-e a helyszíni Windows kiszolgálón a Szolgáltatások kezelése konzol használatával. Az Azure Portalon az ügynök állapotát a Helyszíni ügynökök megtekintése gombra kattintva is ellenőrizheti.
+3. Győződjön meg arról, hogy a "Workday Felhasználónév" mező értékét a username@workday-tenant-name formátumban adja meg. Ha hiányzik a workday-tenant-name (munkanap-bérlő neve) hiányzik, a Workday-hitelesítés sikertelen lesz.
+4. Ha a Workday-implementáció bérlői fiókkal konfigurálja az integrációt, jegyezze fel a Workday-bérlő ütemezett leállási órákat. A munkabeosztás bérlői webhelyének hétvégekre (általában péntek estétől szombat reggelig) ütemezett leállása, és a leállási időszakban csatlakozási hibák egy ismert probléma, amely automatikusan megoldja a bérlői webhelyet, amint a bérlői webhely újra online állapotba áll.
+5. Ritkán előfordulhat az is, hogy ez a hibaüzenet akkor jelenik meg, ha az integrálórendszer-felhasználó jelszava megváltozott a bérlői fiók frissítése miatt, vagy ha a fiók zárolt vagy lejárt állapotban van. Ellenőrizze az integrálórendszer-felhasználó állapotát a Workday rendszergazdájával.
 
-A munkanap automatikus kiépítéshez való konfigurálásával kapcsolatos további információkért lásd: A Munkanap beállítása automatikus felhasználói [kiépítéshez.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)
+A munkanap automatikus kiépítéshez való konfigurálásával kapcsolatos további részletekért lásd: Oktatóprogram: A Workday beállítása [automatikus felhasználóbeépítéshez.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)
