@@ -1,5 +1,5 @@
 ---
-title: Az adattervezési címke házirendjeinek létrehozása
+title: AIP címkei házirendek létrehozása
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,31 +10,31 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031984"
 ---
-# <a name="creating-aip-label-policies"></a>Az adattervezési címke házirendjeinek létrehozása
+# <a name="creating-aip-label-policies"></a>AIP címkei házirendek létrehozása
 
-Az Azure Information Protection (Active Information Protection) címkéi a teljes adattartományban használhatók, amelyeket egy szervezet általában a személyes adatok legalacsonyabb besorolásával hoz létre és tárol a nagyon bizalmas adatok legmagasabb besorolásához. Az Azure Information Protection házirendek az Azure Information Protection ("" Information Protection ("" ") klasszikus ügyfélprogramot, és  [nem az"](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history)e A rendszergazda-házirendben több elemet is beállíthat, például az alábbi beállításokat:
+Az Azure Information Protection(AIP) feliratai használhatók a szervezet által általában létrehozott és tárolt adatok teljes tartományával, a személyes adatok legalacsonyabb besorolása és a szigorúan bizalmas adatok legmagasabb besorolása között. Az Azure Adatvédelmi szabályzatok az Azure Information Protection(AIP) klasszikus ügyfélprogramra vonatkoznak, és nem az [AIP egyesített címkéző ügyfélre.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) Az AIP-házirendek több elemét is konfigurálhatja, többek között az alábbiakat:
 
-- Az a beállítás, amelyhez a címke tájékoztatja a rendszergazdákat vagy a felhasználók osztályozását és védelmét (nem kötelező) a dokumentumokat és e-maileket.
-- Az osztályozás kényszerítése a dokumentumok mentésekor és e-mailek küldésekor
-- Az e-mailek automatikus címkézésének lehetősége a mellékletek alapján.
-- Annak szabályozása, hogy az adatvédelemi sáv megjelenjen-e az Office-alkalmazásokban
+- Az a beállítás, amelyhez a címke lehetővé teszi a rendszergazdáknak vagy a felhasználóknak a dokumentumok és e-mailek besorolását és védelmét (nem kötelező).
+- Besorolás kényszerítését lehetővé tő beállítás, amikor a felhasználók dokumentumokat mentenek és e-mailt küldenek
+- Lehetőség az e-mailek mellékletek alapján való automatikus címkézésére.
+- Beállítás, amely azt határozza meg, hogy az Információvédelmi sáv megjelenik-e Office alkalmazásokban
 
-Az Azure Information Protection Policy szolgáltatással kapcsolatos további lehetőségekről további információt a következő témakörben talál: [Az Azure Information Protection Policy áttekintése](https://docs.microsoft.com/azure/information-protection/overview-policy).  
+Az Azure Information Protection házirendjére vonatkozó további lehetőségekről és információkért lásd: Az [Azure Information Protection házirend áttekintése.](https://docs.microsoft.com/azure/information-protection/overview-policy)  
 
-További hasznos források az alábbi cikkekben:
+Az AIP-házirendekkel kapcsolatos további hasznos forrásokért lásd:
 
-- [Oktatóanyag: az Azure Information Protection Policy beállításainak megadása és új címke létrehozása](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
-- [Az Azure Information Protection Policy konfigurálása](https://docs.microsoft.com/azure/information-protection/configure-policy)  
-- [Tartalmi címkék és a hozzájuk tartozó házirendek létrehozása és beállítása](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [Útmutatók az Azure-adatvédelemt használó gyakori forgatókönyvekhez](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Oktatóprogram: Az Azure Information Protection házirendbeállításának konfigurálása és új címke létrehozása](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [Az Azure Information Protection házirend konfigurálása](https://docs.microsoft.com/azure/information-protection/configure-policy)  
+- [Bizalmasság-címkék és házirendek létrehozása és konfigurálása](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
+- [Útmutatók az Azure Information Protection gyakori alkalmazási területeihez](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
 - [Az Azure Information Protection dokumentációjának áttekintése](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
 - [Az Azure Information Protection követelményei](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- [Rövid útmutató az Azure Information Protectionhez](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
-- [Az Azure Information Protection ügyfélprogram letöltése](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Rövid útmutató – Azure Information Protection – Oktatóanyag](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
+- [Az Azure Information Protection-ügyfél letöltése](https://www.microsoft.com/download/details.aspx?id=53018)

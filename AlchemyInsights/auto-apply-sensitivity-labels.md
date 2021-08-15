@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707236"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969294"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Bizalmasság-címkék automatikus alkalmazása
 
-A bizalmasság-címkéket a felhasználók manuálisan is alkalmazhatók a tartalomra, vagy beállíthatja, hogy automatikusan alkalmazza őket a tartalomra.
+Tartalmi címkéket manuálisan is alkalmazhatók a felhasználók a tartalomra, vagy beállíthatja, hogy automatikusan alkalmazza őket a tartalomra.
 
-A bizalmasság-címkék automatikus alkalmazása megszünteti a felhasználóknak a tartalom osztályozásának és a házirendkonfigurációkról való értesítésének a képzését.
+Tartalmi címkék automatikus alkalmazása esetén nem kell képzéseket alkalmazni a felhasználóknak a tartalom osztályozására és a házirend-konfigurációkról való értesítésre.
 
 A címkék automatikus alkalmazásához az alábbiakra van szükség:
 
 - Azure Information Protection P2-előfizetés
-- [Az Azure Information Protection egyesített címkézési ügyfélprogram letöltése és telepítése](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Az Azure Information Protection egységes címkézési ügyfélprogram letöltése és telepítése](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Dolgozunk azon a natív támogatáson, amelyhez a jövőben nem lesz szükség az Azure Information Protection egyesített címkézési ügyfélalkalmazásra.
+Dolgozunk azon a natív támogatáson, amely a jövőben nem igényli az Azure Information Protection egységes címkéző ügyfélprogramját.
 
-Jelenleg csak a Windows támogatja az egységes címkézési ügyfélprogramot.  A funkció még nem támogatott Macen, iOS-en és Androidon.
+Jelenleg csak a Windows támogatja az egyesített címkézési ügyfélalkalmazást.  A funkció Még nem támogatott Macen, iOS-en és Androidon.
 
 A tartalmi címkékről és azok tartalomra való automatikus alkalmazásával kapcsolatos további információkért lásd:
 

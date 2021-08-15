@@ -1,5 +1,5 @@
 ---
-title: Hiba történt az egyik adatfájlban, ezért az Outlooknak be kell zárnia
+title: Hiba történt az egyik adatfájlban, és Outlook be kell zárnia
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003094"
 - "5849"
-ms.openlocfilehash: 84e81baac7bbf255c6a5af5c32e3418164c49bae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dc7a6b0e052fa4b155d5617686c4e11145d074341d0c77c3cdbe75fd70692567
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986965"
 ---
-# <a name="something-is-wrong-with-one-of-your-data-files-and-outlook-needs-to-close"></a>Hiba történt az egyik adatfájlban, ezért az Outlooknak be kell zárnia
+# <a name="something-is-wrong-with-one-of-your-data-files-and-outlook-needs-to-close"></a>Hiba történt az egyik adatfájlban, és Outlook be kell zárnia
 
-Már tudunk a problémáról, és dolgozunk azon, hogy kijavítsuk azt a hibát, amely az Outlook megnyitásakor jelenhet meg
+Már tudunk a problémáról, és dolgozunk azon, hogy kijavítsuk azt a hibát, amely a megnyitáskor Outlook
 
-A kerülő megoldások legfrissebb állapotáról a Fix és kerülő megoldások a [PC-hez](https://support.microsoft.com/office/ecf61305-f84f-4e13-bb73-95a214ac1230)készült Outlook friss problémáihoz című cikkben (konkrétan a következő cikkben) olvashat: Probléma van az egyik adatfájlban, és az [Outlooknak](https://support.microsoft.com/office/a3b59934-2446-4f2a-bd25-58f88188b9b2) be kell zárnia
+A kerülő megoldások legfrissebb állapotáról a Fix and [workarounds](https://support.microsoft.com/office/ecf61305-f84f-4e13-bb73-95a214ac1230)for recent issues in Outlook for PC (Javítások és kerülő megoldások a PC-hez) című cikkből (konkrétan a következő cikkből) [olvashat:](https://support.microsoft.com/office/a3b59934-2446-4f2a-bd25-58f88188b9b2) Probléma van az egyik adatfájlban, és Outlook be kell zárnia
