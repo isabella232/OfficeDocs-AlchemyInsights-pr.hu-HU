@@ -1,5 +1,5 @@
 ---
-title: A Dynamics Server-oldali szinkronizálás ajánlott megoldásai
+title: Dynamics Server-side Sync – Ajánlott megoldások
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: 3356ba938978573274b9d41e3e73f91807baf384
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c27f5261de7724373e414fea4ce59625b1b046f444076fe11bc7c16a194464d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797910"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991861"
 ---
-# <a name="dynamics-server-side-sync-recommended-solutions"></a>A Dynamics Server-oldali szinkronizálás ajánlott megoldásai
+# <a name="dynamics-server-side-sync-recommended-solutions"></a>Dynamics Server-side Sync – ajánlott megoldások
 
-* [A portálon megjelenített részletes kiszolgálóhiba megtekintése](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Részletes kiszolgálóhiba megtekintése a portálon](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
 * [Portál alaphelyzetbe állítása](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [A kiszolgálóoldali gyorsítótár kiürítése a portálon](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [Portál kiszolgálóoldali gyorsítótárának kiürítése](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
 * [A Dynamics 365-portál célközönségének és típusának módosítása](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [A portál URL-címének módosítása](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [A portálok alap URL-címének módosítása](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Külső személyazonosság-szolgáltató beállítása a portálon](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Külső identitásszolgáltató konfigurálása portállal](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Gyakori kérdések](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [A Dynamics 365-portál – első lépések](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [A Dynamics 365 portál első lépések](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

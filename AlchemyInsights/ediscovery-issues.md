@@ -1,5 +1,5 @@
 ---
-title: 1829 – eDiscovery – problémák
+title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030427"
 ---
-# <a name="ediscovery-issues"></a>eDiscovery problémák
+# <a name="ediscovery-issues"></a>Elektronikus észlelési problémák
 
-EDiscovery lehetőségeket keres? Ha az újratervezett navigációs elem a biztonsági & megfelelőségi központban van, előfordulhat, hogy már áthelyezte a eDiscovery beállításait.  A eDiscovery az alábbi helyeken találhatja meg a biztonsági & megfelelőségi központban:
+Elektronikus elektronikus észlelési lehetőségeket keres? A Biztonsági és megfelelőségi központban található újratervezett navigációs &, előfordulhat, hogy az elektronikus adatok észlelésére vonatkozó beállítások már átkerültek.  Az elektronikus adatok észlelésére vonatkozó beállításokat az alábbi helyeken találhatja meg a Biztonsági & megfelelőségi központban az ön által elérni kívánt lépések alapján:
 
-- A tartalom keresése szolgáltatással megkeresheti a szervezetében a tartalmat e-mailben, a dokumentumokban, a Skype vállalati verzióban folytatott beszélgetésekben, majd exportálhatja az adatforrást a **keresés >-tartalom keresése**
+- A Tartalomkeresés funkcióval kereshet a szervezetében e-mailekben, dokumentumokban, Skype Vállalati verzió beszélgetésekben, majd exportálhatja az adatokat – ugrás a Keresés a > **tartalomkereséshez**
 
-- EDiscovery-eset létrehozása tartalom kereséséhez és a tartalmi helyek helyének tárolásához a **eDiscovery > eDiscovery**
+- Elektronikus adatfelkeresési eset létrehozása tartalom kereséshez és a tartalom helyének a visszatartáshoz – Ugrás a > **elektronikus** adatfelkereséshez
 
-- Az új end-to-end Advanced eDiscovery megoldással azonosíthat és kommunikálhat a gondnokokkal, megőrzi az eset szempontjából fontos információkat, gyűjtheti az adatokat, és felveheti azt egy véleményezési halmazba, és csökkentheti az adatok mennyiségét, ha Analytics segítségével kiselejtezett a szükségtelen adatokat, és a **eDiscovery > speciális eDiscovery**
+- Az új, végpontok között található Advanced eDiscovery-megoldással azonosíthatja és kommunikálhat a gondnokokkal, megőrizhatja az adott eset szempontjából releváns adatokat, adatokat gyűjthat, és hozzáadhatja őket egy véleményhalmazhoz, és csökkentheti az adatok mennyiségét a szükségtelen adatok kiszürkítő alkalmazásával, és az adott eset szempontjából legreaktívabb adatokra összpontosíthat – ugrás a elektronikus adatfeladatokat ismertető > Advanced eDiscovery 
 
 További információ:
 
-- [Tartalom keresése](https://docs.microsoft.com/microsoft-365/compliance/content-search)
+- [Tartalomkeresés](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [eDiscovery esetek a biztonsági & megfelelőségi központban](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [Elektronikus adatok észlelése a Biztonsági & megfelelőségi központban](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [A Microsoft 365 speciális eDiscovery megoldása](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscovery megoldás a Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

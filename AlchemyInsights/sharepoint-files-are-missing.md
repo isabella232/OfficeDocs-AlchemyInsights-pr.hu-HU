@@ -1,5 +1,5 @@
 ---
-title: Hiányoznak a SharePoint-fájlok
+title: SharePoint fájlok hiányoznak
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000100"
 - "7470"
-ms.openlocfilehash: e86b999f44973cbea597f6f48d9a620879bc1b34
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 583fec061c38a4270fb662a84c5f660415a0e2a2d6ac78994d9cb8d8b6b3d8b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678573"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023308"
 ---
-# <a name="sharepoint-files-are-missing"></a>Hiányoznak a SharePoint-fájlok
+# <a name="sharepoint-files-are-missing"></a>SharePoint fájlok hiányoznak
 
-Ha a OneDrive-vagy SharePoint-fájljaiban sok felhasználó törlődik, felülírja, elrontotta vagy fertőzött, a felhasználók különféle lehetőségeket nyújtanak a helyreállítási folyamatba.
+Ha a OneDrive- vagy SharePoint-fájlok nagy része törlődik, íródik felül, sérül meg vagy sérül meg, vagy kártevők fertőzöttek, számos lehetőséget biztosítunk a felhasználóknak a helyreállítási folyamat során.
 
-További információt a [hiányzó, törölt vagy sérült elemek helyreállítása a SharePoint Online-ban és a OneDrive vállalati](https://go.microsoft.com/fwlink/?linkid=2110774)verzióban című témakörben talál.
+További információt a Hiányzó, törölt vagy sérült elemek helyreállítása a SharePoint online és a [OneDrive Vállalati verzió.](https://go.microsoft.com/fwlink/?linkid=2110774)

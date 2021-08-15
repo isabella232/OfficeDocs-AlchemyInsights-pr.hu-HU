@@ -15,12 +15,12 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
-ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
-ms.translationtype: HT
+ms.openlocfilehash: f286aff794325b82679e59cd152189dc65b23e4d3c06b0b3da65851cd767bbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49528984"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030357"
 ---
 # <a name="documents-opening-in-read-only"></a>Írásvédettként megnyíló dokumentumok
 
@@ -31,7 +31,7 @@ Előfordulhat, hogy egyes fájlok megnyitásakor azok írásvédettként nyílna
 Ha az ügyfél úgy véli, hogy nem [A SharePoint-fájlok írásvédettként nyílnak meg](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out) című cikkben ismertetett rendeltetésszerű esetek egyikéről – például egy biztonságot fokozó mechanizmusról vagy egy nem módosított beállításról – van szó, alább felsorolunk néhány további gyakori megoldást arra az esetre, ha a dokumentumok írásvédett módban nyílnak meg.
 
 - Indítsa újra a számítógépet.
-- Telepítse az Office-frissítéseket.
+- Telepítse Office frissítéseket.
 - Ellenőrizze a víruskeresőt a számítógépen.
 - Győződjön meg arról, hogy a webhely az Internet Explorer Megbízható helyek zónájában van.
 - Végezze el az Office javítását.

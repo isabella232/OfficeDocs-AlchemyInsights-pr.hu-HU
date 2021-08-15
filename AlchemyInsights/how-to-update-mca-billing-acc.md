@@ -1,5 +1,5 @@
 ---
-title: Az MCA által javasolt lépésekhez rendelt értékesítési és számlázási cím frissítése
+title: A mca-fiókhoz társított számlázási és számlázási cím frissítése – ajánlott lépések
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001510"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Az MCA által javasolt lépésekhez rendelt értékesítési és számlázási cím frissítése
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>A mca-fiókhoz társított számlázási és számlázási cím frissítése – ajánlott lépések
 
-Frissítheti a Microsoft ügyfél-szerződéshez (MCA) rendelt értékesítési és számlázási címet. 
+Frissítheti a Microsoft ügyfélszerződéséhez (MCA) társított vevő- és számlázási címet. 
 
 > [!NOTE]
-> Csak egy felhasználó rendszergazdája módosíthatja az Azure Active Directory felhasználói profiljának adatait. Ha nincs hozzárendelve a rendszergazdai szerepkörhöz, forduljon a felhasználói rendszergazdájához. A felhasználói profilok módosításáról további információt a [felhasználói profil adatainak hozzáadása vagy frissítése az Azure Active Directory használatával](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)című témakörben talál.
+> Csak a felhasználó rendszergazdája tudja Azure Active Directory profiladatokat. Ha nincs megosztva a felhasználói rendszergazdai szerepkör, forduljon a felhasználói rendszergazdához. A felhasználói profil módosításáról további információt a Felhasználó profilinformációinak hozzáadása vagy frissítése [a](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)felhasználók profiladatokat a Azure Active Directory.
 
-**Feladó címe** – a címzett címzettje a számlázási fiókért felelős szervezet vagy személyek címe és elérhetőségi adatai. Megjelenik a számlázási fiókhoz generált számlákban.
+**Számlázási cím** – A számlázási cím a számlázási fiókért felelős szervezet vagy egyén címe és kapcsolattartási adatai. Ez megjelenik a számlázási fiókhoz létrehozott összes számlán.
 
-**Számlázási cím** : a számlázási cím annak a szervezetnek vagy magánszemélynek a címe, akinek a számlája a számlázási fiókban keletkezett számlákért felelős. Az MCA számlázási számlája esetén az egyes számlázási profilokhoz tartozik számlázási cím, és megjelenik a számlázási profilhoz generált számlán.
+**Számlázási cím** – A számlázási cím annak a szervezetnek vagy személynek a címe és kapcsolattartási adatai, aki felelős a számlázási fiókhoz létrehozott számlákért. Egy MCA-fiók számlázási fiókja esetén minden számlázási profilhoz megjelenik egy számlázási cím, amely a számlázási profilhoz létrehozott számlán jelenik meg.
 
-Az **MCA számlázási számlájának frissítése**:
+**McA számlázási fiók számlázási címének frissítése:**
 
-1. Bejelentkezés az Azure portálra az e-mail-cím használatával, amelynek tulajdonosa vagy közreműködői szerepköre van az MCA számlázási fiókjában.
-1. Keressen **költség-kezelési**  +  **számlázást**.
-1. Kattintson  >  **a tulajdonságok frissítése** elemre.
-1. Írja be az új címet, és kattintson a **Mentés** gombra.
+1. Jelentkezzen be az Azure Portalra annak az e-mail-címnek a használatával, amelynek tulajdonosa vagy közreműködői szerepköre van egy MCA-fiók számlázási fiókjában.
+1. Keressen a **Költségkezelés**  +  **számlázása kifejezésre.**
+1. Kattintson **a Tulajdonságok** frissítése  >  **a(a) tulajdonságra.**
+1. Írja be az új címet, és kattintson a Mentés **gombra.**
 
-Egyes fiókokban további ellenőrzésre van szükség, mielőtt a címzettek is frissíthetők. Ha a fiókja kézi jóváhagyást igényel, a rendszer kéri, hogy forduljon az Azure ügyfélszolgálatához.
+Egyes fiókok további ellenőrzést igényelnek a címük frissítése előtt. Ha fiókjához manuális jóváhagyásra van szükség, a rendszer kérni fogja, hogy lépjen kapcsolatba az Azure ügyfélszolgálatával.
 
-**Az MCA számlázási fiók címének frissítése**: 
+**McA-számlázási fiók címének frissítése:** 
 
-1. Bejelentkezés az Azure portálra az e-mail-cím használatával, amelynek tulajdonosa vagy közreműködői szerepköre van egy számlázási fiókban vagy egy MCA számlázási profiljában.
-1. Keressen **költség-kezelési**  +  **számlázást**.
-1. Kattintson a **Számlázási profilok** elemre, és válassza ki a számlázási profil kiválasztása lehetőséget a számlázási cím frissítéséhez.
-1. Kattintson a **Tulajdonságok**  >  **frissítése cím** elemre.
-1. Adja meg az új címet, majd kattintson a **Mentés** gombra.
+1. Jelentkezzen be az Azure Portalra annak az e-mail-címnek a használatával, amelynek tulajdonosa vagy közreműködői szerepköre van egy mca-fiók vagy egy mca-fiók számlázási profiljában.
+1. Keressen a **Költségkezelés**  +  **számlázása kifejezésre.**
+1. Kattintson **a Számlázási profilok** elemre, és válasszon ki egy számlázási profilt a számlázási cím frissítéséhez.
+1. Kattintson **a Tulajdonságok –** frissítés címe  >  **elemre.**
+1. Írja be az új címet, majd kattintson a Mentés **gombra.**
 
 **Ajánlott dokumentumok**
 
-[Az Azure számlázási fiók elérhetőségi adatainak módosítása](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
+[Azure számlázási fiók kapcsolattartási adatainak módosítása](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
 [Számlázási fiók beállításainak frissítése](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-[Ismerje meg a Microsoft Customer Agreement felügyeleti szerepköreit az Azure-ban](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+[A Microsoft ügyfélszerződésének rendszergazdai szerepkörei az Azure-ban](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
