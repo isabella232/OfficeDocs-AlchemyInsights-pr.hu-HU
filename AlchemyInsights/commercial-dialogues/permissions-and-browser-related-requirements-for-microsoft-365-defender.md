@@ -1,5 +1,5 @@
 ---
-title: Engedélyek és böngészővel kapcsolatos követelmények a Microsoft 365 Defenderhez
+title: Engedélyek és böngészővel kapcsolatos követelmények a Microsoft 365 Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a4f25f5cdcfefaad91f12864dfaa2e000c357716
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c28a54bb2ebdbb95c3f33bce7bb569a76d48751168189dc23cbc37390d95613f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016594"
 ---
-# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Engedélyek és böngészővel kapcsolatos követelmények a Microsoft 365 Defenderhez
+# <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Engedélyek és böngészővel kapcsolatos követelmények a Microsoft 365 Defender
 
-- Engedélyek: A Microsoft 365 Defender bekapcsolához globális rendszergazdának vagy az Azure Active Directory biztonsági rendszergazdának kell lennie. A Microsoft 365 Defendert felhasználó szerepkörök listájának megtekintése és az adatokhoz való hozzáférés szabályozásának szabályozásáról A [Microsoft 365 Defender](https://go.microsoft.com/fwlink/?linkid=2143626)elérésének kezelése.
+- Engedélyek: A Microsoft 365 Defender csak akkor kapcsolható be, ha globális vagy biztonsági rendszergazdának Azure Active Directory. A felhasználók hozzáférésének kezelése Microsoft 365 Defender, illetve az adatokhoz való hozzáférés szabályozásának [Microsoft 365 Defender.](https://go.microsoft.com/fwlink/?linkid=2143626)
 
-- Böngészővel kapcsolatos követelmények: A Microsoft 365 Defender Microsoft 365 Biztonsági központban való eléréséhez használja a Microsoft Edge böngészőt, az Internet Explorer 11-et vagy bármilyen 5-ös HTML-kompatibilis webböngészőt.
+- Böngészővel kapcsolatos követelmények Microsoft 365 Defender: Az Microsoft 365 biztonsági központjában az Microsoft Edge, az Internet Explorer 11 vagy bármilyen 5-ös HTML-kompatibilis webböngésző használatával férhet hozzá az Microsoft 365-fájlokhoz.

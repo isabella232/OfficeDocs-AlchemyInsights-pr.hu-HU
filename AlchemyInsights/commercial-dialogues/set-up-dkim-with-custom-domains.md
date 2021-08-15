@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: c448956f0dad0738f4de7507ec4686c738a90a55
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bb19f0672a21ea8b99c433ad83db4d89536c9a1705245fd2a683471170ab51ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994817"
 ---
 # <a name="set-up-dkim-with-custom-domains"></a>DKIM beállítása egyéni tartományokkal
 
@@ -34,6 +34,6 @@ Points to address or value:    selector2-<domainGUID>._domainkey.<initialDomain>
 TTL:                3600
 ```
 > [!NOTE]
-> **A DomainGUID** az egyéni **tartományhoz** (például contoso-com az egyéni tartományhoz) a .mail.protection.outlook.com egyéni MX rekordban bal **oldali contoso.com).** **A InitialDomain** az a tartomány, amit az Office 365-re való feliratkozáskor **használt (például** contoso.onmicrosoft.com).
+> **A DomainGUID** az egyéni **tartományhoz** (például contoso-com az egyéni tartományhoz) a .mail.protection.outlook.com egyéni MX rekordban bal **oldali contoso.com).** **A InitialDomain** az a tartomány, amely a Office 365 (például a **contoso.onmicrosoft.com)** contoso.onmicrosoft.com.
 
-A DNS-rekordokról további információt a DNS-rekordok létrehozása bármely DNS-szolgáltatónál az [Office 365 szolgáltatáshoz](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)című cikk tartalmaz.
+A DNS-rekordokról a [DNS-rekordok](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)létrehozása bármely DNS-szolgáltatónál című Office 365.

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038114"
 ---
 # <a name="upn-sync-disabled"></a>Upn sync disabled
 
@@ -27,6 +27,6 @@ Ha 2016. március 30. előtt kezdte el a szinkronizálást az Azure AD-be, az al
   
 Az upn szoftveres egyezés automatikusan be van kapcsolva az Azure AD-re 2016. március 30-án vagy azt követően szinkronizáló szervezeteknél.
   
-A szoftveres egyezés UPN-hez és más szinkronizálási funkciókhoz való engedélyezéséről további információt Az Azure AD Connect szinkronizálási szolgáltatás [szolgáltatásairól olvashat.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
+Ha szeretne többet megtudni a szoftveres egyezés upn-hez és más szinkronizálási funkciókhoz való engedélyezéséről, olvassa el az [Azure AD Csatlakozás szinkronizálási szolgáltatás funkcióit.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

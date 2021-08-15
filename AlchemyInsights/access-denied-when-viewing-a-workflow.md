@@ -1,5 +1,5 @@
 ---
-title: Hozzáférés megtagadva egy munkafolyamat megtekintésekor
+title: Access denied when viewing a Workflow
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b076ec5dca070555ce51b88631fb6bd619ed9269e59ccc799b23b8b95547c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955203"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Hozzáférés megtagadva egy munkafolyamat megtekintésekor
+# <a name="access-denied-when-viewing-a-workflow"></a>Access denied when viewing a Workflow
 
-A SharePoint-csoportokba érkező e-mailek küldését megkísérlő SharePoint-2013-munkafolyamatok "hozzáférés megtagadva" hibaüzenettel jelenhetnek meg, ha a SharePoint-csoport tagsága nincs mindenki számára beállítva.
+SharePoint 2013-as munkafolyamatok, amelyek e-mailt próbálnak küldeni egy SharePoint-csoportnak, sikertelen lehet "Hozzáférés megtagadva" hibaüzenettel, ha a SharePoint-csoport tagsága nincs Mindenki beállításra állítva.
   
- **A probléma megoldásához hajtsa végre az alábbi lépéseket:**
+ **A probléma megoldásához kövesse az alábbi lépéseket:**
   
- 1. Engedélyezze mindenki számára a SharePoint-csoport tagjainak a megjelenítését.
+ 1. Mindenki láthatja a csoport SharePoint tagokat.
   
- 2. Távolítsa el a SharePoint-csoportot az e-mail Címzett vagy másolatot kap sorából.
+ 2. Távolítsa el SharePoint címzettcsoportot az e-mail Címzett vagy Másolatot kap sorában.
   
- 3. Ha a tagság láthatósága nem módosítható a SharePoint-csoportban, explicit módon adja hozzá a felhasználókat a címzett vagy a másolatot kap sorban.
+ 3. Vegye fel kifejezetten a felhasználókat a Címzett vagy a Másolatot kap sorba, ha a tagság láthatósága nem módosítható SharePoint csoportban.
   
-Ha további részleteket szeretne megtudni, olvassa el a [http – jogosulatlan _vti_bin/Client.SVC/SP.Utilities.Utility.sendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+További részletekért olvassa el a [HTTP: /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)) címet.
   

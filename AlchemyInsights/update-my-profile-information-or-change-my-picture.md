@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c6155eb09a4051b145cd1002c7be3a811e6e1224d88daf48dccbb4e059475081
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038186"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Profilinformációk frissítése vagy saját kép módosítása
 
-Jelenleg nem lehet közvetlenül az iOS Outlookból szerkeszteni és frissíteni a profiladatokat, másutt azonban igen. 
+Jelenleg nem lehet közvetlenül az iOS rendszerből szerkeszteni és frissíteni a profiladatokat Outlook, de másutt is szerkeszthetők. 
 
-A profilját a Windows Outlookban vagy a Webes Outlookban (OWA) is frissíti. 
+A profilt a webes Outlook Windows vagy Outlook (OWA) webhelyen is frissíti. 
 
-**Windows Outlook:** 
+**Outlook a Windows:** 
 
-- **Fájl**  >  **Office-fiók**  >  **Felhasználói adatok**  >  **Rólam** (a Microsoft 365-profil online megjelenítése) > profil frissítése **vagy** a kamera ikonra kattintva módosíthatja a fényképet  
+- **Fájl**  >  **Office fiók**  >  **Felhasználói adatok**  >  **Rólam** (a profil online Microsoft 365 megjelenik) > **profil** frissítése vagy a kamera ikonra kattintva módosíthatja a fényképet  
   
-**Webes Outlook (OWA)**: 
+**Outlook (OWA) webhelyen:** 
 
 - **Profilkép**  >  **Saját profil**  >  **Profil frissítése**
