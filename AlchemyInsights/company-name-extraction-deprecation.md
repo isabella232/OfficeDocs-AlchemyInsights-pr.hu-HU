@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 15943bdc6e8d69e6a48cc0dd081afdee150e95a34823657156fd9abe111824d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978775"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Változások a cégnév kinyerésében a SharePoint Online-ban
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>Changes to company name extraction in SharePoint Online
 
-2019. november 15-től eltávolítjuk a cégnév kinyeréséből a [SharePoint Online-ból.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) A SharePointban a cégnév kinyerése lehetővé teszi a keresőrendszernek, hogy előre kitöltett szótár vagy a Vállalat kizárása lista használatával előre megadott feltételek alapján kinyerje a cégneveket a tartalmakból. Míg a cégnév kinyerése egy vagy több cégnév SharePoint Online-tartalomból való kinyerése lett, a szótár és a mögöttes szolgáltatáskészlet elavulttá vált.
+2019. november 15-től eltávolítjuk a cégnév kinyeréséből az SharePoint [webhelyről.](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online) A vállalatnév kinyerése a SharePoint lehetővé teszi a keresőrendszernek, hogy előre kitöltett szótár használatával vagy a vállalat felvételét vagy a vállalat kizárási listáit használva adott feltételek alapján kinyerje a cégneveket a tartalmakból. Míg a cégnév kinyerése egy vagy több cégnévnek az SharePoint Online-nak a tartalmából való kinyerése lett, a szótár és a mögöttes funkciókészlet elavulttá vált.
 
 - [Honnan tudom, hogy engedélyezve van-e a cégnév kinyerése egy tulajdonsághoz?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 

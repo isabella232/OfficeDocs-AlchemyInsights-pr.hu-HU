@@ -1,5 +1,5 @@
 ---
-title: Az iOS-gyűjtők tanúsítványigénylési alapszabálya
+title: Regisztrációs alapszabály iOS-gyűjtőben
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030058"
 ---
-# <a name="intune-device-enrollment"></a>Intune-eszközök tanúsítványigénylése
+# <a name="intune-device-enrollment"></a>Intune Eszköz regisztrálása
 
-[Az eszközök tanúsítványigénylése az Intune szolgáltatással](https://docs.microsoft.com/intune/enrollment/device-enrollment)
+[Ismerkedés az Intune eszközregisztrációval](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[IOS-eszközökre való feliratkozás beállítása a Intune szolgáltatással](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Az iOS-eszközök beléptetésének beállítása az Intune-nal](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Az Android-eszközökre való feliratkozás beállítása a Intune szolgáltatással](https://docs.microsoft.com/intune/android-enroll)
+[Androidos eszközregisztrálás beállítása az Intune-nal](https://docs.microsoft.com/intune/android-enroll)
 
-[A Windows-eszközök tanúsítványigénylésének beállítása a Intune segítségével](https://docs.microsoft.com/intune/windows-enroll)
+[Eszközregisztrációs Windows beállítása az Intune-nal](https://docs.microsoft.com/intune/windows-enroll)
 
-Az eszközök tanúsítványigénylésének hibaelhárítása
+Eszközregisztrációs hibák elhárítása
 
-1. Az [Intune hibaelhárítási portálján](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)megkeresheti   és megoldhatja a gyakori beiktatási hibákat. További részletekért tekintse át [ezt a dokumentumot](https://docs.microsoft.com/intune/help-desk-operators) .
+1. Az [Intune hibaelhárítási portálján diagnosztizálhatja](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) és megoldhatja a gyakori regisztrációs hibákat. További [részleteket ebben](https://docs.microsoft.com/intune/help-desk-operators) a dokumentumban talál.
 
-2. Tekintse át ezeket a dokumentumokat a beiratkozást és a felbontást akadályozó gyakori hibák listáját:
+2. Az alábbi dokumentumokban áttekintheti azokat a gyakori hibákat, amelyek megakadályozzák a regisztrációt és a megoldást:
     - [Hibaelhárítási útmutató](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - A [dokumentum hibaelhárítása](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)
+    - [Dokumentum hibaelhárítása.](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)

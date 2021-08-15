@@ -1,5 +1,5 @@
 ---
-title: 8000049 beszélgetés a családdal és a barátokkal a Skype-on az Outlook.com-on
+title: 8000049 a Skype.com webhelyen beszélget Outlook ismerőseivel
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
-ms.openlocfilehash: e6eaf11337a580395a116e8f4a8efee799c6094a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f1f7e8d0aa59fa3951ae9b3b974a42935976dbff1fbeda7d58fcc52bb39de98a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956733"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Beszélgetés a családdal és a barátokkal a Skype-ban az Outlook.com-on
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>A Skype.com webhelyen Outlook beszélhet Outlook ismerőseivel
 
-A Skype-ban a csevegéshez, a hang-és Outlook.com a Skype-ban a csevegéshez, a hang-és videofájlok megtekintéséhez használható. A [Microsoft-és a Skype-fiókok egyesítése](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)során automatikusan hozzáférhet a webes Skype-hoz a Outlook.com.
+Outlook.com-on az ügyfelek beszélgethetnek barátaival és családtagjaival a csevegési, hang- és videós Skype. A [Microsoft-](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409)és Skype-fiókok egyesítésekor a Skype-on automatikusan elérheti a webes Outlook.com webhelyen.
   
-További információ arról, hogy miként [beszélgethet a családdal és a barátokkal a Skype-on az Outlook.com-on](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+A Outlook.com webhelyen további információt olvashat arról, hogy miként Skype [a családtagjaival és Outlook.](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409)
   
 

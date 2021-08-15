@@ -1,5 +1,5 @@
 ---
-title: Egyszerű szolgáltatásnév kezelése a Microsoft Graph API-val
+title: A Microsoft Graph API használata egyszerű szolgáltatásnév kezelésére
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7848"
-ms.openlocfilehash: 88e621904c54cbe3c566b9fb3c65e06c235dc766
-ms.sourcegitcommit: eab164189ef0b542b24d9ff553196a721464b9c4
+ms.openlocfilehash: 0675de17be1738da65017bb61043211113b62ba758751ca75ea4926683006e38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49949873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038006"
 ---
-# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Egyszerű szolgáltatásnév kezelése a Microsoft Graph API-val
+# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>A Microsoft Graph API használata egyszerű szolgáltatásnév kezelésére
 
-Az egyszerű [szolgáltatás API-val](https://docs.microsoft.com/graph/api/resources/serviceprincipal)programozással kezelheti az alkalmazások példányait, és szabályozhatja, hogy egy alkalmazás mire használhatja a bérlői webhelyét.
+Az egyszerű [szolgáltatás API-val](https://docs.microsoft.com/graph/api/resources/serviceprincipal)programozással kezelheti az alkalmazások példányait, és szabályozhatja, hogy egy alkalmazás mire képes a bérlői webhelyen belül.
 
-Az alkalmazások és a szolgáltatásnév közötti kapcsolatról további információt az Azure Active Directoryban található alkalmazások és egyszerű [szolgáltatásobjektumok tartalmaznak.](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)
+Az alkalmazások és a szolgáltatásnévsok közötti kapcsolatról további információt az alkalmazások és a szolgáltatásnév egyszerű objektumai [a](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)Azure Active Directory.

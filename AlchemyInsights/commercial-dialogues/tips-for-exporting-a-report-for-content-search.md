@@ -1,5 +1,5 @@
 ---
-title: Tippek a tartalomkeresési jelentések exportálására
+title: Tippek tartalomkeresésről szóló jelentés exportálása
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482119"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978883"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Tippek a tartalomkeresési jelentések exportálására
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Tippek tartalomkeresésről szóló jelentés exportálása
 
-Előfordulhat, hogy a teljes találatok exportálása helyett egy tartalomkeresésről szóló jelentést kell megtekintenie. Ha igen, exportálhatja csak a találatok jelentését. Íme néhány tipp:
+Előfordulhat, hogy a teljes keresési eredmény exportálása helyett meg kell tekintenie egy tartalomkeresésről szóló jelentést. Ha igen, exportálhatja csak a keresési eredményekről szóló jelentést. Íme néhány tipp:
 
 - Győződjön meg arról, hogy fiókjához hozzá van rendelve a Megfelelőségi keresés kezelési szerepkör.
-- Győződjön meg arról, hogy számítógépe megfelel az összes [előfeltételnek.](https://go.microsoft.com/fwlink/?linkid=2102407) Nem minden böngésző támogatott, például a Chrome.
-- Az exportálási eredményeket szűkítse 20 TB-re, hogy az exportálás ne sikertelenül úsa meg. Próbáljon kisebb dátumtartományt vagy kevesebb keresési helyet használni.
-- A jelentések exportálása beleszámol az egyidejűleg futtatható jelentések maximális számában.
+- Győződjön meg arról, hogy a számítógép megfelelt [az összes előfeltételnek.](https://go.microsoft.com/fwlink/?linkid=2102407) Nem minden böngésző támogatott, például a Chrome.
+- Az exportálási eredményeket szűkítse 20 TB-nél kisebbre, hogy az exportálás ne meghiúsuljon. Próbáljon meg kisebb vagy kevesebb keresési helyet használni.
+- A jelentések exportálása összeszámolhatja az egyidejűleg futtatható jelentések maximális számát.
 
 További információ: [Tartalomkeresési jelentés exportálása](https://go.microsoft.com/fwlink/?linkid=2102409)

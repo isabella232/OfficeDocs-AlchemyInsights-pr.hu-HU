@@ -1,5 +1,5 @@
 ---
-title: Csoportok kezelése a Microsoft Graph API-val
+title: Csoportok kezelése Graph Microsoft Graph API-val
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7847"
-ms.openlocfilehash: ef5f5002aa2d624a586dab7b5b5b1ae7b73962ba
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 95c3b2344a125a63740f7b365f6b43c99098b337aaf6a72086786ce6a7cb505d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49949828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038042"
 ---
-# <a name="use-microsoft-graph-api-to-manage-groups"></a>Csoportok kezelése a Microsoft Graph API-val
+# <a name="use-microsoft-graph-api-to-manage-groups"></a>Csoportok kezelése Graph Microsoft Graph API-val
 
-A csoportok felhasználói és más, a Microsoft-szolgáltatásokban vagy az Ön alkalmazásában erőforrásokhoz hozzáférő felhasználók és más egyszerűk gyűjteményei. A Microsoft Graph API-kat biztosít, amelyek a különböző típusú csoportok és csoportfunkciók létrehozásához és kezeléséhez használhatók az Ön forgatókönyve szerint. A Microsoft Graphban a csoportokkal kapcsolatos összes művelethez rendszergazdai jóváhagyásra van szükség. További információ: [Csoportok kezelése a Microsoft Graphban.](https://docs.microsoft.com/graph/api/resources/groups-overview)
+A csoportok olyan felhasználók és más igazgatók gyűjteményei, akik erőforrásokhoz férnek hozzá az Microsoft-szolgáltatások vagy az appban. A Microsoft Graph API-k használatával különböző típusú csoportokat és csoportfunkciókat hozhat létre és kezelhet az esetnek megfelelően. A Microsoft Graph csoportokkal kapcsolatos összes művelethez rendszergazdai hozzájárulásra van szükség. További információt a Csoportok kezelése [a Microsoft Graph.](https://docs.microsoft.com/graph/api/resources/groups-overview)
