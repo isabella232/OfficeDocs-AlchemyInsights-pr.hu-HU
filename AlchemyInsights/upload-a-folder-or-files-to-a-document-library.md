@@ -1,5 +1,5 @@
 ---
-title: Mappa vagy fájlok feltöltése egy dokumentumtárba
+title: Mappa vagy fájlok feltöltése dokumentumtárba
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 3a9dd0c1ec89c6df65e92f46740b646bd73ed9e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7f954d85a6b682a5e683e7216b71e694e8013e9a6145b9c7f119d3b2a5b78965
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990637"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Mappa vagy fájlok feltöltése SharePoint-dokumentumtárba
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Mappa vagy fájlok feltöltése SharePoint dokumentumtárba
 
-Mappa feltöltéséhez a Microsoft Edge, a Google Chrome vagy a Mozilla FireFox böngészőt kell használni. A klasszikus tár felületén nem lehet mappákat feltölteni, vagy az Internet Explorer 10-es vagy 11-es verzióját használja.
+Mappa feltöltése a Microsoft Edge, a Google Chrome vagy a Mozilla FireFox használatával. Nem tölthet fel mappákat a klasszikus tárban, illetve nem használhatja a Internet Explorer 10 vagy 11 nézetet.
   
-1. Nyissa meg azt a dokumentumtárat, amelybe mappát vagy fájlokat szeretne feltölteni.
+1. Nyissa meg azt a dokumentumtárat, ahová mappát vagy fájlokat szeretne feltölteni.
     
-2. Nyissa meg a fájlkezelőt a számítógépen, és keresse meg a feltölteni kívánt mappát vagy fájlokat.
+2. Nyissa meg a Fájlkezelőt a számítógépen, és keresse meg a feltölteni kívánt mappát vagy fájlokat.
     
-3. Húzza a mappát vagy a fájlokat a dokumentumtárba. Ha a feltöltött elemek nem láthatók a tárban, frissítse a lapot. 
+3. Húzza a mappát vagy fájlokat a dokumentumtárba. Ha nem látja a feltöltött elemeket a tárban, frissítse a lapot. 
     
-Ha nem szeretne feltölteni a Windows-elemek közötti húzással, a dokumentumtár **feltöltés** gombjával is kijelölheti a feltölteni kívánt mappát vagy fájlokat. 
+Ha nem szeretné az elemeket az ablakok közötti húzással feltölteni, a dokumentumtár Feltöltés gombját használva is kiválaszthatja a feltölteni kívánt mappát vagy fájlokat.  
   
 

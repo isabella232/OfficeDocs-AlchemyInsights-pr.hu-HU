@@ -1,5 +1,5 @@
 ---
-title: A Skype Outlook.com eltávolítása
+title: Outlook.com Webhely Skype
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 03a866ac063d6136a5069b22216a9f3bf43a1202f9020f16ac5edb7cf89ce9ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962097"
 ---
-# <a name="skype-icon-missing"></a>Hiányzik a Skype ikon
+# <a name="skype-icon-missing"></a>Skype ikon hiányzik
 
-Ideiglenesen eltávolította a Skype-ikont a Outlook.com-ból a tervezési frissítés és a frissítés funkció részeként. Nagyra értékeljük a türelmét, miközben új és továbbfejlesztett tapasztalatokat készítünk Önnek.
+Egy tervezési frissítés és funkciófrissítés részeként átmenetileg eltávolítottuk Skype Outlook.com webhelyről, és izgatottan várjuk a megjelenést. Nagyra értékeljük a türelmét, miközben új és továbbfejlesztett élményt készítünk elő Önnek.
 
-A Skype-ot a böngészőben is használhatja a [web.skype.com](https://web.skype.com/)-on.
+A böngészőből továbbra is Skype használhatja a [web.skype.com.](https://web.skype.com/)
