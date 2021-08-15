@@ -1,5 +1,5 @@
 ---
-title: Feltételes hozzáférés a Intune szolgáltatással
+title: Feltételes hozzáférés Intune-nal
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,18 +8,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 8070c4aa9483ed5baed558457e09190ccd88dcd2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f691e626b9deabb59b909e75221d684a2d133ac6c8949deb148b5646c0d117c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966219"
 ---
 # <a name="conditional-access"></a>Feltételes hozzáférés
 
-A feltételes hozzáférés az Azure Active Directory egyik funkciója. A feltételes hozzáférés alkalmazásával automatizált hozzáférés-vezérlési döntéseket hozhat létre a feltételeken alapuló felhőalapú alkalmazások eléréséhez. További információt a [helyekre épülő házirendek beállítása](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)című témakörben találhat.
+A feltételes hozzáférés a feltételes hozzáférés Azure Active Directory. A feltételes hozzáféréssel automatizált hozzáférés-vezérlési döntéseket hozhat a feltételeken alapuló felhőalkalmazások eléréséhez. További információt A házirendek konfigurálása Location-Based oldalon [található.](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)
 
-IT-rendszergazdaként a SharePoint-és OneDrive-erőforrásokhoz való hozzáférést a meghatározott hálózati helyek vagy a megbízható eszközök alapján is szabályozhatja. További információkat az alábbi hivatkozásokon talál.
+Rendszergazdaként szabályozhatja a megbízható hálózati helyeken vagy eszközökön SharePoint OneDrive erőforrásokhoz való hozzáférést is. További információkat az alábbi hivatkozásokon talál.
 
 - [A SharePoint Online és a OneDrive adataihoz való hozzáférés vezérlése hálózati helyek alapján](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 

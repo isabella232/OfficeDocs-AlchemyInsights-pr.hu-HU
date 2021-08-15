@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Search telepítése a Bing bővítményben a Google Chrome-ban
+title: Az Microsoft Keresés Bing a Google Chrome-ban
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9262"
-ms.openlocfilehash: 25126eda542beeb51d86b812e60795fcc9c78df2
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a313ee2188c9581d8db5174b0640e32e55b619286f11f79d1a0293b66cc7c374
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014614"
 ---
-# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>A Microsoft Search telepítése a Bing bővítményben a Google Chrome-ban
+# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Az Microsoft Keresés Bing a Google Chrome-ban
 
-A Microsoft Search Bing-bővítmény Google Chrome-ban való telepítéséhez tegye a következőket:
+Ha telepíteni Microsoft Keresés a Bing a Google Chrome-ban, tegye a következőket:
 
 1. Győződjön meg arról, hogy az eszköz megfelel [a](https://go.microsoft.com/fwlink/?linkid=2152236) bővítmény telepítésére vonatkozó feltételeknek.
-2. A Microsoft 365 Felügyeleti központ **Microsoft Keresés** szakaszában a megfelelő beállítások meg konfigurálásával jelentkezzen be a bővítmény telepítéséhez.
-3. A felhasználó eszközén telepítse a Microsoft Search háttérszolgáltatását a Bingben. Ez a háttérszolgáltatás a Nagyvállalati Microsoft 365-alkalmazások része.
+2. A bővítmény telepítéséhez konfigurálja a megfelelő beállításokat a bővítmény Microsoft Keresés **szakaszában** Microsoft 365 Felügyeleti központ.
+3. A felhasználó eszközén telepítsen egy háttérszolgáltatást a Microsoft Keresés a Bing. Ez a háttérszolgáltatás a Nagyvállalati Microsoft 365-alkalmazások.
 
-További információt a Hogyan telepíthető a Microsoft Search bővítmény a [Google Chrome-hoz a Bing bővítményben?](https://go.microsoft.com/fwlink/?linkid=2150992)
+További információért lásd: Hogyan telepíthető Microsoft Keresés Google Chrome Bing [bővítménye?](https://go.microsoft.com/fwlink/?linkid=2150992)
