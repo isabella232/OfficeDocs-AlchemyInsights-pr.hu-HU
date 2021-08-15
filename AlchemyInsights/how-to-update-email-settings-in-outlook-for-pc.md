@@ -1,5 +1,5 @@
 ---
-title: E-mail-beállítások frissítése a PC-s Outlookban
+title: E-mail beállítások frissítése a Outlook PC-n
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 7b98d6d7fcc3b8b59207c868c606730828d677c8
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976975"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>E-mail-beállítások frissítése a PC-s Outlookban
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>E-mail beállítások frissítése a Outlook PC-n
 
-1. Nyissa meg az Outlookot, és válassza a **fájl > Fiókbeállítások lehetőséget > a Fiókbeállítások** lehetőséget.
+1. Nyissa meg Outlook fájlt, és válassza a **Fájl > fiók Gépház > fiókfiók Gépház.**
 
-2. Jelölje ki a módosítani kívánt e-mail-fiókot, majd kattintson a **módosítás** gombra. 
+2. Jelölje ki a módosítani kívánt e-mail-fiókot, és kattintson a Módosítás **gombra.** 
 
-3. A **Beállítások** lapon szükség szerint frissítse a bejövő és a kimenő kiszolgáló nevét, az e-mail-címét, a nevét, a felhasználónevét és a jelszavát. Ha módosítania kell az SSL-beállításokat vagy a portbeállítások beállítást, kattintson a **További beállítások** gombra. A legáltalánosabb beállítások a **Kimenő levelek kiszolgálója** lapon és a **speciális** lapon találhatók.
+3. A **Gépház** szükség szerint frissítse a bejövő és a kimenő levelek kiszolgálójának nevét, e-mail címét, nevét, felhasználónevét és jelszavát. Ha módosítania kell az SSL-beállításokat vagy a portbeállításokat, kattintson a További beállítások **Gépház.** A leggyakoribb frissíthető beállítások a Kimenő levelek kiszolgálója **és** a Speciális **lapon** találhatóak.
 
-4. Ha problémái vannak az e-mailek küldésével vagy a kimenő levelek kiszolgálójának üzeneteivel, győződjön meg arról, hogy a **Kimenő levelek kiszolgálója (SMTP) hitelesítést kér** jelölőnégyzet be van jelölve.
+4. Ha problémákat tapasztal az e-mailek küldésekor, vagy ha a kimenő levelek kiszolgálója adatokat fogad, ellenőrizze, hogy be van-e jelölve A kimenő üzenetek kiszolgálója **(SMTP)** hitelesítést igényel jelölőnégyzet.
 
-5. Ha frissítenie kell a bejövő vagy kimenő kiszolgáló portjait vagy SSL-beállításait, lépjen a **speciális** lapra, és végezze el a kívánt módosításokat.
+5. Ha frissítenie kell a bejövő vagy kimenő kiszolgáló portját vagy az SSL-beállításokat, a Speciális lapon adja meg a kívánt módosításokat. 
 
 > [!NOTE]
-> **AOL-és Verizon-ügyfelek esetén**: a **bejövő és a kimenő levelek kiszolgálójának** legördülő listában válassza az **SSL/TLS** lehetőséget, és az 2017 november 7-én továbbra is küldhet és fogadhat e-maileket.
+> **AOL- és Verizon-ügyfelek** esetén: Az **SSL/TLS** kiválasztása a Bejövő és kimenő kiszolgáló titkosított kapcsolatai legördülő listában gondoskodik arról, hogy 2017. november 7. után is képes e-maileket küldeni és fogadni. 
 
-6. Ha befejezte a beállítások frissítését, kattintson **az OK**, majd a **tovább**, végül a **Befejezés** gombra.
+6. Ha végzett a beállítások frissítésével, kattintson az **OK**, majd a Tovább **,** végül a Befejezés **gombra.**
 
 

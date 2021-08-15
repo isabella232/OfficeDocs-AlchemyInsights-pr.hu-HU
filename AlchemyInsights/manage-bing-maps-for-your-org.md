@@ -1,5 +1,5 @@
 ---
-title: A Bing Maps kezelése a szervezetben
+title: Szervezet Bing Térképek kezelése
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9161"
-ms.openlocfilehash: c90afb1ea6664e8ef402981e70fe7c2bc8f07108
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c1050208403f708db8ad557f70d7b23d5ea0f44ae9f2da76b37ead2b9b90436e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746987"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976687"
 ---
-# <a name="manage-bing-maps-for-your-organization"></a>A Bing Maps kezelése a szervezetben
+# <a name="manage-bing-maps-for-your-organization"></a>Szervezet Bing Térképek kezelése
 
-Miután bekapcsolta a  Bing Mapset a Power Platform Felügyeleti központ Beágyazott tartalom lapja alatt, a felhasználók a Bing Mapsben láthatják az ügyfelet a partnerek, érdeklődők vagy fiókok megtekintésekor.
+Miután bekapcsolta a Bing Térképek  a Power Platform Felügyeleti központ Beágyazott tartalom lapja alatt, a felhasználók a Bing Térképek, érdeklődők vagy fiókok megtekintésekor láthatják az ügyfelet.
 
-További információt A Bing Térképek kezelése [a szervezetben .](https://go.microsoft.com/fwlink/?linkid=2152757)
+További információt a Szervezeten [Bing Térképek olvashat.](https://go.microsoft.com/fwlink/?linkid=2152757)

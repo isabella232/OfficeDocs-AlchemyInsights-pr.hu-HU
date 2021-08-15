@@ -1,6 +1,6 @@
 ---
 ms.author: pebaum
-title: Az Outlook-névjegyek megjegyzései nem szerkeszthetők
+title: Outlook a partner jegyzetek nem szerkeszthetők
 author: pebaum
 manager: joallard
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000185
 ms.assetid: ''
-ms.openlocfilehash: 114c0b3765bf6f09c4368fd51e34509672d54c56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e518c10622b1bc07524d0393b1f04d67017dfe31209ed5d1e8283b7fc14917b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991969"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Nem szerkesztheti a partnerek jegyzetek mezőjét az Outlookban
-Ez egy ismert probléma. Dolgozunk a javításon, és az állapot frissülni fog a [partnerek jegyzetek mezőjében](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>Nem lehet szerkeszteni egy névjegy jegyzetmezőét a Outlook
+Ez egy ismert probléma. Folyamatosan dolgozunk a probléma megoldásán, és az állapot a Nem szerkeszthető a névjegy jegyzeteket mezőjében [lesz frissítve.](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)
 
-**Kerülő megoldás**: ha Microsoft 365-vagy Outlook.com-fiókot használ, a névjegyeket a webes segítségével szerkesztheti. IMAP-vagy POP-fiók használata esetén jelenleg nincs kerülő megoldás.
+**Kerülő** megoldás: Ha Microsoft 365 vagy Outlook.com-fiókot használ, a névjegyeket az interneten keresztül szerkesztheti. IMAP- vagy POP-fiók használata esetén jelenleg nincs megkerülő megoldás.

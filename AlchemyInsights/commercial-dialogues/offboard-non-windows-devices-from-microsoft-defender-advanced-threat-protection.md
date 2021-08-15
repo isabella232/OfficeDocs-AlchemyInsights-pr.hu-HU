@@ -1,5 +1,5 @@
 ---
-title: Nem Windows rendszerű eszközök kitáblája a Microsoft Defender Komplex veszélyforrások elleni védelem (ATP) alkalmazásból
+title: Offboard non-Windows devices from Microsoft Defender Advanced Threat Protection (ATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 435957c555cd80155a985a49bd94b041a4ada31d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fbaab348e06691b73db68492a0083c4a5a54c4504e03d27ec53f2a9f5047266d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967803"
 ---
-# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Nem Windows rendszerű eszközök kitáblája a Microsoft Defender Komplex veszélyforrások elleni védelem (ATP) alkalmazásból
+# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard non-Windows devices from Microsoft Defender Advanced Threat Protection (ATP)
 
 Ezt a következőképpen teheti meg:
 
 1. A harmadik féltől származó megoldás Microsoft Defender ATP-től való leválasztása érdekében kövesse a külső gyártó dokumentációját.
-2. Az Azure Active Directory bérlői webhelyről távolítsa el a külső megoldás engedélyét:
+2. A bérlői Azure Active Directory távolítsa el a külső megoldás engedélyét:
 
-    1. Jelentkezzen be az [Azure Portalba.](https://go.microsoft.com/fwlink/?linkid=2125612)
-    1. Válassza **a Minden**  >  **szolgáltatás: Azure Active Directory**  >  **Nagyvállalati alkalmazások lehetőséget.**
+    1. Jelentkezzen be az [Azure portálra](https://go.microsoft.com/fwlink/?linkid=2125612).
+    1. Válassza **a Minden szolgáltatás Azure Active Directory**  >    >  **Nagyvállalati alkalmazásokban lehetőséget.**
     1. Jelölje ki azt az alkalmazást, amelyről ki szeretné választani a táblát.
     1. Válassza a **Törlés gombot.**
 
-További információért olvassa el a Nem Windows rendszerű eszközök [ki vannak kapcsolva.](https://go.microsoft.com/fwlink/?linkid=2143630)
+További információért olvassa el a Ki vannak kapcsolva a nem Windows [eszközök.](https://go.microsoft.com/fwlink/?linkid=2143630)

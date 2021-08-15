@@ -1,5 +1,5 @@
 ---
-title: Az NDI-technológia bekapcsolás
+title: Az NDI-technológia bekapcsolása
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004403"
 - "7947"
-ms.openlocfilehash: ea694898baffa50fca71957175eba3664dece44e
-ms.sourcegitcommit: 112f18dce8257b98fab32d44910ee879efb44cb8
+ms.openlocfilehash: ed932592aae1158bc0c0da4817467b69d20208533bc080cb0e424f552af8601a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023524"
 ---
-# <a name="turn-on-ndi-technology"></a>Az NDI-technológia bekapcsolás
+# <a name="turn-on-ndi-technology"></a>Az NDI-technológia bekapcsolása
 
 Az NDI-technológia használatához két lépést kell bekapcsolni a felhasználóknak:
 
-1. A bérlői rendszergazdának engedélyeznie kell az "AllowNDIStreaming" tulajdonságot a CsTeamsMeetingPolicy szolgáltatásban.
+1. A bérlői rendszergazdának engedélyeznie kell az "AllowNDIStreaming" tulajdonságot a CsTeamsMeetingPolicyban.
 
     `Set-CsTeamsMeetingPolicy -Identity MEETING_POLICY -AllowNDIStreaming $true`
 
-2. Miután ez a módosítás ki lett töltve, a végfelhasználónak be kell kapcsolnia az NDI® technológiát az adott ügyfélhez a Beállítások és engedélyek **> gombra.**
+2. Miután ez a módosítás ki lett töltve, a felhasználónak be kell kapcsolnia az NDI®-technológiát az adott ügyfélhez a **Gépház > területen.**
 
-További információt az [NDI-technológia használata a Microsoft Teamsben.](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)
+További információt az [NDI-technológia használata](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)a Microsoft Teams.

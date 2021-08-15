@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004199"
 - "7380"
-ms.openlocfilehash: 0c08cfee8264d6aac1166aeb11c0417e17c63fac
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 0e01230010df55e6ceb8508d86fd4833112c0972d5130871b717545d2b427170
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678118"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014758"
 ---
 # <a name="in-place-upgrade-with-configuration-manager-guide"></a>Helyi frissítés a Configuration Manager útmutatóval
 
-A helyszíni frissítési folyamat megőrzi az operációs rendszer meglévő verziójából az összes adatot, beállítást, alkalmazást és illesztőprogramot. Úgy tervezték, hogy rendkívül megbízható legyen, és hogy a probléma előfordulásakor automatikusan visszatérhet a korábbi operációs rendszerhez.
+A verziófrissítési folyamat megőriz minden adatot, beállítást, alkalmazást és illesztőprogramot, amely az operációs rendszer meglévő verziójából származó. Kifejezetten megbízható, és hiba esetén képes automatikusan visszagördülni a korábbi operációs rendszerre.
 
-A Windows 7 és a Windows 8,1 rendszerű eszközök Windows 10-es verziójára való frissítésekor a [helyszíni frissítés a Configuration Manager útmutatóval](https://admin.microsoft.com/adminportal/home#/win10upgrade) végezhető el. A megadott parancsfájl segítségével ellenőrizheti az előfeltételeket, és automatikusan konfigurálhatja a helybeni frissítést.
+Az Windows [7-es](https://admin.microsoft.com/adminportal/home#/win10upgrade) és Windows 8.1-es eszközök legújabb verziójára való frissítéskor használja a helyfrissítést a Configuration Manager Windows 10. A parancsfájl futtatásával ellenőrizheti az előfeltételeket, és automatikusan konfigurálhatja a frissítését.
