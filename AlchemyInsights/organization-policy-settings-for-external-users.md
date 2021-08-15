@@ -1,5 +1,5 @@
 ---
-title: Szervezeti házirend beállításai külső felhasználók számára
+title: Szervezeti házirend beállításai külső felhasználóknak
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef1eaa4e6ddd2995d5f6a970a6b7d1444b7746ea2251e94220c857b10da41d0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769437"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011302"
 ---
-# <a name="organization-policy-settings-for-external-users"></a>Szervezeti házirend beállításai külső felhasználók számára
+# <a name="organization-policy-settings-for-external-users"></a>Szervezeti házirend beállításai külső felhasználóknak
 
-A felhasználók a következő figyelmeztető üzenetet láthatják, amikor a szervezet külső felhasználóival próbálnak meg megosztani: 
+Amikor a felhasználók a szervezet külső felhasználóival próbálnak meg megosztást, a következő figyelmeztető üzenet jelenik meg: 
 
-   **A szervezet szabályzatai nem teszik lehetővé, hogy ezekkel a felhasználókkal ossza meg őket. A Microsoft 365 felügyeleti központban nyissa meg a külső megosztást, és engedélyezze azt.** 
+   **A szervezet szabályzata nem teszi lehetővé az ilyen felhasználókkal való megosztást. Az engedélyezéséhez Microsoft 365 Felügyeleti központ a külső megosztást.** 
 
-Ez gyakran történik az első alkalommal, amikor külső felhasználókkal próbál meg megosztani, vagy ha új külső felhasználókkal oszt meg. További információért olvassa el az alábbi cikket:
+Ez gyakran megtörténik, amikor először próbál külső felhasználókkal megosztani, vagy új külső felhasználókkal. További információt az alábbi cikkben talál:
 
 [A szervezet szabályzata nem teszi lehetővé a megosztást ezekkel a felhasználókkal](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 

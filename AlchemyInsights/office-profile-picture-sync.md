@@ -1,5 +1,5 @@
 ---
-title: Felhasználó profilja fényképének szinkronizálása
+title: Felhasználó profilképének szinkronizálása
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,27 +8,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: f243a68b5eb7f23f096183a923a32c1eb7b9508e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55460bbf1f676b20836c0518de3f13bfab16ee8c26cc461c1569ae4f750080ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694784"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011446"
 ---
-# <a name="sync-a-users-profile-picture"></a>Felhasználó profilja fényképének szinkronizálása
+# <a name="sync-a-users-profile-picture"></a>Felhasználó profilképének szinkronizálása
 
-A Microsoft 365-ban megadhatja vagy módosíthatja a profilja fényképét a [Office.com](https://www.office.com)-ból, illetve a Microsoft-alkalmazásokat a számítógépén vagy a böngészőjében a telefonján. A fénykép mindenhol megjelenik a Microsoft 365 profil Photo Circle alkalmazásában.
+A profilképét a [Microsoft 365-ban vagy a Office.com-on,](https://www.office.com)illetve a Microsoft-alkalmazások használata közben a számítógépen vagy a böngészőben a telefonján használhatja. A fénykép minden olyan oldalon meg fog jelenni, ahol egy profilképkör Microsoft 365.
 
-Saját profilú Fénykép felvétele a Microsoft 365 vállalati verzióba
+A profilkép hozzáadása a Microsoft 365 vállalati verzióhoz
 
-- A használni kívánt fénykép megkeresése és tárolása a számítógépen, a OneDrive vagy más helyen, ahol elérhető
+- Keresse meg a használni kívánt fényképet, és tárolja a számítógépén, OneDrive vagy más olyan helyen, ahol
 
-- A munkahelyi vagy iskolai fiókjával jelentkezhet be a Microsoft 365-fiókjába a [Office.com](https://www.office.com)címen.
+- Jelentkezzen be Microsoft 365 munkahelyi vagy iskolai fiókjával a [office.com.](https://www.office.com)
 
-- Jelölje ki a lap jobb felső sarkában lévő kört, amely egy személy monogramját vagy ikonját jeleníti meg.
+- Jelölje ki a lap jobb felső sarkában a kört, amely a monogramját vagy egy személy ikonját jeleníti meg.
 
-- A My Accounts (saját fiókok) ablaktáblában jelölje ki azt a kört, amely egy személy monogramját vagy ikonját jeleníti meg. Módosítsa a fényképét a megjelenő előugró ablakban.
+- A Saját fiókok panelen válassza azt a kört, amely a monogramját vagy egy személy ikonját mutatja. Módosítsa a fényképét az előugró ablakban.
 
-Megjegyzés: Ha már feltöltött egy képet, akkor érdemes lehet a SharePoint-vagy OneDrive-csempére kattintania, hogy újra szinkronizálja a képet.
+Megjegyzés: Ha már feltöltött egy képet, előfordulhat, hogy a kép SharePoint vagy OneDrive csempére kattintva szinkronizálja újra a képet.
 
-További információért kérjük, keresse fel [a Microsoft 365-ban a profil képe szinkronizálásával kapcsolatos információkat](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+További információért olvassa [](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)el az Információk a profilkép-szinkronizálásról a Microsoft 365.
