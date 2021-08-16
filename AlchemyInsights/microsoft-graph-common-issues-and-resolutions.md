@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Graph általános problémái és megoldásai
+title: A Microsoft Graph problémák és megoldásai
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 099fbd12a9245ad314b27d6e3eac08c1dbc57854e8d6c3165fac81141d83bde6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027268"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>A Microsoft Graph általános problémái és megoldásai
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>A Microsoft Graph problémák és megoldásai
 
-A Microsoft Graph ismert problémáinak teljes listáját a [Microsoft Graph ismert problémái](https://docs.microsoft.com/graph/known-issues)című témakörben találhatja meg. További kérdések és forrásokért tekintse meg a [Microsoft Graph dokumentációjának](https://docs.microsoft.com/graph/) fő lapját.
+A Microsoft-fiókkal kapcsolatos ismert problémák teljes listáját A [Microsoft](https://docs.microsoft.com/graph/known-issues)Graph problémák a Microsoft-fiókkal Graph. További kérdéseit és forrásait a Microsoft Graph [lapján](https://docs.microsoft.com/graph/) találhatja meg.
 
-- [Microsoft Graph REST API 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0)-s referencia
-- Megtudhatja, hogy mi változott a Microsoft Graph API-ban a [changelog](https://docs.microsoft.com/graph/changelog). 
-- [Tegye fel kérdését, vagy kérjen visszajelzést a Graph API-k és a dokumentumok](https://aka.ms/GraphDeveloperSupport) között a fejlesztői támogatási csapattal.
+- [A Microsoft Graph REST API 1.0-s verziójára vonatkozó hivatkozás](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
+- A Microsoft Graph API-jának változását a [Changelogból tudja meg.](https://docs.microsoft.com/graph/changelog) 
+- [Tegye fel kérdését,](https://aka.ms/GraphDeveloperSupport) vagy adjon visszajelzést az Graph API-król és dokumentumokról a fejlesztői támogatási csoporttal.
 
-Az egyesített támogatás és a Premier ügyfeleink támogatási jegyet emelhetnek ezen a portálon. Mások az [a Microsoft Q&a](https://aka.ms/AskGraph)Microsoft Graph-hoz elérhető ingyenes fejlesztői támogatást is használhatják.
+Egyesített támogatás és Premier szintű ügyfelek támogatási jegyet tudnak emelni ezen a portálon. Mások ingyenesen elérhetik a Microsoft Graph fejlesztői támogatást [a Microsoft Q&A-n.](https://aka.ms/AskGraph)

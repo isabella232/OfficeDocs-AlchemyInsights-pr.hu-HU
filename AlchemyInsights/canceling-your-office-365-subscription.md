@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996596"
 ---
 # <a name="canceling-your-subscription"></a>Lemondja az előfizetését?
 
 Sajnáljuk, hogy el kell mennie, de ha le szeretné mondani az előfizetését, a következő lehetőségek közül választhat:
   
 - Ha kevesebb mint 25 hozzárendelt licenccel rendelkezik, online lemondhatja az előfizetését. Keresse fel **a Termékek számlázása** \> **[lapot,](https://go.microsoft.com/fwlink/p/?linkid=842054)** és keresse meg a lemondani kívánt előfizetést. Válassza a három pontra (további műveletek), majd az **Előfizetés lemondása gombra.**
-- Ha több mint 25 licencet osztott ki a felhasználóknak, az előfizetés lemondásához hívja fel [az ügyfélszolgálatot.](https://go.microsoft.com/fwlink/p/?linkid=518322)
+- Ha több mint 25 licencet osztott ki a felhasználóknak, csökkentse 25-ösnél kisebbre az előfizetés lemondásához vagy az előfizetés lemondásához hívja fel az [ügyfélszolgálatot.](/microsoft-365/business-video/get-help-support)
   
 **Visszatérítés: A következő számlázási ciklusban térítünk meg minden időkorrált jóváírást.**
 

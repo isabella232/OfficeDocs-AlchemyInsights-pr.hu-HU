@@ -1,5 +1,5 @@
 ---
-title: Hívásátirányítás, hívások csoportjai és egyidejű csengetés a Teams alkalmazásban
+title: Hívásátirányítás, híváscsoportok és egyidejű csengetés a Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004159"
 - "7251"
-ms.openlocfilehash: e9ce11063f47bc8208714186a572846544f3abd0
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: 23578487c3e5a988f888172b7a15309217c261284f662a4e07f21ba3a4971004
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996416"
 ---
-# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Hívásátirányítás, hívások csoportjai és egyidejű csengetés a Teams alkalmazásban
+# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Hívásátirányítás, híváscsoportok és egyidejű csengetés a Teams
 
 Hívásátirányítás beállítása
 
-1. A Teams-ügyfélben kattintson a profil képre a Teams tetején, majd válassza a **beállítások > a hívások** lehetőséget.
-2. A **Hívás megválaszolása szabályok** csoportban válassza a **hívások átirányítása** lehetőséget, majd válassza ki, hogy hová szeretné továbbítani a továbbított hívásokat: hangposta, egy másik személy vagy egy hívás csoport.
+1. Az ügyfél Teams kattintson a profilképre a képernyő tetején, Teams válassza a Gépház > **lehetőséget.**
+2. A **Hívásátirányítási szabályok** csoportban válassza a Hívások továbbítása **lehetőséget,** majd adja meg, hogy hová szeretné áttűnni a továbbított hívásait: hangposta, másik személy vagy híváscsoport.
 
-Hívásátirányítás beállítása hívási csoportra
+Hívásátirányítás beállítása híváscsoporthoz
 
-1. A **Hívás megválaszolása szabályok** csoportban jelölje be **a hívások átirányítása** jelölőnégyzetet.
-2. A **továbbítás** menüben válassza a **hívás csoport** lehetőséget.
-3. A **személyek hozzáadása** csoportban adja meg a kívánt személyeket a hívás csoportban. Akár 25 személyt is felvehet. Az Ön által hozzáadott bármely személy értesítést kap.
+1. A **Hívásátirányítási szabályok alatt válassza** a Hívások **továbbítása lehetőséget.**
+2. A Továbbítás **menüben** válassza a **Híváscsoport lehetőséget.**
+3. A **Személyek hozzáadása csoportban** vegye fel a kívánt személyeket a híváscsoportba. Legfeljebb 25 embert adhat hozzá. Bárki, akit hozzáad, értesítést kap.

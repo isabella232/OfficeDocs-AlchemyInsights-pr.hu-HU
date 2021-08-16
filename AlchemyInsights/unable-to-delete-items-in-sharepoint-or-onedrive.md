@@ -1,5 +1,5 @@
 ---
-title: Nem lehet elemeket törölni a SharePointban vagy a OneDrive-ban
+title: Nem lehet elemeket törölni a SharePoint és a OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,24 +12,24 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: db45aa8df40484fdcda7c430f1ca27482a1dd4ce
-ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
+ms.openlocfilehash: 3601c5eff121e10b6bddace6f7228204a01080a636e24f3a56373fe8d469c799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49019585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038519"
 ---
 # <a name="unable-to-delete-items"></a>Nem lehet elemeket törölni
 
-- Az adatmegőrzési házirendek ezt a problémát okozhatják, le kell tiltania vagy ki kell zárnia a problémát okozó megfelelő mentességet. Az adatmegőrzési házirend vagy a mentesség eltávolítása után akár 24 óra is eltelhet, amíg a módosítás érvénybe lép. Ügyeljen arra, hogy az elemen ne legyen [adatmegőrzési házirend](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) -beállítás.
+- Ezt az adatmegőrzési házirendek okozhatják, ezért vagy le kell tiltania vagy ki kell zárnia a vonatkozó visszatartást, amely a problémát okozza. Az adatmegőrzési házirend vagy visszatartás eltávolítása után akár 24 óra is elehet, hogy a módosítás életbe lép. Győződjön meg arról, hogy [az](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) elemhez nincs adatmegőrzési házirend beállítva.
 
-- Előfordulhat, hogy a webhely túllépte a tárterület korlátozását, megnöveli a [webhely kvótáját](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) , és törli az elemet.
+- Előfordulhat, hogy a webhely túllépte a tárterületkorlátot, megnövelte a [webhelykvótát,](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) és törölte az elemet.
 
-- Ügyeljen arra, hogy az elem ne legyen [kivéve](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) egy másik felhasználónál.
+- Győződjön meg arról, hogy az elem [nincs kivett másik](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) felhasználónak.
 
-- Végül a rendszergazdák használhatják a [SharePoint-mintákat és-eljárásokat](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PNP), amelyek egy PowerShell-parancsok gyűjteményét tartalmazzák, amelyek lehetővé teszik az összetett kezelési műveletek végrehajtását, például a makacs elemek törlésének kényszerítését.
-- [A PNP-fájl eltávolítása](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
+- Végül [SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) a rendszergazdák a PnP (PnP) használatával is végezhetnek műveleteket, amelyek powershell-parancsokat tartalmaznak, így összetett felügyeleti műveleteket hajthat végre, például felesleges elemeket törölhet.
+- [PNP-fájl eltávolítása](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
 - [PNP-mappa eltávolítása](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
-- [A PNP-listaelem eltávolítása](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
-- [A PNP-lista eltávolítása](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
-- [A PNP-mező (oszlop) eltávolítása](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
+- [PNP-listaelem eltávolítása](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
+- [PNP-lista eltávolítása](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
+- [PNP mező (oszlop) eltávolítása](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)

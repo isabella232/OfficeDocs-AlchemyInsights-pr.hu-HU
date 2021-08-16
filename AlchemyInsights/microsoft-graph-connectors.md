@@ -1,5 +1,5 @@
 ---
-title: Microsoft Graph-összekötők
+title: Microsoft Graph összekötők
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724905"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027304"
 ---
-# <a name="microsoft-graph-connectors"></a>Microsoft Graph-összekötők
+# <a name="microsoft-graph-connectors"></a>Microsoft Graph összekötők
 
-A Microsoft Graph összekötői segítségével a szervezet a Microsoft keresési eredményei között indexelheti a harmadik féltől származó adatok megjelenítését.
+A Microsoft Graph segítségével a szervezet indexelheti a külső adatokat, hogy megjelenjenek a Microsoft Keresés eredményekben.
 
-- [Összekötők a Microsoftnál](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Összekötők partnereinknek](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Összekötők a Microsofttól](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
+- [Összekötők a partnereinktől](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-További információt a  [Microsoft Graph összekötők – áttekintés](https://docs.microsoft.com/microsoftsearch/connectors-overview)című témakörben talál.
+További információt A Microsoft Összekötők – [áttekintés Graph témakörben talál.](https://docs.microsoft.com/microsoftsearch/connectors-overview)

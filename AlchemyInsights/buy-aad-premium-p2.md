@@ -1,5 +1,5 @@
 ---
-title: Az Azure Active Directory prémium verziójának megvásárlása
+title: Vásárlás Prémium P2 szintű Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003942"
 - "6997"
-ms.openlocfilehash: 4c369183ea769b688d0b766d156b1f73e3318b17
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ffff2b8d526c12390915cba7a1e5a6d39f82586be53b7848646bd8ab8f17a426
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996668"
 ---
-# <a name="buy-azure-active-directory-premium-p2"></a>Az Azure Active Directory prémium verziójának megvásárlása
+# <a name="buy-azure-active-directory-premium-p2"></a>Vásárlás Prémium P2 szintű Azure Active Directory
 
-Az Azure Active Directory Premium P2 kiadásához kövesse az alábbi lépéseket:
+A következő lépésekkel próbálhat Prémium P2 szintű Azure Active Directory megvásárolni:
 
-1. Nyissa meg a **Számlázási**  >  **szolgáltatások**  >  [**biztonsága és identitása**](https://go.microsoft.com/fwlink/?linkid=2131946)lapot, majd kattintson az **Azure Active Directory Premium P2** elemre.
-Ha kijelöli az ingyenes próbaverziót, akkor az alábbi utasításokat követve fejezze be a folyamatot: egyéb esetben folytassa a második lépéssel.
-1. A következő lapon adja meg a felhasználói licencek számát és a fizetési időszakot, majd kattintson a **kivétel most** gombra.
-1. A **pénztár** lapon tekintse át az árazási információkat, majd kattintson a **tovább** gombra.
-1. A következő lapon adja meg a fizetési és a cím adatait, majd helyezze el a rendelést.
-1. Adja meg a telefonszámát, és kattintson a **szöveg nekem** vagy a **hívás nekem** elemre.
-1. Írja be a Önnek küldött ellenőrző kódot, majd végezze el a folyamatot a lapon megjelenő utasításokat követve.
+1. Válassza a **Számlázási szolgáltatások vásárlása**– Biztonság és identitás  >    >  [](https://go.microsoft.com/fwlink/?linkid=2131946), majd a Számlázás **Prémium P2 szintű Azure Active Directory.**
+Ha az ingyenes próbaverziót választotta, a lapon található utasításokat követve töltse ki a folyamatot; ellenkező esetben folytassa a 2. lépéssel.
+1. A következő lapon adja meg a felhasználói licencek számát és a fizetési időszakot, majd kattintson a **Fizetés most elemre.**
+1. A **Kijelentkezés lapon** tekintse át az árakkal kapcsolatos információkat, majd kattintson a Tovább **gombra.**
+1. A következő lapon adja meg a fizetési és a címadatokat, majd adja meg a rendelést.
+1. Írja be a telefonszámát, majd kattintson az **SMS-t vagy** a **Hívást hívást gombra.**
+1. Írja be a küldött ellenőrzőkódot, majd a lapon található utasításokat követve töltse ki az eljárást.

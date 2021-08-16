@@ -1,5 +1,5 @@
 ---
-title: 8000001 a szűrt levelek funkció kikapcsolása
+title: 8000001 A Fókuszban lévő levelek kikapcsolása
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ab443c16069b44563a342948ca29a65d61a6616a5bdb8184978e70191eebcbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038699"
 ---
-# <a name="turn-off-focused-inbox"></a>A szűrt levelek funkció kikapcsolása
+# <a name="turn-off-focused-inbox"></a>A Fókuszban lévő levelek kikapcsolása
 
-1. Válassza a **Beállítások** > szűrt \> **levelek**lehetőséget.  
+1. Válassza **Gépház** \> **A Fókuszban lévő levelek lehetőséget.**  
 
-2. Az **e-mailek érkezésekor**csoportban válassza az **üzenetek rendezésének mellőzése**lehetőséget.
+2. Az **E-mailek fogadása alatt válassza** az Üzenetek **rendezésének küldésének stb. beállítását.**
 
 3. Kattintson az **OK** gombra.
 
-További információt a szűrt [levelek az Outlookban](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy)című témakörben talál.
+További információért olvassa el a Beérkezett üzenetek a [Outlook.](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy)

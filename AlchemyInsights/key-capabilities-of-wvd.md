@@ -1,5 +1,5 @@
 ---
-title: A Windows Virtual Desktop legfontosabb funkciói
+title: A virtuális asztal Windows funkciói
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706749"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067122"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>A Windows Virtual Desktop legfontosabb funkciói
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>A virtuális asztal Windows funkciói
 
-A Windows Virtual Desktop a felhőben futó asztali virtualizációs és app-virtualizációs szolgáltatás. Az alábbi műveleteket végezheti el a Windows Virtual Desktop Azure rendszeren való futtatásakor:
+Windows A Virtual Desktop egy asztali virtualizációs és app-virtualizációs szolgáltatás, amely a felhőben fut. Az Azure virtuális asztalon az Windows futtatásakor az Windows a következőt:
 
-- Többmunkamenetes Windows 10-es telepítési példány beállítása, amely teljes körű Windows 10-es felületet nyújt a méretezhetőséggel
-- Virtualizálhatja a Microsoft 365-alkalmazásokat, és optimalizálhatja a többfelhasználós virtuális környezetekben való működéshez
-- A Windows 7 virtuális asztalai ingyenes bővített biztonsági frissítésekkel (EUME) rendelkeznek
-- A meglévő távoli asztali szolgáltatások (RDS) és a Windows Server asztali számítógépek és alkalmazások beállítása bármely számítógépre
-- A Windows 10, a Windows Server és a Windows 7 rendszerű asztali és alkalmazások kezelése egységes kezelési felülettel
-- Teljes asztali virtualizációs környezet létrehozása az Azure-előfizetésben, további átjáró-kiszolgálók futtatása nélkül
-- Tetszőleges számú alkalmazáskészlet közzététele, mint a különböző munkaterhelések kielégítése érdekében
-- Hozd el saját képeit az Azure Gallery-ből, és készítse el saját képeit a termelési terhelésekhez és tesztekhez
-- A költségek csökkentése a többszintű, több munkamenetből álló erőforrások használatával
-- Egyéni tulajdonjog megadása személyes (állandó) asztali számítógépeken keresztül
+- Több munkamenetes telepítés Windows 10, amely teljes körű Windows 10 méretezhetőséget nyújt
+- Virtualize Microsoft 365-alkalmazások, and optimize it to run in multi-user virtual scenarios
+- Biztosítson Windows 7 virtuális asztalt ingyenes kiterjesztett biztonsági frissítésekkel
+- A meglévő Távoli asztali szolgáltatások (RDS) és Windows kiszolgálói asztalok és -alkalmazások bármely számítógépre
+- A Windows 10, a Windows server és Windows 7 asztali gép és alkalmazás kezelése egységes felügyeleti környezetben
+- Teljes asztali-virtualizációs környezet létrehozása Azure-előfizetésében további átjárókiszolgálók futtatása nélkül
+- Tegye közzé annyi állomáskészletet, amennyit csak a különböző munkaterhelések elvégzéséhez szükséges.
+- Az Azure Galériából saját képeket hozhat létre éles munkaterheléshez és tesztekhez
+- A költségek csökkentése több munkamenetet használó erőforrásokat használva
+- Egyéni tulajdonláslás személyes (állandó) asztali számítógépeken keresztül
 
-További információt a [Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) és a [főbb funkciók](https://go.microsoft.com/fwlink/?linkid=2127033)című témakörben találhat.
+További információt a Virtuális Windows És fő funkciókat [ad](https://go.microsoft.com/fwlink/?linkid=2127033) [meg.](https://go.microsoft.com/fwlink/?linkid=2127033)
 

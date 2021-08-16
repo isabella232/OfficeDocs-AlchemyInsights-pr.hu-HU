@@ -1,5 +1,5 @@
 ---
-title: Hibrid konfigurációs varázsló (HCW) hiba ACSTS50011
+title: Hibrid konfigurációs varázsló (HCW) ACSTS50011-es hiba
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000136"
 - "5696"
-ms.openlocfilehash: 2b08a0f532d948c4417c6ddc67251ec9cb0bcc8b
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: f075c95dc831a46d313d6534e078cb298fa2212fd7cffed75a2953e7e80603a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721911"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055952"
 ---
-# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>Hibrid konfigurációs varázsló (HCW) hiba ACSTS50011
+# <a name="hybrid-configuration-wizard-hcw-error-acsts50011"></a>Hibrid konfigurációs varázsló (HCW) ACSTS50011-es hiba
 
-Ha hibrid konfigurációs varázslót (HCW) futtat, és a hiba **ADSTS50011: a kérésben megadott válasz URL-címe nem egyezik meg az alkalmazáshoz konfigurált válasz URL-címével: "a0c73c16-a7e3-4564-9a95-2bdf47383716**, frissítsen a Hcw legújabb verziójára https://aka.ms/hybridwizard .
+Ha hibrid konfigurációs varázslót (HCW) futtat, és az ADSTS50011 hibát kap: A kérelemben megadott válasz URL-címe nem egyezik az alkalmazáshoz beállított válasz **URL-címekkel: 'a0c73c16-a7e3-4564-9a95-2bdf47383716**, frissítsen a HCW legújabb verziójára a következő címen: https://aka.ms/hybridwizard .
 
 
 
