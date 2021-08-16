@@ -1,5 +1,5 @@
 ---
-title: Munka a Microsoft Intune-ban
+title: A Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 2ea412617caa77d50813941dafce84a972a2cfe2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09401ceb0bcdcfe280f2e7e293caffc8a4189561bf26b713c98f015991134e21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069894"
 ---
-# <a name="working-in-microsoft-intune"></a>Munka a Microsoft Intune-ban
+# <a name="working-in-microsoft-intune"></a>A Microsoft Intune
 
 Az Intune néhány alapművelete:
 
@@ -29,4 +29,4 @@ Az Intune néhány alapművelete:
 - [Mit jelent az eszköz regisztrálása az Intune-ban?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
 - [A hibaelhárítási portál használata a vállalat felhasználóinak a segítésében](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
 
-[További információ a Microsoft Intune-ról...](https://docs.microsoft.com/mem/intune/)
+[További információ a Microsoft Intune...](https://docs.microsoft.com/mem/intune/)

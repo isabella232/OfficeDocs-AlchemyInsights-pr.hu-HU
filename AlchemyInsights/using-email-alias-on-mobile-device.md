@@ -1,5 +1,5 @@
 ---
-title: 725 e-mail-alias használata mobileszközön
+title: 725 E-mail alias használata mobileszközön
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 7eea3de92019afb801b1b843ef562b42ea85c7dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8aa55a0f4f054a3e36a2c04b455d5fab3507e8dd12c0d59f9c05e1e21374468
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998354"
 ---
-# <a name="email-aliases-on-mobile-devices"></a>E-mail-aliasok mobileszközökön
+# <a name="email-aliases-on-mobile-devices"></a>E-mail aliasok mobileszközökön
 
-Az e-mail-alias csak a postaládában konfigurált e-mail-cím, ezért a felhasználó aliasához küldött üzeneteket a rendszer átirányítja a postaládába, és a mobileszközön olvashatók lesznek. Nincs szükség további konfigurálásra.
+Az e-mail alias csak egy másik, a postaládán konfigurált e-mail-cím, így a felhasználó aliasára küldött üzenetek a postaládájukba lesznek kézbesítve, és mobileszközükön is olvashatók lesznek. Nincs szükség további konfigurációra.
 
-A felhasználók azonban nem tudnak válaszolni az üzenetekre, vagy új üzeneteket küldenek az e-mail-címük alapján. A kimenő üzenetek az elsődleges e-mail-címükből származnak.
+A felhasználók azonban nem válaszolhat az üzenetekre és nem küldhetnek új üzeneteket alias használatával a Saját címükként. Minden kimenő üzenet az elsődleges e-mail-címükről fog kimenni.
