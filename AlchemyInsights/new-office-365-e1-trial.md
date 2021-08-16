@@ -1,5 +1,5 @@
 ---
-title: Új Office 365 E1 próbaverzió
+title: Új Office 365 E1 csomag próbaverzió
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: fc2f20488e55f73ed2437220d3fd56ff64848450
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 53be3bad8018b434bdac15ea953d3ccf5a83f59377f19bb2441247ee4892e26c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025432"
 ---
-# <a name="new-office-365-e1-trial"></a>Új Office 365 E1 próbaverzió
+# <a name="new-office-365-e1-trial"></a>Új Office 365 E1 csomag próbaverzió
 
-2020. július 1-jétől már nem érhető el az Office 365 E1 próbalicenc. Ha licencre van szüksége a Microsoft Teams felhasználóinak, olvassa el a [Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) szolgáltatásleírását a Teamst is magában foglaló fizetős előfizetések listájához. Másik lehetőségként a jogosult szervezetek használhatjak a [Teams ingyenes](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)verzióját, vagy az alkalmazottak aktiválni is vehetik a [Teams felfedezési](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) élményét.
+2020. július 1-jétől már nem érhető Office 365 E1 csomag próbaverziós licenc. Ha licencet kell licencelni a felhasználóknak [](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) a Microsoft Teams, olvassa el Microsoft Teams előfizetések listáját, amelyek tartalmazzák a Teams. Másik lehetőségként a jogosult szervezetek használhatjak az Teams ingyenes [verzióját,](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)vagy az alkalmazottak aktiválni Teams [felfedezés élményét.](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory)

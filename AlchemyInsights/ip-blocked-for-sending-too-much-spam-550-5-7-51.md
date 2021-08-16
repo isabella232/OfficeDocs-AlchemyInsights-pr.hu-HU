@@ -1,5 +1,5 @@
 ---
-title: a 1264 IP-je túl sok levélszemét küldésére blokkolt (550 5.7.51)
+title: 1264 ip blocked for sending too much spam (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 1a80c9faf463f4bd2e96d9b7f7cc62fdd4b4fad3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64d8d9588b8ed7d394e6e359d48bf941cbff26e93e0f8ea284bf3b6688400b3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695831"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099252"
 ---
-# <a name="access-denied-banned-sender"></a>Hozzáférés megtagadva, kitiltott feladó
+# <a name="access-denied-banned-sender"></a>Access denied, banned sender
 
- **Hiba**: az SMTP-hiba a távoli kiszolgálóról a RCPT-ra parancsra, Host: *XXXX*-com.mail.Protection.Outlook.com (*xxx.xxx.xxx.xxx*) Reason: 550 5.7.511 hozzáférés megtagadva, tiltott feladó [*XX.xxx.x.xxx*]. 
+ **Hiba:** SMTP-hiba távoli kiszolgálóról az RCPT TO parancshoz, állomás: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) ok: 550 5.7.511 Access denied, banned sender [*xx.xxx.x.xxx*]. 
 
-Ha ez a hibaüzenet jelenik meg, amikor e-mailt küld egy Microsoft 365-címzettnek, távolítsa el az érintett fiókot a Tiltott feladók listájából [https://sender.office.com](https://sender.office.com) .
+Ha ez a hibaüzenet jelenik meg, amikor e-mailt küld Microsoft 365 címzettnek, távolítsa el az érintett fiókot a letiltott feladók listájáról a következő [https://sender.office.com](https://sender.office.com) címről: .
