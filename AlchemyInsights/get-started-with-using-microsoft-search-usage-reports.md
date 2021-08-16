@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Search használati jelentésekkel kapcsolatos első lépések
+title: A használati jelentések használatának Microsoft Keresés első lépések
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9259"
-ms.openlocfilehash: 43416579af4a72575cac5a2f729467c945e0f252
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a21d476cc5742880fba994304b59d0d08bc02e26286760ae8181b97877144e25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056564"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>A Microsoft Search használati jelentésekkel kapcsolatos első lépések
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>A használati jelentések használatának Microsoft Keresés első lépések
 
-A Microsoft Search használati jelentései betekintést nyújtanak a keresés működésébe a szervezetben. Ezek a betekintések segítenek a tartalmak keresésében, és hasznosabb és hasznosabb élményt nyújtanak a felhasználóknak a szervezetben.
+Microsoft Keresés használati jelentések betekintést nyújtanak a keresés működésébe a szervezetben. Ezek a betekintések segítenek a tartalmak keresésében, és hasznosabb és hasznosabb élményt nyújtanak a felhasználóknak a szervezetben.
 
-További információ: [A Microsoft keresési használati jelentései.](https://go.microsoft.com/fwlink/?linkid=2152048)
+További információt a Használati [jelentések Microsoft Keresés olvashat.](https://go.microsoft.com/fwlink/?linkid=2152048)

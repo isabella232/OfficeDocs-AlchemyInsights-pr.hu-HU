@@ -1,5 +1,5 @@
 ---
-title: A DLP szükség lehet egyéni típusra
+title: Előfordulhat, hogy a DLP-nek egyéni típusra van szüksége
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -13,31 +13,31 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030796"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>A DLP szükség lehet egyéni típusra
+# <a name="dlp-might-need-a-custom-type"></a>Előfordulhat, hogy a DLP-nek egyéni típusra van szüksége
 
 **Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
-**A DLP egyéni adattípust igényelhet**
+**A DLP egyéni adattípust is megkövetelhet**
 
-Az adatvesztés-megakadályozási házirend segítségével bizalmas adatokat azonosíthat és védheti meg a szervezetében. Bizonyos esetekben előfordulhat, hogy saját **Egyéni** bizalmas adattípust kell létrehoznia a szervezeti adatok védelme érdekében.
+Az adatveszteség-megelőzési (DLP)-házirendekkel azonosíthatja és megvédheti a bizalmas adatokat a szervezetében. Bizonyos esetekben előfordulhat, hogy létre kell  hoznia egy saját bizalmasadat-típust a szervezet adatainak védelméhez.
 
-Előfordulhat például, hogy a szervezete az alkalmazottak azonosítóit vagy más adatait az Ön szervezetéhez tartozó bizonyos formátumban kell megállapítania és védenie. Ha igen, további információért olvassa el az alábbi cikkeket.
+Előfordulhat például, hogy a szervezetnek azonosítania és védenie kell az alkalmazotti azonosítókat vagy más adatokat a szervezetére jellemző bizonyos formátumban. Ha igen, további információt az alábbi cikkekben talál.
   
  **Beépített bizalmas adattípus testreszabása**
   
-Ha egy beépített bizalmas adattípus csak néhány csípéssel felel meg az igényeinek, [testre szabhatja a beépített bizalmas adattípust](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Hozzáadhat vagy eltávolíthat például kulcsszavakat, illetve alátámasztó bizonyítékokat, például dátumot vagy címeket adhat hozzá vagy távolíthat el.
+Ha egy beépített bizalmas adattípus csupán néhány finomítással kielégíti az igényeit, testre szabhatja a beépített bizalmas [adattípusokat.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) Felvehet vagy eltávolíthat például kulcsszavakat, illetve hozzáadhat vagy eltávolíthat támogató bizonyítékokat, például dátumot vagy címet.
   
  **Egyéni bizalmas adattípus létrehozása**
   
-Ha azonban egy eltérő típusú bizalmas információt is el kell végeznie, akkor [Egyéni bizalmas adattípust hozhat létre](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) a biztonsági & megfelelőségi központ felhasználói felületén.
+Ha azonban egy másik bizalmas információtípust kell azonosítania és védenie, létrehozhat egy egyéni bizalmas információtípust [a](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) Biztonsági és megfelelőségi központ & felhasználói felületén.
   
-**Egyéni bizalmas adattípus létrehozása a biztonsági & megfelelőségi központ PowerShellben**
+**Egyéni bizalmas információtípus létrehozása a Biztonsági & PowerShellben**
 
-Végül ha a felhasználói felület nem adja meg a szükséges beállításokat, [létrehozhat egy egyéni bizalmas adattípust a biztonsági & megfelelőségi központ PowerShellben](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Az XML-fájllal kezdve minden elérhető lehetőséget használhat.
+Végül, ha a felhasználói felület nem biztosít minden szükséges lehetőséget, létrehozhat egy egyéni bizalmas adattípust [a Biztonsági & PowerShellben.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell) Xml-fájllal kezdődően minden elérhető beállítást használhat.

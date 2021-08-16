@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056528"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Az Exchange hibrid kulcsának beszerzése
+# <a name="getting-an-exchange-hybrid-key"></a>Új hibrid Exchange használata
 
-Ha a helyszíni szervezetet a Microsoft 365 Exchange Online szolgáltatásához szeretné csatlakoztatni, legalább egy Exchange-kiszolgálót be kell állítania a helyszíni szervezetben. Ez a kiszolgáló olyan hibrid telepítés létrehozására szolgál, amely a helyszíni Exchange-szervezetet az Exchange Online-hoz köti össze. Ha hibrid kulcsot szeretne kapni ehhez a kiszolgálóhoz, kövesse az [Exchange hibrid termékkulcs-terjesztési varázsló](https://aka.ms/hybridkey)lépéseit.
+Ha a helyszíni szervezetet össze kell Exchange Online az Microsoft 365-ban, be kell állítania legalább egy Exchange kiszolgálót a helyszíni szervezetben. Ez a kiszolgáló egy olyan hibrid telepítés létrehozására szolgál, amely összekapcsolja a helyszíni Exchange szervezettel a Exchange Online. Ha hibrid kulcsot kap ehhez a kiszolgálóhoz, kövesse a Exchange a hibrid termékkulcs-terjesztési [varázsló lépéseit.](https://aka.ms/hybridkey)
   

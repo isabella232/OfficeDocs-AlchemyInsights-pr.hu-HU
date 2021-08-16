@@ -1,5 +1,5 @@
 ---
-title: Az Office letöltése és telepítése
+title: Letöltés és telepítés Office
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 5950c130b82e435eacaf9fb096faae8482b50c15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6306811fad43af92e195467703b6cc1416ca7d6d6e6fcde56901e895f8c8239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004817"
 ---
-# <a name="download-and-install-office"></a>Az Office letöltése és telepítése
+# <a name="download-and-install-office"></a>Letöltés és telepítés Office
 
-Az **Ön Vállalati alap verziós előfizetése** nem tartalmazza a Microsoft 365-appokat. Az Office-hoz frissítenie kell a  Vállalati vagy Vállalati prémium **verzió előfizetésre.** Az Elérhető előfizetések az Office-ban itt érhetők el: [Microsoft 365 Vállalati verzió](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+Az **Ön Vállalati alap verziós előfizetése** nem tartalmazza a Microsoft 365 alkalmazásokat. Az előfizetés Office vállalati vagy vállalati verzióra  **Prémium** előfizetésre. Tekintse meg az elérhető előfizetéseket a Office itt: [Microsoft 365 vállalati verzió](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

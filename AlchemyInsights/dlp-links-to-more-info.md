@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fee9defac7b29999056cac161f271c4c97306e2fe2cbd9a23b1b956b2ee02e98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030832"
 ---
-# <a name="information-about-dlp-issues"></a>A DLP-problémákkal kapcsolatos információk
+# <a name="information-about-dlp-issues"></a>Információk a DLP-problémákról
 
 **Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
 **Információk a DLP-házirendről**
 
-DLP-házirend segítségével a Microsoft 365-ban azonosíthat, figyelheti és automatikusan megvédheti a bizalmas információkat.
+DLP-házirend segítségével azonosíthatja, figyelheti és automatikusan megvédheti a bizalmas Microsoft 365.
 
-További információért olvassa el az alábbi hivatkozásokat:
+További információért látogasson el az alábbi hivatkozásokra:
 
 - [Az adatveszteség-megelőzés áttekintése](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
-- [A bizalmas adattípusok keresése](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [A bizalmas adattípusok által keresve](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 - [Egyéni bizalmas adattípus létrehozása](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
-- [E-mail-értesítések küldése és házirend-tippek megjelenítése](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-- [SharePoint Online-fájlok védelme adatmegőrzési címkékkel és DLP használatával](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [DLP és Microsoft teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
+- [E-mail-értesítések küldése és házirendtippek megjelenítése](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- [Online SharePoint adatmegőrzési címkékkel és adatmegőrzési adatmegőrzéssel](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP és Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Ha egy beépített vagy egyéni bizalmas adattípussal szeretné tesztelni az adatokat, használja a **típus típusa** beállítást a bizalmas adatok **osztályozása**csoportban  >  **Sensitive info types**. További információt az [Egyéni bizalmas adattípusok tesztelése](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)című témakörben találhat.
+Ha egy beépített vagy egyéni bizalmasadat-típussal tesztelni kívánt adatokat, használja a Teszttípus lehetőséget a **Besorolások** bizalmas adatok típusai   >  **csoportban.** További információ: Egyéni bizalmas [adattípusok tesztelése.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)

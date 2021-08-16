@@ -1,5 +1,5 @@
 ---
-title: Mi a teendő, ha nem tud csoportot létrehozni a Microsoft Teams alkalmazásban
+title: Mi a Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003963"
 - "7019"
-ms.openlocfilehash: 287416aac9034104272b4ddb453be04b2488f2f7
-ms.sourcegitcommit: e25893be57e1c4ced8e646d0fa3d0e8489880d7a
+ms.openlocfilehash: 439f00147f7d643fbb77fc4107c3664a4f4e0d6a58d31d2a5a33599fab16185f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706701"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048590"
 ---
-# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Mi a teendő, ha nem tud csoportot létrehozni a Microsoft Teams alkalmazásban
+# <a name="what-to-do-if-you-cant-create-a-team-in-microsoft-teams"></a>Mi a Microsoft Teams
 
-Kérje meg a Teams rendszergazdáját, hogy végezze el az alábbiakat:
+Kérje meg Teams rendszergazdát, hogy tegye a következőket:
 
-1. A szervezet biztonsági csoportjának beállításainak létrehozása vagy módosítása a Microsoft 365-ban.
+1. Hozza létre vagy módosítsa a szervezet biztonsági csoportjának beállításait a Microsoft 365.
 2. Adja hozzá a biztonsági csoporthoz.

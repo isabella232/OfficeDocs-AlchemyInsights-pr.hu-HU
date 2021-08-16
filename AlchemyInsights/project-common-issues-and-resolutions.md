@@ -1,5 +1,5 @@
 ---
-title: A projekttel kapcsolatos gyakori problémák és megoldási problémák
+title: Project gyakori problémák és megoldásaik
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 969cf2812a60f4b9a03aad46c96c1eb7a0458816
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 36d504120b5d81b06294afbfb1be4c6e73f0f696c4ea7118c6867e56ccb46b70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830836"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039680"
 ---
-# <a name="project-common-issues-and-resolutions"></a>A projekttel kapcsolatos gyakori problémák és megoldási problémák
+# <a name="project-common-issues-and-resolutions"></a>Project gyakori problémák és megoldásaik
 
-Íme néhány gyakran kért témakör a Projecttel:
+Íme néhány gyakran kért témakör a Project:
 
-1. **Ismerkedés a Project Online-sal:** Kezdje el használni a [Project Online-t,](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) és ismerje meg, hogyan tervezze meg, implementálja és tartsa karban a Project [Online-t](https://docs.microsoft.com/projectonline/project-online) a környezetében.   A [fontos korlátozások áttekintéséhez](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) tekintse át a Project Online szoftverkorlátozásokat és -korlátokat.
+1. **Első lépések a Project Online:**[A](https://docs.microsoft.com/ProjectOnline/get-started-with-project-online) Project Online használatba Project Online megtudhatja, hogy miként tervezze [meg,](https://docs.microsoft.com/projectonline/project-online) implementálja és tartsa karban a Project Online környezetében.   A [Project Online a szoftverkorlátokat](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) és -korlátokat ismertető részen ellenőrizheti a fontos korlátozásokat.
 
-2. **Hozzáférést adhat a felhasználóknak a Project Online-hoz:** [Személyeket, csoportokat és erőforrásokat adhat hozzá, és megoszthatja a Project Online-t,](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) hogy együttműködjön másokkal. 
+2. **Hozzáférést adhat a felhasználóknak az Project Online:** [Személyeket, csoportokat és erőforrásokat adhat](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) hozzá, és megoszthatja a Project Online másokkal való együttműködéshez. 
 
-3. **A Project Web App (PWA) teljesítményének finomhangolása a Project Online-ban:** Tekintse át [a](https://docs.microsoft.com/projectonline/tune-project-online-performance) Project Web App néhány leggyakoribb beállításának teljesítményre gyakorolt hatását és szakmai hatásait.
+3. **A Project Web App (PWA) teljesítményének finomhangolása a Project Online:** Tekintse át a Web App [néhány](https://docs.microsoft.com/projectonline/tune-project-online-performance) leggyakoribb beállításának teljesítményre gyakorolt hatását Project.
 
-4. **Csatlakozás a Project Online-hoz a Project asztali ügyfélprogrammal:** A [Project Online asztali ügyfélprogramot](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) használva csatlakozhat a Project Online-hoz Microsoft 365-ös környezetében. 
+4. **Csatlakozás Project Online ügyfélprogrammal való Project:** Az asztali [Project Online használatával](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) csatlakozhat a Project Online a saját Microsoft 365 környezetében. 
 
-5. **A Project Professional telepítése:** Telepítse és használja a [Project Professionalt](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) a Project Online előfizetéses verzióival, valamint a Project 2019, 2016 vagy 2013 nem előfizetéses verzióival.
+5. **Telepítési Project Professional:** Telepítse és használja az [Project Professional-ot](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) az Project Online előfizetéses verzióival, valamint a Project, 2016 vagy 2013 nem előfizetéses verzióival.
