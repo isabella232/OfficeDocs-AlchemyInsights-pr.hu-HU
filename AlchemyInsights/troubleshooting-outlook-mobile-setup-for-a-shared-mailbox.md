@@ -1,5 +1,5 @@
 ---
-title: 1800014 a megosztott postaláda Outlook Mobile-beállításának hibaelhárítása
+title: 1800014 megosztott Outlook mobileszközön való beállításának hibaelhárítása
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: 598e6a5b-daca-45b8-a1e4-99ce018aa64c
-ms.openlocfilehash: 856560dbe7e66460fd2c6690aed1f32174d5dd7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78e015918f7b1ebfea3898a7ede5518b847c7be19971d5ef59854da8b005667f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020698"
 ---
-# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Megosztott postaláda Outlook Mobile-beállításának hibaelhárítása
+# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>A megosztott Outlook mobileszközön való beállításának hibaelhárítása
 
-A mobileszközön telepített Outlook appból nem férhet hozzá a megosztott postaládához. Szeretné ezt a funkciót? Hagyja, hogy az Outlook mérnöki csapata tudja. [Szavazzon ide](https://go.microsoft.com/fwlink/?linked=862116)!
+A mobileszközön telepített Outlook appból nem férhet hozzá a megosztott postaládához. Szeretné ezt a funkciót? Tudaja Outlook mérnöki csapattal. [Szavazzon itt!](https://go.microsoft.com/fwlink/?linked=862116)
   
-Egy mobileszközön csak akkor használhat megosztott postaládát, ha megnyitja a böngészőt, bejelentkezik, majd a webes Outlookot fogja használni. Útmutatásért olvassa el a [megosztott postaláda hozzáadása a webes Outlookban](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)című témakört. A Webes Outlookban hozzáférhet a megosztott postaládához.
+Mobileszközön csak megosztott postaládát használhat, ha megnyitja a böngészőt, bejelentkezik, majd megnyitja a Webes Outlook. Útmutatásért olvassa el a Megosztott postaláda [hozzáadása a Webes Outlook.](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207) A Webes Outlookban hozzáférhet a megosztott postaládához.
   
-További információ: [az App súgója az iOS és az Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243) rendszerhez készült Outlookhoz
+További információ: Alkalmazáson belüli súgó [az iOS Outlook Android rendszerhez](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243) készült alkalmazásokhoz
   
 

@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034504"
 ---
 # <a name="how-users-can-search-their-online-archive-for-messages"></a>Hogyan kereshetnek a felhasználók az online archívumban üzenetekre?
 
-Az online archívum az Office 365 nagyvállalati ügyfelei számára elérhető szolgáltatás, akik szokatlanul nagy postaládával rendelkezik. A felhasználók online archívuma egy második fiókként működik az Outlookban, saját mappaszerkezettel. E-mailek keresésére az online archívumban:
+Az online archívum a nagyvállalati ügyfelek számára Office 365, akiknek ritkán van nagy postaládájuk. A felhasználók online archívuma egy második fiókként működik Outlook saját mappaszerkezettel. E-mailek keresésére az online archívumban:
 
 1. Az online archívum nem szerepel a Beérkezett üzenetek mappában végzett keresések között. Meg kell keresnie az online archívumot, és el kell végeznie a keresést.
-2. A Webes Outlookban az archívum neve Hely *archívum.* Keresse meg az In-Place archiválási postaládát, és végezze el a keresést.
-3. Az Outlook 2016-ban ez az Online archívum *– <. `name` >* Keresse fel az Online archív postaládát, és végezze el a keresést.
+2. A Webes Outlook az archívum neve Hely *archívum.* Keresse meg az In-Place archiválási postaládát, és végezze el a keresést.
+3. A Outlook 2016 neve Online archívum *– <. `name` >* Keresse fel az Online archív postaládát, és végezze el a keresést.
 
 > [!TIP]
-> A felhasználók mobileszközön, például okostelefonon nem tudnak hozzáférni az online archív postaládájukhoz az Outlook használatával.
+> A felhasználók mobileszközön, például okostelefonon Outlook hozzáférhetnek az online archív postaládájukhoz.

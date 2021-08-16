@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fef1b01647ca0a2828f6b1f09bc9850b54da777edd04d2fd76e6c79579fbefcc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835849"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075127"
 ---
 # <a name="put-apps-on-the-desktop"></a>Alkalmazások telepítése az asztalra
 
 Keresse meg az alkalmazást a **Start menüben,** és a bal egérgombot lenyomva kezében az ikont az asztalra mozgatva fogja meg az app ikonját.
 
-Lenyomhatja a Windows billentyű **+ R billentyűkombinációt** is, majd begépelheti a következő parancsot:
+Lenyomhatja a **Windows + R billentyűkombinációt** is, majd begépelheti a következő parancsot:
 
 `shell:appsfolder`
 

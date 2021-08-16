@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100006"
 - "7960"
-ms.openlocfilehash: 5c7081f8991716a8ac72f462c6c7ef88e800ab9c
-ms.sourcegitcommit: 6f1af4aed507d4c074c36d77666cf00100efe168
+ms.openlocfilehash: 085d9b211d5a8e9a0e1eb12af14d87a4e59c844a3afa012095dfd60db316ad14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046754"
 ---
 # <a name="your-archive-mailbox-is-almost-full"></a>Az archív postaláda majdnem megtelt.
 
-Ha a felhasználó figyelmeztetést kap; **Az archív postaláda majdnem megtelt,** vagy növelnie kell az archív postaládája méretét, íme néhány tipp:
+Ha a felhasználó figyelmeztetést kap; **Az archív postaláda majdnem** megtelt, vagy növelnie kell az archív postaládája méretét. Íme néhány tipp:
 
-1. Ha a felhasználóhoz Exchange Online 1. csomag van rendelve, frissítsen **az Exchange Online 2.** csomag licencére, és növelje a méretet 50 GB-ról 100 GB-ra.
-1. Ha a felhasználóhoz már hozzárendelték az alábbi lehetőségek egyikét: **Exchange Online 2.** csomag vagy Exchange Online 1. csomag Exchange Online archiválási bővítő bővítővel, az alábbi lépésekkel engedélyezheti az automatikus archiválást:
+1. Ha a felhasználóhoz Exchange Online 1. csomag, frissítsen a **Exchange Online 2.** csomag licencre a méret 50 GB-osról 100 GB-ra való növeléséhez.
+1. Ha a felhasználóhoz már hozzá van rendelve az alábbi lehetőségek valamelyike: **Exchange Online 2.** csomag vagy egy Exchange Online Exchange Online Archiválás bővítményt használó Exchange Online Archiválás 1. csomag, az alábbi lépésekkel engedélyezze az automatikus archiválást:
  
-    1. [Csatlakozás az Exchange Online Powershellhez.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true)
-    2. Futtassa az alábbi parancsmagot a felhasználónak:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
-    1. Az alábbi parancsmag futtatásával erősítse meg, hogy engedélyezve van a felhasználó számára:  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
+    1. [Csatlakozás Powershell Exchange Online át.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true)
+    2. Futtassa az alábbi parancsmagot a felhasználó számára:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
+    1. A következő parancsmag futtatásával erősítse meg, hogy engedélyezve van a felhasználó számára:  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
 
 További információ:
 
-- [ Korlátlan archiválás engedélyezése – rendszergazdai súgó – Microsoft 365 megfelelőségi | Microsoft Dokumentumok](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
+- [Korlátlan archiválás engedélyezése – rendszergazdai súgó – Microsoft 365 megfelelőségi | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
 
-- [Az Exchange Online korlátai – Szolgáltatásleírások | Microsoft Dokumentumok](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
+- [Exchange Online korlátozások – A szolgáltatásleírások | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
 
-- [Frissítés másik üzleti csomagra | Microsoft Dokumentumok](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
+- [Frissítés másik vállalati csomagra | Microsoft Docs](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
 

@@ -1,5 +1,5 @@
 ---
-title: A Microsoft 365 vagy egy egyéni Office-alkalmazás telepítése
+title: Telepítse a Microsoft 365 appcsomagot vagy egy különálló Office-app
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003892"
 - "6946"
-ms.openlocfilehash: f8098b094a38ed1bffc1fd1e914d8e4ae07c310f
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 796c73262e44e8f3e74f951f9409a9c6996367edeef53572f8caf6bbb56adf47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49678713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067410"
 ---
-# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>A Microsoft 365 vagy egy egyéni Office-alkalmazás telepítése
+# <a name="install-the-microsoft-365-app-bundle-or-an-individual-office-app"></a>Telepítse a Microsoft 365 appcsomagot vagy egy különálló Office-app
 
-A Microsoft 365 alkalmazás-köteg a Word, az Excel és a PowerPoint alkalmazást tartalmazza. A köteg elérhető az iPhone-on, és elérhető lesz az iPadhez a jövőben. Az iPhone-on és az iPaden egyaránt elérhetők az egyes alkalmazások.
+Az Microsoft 365 alkalmazáscsomag tartalmazza a Word, a Excel és a PowerPoint. A csomag elérhető a iPhone, és a jövőben iPad része lesz a csomaghoz. Az egyes appok a iPhone és a iPad.
 
-1. [Az alkalmazás kötegének telepítése](https://go.microsoft.com/fwlink/?linkid=2136762)
+1. [Az alkalmazáscsomag telepítése](https://go.microsoft.com/fwlink/?linkid=2136762)
 1. [A Word telepítése](https://go.microsoft.com/fwlink/?linkid=2136974)
-1. [Az Excel telepítése](https://go.microsoft.com/fwlink/?linkid=2136975)
-1. [A PowerPoint telepítése](https://go.microsoft.com/fwlink/?linkid=2136882)
-1. [A OneNote telepítése](https://go.microsoft.com/fwlink/?linkid=2136883)
+1. [Telepítés Excel](https://go.microsoft.com/fwlink/?linkid=2136975)
+1. [Telepítési PowerPoint](https://go.microsoft.com/fwlink/?linkid=2136882)
+1. [Telepítés OneNote](https://go.microsoft.com/fwlink/?linkid=2136883)
 
-További információt az [Office telepítése és beállítása iPhone-on vagy iPaden](https://go.microsoft.com/fwlink/?linkid=2135560)című témakörben találhat.
+További információ: Az Office telepítése és beállítása [iPhone-iPad.](https://go.microsoft.com/fwlink/?linkid=2135560)
