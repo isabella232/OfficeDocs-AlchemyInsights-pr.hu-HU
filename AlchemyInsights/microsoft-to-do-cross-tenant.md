@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012166"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>A Microsoft to do Cross-bérlői megosztás
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do-bérlő közötti megosztás
 
-A Microsoft to do támogatja a személyes és a munkahelyi fiókok közötti megosztást. Ezzel lehetővé teszi a felhasználók számára a szervezet
+Microsoft To Do lehetővé teszi a listamegosztást a személyes és a munkahelyi fiókok között. Ez lehetővé teszi a felhasználóknak a szervezetben
 
-bekapcsolódhat, megtekintheti, módosíthatja és hozzáadhatja a személyes Microsoft-fiókok által birtokolt listákat.
+személyes Microsoft-fiókok listáihoz csatlakozhat, megtekintheti, módosíthatja és felveheti az adatokat.
 
-A rendszergazdák számára új rendszergazdai beállítás a funkció letiltása a beállítás ellenőrzésének ellenőrzésével.
+A rendszergazdák új rendszergazdai beállítással tilthatják le ezt a funkciót a beállítás kikapcsolásához.
 
-Ezt a beállítást a rendszergazda a **Beállítások**  >  **szervezeti beállítások**  >  **szolgáltatása** a  >  **Microsofttól elvégezhető** beállítások csoportban találja a felügyeleti portálon.  
+Ezt a beállítást a rendszergazdai portál Szervezeti szolgáltatások Gépház csoportban  >  **Gépház**  >    >  **találhatja Microsoft To Do.**  
 
 [Miért nem tudok csatlakozni egy megosztott listához?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
