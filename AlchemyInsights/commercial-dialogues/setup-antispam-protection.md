@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058508"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874577"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Levélszemét elleni védelem beállítása
 
-Ehhez tegye a következőt:
+1. A Microsoft 365 Defender portálon a Házirendek szakaszban & e-mailes együttműködési házirendek & szabályok veszélyforrások elleni védelem című <https://security.microsoft.com/>  \>  \>  \>  **szakaszát.**
 
-1. A biztonsági Office 365 [megfelelőségi & meg.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Lépjen a **Veszélyforrások elleni védelem**  >  **házirend lapra,** és kattintson a **[Levélszemét elleni gombra.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
-1. Az Egyéni **lapon** kapcsolja be az Egyéni **beállítások** beállítást.
-1. Bontsa ki **az Alapértelmezett levélszemétszűrő házirend** lehetőséget, kattintson a Házirend szerkesztése **gombra,** és adja meg az alábbi beállításokat:
-    1. A **Levélszemét- és tömeges** műveletek csoportban állítsa a küszöbértéket 5 vagy 6 értékre.
-1. Kattintson a **Mentés** gombra.
+   Ha közvetlenül a **Levélszemét-szűrési házirendek** lapot kell használnia, használja a <https://security.microsoft.com/antispam> következőt: .
 
-A levélszemét-szűrési házirendek beállításairól A levélszemét-szűrési házirendek [konfigurálása.](https://go.microsoft.com/fwlink/?linkid=2092051)
+2. A **Levélszemét-szűrési házirendek** lapon tegye a következők valamelyikét:
+   - Új házirend hozzáadásához válassza a **+ Bejövő létrehozás** \> **lehetőséget.** Elindul egy varázsló, amely segít meghatározni a házirendbeállításokat.
+   - Meglévő házirend szerkesztéséhez jelölje ki a házirendet a házirend nevére **kattintva** ( Típus: Egyéni levélszemét-szűrési házirend vagy Név **a** Levélszemét-szűrési bejövő **házirend (alapértelmezett)**).  A megjelenő részleteket tartalmazó előjelben válassza a Szerkesztés lehetőséget a konfigurálni kívánt beállításokat tartalmazó szakaszban. 
+
+3. A beállítások áttekintése után válassza  a Küldés (új) vagy a **Mentés** (szerkesztés) lehetőséget.
+
+További információ: [Levélszemét-szűrési házirendek konfigurálása az EOP szolgáltatásban.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

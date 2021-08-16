@@ -1,5 +1,5 @@
 ---
-title: a POP-és az IMAP-kiszolgáló beállításainak megkeresése a 1800018
+title: 1800018 POP- és IMAP-kiszolgáló beállításainak megkeresása
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -12,15 +12,15 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 7c444ce7a77fa34ac678de40b36c1c7e27cd1b47
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f26a1e411e27916ceb32409982c9e9ec5133975e527793657160b598f7da892
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099936"
 ---
-# <a name="find-your-pop-or-imap-server-settings"></a>A POP-vagy az IMAP-kiszolgáló beállításainak megkeresése
+# <a name="find-your-pop-or-imap-server-settings"></a>A POP- vagy IMAP-kiszolgáló beállításainak megkeresása
 
-Ha nem tudja, milyen beállításokkal kell felvennie a POP-vagy IMAP-fiókját az Outlookba, az [Outlook pop-és IMAP-beállításai](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)között is megnézheti őket.
+Ha nem tudja, milyen beállításokra van szüksége a POP- vagy IMAP-fiókjának a Outlook-hoz való hozzáadásához, a pop- és [IMAP-alapú](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)levelezési beállítások között a Outlook.
   
  

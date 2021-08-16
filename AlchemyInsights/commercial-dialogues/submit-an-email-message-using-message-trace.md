@@ -12,17 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978847"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874541"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>E-mail küldése üzenetkövetés használatával
 
-1. Válassza a [Office 365 biztonsági & megfelelőségi központot,](https://go.microsoft.com/fwlink/p/?linkid=2077143)majd az E-mail-forgalom   >  [üzenetkövetése et.](https://go.microsoft.com/fwlink/?linkid=2101048)
+1. Az EAC Exchange felügyeleti központját az <https://admin.exchange.microsoft.com> \> **E-mail-forgalom** \> **üzenetkövetése csoportban.**
+
+   Az **üzenetkövetési lapra való közvetlen ugráshoz** használja a következőt: <https://admin.exchange.microsoft.com/#/messagetrace> .
+
 2. Válassza **a + Start a nyomkövetést lehetőséget.**
-3. Végigmenni a megjelenő lehetőségeken. Jelölje ki a címzetteket és a feladókat, majd állítsa be a dátumtartományt a megfelelő módon. A többi beállítás alapértelmezett beállításait meghagyhatja.
-4. Válassza a **Keresés lehetőséget.** A keresési feltételek alapján megjelenik az e-mailek listája. Kattintson duplán a küldeni kívánt üzenetre, majd válassza az Üzenet **elküldése lehetőséget.**
-5. További információért olvassa el az Üzenetkövetés a Biztonsági & [központban.](https://go.microsoft.com/fwlink/?linkid=2101557)
+3. Végigmenni a megjelenő lehetőségeken. Jelölje ki a címzetteket és a feladókat, majd módosítsa a dátumtartományt a megfelelő módon. A többi beállítás alapértelmezett beállításait meghagyhatja.
+4. Válassza a **Keresés lehetőséget.** Az e-mailek listája a keresési feltételek alapján jelenik meg. Kattintson duplán a küldeni kívánt üzenetre, majd válassza az Üzenet **elküldése lehetőséget.**
+
+További információ: Üzenetkövetés [a modern EAC-ban.](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068922"
 ---
 # <a name="find-missing-applications"></a>Hiányzó alkalmazások megkeresve
 
-- [Gyorsútmutató: Az Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) bérlői webhelyet identitáskezeléshez használó alkalmazások listájának megtekintése, amely be van állítva az Azure AD bérlői fiók identitásszolgáltatóként való használatára beállított alkalmazások megtekintéséhez.
-- Ha egy adott alkalmazást keres,  válassza az Alkalmazástípus menüt, válassza a **Minden alkalmazás** lehetőséget, majd az **Alkalmaz gombot.**
-  - Írja be a megtalálni kívánt alkalmazás nevét. Ha az alkalmazást hozzáadta az Azure AD-bérlőjéhez, az megjelenik a keresési eredmények között. Az alkalmazásnév első néhány betűét is megadhatja.
-- [Az Alkalmazások Azure Active Directoryba](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) való felvételével vagy eltávolításával kapcsolatos gyakori problémák elhárítása segít megérteni, hogy a felhasználók milyen gyakori problémákkal szembesülnek alkalmazások megtekintésekor az Azure Active Directoryban.
+- [Rövid útmutató: Az Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) bérlői webhelyet identitáskezelésre használó alkalmazások listájának megtekintése bemutatja, hogy miként használhatja az Azure AD-bérlőt identitásszolgáltatóként már beállított alkalmazások, más néven appok megtekintéséhez.
+- Ha egy adott alkalmazást keres,  az Alkalmazás típusa menüben válassza a **Minden alkalmazás** elemet, majd az Alkalmaz **gombot.**
+  - Írja be a keresni kívánt alkalmazás nevét. Ha az alkalmazás hozzá lett adva az Azure AD-bérlőjéhez, megjelenik a keresési eredmények között. Az alkalmazás nevének első néhány betűját is megadhatja.
+- [Az alkalmazások hozzáadásakor](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) vagy eltávolításakor a Azure Active Directory segít megérteni, hogy a felhasználók milyen gyakori problémákkal szembesülnek az alkalmazások Azure Active Directory.
