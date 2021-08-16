@@ -1,5 +1,5 @@
 ---
-title: A védett üzenetek Outlookban való megtekintésével kapcsolatos probléma megoldása
+title: A védett üzenetek üzenetben való megtekintésekor a Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: a267e643031323baa448e51bca1b18a3030f43c2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5d560f62a349540fd0ba6a5df3cd0c210d1743c57ab7c74fac2967a90be23c80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745889"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017026"
 ---
-# <a name="fix-problem-viewing-protected-message-in-outlook"></a>A védett üzenetek Outlookban való megtekintésével kapcsolatos problémák megoldása
+# <a name="fix-problem-viewing-protected-message-in-outlook"></a>A védett üzenetek üzenetben való megtekintésekor a Outlook
 
-Bizonyos esetekben előfordulhat, hogy az Outlook nem tud megnyitni egy másik Microsoft 365-ös szervezetben található felhasználótól származó üzenetet, ha az üzenetet a Információvédelem védi.
+Bizonyos esetekben előfordulhat, Outlook nem tudja megnyitni egy másik Microsoft 365-szervezetben egy felhasználótól származó üzenetet, ha az üzenet a Rights Management védelem alatt áll.
 
 A védett üzenetek megnyitásához és megtekintéséhez kövesse az alábbi lépéseket:
 
-1. Győződjön meg arról, hogy telepítette az Outlook 1808+-as vagy újabb verzióját. A verziószámát a Melyik [Office-verziót használom?](https://support.microsoft.com/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
-2. Az e-mail megtekintése a Webes Outlookban: Bejelentkezés a [Webes Outlookba](https://outlook.office365.com/mail/inbox)
+1. Győződjön meg arról, hogy Outlook 1808-as vagy újabb verziók vannak telepítve. A verziószámát a Melyik verziójú Office [használom?](https://support.microsoft.com/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
+2. Próbálja meg az e-mailt a következő Webes Outlook: [Webes Outlook bejelentkezés](https://outlook.office365.com/mail/inbox)
 
 > [!NOTE]
-> Dolgozunk a probléma megoldásán az Outlook 2016-ban és 2019-ben. Az Outlook 2010-ben és 2013-ban nem lesz javítva.
+> Már dolgozunk azon, hogy megoldjuk a problémát a Outlook 2016 2019-ben. A 2010-es és 2013-as Outlook nem fogja kijavítni.

@@ -1,5 +1,5 @@
 ---
-title: Ismerje meg a Microsoft Edge támogatását a Windows-adatvédelem (befejezetlen termelés)
+title: Megtudhatja, Microsoft Edge hogyan támogatja Windows adatvédelmi szolgáltatás (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677971"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054320"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Ismerje meg a Microsoft Edge támogatását a Windows-adatvédelem (befejezetlen termelés)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Megtudhatja, Microsoft Edge hogyan támogatja Windows adatvédelmi szolgáltatás (WIP)
 
-A távoli dolgozók száma növekszik, így a vállalati eszközökön előforduló személyes és munkahelyi tevékenységek száma. Ez viszont növeli annak kockázatát, hogy a vállalati adatforgalom a munkahelyén kívül is megosztva legyen. A kockázat enyhítése érdekében a Microsoft Edge (81-es vagy újabb verzió) támogatja a Windows-adatvédelmet: a Windows-10 funkció, amely segít megvédeni a nagyvállalati adatokat a jogosulatlan és a véletlen közzétételtől.
+Ahogyan a távmunkások száma nő, a vállalati eszközökön végzett személyes és munkahelyi tevékenységek száma is nő. Ez viszont növeli annak kockázatát, hogy a vállalati adatok a munkahelyen kívül is megosztják. A kockázat csökkentése érdekében a Microsoft Edge (81-es vagy újabb verzió) támogatja a Windows Information Protection (WIP) szolgáltatást: ez egy Windows-10 funkció, amely segít megvédeni a vállalati adatokat az illetéktelen és véletlen nyilvánosságra kerüléstől.

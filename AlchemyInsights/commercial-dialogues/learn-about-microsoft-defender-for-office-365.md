@@ -1,5 +1,5 @@
 ---
-title: További információ az Office 365-nek való Microsoft Defenderről
+title: További információ a Microsoft Defender Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9eac6f1b666f7b8031fe3ff7b439c5c5ddf9e998
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d384b1d0aaba2faca60870dd04727985f9e13cda43687bc6f7bc53da90db4b9e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016954"
 ---
-# <a name="learn-about-microsoft-defender-for-office-365"></a>További információ az Office 365-nek való Microsoft Defenderről
+# <a name="learn-about-microsoft-defender-for-office-365"></a>További információ a Microsoft Defender Office 365
 
-Néhány információ az Office 365- ös Microsoft Defenderről:
+Néhány információ a Microsoft Defender for Office 365:
 
-- **Mi a Microsoft Defender az Office 365-hez?**  
-    Az Office 365 Defender egy felhőalapú e-mail-szűrő szolgáltatás, amely hatékony nulla napos védelmet nyújtva védelmet nyújt a szervezeteknek az ismeretlen kártevők és vírusok ellen. Olyan funkciókat tartalmaz, amelyek védik a szervezeteket a valós idejű kártékony hivatkozásoktól.
-- **Hogyan aktiválható a Microsoft Defender az Office 365-hez?**  
-    A biztonságos mellékletek, a biztonságos hivatkozások és az adathalászat a Defender az Office 365 részét képezi. A Nagyvállalati E5, az Oktatási A5 és a Microsoft 365 Vállalati verzió tartalmazza az Office 365 beépített Defender funkcióját. Minden más csomaghoz szükség van egy bővítmény Defenderre az Office 365-előfizetéshez. Ki kell rendelnie a megfelelő licenceket a felhasználókhoz ahhoz, hogy az Office 365 Defenderje védve legyen. Az Office  365- ös Defender eléréséhez globális rendszergazdai vagy biztonsági rendszergazdai engedélyekkel kell rendelkeznie.  Ha többet szeretne megtudni arról, hogy miként alkalmazhat licenceket tömegesen a felhasználókra, olvassa el a Licencek hozzárendelése felhasználókhoz az [Office 365 Vállalati verzióban.](https://go.microsoft.com/fwlink/?linkid=2093435)
-- **Hogyan kezelem az Office 365- ös Defendert, vagy többet is megtudok róla?**  
+- **Mi a Microsoft Defender Office 365?**  
+    A Defender Office 365 egy felhőalapú e-mail-szűrési szolgáltatás, amely hatékony nulla napos védelemmel segíti a szervezeteket az ismeretlen kártevők és vírusok ellen. Olyan funkciókat tartalmaz, amelyek védik a szervezeteket a valós idejű kártékony hivatkozásoktól.
+- **Hogyan aktiválható a Microsoft Defender Office 365?**  
+    Széf A mellékletek, Széf hivatkozások és az adathalászat elleni védelem a Defender Office 365. A Nagyvállalati E5, az Oktatási A5 Microsoft 365 és a vállalati verzió beépített Defendert tartalmaz a Office 365 funkciókhoz. Minden más csomaghoz szükség van egy bővítmény Defenderre Office 365 előfizetéshez. Ki kell rendelnie a megfelelő licenceket a felhasználókhoz ahhoz, hogy a Defender védelmet nyújt Office 365. A Defender csak  *globális rendszergazdai vagy* biztonsági rendszergazdai engedélyekkel Office 365. Ha többet szeretne megtudni arról, hogy miként alkalmazhat licenceket tömegesen a felhasználókra, olvassa el a Licencek hozzárendelése felhasználókhoz a [Office 365 vállalati verzióban.](https://go.microsoft.com/fwlink/?linkid=2093435)
+- **Hogyan kezelem a Defender Office 365, illetve hogyan többet megtudok róla?**  
   - Kattintson a [Beállítás gombra.](https://go.microsoft.com/fwlink/p/?linkid=2075721)  
   - A **Bejelentkezés és biztonság alatt keresse meg** a Speciális **veszélyforrások** elleni védelem növelése lehetőséget, majd válassza a Megtekintés [lehetőséget.](https://go.microsoft.com/fwlink/?linkid=2109302)

@@ -1,5 +1,5 @@
 ---
-title: Betekintést nyerhet az e-mail-alkalmazások használatával a szervezetben
+title: Betekintést nyerhet a levelezőalkalmazások szervezetben való használatára
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003962"
 - "7018"
-ms.openlocfilehash: 37a1c97793558c3842f62e43616a022d194611fb
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 67c2cbbb8b66cd4d1f6bce908569cc6a42a860e09f4b17f2d564aba724d0fc41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000574"
 ---
-# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Betekintést nyerhet az e-mail-alkalmazások használatával a szervezetben
+# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Betekintést nyerhet a levelezőalkalmazások szervezetben való használatára
 
-A Microsoft 365-jelentések irányítópulton áttekintheti a szervezetében a termékek közötti tevékenységet. Az egyes termékekben végzett tevékenységekhez betekintést nyerhet az egyes termékekkel. Az irányítópultot használhatja például annak ellenőrzéséhez, hogy a Microsoft 365-alkalmazások hogyan használatosak a platformokon keresztül. A jelentések megtekintéséhez globális rendszergazdának, globális olvasónak vagy a Microsoft 365 vagy a Microsoft Exchange, a SharePoint, a Teams szolgáltatás, a Teams Communications vagy a Skype vállalati verziós rendszergazdának kell lennie.
+A Microsoft 365 Jelentések irányítópultján áttekintést kaphat a termékek tevékenységről a szervezetében. Lehathat az egyes, termékszintű jelentésekbe, hogy betekintést nyerjen az egyes termékekben végrehajtott tevékenységekbe. Az irányítópulton például ellenőrizheti, hogy az Microsoft 365 hogyan használják a különböző platformokon. A jelentések csak akkor jelentéseket láthatnak, ha globális rendszergazdának, globális olvasónak vagy jelentésolvasónak kell lennie a Microsoft 365-ban, illetve a Microsoft Exchange, SharePoint, Teams Service, Teams Communications vagy Skype Vállalati verzió.
 
-Az *e-mail app használati* jelentése az irányítópult része, és azt jeleníti meg, hogy hány e-mail app van csatlakoztatva a Microsoft Exchange Online-hoz. A használatban lévő Microsoft Outlook-alkalmazások verziószámát is láthatja, így kérheti, hogy a felhasználók ne támogassák az Outlook által támogatott verzióikat.
+Az *E-mail-appok használata* jelentés az irányítópult része, és megjeleníti a csatlakoztatott levelezőalkalmazások Microsoft Exchange Online. A cikk a használt Microsoft Outlook-appok verzióinformációit is megjeleníti, így kérheti a felhasználókat, hogy a nem támogatott verziókról a támogatott verziókra Outlook.
 
-Az E-mail app használati jelentésének eléréséhez kövesse az alábbi lépéseket:
+Az E-mail-appok használati jelentésének eléréséhez kövesse az alábbi lépéseket:
 
-1. A Microsoft 365 felügyeleti központban válassza a **jelentések**  >  [kihasználtsága](https://go.microsoft.com/fwlink/?linkid=2140342)lehetőséget.
-2. A **jelentés kiválasztása** legördülő menüben válassza az **Exchange**  >  **levelezési app használata** lehetőséget.
+1. A jelentés Microsoft 365 Felügyeleti központ válassza a **Jelentések**  >  [kihasználtsága lehetőséget.](https://go.microsoft.com/fwlink/?linkid=2140342)
+2. A Jelentés **kiválasztása legördülő** menüben válassza a Levelezési **appok használata Exchange**  >  **elemet.**
 
-További információt [az e-mail-alkalmazások jelentésének értelmezése](https://go.microsoft.com/fwlink/?linkid=2140508)című témakörben talál.
+További információ: [A levelezőalkalmazások jelentése .](https://go.microsoft.com/fwlink/?linkid=2140508)

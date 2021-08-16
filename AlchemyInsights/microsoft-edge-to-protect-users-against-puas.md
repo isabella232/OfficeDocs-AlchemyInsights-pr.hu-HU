@@ -1,5 +1,5 @@
 ---
-title: A felhasználók védelme a PUAs szemben a Microsoft Edge segítségével
+title: Felhasználók Microsoft Edge a PUA-k ellen
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678440"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000502"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>A felhasználók védelme a PUAs szemben a Microsoft Edge segítségével
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Felhasználók Microsoft Edge a PUA-k ellen
 
-A Microsoft Edge verziói 80.0.361.50, majd később letiltják a potenciálisan nemkívánatos alkalmazások (PUAs) és a hozzájuk kapcsolódó URL-ek letöltését. A funkció bekapcsolásához tegye az alábbiakat:
+Microsoft Edge 80.0.361.50-es és újabb verziók letiltják az esetleg nemkívánatos alkalmazások és a kapcsolódó URL-ek letöltését. A funkció bekapcsol használatához tegye a következőket:
 
-1. Nyissa meg a **Beállítások**  >  a böngészőben –**Adatvédelem és szolgáltatások** lehetőséget.
+1. A **Gépház**  >  **és a szolgáltatások böngészőben való** használatával kapcsolatos szolgáltatásokat.
 
-2. Görgessen le a **szolgáltatások** részhez, és győződjön meg arról, hogy be van kapcsolva a **Microsoft Defender SmartScreen** és **blokkolni kívánt nemkívánatos alkalmazások** .
+2. Görgessen le a **Szolgáltatások szakaszhoz,** és győződjön meg arról, **Microsoft Defender SmartScreen** és a **Kéretlen** alkalmazások blokkolása be van kapcsolva.
 
-    A következő alkalommal, amikor a Microsoft Defender SmartScreen észleli a PUA, letilthatja, és erről értesítenie kell.
+    Amikor a Microsoft Defender SmartScreen észleli a PUA-t, az letiltja azt, és ennek megfelelően értesíti Önt.
 
-    További információt a [PUA-alapú URL-ek letiltása](https://go.microsoft.com/fwlink/?linkid=2133024)című témakörben talál.
+    További információért olvassa el, hogyan tilthatja le [a PUA-hoz társított URL-címeket.](https://go.microsoft.com/fwlink/?linkid=2133024)

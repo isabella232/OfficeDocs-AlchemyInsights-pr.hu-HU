@@ -1,5 +1,5 @@
 ---
-title: A MDM-hatóság nincs beállítva
+title: Nincs beállítva az Ön MDM-hitelesítésszolgáltatója
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046682"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>A MDM-hatóság nincs beállítva
+# <a name="your-mdm-authority-is-not-set"></a>Nincs beállítva az Ön MDM-hitelesítésszolgáltatója
 
-Az e bérlői webhely mobileszköz-kezelési (MDM) felügyelete nincs beállítva. Ahhoz, hogy a Intune-MDM keresztül MDM az eszközöket, be kell állítania egy-Authority-szolgáltatót. A MDM-hatóság beállítása nélkül nem fogja tudni használni a Intune MDM funkcióit. Az MDM-hatóság beállítása határozza meg, hogy miként kezelheti az eszközöket.
+Nincs beállítva a bérlő mobileszköz-kezelési (MDM- vagy mobileszköz-kezelési) hitelesítése. Mielőtt az Intune MDM segítségével regisztrálja és kezeli az eszközöket, be kell állítania egy MDM-et. Az Intune MDM-funkcióit az MDM-szervezet beállítása nélkül nem használhatja. Az eszköz kezeléséhez az MDM authority (Felügyeleti felügyeleti beállítások) beállítás határozza meg.
 
 Ajánlott lépések:
-1. A MDM-hatóság beállításához nyissa meg a Intune-regisztráció áttekintése pengét.
-2. A felügyeleti szükségletek alapján válassza ki a megfelelő jogosultságokat. További információért olvassa el [a mobileszköz-felügyeleti hatóság beállítása című cikket](https://docs.microsoft.com/intune/mdm-authority-set).
+1. Az Intune Enrollment Overview (Intune Enrollment Overview) panelen állítsa be az MDM-et.
+2. Válassza ki a felügyeleti igényeknek megfelelő hatóságot. További információt A mobileszköz-kezelési [felügyeleti szervezet beállítása cikkben talál.](https://docs.microsoft.com/intune/mdm-authority-set)

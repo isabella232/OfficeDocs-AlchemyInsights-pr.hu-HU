@@ -1,5 +1,5 @@
 ---
-title: A SharePoint-tárterület kiszámítása
+title: Tárterület SharePoint kiszámítása
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10010"
-ms.openlocfilehash: aaabcc52b4811c1eea9cd3f0c65e2bf81644354b
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 7feac3177052b8647ff571f875f6978e84b046e06283bc8ac5ba48cc148f14a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046430"
 ---
-# <a name="calculate-sharepoint-storage"></a>A SharePoint-tárterület kiszámítása
+# <a name="calculate-sharepoint-storage"></a>Tárterület SharePoint kiszámítása
 
-**Tárterület képlete:** 1 TB plusz [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) 10 GB licencenként vásárolt jogosult csomag, valamint bármely **[megvásárolt Office 365 Extra](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** tárhely bővítmény.
+**Storage képlet:** 1 TB plusz 10 GB [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) licencenként vásárolt jogosult csomag, valamint **[Office 365 Extra tárhely](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** vásárolt bővítmény.
 
-További információért lásd: [A SharePoint tárterületkorlátja terv szerint.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+További információt a Tárterületkorlátok [SharePoint terv szerint.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
