@@ -1,5 +1,5 @@
 ---
-title: E-mailek késése az Office-365 való küldéskor
+title: E-mail-késések a Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004158"
 - "7249"
-ms.openlocfilehash: 0f33b4987e11680e5e853b7b747b93767094b8ac
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: 06ee2c529795b165b3ace6bf0aac993410ed0776902155b511f920a09d133d84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099180"
 ---
-# <a name="mail-delays-when-sending-to-office-365"></a>E-mailek késése az Office-365 való küldéskor
+# <a name="mail-delays-when-sending-to-office-365"></a>E-mail-késések a Office 365
 
-Ha a ProofPoint-on vagy más SendMail-üzenetkezelő rendszereken keresztül irányítja az e-maileket, és késlelteti az e-mailek küldését az Exchange Online-ba, olvassa el a következő cikket: a [ProofPoint-alapú adatvédelem](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange)
+Ha a [ProofPointon](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/configure-proofpoint-with-exchange)vagy más levelezőrendszeren keresztül irányítja át az e-maileket, és késve küldi el az e-maileket a Exchange Online-be, olvassa el a következő cikket: A Proofpoint e-mail-védelmi szolgáltatásának konfigurálása Exchange Online.
 
-Ezzel a beállítással megadhatja a módosítások konfigurálását a levelek késésével kapcsolatos problémák megoldásához.
+Ezzel a beállítással az e-mail késési problémáinak megoldásához konfigurálhatja a módosításokat.
