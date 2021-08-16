@@ -1,5 +1,5 @@
 ---
-title: Feladók letiltása és letiltásuk feloldása az Outlook.com-on
+title: Feladók blokkolása és letiltásának feloldása a Outlook.com webhelyen
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,28 +16,28 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ba52dacf8e357b1910c4e3be8714128b96e9ad0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b49b869700a3e564e0386c5bd2e3b8d539d2f47d48f3a54f3718c770ccc9a0bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041516"
 ---
-# <a name="block-or-unblock-senders"></a>Feladók letiltása és letiltásuk feloldása
+# <a name="block-or-unblock-senders"></a>Feladók blokkolása és letiltásának feloldása
 
-A Tiltott feladók listájában szereplő e-mail-címekről vagy tartományokból érkező üzenetek nem fognak megjelenni az Outlook.com-postaládájában.
+A letiltott feladók listáján található e-mail címekről és tartományokról érkező üzenetek nem fognak a Outlook.com-postaládájába.
 
 **A Beérkezett üzenetek mappából:**
 
-- Az üzenetlistában jelölje ki az üzenetet, és válassza a **Levélszemét**  >  **blokkolása**lehetőséget.
+- Az üzenetlistában jelölje ki az üzenetet, majd válassza a **Levélszemét**  >  **lehetőséget.**
 
-**Beállítások:**
+**A Gépház:**
 
-1. A [Levélszemét-](https://outlook.live.com/mail/options/mail/junkEmail) beállítások megnyitása
-2. A **letiltott feladók és tartományok**csoportban válassza a **Hozzáadás**lehetőséget.
-3. Írja be a letiltani kívánt tartomány e-mail-címét, és nyomja le az ENTER billentyűt.
+1. Nyissa [meg a Levélszemét beállításait.](https://outlook.live.com/mail/options/mail/junkEmail)
+2. A **Letiltott feladók és tartományok területen válassza** a Hozzáadás **lehetőséget.**
+3. Írja be a letiltani kívánt tartomány e-mail címét, és nyomja le az Enter billentyűt.
 4. Válassza a **Mentés** elemet.
 
-A feladó feloldásához jelölje ki a letiltani kívánt e-mail-cím vagy tartomány melletti Kuka ikont.
+Egy feladó letiltásának feloldásához válassza a kuka ikont a feloldani kívánt e-mail-cím vagy tartomány mellett.
 
-További információt a [feladók tiltása vagy az e-mailek megjelölése levélszemétként](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)című témakörben talál.
+További információ: [Feladók blokkolása vagy e-mailek megjelölése levélszemétként.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
