@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004400"
 - "8602"
-ms.openlocfilehash: d31f77e70e8456a4076a8146025f1f8ada977a06
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 6f9e164713ce36023de954d45031fd4414780e174bf5c7741c4aec274a65b32e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067842"
 ---
 # <a name="gpo-deployment"></a>GPO-telepítés
 
-Az Azure Active Directory tartományi szolgáltatásokban (Azure AD DS) található felhasználói és számítógépes objektumok beállításait gyakran csoportházirend-objektumok (GPOs) használatával kezelik. Az Azure AD DS beépített CSOPORTHÁZIREND-objektumokat tartalmaz az AADDC-felhasználók és az AADDC számítógépek tárolóihoz. Ezeket a beépített csoportházirend-objektumokat testre szabhatja úgy, hogy a környezetéhez szükség szerint konfigurálja a csoportházirendeket. Az Azure AD DC rendszergazdák csoportjának tagjai csoportházirend-felügyeleti jogosultságokkal az Azure AD DS tartományban, valamint egyéni csoportházirend-objektumokat és szervezeti egységeket is létrehozhatnak. A csoportházirendek szerkezetét és működését a Csoportházirendek áttekintése [témakörben olvashatja.](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831791(v=ws.11))
+Gépház Azure Active Directory tartományi szolgáltatásokban (Azure AD DS) lévő felhasználói és számítógépes objektumokat gyakran kezelik csoportházirend-objektumok (GPOS-k) használatával. Az Azure AD DS beépített GPOS-eket tartalmaz az AADDC-felhasználók és az AADDC számítógépek tárolóihoz. Ezeket a beépített CSOPORTHÁZIREND-objektumokat testre szabhatja úgy, hogy a környezetéhez szükséges csoportházirendeket konfigurálja. Az Azure AD DC rendszergazdák csoportjának tagjai csoportházirend-felügyeleti jogosultságokkal az Azure AD DS tartományban, valamint egyéni csoportházirend-objektumokat és szervezeti egységeket is létrehozhatnak. A csoportházirendek működése és működése a Csoportházirendek áttekintése [témakörben található.](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831791(v=ws.11))
 
-Hibrid környezetben a helyszíni AD DS-környezetben konfigurált csoportházirendek nem szinkronizálódnak az Azure AD DS szolgáltatásba. Ha konfigurációs beállításokat ad meg az Azure AD DS felhasználóinak vagy számítógépein, szerkessze az egyik alapértelmezett csoportházirend-objektumát, vagy hozzon létre egy egyéni csoportházirend-objektumát.
+Hibrid környezetben a helyszíni AD DS-környezetben konfigurált csoportházirendek nem szinkronizálódnak az Azure AD DS szolgáltatásba. Az Azure AD DS-felhasználók és számítógépek konfigurációs beállításainak meghatározásához szerkessze az egyik alapértelmezett csoportházirend-objektumát, vagy hozzon létre egyéni csoportházirend-objektumokat.
 
-Ez a [csoportházirend-kezelésről](https://docs.microsoft.com/azure/active-directory-domain-services/manage-group-policy) készült cikk bemutatja, hogy miként telepítheti a csoportházirend-kezelő eszközöket, hogyan módosíthatja a beépített csoportházirend-objektumokat, és hogyan hozhat létre egyéni csoportházirend-objektumokat.
+Ebből a [csoportházirend-kezelésről](https://docs.microsoft.com/azure/active-directory-domain-services/manage-group-policy) ebben a cikkben olvashat arról, hogy miként telepítheti a csoportházirend-kezelő eszközöket, hogyan szerkesztheti a beépített gposokat, és hogyan hozhat létre egyéni CSOPORTHÁZIREND-objektumokat.
