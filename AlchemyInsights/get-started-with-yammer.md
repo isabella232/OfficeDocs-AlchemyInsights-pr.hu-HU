@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002296"
 ---
 # <a name="get-started-with-yammer"></a>Ismerkedés a Yammerrel
 
-A Yammer a legalkalmasabb az osztály, a biztonságos és a privát vállalati közösségi hálózat. A Yammer az interneten, valamint az Android és iOS rendszerű eszközökön elérhető Yammer alkalmazásban is vonzó és könnyen használható élményt nyújt. A Yammer a Microsoft Teams és az Outlook programmal is integrálható. A Yammer a SharePoint Online továbbfejlesztett integrációs élményét is tartalmazza.
+Yammer osztályon belül a legjobb, biztonságos és privát vállalati közösségi hálózat. Yammer érdekes és könnyen használható élményt nyújt a weben és az Android és iOS Yammer iOS-eszközökhöz készült Yammer appban. Yammer integrálhatók a Microsoft Teams és a Outlook. Yammer frissített integrációs élményt biztosít a SharePoint online verzióban.
 
-A Yammer-telepítő tanácsadó segítségével hozhatja elő a Yammer-hálózatot tartományok hozzáadásával, rendszergazdák definiálásával és a Yammer-hálózatok kombinálásával. Telepítse a Yammer, majd szabja testre a kinézetet, állítsa be a biztonságot és a megfelelőséget, és pontosítsa a beállításokat.
+Az Yammer telepítési tanácsadó segítségével előkészítheti Yammer hálózatát tartományok hozzáadásával, rendszergazdák definiálásával és a Yammer kombinálásával. Telepítse Yammer, majd szabja testre a megjelenést, konfigurálja a biztonságot és a megfelelőséget, és finomítsa a beállításokat.

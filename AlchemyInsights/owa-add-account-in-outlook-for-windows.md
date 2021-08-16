@@ -1,5 +1,5 @@
 ---
-title: A webes Outlook-fiók felvétele a Windows Outlookba
+title: Vegye fel az Webes Outlook-fiókját a Outlook-Windows
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,21 +10,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 636c5b7c239cf4d8ffc3b44b50c5a7ebb7b55e1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cdb570c354c10798471eff282628b04400ad33abc9daea0abce6cb4bcc55e41d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671302"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010690"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>A webes Outlook-fiók felvétele az Outlookba
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Vegye fel az Webes Outlook-fiókját a Outlook
 
-Ezek a lépések megegyeznek, hogy az első e-mail-fiókot vagy további e-mail-fiókokat vesz fel az Outlookba.
+Az alábbi lépések attól függetlenül azonosak, hogy első e-mail-fiókját vagy további e-mail-Outlook.
 
-1. Válassza a **fájl**  >  **hozzáadása fiók**lehetőséget.
-1. A következőhöz kapcsolódó információk az Outlook verziójától függnek:
-    - Az **Outlook for Office 365** és az **Outlook 2016**esetén adja meg az e-mail címét, és kattintson a **Csatlakozás**gombra.
-    - Az **outlook 2013** és az **Outlook 2010**esetén adja meg a nevét, az e-mail-címét és a jelszavát, majd kattintson a **tovább**gombra.
-1. Ha a rendszer kéri, adja meg ismét a jelszavát, majd válassza **az OK**  >  **befejezése** gombot az e-mail-fiók Outlookban történő használatának megkezdéséhez.
+1. Válassza **a Fájl** hozzáadása fiók  >  **lehetőséget.**
+1. Az, hogy mit lát ezután, attól függ, hogy milyen verziójú Outlook:
+    - A **Outlook és a Office 365** Outlook 2016 adja meg az e-mail-címét, és kattintson a Csatlakozás. 
+    - A **Outlook 2013** és **Outlook 2010** használata alatt adja meg a nevét, az e-mail-címét és a jelszavát, majd kattintson a Tovább **gombra.**
+1. Ha a rendszer kéri, adja meg ismét a jelszavát, majd válassza az **OK** Befejezés gombot az e-mail-fiók használatának  >   Outlook.
 
-További információt az [e-mail-fiók felvétele az Outlookba](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)című témakörben talál.
+További információt az E-mail-fiók [felvétele a Outlook.](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b)

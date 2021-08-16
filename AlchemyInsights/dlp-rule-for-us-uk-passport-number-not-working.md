@@ -1,5 +1,5 @@
 ---
-title: Az Amerikai Egyesült államokbeli Passport-szám nem működött a DLP-szabály szerint
+title: Nem működő egyesült királyságbeli útlevélszámra vonatkozó DLP-szabály
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: c6c7191f380f264113e2042f2869d9767922b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85e3ed7fdc221981de13ab6e2ada8adf2a3a80b40ff163981e047cc4a02a1514
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004948"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>A DLP-US/UK-hu/UK Passport-számokkal kapcsolatos problémák
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Problémák a DLP - EGYESÜLT királyságbeli útlevélszámokkal
 
 **Fontos**: Ezekben a példátlan időkben lépéseket teszünk annak biztosítására, hogy a SharePoint Online és a OneDrive szolgáltatások továbbra is mindig hozzáférhetők legyenek – További információt a [SharePoint Online Ideiglenes funkciómódosítások](https://aka.ms/ODSPAdjustments) oldalon olvashat.
 
-**DLP-problémák az Amerikai Egyesült államokbeli Passport-számokkal**
+**Egyesült királyságbeli útlevélszámokkal kapcsolatos DLP-problémák**
 
-Problémákat tapasztal az **adatvesztés-megelőzéssel (DLP)** , ha nem működik az **amerikai/brit útlevél számát** tartalmazó tartalom, ha a O365-ban DLP típusú bizalmas adattípust használ? Ha igen, győződjön meg arról, hogy a tartalom a kiértékeléskor a DLP-házirend szempontjából szükséges információkat tartalmazza.
+Nem működik az adatveszteség-megelőzési **(DLP)** probléma  az Egyesült Királyságban érvényes egyesült királyságbeli útlevélszámmal rendelkező tartalommal kapcsolatban, ha bizalmas adattípust használ az O365-ben? Ebben az esetben győződjön meg arról, hogy a tartalom tartalmazza azokat az információkat, amelyekre a DLP-házirend értékelésekor szüksége van.
   
-Például az 75%-os megbízhatósági szinttel konfigurált **amerikai/brit Passport** -házirend esetén a program kiértékeli az alábbiakat, és észleli a szabályt az indításhoz.
+Egy 75%-os megbízhatósági szinttel konfigurált EGYESÜLT KIRÁLYSÁG-beli útlevélszám-házirend esetén például az alábbiakat értékeli ki a rendszer, és a szabály csak akkor aktiválódik, ha a szabály aktiválódik: 
   
 - **[Formátum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** Kilenc számjegy
 
 - **[Minta:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Kilenc egymást követő számjegy
 
-- **[Ellenőrzőösszeg:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nem, nincs ellenőrzőösszeg
+- **[Ellenőrzőum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Nem, nincs Ellenőrzőum
 
-- **[Definíció:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** A DLP-házirend 75%-os megbízhatósági szinttel jelenti az ilyen típusú bizalmas adatok észlelését, ha az 300 karaktereken belül:
+- **[Definíció:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** A DLP-házirend 75%-os magabiztosan észleli ezt a típusú bizalmas információt, ha 300 karakteren belül:
 
-  - A függvény Func_usa_uk_passport megkeresi a mintázattal egyező tartalmat.
+  - A függvény Func_usa_uk_passport mintára illeszkedő tartalmat talál.
 
-  - A Keyword_passport kulcsszója megtalálható.
+  - Található egy Keyword_passport.
 
-    Az alábbi minta például az Amerikai Egyesült államokbeli **Passport-számokra** vonatkozó házirend: az Amerikai Egyesült államokbeli útlevél száma 123456789
+    Az Egyesült Államok/Egyesült Királyság  útlevélszámára vonatkozó szabályzat esetében például a következő minta lép fel: Amerikai Útlevélszám 123456789
 
-Ha szeretne többet megtudni arról, hogy mire van szükség egy amerikai/brit Passport-számhoz a tartalomhoz, olvassa el a következő cikket: [Mi a bizalmas adattípusok keresése](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
+Ha további információra van szüksége arról, hogy mi szükséges ahhoz, hogy a rendszer [](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number) észlelni tudja az Egyesült Királyságbeli útlevélszámokat a tartalomhoz, tekintse meg a jelen cikk következő szakaszát: Az egyesült királyságbeli útlevélszámok bizalmas adattípusa
   
-Ha más beépített bizalmas adattípust használ, további információt a következő témakörben talál: [a bizalmas adattípusok keresése](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Más, beépített bizalmas információtípust használva a következő cikkben talál információt a más típusokhoz szükséges információkról: Mit keresnek a bizalmas [adattípusok?](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

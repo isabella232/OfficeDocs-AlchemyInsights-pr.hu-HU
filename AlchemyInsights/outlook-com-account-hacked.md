@@ -13,16 +13,16 @@ ms.custom:
 - "773"
 - "8000039"
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
-ms.openlocfilehash: b7f72921e6eddddff0fa9e95dd28006a50780c87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17129583b48db457d8cec814b8fde19888a720e4878ba35d60088e381d63927c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769041"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096552"
 ---
-# <a name="outlookcom-account-hacked"></a>Outlook.com-fiók feltörve
+# <a name="outlookcom-account-hacked"></a>Outlook.com-fiókot feltörték
 
-Ha a fiókját feltörték, az Outlook.com- [fiókomban](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) található utasításokat követve helyreállíthatja a fiókot.
+Ha feltörték a fiókját, kövesse a Feltörték a [Outlook.com-fiókom](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) utasításait a fiók helyreállításához.
   
-További információ a [Microsoft 365-előfizetők speciális Outlook.com-biztonságáról](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+További információ [a speciális Outlook.com biztonságról Microsoft 365 felhasználóknak.](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)
   

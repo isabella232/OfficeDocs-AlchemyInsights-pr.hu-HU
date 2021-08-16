@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 7e6f8d1a161d3eee398230750cc98a46579a56b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 52aa5aa86848fa92ac082e8f672f9f501cd97cf2f3db9c40fa745aa8ebccfbb1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769185"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096660"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Kimenő e-mailek a Levélszemét mappába
 
-Ha a kimenő üzeneteket levélszemétként jelöli meg, kövesse az alábbi lépéseket:
+Ha azt látja, hogy a kimenő üzenetek levélszemétként vannak megjelölve, kövesse az alábbi lépéseket:
 
-- Ha még nem tette meg, fontolja meg a [kimenő levélszemét-házirend bejelentéseinek beállítását](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
+- Ha még nem, konfigurálja a kimenő levélszemét-házirendről [szóló értesítéseket.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)
 
-- Az [üzenet nyomon követése](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) szolgáltatással megtekintheti, hogy a kimenő üzenet a **Levélszemét** esemény értékét tartalmazza-e a további részletekkel: **nagy kockázatú kézbesítési készlet használata**.
+- Az [üzenetkövetés használatával](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) nézze meg, hogy a kimenő üzenetnél látható-e a **Levélszemét** esemény értéke a további részletekkel: **Magas kockázatú kézbesítési készlet használata.**
 
-  Ha ezeket az üzeneteket szeretné ellenőrizni, tekintse át az üzenet tartalmát, hogy mi tekinthető levélszemétnek. Az aláírások például olykor problémákat okozhatnak sok felhasználó esetében.
+  Ezekhez az üzenetekhez ellenőrizze az üzenet tartalmát, és nézze meg, hogy mi minősül levélszemétnek. Az aláírások például időnként problémákat okozhatnak számos felhasználónál.
 
-  Ha a levélszemétként megjelölt megbízható kimenő üzenetekre több példa is van, nyisson meg egy támogatási jegyet, és kérje meg a támogatási ügynököt, hogy a levélszemét-elemzők számára téves pozitívként nyújtsa be az üzeneteket. Készüljön fel az összes üzenet fejlécét tartalmazó minta üzenetek nyújtására.
+  Ha több példát is talál levélszemétként megjelölt valódi kimenő üzenetekre, nyisson egy támogatási jegyet, és kérje meg a támogatási ügynöket, hogy küldje el az üzeneteit téves pozitívumként a levélszemét-elemzőnknek. Készüljön fel arra, hogy az összes üzenetfejlécet tartalmazó mintaüzeneteket biztosítson.

@@ -13,17 +13,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6a3bef0d83c5bb4f55edf01f85ccc227b914d574
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3fe62a9752f667c7a2a21282d3c954c2b3316da6ebd4a49f28dd2afb2444c7c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722815"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010798"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a>"Az összes kijelölése" funkció a Outlook.com-ban
+# <a name="how-to-select-all-in-outlookcom"></a>Az összes kijelölése a Outlook.com-on
 
-Csak akkor jelölhet ki mindent, ha az összes üzenet látható. Így elkerülhetők a nem megtekinthető üzenetekkel kapcsolatos véletlenszerű műveletek.
+Az összeset csak akkor jelölheti ki, ha az összes üzenet látható. Ez azért van így, hogy megakadályozza a nem látható üzenetek véletlen műveletét.
 
-**CTRL + kattintás** : több különálló üzenet kijelölése
+**CTRL + kattintás** – Több üzenet kijelölése.
 
-**SHIFT + kattintás** : az összes üzenet kijelölése a kiválasztott első és utolsó üzenet között.
+**SHIFT + kattintás** – Az első és az utolsó kiválasztott üzenet közötti összes üzenet kijelölése.
