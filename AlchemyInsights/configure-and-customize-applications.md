@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004334"
 - "7733"
-ms.openlocfilehash: 30127beda85dd9824f7e3a7a4744d109e7ea874b
-ms.sourcegitcommit: aeb15e206865f61ff61a1e55c407e34eaa89b6d1
+ms.openlocfilehash: 3ce5b04469eb655c9d682f5830d9f906529aa40f706ee594b670708426d48769
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044990"
 ---
 # <a name="configure-and-customize-applications"></a>Alkalmazások konfigurálása és testreszabása
 
 **Alkalmazások konfigurálása**
 
-1. [Gyorsútmutató: Egy](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) alkalmazás tulajdonságainak konfigurálása az Azure Active Directory (Azure AD) bérlői fiókban azt mutatja be, hogy miként konfigurálhatja egy alkalmazás néhány tulajdonságát.
-2. Az alkalmazások Azure Active Directoryval való integrálása érdekében fejlesztettünk egy olyan oktatóanyag-gyűjteményt, amely végigsegíti [a](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) konfiguráción.
+1. Rövid útmutató: Az alkalmazások tulajdonságainak konfigurálása [a Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) bérlői fiókban bemutatja, hogy miként konfigurálhatja egy alkalmazás néhány tulajdonságát.
+2. Az alkalmazásoknak a Azure Active Directory való integrálása érdekében olyan oktatóanyagokat fejlesztettünk, amelyek végigsegítik [a](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) konfiguráláson.
 3. [Az alkalmazásproxy-alkalmazások](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-how-to) konfigurálása segít megérteni, hogy miként konfigurálhatja az alkalmazásproxy-alkalmazásokat az Azure AD-ban, hogy a helyszíni alkalmazásokat elérhetővé tegye a felhőben.
-4. Töltse le a PingAccess fájlt, és konfigurálja [az alkalmazást:](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application)A PingAccess konfigurálása az Azure AD-hez parancsra vonatkozó utasításokat követve védje a Ping Identity webhelyen a Microsoft Azure AD alkalmazásproxyval közzétett alkalmazásokat, és töltse le a *PingAccess* legújabb verzióját.
+4. Töltse le a [PingAccess](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-ping-access-publishing-guide#download-pingaccess-and-configure-your-application)alkalmazást, és konfigurálja az alkalmazást: A PingAccess konfigurálása az *Azure AD-hez* utasításokat követve védje Microsoft Azure AD Ping Identity webhelyen az alkalmazásproxyval közzétett alkalmazásokat, és töltse le a PingAccess legújabb verzióját.
 
 **Helytelenül konfigurált alkalmazás (AADSTS650056) hibák**
 
-1. Győződjön meg arról, hogy az alkalmazás tulajdonosa által megadott bejelentkezési címről fér hozzá az alkalmazáshoz. Ellenkező esetben a szokásos eljáráson keresztül jelentkezzen be az alkalmazásba. A legtöbb esetben ez magától magától megoldódik. Ha nem, akkor ez a bejegyzés segíthet a hibaelhárításban és a megoldásában.
+1. Győződjön meg arról, hogy az alkalmazás tulajdonosa által megadott bejelentkezési címről fér hozzá az alkalmazáshoz. Ellenkező esetben a szokásos eljáráson keresztül jelentkezzen be az alkalmazásba. A legtöbb esetben ez a megoldás automatikusan magától megoldódik. Ha nem működik, ez a bejegyzés segíthet a hibaelhárításban és a megoldásban.
 2. **Ha az alkalmazás az Ön tulajdonában van** (ami azt jelenti, hogy az alkalmazásregisztráció a szervezetnél van):
-    - Azt javasoljuk, hogy legalább a Microsoft Graphtól származó vagy `User.Read` `openid` delegált engedélyt is hozzáadja. 
-    - Győződjön meg arról, hogy az alkalmazás és az összes engedélye hozzájárult. Ezt az API-engedélyekben  az Alkalmazásregisztráció Állapot oszlopában **ellenőrizheti.**
-    - Bizonyos esetekben előfordulhat, hogy az alkalmazás külső fél, de előfordulhat, hogy regisztrálva van a szervezetében. Győződjön meg arról, hogy az alkalmazás szerepel-e az alkalmazásregisztrációkban (nem nagyvállalati alkalmazásokban).
-    - Ha továbbra is megjelenik ez a hibaüzenet. Ezután előfordulhat, hogy létre kell hoznunk a 4. lépésben ismertetett jóváhagyási **URL-címet.**
-3. **Ha a szervezete nem az alkalmazás tulajdonosa,** és azt külső alkalmazásként használja:
-    - Ha Ön a globális/vállalati rendszergazda, látnia kell a jóváhagyási képernyőt. Jelölje be a "Jóváhagyás a szervezet **nevében" jelölőnégyzetet.**
+    - Legalább azt javasoljuk, hogy a Microsofttól származó vagy delegált engedélyt Graph `User.Read` `openid` meg. 
+    - Győződjön meg arról, hogy az alkalmazáshoz és annak minden engedélyhez hozzájárult. Ezt az API-engedélyeken  belüli Alkalmazás-regisztráció Állapot oszlopában **ellenőrizheti.**
+    - Bizonyos esetekben előfordulhat, hogy az alkalmazás lehet harmadik fél, de lehet, hogy regisztrálva van a szervezetben. Győződjön meg arról, hogy az alkalmazás szerepel-e az alkalmazás-regisztrációkban (nem nagyvállalati alkalmazásokban).
+    - Ha továbbra is megjelenik ez a hibaüzenet. Ebben az esetben lehet, hogy létre kell hoznunk a 4. lépésben ismertetett jóváhagyási **URL-címet.**
+3. **Ha nem a szervezete az** alkalmazás tulajdonosa, és külső alkalmazásként használja:
+    - Ha Ön a globális/vállalati rendszergazda, a jóváhagyási képernyőt kell látnia. Jelölje be a "Hozzájárulás a szervezet **nevében" jelölőnégyzetet.**
     - Ha nem látja a beleegyezési képernyőt, törölje a Nagyvállalati alkalmazást, és próbálkozzon újra.
-    - Ha továbbra is megjelenik ez a hibaüzenet. Ezután előfordulhat, hogy létre kell hoznunk a 4. lépésben ismertetett jóváhagyási **URL-címet.**
-4. **Manuálisan** hozza létre a használni kívánt jóváhagyási URL-címet: Ha az alkalmazás egy adott erőforrás elérésére van tervezve, előfordulhat, hogy nem tudja használni az Azure Portalon található Jóváhagyási gombokat, manuálisan kell létrehoznia a saját jóváhagyási URL-címét, és ezt kell használnia.
-    - Meg kell szereznie az alkalmazást és a `{App-Id}` `{App-Uri-Id}` tulajdonost. `{Tenant-Id}` azonosító lesz a bérlői webhelyen. Ez vagy a `yourdomain.onmicrosoft.com` címtárazonosítója lesz.
-    - Ha az alkalmazás saját maga fér hozzá az erőforráshoz, akkor az és `{App-Id}` `{App-Uri-Id}` ugyanaz lesz.
-5. További információt az [SAML-alapú](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application)egyszeri bejelentkezéshez konfigurált alkalmazásokba való bejelentkezés problémáiról tartalmaz.
+    - Ha továbbra is megjelenik ez a hibaüzenet. Ebben az esetben lehet, hogy létre kell hoznunk a 4. lépésben ismertetett jóváhagyási **URL-címet.**
+4. **Manuálisan** kell felépítenie a használni kívánt jóváhagyási URL-címet: Ha az alkalmazás úgy lett kialakítva, hogy hozzáférjen egy adott erőforráshoz, előfordulhat, hogy nem használhatja az Azure Portal Hozzájárulás gombjait, manuálisan létre kell hoznia a saját hozzájárulási URL-címét, és ezt kell használnia.
+    - Az alkalmazást és a tulajdonost is be kell `{App-Id}` `{App-Uri-Id}` szereznie. `{Tenant-Id}` a bérlő azonosítóját fogja tartalmazni. Ez vagy az `yourdomain.onmicrosoft.com` Ön címtárazonosítója.
+    - Ha az alkalmazás az erőforráshoz fér hozzá, akkor az és `{App-Id}` `{App-Uri-Id}` ugyanaz lesz.
+5. További információért lásd: Problémák [a bejelentkezés az SAML-alapú egyszeri bejelentkezéses alkalmazásokba.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#misconfigured-application)
 
 **Alkalmazások testreszabása**
 
-- [Arculat](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) hozzáadása a szervezet Azure Active Directory bejelentkezési lapjához – A szervezet emblémája és egyéni színsémák használatával egységes megjelenést és megjelenést biztosít az Azure Active Directory (Azure AD) bejelentkezési lapjaihoz.
-- [Egyéni tartománynév felvétele az Azure Active Directory portálon](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) – Minden új Azure AD-bérlő kezdeti tartománynévvel rendelkezik. A kezdeti tartománynevet nem módosíthatja vagy törölheti, de hozzáadhatja a szervezete nevét. Az egyéni tartománynevek hozzáadásával olyan felhasználóneveket hozhat létre, amelyek ismerősek a felhasználóknak.
+- [Arculat](https://docs.microsoft.com/azure/active-directory/fundamentals/customize-branding) hozzáadása cége Azure Active Directory bejelentkezési lapjához – A szervezet emblémájával és egyéni színsémákkal egységes megjelenést adhat az Azure Active Directory (Azure AD) bejelentkezési lapjainak.
+- [Egyéni tartománynév felvétele a Azure Active Directory portálon](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain) – Minden új Azure AD-bérlő kezdeti tartománynévvel rendelkezik. A kezdeti tartománynevet nem módosíthatja vagy törölheti, de felveheti a szervezet nevét. Az egyéni tartománynevek hozzáadásával olyan felhasználóneveket hozhat létre, amelyek már ismertek a felhasználók számára.

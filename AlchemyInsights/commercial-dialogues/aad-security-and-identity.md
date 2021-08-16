@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995443"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (biztonság és identitás)
 
 Válasszon az alábbi beállítási útmutatók közül:
 
-- **Az Azure Active Directory Connect** [Sync](https://go.microsoft.com/fwlink/?linkid=2071310) felhasználói a címtárban konfigurálják a jelszó kivonatának szinkronizálását vagy az átmenő hitelesítést, így a felhasználók ugyanazokkal a jelszóval bejelentkezhetnek a levelezésükbe és a helyszíni Active Directoryba (tartományvezérlők). Az összevonási bejelentkezést az Active Directory összevonási szolgáltatások (AD FS) segítségével is beállíthatja.
+- **Azure Active Directory Csatlakozás** [](https://go.microsoft.com/fwlink/?linkid=2071310) Felhasználók szinkronizálása a címtárba Jelszó-kivonat-szinkronizálás vagy átmenő hitelesítés konfigurálása, hogy a felhasználók ugyanazokkal a jelszóval bejelentkezhetnek az e-mailjeikbe és a helyszíni Active Directoryba (tartományvezérlőkre). Az összevonási bejelentkezést az Active Directory összevonási szolgáltatásokkal is beállíthatja.
 
-- **Az Azure-szolgáltatások** [beállítási útmutatója](https://go.microsoft.com/fwlink/?linkid=2134390) az Azure AD beállítási útmutatója az Azure Active Directory Prémium verzióban elérhető speciális funkciók, például a többtényezős hitelesítés, az eszközregisztráció és a biztonsági figyelés beállításához.
+- **Az Azure-szolgáltatások** [beállítása: Az Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) beállítási útmutatója Az Prémium szintű Azure Active Directory szolgáltatásban elérhető speciális funkciók, például a többtényezős hitelesítés, az eszközregisztráció és a biztonsági felügyelet beállítása.

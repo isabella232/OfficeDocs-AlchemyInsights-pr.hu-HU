@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 24c5fdd23482c96c7f7c901881e9bfa2c1b61ea8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d597fa0020beedd481e017ab707a5a4f5192219ac87609a894d8ba7345ce3110
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005704"
 ---
 # <a name="shared-mailboxes-cant-open-encrypted-messages"></a>A megosztott postaládák nem tudnak titkosított üzeneteket megnyitni
 

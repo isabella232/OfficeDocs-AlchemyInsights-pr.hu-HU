@@ -1,5 +1,5 @@
 ---
-title: A Windows 10-es PC-re való bejelentkezéshez használt fiók módosítása
+title: A számítógépére való bejelentkezéshez használt fiók Windows 10 módosítása
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9816"
 - "9005388"
-ms.openlocfilehash: c2f2c1de72db3c5c33d24473420f2581d8466d83
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 578cf67ee951966ad05f2680609712ce53ac98920c609f557542c2164fd7aa36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035942"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018610"
 ---
-# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>A Windows 10-es PC-re való bejelentkezéshez használt fiók módosítása
+# <a name="change-the-account-you-use-to-sign-in-to-your-windows-10-pc"></a>A számítógépére való bejelentkezéshez használt fiók Windows 10 módosítása
 
-**Megjegyzés** Ha a PC-t értékesíti vagy adja át, érdemes megfontolni a teljes visszaállítást, ehelyett távolítsa el az összes személyes információt. Ha az összes fájlt, beállítást és alkalmazást el szeretné távolítani, tekintse át A [Windows 10-es](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one)eszköz vagy az Xbox One eladása vagy ajándékozása előtt című súgót.
+**Megjegyzés** Ha a PC-t értékesíti vagy adja át, érdemes megfontolni a teljes visszaállítást, ehelyett távolítsa el az összes személyes információt. Ha az összes fájlt, beállítást és alkalmazást el szeretné távolítani, tekintse át A saját eszközének vagy eszközének [Windows 10](https://support.microsoft.com/help/10547/microsoft-account-selling-gifting-windows-10-device-xbox-one)vagy ajándékba Xbox One.
 
 Meglévő felhasználó lecserélheti egy új fiókra:
 
@@ -36,15 +36,15 @@ Meglévő felhasználó lecserélheti egy új fiókra:
 
 **Váltás másik felhasználói fiókra**
 
-1. Válassza **a tálcán** a Start gombot (Windows-embléma Start gomb). 
+1. Válassza **a tálcán** Windows Start gombot (vagy a Start gombot). 
 
-1. A Start menü bal oldalán válassza a fióknév ikont (vagy képet) a > váltás másik > között lehetőséget.
+1. A fiók Start menü válassza a fióknév ikont (vagy képet) a > váltás másik > között lehetőséget.
 
 **A bejelentkezéshez használt fiók típusának módosítása**
 
 - Váltás Microsoft-fiókról helyi fiókra
 
-    1. Válassza a Start gombot, majd a **Beállítások**  >  **Fiókok >** Az Ön adatai lehetőséget.
+    1. Válassza a Start gombot, **majd** a Gépház  >  **fiókok >** adatait.
 
     1. Ha olyan helyi fiókot használ, amely nincs e-mail-címhez kapcsolva, de Microsoft-fiókot szeretne használni, válassza a Bejelentkezés **Microsoft-fiókkal lehetőséget.**
 
@@ -56,7 +56,7 @@ Meglévő felhasználó lecserélheti egy új fiókra:
 
 - Váltás normál fiókról rendszergazdára
 
-    1. Válassza a Start gombot, majd a **Beállítások** Fiók család & (vagy a  >    >  Windows 10 **Enterprise** használata esetén a Egyéb személyek) lehetőséget.
+    1. Válassza a Start gombot, Gépház válassza **a**  >    >  **&-fiók** család vagy más személyek (vagy a Más személyek lehetőséget, ha az Windows 10 Enterprise).
 
     1. Jelölje ki a rendszergazdának kijelölni kívánt fiókot, és válassza a **Fiók módosítása lehetőséget.**
 
