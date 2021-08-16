@@ -1,5 +1,5 @@
 ---
-title: A Teams frissítési útmutatója
+title: Teams frissítési útmutató
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998693"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>A Teams a vártnál több számítógép-erőforrást használ
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams a vártnál több számítógép-erőforrást használ
 
-A nagy teljesítmény és a felhasználói élmény a Microsoft legfontosabb aggályai. A Teams indítási ideje javult, és továbbra is fejlesztjük a csoportokat, így a teljes erőforrás-felhasználást is.  
+A Microsoftnál a nagy teljesítmény és a felhasználói élmény a legfontosabb kérdés. Teams bevezetési idő folyamatosan javul, és továbbra is fejlesztjük a Teams- és erőforrás-felhasználást is.  
 
-A Teams és az erőforrás használatáról további információt a [Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  használata a memória és a  [Teams használata közben, az 4k-es vagy a HDR-monitorok által rögzített laptopokon lassú](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Az Teams és az erőforrás-használatról további információt a Hogyan működik a [Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) a memória és a Teams lassú a [4K/HDR-monitorokhoz](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)rögzített laptopokon tartott videoértek értekezletek során?

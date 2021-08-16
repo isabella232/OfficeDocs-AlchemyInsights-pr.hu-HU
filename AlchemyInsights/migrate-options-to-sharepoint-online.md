@@ -1,5 +1,5 @@
 ---
-title: Beállítások áttelepítése a SharePoint Online-ba
+title: Beállítások áttelepítése az SharePoint-be
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 198b888597405dead67fe35eb568ee86d8577af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c4a6f50541c955080a83b44ff6ac494649ae1cb5d4a6f735584bcc769be61ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065718"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>Beállítások áttelepítése a SharePoint Online-ba
+# <a name="migrate-options-to-sharepoint-online"></a>Beállítások áttelepítése az SharePoint-be
 
-A tartalmak SharePoint Online-ba való áttelepítéséhez különböző lehetőségek állnak rendelkezésre, az áthelyezni kívánt fájlok méretétől és mennyiségétől függően.
+Az áthelyezni kívánt fájlok méretétől és mennyiségétől függően különböző lehetőségek állnak rendelkezésre a tartalmak SharePoint Online-on való áttelepítéséhez.
   
-További információ: [áttelepítés a SharePoint Online-ba](https://go.microsoft.com/fwlink/?linkid-2022029)
+További információért lásd: Áttelepítés az [SharePoint-be](https://go.microsoft.com/fwlink/?linkid-2022029)
   
 

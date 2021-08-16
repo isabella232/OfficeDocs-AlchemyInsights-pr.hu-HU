@@ -1,5 +1,5 @@
 ---
-title: Intune-alapú Exchange helyi összekötő
+title: Intune Exchange-összekötő
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013966"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Intune-alapú Exchange helyi összekötő
+# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange-összekötő
 
-A helyszíni Intune és az Exchange közötti kapcsolat beállításáról az alábbi dokumentációban tájékozódhat:
+Az Intune és a helyszínen üzemeltetett összekötő Exchange az alábbi dokumentációban olvashat részletesen:
 
-[Az Intune helyszíni Exchange-összekötő beállítása a Microsoft Intune Azure-ban](https://docs.microsoft.com/intune/exchange-connector-install)
+[Az Intune helyszíni összekötő Exchange beállítása Microsoft Intune Azure-ban](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**GYAKORI kérdések**
+**Gyakori kérdések:**
 
-K: egy hibaüzenet jelenik meg, például "az Exchange Connector verziója nem támogatott" hibaüzenet jelenik meg az Exchange-összekötő beállításakor. Mi lehet az oka?
+K: A "The Exchange Connector version is not supported" (A Exchange Connector verziója nem támogatott) hibaüzenet jelenik meg, amikor megkísérli beállítani a Exchange összekötőt. Mi lehet az oka?
 
-A: a használt fiók megfelelő licenccel rendelkezik – aktív Intune licenccel kell rendelkeznie.
+A: A használt fiók licence a megfelelő – aktív Intune-licenccel kell
 
-K: lehet több Exchange összekötőt is?
+K: Több összekötő is Exchange lehet?
 
-A: csak egyetlen Exchange-csatlakozót állíthat be egy Intune-bérlői fiókhoz egy Exchange-szervezetben. Az összekötő csak egy kiszolgálón telepíthető több kiszolgálós Exchange-szervezetben.
+A: Intune-bérlőnként csak egy összekötőt Exchange szervezetenként Exchange beállítani. Az összekötő csak egy kiszolgálóra telepíthető egy többkiszolgálós exchange-szervezetben.
 
-Az egyazon bérlői fiókban konfigurált Exchange-és Exchange Online-kapcsolatokhoz is nincs konfigurálva az összekötők.
+Ezenkívül nem konfigurálhat összekötőket mind a Exchange, mind a Exchange Online konfigurálva ugyanabban a bérlői fiókban.
 
-K: használhatók-e az összekötők CAS-tömbökkel az Exchange-kapcsolaton keresztül?
+K: Az összekötő használható CAS-tömböt a Exchange?
 
-A: a CAS-tömb megadása nem támogatott konfiguráció az összekötő beállításai között. Csak egyetlen kiszolgálót kell megadni, és az összekötő konfigurációs fájlban kell hardcoded, amely megtalálható
+A: A CAS-tömb megadása nem támogatott konfiguráció az összekötő beállításában. Csak egyetlen kiszolgálót kell megadni, és az összekötő konfigurációs fájljában kell megadni, amely megtalálható a
 
-program data\microsoft\microsoft Intune a helyi Exchange-csatlakozón \ OnpremiseExchangeConnectorServiceConfiguration.xml
+program data\microsoft\microsoft Intune on premise Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Keresse meg a következő bejegyzést ```<ExchangeWebServiceURL />``` , és cserélje le az URL-t az Exchange-kiszolgálóval.
+Keresse meg az alábbi bejegyzést, ```<ExchangeWebServiceURL />``` és cserélje le az URL-címet az Exchange-kiszolgálóra.
 
-**Például**
+**Példa:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-További hibaelhárítási információkat az alábbi dokumentációban talál: [Intune helyszíni Exchange-összekötő hibaelhárítása](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+További hibaelhárításért olvassa el az alábbi dokumentációt: Az Intune helyszíni hibaelhárítása Exchange [összekötővel](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Az Exchange összekötő részletes naplózásának engedélyezése**
+**Verbose naplózás engedélyezése a Exchange összekötőhöz**
 
-1. Nyissa meg szerkesztésre az Exchange Connector-nyomkövetési konfigurációs fájlt.  
-A fájl a következő helyen található:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
+1. Nyissa meg Exchange összekötő nyomkövetési konfigurációs fájlját szerkesztésre.  
+A fájl a következő helyen található: %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Például**
+**Példa:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Keresse meg a TraceSourceLine a következő kulccsal: OnPremisesExchangeConnectorService  
+2. Keresse meg a TraceSourceLine-t a következő kulccsal: OnPremisesExchangeConnectorService  
   
-3. A SourceLevel csomópont értékének módosítása az adatok ActivityTracing (az alapértelmezett) a bőbeszédű ActivityTracing  
+3. A SourceLevel csomópont értékének módosítása Information ActivityTracing (alapértelmezett) értékről Verbose ActivityTracing értékre  
 
-**Például**
+**Példa:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ A fájl a következő helyen található:%ProgramData%\Microsoft\Windows Intune 
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. A Microsoft Intune Exchange szolgáltatás újraindítása  
-5. Teljes szinkronizálás az Intune-portálon, amíg el nem fejeződik, majd az XML visszaváltása "információs ActivityTracing", majd indítsa újra a Microsoft Intune Exchange szolgáltatást.  
+4. A Microsoft Intune Exchange újraindítása  
+5. Teljes szinkronizálás az Intune Portalon, amíg be nem fejezi, majd az XML-t "Információs tevékenységsáv" formátumúra módosítja, és újraindítja a Microsoft Intune Exchange szolgáltatást.  
 6. A naplók helye: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

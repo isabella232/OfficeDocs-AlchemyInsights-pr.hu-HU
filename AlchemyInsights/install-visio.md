@@ -1,5 +1,5 @@
 ---
-title: A Visio telepítése
+title: Telepítés Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b42e8299484feb84fdbd80e26508ff110daea0191e33043d55ac9880f12919d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014290"
 ---
-# <a name="install-visio"></a>A Visio telepítése
+# <a name="install-visio"></a>Telepítés Visio
 
-A Visio különálló alkalmazásként vásárolható meg, így ha még nem tette meg, akkor [vásároljon vagy próbálkozzon a Visio](https://products.office.com/visio)alkalmazással. 
+Visio különálló alkalmazásként vásárolhatók meg, ezért ha még nem használja, vásárolja meg vagy próbálja ki a [Visio.](https://products.office.com/visio) 
 
-**Megjegyzés**: a Visio online-terv 1 nem tartalmazza a Visio asztali verzióját, így a telepítés nem lehetséges.
+**Megjegyzés:** Visio Online 1. csomag nem tartalmazza az Visio asztali verzióját, így telepítésre nincs lehetőség.
 
-Ha előfizetéssel rendelkezik a Visio online 2 csomaghoz, [licencet kell rendelnie](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) egy felhasználóhoz, vagy nem lesz lehetőség a Visio telepítéséről **a** [saját fiók portálról](https://portal.office.com/account#installs). 
+Ha előfizetéssel rendelkezik az Visio Online 2. [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) csomagra, hozzá kell rendelnie egy licencet egy felhasználóhoz,  mert különben nem lesz lehetősége telepíteni az Visio-t a Saját fiók portál Saját telepítések [szolgáltatásból.](https://portal.office.com/account#installs) 
 
-A Visio Standard vagy a Visio Professional nem mennyiségi licenccel rendelkező verzióit társítják a Microsoft-fiókokhoz, és nem kezelhetők a felügyeleti központban. A verziók telepítéséhez a felhasználóknak be kell jelentkeznek a [Account.microsoft.com](https://account.microsoft.com) -ba a Visio ezen verziójához társított Microsoft-fiókkal.
+A nem mennyiségi licenccel rendelkező Visio Standard vagy Visio Professional Microsoft-fiókokkal vannak társítva, és nem kezelhetők a felügyeleti központban. E verziók telepítéséhez a felhasználóknak [](https://account.microsoft.com) a account.microsoft.com társított Microsoft-fiókkal kell Visio.
 
-További részletekért olvassa el a [Visio telepítése](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) című témakört, és kövesse a Visio-verziójának megfelelő lépéseket.
+További információt a Telepítési útmutató [Visio,](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) és kövesse az Ön által Visio.
 
-További információt a következő témakörökben talál:<br>
-[Útmutató a Visio telepítéséhez](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Az Office, a Project és a Visio különböző verziói ugyanazon a számítógépen való telepítésének támogatott esetei](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[A Visio licencelése](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+További információ:<br>
+[Telepítési útmutató Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Támogatott esetek a különböző verziójú Office, Project és Visio telepítéséhez ugyanazon a számítógépen](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Visio Licencelés](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)

@@ -1,5 +1,5 @@
 ---
-title: A Intune app központi telepítő szabályának azonosítója 991
+title: Intune App Deployment Rule Id 991
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 561ff3a3a70029a6c53776176602f6de10a6637f8ab66c0189d7584220316e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014110"
 ---
-# <a name="intune-app-deployment"></a>Intune alkalmazás-telepítő
+# <a name="intune-app-deployment"></a>Intune app üzembe helyezése
 
-Az alkalmazások központi üzembe helyezése három lépésből áll:
+Az alkalmazások Intune-nal való telepítése három lépésből áll:
   
-1. **Alkalmazás hozzáadása** : az App Store App alkalmazással vagy egy üzletági alkalmazással is feltölthető.
+1. **Alkalmazás hozzáadása –** Felvehet egy App Store-appot, vagy feltölthet egy Üzletági alkalmazást.
 
-2. Alkalmazás **hozzárendelése** – Itt határozhatja meg az alkalmazás bevezetési körét.
+2. **Alkalmazás hozzárendelése** – Határozza meg az alkalmazás telepítési hatókörét.
 
-3. **Alkalmazások figyelése** – az alkalmazások telepítési állapotának megtekintése, a listán felfedezett alkalmazások, valamint az App áruházból vásárolt alkalmazások kezelése.
+3. **Appok figyelése** – Megtekintheti az appok telepítési állapotát, a listáról felfedezett alkalmazásokat, valamint kezelheti az alkalmazástárból vásárolt alkalmazásokat.
 
-A cikkből megtudhatja, hogy [Mit jelent a Intune app kezelése](https://docs.microsoft.com/intune/app-management) a forgatókönyvekhez és az alkalmazások konfigurálásáról és védelméről.
+Olvassa [el az Intune appkezelés](https://docs.microsoft.com/intune/app-management) az alkalmazások konfigurálásával és védelmével kapcsolatos tudnivalókat és útmutatókat.
   

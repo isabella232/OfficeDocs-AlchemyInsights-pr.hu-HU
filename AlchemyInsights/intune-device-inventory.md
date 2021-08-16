@@ -1,5 +1,5 @@
 ---
-title: Intune-eszköz készlete
+title: Intune Eszközkészlet
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014074"
 ---
-# <a name="intune-device-inventory"></a>Intune-eszköz készlete
+# <a name="intune-device-inventory"></a>Intune Eszközkészlet
 
-Az eszközök Blade segítségével a rendszergazda betekintést adhat az Intune-eszközökhöz eszközönként. A megjelenített adatok a következők: hardver, az észlelt alkalmazások, az eszköz megfelelőségi állapota és az eszköz konfigurációja állapota.
+Az Eszközök blade eszközenként betekintést nyújt a rendszergazda számára az Intune kezelés alatt álló eszközeibe. A megjelenő információk közé tartozik a következő: Hardver, Talált alkalmazások, Eszköz megfelelőségi állapota és Eszközkonfigurációs állapot.
 
-A hardverek és a felfedezett alkalmazások leltározása hét napos ciklusban történik. Az alkalmazások és a hardver bizonyos elemei eltérőek lehetnek az eszköz operációs rendszertől függően, és hogy az eszköz személyes vagy vállalati tulajdonú-e.
+A hardveres és a talált alkalmazások készletadatokat egy hét napos ciklusban gyűjti össze. A jelentett alkalmazások és hardverelemek eltérhetnek az eszköz operációs rendszerétől, illetve attól függően, hogy az eszköz személyes vagy vállalati tulajdonú-e.
 
-További információt az [eszközök adatainak megtekintése az Intune-ban](https://docs.microsoft.com/intune/device-inventory)című témakörben találhat.
+További információt az Eszközadatok megtekintése [az Intune-ban.](https://docs.microsoft.com/intune/device-inventory)
 
 **GYIK**
 
-K: nem kapok teljes leltározási listát az Intune által regisztrált Windows-eszközökön lévő alkalmazásokról. miért ne?
+K: Nem kapom meg az Intune által regisztrált összes alkalmazás teljes készletlistát az Windows eszközön. miért ne?
 
-A: jelenleg csak a modern alkalmazások jelennek meg a Windows 10 rendszerű PC-ken, amelyeket vállalati eszközökként azonosítottak. Az Intune nem gyűjt információkat az ilyen eszközökön telepített Win32-alkalmazásokról.
+K: Jelenleg csak a vállalati eszközként azonosított számítógépekhez Windows 10 modern appok vannak felsorolva. Az Intune nem gyűjt adatokat az ilyen eszközökön telepített Win32-alkalmazásokról.
 
-K.: Miért nem minden eszközről gyűjtenek telefonszámot?
+K: Miért nem gyűjtjük a telefonszámokat az összes eszközről?
 
-A: az Intune-ban a vállalati eszközökként kategorizált telefonok esetében a rendszer nem azonosítja a teljes telefonszámot, ha például mobileszköz-készletezési jelentést futtat. A bringa-you-Own-Phone-telefonszámokat mindig részlegesen maszkolt csillagokkal (* * * *), és csak az utolsó négy számjegyet jeleníti meg.
+A: Az Intune-ban a vállalati eszközökként kategorizált telefonokat a rendszer nem azonosítja a teljes telefonszámmal, ha például egy mobileszköz készletjelentését futtatja. A saját eszközével hozó telefonszámokat mindig részben csillaggal (****) takarja el a rendszer, és csak az utolsó négy számjegyet mutatja.
