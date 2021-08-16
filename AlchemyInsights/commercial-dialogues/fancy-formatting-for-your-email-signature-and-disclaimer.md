@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f179ff22dea8d5460e2a0604be9071747383e05b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: b202d2812516ebc283075f6c626ef4ecbc382135a5265985ef61aab1c4eedca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058688"
 ---
 # <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Fancy formatting for your email signature and disclaimer
-A tetszető formázásról (például a közösségi hálózatok ikonjainak, képének és hivatkozásának szervezeti jogi nyilatkozathoz való hozzáadásáról), a mobileszközök kompatibilitásáról és egyéb információkról.
+A tetszető formázásról (például közösségi hálózati ikonok, képek és szervezeti jogi nyilatkozatra mutató hivatkozások hozzáadásáról), a mobileszközökön való kompatibilitással kapcsolatos információkról és sok másról.
 
-Keressen az interneten e-mail **aláírási forrásokat.** Számos cég, amely információkat és eszközöket biztosít, a Microsoft Gold partnerek.
+Keressen az interneten e-mail **aláírási forrásokat.** Számos vállalat, amely adatokat és eszközöket biztosít, a Microsoft Gold partnerek.

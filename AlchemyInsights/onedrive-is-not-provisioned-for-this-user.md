@@ -1,5 +1,5 @@
 ---
-title: A OneDrive nem lett kiépítve ehhez a felhasználóhoz
+title: OneDrive nincs kiépítve ehhez a felhasználóhoz
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 07ac096452e603f05fd1b332bc318fdaa911340c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d3ef8d405abc1d0a36b448804f0bdc7ced616a7a5933c142bfd3dd7e4596bd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672814"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984751"
 ---
-# <a name="onedrive-is-not-provisioned-for-this-user"></a>A OneDrive nem lett kiépítve ehhez a felhasználóhoz
+# <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive nincs kiépítve ehhez a felhasználóhoz
 
-Az újonnan létrehozott fiókokhoz a felhasználóknak a Microsoft 365 felügyeleti központba kell bejelentkeznek a saját fiókjával, és a OneDrive gombra kattintva manuálisan kezdhetik meg a OneDrive-webhely szolgáltatását.
+Az újonnan létrehozott fiókok esetében a felhasználóknak be kell jelentkezniük a Microsoft 365 Felügyeleti központ a saját fiókjukkal, és a OneDrive elemre kattintva manuálisan el kell kezdeniük a OneDrive webhelyet.
   
-Ha azonban a felhasználó a OneDrive-ra kattintott, és a személyes webhelye 24 órán belül nem lett kiépítve, kérjük, további segítségért jelentkezzen be támogatási jegyként.
+Ha azonban a felhasználó már a OneDrive webhelyre kattintott, és a személyes webhelye 24 órán belül nem lett kiépítve, kérjük, írjon be egy támogatási jegyet további segítségért.
   
 

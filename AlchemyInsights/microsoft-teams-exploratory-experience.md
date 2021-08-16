@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Teams felfedezési élménye
+title: Microsoft Teams Felfedezési élmény
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 96bcd589e03a67acd61e231e777f0d26aae9687dd2c9284babe3e2669343ca5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833797"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027052"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>A Microsoft Teams felfedezési élménye
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams Felfedezési élmény
 
-- Mi az a [Teams-felfedezés?](https://docs.microsoft.com/microsoftteams/teams-exploratory) A Microsoft Teams felfedezési élménye lehetővé teszi a szervezet olyan felhasználóinak, akik nem rendelkeznek Teams-licenccel, felfedezhetik a Teams használatát. További információért tekintse meg a Teams felfedezési [élményét.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
-- [Mennyi ideig tart a Teams-felfedezési élmény?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) A Microsoft Teams felfedezési élménye 12 hónapig (a kezdeti regisztrációtól) és további 30 napos türelmi időszakért további 12 hónapig érhető el.
-- Rendszergazdaként frissítheti a felhasználókat a [Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) feltáró licencről, ha a Teamst tartalmazó előfizetést vásárol, eltávolítja a Teams felfedezhető előfizetését a felhasználótól, és hozzárendeli az újonnan vásárolt licencet.
-- További információ: [A Teams felfedezésre vonatkozó licencének kezelése.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
+- Mi az [Teams felfedezés?](https://docs.microsoft.com/microsoftteams/teams-exploratory) A Microsoft Teams felfedezési élmény lehetővé teszi, hogy a szervezetében azok a felhasználók, akik nem rendelkeznek licenccel a Teams, felfedezhetik a Teams. További információért tekintse meg a felfedezési élmény [Teams információkat.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [Mennyi ideig tart Teams felfedezési élmény?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) A Microsoft Teams felfedezési élmény 12 hónapig (a kezdeti regisztrációtól) és további 30 napos türelmi időszakért ingyenesen érhető el.
+- Rendszergazdaként frissítheti a felhasználókat az [Teams Feltáró](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) licencről, ha olyan előfizetést vásárol, amely tartalmazza az Teams-t, eltávolítja a Teams-et a felhasználótól, és hozzárendeli az újonnan vásárolt licencet.
+- További információt A licenc [kezelése Teams tartalmaz.](https://docs.microsoft.com/microsoftteams/teams-exploratory)

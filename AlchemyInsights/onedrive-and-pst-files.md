@@ -1,5 +1,5 @@
 ---
-title: OneDrive és PST-fájlok
+title: OneDrive és .pst fájlok
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6002"
 - "9003081"
-ms.openlocfilehash: 16dfc5b39be7967a6de7967edee28bc7f08d216b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de6de2c7483280143b8bed51d0af1048d39137a5c72a22c09131d32326b8e447
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984859"
 ---
-# <a name="onedrive-and-pst-files"></a>OneDrive és PST-fájlok 
+# <a name="onedrive-and-pst-files"></a>OneDrive és .pst fájlok 
 
-A OneDrive támogatja az Outlook. pst fájlokat, azonban kevésbé gyakran vannak szinkronizálva, mint az egyéb fájltípusokkal a hálózati forgalom csökkentése érdekében. Ha meg szeretné akadályozni, hogy a OneDrive szinkronizálási alkalmazása a. pst fájlok feltöltésével történjen, tanulmányozza a [bizonyos fájltípusok szinkronizálásának letiltása](https://docs.microsoft.com/onedrive/block-file-types)című témakört. 
+OneDrive .pst Outlook azonban ritkábban szinkronizálódnak más fájltípusokkal összehasonlítva, hogy csökkentse a hálózati forgalmat. Ha meg szeretné akadályozni, hogy OneDrive szinkronizálási app az alkalmazás .pst fájlokat töltsön fel, tekintse át Az adott fájltípusok szinkronizálásának [blokkolása.](https://docs.microsoft.com/onedrive/block-file-types) 
 
-A. pst fájlok OneDrive való áthelyezéséről az [Outlook. pst-adatfájl eltávolítása a OneDrive-ról](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e)című témakörben olvashat. 
+Ha .pst fájlokat szeretne áthelyezni a OneDrive-ból, Outlook [.pst-adatfájl](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e)eltávolítása a OneDrive. 
 
-Ha a felhasználók a számítógép-mappákat a csoportházirend nélkül, manuálisan engedélyezik, akkor hiba lép fel, ha az egyik ismert mappájában. pst fájl található.
+Ha a felhasználók manuálisan engedélyezik a számítógépmappák biztonsági mentését a csoportházirend nélkül, hiba történik, ha egy .pst fájl található az egyik ismert mappájukban.
 
-Ha munkahelyi vagy iskolai OneDrive használ, előfordulhat, hogy bizonyos fájltípusokat blokkolhat a szervezet SharePoint-webhely rendszergazdája.
+Ha munkahelyi vagy iskolai OneDrive használ, előfordulhat, hogy a szervezet vagy a webhelygazda bizonyos fájltípusokat SharePoint blokkolhat.

@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Teams nem fog működni az Internet Explorer 11-től november 30-ig
+title: Microsoft Teams 30. nov. 30-tól nem működik tovább az Internet Explorer 11-es verziója
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004213"
 - "7406"
-ms.openlocfilehash: b9558864ea632be3a69dc8af98dc4d47e19bee30
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
-ms.translationtype: MT
+ms.openlocfilehash: 339a179e1be88d80dc9df377eb06853f9184b4305b9fd029f565ba54fd30e546
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026944"
 ---
-# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>A Microsoft Teams nem fog működni az Internet Explorer 11-től november 30-ig
+# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams 30. nov. 30-tól nem működik tovább az Internet Explorer 11-es verziója
 
-Amint a MC225570-ban közlik, az 2020 november 30-án kezdődően a Microsoft Teams Web App már nem támogatja az Internet Explorer (IE) 11 használatát. 
+Az MC225570-ben 2020. november 30-án kezdődően az Microsoft Teams-webalkalmazás a továbbiakban nem támogatja az Internet Explorer 11 böngészőt. 
 
-Azt javasoljuk, hogy frissítsen az új [Microsoft Edge](https://www.microsoft.com/edge) -re biztonságosabb és innovatív online élményért. 
+Azt javasoljuk, hogy frissítsen az [új](https://www.microsoft.com/edge) Microsoft Edge, hogy biztonságosabb és innovatívabb online élményben legyen része. 
 
-További információért olvassa el [a microsoft 365-alkalmazások búcsút az Internet Explorer 11 és a Windows 10 naplementét a Microsoft Edge Legacy-Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) című témakört.
+További információ: Az [Internet Explorer 11 Microsoft 365 és](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) az Windows 10 naplemente előtt Microsoft Edge régi verziója – Microsoft technikai közösség
 

@@ -13,14 +13,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: a8bf778640798397067263fa0fca49dc0e70402d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d28cad4da38f111592ab64faa3bf338352ef43efd8b1745ede3498efffb9a4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798882"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051812"
 ---
 # <a name="setting-up-a-hybrid-environment"></a>Hibrid környezet beállítása
 
-Ha engedélyezni szeretné, hogy a felhasználók zökkenőmentesen működjenek együtt, függetlenül attól, hogy az adatai a helyszíni kiszolgálókon vagy a Microsoft 365-ban vannak tárolva, lehet, hogy be kell állítania egy hibrid környezetet. A beállítások áttekintéséhez tekintse át [a Microsoft 365 integrációját a helyszíni környezetekkel](https://docs.microsoft.com/office365/enterprise/office-365-integration)című témakört.
+Lehet, hogy hibrid környezetet kell beállítania ahhoz, hogy felhasználói zökkenőmentesen tudjanak együtt dolgozni függetlenül attól, hogy adataikat helyszíni kiszolgálókon vagy Microsoft 365-kiszolgálón tárolják. A lehetőségek áttekintéséhez tekintse át a helyszíni Microsoft 365 való integrációt ismertető [témakört.](https://docs.microsoft.com/office365/enterprise/office-365-integration)
   
