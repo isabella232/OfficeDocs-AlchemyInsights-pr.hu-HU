@@ -1,5 +1,5 @@
 ---
-title: Az Office 365-hez szükséges Microsoft Defender hozzáadása az előfizetéshez
+title: A Microsoft Defender Office 365 hozzáadása az előfizetéshez
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5dbd3e3b7744f48c5737b0909765576453e8769e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ea3addc8bd1e7bb3026132512f75ecdbafcec06036ec14943fb3aed554e25757
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006244"
 ---
-# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Az Office 365-hez szükséges Microsoft Defender hozzáadása az előfizetéshez
+# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>A Microsoft Defender Office 365 hozzáadása az előfizetéshez
 
-Ehhez tegye a következőt:
+Ehhez:
 
 1. A felügyeleti központban menjen a Számlázási  >  [vásárlások szolgáltatások lapra.](https://go.microsoft.com/fwlink/p/?linkid=868433)
-2. A Szolgáltatások **vásárlása lapon** a **CTRL+F** billentyűkombinációt lenyomva nyissa meg a keresőmezőt, és keresse meg az **Office 365-nek megfelelő Microsoft Defendert.** Ha nem találja a bővítményt, annak az az oka, hogy a csomagja nem támogatja a bővítmény hozzáadását.
+2. A Szolgáltatások **vásárlása lapon** a **CTRL+F** billentyűkombinációt lenyomva nyissa meg a keresőmezőt, és keresse meg a **Microsoft Defender Office 365.** Ha nem találja a bővítményt, annak az az oka, hogy a csomagja nem támogatja a bővítmény hozzáadását.
 3. Válassza **a Vásárlás gombot,** majd kövesse a lapon megjelenő utasításokat.

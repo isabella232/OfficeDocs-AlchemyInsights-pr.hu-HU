@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994183"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Intune-házirendek és -profilok létrehozása
+# <a name="creating-intune-policy-and-profiles"></a>Intune-házirend és -profilok létrehozása
 
-Az Intune-ban létrehozhat különböző funkciókat ható házirendeket és profilokat.
+Az Intune-ban különböző funkciókkal kapcsolatos házirendeket és profilokat hozhat létre.
 
-- **Regisztrációs profilok:** Előkonfigurálhatja az eszközeit platform szerint, engedélyezheti a felhasználói érdeklődést, többtényezős hitelesítést használhat stb.
+- **Regisztrációs profilok:** Előre konfigurálhatja az eszközeit platform szerint, engedélyezheti a felhasználókhoz való hozzáférését, többtényezős hitelesítést használhat, és így tovább.
 
-  [Az androidos,](https://docs.microsoft.com/intune/device-enrollment) [iOS-,](https://docs.microsoft.com/intune/ios-enroll) [macOS-](https://docs.microsoft.com/intune/macos-enroll)és [Windowsos](https://docs.microsoft.com/intune/windows-enrollment-methods) eszközök regisztrálása és regisztrációs profilok létrehozása. [](https://docs.microsoft.com/intune/android-enroll)
+  [Az Android,](https://docs.microsoft.com/intune/device-enrollment) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll) [](https://docs.microsoft.com/intune/android-enroll)és Windows eszközregisztrációs és [](https://docs.microsoft.com/intune/windows-enrollment-methods) regisztrációs profilok létrehozása.
 
-- **Megfelelőségi szabályzatok:** Határozza meg azokat a szabályokat és beállításokat, amelyek betartásához az eszközöknek meg kell felelnie. Megfelelőségi szabályzatok használatával figyelheti az eszközöket, és értesítheti a felhasználókat a nem megfelelőségről.
+- **Megfelelőségi szabályzatok:** Meg kell határoznia azokat a szabályokat és beállításokat, amelyek betartásához az eszközöknek meg kell felelnie. Megfelelőségi szabályzatokat is használhat az eszközök figyelése és a felhasználók értesítése a nem megfelelőségről.
 
-  Az eszköz-megfelelőségi [szabályzatok használata – első lépések](https://docs.microsoft.com/intune/device-compliance-get-started)
-- **Feltételes hozzáférési házirendek:** A szervezeti erőforrások biztonságának biztosítása a beírott feltételektől függően. Ha például az eszközök nem kompatibilisek, feltételes hozzáféréssel korlátozhatja a levelezéshez és a SharePointhoz való hozzáférést.
+  Első lépések az [eszköz-megfelelőségi szabályzatokkal.](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **Feltételes hozzáférési házirendek:** A szervezeti erőforrások feltételeinek biztosítása a beíratott feltételektől függően. A nem megfelelő eszközök esetében például a feltételes hozzáféréssel korlátozhatja a hozzáférést a levelezéshez és a levelezéshez SharePoint.
 
-  [A feltételes](https://docs.microsoft.com/intune/conditional-access) hozzáférés [](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) és a feltételes hozzáférés általános módjai jó források az első lépésekhez.
+  [A feltételes](https://docs.microsoft.com/intune/conditional-access) hozzáférés [](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) és a feltételes hozzáférés használatának általános módjai jó források az első lépésekhez.
 
-- **Konfigurációs profilok:** Kezelheti az eszközökön található szolgáltatásokat és beállításokat, többek között az e-mail-beállításokat, Wi-Fi hálózatot adhat hozzá, beépített sablonokat használhat, szabályozhatja az iOS és a macOS eszköz funkcióit stb.
+- **Konfigurációs profilok:** Kezelheti az eszközökön lévő szolgáltatásokat és beállításokat, többek között az e-mail-beállításokat, WiFi-hálózatot adhat hozzá, használhat beépített sablonokat, szabályozhatja az iOS- és a macOS-eszközök funkcióit és sok más funkciót.
 
   Első lépések az [eszközkonfigurációs profiloknál.](https://docs.microsoft.com/intune/device-profiles)
 
 Hasznos hivatkozások:
 
-- [Eszköz házirendekkel és profilokkal kapcsolatos gyakori kérdések, problémák és megoldások az Intune-ban](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Gyakori kérdések, problémák és megoldás az Eszköz házirendekkel és profilokkal az Intune-ban](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
 - [Házirendek és profilok hibaelhárítása az Intune-ban](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)

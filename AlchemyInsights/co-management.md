@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b8a2806a6d828b8ef7ee4e6dff05dcc496857b8ca8f76c777c39ff3155809668
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006388"
 ---
 # <a name="co-management"></a>Társkezelés
 
@@ -31,7 +31,7 @@ A tárban részletes, részletes útmutatót talál a társkezelési [beállít�
 
 **A Config Manager-ügyfél telepítése Intune által kezelt eszközökre**
 
-Lásd: [Intune MDM által felügyelt Windows-eszközök.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
+Lásd: [Intune MDM által](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)felügyelt Windows eszközök.
 
 **Mi történik, ha csak a MDM-et szeretném módosítani?**
 

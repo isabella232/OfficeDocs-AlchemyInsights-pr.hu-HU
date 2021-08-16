@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 168103463ee7c2d599b89ca883b410223486f59a
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974452"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027898"
 ---
 # <a name="issues-with-certificates"></a>Tanúsítványokkal kapcsolatos problémák
 
-A tanúsítványokkal kapcsolatos hibák elhárításáról az alábbi cikkekben talál útmutatást:
+A tanúsítványok hibáinak elhárításáról az alábbi cikkekben talál útmutatást:
 
-- [A tanúsítványalapú](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)  hitelesítés használatának első lépései az Azure Active Directoryban – A tanúsítványalapú hitelesítés konfigurálásának és használatának lépései a bérlők felhasználói számára az Office 365 Nagyvállalati, Vállalati, Oktatási és Egyesült Államok kormányzati csomagiban.
+- [A tanúsítványalapú](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) hitelesítés első lépései az Azure Active Directory-ban – A tanúsítványalapú hitelesítés konfigurálásának és a tanúsítványalapú hitelesítésnek az Office 365 Nagyvállalati verzió, Vállalati, Oktatási vagy Egyesült Államok kormányzati csomagokkal kapcsolatos felhasználói számára való konfigurálásának lépései.
 
-- [Az Azure AD Certificate-Based hitelesítési problémák elhárítása](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  – A tanúsítványalapú hitelesítéssel kapcsolatos hibák elhárításához szükséges információk.
+- [Az Azure AD Certificate-Based hitelesítési problémáinak elhárítása](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  – A tanúsítványalapú hitelesítéssel kapcsolatos hibák elhárításához segítséget nyújt.
 
-- Az összevont egyszeri bejelentkezés tanúsítványának kezelése az [Azure Active Directoryban](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) – Az Azure Active Directory (Azure AD) által a szoftverhez szolgáltatásalkalmazásként (SaaS) létrehozott tanúsítványokhoz kapcsolódó gyakori kérdések és információk.
+- Az összevont egyszeri bejelentkezés tanúsítványának kezelése az [Azure Active Directory-ban](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) – Az Azure Active Directory (Azure AD) által a szoftverhez szolgáltatásként (SaaS) létrehozott tanúsítványokkal kapcsolatos gyakori kérdések és információk.
 
-- [Az Azure Active Directorybeli galériaalkalmazások](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  SAML-jogkivonatában található speciális tanúsítvány-aláírási lehetőségek – További információ az Azure AD három tanúsítvány-aláírási lehetőségről.
+- [Speciális tanúsítvány-aláírási](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options) lehetőségek a gyűjteményalkalmazások SAML-jogkivonatában a Azure Active Directory – További információ az Azure AD három tanúsítvány-aláírási lehetőségről.

@@ -1,5 +1,5 @@
 ---
-title: Erőforrás- vagy szolgáltatásnévvel kapcsolatos problémák
+title: Problémák az erőforrásokkal vagy a szolgáltatásnévvel kapcsolatban
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004336"
 - "7741"
-ms.openlocfilehash: 9c37ad8e4dfecdb59a37d767f8eb4a5d99be7fa1
-ms.sourcegitcommit: d13f23fb7994871d4e0e6e3e43672a101bd779e8
+ms.openlocfilehash: 52b9b2e950d66c2f4105b76c4e2c70ed51320e4a57eb0008c353a9587fcc6510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50714076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028078"
 ---
-# <a name="issues-with-a-resource-or-service-principal"></a>Erőforrás- vagy szolgáltatásnévvel kapcsolatos problémák
+# <a name="issues-with-a-resource-or-service-principal"></a>Problémák az erőforrásokkal vagy a szolgáltatásnévvel kapcsolatban
 
-1. Ha még csak most ismerkedik meg, az Azure Active Directory alkalmazás- és szolgáltatása egyszerű objektumai az [Azure Active Directoryban](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) az alkalmazásregisztrációt, az alkalmazásobjektumokat és a szolgáltatásnévszőket ismertetik: mik azok, hogyan használják őket, és hogyan kapcsolódnak egymáshoz. Egy több-bérlős példa forgatókönyvet is bemutatunk, amely az alkalmazás alkalmazásobjektuma és a kapcsolódó egyszerű szolgáltatásobjektumok közötti kapcsolatot szemlélteti.
-2. Az azure Active Directoryban alkalmazások és egyszerű szolgáltatásobjektumok olvasva többet is megtudhat az alkalmazások és a szolgáltatásnév közötti [kapcsolatról.](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)
-3. [Ennek mikéntje:](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) A portálon létrehozhat egy Azure AD-alkalmazást és egyszerű szolgáltatást, amely hozzáférhet az erőforrásokhoz, és bemutatja, hogy miként hozhat létre új Azure Active Directory (Azure AD) alkalmazást és egyszerű szolgáltatást, amely használható a szerepköralapú hozzáférés-vezérléssel.
-4. Az egyszerű [szolgáltatás API-val](https://docs.microsoft.com/graph/api/resources/serviceprincipal)programozással kezelheti az alkalmazások példányait, és szabályozhatja, hogy egy alkalmazás mire használhatja a bérlői webhelyét.
+1. Ha még csak most ismerkedik, az Azure Active Directory alkalmazás- és szolgáltatás-egyszerű objektumai ismertetik az [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) alkalmazásban való regisztrációt, az alkalmazásobjektumokat és a szolgáltatásnévszőket: mik azok, hogyan használják őket, és hogyan kapcsolódnak egymáshoz. Egy több-bérlős példa eset is látható az alkalmazás alkalmazásobjektuma és a kapcsolódó egyszerű szolgáltatásobjektumok közötti kapcsolat szemléltetésére.
+2. Ha többet szeretne megtudni az alkalmazások és a szolgáltatásnévsok közötti kapcsolatról, olvassa el az alkalmazásokat és a szolgáltatás egyszerű [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)
+3. [Ennek mikéntje:](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) A portál segítségével hozzon létre egy Azure AD-alkalmazást és -szolgáltatás egyszerű szolgáltatást, amely hozzáférhet az erőforrásokhoz. Ez a cikk bemutatja, hogy miként hozhat létre új Azure Active Directory (Azure AD) alkalmazást és szolgáltatásnév-egyszerű szolgáltatást, amely használható a szerepköralapú hozzáférés-vezérléssel.
+4. Az egyszerű [szolgáltatás API-val](https://docs.microsoft.com/graph/api/resources/serviceprincipal)programozással kezelheti az alkalmazások példányait, és szabályozhatja, hogy egy alkalmazás mire képes a bérlői webhelyen belül.
 5. [A servicePrincipal erőforrástípus](https://docs.microsoft.com/graph/api/resources/serviceprincipal) felsorolja a servicePrincipal erőforrástípus összes tulajdonságát és metódusát.
-6. [Az Azure AD Graph és](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences) a Microsoft Graph közötti erőforrástípus-különbségek kiemelik az Azure AD Graph és a Microsoft Graph-erőforrások közötti különbségeket. Azokat az erőforrásokat jeleníti meg, amelyek neve eltérő vagy nem érhető el; kiemeli a Microsoft Graph béta verziójában elérhető, de az 1.0-s verzióban nem elérhető erőforrásokat is.
+6. [Az Erőforrástípus-különbségek](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences) az Azure AD-Graph és a Microsoft Graph kiemelik az Azure AD-erőforrások és a Microsoft Graph közötti Graph különbségeket. Különböző névvel vagy nem elérhető erőforrásokkal rendelkezik; a microsoftos verzió béta verziójában elérhető erőforrásokat is kiemeli Graph az 1.0-s verzióban nem.
 
-**A vendégfelhasználók problémái**
+**Problémák a vendégfelhasználóknál**
 
-- [Gyorsútmutató:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal#prerequisites) Vendégfelhasználók felvétele a címtárba az Azure Portalon bemutatja, hogy miként adhat hozzá új vendégfelhasználót az Azure AD címtárához az Azure Portalon keresztül, hogyan küldhet meghívót, és hogyan láthatja a vendégfelhasználó meghívó-beváltási folyamatát.
-- [Oktatóprogram: Felhasználói folyamatok létrehozása az Azure Active Directory B2C-ben](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows) bemutatja, hogy miként hozhat létre ajánlott felhasználói folyamatokat az Azure Portal használatával. Ha az erőforrás-tulajdonosi jelszó (ROPC) folyamatának az alkalmazásbeli beállításával kapcsolatos információkat keres, tekintse meg az erőforrás-tulajdonosi jelszó hitelesítő adatainak konfigurálása folyamatot az Azure AD B2C szolgáltatásban.
+- [Rövid útmutató:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal#prerequisites) Vendégfelhasználók felvétele a címtárba az Azure Portalon bemutatja, hogy miként adhat hozzá új vendégfelhasználókat az Azure AD címtárához az Azure Portalon keresztül, hogyan küldhet meghívót, és hogyan láthatja a vendégfelhasználó meghívás-beváltási folyamatát.
+- [Oktatóprogram: Felhasználói folyamatokat](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows) hozhat létre a Azure Active Directory A B2C bemutatja, hogy miként hozhat létre ajánlott felhasználói folyamatokat az Azure Portal használatával. Ha az erőforrás-tulajdonosi jelszó hitelesítő adatainak (ROPC) folyamatának alkalmazásbeli beállításával kapcsolatban további információt Az erőforrás-tulajdonosi jelszó hitelesítő adatainak konfigurálása az Azure AD B2C szolgáltatásban talál.
