@@ -1,5 +1,5 @@
 ---
-title: Nem lehet nyomtatni a Outlook.com-ban
+title: Nem lehet nyomtatni a Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "8000046"
 - "2507"
-ms.openlocfilehash: ca4d0bb958c26a602a0e044e9b97a05d59c14537
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59b99ef0de921403001e18eb6db0848aab5a0c0c0e49e253915e0bee806dc24b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752973"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064242"
 ---
 # <a name="unable-to-print"></a>Nem lehet nyomtatni
 
-Tisztában vagyunk azzal a problémával, amely miatt a felhasználók nem tudják kinyomtatni a Safari vagy az Edge böngészőt. Miközben dolgozunk a javításon, kérjük, használjon másik böngészőt. Elnézést kérünk a kényelmetlenségért.
+Tudomásunkra van arról a problémáról, hogy egyes felhasználók nem tudnak nyomtatni a Safari vagy a Microsoft Edge böngésző használata esetén. Amíg dolgozunk a javításon, kérjük, használjon másik böngészőt. Elnézést kérünk a kellemetlenségért.

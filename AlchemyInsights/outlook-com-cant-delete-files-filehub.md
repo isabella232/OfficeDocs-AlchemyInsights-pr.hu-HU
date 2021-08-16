@@ -1,5 +1,5 @@
 ---
-title: A Outlook.com-on lévő fájlokból nem lehet fényképeket vagy fájlokat törölni
+title: Nem lehet fényképeket vagy fájlokat törölni a Outlook.com-on lévő fájlokból
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: da04d3d8c9bca3f6e0e44a3a55b158e1d7b00fde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98118c2db5468b1bca9f00014dc8221469fba7b050f4d93ec8d4707812517de9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064314"
 ---
 # <a name="cant-delete-files-or-photos-from-files"></a>Nem lehet fájlokat vagy fényképeket törölni a fájlokból
 
-A Outlook.com-ban a **fájlok** a postaládában lévő üzenetekhez csatolt fájlokat és fényképeket jelenítik meg. Ha el szeretné távolítani a fájlokat és a fényképeket a fájlok közül, törölnie kell azokat az e-maileket, amelyekhez hozzá van rendelve. Az üzenetek törlése után törölnie kell őket a törölt elemek mappából.
+A Outlook.com-on a **Fájlok** a postaládájában lévő üzenetekhez csatolt fájlokat és fényképeket jeleníti meg. Ha fájlokat és fényképeket szeretne eltávolítani a Fájlokból, törölnie kell azokat az e-maileket, amelyekhez csatolva vannak. Az üzenetek törlése után a Törölt elemek mappából is törölnie kell őket.
 
-További információért olvassa el a [fájlok vagy fényképek törlése az Outlook.com-](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)on című témakört.
+További információt a Fájlok vagy fényképek törlése [a Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy)webhelyen Outlook.
