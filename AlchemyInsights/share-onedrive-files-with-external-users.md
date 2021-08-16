@@ -1,5 +1,5 @@
 ---
-title: OneDrive-fájlok megosztása külső felhasználókkal
+title: Fájlok OneDrive külső felhasználókkal
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,34 +12,34 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739035"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051596"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Fájlok megosztása a OneDrive szervezeten kívüli személyekkel
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Fájlok megosztása OneDrive szervezeten kívüli emberekkel
 
-1. Nyissa meg a OneDrive a böngészőben az App Launcher segítségével. 
+1. Az appindítóval a OneDrive a böngészőben. 
     
-2. Jelölje ki a megosztani kívánt fájlt vagy mappát, majd válassza a **megosztás**lehetőséget. 
+2. Jelölje ki a megosztani kívánt fájlt vagy mappát, és válassza a Megosztás **lehetőséget.** 
     
-3. Ha a hivatkozás típusa "személyek" értékre van állítva \<your organization\> , kattintson a lefelé mutató nyílra, és válasszon az alábbi lehetőségek közül: 
+3. Ha a hivatkozástípus "Személyek a következőben" beállításra van állítva, kattintson a lefelé mutató nyílra, és \<your organization\> válasszon az alábbi lehetőségek közül: 
     
-  - **Bárki** hozzáférést adhat mindenkinek, aki megkapja ezt a hivatkozást, függetlenül attól, hogy közvetlenül tőle érkeznek-e, vagy valakitől továbbították őket. Ez a szervezeten kívüli személyeket is tartalmazhat. 
+  - **Bárki** hozzáférést biztosít bárkinek, aki megkapja ezt a hivatkozást, függetlenül attól, hogy közvetlenül Öntől kapták-e a hivatkozást, vagy valaki más továbbította-e nekik. Ez a szervezeten kívüli személyekre is kiterjedhet. 
     
-  - A **megadott** személyek csak a megadott személyeknek férnek hozzá, a többi személy azonban már rendelkezik hozzáféréssel. Ha a személyek továbbítják a megosztási meghívót, akkor csak az elemhez hozzáféréssel rendelkező személyek fogják tudni használni a hivatkozást. 
+  - **A Csak** adott személyek csak az Ön által megadott személyeknek biztosít hozzáférést, noha másoknak lehet már hozzáférésük. Ha a személyek továbbítják a megosztási meghívást, csak azok a személyek fogják tudni használni a hivatkozást, akiknek már van hozzáférésük az elemhez. 
     
     > [!NOTE]
-    > Ha a beállítások egyike nem érhető el, vagy ha azt szeretné, hogy egy másik kapcsolattípus alapértelmezés szerint látható legyen, a OneDrive felügyeleti központban válassza a megosztás lehetőséget, és kattintson a bal oldali ablaktáblában a **megosztás** elemre. [tudj meg többet](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Ha a fenti lehetőségek egyike nem érhető el, vagy ha azt szeretné, hogy alapértelmezés szerint egy másik hivatkozástípus jelenjen meg, a szervezeti szintű beállítások módosításához a OneDrive Felügyeleti központ bal oldali ablaktábláján kattintson a Megosztás elemre.  [További információ](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Alapértelmezés szerint be van kapcsolva a **Szerkesztés engedélyezése** beállítás. Ha csak a fájlokat szeretné megtekinteni, törölje a jelet a jelölőnégyzetből. 
+4. Alapértelmezés szerint **a Szerkesztés engedélyezése** beállítás be van kapcsolva. Ha azt szeretné, hogy mások csak megtekintsék a fájljait, törölje a jelet a jelölőnégyzetből. 
     
-5. Adja meg a megosztani kívánt személyek nevét, és ha szeretné, az üzenetet.
+5. Írja be azoknak a nevét, akiket meg szeretne osztani, és írjon egy üzenetet, ha szeretne.
     
-6. Ha készen áll a hivatkozás elküldésére, kattintson a **Küldés**gombra. 
+6. Ha készen áll a hivatkozás elküldését, kattintson a Küldés **gombra.** 
     
-[tudj meg többet](https://go.microsoft.com/fwlink/?linkid=871861)
+[További információ](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

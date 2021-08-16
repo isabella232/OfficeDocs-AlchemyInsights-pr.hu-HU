@@ -1,5 +1,5 @@
 ---
-title: Megszűnnek a nyilvános SharePoint Online-webhelyek
+title: SharePoint Megszűnnek az online nyilvános webhelyek
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051272"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Megszűnnek a nyilvános SharePoint Online-webhelyek
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Megszűnnek az online nyilvános webhelyek
 
-Ha létrehozott egy nyilvános SharePoint Online-webhelyet, a 2018 március 31-ig továbbra is használhatja. Ha továbbra is nyilvános webhelyt szeretne használni, új szolgáltatót kell létrehoznia. A SharePoint Online-alapú nyilvános webhely tartalma törlődik, ezért a megőrizni kívánt tartalmakat le kell másolni.
+Ha létrehozott SharePoint online nyilvános webhelyet, 2018. március 31-ig használhatja. Ha továbbra is nyilvános webhelyet szeretne létrehozni, létre kell hoznia egy újat egy új szolgáltatóval. A nyilvános SharePoint tartalma törlődik, így a megtartani kívánt tartalmakat másolnia kell.
   
-A webhely eltávolítását követően megjelenik egy szalagcím a SharePoint Online nyilvános webhelye tetején. Ezt a szalagcímet nem lehet kikapcsolni. Ha tudni szeretné, hogy miként menthet tartalmakat a partnerek webhelyére, tekintse át a funkció leállítási [folyamatának részleteit](https://go.microsoft.com/fwlink/?linkid=866980).
+A webhely eltávolításakor egy szalagcím jelenik meg a SharePoint online nyilvános webhelye tetején. Ezt a transzparenst nem lehet kikapcsolni. A tartalom partner webhelyre való mentéséről és másolásáról további információt A szolgáltatás-megszüntetés folyamatának [részleteiben talál.](https://go.microsoft.com/fwlink/?linkid=866980)
   

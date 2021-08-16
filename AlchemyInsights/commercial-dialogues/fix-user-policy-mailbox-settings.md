@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746729"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034720"
 ---
 # <a name="fix-user-policymailbox-settings"></a>A felhasználói házirend/postaláda beállításainak kijavítva
 
 A postaláda levélszemét-beállításai érintették ezt az üzenetet. A beállítások áttekintéséhez tegye a következőket:
 
-1. Indítsa el az Exchange Management Shellt. További információ: [Az Exchange Management Shell megnyitása.](https://go.microsoft.com/fwlink/?linkid=2101432)
+1. Indítsa el Exchange Management Shellt. További információ: A Exchange [felügyeleti rendszerhéj megnyitása.](https://go.microsoft.com/fwlink/?linkid=2101432)
 2. Futtassa ezt a parancsot (a felhasználó  **e-mail-címével): get-mailboxjunkmailconfiguration -identity "user@domain.com"**
 3. Ellenőrizze, hogy a feladó e-mail-címe **TrustedSendersAndDomains** vagy **BlockedSendersAndDomains tartomány részét képezi-e.** Ha az e-mail-cím a listák egyikében található, előfordulhat, hogy el kell távolítania. További információ: [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).

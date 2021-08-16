@@ -12,24 +12,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c513da49dc953b4ae76bb06854e33232ec40e11151f11ade33c3080092aa598
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015622"
 ---
 # <a name="how-to-disable-external-groups"></a>A külső csoportok letiltása
 
-Külső Yammer: az Exchange átviteli szabályait (ETR), a proaktív vezérlők halmazát, amelyekkel megakadályozhatja, hogy a vállalati adatok meg legyenek osztva. Ha korlátozni szeretné, hogy a felhasználók külső csoportokat hozzanak létre, be kell állítania egy Exchange átviteli szabályt (ETR), majd konfigurálnia kell a Yammer, hogy az Exchange átviteli szabály segítségével tiltsa le a külső üzenetküldést.
+Yammer külső üzenetküldést Exchange átviteli szabályok ( EETR-k) – olyan proaktív vezérlők halmaza, amelyek megakadályozzák a céges adatok megosztott voltát. Ahhoz, hogy a felhasználók ne hoz tudjanak létre külső csoportokat, konfigurálnia kell egy Exchange átviteli szabályt (ETR), majd úgy kell konfigurálnia az Yammer-t, hogy az Exchange átviteli szabály letiltsa a külső üzenetküldést.
   
-Miután létrehozott egy szabályt az Exchange Online felügyeleti központban, az alábbi lépésekkel állíthatja be az ETR-t a Yammer alkalmazásban:
+Miután létrehozott egy szabályt a Exchange Online felügyeleti központban, az alábbi lépéseket követve állítsa be az ETR alkalmazását a Yammer:
   
-- Jelentkezzen be a Yammer igazolt rendszergazdaként, és a **Yammer felügyeleti központban**lépjen a C **tartalom és biztonsági beállítások lapra \> .**
+- Jelentkezzen be a Yammer rendszergazdaként, és a **Yammer Felügyeleti központban** lépjen a C tartalom- és biztonsági biztonsági beállítások **\> Gépház.**
 
-- A **külső üzenetkezelés**csoportban jelölje be **az Exchange Online Exchange-átviteli szabályok (ETR) érvényesítése az Yammer-on** című témakört.
+- A **Külső üzenetküldés alatt jelölje** be A saját Exchange Online Exchange **(EETR-k) érvényesítése) jelölőnégyzetet a Yammer.**
 
 - Válassza a **Mentés** gombot.
 
-További információt a [külső üzenetküldés letiltása Yammer-hálózatban](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)című témakörben talál.
+További információ: Külső üzenetküldés letiltása Yammer [hálózaton.](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)
   

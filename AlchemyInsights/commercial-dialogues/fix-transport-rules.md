@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 635009ed4b78d2b05b0eef1f3298765b10f86ede
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d89283dec427ba3d4f55fc1f180efc13da16ae15c3d5a6c0c06a696faa6df7f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034756"
 ---
 # <a name="fix-transport-rules"></a>Átviteli szabályok kijavítva
 
 Erre az üzenetre egy egyéni e-mail-forgalom szabály vonatkozott. A szabály pontos áttekintését az alábbi lépéseket kell követnie:
 
 1. A beküldés eredményei között **a** További információk alatt jegyezze fel a **GUID azonosítót** vagy a **házirend nevét.**
-2. Indítsa el az Exchange Management Shellt. További információ: [Az Exchange Management Shell megnyitása.](https://go.microsoft.com/fwlink/?linkid=2101432)
+2. Indítsa el Exchange Management Shellt. További információ: A Exchange [felügyeleti rendszerhéj megnyitása.](https://go.microsoft.com/fwlink/?linkid=2101432)
 3. Futtassa ezt a parancsot (a beküldés GUID azonosítóját használva):  **Get-TransportRule -identity "GUID" | fl * Description***
 4. A leírást áttekintve láthatja az üzenetet ható, konfigurált feltételeket.
 
