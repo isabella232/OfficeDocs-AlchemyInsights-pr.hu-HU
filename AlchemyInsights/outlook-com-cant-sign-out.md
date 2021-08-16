@@ -1,5 +1,5 @@
 ---
-title: Nem sikerül kijelentkezés a Outlook.com
+title: Outlook.com nem tud kijelentkezni
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984643"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Nem lehet kijelentkezni az Outlook.com-ról
+# <a name="unable-to-sign-out-of-outlookcom"></a>Nem lehet kijelentkezni a Outlook.com webhelyről
 
-A Outlook.com való kijelentkezéshez válassza ki a nevét vagy a képét a képernyő jobb felső sarkában, majd válassza a **kijelentkezés**lehetőséget.
+Ha ki akar jelentkezni a Outlook.com webhelyről, jelölje ki a nevét vagy a képét a képernyő jobb felső sarkában, és válassza a **Kijelentkezés lehetőséget.**
 
-Ha nem látható a képe a képernyő tetején, ellenőrizze, hogy be van-e kapcsolva az ad zárolása. Néha ez akadályozza meg a kép megjelenítését.
+Ha nem látja a képét a képernyő tetején, ellenőrizze, hogy nincs-e bekapcsolva a hirdetésblokkolás. Néha ez akadályozza meg a kép megjelenítését.
 
-Ha továbbra sem tud kijelentkezhetni a Outlook.com, kattintson az  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) összes böngészőablak bezárása parancsra.
+Ha továbbra sem tud kijelentkezni a Outlook.com webhelyről, kattintson, majd [https://login.live.com/logout.srf](https://login.live.com/logout.srf) zárja be az összes böngészőablakot.

@@ -1,5 +1,5 @@
 ---
-title: . Pst fájl importálása a Windows Outlookból a Mac Outlookba
+title: Importálja a .pst fájlokat a Mac Outlook a Outlook-Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,103 +13,103 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 7efb5035ee293bc2d0e8e3f36c1dd1203c6e6c12
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583407"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987397"
 ---
-# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>PST-fájl importálása a Windows Outlookból a Mac Outlookba 
+# <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Importálja a .pst fájlt a Outlook fájlból, Windows a Mac Outlook 
 
-Ha Windows-alapú számítógépről szeretne üzeneteket és más elemeket átvinni egy Mac gépre, a Mac Outlook importálhatja a Windows Outlookban létrehozott Outlook-adatfájlokat (. pst).
+Ha üzeneteket és egyéb elemeket Windows-alapú számítógépről Macre is át Mac Outlook, importálhatja az Outlook-ban létrehozott Outlook-adatfájlokat (.pst) az Outlook-ban Windows.
 
-**Az újabb verziókban – PST-fájl importálása a Windowsból a Mac gépre**
+**Újabb verziókban – PST-fájl importálása a Windows Mac gépre**
 
-1. A Mac Outlook **fájl** menüjében válassza az **Importálás** lehetőséget.
+1. A Fájl Mac Outlook **válassza** az Importálás **lehetőséget.**
 
-2. Válassza **az Outlook for Windows Archive (. pst) fájlt**, majd kattintson a **Folytatás** gombra.
+2. Válassza **Outlook fájlt Windows (.pst)** számára, majd kattintson a Folytatás **gombra.**
 
-3. Keresse meg az adatfájlt a számítógépen, és kattintson az **Importálás** gombra.
+3. Keresse meg az adatfájlt a számítógépen, és kattintson az Importálás **gombra.**
 
-4. Az importálási folyamat befejeződése után kattintson a **Befejezés** gombra.
+4. Ha befejeződött az importálás, kattintson a Befejezés **gombra.**
 
-   Az importált elemek a navigációs ablakban **, a Sajátgép csoportban** jelennek meg.
+   Az importált elemek megjelennek a navigációs ablakban a **Saját számítógépen alatt.**
 
 
-**Office 2011 –. pst fájl importálása a Windows Outlookból**
+**In Office 2011 - import a .pst file from Outlook for Windows**
 
-1. Vigye át a. pst fájlt a Macintosh számítógépre.
+1. A .pst fájl átvitele Macintosh számítógépre.
 
-2. A Mac Outlook **fájl** menüjében kattintson az **Importálás** parancsra.
+2. A Fájl Mac Outlook **kattintson** az Importálás **elemre.**
 
-3. Kattintson az **Outlook-adatfájl** elemre, majd kattintson a jobbra mutató nyílra.
+3. Kattintson **Outlook adatfájl gombra,** majd a jobbra mutató nyílra.
 
-4. Válassza a **Windows Outlook-adatfájl** lehetőséget, majd kattintson a jobbra mutató nyílra.
+4. Válassza **Outlook adatfájl Windows kijelölését,** majd kattintson a jobbra mutató nyílra.
 
-5. Keresse meg az adatfájlt a számítógépen, és kattintson az **Importálás** gombra.
+5. Keresse meg az adatfájlt a számítógépen, és kattintson az Importálás **gombra.**
 
-6. Az importálási folyamat befejeződése után kattintson a **kész** gombra.
+6. Amikor befejeződött az importálási folyamat, kattintson a Kész **gombra.**
 
-   Az importált elemek a navigációs ablakban **, a Sajátgép csoportban** jelennek meg.
-
-> [!NOTE]
-> A Mac Outlook csak a Unicode-alapú. pst fájlokat importálja, melyek a személyes mappák fájljainak normál formátuma az Outlookhoz (Windows) 2003-es és újabb verziókban. Az ANSI-formátumú. pst fájlok, más néven az Outlook 97-2002 személyes mappák fájljai, az 97-2002-es verziókban a Windows Outlookban tárolt adatmentéshez használt szokásos személyes mappa formátuma. Ez a fájlformátum nem importálható a Mac Outlookba. Ha az ANSI-formátumú. pst fájl régebbi verziója van telepítve, nincs automatikus eljárás arra, hogy a fájlt az új fájlformátumba konvertálja. Létrehozhat azonban új Outlook-adatfájlt (. pst) a Microsoft Outlookban a Windows 2003-es vagy újabb verzióiban, majd az új fájlba importálhatja az elemeket a régi fájlból. Ezután importálhatja az új. pst fájlt a Mac Outlookba. Ha többet szeretne tudni arról, hogy miként hozhat létre. pst fájlokat és importálhat elemeket, olvassa el a Windows Outlook verziójának **súgója** című témakört.
-
-**Outlook-adatfájl (. pst vagy. OLM) megnyitása**
-
-Importálhat egy Windows Outlook-adatfájlt (. pst) vagy egy Mac Outlook-adatfájlt (. OLM). Ezek az adatfájlok nagy mennyiségű, több elemből álló adattípust tartalmazhatnak. Az Outlook-adatfájlokat gyakran használják archívumként, vagy átviheti az adatfájlokat a számítógépek között.
-
-1. A Mac Outlook Fájl menüjében kattintson az **Importálás** parancsra.
-
-2. Kattintson az **Outlook-adatfájl** elemre, majd kattintson a jobbra mutató nyílra.
-
-3. Jelöljön ki egy adatfájltípust, majd kattintson a jobbra mutató nyílra.
-
-4. Keresse meg az adatfájlt a számítógépen, és kattintson az **Importálás** gombra.
-
-5. Az importálási folyamat befejeződése után kattintson a **kész** gombra.
-
-Az importált elemek a navigációs ablakban **, a Sajátgép csoportban** jelennek meg.
+   Az importált elemek megjelennek a navigációs ablakban a **Saját számítógépen alatt.**
 
 > [!NOTE]
-> A Mac Outlook csak a Unicode-alapú. pst fájlokat importálja, amelyek a személyes mappák fájljainak normál formátuma az Outlookhoz (Windows) 2003-es és újabb verziókban. Az ANSI-formátumú. pst fájlok (más néven Outlook 97-2002 személyes mappák fájljai) nem importálhatók a Mac Outlookba. Ha az ANSI-formátumú. pst fájl régebbi verziója van telepítve, nincs automatikus eljárás arra, hogy a fájlt az új fájlformátumba konvertálja. Létrehozhat azonban új Outlook-adatfájlt (. pst) a Microsoft Outlookban a Windows 2003-es vagy újabb verziójában, majd importálhatja az elemeket a régi fájlból az új fájlba. Ezután importálhatja az új. pst fájlt a Mac Outlookba. Ha többet szeretne tudni arról, hogy miként hozhat létre. pst fájlokat és importálhat elemeket, olvassa el a Windows Outlook verziójának súgója című témakört. 
+> Mac Outlook Csak Unicode-alapú .pst fájlokat importálhat, amelyek az Outlook 2003-as és újabb verzióiban (a Windows) személyes mappák fájljainak normál formátuma. Az ANSI-formátumú .pst fájlok (más néven Outlook 97–2002-es személyesmappa-fájlok) a 97–2002-es verziók Outlook Windows-ban való mentésének szabványos személyesmappa-formátuma volt. Ez a fájlformátum nem importálható Mac Outlook. Ha az ANSI-formátumú .pst fájl korábbi verzióját használja, nem kell automatikusan konvertálni a fájlt az újabb fájlformátumba. Létrehozhat azonban egy új Outlook-adatfájlt (.pst) a Microsoft Outlook-ban Windows 2003-as vagy újabb verziókhoz, majd a régebbi fájlból elemeket importálhat az új fájlba. Ezután importálhatja az új .pst fájlt a Mac Outlook. A .pst fájlok létrehozásáról és az elemek  importálásáról további információt a Súgó az Ön által használt Outlook a Windows.
 
-**Entourage-elemek megnyitása archívumból vagy egy korábbi verzióból**
+**Open an Outlook Data File (.pst or .olm)**
 
-Importálhat elemeket, például e-maileket, névjegyeket és eseményeket az Entourage 2004, az Entourage 2008 vagy az Entourage 2008, Web Services Edition alkalmazásból. Importálhatja ezeket az elemeket egy olyan Entourage-archívumból is, amely. RGE kiterjesztéssel rendelkezik.
+Importálhat egy Outlook -Windows (.pst) vagy egy Mac Outlook -adatfájlt (.olm). Ezek az adatfájlok sok, több elemtípusból nagy mennyiségű adatot tartalmazhatnak. Outlook Az adatfájlokat gyakran használják archívumként vagy adatok számítógépek közötti átvitelére.
 
-1. A Mac Outlook **fájl** menüjében kattintson az **Importálás** parancsra.
+1. A Fájl Mac Outlook kattintson az Importálás **elemre.**
 
-2. Kattintson az **Entourage-adatok archívumból vagy korábbi verzióból** elemre, kattintson a jobbra mutató nyílra, és kövesse az útmutatást.
+2. Kattintson **Outlook adatfájl gombra,** majd a jobbra mutató nyílra.
+
+3. Jelöljön ki egy adattípust, majd kattintson a jobbra mutató nyílra.
+
+4. Keresse meg az adatfájlt a számítógépen, és kattintson az Importálás **gombra.**
+
+5. Ha befejeződött az importálás, kattintson a Kész **gombra.**
+
+Az importált elemek megjelennek a navigációs ablakban a **Saját számítógépen alatt.**
 
 > [!NOTE]
-- Ha az Entourage alkalmazással Microsoft Exchange-fiókot használt, az importálási folyamat befejeződése után az Exchange-fiók minden elemét letölti az Exchange Server. Az Exchange-fiókhoz kapcsolódó szabályokat vagy ütemezéseket át kell állítani az Outlookban.
+> Mac Outlook csak Unicode-alapú .pst fájlokat tud importálni, amelyek az Outlook 2003-as és újabb verzióiban (a Windows- és újabb verziókban) a Személyes mappák fájlok normál formátuma. Az ANSI-formátumú .pst fájlok , más néven Outlook 97–2002-es személyes mappák fájljai nem importálhatók az Mac Outlook. Ha az ANSI-formátumú .pst fájl korábbi verzióját használja, nem kell automatikusan konvertálni a fájlt az újabb fájlformátumba. Létrehozhat azonban egy új Outlook-adatfájlt (.pst) a Microsoft Outlook-ban Windows 2003-as vagy újabb verzióhoz, majd a régebbi fájlból elemeket importálhat az új fájlba. Ezután importálhatja az új .pst fájlt a Mac Outlook. A .pst fájlok létrehozásáról és az elemek importálásáról a Súgó az Ön által használt Outlook súgóban Windows. 
 
-- Ha az Entourage 2004 vagy az Entourage 2008 alkalmazásból importál elemeket, az Exchange-fiókok elemeihez tartozó kategória adatai nem lesznek importálva az Outlookba. Az Entourage 2008, a Web Services Edition és a kategória adatai azonban az Exchange Serverről tölthetők le.
+**Entourage-elemek megnyitása archívumból vagy korábbi verzióból**
 
-- Az Outlook nem tartalmazza a Projektközpont alkalmazást. Ha az Entourage alkalmazásban használta a Projektközpont alkalmazást, majd importálja az Entourage-adatokat az Outlookba, a Projektközpont-társítások kategóriába kerülnek. Ha például olyan projekthez vette fel az elemeket, amely a "Research Paper" nevű projektben szerepel az Entourage alkalmazásban, az alábbi elemek olyan kategóriát kapnak, amely az Outlookban a "kutatási papír" nevet kapta.
+Az Entourage 2004-es, az Entourage 2008-as vagy az Entourage 2008, Web Services Edition verzióból importálhat elemeket, például e-maileket, névjegyeket és eseményeket. Ezeket az elemeket egy .rge kiterjesztésű Entourage-archívumból is importálhatja.
 
-- Az Entourage alkalmazásban az egyéni nézetek, a keresési beállítások és az eseményekkel kapcsolatos utazási idő nem kerül importálásra az Outlookba. Az Outlook-események nem tartalmazzák az utazási idő adatait.
+1. A Fájl Mac Outlook **kattintson** az Importálás **elemre.**
 
-**Elem áthelyezése archív mappából egy másik mappába az Outlookban**
+2. Kattintson **az Entourage-adatok** archívumból vagy korábbi verzióból elemre, kattintson a jobbra mutató nyílra, és kövesse az utasításokat.
+
+> [!NOTE]
+- Ha Microsoft Exchange-fiókot használt az Entourage-sal, az Exchange-fiók összes elemét letölti az Exchange-kiszolgálóról, miután az importálási folyamat befejeződött. A fiókkal kapcsolatos Exchange ütemezéseket újra be kell állítani a Outlook.
+
+- Ha az Entourage 2004-es vagy az Entourage 2008-as alkalmazásból importál elemeket, az Exchange-fiókban lévő elemek kategóriainformációi nem importálhatók Outlook. Az Entourage 2008, Web Services Edition esetében azonban a kategóriaadatokat a rendszer letölti a Exchange kiszolgálóról.
+
+- Outlook nem tartalmazza a Project központot. Ha az Entourage-ban használta az Project-központot, majd az Entourage-adatokat az Outlook-be importálja, a Project-központ társításai kategóriákká alakulnak. Ha például az Entourage-ban "Dolgozat" című projekthez adott hozzá elemeket, ezekhez az elemekhez egy "Dolgozat" nevű kategóriát rendel a Outlook.
+
+- Az egyéni nézeteket, a keresési beállításokat és az eseményekhez szükséges utazási időt az Entourage nem importálja Outlook. Outlook események nem tartalmaznak utazási időre vonatkozó információt.
+
+**Elem áthelyezése egy archív mappából egy másik mappába a Outlook**
 
 1. Jelölje ki az áthelyezni kívánt elemet.
 
-2. A **Kezdőlap** lapon válassza az **Áthelyezés**, majd a **mappa kiválasztása** lehetőséget.
+2. A Kezdőlap **lapon** válassza az Áthelyezés **lehetőséget,** majd kattintson a **Mappa kiválasztása elemre.**
 
-3. A Keresés mezőbe írja be az áthelyezni kívánt mappa nevét, majd kattintson az **Áthelyezés** gombra.
+3. Írja be a keresőmezőbe az áthelyezni kívánt mappa nevét, és kattintson az Áthelyezés **gombra.**
 
 > [!TIP]
-> Ha egy archív mappából egy másik mappába szeretné másolni az elemeket az Outlookban, egyszerűen húzza az elemet arra a mappára, amelybe a másolatot el szeretné helyezni.
+> Ha egy archív mappából egy másik mappába szeretne másolni egy elemet a Outlook egyszerűen húzza az elemet arra a mappába, amelybe a másolatot el szeretné helyezze.
 
 **Lásd még**
 
-- [Adatok importálása az Outlookba] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
+- [Adatok importálása a Outlook] (https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c
 
-- [ICal-vagy címjegyzék-elemek importálása az Outlookba](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
+- [iCal- vagy címjegyzékelemek importálása Outlook](https://support.microsoft.com/office/import-ical-or-address-book-items-into-outlook-for-mac-0450a248-6a40-4f84-ba9c-6c545bc11639)
 
 
-- [Outlook-elemek exportálása vagy manuális archiválása](https://support.microsoft.com/office/export-items-to-an-archive-file-in-outlook-for-mac-281a62bf-cc42-46b1-9ad5-6bda80ca3106)
+- [Elemek exportálása vagy Outlook archiválva](https://support.microsoft.com/office/export-items-to-an-archive-file-in-outlook-for-mac-281a62bf-cc42-46b1-9ad5-6bda80ca3106)
 
-- [Outlook-elemek automatikus archiválása vagy biztonsági mentése](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [A biztonsági elemek automatikus archiválása Outlook biztonsági megjelenítése](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)

@@ -1,5 +1,5 @@
 ---
-title: Postaládákon elhelyezett mentességek azonosítása
+title: A postaládákban elhelyezett tartható tartékok azonosítása
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987571"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Postaládákon elhelyezett mentességek meghatározása
+# <a name="identify-holds-placed-on-mailboxes"></a>A postaládákban elhelyezett tartható tartékok azonosítása
 
-Van **olyan Microsoft** 365-tartalma **, amelyet nem** tud azonosulni? Meg szeretné **tudni, hogy hol** található a mentesség a **postaládában** ? A mentességet (*adatmegőrzési funkciókat*) az alábbi módszerek egyikével is alkalmazhatja:
+Van olyan Microsoft 365, amelyet nem  tud azonosítani?  Meg kell **derítenünk,** hogy hol található a postaládában a **lenyomva tartani hely?** Az *adatvisszatartások*(adatmegőrzési szolgáltatások) az alábbi módszerek egyikével alkalmazhatók:
   
-- Jogellenes tartás
+- Jogi hold
 
-- eDiscovery mentesség
+- Elektronikus elektronikus észlelési tartsa lenyomva
 
-- Helyi visszatartás
+- In-Place tartsa lenyomva
 
 - Microsoft 365 adatmegőrzési házirend 
 
-  - Meghatározott hely adatmegőrzési házirendek
+  - Adott helymegőrzési házirendek
 
-  - Szervezeti szintű adatmegőrzési szabályok
+  - Szervezeti szintű adatmegőrzési házirendek
 
-- Microsoft 365-Címkék
+- Microsoft 365 létrehozása
 
-Ha meg szeretné állapítani, hogy milyen típusú mentességet alkalmaz a felhasználó postaládájára, olvassa el a következő témakört: [Hogyan állapítható meg,](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)hogy milyen típusú mentesség van beállítva az Exchange Online-postaládájában.
+Ha meg kell határoznia, hogy milyen típusú tartsa lenyomva egy felhasználó postaládáját, tekintse meg a Következőt: A helyi Exchange Online [típusú Exchange Online azonosítása.](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

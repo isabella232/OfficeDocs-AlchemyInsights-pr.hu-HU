@@ -1,5 +1,5 @@
 ---
-title: Születésnapi naptár az Outlook.com-on
+title: Születésnapi naptár a Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1811"
 - "9000229"
-ms.openlocfilehash: 0c343aa404e0a83b90dbf5687bad06f05320dbd6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 460f5f13bcff7bc7c44b1444c66c64cfaa1d697e4f427cb0d2d75555fd84a928
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064638"
 ---
-# <a name="add-a-birthday-calendar-in-outlookcom"></a>Születésnapi naptár felvétele az Outlook.com
+# <a name="add-a-birthday-calendar-in-outlookcom"></a>Születésnapi naptár hozzáadása a Outlook.com-on
 
-1. A lap alján válassza a naptár ikont. <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB/2U7WAAAA0lBMVEX///+Pj49ycnLW1tay9PT09LL09PSfy/T0y595ZoyMZnnN9PTl29b09M1mi7D0tpHu9PTX9PS49PSnxPSUuPT09O7W3+nW2eK3yOLu4tn09NectdeZvdavwNR5n8v09LhylLjiyLePnLXUwK/0xKdyhKXWvZlycpTEp4+1nI96iI94ZoxsZozOpYSPiHrLn3mMZnilhHKUcnJobG+MZmxvbGiyjGbi9PTA1PSMsvTZ4u709OKEpc6vt8j01MB4mb3It69meZ+9mXi4lHKqiGafeWYJ39x4AAAAp0lEQVQoz2OAATM5NijQ52NABvJGTEymxkxgAGGpC8ElWQ1kmF3smaHAiY9ZTZsFIcnFzqYsAeMpyrJxcCJJmmgxogA9HUKSCGPBtLiAKA8Dg6QYAwcnhiS/KjevoQiDrgKGJDLAkDSTY+B35OZ1tWTQ58OQ5LHCY6ezDR47gYFgZ2tu7WABDAQMSQ1pBhUlQSlNYSCfoCRKwCMDSMAjogwFgKOMEAAA2iERuleOm5wAAAAASUVORK5CYII=' /> [lépjen a naptár](https://outlook.live.com/mail/calendar)nézetbe.
-1. A bal oldali ablaktáblában kattintson a jobb gombbal a **születésnapok** elemre, és válassza az **új születésnap**parancsot.
-1. Adja meg a személy nevét és születési dátumát, és válassza a **Létrehozás**gombot.
-1. Az emlékeztetők be-és kikapcsolásához válassza a **születésnapi** naptár lehetőséget.
+1. A lap alján válassza a naptár ikont <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB/2U7WAAAA0lBMVEX///+Pj49ycnLW1tay9PT09LL09PSfy/T0y595ZoyMZnnN9PTl29b09M1mi7D0tpHu9PTX9PS49PSnxPSUuPT09O7W3+nW2eK3yOLu4tn09NectdeZvdavwNR5n8v09LhylLjiyLePnLXUwK/0xKdyhKXWvZlycpTEp4+1nI96iI94ZoxsZozOpYSPiHrLn3mMZnilhHKUcnJobG+MZmxvbGiyjGbi9PTA1PSMsvTZ4u709OKEpc6vt8j01MB4mb3It69meZ+9mXi4lHKqiGafeWYJ39x4AAAAp0lEQVQoz2OAATM5NijQ52NABvJGTEymxkxgAGGpC8ElWQ1kmF3smaHAiY9ZTZsFIcnFzqYsAeMpyrJxcCJJmmgxogA9HUKSCGPBtLiAKA8Dg6QYAwcnhiS/KjevoQiDrgKGJDLAkDSTY+B35OZ1tWTQ58OQ5LHCY6ezDR47gYFgZ2tu7WABDAQMSQ1pBhUlQSlNYSCfoCRKwCMDSMAjogwFgKOMEAAA2iERuleOm5wAAAAASUVORK5CYII=' /> et [a Naptár nézetre való ugráshoz.](https://outlook.live.com/mail/calendar)
+1. A bal oldali ablaktáblában kattintson a jobb gombbal a Születésnapok **elemre, és** válassza az **Új születésnap lehetőséget.**
+1. Írja be a személy nevét és születési dátumát, majd válassza a Létrehozás **gombot.**
+1. A **Születésnapi naptár** lehetőséget választva be- és kikapcsolja az emlékeztetőket.
 
-További információ a [születésnapi és az ünnepi naptárak hozzáadásáról és eltávolításáról](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6?wt.mc_id=Office_Outlook_com_Alchemy).
+További információ [születésnapi és ünnepnaptár](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6?wt.mc_id=Office_Outlook_com_Alchemy)hozzáadásáról vagy eltávolításáról.

@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: 96b0b38522707d0abd3ee9e9b64652061f0c7791
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b34f74d662fab02f7ac8dad27b2d02c7ebb9db44efb614d6005741d4cebdb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064674"
 ---
-# <a name="add-your-other-email-accounts-to-outlookcom"></a>A többi e-mail-fiók felvétele az Outlook.com
+# <a name="add-your-other-email-accounts-to-outlookcom"></a>Más e-mail-fiókok felvétele a Outlook.com webhelyre
 
-Ha további e-mail-fiókokat vesz fel a Outlook.com-ba, akkor a Outlook.com segítségével e-maileket küldhet és olvashat az e fiókokból anélkül, hogy elhagyná a Outlook.com. A Outlook.com-hoz hozzáadott minden fiókot egy csatlakoztatott fióknak nevezzük.
+Ha más e-mail-fiókokat is hozzáad a Outlook.com-hoz, a Outlook.com webhelyen anélkül küldhet és olvashat e-maileket az ilyen fiókokból, hogy elhagyné a Outlook.com webhelyet. A Outlook.com webhelyre minden egyes fiókot csatlakoztatott fióknak nevezünk.
 
-Megjegyzés: a csatlakoztatott fiókról a Outlook.com-fiókra való szinkronizálás csak egyirányú lehet. A csatlakoztatott fiókjából a Outlook.com használatával küldött e-mailek nem jelennek meg a csatlakoztatott fiók elküldött elemeiben.
+Megjegyzés: A csatlakoztatott fiókból csak egy Outlook.com-fiókba szinkronizál. A csatlakoztatott fiókból a Outlook.com használatával küldött e-mailek nem jelennek meg a csatlakoztatott fiók Elküldött elemei között.
 
 Csatlakoztatott fiók hozzáadása:
 
-1. Nyissa meg a [szinkronizálási e-mail-beállításokat](https://go.microsoft.com/fwlink/?linkid=875264).
-2. A **csatlakoztatott fiókok**csoportban válassza a **Gmail** vagy **más e-mail-fiókok**lehetőséget.
-3. A fiók csatlakoztatása lapon adja meg a megjelenítendő nevet (a címzettek láthatják, hogy kapnak-e e-mail-üzenetet), valamint annak az e-mail-fióknak a teljes e-mail-címét és jelszavát, amelyhez csatlakozni szeretne az Outlook.com-fiókjához.
+1. Nyissa meg [az E-mailek szinkronizálása beállításait.](https://go.microsoft.com/fwlink/?linkid=875264)
+2. A **Csatlakoztatott fiókok alatt válassza** a Gmail **vagy** az **Egyéb e-mail-fiókok lehetőséget.**
+3. A Csatlakozás meg a megjelenítendő nevet (azt a nevet, amit a címzettek látni fognak, amikor e-mailt kapnak Öntől), valamint annak az e-mail fióknak a teljes e-mail-címét és jelszavát, amely a Outlook.com-fiókjához szeretne csatlakozni.
 
-Az Outlook.com-fiókjához kapcsolt fiókból küldhet e-maileket. E-mailek írásakor válassza **a feladó elemet** , és adja meg, hogy melyik e-mail-címet szeretné használni, vagy [frissítse az alapértelmezett címet](https://go.microsoft.com/fwlink/?linkid=875264).
+Az e-maileket a Outlook.com-fiókjához csatlakoztatott bármely fiókból küldheti el. E-mail írása  során válassza a From (E-mail cím) lehetőséget, és válassza ki a használni kívánt e-mail-címet, vagy frissítse [az alapértelmezett From (Cím) értéket.](https://go.microsoft.com/fwlink/?linkid=875264)
 
-További információt a további [e-mail-fiókok felvétele a Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)című témakörben olvashat.
+További információt a További e-mail-fiókok [felvétele a Outlook.com webhelyre Outlook.](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Ha olyan új e-mail-címet szeretne létrehozni, amely ugyanazt a Outlook.com-fiókot használja, olvassa el [az e-mail alias hozzáadása vagy eltávolítása](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)című témakört.
+Ha olyan új e-mail címet szeretne létrehozni, amely ugyanazt a Outlook.com-fiókot használja, olvassa el az E-mail alias hozzáadása vagy [eltávolításacímet.](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)
