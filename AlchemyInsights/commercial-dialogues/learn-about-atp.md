@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: bb6aa5a3cd8976cb590b4da18bc35b3ee782eca60ed1a48083cca8e7ef17e51e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034360"
 ---
 # <a name="learn-about-microsoft-defender-for-office-365"></a>További információ a Microsoft Defender Office 365
 
@@ -30,7 +30,7 @@ A Microsoft Defender Office 365 egy felhőalapú e-mail-szűrési szolgáltatás
 
 **Hogyan aktiválható a Microsoft Defender Office 365?**
 
-Széf A mellékletek, Széf hivatkozások és az adathalászat elleni védelem a Microsoft Defender Office 365 része. A Nagyvállalati E5, az Oktatási A5 és Microsoft 365 Vállalati verzió Microsoft Defender beépített funkcióival Office 365 funkciókat. Minden más csomaghoz szükség van egy Microsoft Defender bővítményre Office 365 előfizetéshez. Ki kell rendelnie a megfelelő licenceket a felhasználókhoz ahhoz, hogy a Microsoft Defender védelmet nyújt Office 365. A funkció eléréséhez globális rendszergazdai vagy biztonsági rendszergazdai jogosultsággal kell rendelkeznie. Ha többet szeretne megtudni arról, hogy miként alkalmazhat licenceket tömegesen a végfelhasználókra, olvassa el a Licencek hozzárendelése felhasználókhoz a Office 365 [vállalati verzióban.](https://go.microsoft.com/fwlink/?linkid=2093435)
+Széf A mellékletek, Széf hivatkozások és az adathalászat elleni védelem a Microsoft Defender Office 365 része. A Nagyvállalati E5, az Oktatási A5 Microsoft 365 és a vállalati verzió tartalmazza a Microsoft Defender beépített Office 365 funkciókat. Minden más csomaghoz szükség van egy Microsoft Defender bővítményre Office 365 előfizetéshez. Ki kell rendelnie a megfelelő licenceket a felhasználókhoz ahhoz, hogy a Microsoft Defender védelmet nyújt Office 365. A funkció eléréséhez globális rendszergazdai vagy biztonsági rendszergazdai jogosultsággal kell rendelkeznie. Ha többet szeretne megtudni arról, hogy miként alkalmazhat licenceket tömegesen a végfelhasználókra, olvassa el a Licencek hozzárendelése felhasználókhoz a Office 365 [vállalati verzióban.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
 **Hogyan kezelem a Microsoft Defendert Office 365 vagy többet megtudok róla?**
 
