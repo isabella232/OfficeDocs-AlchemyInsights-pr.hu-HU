@@ -1,5 +1,5 @@
 ---
-title: Office 365-tanácsadó Microsoft Defender
+title: Microsoft Defender Office 365 tanácsadónak
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004191"
 - "7372"
-ms.openlocfilehash: cb916a79ddd4b882ea5b892cfc4c2133c924df5d
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e8071de43932bc4f5ca6691a48b92768df18fab47ef6e6112ecc8604678b6408
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098110"
 ---
-# <a name="microsoft-defender-for-office-365-advisor"></a>Office 365-tanácsadó Microsoft Defender
+# <a name="microsoft-defender-for-office-365-advisor"></a>Microsoft Defender Office 365 tanácsadónak
 
-A [Microsoft Defender for Office 365 tanácsadója](https://go.microsoft.com/fwlink/?linkid=2146614) megóvja szervezetét az e-mailek, a hivatkozások és a harmadik féltől származó együttműködési eszközök segítségével a környezete által tapasztalt kártékony fenyegetésekkel szemben. Ebből az útmutatóból megtudhatja, hogy miként készítheti elő és azonosíthat egy Microsoft Defender-csomagot a szervezet igényeinek megfelelően.
+A [Microsoft Defender Office 365](https://go.microsoft.com/fwlink/?linkid=2146614) tanácsadó védi szervezetét az e-mail-üzeneteken, hivatkozásokon és külső együttműködési eszközöken keresztül a környezetében esetleg felmerülő kártékony fenyegetések ellen. Ez az útmutató a szervezet igényeinek megfelelő Microsoft Defender-terv előkészítéséhez és azonosításához szükséges erőforrásokat és információkat tartalmaz.
