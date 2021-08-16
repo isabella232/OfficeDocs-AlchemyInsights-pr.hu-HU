@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e80bfd24c319a411493e88c6bac31365c347a2e67f8ecb2dc9ba52fb24fc5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724689"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012418"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Problémákat tapasztal a felhőalapú szolgáltatással kapcsolatban?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Problémákat tapasztal a felhőszolgáltatással kapcsolatban?
 
-Ha problémákat tapasztal a felhőalapú szolgáltatással kapcsolatban, a Microsoft 365 felügyeleti központban ellenőrizheti a [szolgáltatás állapotát](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , és megtudhatja, hogy az adott probléma egy olyan hibával kapcsolatos-e, amely a támogatási vagy a munkaidő-elhárítási probléma megoldásának megkezdése előtt folyamatban van. A probléma lehet, hogy nagyon ideiglenes, és a Microsoft már azonosított, azonban előfordulhat, hogy lejár a probléma azonosítása és a szolgáltatás állapota irányítópultra való feladása között. További frissítésért tanulmányozza a szolgáltatás irányítópultját.
+Ha problémákat tapasztal egy felhőszolgáltatással kapcsolatban, [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a Microsoft 365 Felügyeleti központ szolgáltatás állapotát ellenőrizve megállapíthatja, hogy ismert, már megoldott problémáról van-e szó, mielőtt felhívhatja az ügyfélszolgálatot, vagy időt tölthet a hibaelhárítással. Előfordulhat, hogy a probléma nagyon ideiglenes, és a Microsoft már azonosította, de előfordulhat, hogy eltelik egy idő a probléma azonosítása és a szolgáltatás állapot-irányítópulton való közzététele között. Kérjük, ellenőrizze, hogy a szolgáltatás irányítópultján nem frissülnek-e további frissítések.
 
 **Értesítési házirend**
 
-Szolgáltatási incidens bekövetkeztekor a Microsoft felismeri a megfelelő időben, célzott és pontos kommunikációt a vevők szempontjából. A Microsoft értesíti a rendszergazdákat a Microsoft 365 felügyeleti portálon a bérlői specifikus [szolgáltatás-irányítópult (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) frissítésével. A szolgáltatási incidensek frissítésének óradíja van, vagy ha eltérő lépésszám szükséges, akkor a rendszer a SHD-kommunikáció kiküldését fogja megadni. További információt a [Microsoft 365-szolgáltatás állapotának ellenőrzése](https://docs.microsoft.com/office365/enterprise/view-service-health)című témakörben találhat.
+Szolgáltatási incidens esetén a Microsoft felismerte, hogy az ügyfelek számára kritikus az időbeni, célzott és pontos kommunikáció. A Microsoft a bérlőspecifikus szolgáltatás-állapot irányítópultjának [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) frissítésével értesíti a rendszergazdákat a Microsoft 365 Felügyeleti központ portálon. A szolgáltatási incidensek frissítése óránkénti ütemben történik, vagy ha eltérő ütemre van szükség, azt a SHD kommunikációs közleményében kell megadni. További információért lásd: A szolgáltatás [Microsoft 365 ellenőrzése.](https://docs.microsoft.com/office365/enterprise/view-service-health)
 

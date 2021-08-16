@@ -1,5 +1,5 @@
 ---
-title: Mi az a hub-webhely?
+title: Mi az a központi webhely?
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: f6bcd7acd0562860414b72b9199a8c4a24d9bcf8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d2523832f91c98c452ef1c21586888da236082ff551b3b1a349757b48f6e99d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767457"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989809"
 ---
-# <a name="whats-a-hub-site"></a>Mi az a hub-webhely?
+# <a name="whats-a-hub-site"></a>Mi az a központi webhely?
 
-A központi webhelyek segítségével rendszerezheti a webhelyeket, és átadhatja nekik a navigációt és a márkaépítést. A globális vagy a SharePoint-rendszergazdák hozhatnak létre központi webhelyeket, és megadhatják, hogy mely felhasználók társítják a webhelyeket a központi webhellyel. További információt a SharePoint- [központ webhelyei](https://go.microsoft.com/fwlink/?linkid=869388)című témakörben találhat.
+A központi webhelyek segítségével rendszerezheti a webhelyeket, és egységes navigációt és arculatot adhat nekik. Globális vagy SharePoint rendszergazdák központi webhelyeket hozhatnak létre, és megadhatják, hogy mely felhasználók társíthatják a webhelyeiket a központi webhelyhez. További információért lásd: központi [SharePoint webhelyeket keres.](https://go.microsoft.com/fwlink/?linkid=869388)
   

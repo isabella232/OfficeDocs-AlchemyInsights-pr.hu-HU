@@ -1,5 +1,5 @@
 ---
-title: A távoli munka beállítási útmutatója
+title: Távmunkához szükséges beállítási útmutató
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023992"
 ---
-# <a name="remote-work-setup-guide"></a>A távoli munka beállítási útmutatója
+# <a name="remote-work-setup-guide"></a>Távmunkához szükséges beállítási útmutató
 
-A további és a több munka távolról végezhető el. A szervezetnek rendelkeznie kell a távoli munka megnövekedett igényének kezeléséhez.
+Egyre több és több munkát végeznek el távolról. A szervezetnek fel kell fel van szerelve a távoli munka megnövekedett igényének kezeléséhez.
 
-A [távoli munka beállítási útmutatója](https://go.microsoft.com/fwlink/?linkid=2142062) segítségével engedélyezze az alapvető biztonsági funkciókat, és tekintse át a további biztonsági javaslatokat. Útmutatást kap a VPN-infrastruktúra megterhelésének csökkentéséhez, és szükség esetén állítsa be a távoli hozzáférést asztali számítógépekhez és alkalmazásokhoz. Ezután áttekintheti a Microsoft Teams és az Office-alkalmazások központi telepítésével kapcsolatos lehetőségeket.
+A távoli [munka beállítási útmutatója](https://go.microsoft.com/fwlink/?linkid=2142062) segítségével engedélyezheti az alapvető biztonsági funkciókat, és áttekinteti a további biztonsági javaslatokat. Útmutatást fog kapni, hogy csökkentse a VPN-infrastruktúrájának terhelését, és szükség esetén távoli hozzáférést állítson be asztali gépekhez és alkalmazásokhoz. Ezután áttekintheti az appok telepítésének Microsoft Teams és Office beállításait.

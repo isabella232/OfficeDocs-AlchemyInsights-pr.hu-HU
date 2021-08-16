@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Edge szinkronizálásának konfigurálása
+title: Szinkronizálás Microsoft Edge konfigurálása
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9137"
 - "9004431"
-ms.openlocfilehash: c99e65ca931335a7db9d73b5a6d25a4ba4d1a769
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
-ms.translationtype: MT
+ms.openlocfilehash: 3a858dcda2df3d6148ca49aac6bc7384e810d34c00735deba74dfe9dd31f5656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51595714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033568"
 ---
-# <a name="configure-microsoft-edge-sync"></a>A Microsoft Edge szinkronizálásának konfigurálása
+# <a name="configure-microsoft-edge-sync"></a>Szinkronizálás Microsoft Edge konfigurálása
 
-A Microsoft Edge szinkronizálásának konfigurálása csoportházirendek és az Azure Information Protection (AIP) szolgáltatással. További információ: [A Microsoft Edge nagyvállalati szinkronizálásának konfigurálása.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-sync)
+Konfigurálja Microsoft Edge szinkronizálást csoportházirendekkel és az Azure Information Protection (AIP) szolgáltatással. További információt A vállalati [szinkronizálás Microsoft Edge konfigurálásban.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-sync)

@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994939"
 ---
 # <a name="set-up-an-automatic-reply"></a>Automatikus válasz beállítása
 
 Az automatikus válaszokat minden olyan esetben használhatja, amikor szeretné tudatni az Önnek e-mailt küldünk címzettekkel, hogy nem tud azonnal válaszolni az üzeneteikre. Miután bekapcsolta az automatikus válaszokat, azok minden feladónak egyszer lesznek elküldve.
 
-1. Jelentkezzen be a Outlook.com.
-2. A navigációs sávon válassza a **Beállítások**  >  **Automatikus válaszok beállítása lehetőséget.** Ha **az Automatikus válaszok beállítása** nem látható, válassza a Beállítások Beállítások   >  **Automatikus** válaszok  >  **lehetőséget.**
+1. Jelentkezzen be a Outlook.com webhelyen.
+2. A navigációs sávon válassza az Automatikus **Gépház**  >  **beállítása lehetőséget.** Ha **az Automatikus válaszok beállítása** parancs nem látható, válassza az Automatikus válaszok **Gépház**  >    >  **lehetőséget.**
 3. Itt módosíthatja az automatikus válaszok beállításait, többek között azt, hogy csak egy adott időszakra van automatikus válasza, ha a szervezet minden tagjának csak egyszer kell válaszolnia, vagy csak a szervezeten kívüli tagoknak.

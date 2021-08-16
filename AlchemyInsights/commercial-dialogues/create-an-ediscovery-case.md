@@ -1,5 +1,5 @@
 ---
-title: Elektronikus adatfelmentő eset létrehozása
+title: Elektronikus adatfelmentási eset létrehozása
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 61e466d9ec203a66a7ce2e89bd1462f5a483c784
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482752"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988369"
 ---
-# <a name="create-an-ediscovery-case"></a>Elektronikus adatfelmentő eset létrehozása
+# <a name="create-an-ediscovery-case"></a>Elektronikus adatfelmentási eset létrehozása
 
 Elektronikus adatfelmentási eset létrehozásához a következőt kell alkalmaznia:
 
-1. A Biztonsági [& megfelelőségi központban](https://go.microsoft.com/fwlink/p/?linkid=2077143) válassza az **Elektronikus** adatok  >  **észlelése lehetőséget.**
+1. A Biztonsági és [megfelelőségi központban](https://go.microsoft.com/fwlink/p/?linkid=2077143) & válassza **az Elektronikus adatok** fel- és észlelése  >  **lehetőséget.**
 1. Az Elektronikus adatfeltűnés lapon kattintson az Eset **létrehozása elemre.**
-1. Adjon meg egy kis- és egy kis- és egy leírást, majd kattintson a **Mentés gombra.**
+1. Adjon meg egy kis- és egy kis- és egy leírást, majd kattintson a Mentés **gombra.**
     > [!TIP]
-    >Az eset engedélyeinek kezeléséhez kattintson az eset neve melletti szóközre (ne a Megnyitás elemre).
-1. Ebben az esetben a Megnyitás gombra kattintva kezelheti a hold, a keresési és az **exportálási beállításokat.**
+    >Az eset engedélyeinek kezeléséhez kattintson a kis- és a szöveg mellett a szóközre (ne kattintson a Megnyitás gombra).
+1. Ebben az esetben a Törlés, a Keresés és az Exportálás beállítás kezeléséhez kattintson a Megnyitás **gombra.**
 
-Az adatfelfedő esetek tartalommal való munkához szükséges részletes információkért lásd az [adatfelfededő eseteket.](https://go.microsoft.com/fwlink/?linkid=2101589)
+Ha részletes információkra van szükség arról, hogy a adatfelfedő esetek hogyan működnek a tartalommal, tekintse meg a elektronikus [adatfelmentási eseteket.](https://go.microsoft.com/fwlink/?linkid=2101589)

@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Graph REST API-hivatkozása
+title: A Microsoft Graph REST API –referencia
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: f8ecb8081ee169f88ef265f4b108919df29a0ca7146835d7e0c4e85793082136
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012526"
 ---
-# <a name="microsoft-graph-rest-api-reference"></a>A Microsoft Graph REST API-hivatkozása
+# <a name="microsoft-graph-rest-api-reference"></a>A Microsoft Graph REST API –referencia
 
-A grafikon API-halmazai a v 1.0 végpontban általános elérhetőségi (GA) állapotú, és alapos véleményezési és visszajelzési folyamaton mentek keresztül az ügyfelekkel a gyakorlati, gyártási igények kielégítése érdekében.
+Az 1.0-s végponton az Graph API-készletei általánosan rendelkezésre állási (GA) állapotra esnek, és szigorú ellenőrzésen és visszajelzésen esnek át az ügyfelekkel a gyakorlati, gyártási igények kielégítése érdekében.
 
-- A Graph API-val kapcsolatos további tudnivalókért lásd a [Microsoft Graph REST API 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true)-s verzió hivatkozását. 
-- A Graph API bétaverziójának verziójáról további információt a [Microsoft Graph bétaverziójának végpont-hivatkozása](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true)című témakörben talál.
+- Az api-Graph 1.0-s verziójáról további információt a [Microsoft Graph REST API 1.0-s verziójának](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true)útmutatója tartalmaz. 
+- Az API bétaverzióról Graph a Microsoft Graph béta végpontjainak összefoglalása Graph [információkat.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true)
 
-A Microsoft Graph-ról a [Microsoft Graph dokumentációja](https://docs.microsoft.com/graph/)című témakörben olvashat bővebben.
+A Microsoft microsoftos verziójáról további Graph a [Microsoft Graph tájékozódhat.](https://docs.microsoft.com/graph/)
 
-Az egyesített és a Premier ügyfélszolgálati ügyfelei a portálon keresztül is növelhetik a támogatási jegyet. Ha nincs egységes vagy elsőrangú ügyfélszolgálata, a Microsoft Q&A Microsoft Graph-hoz elérhető ingyenes fejlesztői támogatást is elérheti. Kérjük, tegye fel a kérdését: https://aka.ms/AskGraph
+Az egységes és Premier szintű támogatási ügyfelek támogatási jegyet tudnak emelni ezen a portálon. Ha nem rendelkezik egységes vagy Premier szintű támogatással, a Microsoft Q Graph kérdések és válaszok ingyenes fejlesztői&férhet hozzá. Tegye fel kérdését itt: https://aka.ms/AskGraph
