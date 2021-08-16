@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams – vendégek hozzáférése
+title: Microsoft Teams – Vendég hozzáférés
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012310"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft Teams – vendégek hozzáférése
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams – Vendég hozzáférés
 
-Ha segítségre van szüksége a szervezeten kívüli felhasználókkal való kommunikációhoz a Teams-ben, el kell döntenie, hogy vendégként használja-e a [vendég hozzáférést vagy a külső hozzáférést (összevonás)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), vagy mindkettőt használhatja.
+Ha segítségre van szüksége a szervezetén kívüli felhasználókkal az Teams-ban, el kell döntenie, hogy a Vendégelérés vagy a Külső hozzáférés [(összevonás)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)használhatja-e, vagy mindkettőt.
 
-Ügyeljen arra, hogy [nézze át a különbségeket](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) , hogy megértsék az egyes funkciókhoz elérhető funkciókat.  A külső hozzáférés (összevonás) például lehetővé teszi a 1:1 kommunikációját, például a csevegést és a jelenléti állapotot.  Az összevont felhasználók azonban nem vehetnek részt Teams-együttműködésben.  Ha egy külső felhasználónak csatlakoznia kell a Teams-csatornákban, vagy fájlokat szeretne megosztani, be kell kapcsolnia a vendégek hozzáférését.
+Az egyes [szolgáltatásokért](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) tekintse át a különbségeket.  A külső hozzáférés (összevonás) például két mint 1 kommunikációra (például Csevegés és jelenlét) tesz lehetővé.  A összevont felhasználók azonban nem vehetnek részt Teams együttműködésben.  Ha azt szeretné, hogy egy külső felhasználó csatlakozzon egy csatornához, és részt vegyen Teams csatornabeszélgetésekben vagy fájlok megosztásaban, be kell kapcsolnia a vendégelérést.
 
-**1. lehetőség: a vendégek hozzáférésének bekapcsolása** A Teams felügyeleti központban lépjen a [szervezeti szintű beállítások > vendég hozzáférése](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) elemre, és kapcsolja be a "vendégek hozzáférésének engedélyezése a csoportokban" beállítást.  Ha a bérlő minden egyéb alapértelmezett beállítással rendelkezik, akkor ezt feltétlenül el kell végeznie.  Ha testre szeretné szabni a vendégek hozzáférésének konfigurációját, győződjön meg arról, hogy a [vendégek hozzáférése ellenőrzőlista](https://docs.microsoft.com/microsoftteams/guest-access-checklist)minden lépését követi. Ha teljesen elkészült, a beállítások érvénybe léptetéséhez [akár 24 órát is várnia](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) kell.
+**1. lehetőség: A vendég hozzáférésének bekapcsolása** A Teams Felügyeleti központban kattintson a Szervezeti szintű Gépház > [vendégelérés](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) elemre, és kapcsolja be a "Vendég hozzáférés engedélyezése a Teams" lehetőséget.  Minden más alapértelmezett beállítással megadott bérlő esetén csak ezt kell megtennie.  A vendégelérési konfiguráció testreszabásához kövesse a vendégelérési ellenőrzőlista [összes lépését.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Ha végzett, várjon akár [24](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) órát is, amíg a beállítások életbe lépnek.
 
-Ha biztos benne, hogy elvégezte az ellenőrzőlista összes lépését, és már több mint 24 óra van, lépjen tovább, és próbáljon meg [egy vendéget felvenni a csapatba](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Ha biztos benne, hogy az ellenőrzőlista összes lépését sikeresen befejezte, és több mint 24 óra van még, próbálja meg vendéget felvenni [a csapatba.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-A videókkal kapcsolatos további tudnivalókért tekintse át a [vendégek a Microsoft Teams szolgáltatásban](https://docs.microsoft.com/microsoftteams/guest-access)című témakört.
+További információért, például az how-to videos (how-to videók) lásd: Vendégelérés a [Microsoft Teams.](https://docs.microsoft.com/microsoftteams/guest-access)
 
-**2. lehetőség: a külső hozzáférés bekapcsolása (összevonás)** Ha be szeretné kapcsolni a külső hozzáférést (összevonás), a Teams felügyeleti központban lépjen a [szervezeti szintű beállítások > külső hozzáférés](https://admin.teams.microsoft.com/company-wide-settings/external-communications) elemre, és kapcsolja be a "felhasználók kommunikálni tudnak a Skype vállalati verzióval és a Teams-felhasználókkal" jelölőnégyzetet, majd hajtsa végre az összes lépést, és kövesse az összes lépést a felhasználókkal [egy másik szervezet felhasználóival](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**2. lehetőség: A külső hozzáférés (összevonás) bekapcsolása** Ha be szeretné kapcsolni a Külső hozzáférés (összevonás) 2010-et, az Teams Felügyeleti központban válassza a Szervezeti szintű [Gépház > Külső hozzáférés](https://admin.teams.microsoft.com/company-wide-settings/external-communications) elérést, kapcsolja be a "Felhasználók kommunikálhatnak az Skype Vállalati verzió- és Teams-felhasználókkal" című témakört, majd kövesse A [Teams-felhasználók](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)cseveghetnek és kommunikálhatnak más szervezetek felhasználóival című témakörben található összes lépést.
