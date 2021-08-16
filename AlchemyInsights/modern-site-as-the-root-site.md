@@ -1,5 +1,5 @@
 ---
-title: Modern webhely root-webhelyként
+title: Modern webhely mint gyökérwebhely
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b42cf276a76547584c8cfd87b5a28f31d51ea7f8ca56621b22aeef01e4613ce6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000394"
 ---
-# <a name="modern-site-as-root-site"></a>Modern webhely root-webhelyként
+# <a name="modern-site-as-root-site"></a>Modern webhely gyökérwebhelyként
 
-Kezdtük egy új funkció kiépítését, amely lehetővé teszi, hogy a [klasszikus webhely gyökerét egy modern](https://docs.microsoft.com/sharepoint/modern-root-site)webhelyre cserélje. A [SPOSiteSwap hivatkozhat](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) arra, hogy a webhely helyét egy másik webhelyre cseréli az eredeti webhely archiválása közben. Mindkét csoportwebhely számára elérhető (nem kapcsolódhat egy csoporthoz) és egy kommunikációs webhelyhez.
+Megkezdtük egy új funkció bevezetését, amely lehetővé teszi, hogy felcserélje a klasszikus webhely gyökérwebhelyét [egy modern webhelyről.](https://docs.microsoft.com/sharepoint/modern-root-site) Az [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) segítségével felcserélje egy webhely helyét egy másik webhelyre az eredeti webhely archiválásával. A csoportwebhely (csoporthoz nem kapcsolt) és a kommunikációs webhely számára is elérhető.
 
 >[!Important]
-> A modern kommunikációs webhelyek létrehozásához ne törölje a klasszikus root-webhelyét. Ezt a Microsoft nem támogatja. A legfelső szintű webhely törlésekor a szervezet összes SharePoint-webhelye nem érhető el az összes felhasználó számára, amíg vissza nem állítja a webhelyet, illetve nem hozhat létre új webhelyet ugyanazon az URL-címen. Ezt a funkciót az üzenetközpont segítségével fogjuk kommunikálni. Várnia kell, hogy a funkció hamarosan be legyen kapcsolva a bérlői webhelyére.
+> Ne törölje a klasszikus gyökérwebhelyet modern kommunikációs webhely létrehozásához. Ezt a Microsoft nem támogatja. A gyökérwebhely törlésével a szervezet összes SharePoint elérhetetlenné teszi az összes felhasználó számára, amíg nem visszaállítja a webhelyet, vagy nem hoz létre új webhelyet ugyanazon az URL-címen. Ezt a funkciót az üzenetközponton keresztül fogjuk tudatni. Számíthat rá, hogy hamarosan be lesz kapcsolva a szolgáltatás a bérlői webhelyen.
 
-## <a name="known-issues-with-swapping-sites"></a>A webhelyek cseréjével kapcsolatos ismert problémák
-- Előfordulhat, hogy a cél egy rövid időre "not found" (HTTP 404) hibát ad vissza.
-- A keresési index frissítéséhez a tartalmat újra kell bejárni. Ebben az esetben nincs szükség kézi lépésre, ezt automatikusan elvégezheti.
-- A "statikus" hivatkozásokkal (például a fájlok szinkronizálására és a OneNote-fájlokra) függő bármit manuálisan kell kijavítani.
-- Előfordulhat, hogy a Project Server-webhelyek érvényesítése szükséges ahhoz, hogy a rendszer továbbra is megfelelően társítsa őket. 
+## <a name="known-issues-with-swapping-sites"></a>Ismert problémák a webhelyek felcserélésével
+- Előfordulhat, hogy a célwebhely rövid ideig "nem található" (HTTP 404) hibát ad vissza.
+- A keresési index frissítéséhez a tartalmat vissza kell tolni. Itt nincs szükség manuális lépésre, ez automatikusan történik.
+- A statikus hivatkozásoktól (például Fájlszinkronizálás és OneNote) függő összes adatokat manuálisan kell kijavítani.
+- Project Előfordulhat, hogy ellenőrizni kell a kiszolgálói webhelyeket annak érdekében, hogy a megfelelő módon legyen társítva. 

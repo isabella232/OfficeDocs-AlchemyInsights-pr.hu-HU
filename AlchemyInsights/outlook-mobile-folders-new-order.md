@@ -1,5 +1,5 @@
 ---
-title: Outlook Mobile-mappák új sorrendben
+title: Outlook Mobilmappák új sorrendben
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000250"
 ---
-# <a name="my-folders-are-in-a-new-order"></a>A mappák új sorrendben jelennek meg
+# <a name="my-folders-are-in-a-new-order"></a>A mappák új sorrendben vannak
 
-A kedvenc mappák és csoportok hozzáadásával az iOS és az Android rendszerhez készült Outlookban megfigyelheti, hogy a mappái új sorrendben jelennek meg. Ha van kedvence, a Kedvencek szakaszt fogja látni az oldalsáv tetején. Kedvenceket az oldalsáv tetején, a ceruza ikonnal hozhat létre. Ez a funkció a legfontosabb mappákat és csoportokat őrzi meg a legfelső helyen, ahol egyszerűen elérheti őket.
+A kedvenc mappák és csoportok iOS és Android Outlook mellett azt is észreveheti, hogy a mappák új sorrendben vannak. Ha vannak kedvencei, a Kedvencek szakasz az oldalsáv tetején látható. Kedvenceket az oldalsáv tetején található ceruza ikonnal adhat hozzá. Ez a legfontosabb mappákat és csoportokat a tetején fogja tartani, ahol könnyedén elérheti őket.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825373"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000358"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Áttelepítés AIP-ről MIP-re/egyesített címkézésre a Megfelelőségi központban
 
@@ -25,11 +25,11 @@ Az AIP-címkékről az Egyesített címkézésre való áttelepítéshez a Bizto
 
 **Az Azure Portal védelmének aktiválása**
 
-1. Ha még nem tette meg, nyisson meg egy új böngészőablakot, és jelentkezzen be [az Azure Portalba.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Lépjen az **Azure Information Protection blade (Azure Information Protection) lapra.** A központ menüben például  kattintson a Minden  szolgáltatás elemre, és kezdje el beírni az Információ szöveget a Szűrő mezőbe. Válassza az **Azure Information Protection (Azure Information Protection) lehetőséget.** Ha még nem fért hozzá az Azure Information Protection [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) blade-hez, tekintse meg a blade felvételének egyszeres további lépéseit a portálra. Az Azure Information Protection blade megnyitásához [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) csomag vagy a Rights Managementet tartalmazó Office 365-csomag szükséges. Ha rendelkezik az alábbi előfizetések egyikével, de üzenet jelenik meg arról, hogy nem található érvényes előfizetés, forduljon a [Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) ügyfélszolgálatához, vagy használja a szokásos támogatási csatornákat.
+1. Ha még nem tette meg, nyisson meg egy új böngészőablakot, és jelentkezzen be [az Azure Portalba.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Lépjen az **Azure Information Protection blade (Azure Information Protection) lapra.** A központ menüben például  kattintson a Minden  szolgáltatás elemre, és kezdje el beírni az Információ szöveget a Szűrő mezőbe. Válassza az **Azure Information Protection (Azure Information Protection) lehetőséget.** Ha még nem fért hozzá az Azure Information Protection [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) blade-hez, tekintse meg a blade felvételének egyszeres további lépéseit a portálra. Az Azure Information Protection blade megnyitásához [Azure Information Protection](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) Prémium vagy egy rights managementet tartalmazó Office 365 kell lennie. Ha rendelkezik az alábbi előfizetések egyikével, de üzenet jelenik meg arról, hogy nem található érvényes előfizetés, forduljon a [Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) ügyfélszolgálatához, vagy használja a szokásos támogatási csatornákat.
 
 2. Keresse meg **a Kezelés** menü beállításait, és válassza a **Védelem aktiválása lehetőséget.** Kattintson **az Aktiválás** gombra, majd erősítse meg a műveletet. Ha befejeződött az aktiválás, az információs sávon megjelenik **az Aktiválás sikeresen befejeződött üzenet.**
 
-**Azure Information Protection-címkék áttelepítése az Office 365 Biztonsági & megfelelőségi központba**
+**Azure Information Protection-címkék áttelepítése Office 365 Biztonsági & megfelelőségi központba**
 
 1. Győződjön meg arról, hogy globális rendszergazdai engedéllyel rendelkező felhasználóként jelentkezett be.
 

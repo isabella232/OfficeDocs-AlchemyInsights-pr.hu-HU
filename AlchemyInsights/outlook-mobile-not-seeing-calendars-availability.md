@@ -1,5 +1,5 @@
 ---
-title: Az Outlook Mobile nem látja a naptárakat az elérhetőség kiválasztása során
+title: Outlook A mobileszközök nem látják a naptárakat az elérhetőség kiválasztásakor
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: e0523100caead474b63ef8ddfcd4622ccbd3669c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000322"
 ---
-# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Nem jelenik meg a várt naptárak az elérhetőségem kiválasztásakor
+# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>Az elérhetőségem kiválasztásakor nem látom a várt naptárakat
 
-Ha nem látja a várt naptárakat, nyissa meg a naptárt, koppintson a képernyő bal felső sarkában lévő menü gombra, és győződjön meg arról, hogy a megtekinteni kívánt naptárak be vannak jelölve. Csak az ebben a menüben engedélyezett naptárak jelennek meg az elérhetőségi idő kiválasztásakor.
+Ha nem látja a várt naptárakat, válassza a Naptár elemet, koppintson a menügombra a képernyő bal felső sarkában, és győződjön meg arról, hogy a várt naptárak be vannak jelölve. Az Elérhetőség küldése beállításnál csak az ebben a menüben engedélyezett naptárak jelennek meg.
