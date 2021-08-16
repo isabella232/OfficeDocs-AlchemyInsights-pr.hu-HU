@@ -1,5 +1,5 @@
 ---
-title: Az Office-termékek nem érhetők el a Mac platformon
+title: Office maces platformon nem elérhető termékek
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - "756"
 - "755"
 - "2000016"
-ms.openlocfilehash: 7ea579188d8b28f4af47e03e09e9767d9d84e5e7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d8de790de60a3d656f46248a73e56fbd195018bbec9bc234a39bca5a162e9b21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832852"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076239"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a>Az Office-termékek nem érhetők el a Mac platformon
+# <a name="office-products-not-available-for-the-mac-platform"></a>Office maces platformon nem elérhető termékek
 
-A Visio, a Project, a Publisher és az Access nem érhető el Mac platformra, a Visio Online és a Project Online azonban minden platformon elérhető és használható.
+A Visio, Project, Publisher és az Access nem érhető el a Mac platformon, az Visio Online és a Project Online azonban minden platformon elérhető és működik.
   
