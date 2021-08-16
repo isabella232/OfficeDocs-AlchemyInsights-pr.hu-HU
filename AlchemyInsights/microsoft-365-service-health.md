@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794474"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098460"
 ---
 # <a name="microsoft-365-service-health"></a>Microsoft 365 Szolgáltatás állapota
 
@@ -30,4 +30,4 @@ Ellenőrizze bármely szolgáltatás állapotát a [Szolgáltatás állapota ir�
 
 - Válassza **az Előzmények** lehetőséget a szervezet szolgáltatás-állapotelőzményének áttekintéséhez. 
 
-További információ: [A Microsoft 365 szolgáltatás állapotának ellenőrzése.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
+További információt A szolgáltatás állapotának [ellenőrzése Microsoft 365.](https://docs.microsoft.com/office365/enterprise/view-service-health) 

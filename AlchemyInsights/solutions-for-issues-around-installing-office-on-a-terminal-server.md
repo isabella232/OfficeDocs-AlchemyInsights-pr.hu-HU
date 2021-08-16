@@ -10,27 +10,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: 447fee84edc65861dc04038cfe6424249e94f843
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 28ebe2b1375b142ca63dc686c7afbbe88abfd539a93780cff3861f80de40b411
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823609"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021850"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Az Office terminálkiszolgálón történő telepítésével kapcsolatos problémák megoldása
 
-A megosztott számítógép aktiválásához olyan előfizetéssel kell rendelkezik, amely nagyvállalati Microsoft 365-alkalmazásokat tartalmaz.
+A megosztott számítógép aktiválásához olyan előfizetéssel kell rendelkezik, amely tartalmazza a Nagyvállalati Microsoft 365-alkalmazások.
   
 - Annak ellenőrzése, hogy engedélyezve van-e a megosztott számítógép aktiválása
 - Az aktiválás sikeres voltának ellenőrzése
 - Tekintse át a megosztott számítógép aktiválására vonatkozó hibaüzeneteket:
 - "A fiókjában talált termékek nem használhatók az Office aktiválására megosztott számítógépes helyzetekben"
   
-Ez a hiba azt jelzi, hogy nincs olyan előfizetése, amely a Nagyvállalati Microsoft 365-alkalmazásokat tartalmazza.
+Ez a hiba azt jelenti, hogy nincs előfizetése, amely tartalmazza a Nagyvállalati Microsoft 365-alkalmazások.
 
 "Nem licencelt termék"
 
-- Ellenőrizze, hogy a felhasználó rendelkezik-e licenccel a Nagyvállalati Microsoft 365-alkalmazásokhoz.
+- Ellenőrizze, hogy a felhasználóhoz van-e licenc rendelve Nagyvállalati Microsoft 365-alkalmazások.
 - Ellenőrizze, hogy a felhasználó bejelentkezik-e a felhasználói fiókjával.
 - Ellenőrizze, hogy van-e kapcsolat a megosztott számítógép és az internet között.
 
