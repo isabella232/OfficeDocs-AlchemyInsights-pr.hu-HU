@@ -1,5 +1,5 @@
 ---
-title: A Dynamics 365-a Dynamics 365-ban az egyesített felületen nem jelenik meg a megfelelő irányítópult
+title: Dynamics 365 – Nem megfelelő irányítópult jelenik meg a Dynamics 365 Egyesített felületen
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1edb2a7e9e0c270c7e98eb43d2f6514d70c39a19ea97d189322ca387b6842a18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101484"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Helytelen irányítópult-bemutató a Dynamics 365 egyesített felületén
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Nem megfelelő irányítópult jelenik meg a Dynamics 365 egyesített felületén
 
-Több oka lehet annak, ha a várttól eltérő irányítópult jelenik meg:
+Több oka is lehet annak, ha a várttól eltérő irányítópultot lát:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>A felhasználó beállított egy felhasználó alapértelmezett irányítópultot 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>A felhasználó beállított egy alapértelmezett felhasználói irányítópultot 
 
-Általában akkor lehet megállapítani, ha a felhasználó alapértelmezett irányítópultja van beállítva, ha a **Beállítás alapértelmezettként** gomb nem jelenik meg az irányítópult-parancssorban. A felhasználó alapértelmezett irányítópultja felülírja az összes többi alapértelmezett irányítópultot, még akkor is, ha a felhasználó alapértelmezett irányítópultja nem szerepel az aktuális alkalmazásban.
+Általában akkor tudja azonosítani az alapértelmezett  felhasználói irányítópultot, ha az Alapértelmezett gomb nem látható az irányítópult parancssávján. A felhasználói alapértelmezett irányítópult felülírja az összes többi alapértelmezett irányítópultot, még akkor is, ha a felhasználó alapértelmezett irányítópultja nem az aktuális appban van.
 
-Az alapértelmezett irányítópult törléséhez használja az alábbi kerülő megoldást.
+Az alábbi kerülő megoldással megszedheti az alapértelmezett irányítópultot.
 
 1. Hozzon létre egy új személyes irányítópultot.
 
@@ -33,12 +33,12 @@ Az alapértelmezett irányítópult törléséhez használja az alábbi kerülő
 
 3. Törölje az irányítópultot.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Az irányítópult a webhelytérképben van beállítva
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Az irányítópult a webhelytérképen van beállítva
 
-Lehet, hogy a szervezet alapértelmezett irányítópultját egy irányítópult kijelölésével, majd a "rendszer testreszabása" elemre kattintva választhatja ki. A webhelytérkép-tervezőben definiált irányítópult azonban előnyben részesíti az irányítópultot, ha a felhasználó hozzáféréssel rendelkezik.
+Előfordulhat, hogy egy szervezeti alapértelmezett irányítópultot úgy állíthat be, hogy kijelöl egy irányítópultot, majd a Rendszer testreszabása alatt az "Alapértelmezettként" adatokat választja. A webhelytérkép-tervezőben definiált irányítópult azonban elsőbbséget élvez az irányítópult felett, ha a felhasználó hozzáfér az irányítópulthoz.
 
-Ha azt szeretné, hogy a felhasználók a szervezeti alapértelmezettként beállított irányítópultot lássák, az alábbiakat teheti:
+Ha azt, hogy a felhasználók az Ön által alapértelmezettként beállított irányítópultot látják, a következőt használhatja:
 
-* Az irányítópult beállítása a webhelytérképben
+* Az irányítópult beállítása a webhelytérképen
 
-* A webhelytérképhez meghatározott irányítópult elérésének megszüntetése a felhasználóknak
+* A webhelytérkép által definiált irányítópult elérésének eltávolítása az adott felhasználóknál

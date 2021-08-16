@@ -1,5 +1,5 @@
 ---
-title: A progresszív webalkalmazások (PWAs) ismertetése a Microsoft Edge-ben (króm)
+title: A progresszív webalkalmazások (PWA-k) Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678286"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101448"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>A progresszív webalkalmazások (PWAs) ismertetése a Microsoft Edge-ben (króm)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>A progresszív webalkalmazások (PWA-k) Microsoft Edge (Chromium)
 
-A PWAs olyan webhelyek, amelyek támogatják a natív alkalmazásokat az őket támogató platformokon. A PWAs kombinálja a webes és a natív alkalmazások legjobb tulajdonságait.
+A Project Web Appok fokozatosan továbbfejlesztett webhelyek, amelyek natív, őket támogató platformokon működő alkalmazásokként működnek. A PWA-k kombinálják a web és a natív alkalmazások legjobb minőségét.
 
-A webes platform szemszögéből a [PWAs a Microsoft Edge-ben (króm)](https://go.microsoft.com/fwlink/?linkid=2135193) a szabványok alapján történik. Lehetővé teszik, hogy a felhasználók közvetlenül a böngészőben telepítsék az alkalmazásokat, és nem szükségesek a Microsoft Store-alapú telepítéshez vagy a regisztrációhoz. Az asztali PWAs minden olyan platformon támogatottak, ahol a Microsoft Edge (króm) elérhető.
+A webplatform szempontjából a Project Web App Microsoft Edge [(Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) szabványokon alapul. Lehetővé teszik a felhasználóknak, hogy közvetlenül a böngészőből telepítsenek alkalmazásokat, és nincs szükségük Microsoft Store telepítésre vagy regisztrációra. Az asztali PWA-k minden olyan platformon támogatottak, Microsoft Edge (Chromium) elérhetők.
