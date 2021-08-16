@@ -1,5 +1,5 @@
 ---
-title: Számlázási fiókadatok frissítése
+title: Számlázási fiók adatainak frissítése
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015334"
 ---
-# <a name="how-to-update-billing-account-information"></a>Számlázási fiókadatok frissítése
+# <a name="how-to-update-billing-account-information"></a>Számlázási fiók adatainak frissítése
 
-Mielőtt díjat vásároljon, fel kell vennie vagy frissítenie kell a szervezet üzleti címét, a kapcsolattartó e-mail-címét és a kapcsolattartó nevét.
+Mielőtt díjköteles szolgáltatásokat vásárol, hozzá kell adni vagy frissítenie kell szervezete cégnevét, kapcsolattartási e-mail-címét és kapcsolattartási nevét.
 
-A vállalati címet a forgalmi adó és az ÁFA kiszámítására használjuk. Ha frissíteni szeretné az adó/ÁFA számát, akkor a Microsoft ügyfél-szerződésének számlázási tulajdonosa ezt az alábbi lépésekkel teheti meg:
+A cég címét forgalmi adó és áfa kiszámítására használjuk. Ha frissíteni szeretné adószámát vagy áfaszámát, akkor a Microsoft-ügyfélszerződés számlázási fiókja tulajdonosa ezt az alábbi lépésekkel tudja megtenni:
 
-A **Számlázási fiókadatok frissítéséhez és az adóazonosító frissítéséhez**:
+**A számlázási fiók adatainak és az adóazonosító frissítésének a frissítése:**
 
-1. Bejelentkezés a [Microsoft áruházba vállalati](https://businessstore.microsoft.com/)verzióba
-1. Kattintson a  >  **Számlázási fiókok** kezelése parancsra.
-1. Az **Áttekintés** lapon kattintson a **Számlázási fiókadatok szerkesztése** elemre.
-1. Végezze el a módosításokat, majd kattintson a **Mentés** gombra. 
+1. Jelentkezzen be a [Microsoft Store Vállalatoknak.](https://businessstore.microsoft.com/)
+1. Kattintson a  >  **Számlázási fiókok kezelése elemre.**
+1. Az **Áttekintés csoportban** kattintson a **Számlázási fiók adatainak szerkesztése elemre.**
+1. Készítse el a módosításokat, majd kattintson a Mentés **gombra.** 
 
 **Ajánlott dokumentumok**
 
-- [Az MCA-számla ismertetése](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [Az MCA-számla](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
-- [Adóügyi dokumentumok megtekintése és letöltése az Azure-számlához](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
+- [Az Azure-számlához tartozó adózási dokumentumok megtekintése és letöltése](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
 - [Számlázási fiók beállításainak frissítése](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4de9a1baf12fad1de21af9c5739c1538e5ee7e176757fa8ce7586aa3a7f2b71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678038"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002914"
 ---
 # <a name="enable-multi-factor-authentication"></a>Többtényezős hitelesítés engedélyezése
 
-Többtényezős hitelesítés engedélyezése a Microsoft 365 felügyeleti központban:
+Többtényezős hitelesítés engedélyezése a Microsoft 365 Felügyeleti központ:
 
-1. Nyissa meg a **felhasználók** \> **aktív felhasználók** lapját.
+1. Ugrás a **Felhasználók aktív** felhasználók \> **lapra.**
     
-2. A lap tetején válassza a **többtényezős hitelesítés**lehetőséget. 
+2. A lap tetején válassza a **Többtényezős hitelesítés lehetőséget.** 
     
-3. Keresse meg azokat a felhasználókat vagy felhasználókat, akiknek engedélyezni szeretné a többtényezős hitelesítést. Az összes felhasználó megtekintéséhez előfordulhat, hogy felül kell módosítania a **többtényezős hitelesítési állapot** szűrőt.
+3. Keresse meg a többtényezős hitelesítéshez engedélyezni kívánt felhasználót vagy felhasználókat. Az összes felhasználó megtekintése érdekében lehet, hogy módosítania kell a **Multi-Factor Auth** állapotszűrőt a képernyő tetején.
     
-4. Jelölje be azoknak a felhasználóknak a jelölőnégyzetét, akiket engedélyezni szeretne.
+4. Jelölje be az engedélyezni kívánt felhasználók melletti jelölőnégyzetet.
     
-5.  A megfelelő felhasználói adatok ablaktábla **gyors lépések**csoportjában válassza az **Engedélyezés**lehetőséget. 
+5.  A jobb oldali felhasználói információs panel **gyorsműveletei csoportban válassza** az Engedélyezés **lehetőséget.** 
     
-6. A megnyíló párbeszédpanelen jelölje be a **többtényezős hitelesítés engedélyezése**jelölőnégyzetet. 
+6. A megnyíló párbeszédpanelen jelölje be a **Multi-Factor Auth engedélyezése jelölőnégyzetet.** 
     
 

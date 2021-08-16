@@ -1,5 +1,5 @@
 ---
-title: Licencek a Microsoft 365 Defenderhez
+title: Licenccel Microsoft 365 Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967983"
 ---
-# <a name="licenses-for-microsoft-365-defender"></a>Licencek a Microsoft 365 Defenderhez
+# <a name="licenses-for-microsoft-365-defender"></a>Licenccel Microsoft 365 Defender
 
-A következő licencek ingyenes hozzáférést biztosítanak a Microsoft 365 Defender funkcióihoz a Microsoft 365 biztonsági központjában:
+Az alábbi licencek ingyenes hozzáférést biztosítanak Microsoft 365 Defender biztonsági központ Microsoft 365 funkcióihoz:
 
 - Microsoft 365 E5 vagy A5
-- Microsoft 365 E5 Biztonság és A5 biztonság
-- Windows 10 Nagyvállalati E5 vagy A5 rendszer
+- Microsoft 365 Biztonság E5 csomag vagy A5 biztonság
+- Windows 10 Enterprise E5 vagy A5
 - Enterprise Mobility + Security (EMS) E5 vagy A5
-- Office 365 E5 vagy A5
+- Office 365 E5 csomag vagy A5
 - Microsoft Defender a végponthoz
 - Microsoft Defender identitásért
 - Microsoft Cloud App Security
-- Microsoft Defender az Office 365-hez (2. csomag)
+- Microsoft Defender Office 365 (2. csomag)
 
     > [!NOTE]
-    > Jelenleg az Office 365 próbalicencei nem biztosítanak hozzáférést a Microsoft 365 Defenderhez.
+    > A próbaverziós licencek jelenleg Office 365 nem biztosítanak hozzáférést a Microsoft 365 Defender.
 
-További információ: [A Microsoft 365 Nagyvállalati csomagok összehasonlítása](https://go.microsoft.com/fwlink/?linkid=2143458).
+További információt a Csomagok összehasonlítása [Microsoft 365 Nagyvállalati verzió tartalmaz.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
-Még nem rendelkezik licenccel? [Microsoft 365-előfizetést próbálhat ki vagy vásárolhat.](https://go.microsoft.com/fwlink/?linkid=2143625)
+Még nem rendelkezik licenccel? [Próbáljon ki vagy vásároljon egy Microsoft 365 előfizetést.](https://go.microsoft.com/fwlink/?linkid=2143625)
