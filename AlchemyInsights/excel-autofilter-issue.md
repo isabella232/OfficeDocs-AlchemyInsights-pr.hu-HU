@@ -1,5 +1,5 @@
 ---
-title: Excel AutoSzűrő probléma
+title: Excel AutoSzűrővel kapcsolatban probléma
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b50a0c2bcc72674c55938608f09de324a18433879b4126fb0e9c3314480dc180
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783373"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100548"
 ---
-# <a name="excel-autofilter-issue"></a>Excel AutoSzűrő probléma
+# <a name="excel-autofilter-issue"></a>Excel AutoSzűrővel kapcsolatban probléma
 
-Ha az Excel 2016-ot használja, ha az AutoSzűrő legördülő listájában nem látható az összes elérhető jelölőnégyzet, vagy ha a jelölőnégyzetek nem láthatók, előfordulhat, hogy az Excel korábbi verzióiban ismert probléma adódott. 
+A Excel 2016 használata esetén, ha az AutoSzűrő legördülő menüben nem található meg az összes elérhető jelölőnégyzet, vagy ha a jelölőnégyzetek nem kattinthatók be, annak oka egy ismert hiba lehet a Excel. 
   
-Ezt a hibát a 1707-es **verzió (8326,2073) vagy újabb verzióban** javítottuk. Ha azonnal szeretné letölteni a frissítést, nyissa meg az Excelt, és válassza a **fájlhoz** \> **tartozó** \> **frissítési beállítások** \> **frissítése**lehetőséget.
+Ezt a hibát a **1707-es (8326.2073)** és újabb verziókban javítottuk. A frissítés azonnali telepítéséhez nyissa meg  a Excel és válassza a \> **Fájlfiók** \> **frissítési beállításainak frissítése** most \> **lehetőséget.**
   
 

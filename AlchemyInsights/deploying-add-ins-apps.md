@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031408"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Bővítmények telepítése a Microsoft 365-alkalmazások
 
@@ -27,7 +27,7 @@ A Központi üzembe helyezés az ajánlott módszer a bővítmények Office és 
 **Megjegyzés:** Ha egyéni felhasználóként szeretne Office bővítményt telepíteni, tekintse meg a Bővítmények megtekintése, kezelése és telepítése a Office [programokban Office.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Ezenkívül arról is győződjön meg, hogy a Office Áruházbeli bővítmények egyéni beszerzése engedélyezve van. Részletes információkért [lásd: Bővítmények](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)letöltésének megakadályozása az összes ügyfél Office (kivéve a Outlook).
 
 1. Győződjön meg arról, hogy környezete megfelel a Bővítmények Központi üzembe helyezés használatával való telepítésének követelményeinek. Részletes információkért lásd: [Követelmények.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
-2. A bővítmények **Gépház** telepítéséhez Gépház alkalmazások letöltése a Microsoft 365 Felügyeleti központban című  >    >   témakört. 
+2. A bővítmények **telepítéséhez Gépház** alkalmazások letöltése a Microsoft 365 Felügyeleti központ alkalmazások letöltése a teljes  >    >   appba. 
 
 Megjegyzések: 
 
@@ -46,6 +46,6 @@ További információ:
 [Bővítmények telepítése a Felügyeleti központban](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [Bővítmények kezelése a Felügyeleti központban](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  Bővítmények kezelése a Központi üzembe helyezés [PowerShell-parancsmagokkal](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) 
- Bővítmények Office Központi üzembe helyezés használatával a [Microsoft 365 felügyeleti központon keresztül](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
- [Hibaelhárítás: A felhasználó nem látja a bővítményeket](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
+ [Bővítmények Office Központi üzembe](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) helyezés használatával a 
+ Microsoft 365 Felügyeleti központ [Hibaelhárítás: A felhasználó nem látja a bővítményeket](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [Felhasználói hibák elhárítása Office bővítményekkel](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)

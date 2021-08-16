@@ -1,5 +1,5 @@
 ---
-title: Az Office telepítése távoli felhasználóknak varázsló
+title: A Office távoli felhasználók számára varázsló
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031444"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Az Office telepítése távoli felhasználóknak varázsló
+# <a name="deploy-office-to-remote-users-wizard"></a>A Office távoli felhasználók számára varázsló
 
-Most, hogy a távoli munkafolyamatot használja, a felhasználóknak a szervezete Office-beállításait kell fogadniuk, ha nem csatlakoznak a belső hálózathoz, vagy a saját eszközök használatakor.
+Most, hogy a távoli munkavégzés a norma, a felhasználóknak meg kell kapniuk a szervezet saját Office beállításait, ha nem csatlakoznak a belső hálózathoz, vagy ha saját eszközeiket használják.
 
-Az Office [telepítése a távoli felhasználók](https://go.microsoft.com/fwlink/?linkid=2149564) számára varázsló segítségével létrehozhat egy testre szabott Office-telepítést, majd olyan létrehozott PowerShell-parancsfájlt küldhet a felhasználóknak, amely zökkenőmentesen telepíti az Office-t a konfigurációval.
+Az [Office](https://go.microsoft.com/fwlink/?linkid=2149564) telepítése távoli felhasználók számára varázslóval hozzon létre egy testre szabott Office-telepítést, majd küldjön a felhasználóknak egy létrehozott PowerShell-parancsprogramot, amely zökkenőmentesen telepíti a Office a konfigurációval.
