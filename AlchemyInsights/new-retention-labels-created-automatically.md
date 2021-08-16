@@ -1,5 +1,5 @@
 ---
-title: Automatikusan létrehozott új adatmegőrzési Címkék
+title: Új adatmegőrzési címkék automatikusan létrehozva
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 2f0e7c418a909d1adfb8e6ad5cd1755839cb22e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6cf95d51c7cd4914f6a69588fbf78ea0ba023b3ce8921b6efef6d97ab8bf66c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803139"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097518"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Automatikusan létrehozott új adatmegőrzési Címkék
+# <a name="new-retention-labels-created-automatically"></a>Új adatmegőrzési címkék automatikusan létrehozva
 
-Előfordulhat, hogy az **adatmegőrzési címkék** csoportban [három új adatmegőrzési címke](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) van létrehozva automatikusan a biztonsági vagy megfelelőségi felügyeleti központban. A címkék nevei a következők:
+A biztonsági [vagy](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) megfelelőségi felügyeleti központ Adatmegőrzési címkék területén három, automatikusan létrehozott adatmegőrzési címke látható a szervezetében.  A címkenevek a következőek:
 
-- Üzemeltetési eljárás
-- Üzleti általános
-- Szerződési szerződés
+- Műveleti eljárás
+- Általános üzleti
+- Szerződés
 
-Ez akkor fordul elő, amikor a program először kiválasztja a **fájl tervét** , ha nincs létrehozva más adatmegőrzési címke. Ezek a címkék automatikusan létrejönnek, és szükség esetén eltávolíthatók, ha még nem alkalmazták őket a tartalomra. A címkék eltávolítása:
+Ez az első alkalommal fordul elő, amikor a Fájlterv **lehetőséget választja,** ha nincsenek más adatmegőrzési címkék létrehozva. Ezek a címkék automatikusan létrejönnek, és szükség esetén eltávolíthatók, ha még nem alkalmazta őket a tartalomra. A címkék eltávolítása:
 
-1. A biztonsági vagy megfelelőségi felügyeleti központban válassza a **kategorizálás**  >  **címke**  >  **adatmegőrzési** lapot.
+1. A biztonsági vagy megfelelőségi felügyeleti központban válassza a **Besorolások**  >  **címkéinek** adatmegőrzés  >  **lapját.**
 
-1. Jelölje ki az eltávolítani kívánt adatmegőrzési címkéket > **törölje**a jelölést az  >  **Igen** gombra a címke törléséhez.
+1. Jelölje ki az eltávolítani kívánt adatmegőrzési címkéket, és > **Címke** törlése Igen lehetőséget választva törölje a  >   címkét.
 
-A fájlkezelési vezérlővel a szervezet adatmegőrzési címkéit és házirendjeit kezelheti – további információ: [a fájlkezelési vezető áttekintése](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).
+A Fájlterv-kezelővel kezelheti az adatmegőrzési címkéket és házirendeket a szervezetében – további információt A Fájlterv-kezelő áttekintése [témakörben talál.](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager)

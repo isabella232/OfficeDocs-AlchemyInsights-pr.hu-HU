@@ -1,5 +1,5 @@
 ---
-title: Problémák az Exchange Server-frissítések telepítésekor
+title: A frissítések telepítésekor Exchange Server problémák
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6d454a78feca7ece7c3d7d6c93f8eb5d343106b68029b96839b5ff28077d0f25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013030"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a>Problémák az Exchange Server-frissítések telepítésekor
+# <a name="issues-when-installing-exchange-server-updates"></a>A frissítések telepítésekor Exchange Server problémák
 
-Ha frissítenie kell az Exchange Serverhez elérhető legújabb összegző frissítésre, részletes lépésekkel frissíthet az aktuális [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) curól a célra.
+Ha frissítenie kell a legújabb kumulatív frissítésre a Exchange Server-hoz, részletes lépésekkel frissíthet az aktuális CU-ról [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) a cél CU-hoz.
 
-Ha az Exchange Server frissítései során vagy után hibákat talál, tekintse át az Exchange frissítése a legújabb összegző frissítésre című cikk "Ajánlott eljárások" című [szakaszát.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Nagyon fontos, hogy rendszergazda jogú CMD-parancssor használatával telepítse a biztonsági frissítéseket (ha a frissítések nem a Microsoft Update szolgáltatáson keresztül vannak telepítve).
+Ha hibákat talál az Exchange Server frissítések telepítése közben vagy után, tekintse meg a Frissítés a legújabb kumulatív frissítésre című cikk "Ajánlott eljárások Exchange című [szakaszát.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Nagyon fontos, hogy rendszergazda jogú CMD-parancssor használatával telepítse a biztonsági frissítéseket (ha a frissítések nem a Microsoft Update szolgáltatáson keresztül vannak telepítve).
 
-Ha a biztonsági frissítések telepítésekor vagy a frissítés telepítése után hibaüzenetet lát, tekintse meg Az Exchange halmozott és biztonsági frissítésének javítása nem sikerült a telepítésével kapcsolatos [hibákat.](https://aka.ms/exupdatefaq)
+Ha a biztonsági frissítések telepítésekor vagy a frissítés telepítése után hibaüzenetet lát, tekintse meg a Sikertelenül telepített biztonsági frissítések javítása Exchange [és biztonsági frissítéseket.](https://aka.ms/exupdatefaq)

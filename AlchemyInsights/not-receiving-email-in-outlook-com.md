@@ -1,5 +1,5 @@
 ---
-title: a 8000037 nem kap e-maileket az Outlook.com-on
+title: 8000037 nem kap e-maileket a Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 671d53ba9687f55b9c7f91c097bb623430ea5ab9a18226caacabdc92f6b410d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097344"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Nem kap e-maileket az Outlook.com-on
+# <a name="not-receiving-mail-in-outlookcom"></a>Nem kap e-maileket a Outlook.com-on
 
-Ha nem kap e-maileket egy bizonyos feladótól, például a banki vagy a jelszókiadási üzenetekből, akkor fel kell vennie a meghívót, és tájékoztatnia kell róla, hogy nem kap e-maileket az Outlook.com-fiókjához. Kérjük, keresse meg a feladót [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , hogy hol talál információt a gyakorlati tanácsokról, a hibaelhárításról, valamint a feladói támogatási csoport elérhetőségéről.
+Ha nem egy adott feladótól kap e-mailt, például bankszámlakivonatokat vagy jelszó-visszaállítási üzeneteket, kapcsolatba kell lépnie a feladóval, és tudatni vele, hogy nem kap e-mailt a Outlook.com-fiókjába. Kérjük, hogy a feladót a -hoz ajánlja, ahol információkat találhat a gyakorlati tanácsokról, hibaelhárítást javasolhat, valamint egy hivatkozást is találhat, amely a feladó támogatási [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) csapatához nyújt segítséget.
   
-Ha a Outlook.com-fiókja nem kapja meg az e-maileket, olvassa el a [Outlook.com e-mail-szinkronizálási problémáinak megoldása](https://go.microsoft.com/fwlink/p/?linkid=874363)
+Ha Outlook.com-fiókja egyáltalán nem kap e-maileket, tekintse meg A [Outlook.com e-mail-szinkronizációs](https://go.microsoft.com/fwlink/p/?linkid=874363)problémáinak elhárítása Outlook.
   
 
