@@ -1,5 +1,5 @@
 ---
-title: Külső felhasználók hozzáférésének módosítása
+title: Változások a külső felhasználók hozzáférésében
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
-ms.openlocfilehash: 1be2a05efdf46a1ec05992963a3e03519dc2c3d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3c3ccbd8dd4f43a5f927f727e8757ded3612c630158cf045b4e6c0f93bb75ad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045674"
 ---
-# <a name="changes-to-external-user-access"></a>Külső felhasználók hozzáférésének módosítása
+# <a name="changes-to-external-user-access"></a>Változások a külső felhasználók hozzáférésében
 
-Március 23 2018-án kezdődően a külső felhasználók a továbbiakban nem fogják tudni elérni a mindenkivel, az összes hitelesített felhasználóval vagy a minden felhasználóval megosztott tartalmakat, még akkor is, ha meghívást kaptak, vagy felvettek őket a hivatalos csoportokba. A külső felhasználók csak olyan tartalmakat érhetik el, amelyek a felhasználóval vagy azokkal a csoportokkal vannak megosztva, amelyekhez a felhasználó tartozik. Ha meg szeretné őrizni a meglévő beállításokat, kérjük, olvassa el az alábbi témaköröket: https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+2018. március 23-tól a külső felhasználók nem fognak tudni hozzáférni a Mindenkivel megosztva, a Minden hitelesített felhasználóval vagy a Minden űrlapfelhasználóval megosztott tartalmakhoz még akkor sem, ha meghívást kapott vagy fel is hívták őket az engedélyezett csoportokba. A külső felhasználók csak azokkal a tartalmakkal férhetnek hozzá, amelyeket megosztottak a felhasználóval vagy olyan csoportokkal, amelyekhez a felhasználó tartozik. Ha meg szeretné tartani a meglévő beállításait, olvassa el a következőt: https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 

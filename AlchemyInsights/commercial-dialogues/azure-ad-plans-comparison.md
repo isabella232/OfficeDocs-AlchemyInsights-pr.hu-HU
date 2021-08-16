@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482784"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045638"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory-csomagok összehasonlítása
+# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory csomagok összehasonlítása
 
-Az Azure Active Directory négy kiadásban található meg: Ingyenes, Office 365-alkalmazások, Prémium P1 és Prémium P2.
+Azure Active Directory négy kiadásban érkezik: Ingyenes, Office 365 alkalmazások, Prémium P1 és Prémium P2.
 
-Az Ingyenes kiadás része egy Azure-előfizetésnek. A prémium kiadások a Microsoft képviselőjén, az [Open mennyiségi licencprogramon](https://go.microsoft.com/fwlink/?linkid=2110873)és a felhőszolgáltató programokon keresztül [érhetők el.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
+Az Ingyenes kiadás része egy Azure-előfizetésnek. A Prémium a Microsoft képviselőjén, az [Open mennyiségi licencprogramon](https://go.microsoft.com/fwlink/?linkid=2110873)és a felhőalapú megoldásszolgáltatókon [keresztül érhető el.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
 
-Az Azure és az Office 365 előfizetői az Azure Active Directory Prémium P1 és P2 előfizetést online is megvásárolhatja. További információért olvassa el az [Azure Active Directory funkcióit és árait.](https://go.microsoft.com/fwlink/?linkid=2081447)
+Az Azure és Office 365 előfizetők online is vásárolhatnak Prémium P1 szintű Azure Active Directory P2 előfizetést. További információt a Szolgáltatások és árak [Azure Active Directory olvashat.](https://go.microsoft.com/fwlink/?linkid=2081447)

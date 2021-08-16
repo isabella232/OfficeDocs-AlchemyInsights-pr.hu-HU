@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8dce08c019e3f49fb6254dbd98d792c107e4c96dbd36a0cf11aff70e171e7649
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045730"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Az asztal hátterének és színeinek módosítása
 
-A színbeállítások módosításához válassza a **Start**  >  **Settings**  >  **Personalization** Colors (Beállítások Személyre szabási színek) lehetőséget, majd válassza ki a saját színét, vagy hagyja, hogy a Windows válasszon ki egy kiemelőszínt  >  a háttérből.
+A színbeállítást a **Start** Gépház Személyre szabási színek lehetőséget választva, majd válassza ki a saját színét, vagy hagyja, hogy Windows válasszon ki egy kiemelőszínt  >    >    >  a háttérből.
 
-![Személyre szabhatja a színeket a Windowsban.](media/windows-personalization-colors.png)
+![Személyre szabhatja a színeket Windows.](media/windows-personalization-colors.png)
 
-Az asztal hátterének módosításához válassza a Start Settings Personalization Background **(Gépbeállítás** személyre szabási háttér) lehetőséget, és válasszon egy képet, egy színt, vagy hozzon létre  >    >    >  egy diavetítést a képekből. 
+Az asztali háttérképet a **Start** Gépház Személyre szabási háttér menüben módosíthatja, majd válasszon egy képet, egy színt, vagy hozzon létre egy  >    >    >  diavetítést a képekből. 
 
-![Módosíthatja a Windows asztalának hátterét.](media/windows-desktop-background.png)
+![Módosíthatja a Windows hátterét.](media/windows-desktop-background.png)
 
-Több asztali hátteret és színt szeretne? Látogasson [el a Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) áruházba, és válasszon a több tucat ingyenes téma közül.
+Több asztali hátteret és színt szeretne? Látogasson [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) a webhelyre, és válasszon a több tucat ingyenes téma közül.
