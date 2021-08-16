@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bd193dea999efc7720ece1d4614be090f733bfb24d8fa518c61ee23cca0063dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032272"
 ---
 # <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Megosztási házirend létrehozása, hogy a felhasználók megosszák naptárukat a szervezeten kívüli emberekkel
 
-1. A Microsoft 365 Felügyeleti központ irányítópultján menjen a **Felügyeleti exchange**  >  **lapra.**
+1. A felügyeleti Microsoft 365 Felügyeleti központ a Felügyeleti **központ**  >  **Exchange.**
 2. Ugrás a **szervezet**  >  **megosztására .**
 3. A listanézet Egyéni megosztás **listájában kattintson** az Új **elemre.**
 4. Az **új megosztási házirendben** írjon be egy rövid nevet a megosztási házirendnek a Házirend **neve mezőbe.**
@@ -40,6 +40,6 @@ ms.locfileid: "51816274"
 
 **E témakör teljes megértéséhez olvassa el a következő cikket:**
 
-- [Megosztási házirend létrehozása az Exchange Online-ban](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
-- [Megosztási házirend alkalmazása postaládákra az Exchange Online-ban](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
-- [Megosztási házirend módosítása, letiltása vagy eltávolítása az Exchange Online-ban](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
+- [Megosztási házirend létrehozása a Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
+- [Megosztási házirend alkalmazása a Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
+- [Megosztási házirend módosítása, letiltása vagy eltávolítása a Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)

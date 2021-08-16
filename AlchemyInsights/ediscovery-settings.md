@@ -1,5 +1,5 @@
 ---
-title: EDiscovery beállítások
+title: Elektronikus észlelés beállításai
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101232"
 ---
-# <a name="ediscovery-settings"></a>EDiscovery beállítások
+# <a name="ediscovery-settings"></a>Elektronikus észlelés beállításai
 
-a eDiscovery/Content Search segítségével az Exchange Online-postaládák, a SharePoint Online és a OneDrive vállalati verziós webhelyek, a Skype vállalati verziós beszélgetések, a Microsoft Teams és a Microsoft 365-csoportok segítségével kereshet, tarthatja és exportálhatja a tartalmakat.
+Az eDiscovery/Content searches funkcióval tartalmakat kereshet, tarthatja és exportálhatja Exchange Online postaládákból, az SharePoint Online- és OneDrive Vállalati verzió-webhelyekről, Skype Vállalati verzió-beszélgetésekből, Microsoft Teams-csoportokból és Microsoft 365-csoportokból.
 
-- Ha a eDiscovery vagy a tartalom keresése menü beállításait keresi, tanulmányozza a [EDiscovery kapcsolatos problémák](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)című témakört.
-- Megtudhatja, hogy milyen engedélyekre van szükség a eDiscovery-keresések [eDiscovery keresésekhez szükséges engedélyeiből](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)való végrehajtásához.
-- Ha a keresés nem tér vissza a várt eredményekhez, olvassa el a [Keresés a várt eredmények között](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)című témakört.
+- Ha az Elektronikus keresés vagy a Tartalomkeresés menü beállításait keresi, tekintse át a "Elektronikus kereséssel kapcsolatos [problémák" menüpontot.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
+- Ebből a cikkből megtudhatja, hogy a kereséshez szükséges engedélyeket hogyan végezheti el az elektronikus adatokban való kereséshez szükséges [engedélyekből.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Ha a keresés nem a várt eredményeket adja vissza, lásd: A keresés nem a [várt eredményt adja.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
 
-A eDiscovery további információt a [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)című témakörben talál.
+A elektronikus adatfeltűnségről további információt az Elektronikus adatok észlelése ( Elektronikus adatok) és az "Elektronikus adatok" (elektronikus adatok) – elektronikus [adatfeltűnség](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)(elektronikus adatfeltűnség) – között található.

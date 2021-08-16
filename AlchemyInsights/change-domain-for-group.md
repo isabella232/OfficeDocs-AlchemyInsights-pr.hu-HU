@@ -1,5 +1,5 @@
 ---
-title: A Microsoft 365-csoport tartományának módosítása
+title: Tartomány módosítása a Microsoft 365 csoportban
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: aefd66e86b12985456bda8fd99365adec2f1ad2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b32d921288d6d1f39a4b98fb0050624fc96529ddb1e6f9f385687187c729ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819118"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071046"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>A Microsoft 365-csoport tartományának módosítása
+# <a name="change-the-domain-for-microsoft-365-group"></a>A csoport tartományának Microsoft 365 módosítása
 
-Ha a létrehozás során módosítani szeretné egy Microsoft 365-csoport tartományát, kövesse A [Microsoft 365-csoportok](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)létrehozásakor használni kívánt tartomány kiválasztása lépésre.
+Ha a létrehozás során módosítani szeretné egy Microsoft 365-csoport tartományát, kövesse A csoport létrehozásakor használni kívánt tartomány kiválasztása [Microsoft 365 lépéseket.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
   
-A Microsoft 365-csoport létrehozása után jelenleg nem lehet módosítani a tartományt. Az egyetlen módszer, ha létrehoz egy új Microsoft 365-csoportot, és törli a régit, ha szükséges (további e-mail-címeket az [Exchange Felügyeleti központban lehet hozzáadni).](https://outlook.office365.com/ecp.aspx)
+A Microsoft 365 létrehozása után jelenleg nem lehet módosítani a tartományt. Az egyetlen módszer, ha létrehoz egy új Microsoft 365 csoportot, és törli a régit, ha szükséges (további e-mail-címeket a [Exchange Felügyeleti központon keresztül lehet hozzáadni).](https://outlook.office365.com/ecp.aspx)

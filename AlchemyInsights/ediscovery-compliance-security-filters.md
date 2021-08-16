@@ -1,5 +1,5 @@
 ---
-title: A tartalom keresése/exportálása során a találatok között nincs eredmény
+title: Nincs találat a tartalomkeresés/-exportálás során
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101268"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>A tartalom keresése/exportálása során a találatok között nincs eredmény
+# <a name="no-results-returned-during-content-searchexport"></a>Nincs találat a tartalomkeresés/-exportálás során
 
-Ha problémák lépnek fel a következő eDiscovery-esetekben:
+Ha problémákat tapasztal az alábbi elektronikus észlelési forgatókönyvekkel kapcsolatban:
 
-- A tartalom keresése/exportálása adatvesztést vagy nem várt adatot ad eredményül.
-- a eDiscovery keresés vagy exportálás nem sikerült
+- A tartalomkeresés/-exportálás nem ad vissza adatokat vagy váratlan adatokat.
+- Sikertelen keresés vagy exportálás az elektronikus adatfelkeresésben
 
-Ennek oka az lehet, hogy bizonyos megfelelőségi biztonsági szűrők egy bizonyos rendszergazda által lettek beállítva, és nem lettek közölve az összes rendszergazdával.
+Ezt okozhatja bizonyos megfelelőségi biztonsági szűrők, amelyek beállítása egy adott rendszergazda által történt, és nem lett közölve az összes rendszergazdával.
 
-A probléma megoldásához győződjön meg arról, hogy vannak-e olyan megfelelőségi biztonsági szűrők, amelyek a következő problémákat okozhatják:
+A probléma megoldásához ellenőrizze, hogy vannak-e olyan megfelelőségi biztonsági szűrők, amelyek ezeket a problémákat okozhatják:
 
-1. Csatlakozás a biztonsági és megfelelőségi központ Powershellhez
-2. Futtassa az alábbi parancsmaggal található:
+1. Csatlakozás Biztonsági és megfelelőségi központ Powershell-parancsa
+2. Futtassa az alábbi parancsmagokat:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-A megfelelőségi biztonsági szűrőkről további információt a [tartalom keresése engedélyek szűrése](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search) című témakörben talál.
+A megfelelőségi biztonsági szűrőkről további információt az Engedélyszűrés [a tartalomkereséshez](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
