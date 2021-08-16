@@ -1,5 +1,5 @@
 ---
-title: Fájlok és mappák letöltése a OneDrive-ról vagy a SharePointból
+title: Fájlok és mappák letöltése a OneDrive-SharePoint
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: f2f4d458d30960d387fed158d718a963e72d4f3e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: a08539f4fb9824b6ab020416cbade061e06c24ea3414078981e39c2c10f4beee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746876"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017386"
 ---
-# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Fájlok és mappák letöltése a OneDrive-ról vagy a SharePointból
+# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Fájlok és mappák letöltése a OneDrive-SharePoint
 
-Mindössze néhány kattintással letölthet fájlokat és mappákat a Microsoft OneDrive-ról vagy a Microsoft 365-beli SharePointból vagy a SharePoint Server 2019-ről a számítógépére. További információ: Fájlok és mappák letöltése a [OneDrive-ról vagy a SharePointból.](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+Mindössze néhány kattintással letölthet fájlokat és mappákat a Microsoft OneDrive- vagy SharePoint-Microsoft 365-SharePoint Server 2019-ból a számítógépére. További információ: Fájlok és mappák letöltése a [OneDrive-SharePoint.](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)

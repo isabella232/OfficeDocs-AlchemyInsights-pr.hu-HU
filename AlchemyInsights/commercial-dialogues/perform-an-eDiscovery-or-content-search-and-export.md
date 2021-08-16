@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7c2e9cab71f8db31808164570b98f49d89610a1114f0fe624b4e6295c2b5d86d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016630"
 ---
 # <a name="perform-an-ediscoverycontent-search-and-export"></a>Elektronikus adatfelkeresés/tartalomkeresés és -exportálás végrehajtása
 
 Így kereshet tartalmakat a szervezetében, és exportálhatja őket:
 
-1. Nyissa meg [a Biztonsági & megfelelőségi központot,](https://go.microsoft.com/fwlink/?linkid=2086958) és keresse meg a **Keresés** a tartalomkeresés + Új  >    >  **keresés központban.**
+1. Nyissa meg [a Biztonsági & megfelelőségi központot,](https://go.microsoft.com/fwlink/?linkid=2086958) és keresse meg a Keresés **a** tartalomkeresés  >    >  **+ Új keresés központban 5.**
 1. Adja meg a keresett kulcsszavakat és feltételeket.
-1. A lap alján adja meg a kereshető helyeket (például e-maileket, Teams-üzeneteket, SharePoint-webhelyeket), vagy kattintson a **Minden hely elemre.**
-1. Kattintson **a & gombra.** Nevezze el a keresési lekérdezést, majd kattintson a **Mentés gombra.** A lekérdezés futni fog, és megmutatja az eredményeket.
+1. A lap alján adja meg a kereshető helyeket (például e-mail, Teams, SharePoint webhelyek), vagy kattintson a Minden hely **elemre.**
+1. Kattintson **a Futtatás & gombra.** Nevezze el a keresési lekérdezést, és kattintson a Mentés **gombra.** A lekérdezés futni fog, és megmutatja az eredményeket.
 
-A keresési eredmények exportálásának mikéntjére vonatkozó információkért [lásd: Tartalomkeresések eredményeinek exportálása.](https://go.microsoft.com/fwlink/?linkid=2102118)
+A keresési eredmények exportálásának mikéntjére vonatkozó információkért lásd: [Tartalomkeresés eredményeinek exportálása.](https://go.microsoft.com/fwlink/?linkid=2102118)
 
