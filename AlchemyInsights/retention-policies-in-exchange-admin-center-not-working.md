@@ -1,5 +1,5 @@
 ---
-title: Nem működnek az adatmegőrzési házirendek az Exchange Felügyeleti központban
+title: Az Adatmegőrzési házirendek Exchange Felügyeleti központban nem működik
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074934"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Adatmegőrzési házirendek az Exchange Felügyeleti központban
+# <a name="retention-policies-in-exchange-admin-center"></a>Adatmegőrzési házirendek Exchange Felügyeleti központban
 
 Ha azt szeretné, hogy automatikusan ellenőrizjük az alább említett beállításokat, válassza a vissza gombot < - a lap tetején, majd adja meg annak a felhasználónak az e-mail-címét, aki problémákat tapasztal az adatmegőrzési házirendekkel.
 
-Ha az Exchange Felügyeleti központban az adatmegőrzési házirendek nem vonatkoznak olyan postaládákra vagy elemekre, amelyek nem az archív postaládába vonatkoznak, ellenőrizze az alábbiakat:
+Ha problémákat tapasztal az adatmegőrzési házirendekkel a Exchange Felügyeleti központban nem vonatkoznak az archív postaládába át nem indító postaládákra vagy elemekre, ellenőrizze az alábbiakat:
 
 **A probléma gyökerének okai:**
 
@@ -38,7 +38,7 @@ Ha az Exchange Felügyeleti központban az adatmegőrzési házirendek nem vonat
  
 **Megjegyzés:** Ha egy postaláda 10 MB-nál kisebb méretű, a Felügyeltmappa-segéd nem fogja automatikusan feldolgozni a postaládát.
  
-Az Adatmegőrzési házirendek az Exchange Felügyeleti központban:
+Az adatmegőrzési házirendek a Felügyeleti központban Exchange további információkért lásd:
 
 - [Adatmegőrzési címkék és adatmegőrzési házirendek](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 

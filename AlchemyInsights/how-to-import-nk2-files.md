@@ -1,5 +1,5 @@
 ---
-title: útmutató – nk2 kiterjesztésű-fájlok
+title: how-to-import-nk2-files
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,28 +14,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 6a823f6e0c4c46de64dd7b70fb40c76255d78ec1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2b034926ec165b819119b5c4e060f10022d6017ec5dba8794d18ee3e96c709a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043208"
 ---
-# <a name="how-to-import-nk2-files"></a>A. nk2 kiterjesztésű fájlok importálása 
+# <a name="how-to-import-nk2-files"></a>.nk2 fájlok importálása 
 
-Amikor első alkalommal elindítja a Microsoft Outlook 2013, az Outlook 2016, az Outlook 2019 vagy a Microsoft 365 Outlookot, a Felhasználónév gyorsítótára *(a nk2 kiterjesztésű*-fájlban tárolódik) az alapértelmezett üzenettároló alkalmazásban rejtett üzenetbe lesz importálva.
+Az Microsoft Outlook 2013, Outlook 2016, Outlook 2019 vagy Microsoft 365-höz készült Outlook első elindítani a beceneve gyorsítótárát (amely *a* profilnév .nk2 fájlban van tárolva) az alapértelmezett üzenettárban lévő rejtett üzenetbe importálja.
 
-Ha a. nk2 kiterjesztésű fájlokat az Outlook 2013, az Outlook 2016, az Outlook 2019 vagy a Microsoft 365 Outlookba szeretné importálni, győződjön meg arról, hogy a. nk2 kiterjesztésű fájl a következő mappában található:%appdata%\Microsoft\Outlook
+Ha .nk2 fájlokat Outlook 2013-ba, Outlook 2016-be, Outlook 2019-be vagy Microsoft 365-höz készült Outlook-be importálni, győződjön meg arról, hogy a .nk2 fájl a következő mappában található: %appdata%\Microsoft\Outlook
 
-**Megjegyzés**: a. nk2 kiterjesztésű fájlban a jelenlegi Outlook 2013-vagy Outlook 2016-profil nevének kell lennie. A profilnév alapértelmezés szerint az "Outlook" nevet adja. A profil nevének ellenőrzéséhez kövesse az alábbi lépéseket: 
+**Megjegyzés:** A .nk2 fájlnak a jelenlegi 2013-as vagy 2013-as Outlook vagy Outlook 2016 kell lennie. A profilnév alapértelmezés szerint "nincs Outlook". A profilnév ellenőrzéshez kövesse az alábbi lépéseket: 
 1. Kattintson a **Start** menü **Vezérlőpult** parancsára.
-2. Kattintson duplán a **posta**lehetőségre.
-3. A levelezési beállítások párbeszédpanelen válassza a **profilok megjelenítése**elemet.
-4. Válassza **Start**a  >  **Futtatás**indítása gombot.
-5. A **Megnyitás** mezőbe írja be a *outlook.exe/importnk2*, majd kattintson az **OK gombra**. 
+2. Kattintson duplán a Levelek **elemre.**
+3. A Levelezési beállítások párbeszédpanelen válassza a **Profilok megjelenítése lehetőséget.**
+4. Válassza a **Start** > **Futtatás** parancsot.
+5. A Megnyitás **mezőbe írja** be az *outlook.exe /importnk2 parancsot,* majd válassza az **OK gombot.** 
 
-Miután importálta a. nk2 kiterjesztésű fájlt, a fájl tartalma a postaládában tárolt meglévő becenév-gyorsítótárba kerül.
+A .nk2 fájl importálása után a fájl tartalma egyesül a postaládában tárolt becenév-gyorsítótárba.
 
-**Megjegyzés**: a. nk2 kiterjesztésű fájlt a. Old fájlnév-kiterjesztéssel nevezi át a következő alkalommal, amikor elindítja az Outlook 2013, az Outlook 2016, az Outlook 2019 vagy a Microsoft 365 Outlookot. Ha újra importálni szeretné a. nk2 kiterjesztésű fájlt, először távolítsa el a. régi fájlnévkiterjesztéssel.
+**Megjegyzés:** A .nk2 kiterjesztést .old kiterjesztésűre nevezi át a rendszer, amikor legközelebb elindítja a Outlook 2013, Outlook 2016, Outlook 2019 vagy Microsoft 365-höz készült Outlook. Ha újra importálni szeretné a .nk2 fájlt, először távolítsa el a .old fájlnévkiterjesztést.
 
-További információt [az automatikus kiegészítési lista importálása vagy másolása másik számítógépre](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%)című témakörben találhat.
+További információ: Az automatikus kiegészítési lista importálása vagy [másolása másik számítógépre.](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%)
