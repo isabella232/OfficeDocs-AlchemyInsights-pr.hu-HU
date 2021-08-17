@@ -1,5 +1,5 @@
 ---
-title: Ki vette ki a fájlt?
+title: Who kivett egy fájlt?
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 12407f490f80412d801d01b717e3f7919b3cfb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32f22a3906f7a976ce607c0516be8b63dcfe472dd22f0b9c933e79950ba5e932
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047834"
 ---
-# <a name="who-has-a-file-checked-out"></a>Ki vette ki a fájlt?
+# <a name="who-has-a-file-checked-out"></a>Who kivett egy fájlt?
 
-Ha meg szeretné nézni, hogy ki vette ki a fájlt a SharePointban, az alábbi lépések valamelyikét végezheti el:
+Az alábbi lépésekkel láthatja, hogy kik SharePoint kivett fájlt a SharePoint:
   
-1. Mutasson a **kivett** elemre, és nézze meg, hogy ki vette ki a fájlt. 
+1. Ha az **egérmutatót** a Kivett elemleírás fölé húzza, láthat egy elemleírást, amely közli, hogy kiveszi a fájlt. 
     
-2. Vegye fel a **kivett** oszlopokat a tár alapértelmezett nézetére. Így mindenki könnyen megnézheti, hogy ki vette ki a dokumentumot. 
+2. Vegye fel **a Kivett oszlopot** a tár alapértelmezett nézetére. Így mindenki könnyen láthatja, hogy kinek van kivett dokumentuma. 
     
-Ha meg szeretné tudni, hogy miként vehet fel oszlopokat a SharePointban, olvassa el a [lista vagy tár oszlopának létrehozása](https://go.microsoft.com/fwlink/?linkid=2019591)című témakört. 
+Ha meg szeretne tudni, hogy miként adhat hozzá egy Kivett oszlopot a SharePoint, olvassa el az Oszlop létrehozása listában vagy tárban ( lásd: Oszlop [létrehozása listában vagy tárban).](https://go.microsoft.com/fwlink/?linkid=2019591) 
   
-További gyakori kérdések a beadással vagy a kivételsel kapcsolatban: [a kivételsel kapcsolatos leggyakoribb kérdések, beadás](https://go.microsoft.com/fwlink/?linkid=2018786).
+A bejelentkezésről vagy a kiveszről további gyakori kérdéseket a Leggyakoribb kérdések a kiveről és a [bejelentkezésről.](https://go.microsoft.com/fwlink/?linkid=2018786)
   
 
