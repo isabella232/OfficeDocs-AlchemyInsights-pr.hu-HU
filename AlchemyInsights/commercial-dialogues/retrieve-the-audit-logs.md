@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482114"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893593"
 ---
 # <a name="retrieve-the-audit-logs"></a>A naplók beolvasása
 
-Amikor először nyitja meg a naplót, az üres lesz. A kereséssel láthatja, hogy mi van benne. Így keresheti meg általánosan az összes tevékenységet:
+Amikor először nyitja meg a naplót, az üres lesz. A kereséssel mindig láthatja, hogy mi van benne. Így keresheti meg általánosan az összes tevékenységet:
 
-1. Nyissa meg a Naplókeresés lapot [(vagy](https://protection.office.com/#/unifiedauditlog) keresse meg a Felügyeleti központok biztonsági és   >  **&** Keresés & naplókeresést).  >    >  
-1. A Tevékenységek **mezőben** fogadja el az alapértelmezett "Show **results for all activities" (Az összes tevékenység eredményének megjelenítése) jelölőnégyzetet.**
-1. Adja meg a dátumtartományt, és a Felhasználók mezőben fogadja el az összes felhasználó alapértelmezett találatát, vagy válassza ki a vizsgálni kívánt felhasználó felhasználónevét. 
-1. Kattintson a **Keresés gombra.** A tevékenységek az Eredmények **alatt jelennek meg.**
-1. A részletek megtekintéséhez kattintson egy tevékenységre, majd válassza a **További információ lehetőséget.** További információkat fog látni, például ügyfél, felhasználó, aki műveletet hajtott végre stb.
+1. Az alábbi műveletek közül választhat:
+   - A Microsoft 365 Megfelelőségi központ a <https://compliance.microsoft.com> Megoldásvizsgálat  \> **hoz.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://compliance.microsoft.com/auditlogsearch> használja: .
+   - A (Microsoft 365 Defender portálon) a <https://security.microsoft.com> Audit **(Naplózás) stb.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://security.microsoft.com/auditlogsearch> használja: .
+
+2. A Naplózás **lap** Keresés **lapján** adja meg az alábbi beállításokat:
+   - **Dátum- és időtartomány:** Válassza ki a dátum-/időtartományt a **Kezdő** és a **Záró** mezőben.
+   - **Tevékenységek:** Az **Összes tevékenység eredményének** megjelenítése jelölőnégyzet be van jelölve.
+   - **Felhasználók:** Fogadja el az üres alapértelmezett értéket, és adja meg az összes felhasználó találatát, vagy adjon meg egy vagy több felhasználót.
+
+3. Ha végzett, kattintson a Keresés **gombra.** A tevékenységek az új Naplókeresés **lapon jelennek** meg.
+
+4. Jelöljön ki egy tevékenységet az eredmények között a részleteket tartalmazó úszó panel megnyitásához. További információkat fog látni, például Ügyfél, Felhasználó, aki műveletet hajtott végre stb.
+
+További információért olvassa el a Keresés a naplóban a [gyakori támogatási problémák vizsgálatához.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

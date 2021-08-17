@@ -16,19 +16,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6db785eb860498dacc4330f8e3e4558e58da0fe82b2701ffce8abe615678275a
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 31b3cfed4b5cadd2b5b2290fc8ed6e203225a0235be141140b5ecbd01efc2f98
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501602"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892689"
 ---
 # <a name="declined-credit-card"></a>Elutasított hitelkártya
 
 Ha bankkártyával fizet, de a rendszer elutasítja a fizetést, e-mailben értesítjük arról, hogy nem sikerült feldolgozni a fizetést. Ellenőrizze duplán, hogy a hitelkártya adatai [–](https://go.microsoft.com/fwlink/p/?linkid=842054) a kártyaszám, a lejárati dátum, a hitelkártyán látható név és a cím (ideértve a várost, az államot és az irányítószámot) – mind pontosan ugyanúgy vannak megszámzva, mint a hitelkártyán és a hitelkártyakivonaton. A hitelkártyaadatokat frissítheti, és azonnal elküldheti  a fizetést a Termékek számlázása lap Egyenleg kifizetése  >  [lehetőségével.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 
-További információt a "Mi történik, ha lejárt a hitelkártyám és a fizetési határidő?" című szakaszban olvashat. a [Vállalati verziós előfizetés Microsoft 365 fizetése lehetőséget.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
+További információt a "Mi történik, ha lejárt a hitelkártyám és a fizetési határidő?" című szakaszban olvashat. A [Vállalati verziós előfizetés Microsoft 365 fizetése lehetőséget.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
   
 Ha továbbra is a hitelkártya elutasításáról szóló üzenetet kap, lépjen kapcsolatba a bankjával. Elképzelhető, hogy a hitelkártyája nincs aktiválva - ha például nemrég kapott egy új lejárati dátumú hitelkártyát postai úton, akkor előfordulhat, hogy aktiválnia kell, mielőtt használhatná. A bankjától továbbá megtudhatja azt is, ha a hitelkártyája esetleg nem támogatott az online, a nemzetközi vagy a rendszeres tranzakciókhoz.  
   
-További információ: [Fizetési módok kezelése.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+További információ: [Fizetési módok kezelése.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

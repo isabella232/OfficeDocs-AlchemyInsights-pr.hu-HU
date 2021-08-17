@@ -13,16 +13,16 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57a1756787f8297a2a1ab3012b95aaa2f33e6045
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887502"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313021"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>IP-cím és ügyfél azonosítása a naplókban
 
-Az IP-cím, amely egy felhasználó vagy rendszergazda Microsoft 365 tevékenységének felel meg, megjelenik a naplókban. A program az ügyféladatokat is naplózza. Az ilyen információk azonosításának lépései
+Az ip-cím, amely egy felhasználó vagy rendszergazda Microsoft 365 tevékenységének felel meg, megjelenik a naplókban. A program az ügyféladatokat is naplózza. Az ilyen információk azonosításának lépései
 
 1. Jelentkezzen be a [Microsoft 365 megfelelőségi központba.](https://protection.office.com/)
 

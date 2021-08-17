@@ -1,5 +1,5 @@
 ---
-title: Licencek vásárlása az Üzleti Microsoft 365-alkalmazások előfizetéséhez
+title: Licencek vásárlása a Üzleti Microsoft 365-alkalmazások előfizetéséhez
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: a7c749095478a227f7981b7057a92690d90b9195802bde3a8f784e25d1ac03a7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499658"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892541"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Licencek vásárlása az Üzleti Microsoft 365-alkalmazások előfizetéséhez
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Licencek vásárlása a Üzleti Microsoft 365-alkalmazások előfizetéséhez
 
 Amikor licenceket rendel a felhasználókhoz, előfordulhat, hogy további licenceket kell vásárolnia.
 
@@ -32,4 +32,4 @@ Amikor licenceket rendel a felhasználókhoz, előfordulhat, hogy további licen
 3. A **Licencek vásárlása**  ablaktábla Új  mennyiség listában adja meg az adott előfizetéshez licencek teljes számát. Ha például 100 licence van, és további 25 licencet szeretne hozzáadni, írja be a 125-öt.
 4. Válassza a **Mentés** elemet.
 
-További információ: [Licencek vásárlása vagy eltávolítása.](/microsoft-365/commerce/licenses/buy-licenses)
+További információ: [Licencek vásárlása vagy eltávolítása.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

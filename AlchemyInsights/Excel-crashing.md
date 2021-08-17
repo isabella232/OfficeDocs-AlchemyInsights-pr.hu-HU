@@ -11,25 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918469"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312761"
 ---
 # <a name="frequent-excel-crashes"></a>Gyakran Excel összeomlik?
 
 A gyakori összeomlásokat Excel a hibát okozó bővítmény okozhatja. A bővítményt az alábbi Excel tilthatja le:
   
-1. Válassza **a** \> **Fájlbeállítások**, \> **a Bővítmények lehetőséget.**
+1. Válassza **a** \> **Fájlbeállítások**, \> **majd a Bővítmények lehetőséget.**
 
 2. A Kezelés **mezőben** válassza a **COM-bővítmények** lehetőséget, majd kattintson az Ugrás **gombra.**
 
 3. Az elérhető Add-Ins törölje a letiltani kívánt bővítmény melletti jelölőnégyzet jelölését, majd kattintson az **OK gombra.**
 
-> [!NOTE]
-> Ha Excel rendszer indításkor összeomlik, indítsa el Széf módban úgy, hogy a Ctrl billentyűt lenyomva tartva elindítja a programot.
+**Megjegyzés:** Ha a Excel indításkor összeomlik, indítsa el Széf módban úgy, hogy a Ctrl billentyűt lenyomva tartva elindítja a programot.
   
 Ha továbbra is problémákat tapasztal, olvassa el az alábbi cikkeket:
   

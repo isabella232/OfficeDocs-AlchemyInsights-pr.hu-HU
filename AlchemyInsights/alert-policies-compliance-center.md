@@ -1,5 +1,5 @@
 ---
-title: Riasztási házirendek a biztonsági és megfelelőségi központban
+title: Riasztási házirendek a Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006571"
 - "11243"
-ms.openlocfilehash: 1aa9f898555b440b55707889bc85358986a6568ee6a159985d2e60041cff7750
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4bbdc8f9817655fec260e6f85de831a85f89e13f56d559534df68f79c5bed9a2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53933503"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893629"
 ---
-# <a name="alert-policies-in-the-security-and-compliance-center"></a>Riasztási házirendek a biztonsági és megfelelőségi központban
+# <a name="alert-policies-in-microsoft-365"></a>Riasztási házirendek a Microsoft 365
 
-Az Microsoft 365 biztonsági és megfelelőségi központjában található riasztási házirendek és riasztási irányítópult-eszközök segítségével a felhasználók riasztási házirendeket hozhatnak létre, majd megtekinthetik a riasztási házirendek feltételeinek megfelelő tevékenységek végrehajtásakor generált riasztásokat. Számos alapértelmezett riasztási házirend segítségével figyelheti a tevékenységeket, például rendszergazdai jogosultságok hozzárendelését a Exchange Online-ban, kártevőtámadásokat, adathalászati kampányokat, szokatlan fájltörlési szinteket és külső megosztást.
+Az Microsoft 365 Megfelelőségi központ és az Microsoft 365 Defender portál riasztási házirendeket és riasztási irányítópultot használó eszközei segítséget Microsoft 365 Defender rendszergazdáknak a riasztási házirendek létrehozásához, majd az akkor létrehozott riasztások megtekintéséhez, amikor a felhasználók olyan tevékenységeket hajtnak végre, amelyek megfelelnek egy riasztási házirend feltételeinek. Számos alapértelmezett riasztási házirend segítségével figyelheti a tevékenységeket, például rendszergazdai jogosultságok hozzárendelését a Exchange Online-ban, kártevőtámadásokat, adathalászati kampányokat, szokatlan fájltörlési szinteket és külső megosztást.
 
-A riasztási házirendekkel kategorizálhatja a házirend által kiváltott riasztásokat, alkalmazhatja a házirendet a szervezet összes felhasználóját, beállíthatja a riasztások kiváltó küszöbértékét, és eldöntheti, hogy e-mailben értesítse-e őket a riasztások kiváltása esetén. A Biztonsági és megfelelőségi központ Riasztások megtekintése lapja lehetővé teszi a felhasználóknak a riasztások megtekintését és szűrését, a riasztások állapotának beállítását a riasztások kezeléséhez, majd a riasztások mellőzését a mögöttes incidens elhárítása vagy megoldása után.
+A riasztási házirendekkel kategorizálhatja a házirend által kiváltott riasztásokat, alkalmazhatja a házirendet a szervezet összes felhasználóját, beállíthatja a riasztások kiváltó küszöbértékét, és eldöntheti, hogy e-mailben értesítse-e őket a riasztások kiváltása esetén. A Riasztások lap lehetővé teszi a felhasználóknak a riasztások megtekintését és szűrését, a riasztások állapotának beállítását a riasztások kezeléséhez, majd a riasztások mellőzését a **mögöttes** incidens elhárítása vagy megoldása után.
 
-További információt a Riasztási [házirendek a biztonsági és](/microsoft-365/compliance/alert-policies) megfelelőségi központban
+További információért lásd: Riasztási [házirendek a Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)

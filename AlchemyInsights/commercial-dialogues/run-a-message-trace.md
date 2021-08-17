@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: c5b9c550d02e5201572f2e55154988a33128a047ab373134a59188f6ab59820b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c21a12855895c8e7f29c2a5917763940c30489e2aa3461cc0dc99799b86c9a34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081792"
 ---
 # <a name="run-a-message-trace"></a>Üzenetkövetés futtatása
 
-Az üzenetkövetési portálon üzenetkövetést **futtathat Exchange a** Microsoft 365 Defender portálon. <https://security.microsoft.com>
+Az üzenetkövetések az Office 365 Megfelelőségi központ E-mail forgalom & futnak.
 
-További információt az Üzenetkövetés a Microsoft 365 Defender [portálon](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)
+Ha meg szeretne tudni egy üzenetkövetés futtatásáról, olvassa el az Üzenetkövetés az üzenetkövetési Office 365 biztonsági & [központban.](https://go.microsoft.com/fwlink/?linkid=2103855)

@@ -15,22 +15,22 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502394"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893057"
 ---
 # <a name="billing-and-payment"></a>Számlázás és fizetés
 
-A számlák a Számlázás számlák és  >  [& találhatók.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Alapértelmezés szerint az elmúlt 3 hónap számlái jelennek meg.  A régebbi számlák megtekintéséhez módosítsa a szűrőt.  A számla **megtekintéséhez** kattintson a Számla letöltése PDF-fájl letöltése hivatkozásra.
+A számlák a Számlázási számlák és  >  [& találhatók.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Alapértelmezés szerint az elmúlt 3 hónap számlái jelennek meg.  A régebbi számlák megtekintéséhez módosítsa a szűrőt.  A számla **megtekintéséhez** kattintson a Számla letöltése PDF-fájl letöltése hivatkozásra.
 
 **Számlák fogadása e-mailben**
 
-A Számlázási **értesítések** lapon bekapcsolhatja ezt a szolgáltatást, és kezelheti a felhasználókat, akik e-mail-mellékletként megkapják  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) a számlát.  A számlát a rendszer elküldi a felhasználók e-mail-címére az Értesítés címzettjei listában. A listában az összes számlázási és globális rendszergazda szerepel.  A szerepkör módosításával kezelheti, hogy kik kapják meg a számlaértesítéseket.  A globális vagy számlázási rendszergazdai szerepkör eltávolítása eltávolítja a felhasználót a címzettek listájáról, és a globális vagy számlázási rendszergazdai szerepkör felvételével hozzáadja a felhasználót a címzettek listájához.
+A Számlázási **értesítések** lapon bekapcsolhatja ezt a funkciót, és kezelheti a felhasználókat, akik e-mail-mellékletként megkapják  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) a számlát.  A számlát a rendszer elküldi a felhasználók e-mail-címére az Értesítés címzettjei listában. A listában az összes számlázási és globális rendszergazda szerepel.  A szerepkör módosításával kezelheti, hogy kik kapják meg a számlaértesítéseket.  A globális vagy számlázási rendszergazdai szerepkör eltávolítása eltávolítja a felhasználót a címzettek listájáról, és a globális vagy számlázási rendszergazdai szerepkör felvételével hozzáadja a felhasználót a címzettek listájához.
 
-**Megjegyzés:** Két külön e-mailt fog kapni: az egyikből tudhatja, hogy a számla elkészült, és a Felügyeleti központba való bejelentkezésre vonatkozó utasításokat, valamint egy második e-mailt, amely mellékletként tartalmazza a számlakivonatot.
+**Megjegyzés:** Két külön e-mailt fog kapni: az egyikből tudja, hogy a számla elkészült, és a Felügyeleti központba való bejelentkezésre vonatkozó utasításokat, valamint egy második e-mailt, amely mellékletként tartalmazza a számlakivonatot.
 
 **Fizetés**
 
@@ -55,10 +55,10 @@ Ha felvett egy új kártyát, de továbbra is elutasító értesítést kap a r�
 
 7. Az új fizetési mód már ki van választva a legördülő listában. Válassza a **Csere** lehetőséget.
 
-További információért lásd: [Fizetési módok kezelése](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+További információért lásd: [Fizetési módok kezelése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Számlázási gyakoriság**
 
 A számlák létrehozása havonta vagy évente történik a fizetéskor kiválasztott számlázási gyakoriságtól függően.  
 
-**Megjegyzés:** Az éves számlázással rendelkező rendelések a időszak közepén kaphatnak számlát, ha módosításokat tettek, például licencek hozzáadását vagy eltávolítását. [A számlázási gyakoriság módosítása.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Megjegyzés:** Az éves számlázással rendelkező rendelések a időszak közepén kaphatnak számlát, ha módosításokat tettek, például licencek hozzáadását vagy eltávolítását. [A számlázási gyakoriság módosítása.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

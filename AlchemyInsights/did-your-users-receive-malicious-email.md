@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929199"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893405"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>A felhasználók kártékony e-mailt kaptak?
 
-- Mostantól bejelentheti a kártékony e-maileket a Microsoftnak a [Biztonsági és megfelelőségi központ Adminisztrátorok által beküldött elemek területén](https://sip.protection.office.com/reportsubmission).
+Mostantól bejelentheti a kártékony e-maileket a Microsoftnak [a Microsoft 365 Defender portálon.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
 
-Az [Adminisztrátorok által beküldött elemek](https://sip.protection.office.com/reportsubmission) között beküldött üzeneteket megvizsgáljuk, és az alábbi eredményeknek kell megjelenniük a **Részletek** előugró panelen:
+A rendszer [beolvassa](https://security.microsoft.com/reportsubmission?viewid=admin) a rendszergazdai beküldésbe küldött üzeneteket, és a következő eredményeket mutatja a részletes elő panelen:
 
 - Történt-e hiba a küldő e-mailjének hitelesítésekor az üzenet kézbesítése során.
 - Tájékoztatás azokról a házirendnek való megfelelésekről, amelyek befolyásolhatták vagy felülbírálhatták az üzenetre vonatkozó biztonsági rendelkezést.
@@ -39,9 +39,9 @@ Ha nem ért egyet egy üzenetre, URL-címre vagy fájlra vonatkozó végső bizt
 Eközben az [ebben a cikkben](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization) olvasható utasításokat követve eltávolíthatja a kártékony e-maileket a felhasználók postaládájából.
 
 - Az Office 365-höz készült Microsoft Defendert használó ügyfeleknek a következőkre nyílik lehetőségük:
-    - A [Veszélyforrás-felderítővel megkereshetik és törölhetik a gyanús e-maileket](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered).
-    - A [Biztonságos hivatkozások funkcióval letilthatják a hozzáférést](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) a kártékony URL-címekhez.
-    - Nyomon követhetik a kártékony URL-címre kattintó és azt megnyitó felhasználókat: [Megtekinthetik az adathalász URL-címek és kattintási biztonsági rendelkezések adatait](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace).
-    - Manuálisan [elindíthatnak egy automatizált vizsgálatot](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office).
+  - Gyanús [e-mailek megkerese és törlése a Veszélyforrás-intézővel](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+  - [A Széf url-hez való](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) hozzáférés blokkolása a hivatkozásokkal
+  - A kártékony URL-címekre kattintó és hozzáférő felhasználók nyomon követése: Az [adathalászati URL](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)megtekintése és a döntési adatok betöltési-UrlTrace  &  [gombja](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Automatikus [vizsgálat kézi létrehozása](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 A [Védelem a kártékony URL-címekkel és fájlokkal szemben](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats) című témakörben leírt utasításokat követve is biztosíthatja a kártékony fájlokkal és URL-címekkel szembeni védelmet.

@@ -1,5 +1,5 @@
 ---
-title: Office-termékkulcsok használata
+title: A Office használata
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: 16a86343f1c05a5094dc0dd5595c1299c9e44a26
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c09363a2c8d3e610eb50f42b4cbaa4e69827927f9f66c56d4c88b7ede3d85126
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808064"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083916"
 ---
-# <a name="using-office-product-keys"></a>Office-termékkulcsok használata
+# <a name="using-office-product-keys"></a>A Office használata
 
-**Office-termékkulcsok**
+**Office Termékkulcsok**
 
-Az Office és az egyénileg vásárolt Microsoft 365-appok (például Project, Visio, Word, Excel és Outlook) telepítéséhez és aktiválásához ne a termékkulcsot, csak a Microsoft-fiókját használja. További információért lásd: [Az Office termékkulcsot kér.](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
+Az egyénileg vásárolt Office-appok ( például Project, Visio, Word, Excel és Outlook) telepítéséhez és aktiválásához ne a termékkulcsát, Microsoft 365 Microsoft-fiókját használja. További információ: Office [termékkulcs kérése](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
 
-- Ha a megvásárolt Office-hoz termékkulcsot is vásárolt, tekintse meg a Hol lehet megadni az [Office-termékkulcsot? ?-t?](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- Ha a megvásárolt Office termékkulcsot is vásárolt, tekintse meg a Hol lehet megadni a Office [termékkulcsot?](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 
-- Az Office 365 Otthoni vagy Személyes termékkkulcsokkal kapcsolatban a Termékkulcsok használata az [Office-sal kapcsolatban lásd: Termékkulcsok használata az Office-ban.](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)
+- Ha segítségre van szüksége egy Office 365 Otthoni verzió vagy személyes termékkulcshoz, tekintse meg a [Termékkulcsok](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)használata a Office.
 
-**Az Office-előfizetés aktiválása** 
+**Az Office aktiválása** 
 
-- Ha Microsoft 365-előfizetést vásárolt egy kiskereskedelmi üzletben, tekintse meg a Termékkulcs beírhatja a [Microsoft 365 Vállalati verziós appok termékkulcsát.](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)
+- Ha egy kiskereskedelmi üzletben Microsoft 365 vásárolt előfizetést, tekintse meg a [Termékkulcs](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)beírhatja a(Üzleti Microsoft 365-alkalmazások.
 
-- Ha egy termékkulcs beváltásakor hibaüzenet jelenik meg, tekintse át a Problémák a [Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) Vállalati verzió termékkulcsával kapcsolatban?
+- Ha egy termékkulcs beváltása közben hibaüzenet jelenik meg, tekintse át a Problémák a [vállalati verziós Microsoft 365](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) termékkomccsal kapcsolatban?
