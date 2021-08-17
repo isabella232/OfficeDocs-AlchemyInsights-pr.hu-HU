@@ -14,17 +14,17 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110682"
 ---
 # <a name="replica-set"></a>Replikakészlet
 
-Az AADDS-t felügyelt tartománynak is nevezik. Valójában két tartományvezérlőt futtat és tart fenn a háttérkiszolgáló. A két DCs egy fő tartományvezérlőt és egy replikációs tartományvezérlőt tartalmaz. Az AADDS (felügyelt tartomány) biztonsági másolatai az Azure platform által kezelt automatizált folyamatok. Ha probléma ad problémát a felügyelt tartománnyal, az Azure ügyfélszolgálata segítséget nyújthat a biztonsági másolatból való visszaállításban.
+Az AADDS-t felügyelt tartománynak is nevezik. Valójában két tartományvezérlőt kell futtatni és karbantartani a háttérkiszolgálón. A két DCS egy fő tartományvezérlőt és egy replikációs DC-t tartalmaz. Az AADDS (felügyelt tartomány) biztonsági másolatai az Azure platform által kezelt automatizált folyamat. Ha probléma ad problémát a felügyelt tartománnyal kapcsolatban, az Azure ügyfélszolgálata segíthet a biztonsági mentésből való visszaállításban.
 
-Minden egyes replikakészletet egy virtuális hálózaton hozhat létre. Minden virtuális hálózatnak társviszonyban kell lennie minden más olyan virtuális hálózattal, amely a felügyelt tartomány replikakészletét kezeli. Ez a konfiguráció hálóhálózati topológiát hoz létre, amely támogatja a címtár-replikációt. A virtuális hálózatok több replikakészletet is támogatnak, feltéve, hogy minden egyes replikakészlet egy másik virtuális alhálózatban található.
+Minden replikakészletet egy virtuális hálózatban hozhat létre. Minden virtuális hálózatnak társviszonyban kell lennie minden más olyan virtuális hálózattal, amely a felügyelt tartomány replikakészletét kezeli. Ez a konfiguráció hálóhálózati topológiát hoz létre, amely támogatja a címtár-replikációt. A virtuális hálózatok több replikakészletet is támogatnak, feltéve, hogy minden replikakészlet egy másik virtuális alhálózatban található.
 
-A Replikakészlettel kapcsolatos további információkért lásd [a "Concepts Replikakészletek" halmazt.](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets)
+A Replikakészletről további információt a [Koncepciók](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets)replikakészletek .

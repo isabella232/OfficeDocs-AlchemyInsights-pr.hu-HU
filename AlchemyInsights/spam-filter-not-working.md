@@ -1,5 +1,5 @@
 ---
-title: a 8000059 Levélszemét-szűrése nem működött
+title: 8000059 a levélszemétszűrő nem működik
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: aff7b1f7d4f857c7480de08540e35e55840190cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f7b20d7d1bfac00a2a3148095284debb379218c4cd9c2387249df994fbb08b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084492"
 ---
-# <a name="spam-filter-not-working"></a>Nem működött a levélszemét-szűrés
+# <a name="spam-filter-not-working"></a>A levélszemétszűrő nem működik
 
-Ha úgy véli, hogy egy Outlook.com kapott üzenet adathalászat vagy hamisítás, jelölje ki az üzenetet, és válassza a levélszemét- **Junk** \> **adathalászat** lehetőséget az adathalászat adatlopással való megjelöléséhez. Ha többet szeretne tudni a visszaélésekről, az adathalászatról és a hamisításról, [olvassa el ezt](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)a témakört. Ha le szeretné tiltani az e-mail-címeket, vegyen fel címeket vagy tartományokat a megbízható feladók listájára, vagy más levélszemét-beállításokat is alkalmazhat, válassza a **Levélszemét-beállítások**lehetőséget.
+Ha úgy véli, hogy a Outlook.com-on kapott üzenet adathalászat vagy hamisítás, jelölje  ki az üzenetet, és válassza a Levélszeméthalászat lehetőséget \>  adathalászatként való megjelöléshez. Ha többet szeretne megtudni a visszaélésekről, az adathalászatról és a hamisításról, [olvassa el ezt a következőt:](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy). Ha le szeretne tiltani e-mail címeket, címeket vagy tartományokat szeretne felvenni Széf feladók listájára, vagy más levélszemét-beállításokat szeretne alkalmazni, válassza a Levélszemét **beállításai lehetőséget.**
   

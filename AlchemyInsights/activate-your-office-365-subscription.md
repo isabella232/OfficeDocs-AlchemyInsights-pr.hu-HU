@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889316"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314278"
 ---
 # <a name="activate-your-subscription"></a>Az előfizetés aktiválása
 
@@ -40,5 +40,5 @@ További információért tekintse meg [Az előfizetés újraaktiválása](https
 
 **Új előfizetés aktiválása termékkulccsal**
 
-- Ha új előfizetést Microsoft 365 termékkulcsával, tekintse meg a Hol lehet megadni a Office [termékkulcsot? lehetőséget.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- Ha új előfizetést Microsoft 365 a termékkulcsával, tekintse meg a Hol lehet megadni a Office [termékkulcsot? lehetőséget.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
 - Írja be a Microsoft 365-höz tartozó termékkulcsát, és kövesse az utasításokat az előfizetés aktiválásához. Ha problémát tapasztal az aktiválás során, olvassa el a [termékkulcsokkal kapcsolatos gyakori problémákat és megoldásokat](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

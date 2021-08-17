@@ -13,17 +13,17 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 822407858ddbdcd8e7cae6286fce7893e3eae5cfcdef44b1c8ad332c67a3ee77
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ac634375569cca71ec597929ecaedda529e47414
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882753"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313962"
 ---
 # <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Microsoft Defender Office 365 a SharePoint-ban és a OneDrive
 
 Tekintse át az alábbi adatokat:
-- [Microsoft Defender Office 365 a SharePoint, a OneDrive és a Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Microsoft Defender for Office 365 for SharePoint, OneDrive és Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Veszélyforrás-explorer és valós idejű észlelések](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 

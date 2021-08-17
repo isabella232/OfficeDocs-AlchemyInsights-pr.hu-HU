@@ -1,5 +1,5 @@
 ---
-title: A legutóbbi helyszíni Exchange-kiszolgáló eltávolítása
+title: Az utolsó helyszíni kiszolgáló Exchange eltávolítása
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 77dcc8d5396807f581c96ed79321a24ffe929d66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4980f3089305ce589cc8b205fe073c0d1328cdf289d18a15669c081e0ab4aa5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110733"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>A legutóbbi helyszíni Exchange-kiszolgáló eltávolítása
+# <a name="removing-the-last-on-premises-exchange-server"></a>Az utolsó helyszíni kiszolgáló Exchange eltávolítása
 
-Mielőtt eltávolítja az utolsó Exchange-kiszolgálót a helyszíni szervezetből, gondoskodjon arról, hogy a fentiekben ismertetett módon eldöntse, hogy milyen következményekkel jár az, hogy az utolsó kiszolgálón minden más célra szüksége van-e. További információért olvassa el a helyszíni [Exchange-kiszolgálók leszerelése hibrid környezetben](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)című témakört.
+Mielőtt eltávolítaná az Exchange-kiszolgálót a helyszíni szervezetből, meg kell értenie, hogy ennek milyen hatása van annak eldöntése érdekében, hogy szükség van-e az utolsó kiszolgálóra bármilyen más célból. További információt a [](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)Hogyan és mikor kell leszerelni helyszíni Exchange hibrid telepítésben?
   

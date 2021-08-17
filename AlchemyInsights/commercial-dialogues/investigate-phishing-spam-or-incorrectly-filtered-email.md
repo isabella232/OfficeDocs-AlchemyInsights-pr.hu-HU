@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948957"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894397"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Adathalászat, levélszemét vagy helytelenül szűrt e-mailek kiszűrása
 
 A Beküldéskezelővel küldje el az üzenetet a Microsoftnak. Azonnali visszajelzést kap az üzenetszűrésről és a probléma okának okról. A lépések összefoglalása:
 
-1. Válassza a [Office 365 Biztonsági & megfelelőségi központot,](https://go.microsoft.com/fwlink/p/?linkid=2077143)válassza a **Veszélyforrások** kezelése – Beküldés  >  lehetőséget, majd válassza az **+Új beküldés lehetőséget.**
-2. Adja meg a részleteket az **Új beküldés** elő panelen.
-3. Tájékoztassa a felhasználókat arról, hogy gyanús [e-maileket](https://go.microsoft.com/fwlink/?linkid=2092385) kell jelenteniük a Microsoftnak, és hogy a Jelentésüzenet bővítményt erre a célra kell használniuk.
+1. A Microsoft 365 Defender portálon a <https://security.microsoft.com> E-mail küldése és &  \> **csoportban.**
+
+   Ha közvetlenül a **Beküldések lapra akar** menni, használja a következőt: <https://security.microsoft.com/reportsubmission> .
+
+2. A **Beküldés lapon** ellenőrizze, hogy ki van-e jelölve a **Beküldve** elemzésre lap, majd kattintson a + Küldés a **Microsoftnak elemzésre elemre.**
+
+3. Megjelenik egy előtűnés, amely lehetőséget nyújt az e-mailek, AZ URL-címek vagy a fájlok elküldére. További információ: [Levélszemét, phish, URL-címek](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)és fájlok bejelentése a Microsoftnak rendszergazdai beküldés használatával.
+
+4. Tájékoztassa a felhasználókat, hogy a Jelentésüzenet vagy az Adathalászat bejelentése bővítmény használatával jelentsen be minden gyanús üzenetet a Beérkezett üzenetek [mappában.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

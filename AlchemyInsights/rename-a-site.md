@@ -11,24 +11,24 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 2cf5047714594c86eff86e5371e08ef110e5f3de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcba86584c42587c89c9c7ae4cdb3f05b6e51bd509ab7a36a41de2ac00f8f391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110734"
 ---
-# <a name="rename-a-sharepoint-site"></a>SharePoint-webhely átnevezése
+# <a name="rename-a-sharepoint-site"></a>Webhely SharePoint átnevezése
 
-A webhely URL-címének módosítására vagy átnevezésére vonatkozó lépések a [webhely címének módosítása](https://docs.microsoft.com/sharepoint/change-site-address)című témakörben találhatók. Ha például módosítani szeretné a feladót https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 .
+A webhely URL-címének módosítása/átnevezése a Webhely címének módosítása [része;](https://docs.microsoft.com/sharepoint/change-site-address) például a -ről https://contoso.sharepoint.com/sites/sample1 a-be https://contoso.sharepoint.com/sites/sample2 való váltáshoz.
 
-Az Átnevezés során ismert hibákról a [SharePoint-webhely címének átnevezése](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)című témakörben olvashat.
+Az átnevezés során előforduló ismert hibákról A webhelycímek [átnevezésekor SharePoint hibák.](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
 
-Az Átnevezés után ismert effektusokról a [webhely címének módosítása](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address)című témakörben olvashat.
+Az átváltás utáni ismert effektusok a Webhely címének módosítása – [effektusok.](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address)
 
-**Megjegyzés:** Egy SharePoint Online-URL-címben nem módosíthatja a tartománynevet (a fenti példában az URL-cím "contoso" része). 
+**Megjegyzés:** Online URL-címben nem módosíthatja a tartománynevet (a fenti példában ez az URL "contoso SharePoint része. 
 
 További információ:
 
 - [Korlátozás: A csoportwebhelyek nem nevezhetők át egyéni tartomány használatára](https://go.microsoft.com/fwlink/?Linkid=2018696)
-- [Hibák a SharePoint-webhely címének átnevezése során](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
+- [Hibák egy webhelycím SharePoint átnevezéskor](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)

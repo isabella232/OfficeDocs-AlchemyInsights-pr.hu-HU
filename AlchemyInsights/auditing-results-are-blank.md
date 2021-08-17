@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: cfb9996bda7d18453d1fe14b398f0f6dfcbd0d9965cb6e7674f3b6bb8fbc143f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d63158872c817ea6b856378367acc6f41f41e055
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893101"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313844"
 ---
 # <a name="auditing-results-are-blank"></a>A naplózási eredmények üresek
 
 **Audit reports for classic sites**
   
-Egy webhelycsoportra vonatkozó SharePoint megtekintéséhez a webhelycsoport rendszergazdájának kell lennie. Ha rendszergazdaként szeretne felvenni egy webhelyet, tekintse meg a [Webhelygazdák kezelése című témakört.](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators) A naplókról további információt a [Naplójelentések megtekintése lapon.](https://support.microsoft.com/office/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Egy adott webhelycsoportra vonatkozó SharePoint megtekintéséhez rendszergazdának kell lennie a webhelycsoportban. Ha rendszergazdaként szeretne felvenni egy webhelyet, tekintse meg a [Webhelygazdák kezelése című témakört.](https://docs.microsoft.com/sharepoint/manage-site-collection-administrators) A naplókról további információt a [Naplójelentések megtekintése lapon.](https://support.microsoft.com/office/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
   
 **Keresés a naplóban**
   

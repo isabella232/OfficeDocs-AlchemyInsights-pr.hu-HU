@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889256"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314242"
 ---
 # <a name="activating-microsoft-365-apps"></a>Az Microsoft 365 aktiválása
 
-**Megjegyzés:** Ha a Windows régebbi verzióját használja (például Windows 7), gondoskodjon arról, hogy alapértelmezés szerint a TLS 1.2 legyen engedélyezve. További információt a Frissítés a [TLS 1.1 és A TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)alapértelmezett biztonságos protokollként való engedélyezéséhez a Windowsbanhttps://Windows.
+**Megjegyzés:** Ha az Windows korábbi verzióját használja (például Windows 7 SP1 vagy Windows Server 2008 R2), engedélyezze alapértelmezés szerint a TLS 1.2-t az egyszerű javítás [használatával.](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) További információt a Frissítés a [TLS 1.1 és A TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)alapértelmezett biztonságos protokollként való engedélyezéséhez a Windowsbanhttps://Windows.
 
 Az Office-appok aktiválásához lásd:
 
@@ -29,7 +29,7 @@ Az Office-appok aktiválásához lásd:
 
 - [Az Office aktiválása Mac gépen](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Megjegyzés:**  Győződjön meg arról, hogy olyan Office 365- vagy Microsoft 365-előfizetése van, amely Office-ügyfélalkalmazásokat [(](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)például Microsoft 365 Vállalati standard verzió, Üzleti Microsoft 365-alkalmazások vagy Nagyvállalati Microsoft 365-alkalmazások) Nagyvállalati Microsoft 365-alkalmazások. Ezenkívül győződjön meg arról, hogy az alkalmazásokba való bejelentkezéshez használt felhasználói fiókhoz Office van [hozzárendelve licenc.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Megjegyzés:**  Győződjön meg arról, hogy olyan Office 365- vagy [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)Microsoft 365-előfizetése van, amely Office-ügyfélalkalmazásokat ( például Microsoft 365 Vállalati standard verzió, Üzleti Microsoft 365-alkalmazások vagy Nagyvállalati Microsoft 365-alkalmazások) is Nagyvállalati Microsoft 365-alkalmazások. Ezenkívül győződjön meg arról, hogy az alkalmazásokba való bejelentkezéshez használt felhasználói fiókhoz Office van [hozzárendelve licenc.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Az Office aktiválási hibáinak elhárításához lásd:
 
@@ -38,7 +38,7 @@ Az Office aktiválási hibáinak elhárításához lásd:
 
 - [Mi a teendő, ha nem tudja telepíteni vagy aktiválni a Mac Office-t?](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Tipp** Windows rendszerű gépeken számos gyakori Office-bejelentkezési problémát diagnosztizálhatunk és automatikusan kijavíthatunk Ön helyett. Automatizált eszközünk használatához töltse le és futtassa a **[Microsoft Támogatási és helyreállítási segédet](https://aka.ms/SaRA-OfficeSignInScenario)**.
+**Tipp:** Windows gépeken diagnosztizálhat és automatikusan kijavíthat számos gyakori Office bejelentkezési problémát. Automatizált eszközünk használatához töltse le és futtassa a **[Microsoft Támogatási és helyreállítási segédet](https://aka.ms/SaRA-OfficeSignInScenario)**.
 
 Ha nem tud bejelentkezni az Microsoft 365 appba, kövesse az alábbi lépéseket:
 

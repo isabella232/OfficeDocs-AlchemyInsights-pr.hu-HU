@@ -1,5 +1,5 @@
 ---
-title: A 0x8004de40 hiba kijavít OneDrive
+title: A 0x8004de40-hibák kijavít OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,15 +8,15 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: f30b2f7d237158ae58d6a76676ca4c40d95ef3b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 05fb353dd7bda97b88d4ccfdf2ae708b4401ab862a8e8f4e4d0246b75011cad0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544544"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894277"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>A 0x8004de40 hiba kijavít OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>A 0x8004de40-hibák kijavít OneDrive
 
 A hibakód 0x8004de40 azt OneDrive, hogy nehézségekbe ütközik a felhőhöz való kapcsolódáskor. 
 
-További információ: [Hibakód:](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive) 0x8004de40 bejelentkezés a OneDrive
+További információ: [Hibakód:](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive) 0x8004de40 bejelentkezés a OneDrive
