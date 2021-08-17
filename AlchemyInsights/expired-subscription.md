@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029734"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895889"
 ---
 # <a name="expired-subscription"></a>Lejárt előfizetés
 
@@ -35,7 +35,7 @@ ms.locfileid: "54029734"
 3. Az **Előfizetés újraaktiválása** ablaktáblában válasszon ki egy fizetési módot a legördülő listából, vagy válassza a Fizetési **mód hozzáadása lehetőséget.**
 4. Válassza a **Mentés** elemet.
 
-További információért tekintse meg [Az előfizetés újraaktiválása](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.
+További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.
 
 **Új vásárlás**
   
@@ -44,4 +44,4 @@ További információért tekintse meg [Az előfizetés újraaktiválása](/micr
 3. Írja be, hogy hány licencre van szüksége, és válassza ki, hogy havonta fizet-e vagy az egész évre. Adja meg, hogy automatikusan szeretne-e licenceket kiosztani a licenccel jelenleg nem rendelkező felhasználóknak. Ezután válassza a **Check out now (Kijelentkezás) lehetőséget.**
 4. Kövesse a hátralévő lépéseket a művelet befejezéséhez.
 
-További információ: Másik előfizetés [vásárlása.](/microsoft-365/commerce/buy-another-subscription)
+További információ: Másik előfizetés [vásárlása.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)

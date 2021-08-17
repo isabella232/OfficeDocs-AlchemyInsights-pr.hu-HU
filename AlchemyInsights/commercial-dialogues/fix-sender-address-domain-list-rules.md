@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930027"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896113"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>A feladó címére/tartományára vonatkozó listaszabályok kijavítva
 
-Ezt az üzenetet egy levélszemét-szűrési házirend érintette a bérlői webhelyen. Az üzenet feladója megtalálható egy Allow (Megengedve) vagy Block (Blokkolás) listában. A házirend áttekintéshez tegye a következőket:
+Az üzenetre az egyik levélszemét-szűrési házirend hatással volt. Az üzenet feladója megtalálható egy Allow (Megengedve) vagy Block (Blokkolás) listában. A házirendek áttekintéshez kövesse az alábbi lépéseket:
 
-1. Válassza a [Office 365 biztonsági & megfelelőségi központot,](https://go.microsoft.com/fwlink/p/?linkid=2077143)majd a Veszélyforrások elleni **védelem** házirend Levélszemét  >    >  [elleni központban.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Ha a Szokásos  **beállítások** engedélyezve vannak,  a Szokásos lapon jelölje be az Engedélyezőlisták és a **Tiltólisták jelölőnégyzetet.**
-3. Ha az Egyéni **beállítások** engedélyezve vannak, az Egyéni  lapon tekintse át a házirendeket a Házirend szerkesztése lehetőséget választva, majd jelölje be az **Engedélyezőlisták** és a  **Tiltólisták beállítást.**
+1. A Microsoft 365 Defender portálon a Házirendek szakaszban & e-mailes együttműködési házirendek & szabályok veszélyforrások elleni védelem című <https://security.microsoft.com/>  \>  \>  \>  **szakaszát.**
 
-A levélszemétszűrő házirendek konfigurálásával kapcsolatos további információkért [lásd: A levélszemétszűrő házirendek konfigurálása.](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Ha közvetlenül a **Levélszemét-szűrési házirendek** lapot kell használnia, használja a <https://security.microsoft.com/antispam> következőt: .
+
+2. A **Levélszemét-szűrési** házirendek lapon jelölje ki a házirendet a házirend nevére **kattintva** ( Típus: Egyéni levélszemét-szűrési házirend vagy Név a Levélszemét-szűrési bejövő házirend **(alapértelmezett)**).  
+3. A megjelenő részleteket tartalmazó előgombra, az Engedélyezett és letiltott feladók és tartományok szakaszban válassza az Engedélyezett és letiltott feladók és **tartományok szerkesztése** lehetőséget. 
+4. Az Engedélyezett **csoportban** a Feladók kezelése **\<nn\>** vagy a Tartományok engedélyezése elemre kattintva tekintse át a feladókat és **a tartományokat.**
+
+További információ: [Levélszemét-szűrési házirendek konfigurálása az EOP szolgáltatásban.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

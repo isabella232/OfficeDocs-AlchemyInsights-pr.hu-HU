@@ -15,17 +15,17 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: 08a19a57c5366a1e45a5dc24d3572dce0e9ec51694f4671bd0881218f5cd4b89
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ac180a3af521d42013849a6d8cab8fc3dc7d8640c584021cfc5618a688f73b59
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499694"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890208"
 ---
 # <a name="change-organization-profile"></a>Szervezeti profil módosítása
 
-Módosítsa a vállalat nevét, címét, műszaki kapcsolattartási adatait és egyéb adatait a Szervezet és Gépház felügyeleti központjában Gépház  >    >  [profillapon.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
+Módosítsa a vállalat nevét, címét, műszaki kapcsolattartási adatait és egyéb adatait a Szervezet vagy szervezet Gépház felügyeleti központjában Gépház  >    >  [profillapon.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
 
 A módosítások mentésének engedélyezéséhez győződjön meg arról, hogy az összes szükséges mezőt * jelekkel jelölte meg.
 
-További információ a cím vagy a számlázási cím [változásairól.](/microsoft-365/admin/manage/change-address-contact-and-more)
+További információ a cím vagy a számlázási cím [változásairól.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)

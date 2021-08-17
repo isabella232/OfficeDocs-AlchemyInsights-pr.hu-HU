@@ -1,5 +1,5 @@
 ---
-title: További információ a Microsoft 365-előfizetés – az Office-alkalmazások mobileszközökön elérhető szolgáltatásairól
+title: További információ az Microsoft 365-előfizetések mobileszközökön Office-appok funkcióinak elérhetőségétől függően
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49678706"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087426"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>További információ a Microsoft 365-előfizetés – az Office-alkalmazások mobileszközökön elérhető szolgáltatásairól
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>További információ az Microsoft 365-előfizetések mobileszközökön Office-appok funkcióinak elérhetőségétől függően
 
-Az összes Microsoft 365-csomag segítségével megtekintheti a dokumentumokat a Word, az Excel, a PowerPoint és a OneNote alkalmazásban iOS, Android és Windows Mobile rendszerű eszközökön. Az alkalmazások és a fájlok elérhetősége azonban az előfizetéstől (Microsoft 365 minősítő csomagtól vagy nem jogosító csomagtól), illetve az egyszer megvásárolható Office-ról, valamint egy mobileszközök képernyőjétől függ.
+Az Microsoft 365-csomagokban megtekintheti a dokumentumokat a Wordben, a Excel-ban, a PowerPoint-ban és a OneNote-ban iOS, Android és Windows rendszerű eszközökön. Az appok funkcióinak és fájljainak elérhetősége azonban függ az előfizetésétől – egy Microsoft 365 erre feljogosító vagy egy nem feljogosító csomagtól, illetve az egyszer megvásárolható Office-től – és a mobileszköze képernyőméretétől.
 
-További információt [az Office-alkalmazásokban használható mobileszközök Microsoft 365-előfizetéssel](https://go.microsoft.com/fwlink/?linkid=2135575)című témakörben találhat. 
+További információ: Az Office előfizetéssel elérhető mobileszközökön [elérhető Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2135575) 

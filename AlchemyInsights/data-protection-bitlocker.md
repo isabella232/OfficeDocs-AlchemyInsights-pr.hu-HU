@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f6e48b9d2f7562d74d60c2901759a7ab359e5c67bd4aa2d556d941a41ab680c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118596"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Bitlocker-titkosítás engedélyezése az Intune-nal
 
-Az Intune végpontvédelmi házirendje a Windows-eszközök Bitlocker titkosítási beállításainak konfigurálásával használható. További információért lásd: [A Windows 10 (és újabb)](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)beállításai az eszközök védelméhez az Intune használatával.
+Az Intune Endpoint Protection házirend használatával konfigurálhatja a Bitlocker titkosítási beállításokat Windows eszközökön. További információért lásd: Windows 10 [(és újabb) beállítások](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)az eszközök védelméhez az Intune használatával.
 
-Az Végpontvédelmi házirend mellett egy titkosítási jelentés is rendelkezésre áll, amely részletesebben bepillantásba teszi az eszközök titkosítási állapotát. Ez a jelentés a MEM portál Eszközök > **figyelője**, majd **a Konfiguráció** alatt válassza a [Titkosítási jelentés lehetőséget.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)
+A házirenden Endpoint Protection kívül egy titkosítási jelentés is rendelkezésre áll, amely részletesebb áttekintést nyújt az eszközök titkosítási állapotáról. Ez a jelentés a MEM portál Eszközök > **figyelője**, majd **a Konfiguráció** alatt válassza a [Titkosítási jelentés lehetőséget.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)
 
 Ha úgy találja, hogy a Bitlocker engedélyezése nem a várt módon történik, vagy ha a Bitlocker engedélyezéséhez használt profil hibaállapotban van, ellenőrizze a titkosítási jelentést, hogy jobban megértse, miért történik ez a viselkedés.
 
@@ -31,13 +31,13 @@ A jelentés értelmezésének részleteit, beleértve a különféle titkosítá
 
 Fontos tudnia, hogy a Windows 10-et futtató számos újabb eszköz támogatja az automatikus Bitlocker-titkosítást, amely az MDM-házirend alkalmazása nélkül indul el. Ez hatással lehet a házirend alkalmazásra, ha a nem alapértelmezett beállítások be vannak állítva. További információt az alábbi gyakori kérdések között talál.
 
-A bitlockerhibák elhárításáról további információt A BitLocker-házirendek hibaelhárítása a [Microsoft Intune-ban témakörben található.](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)
+A bitlockerhibák elhárításáról további információt a [BitLocker-házirendek](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)hibaelhárítása a windowsos Microsoft Intune.
  
  
 **GYIK**
 
-K: A Windows mely kiadásai támogatják az eszköztitkosítást az Végpontvédelmi házirend használatával?<br>
-A: Az Intune Végpontvédelmi házirend beállításai a [Bitlocker csp használatával hajtják végre.](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) Nem minden Windows-kiadás vagy -build támogatja a Bitlocker-alapú csp-t. <br><br>
+Kérdés: A Windows mely kiadásai támogatják az eszköztitkosítást a Endpoint Protection használatával?<br>
+A: Az Intune Endpoint Protection házirend beállításai a [Bitlocker szolgáltatásszolgáltatóval hajtják végre.](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) Nem minden kiadás vagy build támogatja Windows Bitlocker-csp-t. <br><br>
 
 K: Hogyan engedélyezhető a Bitlocker funkció a végfelhasználók beavatkozása nélkül az eszközökön?<br>
 Megoldás: Ha teljesülnek a szükséges előfeltételek, engedélyezni lehet a Bitlocker "Silent Encryption" eszközt az Intune-ban. A csendes titkosítás engedélyezéséhez tekintse meg az eszközkövetelmények részleteit és a házirend-beállításokat a következő [dokumentumban: Bitlocker-titkosítás](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)csendes engedélyezése. <br><br>
@@ -50,6 +50,6 @@ K: Ha egy eszköz az Intune-házirend alkalmazásával lett titkosítva, a rends
 A: A titkosítással kapcsolatos házirend eltávolítása NEM a konfigurált meghajtók visszafejtéséhez vezet.
  
 K: Miért mutatja az Intune megfelelőségi szabályzat, hogy az eszközömön nincs engedélyezve a Bitlocker, annak ellenére, hogy engedélyezve van?<br>
-V: Az Intune megfelelőségi szabályzatának Bitlocker enabled (Bitlocker engedélyezve) beállítása a Windows eszköz-állapot igazolási (DHA) ügyfélprogramot használja. Ez az ügyfél csak az eszköz állapotát méri indításkor. Ha tehát egy eszközt nem indítsa újra a Bitlocker-titkosítás befejeződött óta, akkor a DHA ügyfélszolgáltatás nem jelent aktívként a Bitlocker eszközt.
+V:A "Bitlocker enabled" (Bitlocker engedélyezve) beállítás az Intune megfelelőségi szabályzatában az eszköz Windows (DHA) ügyfélprogramot használja. Ez az ügyfél csak az eszköz állapotát méri indításkor. Ha tehát egy eszközt nem indítsa újra a Bitlocker-titkosítás befejeződött óta, akkor a DHA ügyfélszolgáltatás nem jelent aktívként a Bitlocker eszközt.
  
  

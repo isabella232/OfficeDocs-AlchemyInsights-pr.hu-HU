@@ -1,5 +1,5 @@
 ---
-title: az 2637 mellőzheti a levélszemét szűrését bizonyos üzenetek engedélyezéséhez?
+title: 2637 A levélszemétszűrés megkerülése adott üzenetek engedélyezése érdekében?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059562"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>A levélszemét szűrésének mellőzése adott üzenetek engedélyezéséhez?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>A levélszemétszűrés megkerülése adott üzenetek engedélyezése érdekében?
 
-Javasoljuk, hogy [körültekintően](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) hozzon létre egy engedélyezési listát. Ha például engedélyezte a saját tartományát, a rosszindulatú feladók tartományként képesek lesznek hamisítani és elküldeni.  Ehelyett azt javasoljuk, hogy végezze el ezt a [hamis pozitív hibaelhárítási útmutatót](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), amely segítséget nyújt annak meghatározásához, hogy miért volt levélszemétként megjelölve egy legitim üzenet, és hogy mit tehet az üzenet kézbesítésének biztonságos engedélyezéséhez.
+Azt [javasoljuk,](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) hogy körültekintően járjon el az engedélyezőlista létrehozásakor. Ha például engedélyezi a saját tartományát, a kártékony feladók hamisítást fognak tudni küldeni tartományként.  Ehelyett javasoljuk [](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)ezt a hamis pozitív hibaelhárítási útmutatót, amely segít megállapítani, hogy egy valódi üzenet miért lett levélszemétként megjelölve, és mit lehet tenni az üzenet biztonságos kézbesítésének engedélyezése érdekében.

@@ -12,16 +12,16 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
-ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
+ms.openlocfilehash: 67983aa1210b8c4694d47d8f5de4c60c97248f9f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52853871"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311293"
 ---
 # <a name="information-about-gdpr"></a>Információk a GDPR-ről
 
-- [Egyszerűsített GDPR: Útmutató a kisvállalatok számára](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [Egyszerűsített GDPR: Útmutató a kisvállalatok számára](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
 - Első lépések a Service [Trust Portal webhelyen.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
@@ -31,8 +31,8 @@ ms.locfileid: "52853871"
 
   - [Naplójelentések](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Információ az **adat tulajdonosi** kérésekkel kapcsolatban – itt található a felfedezés, a hozzáférés, a szűkítés, a korlátozás, a törlés és az [exportálás.](/microsoft-365/compliance/gdpr-dsr-office365)
+- Információ az **adat tulajdonosi** kérésekkel kapcsolatban – itt található a felfedezés, a hozzáférés, a szűkítés, a korlátozás, a törlés és az [exportálás.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Az **adatszegésről szóló értesítéssel** kapcsolatos információk [itt vannak.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- Az **adatszegésről szóló értesítéssel** kapcsolatos információk [itt találhatóak.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
 - Az **adathelyekre vonatkozó információk** [itt találhatók.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)

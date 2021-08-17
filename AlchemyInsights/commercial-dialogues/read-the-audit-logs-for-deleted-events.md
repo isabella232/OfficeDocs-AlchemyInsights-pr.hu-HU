@@ -13,26 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967335"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896017"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>A törölt események naplóinak olvasása
 
 Ehhez tegye a következőt:
 
-1. A biztonsági Office 365 [megfelelőségi & meg.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Válassza **a Keresés**  >  [**naplókeresés lehetőséget.**](https://go.microsoft.com/fwlink/?linkid=2103759)
-    > [!NOTE]
-    > Ha egy figyelmeztetést lát, amely szerint be kell kapcsolnia a funkciót, nyugodtan bekapcsolhatja most. Ha a funkció nincs bekapcsolva, a keresési eredmények nem tudnak adatokat lekért a korábbi dátumok adataiból.
-1. Válassza **a Tevékenységek** lehetőséget, majd keresse meg Exchange **postaláda-tevékenységeket.** Válassza **a Törölt elemek mappából törölt** üzenetek és az Üzenetek átkerülése **a Törölt elemek** mappába lehetőséget. Amikor végzett, kattintson az ablaktáblán kívülre a Tevékenységek ablaktábla kis **méretűvé állításhoz.**
-1. Adja meg a dátumtartományt, majd a Felhasználók mezőben válassza ki a vizsgálni kívánt felhasználó felhasználónevét.  Egyszerre több felhasználót is kijelölhet.
-1. Válassza a **Keresés lehetőséget.** A tevékenységek az Eredmények alatt **jelennek meg.**
-1. A részletek megtekintéséhez jelöljön ki egy tevékenységet, majd válassza a **További információ lehetőséget.** A Törölt elemek mezőben további információk jelennek meg a törölt elemről, például a tárgysorról és az elem törlés utáni **helyéről.**
-    > [!NOTE]
-    > A napló funkcióval nem lehet visszaállítani a törölt elemeket. A törölt elemek visszaállításáról a Törölt elemek vagy e-mailek helyreállítása a [Outlook Web App.](https://go.microsoft.com/fwlink/?linkid=2103759)
+1. Az alábbi műveletek közül választhat:
+   - A Microsoft 365 Megfelelőségi központ a <https://compliance.microsoft.com> Megoldásvizsgálat  \> **hoz.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://compliance.microsoft.com/auditlogsearch> használja: .
+   - A (Microsoft 365 Defender portálon) a <https://security.microsoft.com> Audit **(Naplózás) stb.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://security.microsoft.com/auditlogsearch> használja: .
 
-További információért olvassa el a Keresés a naplóban Office 365 gyakori esetek [elhárításához témakört.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    > [!NOTE]
+    > Ha egy figyelmeztetést lát, amely szerint be kell kapcsolnia a funkciót, nyugodtan bekapcsolhatja most. Ha a funkció nincs bekapcsolva, a keresési eredmények nem tudnak adatokat lekért a korábbi dátumokhoz.
+
+2. A Naplózás **lap** Keresés **lapján** adja meg az alábbi beállításokat:
+   - **Dátum- és időtartomány:** Válassza ki a dátum-/időtartományt a **Kezdő** és a **Záró** mezőben.
+   - **Tevékenységek:** Adja meg **Exchange postaláda-tevékenységeket,** majd válassza ki az alábbi értékeket:
+     - **Törölt üzenetek a Törölt elemek mappából**
+     - **Üzenetek átkerültek a Törölt elemek mappába**
+
+       Amikor végzett, kattintson az ablaktáblán kívülre a Tevékenységek ablaktábla kis **méretűvé állításhoz.**
+
+   - **Felhasználók:** Fogadja el az üres alapértelmezett értéket, és adja meg az összes felhasználó találatát, vagy adjon meg egy vagy több felhasználót.
+
+3. Ha végzett, kattintson a Keresés **gombra.** A tevékenységek az új Naplókeresés **lapon jelennek** meg.
+
+4. Jelöljön ki egy tevékenységet az eredmények között a részleteket tartalmazó úszó panel megnyitásához. A Törölt elemek mezőben további információk jelennek meg a törölt elemről, például a tárgysorról és az elem törlés utáni **helyéről.**
+
+   > [!NOTE]
+   > A napló funkcióval nem lehet visszaállítani a törölt elemeket. A törölt elemek visszaállításáról a [Törölt](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)e-mailek helyreállítása a Webes Outlook.
+
+További információt a Keresés a naplóban a gyakori támogatási problémák [vizsgálatához.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

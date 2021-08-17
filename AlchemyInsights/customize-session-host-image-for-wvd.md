@@ -1,5 +1,5 @@
 ---
-title: A Windows Virtual Desktop-hoz tartozó munkamenetgazda-képek testreszabása
+title: Munkamenet gazdaképének testreszabása virtuális Windows számára
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: 23bf130aad5bafa6756f0adfc2e58a130c2f6c4e
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 2740fc58b33606e8475b4d8a80b62330d1deeaacd48b7c8035a75eb93e93c2a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692057"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118638"
 ---
-# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>A Windows Virtual Desktop-hoz tartozó munkamenetgazda-képek testreszabása
+# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Munkamenet gazdaképének testreszabása virtuális Windows számára
 
-A virtuális gépek (VM-EK) kétféle módon készíthetők elő a Windows virtuális asztali verziójának fő virtuális merevlemezén:
+A virtuális számítógépeket kétféleképpen készítheti elő egy virtuális merevlemez-lemezkép használatával egy virtuális Windows virtuális asztalhoz:
 
-1. [Hozzon létre egy VM-et egy felügyelt képből az Azure-ban](https://go.microsoft.com/fwlink/?linkid=2127906), majd ugorjon a [szoftver előkészítése és telepítése](https://go.microsoft.com/fwlink/?linkid=2128064)előtt.
-1. A képet úgy [hozhatja létre helyileg](https://go.microsoft.com/fwlink/?linkid=2128065) , hogy letölti a képet, [kiépíti a Hyper-V VM-](https://go.microsoft.com/fwlink/?linkid=2127907)et, majd testre szabhatja az igényeinek megfelelően.
+1. [Hozzon létre egy VM-et egy felügyelt képből](https://go.microsoft.com/fwlink/?linkid=2127906)az Azure-ban, majd ugorjon előre a szoftverek [előkészítéséhez és telepítéséhez.](https://go.microsoft.com/fwlink/?linkid=2128064)
+1. [Hozza létre a képet](https://go.microsoft.com/fwlink/?linkid=2128065) helyileg a kép letöltésével, [egy Hyper-V VM](https://go.microsoft.com/fwlink/?linkid=2127907)kiépítésével, majd az igényeinek megfelelően testre szabva.
 
-További információ: [a fő VHD-Kép előkészítése és testreszabása](https://go.microsoft.com/fwlink/?linkid=2127838).
+További információért olvassa el a VHD-képminta előkészítése és [testreszabása.](https://go.microsoft.com/fwlink/?linkid=2127838)

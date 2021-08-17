@@ -1,5 +1,5 @@
 ---
-title: Hirdetések letiltása a Microsoft Edge-ben lehetőségeit vagy iOS-eszközön
+title: Reklámok blokkolása Microsoft Edge Adroid- vagy iOS-eszközön
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003856"
 - "6906"
-ms.openlocfilehash: 8ad1e8dd59712de0be46c90bee24b0e8d290906f
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 513ef21d7629ac0598e5446f61edf0b26d69ca389735638df54f32dffbe3059b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573561"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059922"
 ---
-# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>Hirdetések letiltása a Microsoft Edge-ben lehetőségeit vagy iOS-eszközön
+# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>Reklámok blokkolása Microsoft Edge Adroid- vagy iOS-eszközön
 
-Az összes hirdetések letiltása, kivéve azokat, amelyeket az AdBlock Plus által elfogadhatónak ítél:
-1. Select **...** > **Settings (beállítások**  >  ) A **tartalom-blokkolók**.
-2. Tiltsa le a hirdetéseket.
+Az AdBlock Plus által elfogadhatónak ítélt hirdetések kivételével letilthatja az összes hirdetést:
+1. Válassza **a ...** > **Gépház**  >  **Tartalomblokkolók.**
+2. Kapcsolja be a Hirdetések blokkolása 2010-et.
 
-Az összes hirdetés letiltása:
-1. Select **...** > **Settings (beállítások**  >  ) A **tartalom-blokkolók**.
-2. Tiltsa le a hirdetéseket.
-3. Válassza a **Speciális beállítások** lehetőséget.
-4. Kapcsolja ki a megengedhető hirdetések engedélyezése beállítást.
+Az összes hirdetés blokkolása:
+1. Válassza **a ...** > **Gépház**  >  **Tartalomblokkolók.**
+2. Kapcsolja be a Hirdetések blokkolása 2010-et.
+3. Válassza **a Speciális beállítások lehetőséget.**
+4. Kapcsolja ki az Elfogadható hirdetések engedélyezése lehetőséget.

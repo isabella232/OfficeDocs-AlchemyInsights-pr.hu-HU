@@ -1,5 +1,5 @@
 ---
-title: 726 az e-mailek továbbításának letiltása
+title: 726 Az e-mail-továbbítás letiltása
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
-ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
+ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48478337"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059634"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>E-mailek továbbításának letiltása vagy letiltásának feloldása
+# <a name="blocking-or-unblocking-email-forwarding"></a>E-mail-továbbítás letiltása vagy letiltásának feloldása
 
-Ha engedélyezni vagy tiltani szeretné az e-mailek továbbítását egy adott postaládában, olvassa el az [e-mail továbbítás beállítása](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)című témakört
+Ha egy adott postaládában szeretné engedélyezni vagy letiltani az e-mail-továbbítást, tekintse meg az [E-mail-továbbítás beállítása.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Bérlői szinten a külső továbbítás irányítását a kimenő levélszemét házirend segítségével végezheti el. A kimenő levélszemét-szűrési házirendet [itt](https://protection.office.com/antispam) ellenőrizheti a biztonsági és megfelelőségi központban, illetve a [Get-HostedOutboundSpamFilterPolicy parancs](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)segítségével.
+A bérlői szinten a külső továbbítás szabályozása a kimenő levélszemét-házirend használatával történik. A kimenő levélszemétszűrő házirendet a [](https://protection.office.com/antispam) Biztonsági és megfelelőségi központban ellenőrizheti itt, vagy a [Get-HostedOutboundSpamFilterPolicy paranccsal.](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)
 
-Ha a következőhöz hasonló hibaüzenet jelenik meg: **"550 5.7.520 hozzáférés megtagadva, a szervezet nem engedélyezi a külső továbbítást"**, győződjön meg arról, hogy a házirend úgy van konfigurálva, hogy engedélyezze a külső automatikus továbbítást.
+Ha a következő hibaüzenet jelenik meg: **"550 5.7.520 Access denied, Your organization does not allow external forwarding" (550 5.7.520 Access denied, Your** organization not allow external forwarding) (A szervezet nem engedélyezi a külső továbbítást" hibaüzenet jelenik meg, győződjön meg arról, hogy a házirend be van állítva a külső automatikus továbbítás engedélyezésére.
 
-**Megjegyzés:** Javasoljuk, hogy a külső automatikus továbbítást tiltsa le az alapértelmezett kimenő levélszemét-szűrési házirendben, és engedélyezze azt csak azoknál a felhasználóknál, akiknek külső továbbításra van szükségük, ha egyéni házirendet hoz létre a felhasználóknak. További információt a [külső e-mail-továbbítás konfigurálása az Office 365-ben című](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)témakörben talál.
+**Megjegyzés:** Azt javasoljuk, hogy az alapértelmezett levélszemétszűrő házirenden tartsa letiltva a Külső automatikus automatikus továbbítás beállítást, és csak azoknak a felhasználóknak engedélyezze, akiknek külső továbbításra van szükségük egyéni házirend létrehozásával. További információt a Külső e-mail-továbbítás konfigurálása a következőben [Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)

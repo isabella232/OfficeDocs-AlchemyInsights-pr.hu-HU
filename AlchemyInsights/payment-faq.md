@@ -14,19 +14,19 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310933"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895709"
 ---
 # <a name="payment-faq"></a>Fizetéssel kapcsolatos GYIK
 
 Fizetések kezelése a **Microsoft 365 Felügyeleti központ.**
 
-- Az **előfizetéses fizetési módok hozzárendeléséhez vagy > [a Termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** számlázása és módosítása lehetőséget.
-- A Fizetési módok > fizetési módok **[csoportban](https://go.microsoft.com/fwlink/p/?linkid=2018806)** fizetési módokat adhat hozzá, frissíthet, cserélhet vagy törölhet.
+- Az **előfizetéses fizetési módok hozzárendeléséhez vagy > [a termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** számlázásához vagy a hozzájuk való módosításhoz.
+- A Fizetési módok > fizetési módok **[között fizetési](https://go.microsoft.com/fwlink/p/?linkid=2018806)** módok hozzáadásához, frissítéséhez, cseréjéhez vagy törléséhez kattintson a Számlázás gombra.
 
 - **Fizetési módok** – ha hitelkártyával vagy bankszámlával fizet, az előfizetés(ek)hez társított fizetési mód a számla létrehozása után néhány napon belül felszámolásra kerül. Ha nem sikerül a fizetés, módosítsa a fizetési módot. További információért lásd: [Fizetési módok kezelése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
