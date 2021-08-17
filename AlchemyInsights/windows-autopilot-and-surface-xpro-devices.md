@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003909"
 - "6964"
-ms.openlocfilehash: 4124d16aa16a8a4bd24e3ae0af6a1d6237a497fe
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 7f6825d99fcfee0ca4cc60cced2be9e4f0f9e75381e9595501072eb7dfad1698
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047402"
 ---
 # <a name="windows-autopilot-and-surface-x-pro-devices"></a>Windows Autopilot és Surface X Pro eszközök
 
-A Windows Autopilot egy felhőalapú központi telepítő technológia, a Windows 10 rendszerben. A Windows Autopilot segítségével távolról is üzembe helyezheti és konfigurálhatja az eszközöket közvetlenül a dobozból. A Windows Autopilot-regisztrált eszközök az első indításkor az interneten keresztül azonosíthatók, amely hardveres ujjlenyomatként van megjelölve. Modern kezelési megoldásokkal vannak konfigurálva, például az Azure Active Directory (Azure AD) és a Microsoft Intune.
+Windows Az Autopilot egy felhőalapú telepítési technológia a Windows 10. Az Autopilot Windows használatával távolról telepítheti és konfigurálhatja az eszközöket. Windows Az autopilottal regisztrált eszközöket az interneten keresztül első indításkor azonosítjuk egy egyedi eszközaláírással, amely hardver kivonat néven ismert. Ezek modern felügyeleti megoldásokkal, például azure Azure Active Directory (Azure AD) és a Microsoft Intune.
 
-Az eszközök közvetlenül a felhasználóknak is eloszthatók. Ez a folyamat kiküszöböli a telepítés során felújítást, amely lehetővé teszi az eszközök kezelésének és terjesztésének új, agilis módszereinek megvalósítását.
+Az eszközöket közvetlenül a felhasználókhoz szállíthatja. Ez a folyamat kiküszöböli a újra képalkotást a telepítés során, amely lehetővé teszi új, Agile-módszerek implementását az eszközkezeléshez és -terjesztéshez.
 
-További információt a [Windows Autopilot és a Surface Devices](https://go.microsoft.com/fwlink/?linkid=2135712)című témakörben találhat.
+További információt az [Autopilot Windows Surface-eszközök – útmutatóban olvashat.](https://go.microsoft.com/fwlink/?linkid=2135712)

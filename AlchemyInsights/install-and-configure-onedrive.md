@@ -1,5 +1,5 @@
 ---
-title: A OneDrive telepítése és beállítása
+title: Telepítés és konfigurálás OneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078120"
 ---
-# <a name="install-and-configure-onedrive"></a>A OneDrive telepítése és beállítása
+# <a name="install-and-configure-onedrive"></a>Telepítés és konfigurálás OneDrive
 
-A OneDrive szinkronizálási ügyfélalkalmazás előre telepítve van a Windows 10 rendszerben. Ha a Windows 7 vagy a Mac rendszerhez készült OneDrive szeretné telepíteni, vagy a mobiltelefonhoz vagy a táblaszámítógéphez szeretne bejutni a mobil alkalmazásba, lépjen a következőre: [https://onedrive.com/download](https://onedrive.com/download) .
+A OneDrive szinkronizálási app ügyfélprogram elő van telepítve a Windows 10. A OneDrive 7 Windows Mac gépre való telepítéséhez, illetve a telefonra vagy táblagépre való mobilappot a következő gombra kell telepítenie: [https://onedrive.com/download](https://onedrive.com/download) .
   
-A OneDrive szinkronizálási ügyfélalkalmazás Windowsban való beállításáról a következő témakörökben tájékozódhat:
+A ügyfélprogram OneDrive szinkronizálási app az Windows:
   
-- A [OneDrive beállítási útmutatója](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) a OneDrive-tárhelyek, a megosztási, együttműködési és szinkronizálási funkciók használatba vételéhez.
+- [OneDrive útmutatót](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) a fájltárolási, OneDrive-, együttműködési és szinkronizálási funkciókkal való első lépésekhez.
 
-- [A számítógép beállítása a OneDrive vállalati verzióban tárolt fájlok szinkronizálásához](https://go.microsoft.com/fwlink/?linkid=533375)
+- [A számítógép beállítása a saját OneDrive Vállalati verzió szinkronizálása](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [SharePoint-fájlok szinkronizálása a OneDrive új szinkronizálási ügyfelével](https://go.microsoft.com/fwlink/?linkid=871666)
