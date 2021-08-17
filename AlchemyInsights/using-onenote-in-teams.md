@@ -1,5 +1,5 @@
 ---
-title: A OneNote használata a Teamsben
+title: A OneNote használata Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "5665"
-ms.openlocfilehash: 644de124e9807cee69ed9ebff46226530b3930ea
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2cc99930ea63d5705a4e0ffbaea0c4cd8f56b96121e884cd2c7d054e1136226b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073062"
 ---
-# <a name="using-onenote-in-teams"></a>A OneNote használata a Teamsben
+# <a name="using-onenote-in-teams"></a>A OneNote használata Teams
 
-Egyszerűsítheti a jegyzetelést, és egyetlen helyen tarthatja az összes jegyzetét, kutatását, terveit és információit, ha hozzáad egy vagy több OneNote lapot egy Teams-csatornához.
+Egyszerűsítheti a jegyzetelést, és egyetlen helyen tarthatja az összes jegyzetét, kutatását, terveit és információit, ha egy vagy több OneNote lapot vesz fel egy Teams csatornába.
 
-- **Jegyzetfüzet hozzáadása:** Új vagy meglévő jegyzetfüzetet [is hozzáadhat a](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) Teamshez.
-- **A OneNote-hoz való** hozzáférés kezelése: A OneNote felhasználói hozzáférését a Microsoft Teams Felügyeleti központban kezelheti. További [információért olvassa](https://docs.microsoft.com/MicrosoftTeams/manage-apps) el az alkalmazások kezelése a Microsoft Teams Felügyeleti központban című témakört.
-- **Jegyzetfüzetek helyreállítása** törölt csoportokból: Az Office 365-csoportok visszaállításához kövesse [a](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) törölt csoport és tartalma visszaállításának lépéseit.
-- **Osztályjegyzetfüzet-problémák:** Kérjük, olvassa el a [OneNote](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) frissítését és ajánlott eljárásait az oktatóknak és a diákoknak, valamint a OneNote frissítését, valamint az oktatási rendszergazdáknak ajánlott [eljárásokat.](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46)
-- Ha nem tudja használni a OneNote lapot a **Teamsben,** vagy ha a jegyzetfüzet szinkronizálási [](https://docs.microsoft.com/office365/enterprise/view-service-health) problémákat **tartalmaz,** jelentkezzen be a bérlői rendszergazdai fiókjával, és ellenőrizze a Szolgáltatás állapota irányítópulton, hogy nincs-e kimaradás vagy szolgáltatásromlás.
+- **Jegyzetfüzet hozzáadása:** Új vagy meglévő jegyzetfüzetet is hozzáadhat a [Teams.](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
+- **Hozzáférés kezelése OneNote:** A felhasználói hozzáférés a OneNote felügyeleti Microsoft Teams kezelhető. További [információt az alkalmazások kezelése a Microsoft Teams Felügyeleti központban](https://docs.microsoft.com/MicrosoftTeams/manage-apps) című témakörben olvashat.
+- **Jegyzetfüzetek helyreállítása törölt** csoportokból: A törölt csoportok visszaállításához kövesse [a](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) törölt csoport és tartalmának visszaállításához szükséges Office 365 visszaállítását.
+- **Osztályjegyzetfüzet-problémák:** [](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) Kérjük, olvassa el az OneNote és ajánlott eljárások oktatóknak és diákoknak című témakört, OneNote és ajánlott eljárásokat az oktatásban rendszergazdáknak című [témakörben.](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46)
+- Ha nem tudja használni az **Teams OneNote** lapját, vagy ha a jegyzetfüzet szinkronizálási problémákat **tartalmaz,** [](https://docs.microsoft.com/office365/enterprise/view-service-health) jelentkezzen be a bérlői rendszergazdai fiókjával, és ellenőrizze a Szolgáltatás állapota irányítópulton, hogy nincs-e kimaradás vagy szolgáltatásromlás.

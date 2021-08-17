@@ -1,5 +1,5 @@
 ---
-title: A Microsoft 365-alkalmazások nagyvállalati verzióra vonatkozó frissítések fogadásának késleltetése
+title: A frissítések fogadásának késleltetése Nagyvállalati Microsoft 365-alkalmazások
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003964"
 - "7020"
-ms.openlocfilehash: 249b28c5917121b7a3665cc2ed1ca5fb8da32bd3
-ms.sourcegitcommit: 91fb078f07e258eb19bf82cbdad4095e62bf77a1
+ms.openlocfilehash: 543abbe20a3aa24476e6a616b29a9be6e952dc116b267b965597006d9413e02c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102861"
 ---
-# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>A Microsoft 365-alkalmazások nagyvállalati verzióra vonatkozó frissítések fogadásának késleltetése
+# <a name="delay-receiving-updates-to-microsoft-365-apps-for-enterprise"></a>A frissítések fogadásának késleltetése Nagyvállalati Microsoft 365-alkalmazások
 
-Ha a Semi-Annual csatornáról szeretné késleltetni a frissítések fogadását, beállíthatja, hogy az alkalmazások ne kapják meg ezeket a frissítéseket, de továbbra is a legújabb biztonsági frissítéseket kapják.
+Ha bizonyos üzleti adatokat késleltetni kell a szolgáltatásfrissítések Semi-Annual csatornáról, beállíthatja, hogy az alkalmazások ne kapják meg ezeket a funkciófrissítéseket, de továbbra is megkapják a legújabb biztonsági frissítéseket.
 
-További információért olvassa el a [szolgáltatás frissítéseinek fogadása Semi-Annual csatornáról a Microsoft 365-alkalmazások nagyvállalatoknak](https://go.microsoft.com/fwlink/?linkid=2109533)című témakört.
+További információt a Szolgáltatásfrissítések fogadásának késleltetése a [Semi-Annual-csatornáról a Nagyvállalati Microsoft 365-alkalmazások.](https://go.microsoft.com/fwlink/?linkid=2109533)

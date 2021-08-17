@@ -1,5 +1,5 @@
 ---
-title: 744-felhasználók létrehozása, ha a szervezet hibrid üzemmódban van
+title: 744 Felhasználók létrehozása hibrid módban
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 8365e8687939e8759b5e9e0ae3b321b5e0a21c5f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce3e4698f19c882ac0034aacb3a1455973e7eeeb3bd38d4c28a0070d739405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102942"
 ---
-# <a name="create-users-in-hybrid-deployments"></a>Felhasználók létrehozása hibrid telepített példányokban
+# <a name="create-users-in-hybrid-deployments"></a>Felhasználók létrehozása hibrid telepítésben
 
-Ha szervezete hibrid telepítésű a helyszíni környezet és a Microsoft 365 között, a helyszíni Active Directoryban minden felhasználói objektumot létre kell hoznia. A felhasználói objektumokat a megfelelő szervezeti egységben (OU) kell létrehoznia, hogy szinkronizálva legyenek a szervezetében.
+Ha szervezete hibrid telepítést tartalmaz egy helyszíni környezet és egy helyszíni Microsoft 365 között, akkor az összes felhasználói objektumot létre kell hoznia a helyszíni Active Directoryban. A felhasználói objektumokat a megfelelő szervezeti egységben hozhatja létre, így azok szinkronizálódnak a szervezetbe.
