@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Defender Office 365 hozzárendelése
+title: A Microsoft Defender hozzárendelése Office 365 licenchez
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,16 +15,16 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: 517edd98ff30977b50a9634fbc274c77fe36c52eff4dc5c27b24e1d57dc7cc8e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501746"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888892"
 ---
-# <a name="assign-microsoft-defender-for-office-365-licenses"></a>A Microsoft Defender Office 365 hozzárendelése
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>A Microsoft Defender hozzárendelése Office 365 licenchez
 
-A Microsoft Defender Office 365 hozzárendelhető a felhasználókhoz a Microsoft 365 Felügyeleti központ központban.
+A Microsoft Defender Office 365 hozzá lehet rendelni a felhasználókhoz a Microsoft 365 Felügyeleti központ központban.
 
 1. Ugrás **a Számlázási**  >  [licencek csoportra.](https://go.microsoft.com/fwlink/p/?linkid=842264)
 2. Jelöljön ki egy terméket, amelynek a licenceit hozzá szeretné rendelni.
@@ -33,4 +33,4 @@ A Microsoft Defender Office 365 hozzárendelhető a felhasználókhoz a Microsof
 5. Kattintson **az Alkalmazások és szolgáltatások be-**  és kikapcsolása elemre a hozzárendeléshez vagy az eltávolításhoz.
 6. Kattintson **a Hozzárendelés,** majd a **Bezárás gombra.**
 
-További licencek vásárlásáról és licencek eltávolításáról a [Licencek vásárlása vagy eltávolítása](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) című témakörben olvashat.
+További licencek vásárlásáról és licencek eltávolításáról a [Licencek vásárlása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription) című témakörben olvashat.

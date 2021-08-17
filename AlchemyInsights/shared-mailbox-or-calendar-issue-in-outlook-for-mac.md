@@ -1,5 +1,5 @@
 ---
-title: Megosztott postaládával vagy naptárral kapcsolatos probléma a Mac Outlookban?
+title: Megosztott postaládával vagy naptárral kapcsolatban Mac Outlook?
 ms.author: supravee
 author: supravee
 manager: jackiesm
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
-ms.openlocfilehash: a53a79a2da13c9c3f9c2a8509d157e4b244a068d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 520137fe1e7de1c7da3be1684006c4211baebf76786dc2e1dea7acc91f82cc7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108198"
 ---
-# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Megosztott postaládával vagy naptárral kapcsolatos probléma a Mac Outlookban?
+# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Megosztott postaládával vagy naptárral kapcsolatban Mac Outlook?
 
-Gyorsabban tudunk segíteni, ha közvetlenül az alkalmazásból lép velünk kapcsolatba. Kérjük, látogasson el az érintett felhasználó **Mac gépére, nyissa meg az Outlookot, és kattintson a Súgó elemre \> Lépjen kapcsolatba az ügyfélszolgálattal.** 
+Gyorsabban tudunk segíteni, ha közvetlenül az alkalmazásból lép velünk kapcsolatba. Kérjük, nyissa meg az érintett felhasználó Mac gépét, nyissa meg a **Outlook, és kattintson a Súgó \> Lépjen kapcsolatba az ügyfélszolgálattal.** 
   
-Ha többet szeretne tudni a Mac Outlook appon belüli támogatásról, olvassa el a következő cikket: Új kapcsolatfelvétel az ügyfélszolgálattal funkció a [Mac Outlook 2016-ban](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Az appon belüli Mac Outlook a következő cikkben talál további információt: Új kapcsolatfelvétel az ügyfélszolgálattal a [Mac Outlook 2016](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
   
 

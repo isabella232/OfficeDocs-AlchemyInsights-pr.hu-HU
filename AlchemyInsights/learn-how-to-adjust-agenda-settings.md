@@ -1,5 +1,5 @@
 ---
-title: a 603 megtudhatja, hogy miként igazíthatja a napirend beállításait
+title: 603 A Napirend beállításainak módosítása
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 1dac3f87e47eb791add54015673fb3ba1ae0c3b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10aa9b32c50763d6d8c4a5db793204a7993a8498e5589312b54e2d02a14d7dcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054116"
 ---
-# <a name="learn-how-to-configure-agenda-settings"></a>További tudnivalók a napirendi beállítások megadásáról
+# <a name="learn-how-to-configure-agenda-settings"></a>A napirendi beállítások konfigurálása
 
-A napirendi beállítások a webes Outlook **Naptár** beállításai között találhatók. További információt a [Naptár beállításai a webes Outlookban](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f)című témakörben talál.
+A Napirend beállításai a naptár **naptárbeállítási területén** Webes Outlook. További információt a Naptárbeállítások a Naptár [nézetben Webes Outlook.](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f)
 
-A rendszergazdák a **set-CalendarNotification** parancsmagot használhatják az Exchange Online PowerShellben a napirendi beállítások megadásához. További információt a [set-CalendarNotification](https://technet.microsoft.com/library/dd351284)című témakörben talál.
+A rendszergazdák a **PowerShellben a Set-CalendarNotification** parancsmag Exchange Online meg a napirendi beállításokat. További információ: [Set-CalendarNotification](https://technet.microsoft.com/library/dd351284).

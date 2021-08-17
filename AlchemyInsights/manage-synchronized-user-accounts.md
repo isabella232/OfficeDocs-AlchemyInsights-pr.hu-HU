@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 1fe2857043434fd4b0b5723123b1fae908cd66ee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 159d993f9a54fabc4ed16791e9892bd6f2a268784e06b2c3bccdcab39544349d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802889"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054008"
 ---
 # <a name="manage-synchronized-user-accounts"></a>Szinkronizált felhasználói fiókok kezelése
 
-Általában a Microsoft 365 Felügyeleti központban lehet felhasználói fiókokat felvenni és módosítani. Nem használhatja azonban, ha engedélyezve van a címtár-sychronization vagy az SSO. Ehelyett a Felhasználói fiókok tulajdonságainak konfigurálása az [Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell )használatával leírásának megfelelően kezelje a felhasználókat a Windows PowerShell használatával. 
+A felhasználói Microsoft 365 Felügyeleti központ és módosítása. Nem használhatja azonban, ha engedélyezve van a címtár-sychronization vagy az SSO. Ehelyett a felhasználói fiók tulajdonságainak konfigurálása a PowerShell Windows PowerShell leírásának megfelelően kezelheti [Office 365 módon.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
   
 

@@ -1,5 +1,5 @@
 ---
-title: E-mail-üzenet sablonjának létrehozása
+title: E-mail-üzenetsablon létrehozása
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 284d7cbc8b140c49dae158663c560a65e17810eb
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 447a9da970a0cb2e6e8ba21cc8f46082fd85d06b1244636c28fdebc2d911531d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080568"
 ---
-# <a name="create-an-email-message-template"></a>E-mail-üzenet sablonjának létrehozása
+# <a name="create-an-email-message-template"></a>E-mail-üzenetsablon létrehozása
 
-E-mail-üzenet sablon létrehozása:
+E-mail-üzenetsablon létrehozása:
 
-1. Az Outlook asztali verziójának **Kezdőlap** lapjának **új csoportjában** kattintson az **új E-mail** gombra.
+1. Az Asztal **lap** Kezdőlap Outlook csoportjában **kattintson** az Új **e-mail elemre.**
 
-    Az e-mail-üzenetek létrehozásának billentyűparancsa: CTRL + SHIFT + M.
+    Az e-mailek billentyűparancsa a CTRL+SHIFT+M.
 
-2. Írja be a kívánt tartalmat az üzenet törzsébe.
-3. Az üzenet ablakában kattintson a **fájl** fülre.
-4. Kattintson **a Mentés másként** parancsra.
-5. A **Mentés másként** párbeszédpanel **Fájl típusa** listájában válassza az **Outlook-sablon** elemet.
-6. A **fájlnév** mezőbe írja be a sablon nevét, majd kattintson a **Mentés** gombra.
+2. Az üzenet törzsébe írja be a kívánt tartalmat.
+3. Az üzenetablakban kattintson a Fájl **fülre.**
+4. Kattintson **a Mentés másként gombra.**
+5. A Mentés **másként párbeszédpanel** Fájltípus listájában **kattintson** a Sablon **Outlook gombra.**
+6. A **Fájlnév mezőbe** írja be a sablon nevét, majd kattintson a Mentés **gombra.**
 
-Alapértelmezés szerint a sablonok a következő helyre kerülnek:
+A sablonok alapértelmezés szerint a következő helyen vannak mentve:
 
-**c:\users\username\appdata\roaming\microsoft\templates**
+**c:\felhasználók\felhasználónév\appdata\roaming\microsoft\templates**
