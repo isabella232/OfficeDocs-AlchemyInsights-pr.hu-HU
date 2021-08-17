@@ -17,12 +17,12 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 9b819fdb9ec80f6bbe9e329280de239a0517038c52ab157867f3065505acca90
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 888bac8b4ff8cf5c0ad7616cf4e87c0003e922ae89f9faf7872b94aba76f7027
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503798"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891569"
 ---
 # <a name="change-how-often-you-pay"></a>A fizetési gyakori beállítások módosítása
 
@@ -36,4 +36,4 @@ Ha módosítania kell, hogy milyen gyakran számláznak Önnek és fizessen egy 
 > [!NOTE]
 > Az egyetlen lehetőség a havi vagy az éves számlázás.
 
-További információt a [Számlázási gyakoriság módosítása](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)című témakörben talál.
+További információt a [Számlázási gyakoriság módosítása](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)című témakörben talál.

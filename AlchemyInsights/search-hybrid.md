@@ -12,18 +12,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: b7c837e1230e40077f997fcdea91fcf14e374998
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e04e1f6dd0d3be08f2698ddb907a5c58ee07e38f8403926188006f799537026
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109026"
 ---
 # <a name="search-and-hybrid"></a>Keresés és hibrid
 
-- Információra van szüksége a hibrid és az összevont keresésről a SharePoint Online-ban? Ha igen, olvassa el [ezt a cikket](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+- Szüksége van információra a hibrid és összevont keresésről a SharePoint szolgáltatásban? Ebben az esetben tekintse át [ezt a cikket.](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)
 
-- További információra van szüksége a hibrid összevont keresés megtervezéséről?  Ha igen, olvassa el [ezt a cikket](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+- Szüksége van információra a hibrid összevont keresés megtervezéséről?  Ebben az esetben tekintse át [ezt a cikket.](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Kialakulóban lévő probléma
+title: Felmerülő probléma
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34ed86c3044a0b73bc2cc94a7032b8f2c99dd643a497eadfdf3b26172c1200df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108954"
 ---
-# <a name="emerging-issue"></a>Kialakulóban lévő probléma
+# <a name="emerging-issue"></a>Felmerülő probléma
 
-Számos ügyfél kifogásolta a jelentéskészítéshez hasonló problémát. Ebben a kérdésben keresünk.
+Több ügyfél is reklamált a jelentéshez hasonló probléma miatt. Már keressük a problémát.
 
-Kérjük, ellenőrizze a [szolgáltatás állapota irányítópulton](https://admin.microsoft.com/adminportal/home#/servicehealth) , hogy naprakész maradjon az esetleges szolgáltatási incidensekre vonatkozóan.
+Kérjük, ellenőrizze [a Szolgáltatás állapota irányítópultot,](https://admin.microsoft.com/adminportal/home#/servicehealth) hogy naprakész maradjon a szolgáltatásra gyakorolt esetleges incidensekkel kapcsolatban.

@@ -1,5 +1,5 @@
 ---
-title: E-mailek keresése az archív postaládában
+title: E-mailek keresése archív postaládában
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,16 +13,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 2c1284472c147d29f5d09fb7e7541bdcec9e8520
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f88aa25642ba29dbf0673cafe4efb66678a873974cad844ae12fc35287915f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727353"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109134"
 ---
 # <a name="search-for-email-in-the-archive-mailbox"></a>E-mailek keresése az archív postaládában
 
-Ha egy archív postaláda engedélyezve van a Microsoft 365-ban, a **EDiscovery keresés és exportálás** funkcióval az elsődleges és az archív postaláda tartalmának felfedezéséhez használhatja a tartalmat. Ha tudni szeretné, hogy miként keresheti meg a tartalmat a **eDiscovery-keresés exportálásával** , kövesse az [itt](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)ismertetett lépéseket.
+Ha egy archív postaláda Microsoft 365,  az Elektronikus adatok keresése és az Exportálás funkcióval felderítheti az Elsődleges és az Archív postaláda tartalmát. Ha további információra van szükség arról, hogy **hogyan** keresheti meg az adott tartalmat az elektronikus adatfeladatokat exportálva, kövesse az itt leírt [lépéseket.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
   
-A tartalmat úgy is megtarthatja, hogy hozzáadja a postaládát egy adatmegőrzési házirendhez. Ezzel a beállítással mind az elsődleges, mind az archív postaládában tárolhatja a tartalmat. Az adatmegőrzési házirendek az e-mailek megőrzése céljából való létrehozásáról az [itt](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)ismertetett lépések című témakörben olvashat bővebben.
+Ezt a tartalmat úgy is megőrizheti, hogy hozzáadja a postaládát egy adatmegőrzési házirendhez. Ezzel a tartalom az Elsődleges és az Archív postaládában is megtartja a tartalmakat. Az adatmegőrzési házirendek az e-mailek megőrzéséhez című cikk lépéseit követve [bővebben is ismertetjük.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   
