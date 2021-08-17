@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893057"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314918"
 ---
 # <a name="billing-and-payment"></a>Számlázás és fizetés
 
@@ -46,8 +46,7 @@ Ha felvett egy új kártyát, de továbbra is elutasító értesítést kap a r�
 
 4. Meglévő fizetési mód használatához válasszon egyet a legördülő listából, majd válassza a **Csere** lehetőséget.
 
-    > [!NOTE]
-    > Ha számlázási profillal társított előfizetései vannak, csak hitelkártyával vagy bankkártyával rendezheti fizetheti a szolgáltatásokért. Ha **Fizetési módok** között szereplnek bankszámái, azok nem lesznek elérhetőek a legördülő listában.
+    **Megjegyzés:** Ha számlázási profilhoz előfizetések vannak társítva, csak hitelkártyával vagy bankkártyával fizethet számukra. Ha **Fizetési módok** között szereplnek bankszámái, azok nem lesznek elérhetőek a legördülő listában.
 
 5. Új fizetési mód hozzáadásához válassza a **Fizetési mód hozzáadása** lehetőséget.
 

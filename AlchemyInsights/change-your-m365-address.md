@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11543"
 - "9001671"
-ms.openlocfilehash: 10b8e2aba5703cb4995eed521a1d57bbf272b564
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 9428d8d5ffafb551e36a5da0b9231543143b5115404944806bed3e985aac8679
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52793847"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895269"
 ---
 # <a name="change-your-microsoft-365-address"></a>A saját Microsoft 365 módosítása
 
-A szervezet címének részleteit A szervezet címének és műszaki kapcsolattartója stb. módosításacímek között [módosíthatja.](/microsoft-365/admin/manage/change-address-contact-and-more) A társított számlázási vagy előfizetési cím módosítása a Vállalati verziós előfizetés számlázási [címének Microsoft 365 tartalmazza.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses) 
+A szervezet címének részleteit A szervezet címének és műszaki kapcsolattartója stb. módosításacímek között [módosíthatja.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more) A társított számlázási vagy előfizetési cím módosítása a Vállalati verziós előfizetés számlázási [címében Microsoft 365 címek között.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses) 
 
 **Fontos:** Nem módosíthatja az országot, régiót, adókat, számlázási pénznemet vagy az adatközpont helyét. Ha módosítani szeretné ezt az információt, elő kell írnia egy új fiókot, ki kell választania a kívánt országot vagy régiót, és új előfizetést kell vásárolnia. 

@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Edge hozzáadása a Microsoft Intune-hoz
+title: Új Microsoft Edge hozzáadása Microsoft Intune
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "8240"
 - "9004604"
-ms.openlocfilehash: d56c65910d1c2170d3e0ce9676e913663701db96
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 7cfc2279acf18a7cb6fab89befc8ef1ccc7a4be7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194510"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315126"
 ---
-# <a name="add-microsoft-edge-to-microsoft-intune"></a>A Microsoft Edge hozzáadása a Microsoft Intune-hoz
+# <a name="add-microsoft-edge-to-microsoft-intune"></a>Új Microsoft Edge hozzáadása Microsoft Intune
 
-A Windows 10 Microsoft Edge telepítésének, konfigurálásának, figyelése és védelme érdekében először hozzá kell adni a Microsoft Intune-hoz.
+Ahhoz, hogy telepítheti, konfigurálhatja, figyelheti és megvédheti Microsoft Edge a Windows 10, először hozzá kell adni a Microsoft Intune.
 
-> [!IMPORTANT]
-- Az Intune támogatja a Microsoft Edge 77-es és újabb verzióit.
-- Az Intune észlelni fogja a Microsoft Edge esetleges meglévő telepített telepítését.
-- Ha a Microsoft Edge felhasználói környezetben van telepítve, a rendszer telepítése felülírja a telepítést a felhasználói környezetben.
-- Ha a Microsoft Edge rendszerkörnyezetben van telepítve, a telepítés sikerességéről is beszámolunk.
-- Az előre telepített Microsoft Edge 77-es és újabb verziók a felhasználói környezetben található összes csatorna esetében felülíródnak a rendszerkörnyezetben telepített Microsoft Edge böngészővel.
+> **Fontos:**
+- Az Intune támogatja Microsoft Edge 77-es és újabb verziókat.
+- Az Intune észlelni fogja a meglévő telepített Microsoft Edge.
+- Ha Microsoft Edge környezetben van telepítve, a rendszer telepítése felülírja a telepítést a felhasználói környezetben.
+- Ha Microsoft Edge rendszerkörnyezetben van telepítve, a telepítés sikerességét jelenti a program.
+- Az előtelepített Microsoft Edge 77-es és újabb verziók a felhasználói környezetben az összes csatorna esetében felülíródnak a Microsoft Edge telepített verzióval a rendszerkörnyezetben.
 
-**Előfeltétel**
+**Előfeltételek**
 
 Windows 10 1709-es vagy újabb verziók
 
@@ -43,7 +43,7 @@ Windows 10 1709-es vagy újabb verziók
 4. [Jelölje ki a keresési tartomány címkéit (nem kötelező).](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
 5. [Adja hozzá az alkalmazást.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
 
-További segítségért lásd a [Hibaelhárítás témakört.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+További segítségért tekintse át a [Hibaelhárítás témakört.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
 
 
 

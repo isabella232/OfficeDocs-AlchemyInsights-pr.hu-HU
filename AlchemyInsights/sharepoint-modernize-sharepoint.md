@@ -1,5 +1,5 @@
 ---
-title: A klasszikus SharePoint-felület modernizálása
+title: A klasszikus felhasználói élmény SharePoint modernizálása
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: ede4bdc938627806bce0651d7811c5fb0ad1cdcc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a6ea80b64d98f8def1831297768a33e65d0b3891bce564385631ad01a5a2602
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085446"
 ---
-# <a name="modernize-your-classic-sharepoint-experience"></a>A klasszikus SharePoint-felület modernizálása
+# <a name="modernize-your-classic-sharepoint-experience"></a>A klasszikus felhasználói élmény SharePoint modernizálása
 
-Ha a modern kezelőfelületre szeretne váltani, tekintse át az alábbi forrásokat:
+A modern felhasználói felületre való váltáshoz tekintse át az alábbi forrásokat:
 
-- [ **Modern webhelyek** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (csoportwebhely vagy kommunikációs webhelyek) létrehozása A [SharePoint megjelenési könyvében](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) egy gyönyörű, nagy teljesítményű intranetet készíthet, amely összeköti a munkahellyel. Lásd a [példákat](https://lookbook.microsoft.com/) és a [tervezési útmutatást](https://spdesign.azurewebsites.net/).
-- [Webhelye csatlakoztatása **Microsoft 365-csoporttal** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) a Microsoft 365 együttműködésének növeléséhez.
-- A modern [felhasználói felületen megjelenített listák és tárak](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)segítségével átalakíthatja a **modern lista és a tár** felületét.
-- A **webhelyek oldalait** átalakíthatja a klasszikus **wikiből**, a **kijelzőből**és az **otthoni** lapokról a [modern ügyféloldali lapokra](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). A [SharePoint modernizációs szkennere](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) az aktuális wiki-és kijelzőlapok használati adatait jeleníti meg, amelyek megkönnyítik a lap átalakításának rangsorolását.
+- [Modern **webhelyek**](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) létrehozása (csapatwebhely vagy kommunikációs webhely). A [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) segítségével gyönyörű, hatékony intranetet építhet, amely összeköti a munkahelyet. Példákat [láthat,](https://lookbook.microsoft.com/) és útmutatást [kap a tervezéshez.](https://spdesign.azurewebsites.net/)
+- [Csatlakozás a webhelyet egy Microsoft 365 **csoportban,**](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) hogy több projektben is nagyobb Microsoft 365.
+- Alakítsa át **a listák és tárak** modern felületét úgy, hogy engedélyezi a listák és tárak modern felhasználói felületen való [megjelenését.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+- A **webhelylapokat** a klasszikus **wikiből,** **a kijelzőből** és a **kezdőlapból** [modern ügyféloldali lapokvá alakíthatja.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) A [SharePoint modernizálási szkenner](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) az aktuális wiki- és kijelzőlapok laphasználati információival segít a lapok átalakításának rangsorolásában.
 
 További információ:
 
-- A klasszikus SharePoint-felület korszerű korszerűsítésének lépésenkénti áttekintését a [klasszikus SharePoint-felület korszerűsítése](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)című témakörben találhatja meg.
-- Tekintse meg az útmutató a [modern élményhez](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)című témakört.
-- Lásd: [a klasszikus és a modern SharePoint-élmények](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).
+- A klasszikus felhasználói élmény modernizálásának lépéses áttekintését A klasszikus SharePoint modernizálása SharePoint [olvashat.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
+- Tekintse meg a [Modern felhasználói élmény útmutatóját.](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)
+- [Lásd SharePoint klasszikus és modern felhasználói élmény.](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f)

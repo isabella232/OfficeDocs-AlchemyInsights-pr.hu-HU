@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017098"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896157"
 ---
 # <a name="fix-languageip-filter-policy"></a>Nyelv-/IP-szűrő házirend kijavítás
 
-Ezt az üzenetet egy egyéni levélszemét-szűrési házirend érintette a bérlői webhelyen. A házirend áttekintéshez tegye a következőket:
+Az üzenetre az egyik levélszemét-szűrési házirend hatással volt. A házirendek áttekintéshez kövesse az alábbi lépéseket:
 
-1. Válassza a [Office 365 biztonsági & megfelelőségi központot,](https://go.microsoft.com/fwlink/p/?linkid=2077143)majd a Veszélyforrások elleni **védelem** házirend Levélszemét  >    >  [elleni központban.](https://go.microsoft.com/fwlink/?linkid=2101518)
-2. Az Egyéni **lapon** válassza az **Alapértelmezett** levélszemétszűrő házirendet vagy bármilyen más egyéni házirendet, amit esetleg létrehozott, majd válassza a Házirend szerkesztése **lehetőséget.**
-3. Bontsa ki **a Nemzetközi levélszemét** beállítást, és tekintse át a beállításokat.
+1. A Microsoft 365 Defender portálon a Házirendek szakaszban & e-mailes együttműködési házirendek & szabályok veszélyforrások elleni védelem című <https://security.microsoft.com/>  \>  \>  \>  **szakaszát.**
 
-A levélszemétszűrő házirendek konfigurálásával kapcsolatos további információkért lásd: [Egyéni levélszemétszűrő házirend-beállítások konfigurálása.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Ha közvetlenül a **Levélszemét-szűrési házirendek** lapot kell használnia, használja a <https://security.microsoft.com/antispam> következőt: .
+
+2. A **Levélszemét-szűrési** házirendek lapon jelölje ki a házirendet a házirend nevére **kattintva** ( Típus: Egyéni levélszemét-szűrési házirend vagy Név a Levélszemét-szűrési bejövő házirend **(alapértelmezett)**).  
+3. A megjelenő részleteket tartalmazó előjelben válassza a Levélszemét küszöbértéke és tulajdonságainak szerkesztése lehetőséget a Tömeges e-mail küszöbértéke **& levélszemét** tulajdonságai szakaszban. 
+4. A Megjelölés **levélszemétként** szakaszban tekintse át az Adott nyelvek **és** Az országtól **beállítást.**
+
+További információ: [Levélszemét-szűrési házirendek konfigurálása az EOP szolgáltatásban.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)
