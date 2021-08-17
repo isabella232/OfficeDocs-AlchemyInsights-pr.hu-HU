@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1dde197b08328206e19e9943a56c06d9942cbaec9c04c97a18dcc821c822ff16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042812"
 ---
 # <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Szolgáltatáskérés vagy visszajelzés küldése az alkalmazástervről
 
-Nagyra értékeljük, ha megosztja velünk gondolatait, miközben folyamatosan dolgozunk az Outlookon. *A UserVoice* egy fórum, ahol visszajelzést adhat, és szavazhat mások ötletére.  
+Nagyra értékeljük, ha megosztja velünk gondolatait, miközben folyamatosan dolgozunk a Outlook. *A UserVoice* egy fórum, ahol visszajelzést adhat, és szavazhat mások ötletére.  
 
 Ötleteket ad nekünk: 
 
-**Beállítások > súgó & visszajelzési > javaslat új funkcióra > Ötlet küldése gombra** 
+**Gépház > & súgója > a Javaslat új funkcióra > Ötlet küldése funkcióra** 
 
 **Érdekli, hogy hogyan jelenik meg a neve/e-mail-címe?**
 

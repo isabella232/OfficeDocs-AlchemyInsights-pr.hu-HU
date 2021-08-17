@@ -1,5 +1,5 @@
 ---
-title: Windows 10-es eszközök beállítása a Microsoft Intune biztonsági alaptervek segítségével
+title: Az Microsoft Intune biztonsági alapértékek használatával konfigurálhatja Windows 10 eszközöket
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004135"
 - "7211"
-ms.openlocfilehash: 24257f1ac5752df1598d08fcfdb95ee2642adfea
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: a94c6b72df3874ee80413adac86d60306175734b6ff28b2e015e05eec6f3838b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104346"
 ---
-# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Windows 10-es eszközök beállítása a Microsoft Intune biztonsági alaptervek segítségével
+# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Az Microsoft Intune biztonsági alapértékek használatával konfigurálhatja Windows 10 eszközöket
 
-Az Intune biztonsági alaptervek segítenek megvédeni a felhasználókat és az eszközöket. A biztonsági alaptervek a Windows-beállítások előre konfigurált csoportjai, amelyek a beállítások ismert csoportját és a megfelelő biztonsági csoportok által javasolt alapértelmezett értékeket alkalmazzák. Ha az Intune-ban biztonsági alapprofilokat hoz létre, több eszköz-konfigurációs profilból álló sablont hoz létre.
+Az Intune biztonsági alaptervei segítenek megvédeni a felhasználókat és az eszközöket. A biztonsági alapértékek Windows beállítások előre konfigurált csoportjai, amelyek az adott biztonsági csoportok által ajánlott ismert beállítások és alapértelmezett értékek alkalmazásával használhatók. Ha létrehoz egy alapterv biztonsági profilt az Intune-ban, olyan sablont hoz létre, amely több eszközkonfigurációs profilból áll.
 
-Ha a biztonsági alapterveket felhasználók vagy eszközök csoportjaiba telepíti, a beállítások a Windows 10 vagy újabb rendszerű eszközökön érvényesek. Például a MDM biztonsági alapterv automatikusan (1) engedélyezi a BitLocker használatát a cserélhető meghajtókon (2) az eszközök zárolásának feloldásához, és (3) letiltja az egyszerű hitelesítést. Ha egy alapértelmezett érték nem működik a környezetében, az alapterv testreszabásával alkalmazza a szükséges beállításokat.
+Amikor biztonsági alapterveket telepít felhasználók vagy eszközök csoportjain vagy eszközein, a beállításokat a rendszer az Windows 10 vagy újabb eszközökön alkalmazza. Az automatikus mobileszköz-biztonsági alapérték (1) például engedélyezi a BitLockert a cserélhető meghajtókon, (2) jelszóra van szükség az eszköz zárolásának feloldásához, és (3) letiltja az alapvető hitelesítést. Ha egy alapértelmezett érték nem működik a környezetben, testre szabhatja az alaptervet a szükséges beállítások alkalmazásához.
 
-A biztonsági alaptervek a Microsoft 365-ban is segítenek az end-to-end biztonsági munkafolyamatok létrehozásában. Az alábbi előnyök a következők:
+A biztonsági alapértékek egy végpontok közötti biztonságos munkafolyamatot is Microsoft 365. Az alábbiakban ennek néhány előnye van:
 
-- Egy biztonsági alapterv tartalmazza a biztonsági beállításokat érintő gyakorlati tanácsokat és javaslatokat. Mivel az Intune partnerei a Windows biztonsági csapata alapterveket hoz létre a csoportházirendekhez, ezek az ajánlások a Solid Orientációs és a széleskörű használatot szolgálják.
-- Ha nem biztos abban, hogy hol találja meg az Intune-t, és nem biztos abban, hogy hol találja meg a kezdést, a biztonsági alaptervek segítségével gyorsan létrehozhat és üzembe helyezhet egy biztonságos profilt.
-- Ha jelenleg egy csoportházirendet használ, akkor az Intune felügyeleti célokra való áttelepítése jóval megkönnyíti a biztonsági alaptervek használatát, mivel ezek a felhasználók a Intune szolgáltatásba kerülnek, és magukban foglalják a kezelés élvonalbeli funkcióit.
+- A biztonsági alapértékek a biztonságot befolyásoló beállításokhoz ajánlott eljárásokat és javaslatokat tartalmaznak. Mivel az Intune a Windows biztonsági csapatával, amely alapértékeket hoz létre a csoportházirendek számára, ezek a javaslatok megbízható útmutatáson és kiterjedt tapasztalaton alapulnak.
+- Ha ön az Intune új felhasználója, és nem tudja, hol kezdje, akkor a biztonsági alapértékek segítségével gyorsan létrehozhat és üzembe helyezhet egy biztonságos profilt.
+- Ha jelenleg csoportházirendet használ, akkor a biztonsági alapértékekkel sokkal egyszerűbb az Intune-ra való áttelepítés, mivel ezek beépítve vannak az Intune-ba, és élvonalbeli funkciókat tartalmaznak a kezeléshez.
 
-További információt a [Windows biztonsági alaptervek](https://go.microsoft.com/fwlink/?linkid=2141503) és a [mobileszköz-kezelés](https://go.microsoft.com/fwlink/?linkid=2141701)című témakörben találhat.
+További információt a [](https://go.microsoft.com/fwlink/?linkid=2141503) Biztonsági alapértékek Windows mobileszköz-kezelés [– útmutatóban olvashat.](https://go.microsoft.com/fwlink/?linkid=2141701)

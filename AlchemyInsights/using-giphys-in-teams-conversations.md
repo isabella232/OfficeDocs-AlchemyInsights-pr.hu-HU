@@ -1,5 +1,5 @@
 ---
-title: A Giphyk használata a Teams-beszélgetésekben
+title: Giphy-k használata Teams beszélgetésekben
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982507"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104310"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>A Giphyk használata a Teams-beszélgetésekben
+# <a name="using-giphys-in-teams-conversations"></a>Giphy-k használata Teams beszélgetésekben
 
-Alapértelmezés szerint engedélyezve van a giphyk elérése a Teams-csevegésben. Rendszergazdaként beállíthatja, hogy a Giphyk a felhasználók számára elérhetők-e az [üzenetküldési házirend megadásával](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) , illetve **a** **giphyk használata a beszélgetésekben funkció használata** esetén.
+A Giphys hozzáférés Teams a csevegés alapértelmezés szerint engedélyezve van. Rendszergazdaként egy üzenetkezelési házirend beállításával szabályozhatja, hogy [a](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) Giphy-k elérhetők-e a felhasználóknak, és hogy a **Giphy-k** használata a beszélgetésekben be van-e **va.**
 
-Ha a Teams-beszélgetések során a GIF-ek nem a várt módon működnek, ellenőrizze az alábbiakat:
+Ha a GIF-fájlok nem a várt módon működnek a Teams, ellenőrizze a következőt:
 
-Az [üzenetküldési házirendnek](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) engedélyeznie kell a giphyk. A PowerShell-parancsmagok használatával való ellenőrzéshez:
+Az [üzenetkezelési házirendnek engedélyeznie](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kell a Giphy-k funkcióját. Ellenőrzés PowerShell-parancsmagok használatával:
 
-- Ellenőrizze, hogy [a PowerShell segítségével kezelheti-e a csoportokat](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
-- Futtassa a PowerShell parancs [Get-CsTeamsMessagingPolicy-identitás globális azonosítóját](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) , és ellenőrizze, hogy a **AllowGiphy** értéke **true**.
-- Ha a **AllowGiphy** értéke **hamis** , akkor futtassa a következő PowerShell [-CsTeamsMessagingPolicy-identitás globális-AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- Ellenőrizze, hogy a [PowerShell-Teams tudja-e kezelni a webhelyet.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell)
+- Futtassa a [PowerShell-parancsot Get-CsTeamsMessagingPolicy -Identity Global,](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) és ellenőrizze, hogy az **AllowGiphy** beállítás **IGAZ-e.**
+- Ha **az AllowGiphy** beállítás **HAMIS,** futtassa a Következő PowerShell-parancsot: [Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True.](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps)
 
-A Giphy URL-címéhez való hozzáférés engedélyezéséhez engedélyezni kell a [választható kapcsolati élményeket](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) .
+[A nem kötelező kapcsolt](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) élményeket engedélyezni kell a Giphy URL-cím eléréséhez.
 
 > [!NOTE]
-> Ha több Teams-üzenetküldési házirendet állított be a bérlői fiókhoz, az érintett felhasználóhoz rendelt házirend identitását határozhatja meg a PowerShell parancs [Get-CsOnlineUser-Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Válassza a TeamsMessagingPolicy lehetőséget.
+> Ha több Teams üzenetküldési házirend van beállítva a bérlőjéhez, a [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) parancs PowerShell-parancsával megállapíthatja az érintett felhasználóhoz rendelt házirend <user@domain.com> | Válassza a TeamsMessagingPolicy lehetőséget.

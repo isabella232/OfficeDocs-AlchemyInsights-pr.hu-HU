@@ -1,5 +1,5 @@
 ---
-title: Felhasználói profilok kezelése a ás-ban
+title: Felhasználói profilok kezelése a Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 04/21/2020
@@ -9,28 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 38f209e37ff8a5694ae59f7b7b85e1d439d88a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bcd7b20d847492d1f516878fd52dc2a6798b6b2afa90edea8eb4e460834a4eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811815"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042200"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Felhasználói profilok kezelése a ás-ban
+# <a name="manage-user-profiles-in-delve"></a>Felhasználói profilok kezelése a Delve
 
-Az Office ás segítségével a felhasználók kezelhetik felhasználói profiljaikat. A felhasználók a következőket használhatják:
+Office Delve a felhasználók kezelhetik a felhasználói profiljukat. A felhasználók:
   
-- Az adatok megtekintése és frissítése
+- Információk megtekintése és frissítése
     
-- Információk magánjellegűvé tétele
+- Bizonyos információk privátként
     
-- Profiljának vagy fedőlapjának módosítása
+- Profil- vagy borítókép módosítása
     
-- A ás nyelvének és időformátumának módosítása
+- Az e-Delve nyelvének és időformátumának Delve
     
 > [!NOTE]
-> Ha egy felhasználó frissítette a profilja képét, és a módosítás nem jelenik meg a SharePointban vagy a OneDrive, kérje meg őket, hogy nyisson meg egy böngészőt, nyissa meg a [Office.com](https://www.office.com), bejelentkezés a munkahelyi vagy iskolai fiókjával, majd kattintson a OneDrive vagy a SharePoint csempére. Ekkor a program megkérdezi a szinkronizálni kívánt képet. Előfordulhat, hogy a felhasználónak el kell végeznie a fenti lépések elvégzését a böngészője privát verziójával. 
+> Ha egy felhasználó frissítette a profilképét, és a módosítás nem jelenik meg az SharePoint-ban vagy az OneDrive-ban, kérje meg, hogy nyisson meg egy webböngészőt, nyissa meg a [Office.com](https://www.office.com)webhelyet, jelentkezzen be a munkahelyi vagy iskolai fiókjával, majd kattintson a OneDrive vagy az SharePoint csempére. Ez kérni fogja a profilkép szinkronizálását. Előfordulhat, hogy a felhasználónak a böngésző privát verziójával kell próbálkozni a lépések elvégzésével. 
   
-[További tudnivalók a profiloknak a ás verzióban való frissítéséről](https://go.microsoft.com/fwlink/?linkid=735070)
+[További információ a profilok frissítéséről a Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 
