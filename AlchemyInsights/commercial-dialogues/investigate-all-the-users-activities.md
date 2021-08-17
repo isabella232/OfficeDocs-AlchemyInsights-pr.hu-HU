@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949389"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898798"
 ---
 # <a name="investigate-all-the-users-activities"></a>A felhasználók összes tevékenységének kivizsgálása
 
 Ehhez tegye a következőt:
 
-1. Menjen a [Biztonsági & megfelelőségi központba.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Válassza **a Keresés**  >  **[naplókeresés lehetőséget.](https://go.microsoft.com/fwlink/?linkid=2103759)**
+1. Az alábbi műveletek közül választhat:
+   - A Microsoft 365 Megfelelőségi központ a <https://compliance.microsoft.com> Megoldásvizsgálat  \> **hoz.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://compliance.microsoft.com/auditlogsearch> használja: .
+   - A (Microsoft 365 Defender) portálon a <https://security.microsoft.com> Audit **(Naplózás) stb.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://security.microsoft.com/auditlogsearch> használja: .
+
     > [!NOTE]
     > Ha egy figyelmeztetést lát, amely szerint be kell kapcsolnia a funkciót, nyugodtan bekapcsolhatja most. Ha a funkció nincs bekapcsolva, a keresési eredmények nem tudnak adatokat lekért a korábbi dátumokhoz.
 
-1. Ha egy adott tevékenységre kíváncsi, válassza ki azt a Tevékenységek **listában.** Ha nem, a rendszer alapértelmezés szerint az összes tevékenységet visszaadja a kijelölt felhasználónak.
-1. Adja meg a dátumtartományt, majd a Felhasználók mezőben válassza ki a vizsgálni kívánt felhasználó felhasználónevét.  Egyszerre több felhasználót is kijelölhet.
-1. Kattintson a **Keresés gombra.** A tevékenységek az Eredmények alatt **jelennek meg.** Itt látható az IP-cím, a felhasználó és a tevékenység neve.
-1. Az eredmények letöltéséhez válassza az **Eredmények exportálása lehetőséget.**
-1. A részletek áttekintéséhez jelölje ki a tevékenységet, majd bontsa ki a **További információ lehetőséget.**
+2. A Naplózás **lap** Keresés **lapján** adja meg az alábbi beállításokat:
+   - **Dátum- és időtartomány:** Válassza ki a dátum-/időtartományt a **Kezdő** és a **Záró** mezőben.
+   - **Tevékenységek:** Ha egy adott tevékenység érdekli, válassza ki azt a listából; ellenkező esetben az Összes **tevékenység** eredményének megjelenítése alapértelmezett érték az összes tevékenységet visszaadja.
+   - **Felhasználók:** Fogadja el az üres alapértelmezett értéket, és adja meg az összes felhasználó találatát, vagy adjon meg egy vagy több felhasználót.
 
-További információt a Gyakori esetek keresése [a naplóban témakörben olvashat.](https://go.microsoft.com/fwlink/?linkid=2103944)
+3. Ha végzett, kattintson a Keresés **gombra.** A tevékenységek az új Naplókeresés **lapon jelennek** meg. Itt látható az **IP-cím, a** **Felhasználó** és **a Tevékenység** neve.
+
+4. Az eredmények letöltéséhez válassza **Az összes eredmény** letöltése \> **lehetőséget.**
+
+5. Jelöljön ki egy tevékenységet az eredmények között a részleteket tartalmazó úszó panel megnyitásához.
+
+További információért olvassa el a Keresés a naplóban a [gyakori támogatási problémák vizsgálatához.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

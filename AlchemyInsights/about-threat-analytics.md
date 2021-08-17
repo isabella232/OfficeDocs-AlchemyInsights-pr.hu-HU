@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 844f595033b3a7ea87d8224e1a75c4b135d790fad21ad43e35784b951f312cc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1bbf1e95a244502feaa1247cdc5a58c80d116e388caf18b732d6ba0b85039418
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53955716"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889436"
 ---
 # <a name="about-threat-analytics"></a>A veszélyforrás-elemzésről
 
-A Veszélyelemzés a Microsoft terméken keresztüli veszélyforrás-felderítési megoldása, amely a Microsoft biztonsággal foglalkozó szakértőitől származó. A biztonsági csoportok a lehető leghatékonyabban segítik a biztonsági csoportokat a felmerülő veszélyforrások elleni védelemben, beleértve az aktív veszélyforrások veszélyforrásait és kampányait, népszerű és új támadási technikákat, a kritikus biztonsági réseket, a gyakori támadásifelületeket és a kártevők elterjedtségét. Az egységes biztonsági élmény részeként a veszélyforrás-elemzés elérhető az Microsoft 365 Defender-előfizetők és a Microsoft Defender az végponthoz és a Microsoft Defender az Office E5-licenctulajdonosok számára. 
+A Veszélyelemzés a Microsoft terméken keresztüli veszélyforrás-felderítési megoldása, amely a Microsoft biztonsággal foglalkozó szakértőitől származó. A biztonsági csoportok a lehető leghatékonyabban segítik a biztonsági csoportokat a felmerülő veszélyforrások elleni védelemben, beleértve az aktív veszélyforrás-veszélyforrások és kampányaik, népszerű és új támadási technikák, kritikus biztonsági rések, gyakori támadásifelületek és elterjedt kártevők elleni védelmet. Az egységes biztonsági élmény részeként a veszélyforrás-elemzés elérhető az Microsoft 365 Defender előfizetők és a Microsoft Defender az végponthoz és a Microsoft Defender az E5 Office esetén. 
 
-További információt a Nyomon követése és [megválaszolás a felmerülő fenyegetésekkel kapcsolatban.](/microsoft-365/security/defender/threat-analytics)
+További információt a Nyomon követése és [megválaszolás a felmerülő fenyegetésekkel kapcsolatban.](https://docs.microsoft.com/microsoft-365/security/defender/threat-analytics)
 
-Ha Ön egy új felhasználó Microsoft 365 Defender, akár a terméket értékeli, akár teljes licenccel rendelkezik, bármikor elérheti a veszélyforrás-elemzési és veszélyforrás-jelentéseket. 
+Ha Ön egy Microsoft 365 Defender, akár a terméket értékeli, akár teljes licenccel rendelkezik, bármikor elérheti a veszélyforrás-elemzési és veszélyforrás-jelentéseket. 

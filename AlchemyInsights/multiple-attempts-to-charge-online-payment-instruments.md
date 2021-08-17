@@ -16,21 +16,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 01048236f5278d9c0c866e64b2f01e221f9e12d530b795467c638387b111d85e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: d65e2d4404ec6bfceb653c4f04deb7529c056cc746e9fefb113cdc1fd16261b1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502718"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889764"
 ---
 # <a name="past-due-account"></a>Fiókon túli?
 
-A fizetés több okból is elutasítható, többek között annak érdekében, hogy a hitelkártya lejárt. A **Fizetés most** funkcióval bármikor megváltoztathatja hitelkártyaadatait, és azonnal ismét elküldheti a befizetést.
+A fizetés több okból is elutasítható, például ha lejárt a hitelkártya. A **Fizetés most** funkcióval bármikor megváltoztathatja hitelkártyaadatait, és azonnal ismét elküldheti a befizetést.
 
-1. A Felügyeleti központban a Számlázás és termékek > **[központban & adatokat.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. A felügyeleti központban a Számlázás és termékek **> [központban & adatokat.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 Keresse meg a rendezetlen egyenleget mutató előfizetést. A Számlázás **szakaszban** az **Előfizetéshez** tartozása van mellett, kattintson az **Egyenleg** kifizetése elemre a teljes tartozás kifizetéséhez.
-2. Ha a hitelkártya az Ön tulajdonában van, módosíthatja a lejárat dátumát, másik kártyát választhat, vagy új [kártyát adhat hozzá.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
-3. Ha nem Ön a hitelkártya az Ön tulajdona, választhat másik hitelkártyát, vagy felvehet [egy új kártyát.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+2. Ha a hitelkártya az Ön tulajdonában van, módosíthatja a lejárat dátumát, másik kártyát választhat, vagy új [kártyát adhat hozzá.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+3. Ha nem Ön a hitelkártya az Ön tulajdona, választhat másik hitelkártyát, vagy felvehet [egy új kártyát.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 4. Miután befejezte a módosításokat, kattintson a Mentés **gombra.**
 
-**Megjegyzés:** A fizetés után előfordulhat, hogy a múltbeli határidőről szóló értesítés még látható marad rövid ideig. Várjon legalább **48 órát, mielőtt** az ügyfélszolgálathoz lép.
+**Megjegyzés:** A fizetést követően előfordulhat, hogy a múltbeli határidőről szóló értesítés még látható marad rövid ideig. Várjon legalább **48 órát, mielőtt** az ügyfélszolgálathoz forduljon.

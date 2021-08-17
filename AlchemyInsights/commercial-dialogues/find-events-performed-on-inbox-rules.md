@@ -13,30 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 626bd7515270f03e1560a3ed637e7bc60b374c5525527205d5f6775e4758f07a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14a5a18bc1422572db567c9533fefe5a7e0120afd64df4a64623038cc063ce93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882637"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058652"
 ---
 # <a name="find-events-performed-on-inbox-rules"></a>A beérkezett üzenetekre vonatkozó szabályokon végrehajtott események megkeresése
 
 A beérkezett üzenetekre vonatkozó szabályok létrehozásakor, létrehozásakor, illetve törlésekor a program rögzíti az eseményeket a naplóban. Ezeket a következőt kell áttekinteni:
 
-1. Az alábbi műveletek közül választhat:
-   - A Microsoft 365 Megfelelőségi központ a <https://compliance.microsoft.com> Megoldásvizsgálat  \> **hoz.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://compliance.microsoft.com/auditlogsearch> használja: .
-   - A (Microsoft 365 Defender) portálon a <https://security.microsoft.com> Audit **(Naplózás) stb.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://security.microsoft.com/auditlogsearch> használja: .
+1. A biztonsági Office 365 [megfelelőségi & meg.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Válassza a Keresés > Naplókeresés lehetőséget.
 
     > [!NOTE]
     > Ha egy figyelmeztetést lát, amely szerint be kell kapcsolnia a naplózást, nyugodtan bekapcsolhatja most. Ha ez a funkció nincs bekapcsolva, a keresési eredmények nem tudnak adatokat bekeresni a korábbi dátumok adataiból.
+1. Jelölje ki a Tevékenységek mezőt, Exchange a postaláda-tevékenységeket, majd válassza New-InboxRule Levelezési szabály létrehozása a Outlook Web App. Amikor végzett, kattintson az ablaktáblán kívülre a Tevékenységek ablaktábla kis méretűvé állításhoz.
+1. Adja meg a dátumtartományt, majd a Felhasználók mezőben válassza ki a vizsgálni kívánt felhasználó felhasználónevét. Egyszerre több felhasználót is kijelölhet.
+1. Válassza a Keresés lehetőséget. A tevékenységek az Eredmények alatt jelennek meg.
+1. A részletek megtekintéséhez jelöljön ki egy tevékenységet, majd válassza a További információ lehetőséget. A Parameters (Paraméterek) szakaszban láthatja a szabály nevét, a beállított feltételeket és a szabály által végre fog venni műveleteket.
 
-2. A Naplózás **lap** Keresés **lapján** adja meg az alábbi beállításokat:
-   - **Dátum- és időtartomány:** Válassza ki a dátum-/időtartományt a **Kezdő** és a **Záró** mezőben.
-   - **Tevékenységek:** Válassza **a Beérkezett üzenetek** szabály létrehozása lehetőséget a Outlook Web App
-
-3. Ha végzett, kattintson a Keresés **gombra.** A tevékenységek az új Naplókeresés **lapon jelennek** meg.
-
-4. Jelöljön ki egy tevékenységet az eredmények között a részleteket tartalmazó úszó panel megnyitásához. A Parameters **(Paraméterek)** szakaszban láthatja a szabály nevét, a beállított feltételeket, valamint a szabály által végretért műveleteket.
-
-További információért olvassa el a Keresés a naplóban a [gyakori támogatási problémák vizsgálatához.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
+További információt a Keresés a naplóban Office 365 gyakori esetek elhárításához.

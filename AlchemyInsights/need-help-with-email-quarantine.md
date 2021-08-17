@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: f094d5fec9c85a7db0a3757177c3866f25e7b2227b05a41bcd554b1dda092517
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bc10199fe98460f55519e56dbacd7d49f09df89be6d677c4fe2b6b95f529e26d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54077394"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889728"
 ---
 # <a name="need-help-with-email-quarantine"></a>Segítségre van szüksége az e-mail-karanténnal kapcsolatban?
 
-- Ha **meg szeretné tekinteni, és fel szeretné szabadítani az e-maileket a karanténból**, keresse meg a [Karantén lapot az Office 365 Biztonsági és megfelelőségi központban](https://protection.office.com/quarantine). Részletes útmutatást [itt talál](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
-- Ha az üzenetet **tévesen karanténba helyezte (hamis riasztás)**, kattintson az „Üzenetek bejelentése a Microsoftnak elemzés céljából” lehetőségre, miután megtalálta az üzenetet a Karantén lapon kijelölve. 
-- A „Karanténba helyezés oka” mezőben keresse meg **az üzenet karanténba helyezésének okát**.
-- **Hiányzó e-mailek a karanténban?** Egyes karanténba helyezett e-maileket nem szabadíthatnak fel a végfelhasználók. Ezek valószínűleg olyan üzenetek, amelyet vélhetően adathalász e-mailként, kártevőként vagy átviteli műveletként soroltak be. A rendszergazdák [megtekinthetik, felszabadíthatják vagy törölhetik ezeket az üzeneteket](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide). 
+- Ha végfelhasználóként karanténba helyezi az **e-maileket,** tekintse meg és engedje fel az e-maileket a Microsoft 365 Defender portál Karantén lapján, a **Karantén** áttekintése vagy közvetlenül a következő  \>  <https://security.microsoft.com/quarantine> webhelyen: . Részletes utasításokért lásd: [Karanténba helyezett üzenetek megtekintése.](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user#view-your-quarantined-messages)
+- Ha az üzenetet tévesen karanténba helyezte **(tévesen** pozitív), jelölje ki az üzenetet a listában, és kattintson az Üzenetek jelentése a **Microsoftnak elemzésre elemre.**
+- Keresse meg **az üzenet karanténba helyező** okát a Karantén **ok mezőjében.**
+- **Hiányzik egy e-mail a karanténból?** Egyes karanténba helyezett e-maileket a végfelhasználók nem tudnak megtekinteni vagy kiadva. Ezek valószínűleg olyan üzenetek, amelyek nagy megbízhatóságú adathalászatként, kártevőként vagy egy e-mail-forgalom szabályának (más néven átviteli szabálynak) minősülnek. A rendszergazdák megtekinthetik, feladhatjak és törölhetik ezeket az üzeneteket. További információ: Karanténba helyezett üzenetek és fájlok kezelése [rendszergazdaként az EOP-ban.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
