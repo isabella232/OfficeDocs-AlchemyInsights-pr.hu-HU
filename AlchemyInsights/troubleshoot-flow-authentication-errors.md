@@ -1,5 +1,5 @@
 ---
-title: Folyamat-hitelesítési hibák elhárítása
+title: Hitelesítési Flow hibaelhárítása
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: 3c4ad806ed446803d8c1e0ba17b3a06d591985d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e56325a2ff49e46779f0389592f8b429f38e66a9a8b74c1e84742768ce25437
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105822"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>Folyamat-hitelesítési hibák elhárítása
+# <a name="troubleshoot-flow-authentication-errors"></a>Hitelesítési Flow hibaelhárítása
 
-A tranzakciók sok esetben sikertelenek, mert hitelesítési hiba történt. Ha ilyen típusú hibaüzenetet kap, a hibaüzenet a "nem engedélyezett" vagy az 401 vagy az 403 hibakódot tartalmazza. A kapcsolat frissítésével általában kijavíthatja a hitelesítési hibát:
+A folyamatok számos esetben sikertelenek, ha hitelesítési hiba történik. Ha ilyen típusú hibát kap, a hibaüzenet a "Nem engedélyezett" hibaüzenetet tartalmazza, vagy megjelenik a 401-es vagy a 403-as hibakód. A kapcsolat frissítésével általában kijavíthat egy hitelesítési hibát:
   
-1. A webes portál tetején kattintson vagy koppintson a fogaskerék ikonra a beállítások menü megnyitásához, majd kattintson vagy koppintson a **kapcsolatok**elemre.
+1. A webes portál tetején a fogaskerék ikonra kattintva vagy koppintva nyissa meg a Gépház, majd kattintson vagy koppintson a Kapcsolatok **elemre.**
     
-2. Lépjen arra a kapcsolatra, amelyhez a jogosulatlan hibaüzenetet látta.
+2. Görgessen ahhoz a kapcsolathoz, amelyhez a Nem engedélyezett hibaüzenetet láthatta.
     
-3. Kattintson vagy koppintson a kapcsolat melletti **jelszó ellenőrzése** hivatkozásra abban az üzenetben, amelyre a kapcsolat nincs hitelesítve. 
+3. A kapcsolat mellett kattintson vagy  koppintson a Jelszó ellenőrzése hivatkozásra az üzenetben arról, hogy a kapcsolat nincs hitelesítve. 
     
-4. A megjelenő utasításokat követve igazolja a hitelesítő adatait, térjen vissza az átfolyási hibára, majd kattintson vagy koppintson a **Küldés**gombra.
+4. A megjelenő utasításokat követve ellenőrizze a hitelesítő adatokat, térjen vissza a folyamat folyamatának sikertelenségéhez, majd kattintson vagy koppintson az Újrak végül **gombra.**
     
-További segítségért olvassa el [a folyamat hibaelhárítása](https://go.microsoft.com/fwlink/?linkid=872110)című témakört.
+További segítségért lásd: [Folyamat hibaelhárítása](https://go.microsoft.com/fwlink/?linkid=872110).
   
 

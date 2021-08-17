@@ -1,5 +1,5 @@
 ---
-title: Folyamatábra létrehozása
+title: Folyamat létrehozása
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 38c62c3554b00233e9520e107b2f8a1cc1956b7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d519d7e61b886b327292b5b63fe0398451e991b4a7bd84e81c9fac5cdb47fc0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044378"
 ---
-# <a name="microsoft-flow"></a>Microsoft flow
+# <a name="microsoft-flow"></a>Microsoft Flow
 
-A Microsoft flow segítségével automatizálhatja a gyakori műveleteket. Segítségével munkafolyamatokat állíthat be a listákhoz és tárakhoz. Ha meg szeretné tudni, hogy miként vehet fel adatfolyamot egy listához vagy tárhoz a SharePoint Online-ban vagy a OneDrive, olvassa el az [adatfolyam létrehozása](https://go.microsoft.com/fwlink/?linkid=869408)című témakört.
+Microsoft Flow automatizálhatja a gyakori feladatokat. Segítségével listákhoz és tárakhoz állíthat be munkafolyamatokat. Ha tudni szeretne arról, hogy miként adhat hozzá folyamatot egy listához vagy tárhoz a SharePoint online vagy OneDrive, olvassa el a Folyamat [létrehozása OneDrive.](https://go.microsoft.com/fwlink/?linkid=869408)
   
-[Videók a Microsoft flow-ról](https://go.microsoft.com/fwlink/?linkid=864641)
+[Videók a Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[A Microsoft flow webhelye](https://go.microsoft.com/fwlink/?linkid=864642)
+[Microsoft Flow webhely](https://go.microsoft.com/fwlink/?linkid=864642)
   
 

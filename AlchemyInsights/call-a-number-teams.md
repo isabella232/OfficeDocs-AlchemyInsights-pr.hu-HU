@@ -1,5 +1,5 @@
 ---
-title: Telefonszám felhívása a Teams-ban
+title: Telefonszám hívása a Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "6661"
 - "9003561"
-ms.openlocfilehash: 2ee43145f8ff5e23a02167a3d758b24153878374
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 75b5d22db01020281697f38d0b7f021f8a280c3389a9e61e1b69d9b002cb8d6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046034"
 ---
-# <a name="call-a-phone-number-in-teams"></a>Telefonszám felhívása a Teams-ban
+# <a name="call-a-phone-number-in-teams"></a>Telefonszám hívása a Teams
 
-Válassza a  **hívások**lehetőséget, válassza a  **szám tárcsázása**lehetőséget, és a tárcsázó segítségével adja meg a számot. Kattintson a  **hívás**gombra.
+Válassza a  **Hívások** lehetőséget, válassza  **a Szám tárcsázási lehetőséget,** és írja be a számot a tárcsázó segítségével. Ezután kattintson a **Hívás elemre.**
 
-Ha nem látható a szám tárcsázására szolgáló beállítás, előfordulhat, hogy a szervezete nem vásárolt hívási csomagot. A csoportokban azonban más személyeknek is lehet hívásokat kezdeményezni.  
+Ha nem látja a szám tárcsázási lehetőséget, előfordulhat, hogy a szervezet nem vásárolt hívási tervet. A hívásokat azonban továbbra is kezdeményezheti a Teams.  
 
-További információt [a telefonszám felhívása a Teams programból](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078)című témakörben talál.
+További információt a [Telefonszám felhívása a telefonszámról a](https://support.microsoft.com/office/20d24ace-2851-4c29-8441-30dd2a5cf078)Teams.

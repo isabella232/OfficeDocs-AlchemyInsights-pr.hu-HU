@@ -1,5 +1,5 @@
 ---
-title: Segítségre van szüksége a Microsoft 365 Vállalati prémium verziós hangkomóhoz?
+title: Segítségre van szüksége a Microsoft 365 Vállalati prémium verzió hanggal?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 014752ac52038c2e49d7d440d17c6f24ce10102d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0f8b02eb71adf56fe221d9ae7e9ace4c3566da0bdc03a93698746e938a36a283
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077256"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Segítségre van szüksége a Microsoft 365 Vállalati prémium verziós hangkomóhoz?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Segítségre van szüksége a Microsoft 365 Vállalati prémium verzió hanggal?
 
-A Microsoft 365 Business Premium Voice segítségével a kis- és középvállalatok könnyedén sokoldalú és rugalmas telefonrendszert kínálnak a Microsoft Teamsnek. A Business Voice szolgáltatásról a Mi [a Microsoft 365 Vállalati prémium verziós hangkomóra?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Vállalati prémium verzió A Hang segítségével a kis- és középvállalatok könnyedén Microsoft Teams sokoldalú és rugalmas telefonrendszerbe. A Vállalati hangkomutasításról további információt a Mi az Microsoft 365 Vállalati prémium verzió [Hang?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Ha már beszerezte a Microsoft 365 [](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) Vállalati prémium verziós hangkomutasítást, az Első lépések varázsló segítséget ad az első lépésekhez. 
+Ha már beszerezte az Microsoft 365 Vállalati prémium verzió Voice, az Első lépések varázsló segíthet a lépésekben. [](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) 
