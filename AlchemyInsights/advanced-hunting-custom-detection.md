@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 8520cf14a937dbf83a5ebb8be86111dcd183fd4cfc59248fa0ec3a1e2685714f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 17bee943a0a8e607758bafa0c42bf6580b858952c447c403207bebfba9d8d243
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952287"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882797"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Speciális keresési egyéni észlelések
 
-Megtudhatja, hogy miként hozhat létre és kezelhet egyéni észlelési szabályokat speciális keresési lekérdezések alapján. Az egyéni észlelésekkel proaktívan figyelheti a különféle eseményeket és rendszer államokat, beleértve a visszaélésgyanús tevékenységeket és a helytelenül konfigurált eszközöket. Ezt testre szabható észlelési szabályokkal is meg lehet tenni, amelyek automatikusan riasztásokat és válaszműveleteket indítnak el
+Megtudhatja, hogy miként hozhat létre és kezelhet egyéni észlelési szabályokat speciális keresési lekérdezések alapján. Az egyéni észlelésekkel proaktívan figyelheti a különféle eseményeket és rendszer államokat, beleértve a visszaélésgyanús tevékenységeket és a hibásan konfigurált eszközöket. Ezt testre szabható észlelési szabályokkal lehet megtenni, amelyek automatikusan riasztásokat és válaszműveleteket indítnak el
   
 A Microsoft Defender ATP használata esetén az alábbi témakörökben talál további részleteket: 
-- [Egyéni észlelések áttekintése](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Egyéni észlelési szabályok létrehozása](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Egyéni észlelési szabályok megtekintése és kezelése](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+- [Egyéni észlelések áttekintése](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Egyéni észlelési szabályok létrehozása](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Egyéni észlelési szabályok megtekintése és kezelése](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Ha használja a Microsoft 365 Defender, az alábbi témakörökben talál további részleteket: 
-- [Egyéni észlelések áttekintése](/microsoft-365/security/mtp/custom-detections-overview)
-- [Egyéni észlelési szabályok létrehozása és kezelése](/microsoft-365/security/mtp/custom-detection-rules)
+Ha az e-Microsoft 365 Defender, az alábbi témakörökben talál további részleteket: 
+- [Egyéni észlelések áttekintése](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
+- [Egyéni észlelési szabályok létrehozása és kezelése](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

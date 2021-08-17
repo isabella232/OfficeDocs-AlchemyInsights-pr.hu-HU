@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: ccd55ee4452efa279b6f936151e2fdce6921b922
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569749"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883053"
 ---
 # <a name="admin-password-reset"></a>Új rendszergazdai jelszó kérése
 
@@ -29,4 +29,4 @@ ms.locfileid: "52569749"
 
 - Jelszavát alaphelyzetbe állíthatja egy másik rendszergazda a **Felhasználók > [Aktív felhasználók](https://portal.office.com/adminportal/home#/users)** elemből; jelölje ki a fiókot, majd kattintson a kulcs ikonra.  Vagy gyorsítótárazott hitelesítő adatok esetén [létrehozhat egy új rendszergazdai fiókot](https://portal.office.com/adminportal/home#/users), bejelentkezhet az adott fiókkal, majd alaphelyzetbe állíthatja a saját rendszergazdai jelszavát.
 
-A jelszóval alaphelyzetbe állításával kapcsolatos további forgatókönyvekért próbálja meg [alaphelyzetbe állítani az Office 365 vállalati jelszavait](/microsoft-365/admin/add-users/reset-passwords), vagy nyisson támogatási esetet, hogy segítséget kérjen.
+A jelszóval alaphelyzetbe állításával kapcsolatos további forgatókönyvekért próbálja meg [alaphelyzetbe állítani az Office 365 vállalati jelszavait](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), vagy nyisson támogatási esetet, hogy segítséget kérjen.

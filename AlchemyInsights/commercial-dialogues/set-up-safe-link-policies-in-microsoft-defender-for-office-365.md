@@ -1,5 +1,5 @@
 ---
-title: Hivatkozási Széf beállítása a Microsoft Defender Office 365
+title: Hivatkozási házirendek Széf Microsoft Defender for Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070362"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882569"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Hivatkozási Széf beállítása a Microsoft Defender Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Hivatkozási házirendek Széf Microsoft Defender for Office 365
 
-A Microsoft Defender Széf a Microsoft Defender Office 365 alapértelmezett házirendje már létre van hozva Önnek. A konfigurációk módosítása:
+1. A Microsoft 365 Defender portálon a E-mail-cím és & házirendek & szabályok veszélyforrásokkal kapcsolatos házirendek című Széf a <https://security.microsoft.com/>  \>  \>  \>  **Házirendek szakaszban.**
 
-1. A biztonsági Office 365 [megfelelőségi & meg.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Válassza **a Veszélyforrás-kezelési házirend**  >  **lehetőséget.** A Policy **(Házirend)** lapon válassza a [Microsoft Defender for Office 365 Széf lehetőséget.](https://go.microsoft.com/fwlink/?linkid=2101058)
-3. A teljes **szervezetre vonatkozó** házirendek szakaszban válassza az Alapértelmezett **lehetőséget,** majd a **Szerkesztés ikont.**
-4. Az **Alábbi URL-címek** blokkolása szakaszban adjon meg egy vagy több OLYAN URL-t, amely megakadályozza, hogy a szervezet tagjai felkereszék őket. További információért olvassa el "Az alábbi [URL-címek listában való blokkolása"](https://go.microsoft.com/fwlink/?linkid=2092123)hivatkozást Széf hivatkozásokhoz.
-5. Az **e Gépház kivételével a** tartalomra vonatkozó párbeszédpanelen jelölje be a használni kívánt beállításokat (vagy törölje a kijelölését). (Javasoljuk, hogy válasszon az összes lehetőség közül.)
-6. Válassza a **Mentés** elemet.
+   Ha közvetlenül a Hivatkozások **lapra Széf, használja** a következőt: <https://security.microsoft.com/safelinksv2> .
+
+2. A **Széf lapon** tegye a következők valamelyikét:
+   - Új házirend hozzáadásához válassza a **+ Létrehozás lehetőséget.** Elindul egy varázsló, amely segít meghatározni a házirendbeállításokat.
+   - Meglévő házirend szerkesztéséhez jelölje ki a házirendet a házirend nevére kattintva. A megjelenő részleteket tartalmazó előjelben válassza a Szerkesztés lehetőséget a konfigurálni kívánt beállításokat tartalmazó szakaszban. 
+   - Ha le szeretné tiltani az URL-címeket a Széf Hivatkozások elleni védelemben, vagy meg szeretné konfigurálni a Széf-hivatkozások beállításait a támogatott Office 365-alkalmazásokban, kattintson a Globális beállítások **elemre,** adja meg a kívánt beállításokat, majd kattintson a Mentés **gombra.**
+
+3. A beállítások áttekintése után válassza  a Küldés (új) vagy a **Mentés** (szerkesztés) lehetőséget.
+
+További információért olvassa el az alábbi témaköröket:
+
+- [Hivatkozási házirendek Széf a Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Globális beállítások megadása a Széf hivatkozásokhoz a Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)
