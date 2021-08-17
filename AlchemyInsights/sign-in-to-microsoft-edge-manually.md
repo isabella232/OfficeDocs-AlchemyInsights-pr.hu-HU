@@ -1,5 +1,5 @@
 ---
-title: Bejelentkezés a Microsoft Edge-be manuálisan
+title: Bejelentkezés az Microsoft Edge be
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -15,18 +15,18 @@ ms.custom:
 - "6893"
 - "8332"
 - "9004625"
-ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: f9aa27a585d805360e1fadecfd0db3b11d15a3594ed5bd5dc6c68cec37a4d6a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050768"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Bejelentkezés a Microsoft Edge-be manuálisan
+# <a name="sign-in-to-microsoft-edge-manually"></a>Bejelentkezés az Microsoft Edge be
 
 Ha egy felhasználó nem jelentkezik be automatikusan az első futtatáskor, manuálisan is bejelentkezhet a böngésző beállításain vagy az identitás úszó panelen keresztül. A bejelentkezés kezeléséhez használja az alábbi házirendeket:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – Annak biztosítása, hogy egy felhasználónak mindig legyen munkahelyi profilja a Microsoft Edge-ben.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – Annak biztosítása, hogy a felhasználónak mindig legyen munkahelyi profilja a Microsoft Edge.
 2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – A bejelentkezést megbízható fiókokra korlátozhatja.
 3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – A bejelentkezés letiltásához vagy a felhasználók bejelentkezésre kényszerításához.
 
