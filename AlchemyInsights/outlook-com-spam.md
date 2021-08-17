@@ -1,5 +1,5 @@
 ---
-title: Levélszemét és levélszemét kezelése az Outlook.com-on
+title: Levélszemét kezelése a Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,35 +12,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: f3587e5a53ea6ad7967fe4647952b4561f54e5d8
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: c894da50d74f6d238be65ce74094257f9bd631de5ce579d1aaa511292c2523e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452158"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111366"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Levélszemét és levélszemét az Outlook.com-on
+# <a name="spam-and-junk-email-in-outlookcom"></a>Levélszemét és levélszemét a Outlook.com-on
 
-Ha túl sok levélszemétről vagy levélszemétről van szüksége, próbálkozzon az alábbi módszerekkel:
+Ha túl sok levélszemetet kap, próbálkozzon az alábbi módszerekkel:
 
-1. **E-mailek megjelölése levélszemétként**
+1. **E-mail megjelölése levélszemétként**
     1. Jelölje ki az üzenetet.
-    1. A **Levélszemét**lehetőséget választva  >  **Junk** helyezze át az üzenetet a Levélszemét mappába.
-    1. [További információt a levélszemét és a levélszemét kiszűrése a Beérkezett üzenetek mappából című témakörben talál.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. A **Levélszemét** lehetőséget választva helyezze át az üzenetet  >   a Levélszemét mappába.
+    1. [További információ arról, hogyan tarthatja távol a levélszemetet és a levélszemetet a Beérkezett üzenetek mappától.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. **Feladó letiltása a Beérkezett üzenetek mappából**
+1. **Feladó blokkolása a Beérkezett üzenetek mappából**
     1. Jelölje ki az üzenetet.
-    1. Válassza a **Levélszemét**  >  **blokkolása**  >  **gombot**.
-    1. [További információ a feladók letiltásáról és letiltásáról.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Válassza a **Levélszemét**  >  **ok**  >  **gombot.**
+    1. [További információ a feladók letiltásának és letiltásának feloldásáról.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. **Feladó felvétele a letiltott feladók listájára**
-    1. Nyissa meg a [levélszemét-beállításokat](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
-    1. A **letiltott feladók és tartományok**csoportban válassza a **Hozzáadás**lehetőséget.
-    1. Írja be a letiltani kívánt e-mail-címet vagy tartományt, majd nyomja le az ENTER billentyűt.
-    1. A **szűrők**csoportban adja meg, hogy az e-maileket megbízható feladók és tartományok, valamint biztonságos levelezési listák csoportban szeretné-e megbízhatónak nyilvánítani.
+1. **Feladó hozzáadása a letiltott feladók listájához**
+    1. Nyissa meg [a Levélszemét beállításait.](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2)
+    1. A **Letiltott feladók és tartományok területen válassza** a Hozzáadás **lehetőséget.**
+    1. Írja be a letiltani kívánt e-mail-címet vagy tartományt, és nyomja le az Enter billentyűt.
+    1. A **Szűrők területen** adja meg, hogy megbízik-e a feladók és tartományok Széf tartományai és levelezőlistáiban Széf címekről érkező e-mailekben.
     1. Válassza a **Mentés** elemet.
 
 1. **Beérkezett üzenetekre vonatkozó szabály létrehozása**
-    1. Kattintson a jobb gombbal az üzenetlistában egy üzenetre, és válassza a **szabály létrehozása**parancsot.
-    1. Válassza ki azt a mappát, amelybe át szeretné helyezni a feladótól érkező összes üzenetet, és válassza az **OK**  >  **gombot**.
-    1. [További információ a levelezési szabályokról az Outlook.com-on.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Kattintson a jobb gombbal egy üzenetre az üzenetlistában, és válassza a **Szabály létrehozása lehetőséget.**
+    1. Válassza ki azt a mappát, amelybe a feladótól érkező összes üzenetet át szeretné áthelyezni, és kattintson az **OK**  >  **gombra.**
+    1. [További információ a Outlook.com-on Outlook beérkezett üzenetekre vonatkozó szabályokról.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
