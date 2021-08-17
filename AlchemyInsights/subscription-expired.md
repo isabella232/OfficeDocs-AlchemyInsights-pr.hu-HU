@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009178"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891901"
 ---
 # <a name="subscription-expired"></a>Az előfizetés lejárt
 
@@ -35,7 +35,7 @@ Ha lejár az előfizetése, a Microsoft letiltotta az előfizetését, vagy Ön 
 3. Az **Előfizetés újraaktiválása** ablaktáblában válasszon ki egy fizetési módot a legördülő listából, vagy válassza a Fizetési **mód hozzáadása lehetőséget.**
 4. Válassza a **Mentés** elemet.
 
-További információért tekintse meg [Az előfizetés újraaktiválása](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.
+További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.
 
 **Az előfizetés megújításának kezelése**
 
@@ -47,4 +47,4 @@ A havi vagy az éves számlázás kezeléséhez be- vagy kikapcsolhatja az ismé
 4. Az Ismétlődő **számlázási beállítások szerkesztése ablaktáblában** válassza a **Be,** a **Be, de a megújítás** egyszer lehetőséget, vagy kapcsolja ki a **beállítást.**
 5. Válassza a **Mentés** elemet.
 
-További információért lásd: [Az ismétlődő számlázás be- és kikapcsolása](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+További információért lásd: [Az ismétlődő számlázás be- és kikapcsolása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

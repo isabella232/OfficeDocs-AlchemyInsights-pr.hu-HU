@@ -12,31 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026224"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892049"
 ---
-# <a name="missing-emails-in-quarantine"></a>Hiányzó e-mailek a karanténban"
+# <a name="missing-emails-in-quarantine"></a>Hiányzó e-mailek karanténban
 
-A rendszergazdák [megtekinthetik, feladhatják vagy törölhetik ezeket az üzeneteket.](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
+A rendszergazdák [megtekinthetik, feladhatják és törölhetik ezeket az üzeneteket](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-A Biztonsági és & megnyitásához nyissa meg a következőt: [https://protection.office.com](https://protection.office.com/) . A karanténlap közvetlen megnyitásához nyissa meg a következőt: [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+A (Microsoft 365 Defender) portálon a <https://security.microsoft.com> Karantén **áttekintése** \> **ossa.** Vagy közvetlenül a Karantén lapra **való ugráshoz** használja a következőt: <https://security.microsoft.com/quarantine> .  
 
-A következő értékek alapján kereshet:  
+A használható keresési/szűrőértékekkel kapcsolatos további információkért lásd: Karanténba helyezett üzenetek és fájlok kezelése rendszergazdaként az [EOP szolgáltatásban.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-- **Üzenetazonosító:** Az üzenet globálisan egyedi azonosítója. Ha kijelöl egy üzenetet a  listában, megjelenik  az Üzenetazonosító érték a megjelenő Részletek előgombra kattintva. A rendszergazdák az [üzenetkövetés](/microsoft-365/security/office-365-security/message-trace-scc) segítségével megkeresheti az üzeneteket és a hozzájuk tartozó üzenetazonosítókat.
-- **Feladó e-mail-címe:** Egyetlen feladó e-mail-címe.
-- **Címzett e-mail-címe:** Egyetlen címzett e-mail-címe.
-- **Tárgy:** Használja az üzenet teljes tárgyát. A keresés nem megkülönbözteti a kis- és a nagybetűket.
+A karanténban lévő üzenetek és fájlok megtekintéséhez és kezeléséhez használt parancsmagok a következőek:
 
-Miután megadta a keresési feltételeket, a Frissítés gombra kattintva ![ ](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **szűrheti** a találatokat.
-
-A karanténban lévő üzenetek és fájlok megtekintéséhez és kezeléséhez a következő parancsmagok használhatók:
-- [Delete-QuarantineMessage](/powershell/module/exchange/delete-quarantinemessage)
-- [Export-QuarantineMessage](/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage:](/powershell/module/exchange/preview-quarantinemessage)Ne feledje, hogy ez a parancsmag csak az üzenetekhez érhető el, a Microsoft Defendertől származó kártevőfájlok nem az Office 365 SharePoint Online- vagy SharePoint-, OneDrive Vállalati verzió- vagy Teams.
-- [Release-QuarantineMessage](/powershell/module/exchange/release-quarantinemessage)
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage:](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage)Ne feledje, hogy ez a parancsmag csak üzenetekhez érhető el, a SharePoint, OneDrive- vagy Széf-mellékletből származó Microsoft Teams.
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

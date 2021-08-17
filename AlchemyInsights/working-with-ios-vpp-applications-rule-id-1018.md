@@ -1,5 +1,5 @@
 ---
-title: Az iOS VPP-alkalmazásokkal végzett műveletek szabály-azonosítója 1018
+title: Az iOS VPP-alkalmazások 1018-as szabályazonosítója
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,19 +12,19 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: 67800b261e7d670181b17783bc81e276d75026e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f693d12ff0f9c193cba0c6a6802b22d7acd37532c65986e5f6613e18c021f06b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083016"
 ---
-# <a name="working-with-ios-vpp-applications"></a>Az iOS VPP-alkalmazásokkal végezhető műveletek
+# <a name="working-with-ios-vpp-applications"></a>Az iOS VPP-alkalmazások alkalmazásai
 
-A cikkből megtudhatja, [hogy miként kezelheti a mennyiségi vásárlással vásárolt iOS-alkalmazásokat a Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) segítségével, és megismerheti a Microsoft Intune szolgáltatásban elérhető Apple mennyiségi vásárlási program és a támogatás funkcióit.
+A mennyiségi vásárlással vásárolt [iOS-appok](https://docs.microsoft.com/intune/vpp-apps-ios) kezelése az Microsoft Intune-et használva további információt az Apple mennyiségi vásárlással kapcsolatos program funkcióiról, korlátairól és a szoftvertámogatás használatának lépéseiről Microsoft Intune.
   
- **Gyakori problémák:** "Egy iOS VPP alkalmazást Rendeltem a felhasználóknak, de a telepítés nem sikerült."
+ **Gyakori problémák:** "IOS VPP-appot rendeltem a felhasználóimhoz, de a telepítés nem sikerült."
   
-- Ez akkor fordulhat elő, ha egyetlen VPP-tokent használ több mobileszköz-kezelési szolgáltatónál. Az Apple-ből származó VPP-tokenek csak egy szolgáltatónál használhatók. Ha egy VPP-tokent több szolgáltatónál használt, újra fel kell töltenie a jogkivonatot a Intune-ra.
+- Ez akkor fordulhat elő, ha több mobileszköz-kezelő szolgáltatónál használ egyetlen VPP-jogkivonatot. Az Apple VPP-jogkivonatai csak egy szolgáltatónál használhatók. Ha több szolgáltatóval használt VPP-jogkivonatot, újra fel kell töltenie a jogkivonatot az Intune-ba.
 
-- A telepítés akkor is meghiúsulhat, ha a telepített példányok száma túllépi a licencek számát. A licencek használati jelentésének megtekintéséhez nyissa meg az **Intune Mobile apps** \> **app licencek** lapját. Ha meg szeretné tudni, hogy miként állíthatja vissza a licenceket a használatban, olvassa el [ezt a cikket.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- A telepítés akkor is meghiúsulhat, ha a telepített telepítések teljes száma meghaladja a licencek számát. A licencek használati jelentésének megtekintéséhez kattintson az **Intune Mobile apps** \> **applicencek lapra.** A licencek használatban való visszaigénylését ebben a cikkben [olvashatja el.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

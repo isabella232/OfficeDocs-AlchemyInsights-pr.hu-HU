@@ -1,5 +1,5 @@
 ---
-title: Az Office 365- ös Microsoft Defender gyakori problémáinak megoldása
+title: A Microsoft Defender for Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 05fa518ece7ea40fd7b4cea57115d9cd60370b01
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746827"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898246"
 ---
-# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Az Office 365- ös Microsoft Defender gyakori problémáinak megoldása
+# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>A Microsoft Defender for Office 365
 
-Íme néhány megoldás az Office 365- ös Microsoft Defender problémáira:
+Íme néhány megoldás a Microsoft Defender for Office 365:
 
-- **Üzenetkésés:** Ha azt tapasztalja, hogy az üzenetek kézbesítése késik,  a Biztonságos mellékletek házirend dinamikus kézbesítési beállításait kell használnia. További információ: Dinamikus kézbesítés a biztonságos mellékletek [házirendjében.](https://go.microsoft.com/fwlink/?linkid=2094106)
-- **Hamis pozitív vagy negatív eredmény jelentése:** A következő hivatkozásra kattintva jelentse be az üzenetet a [Microsoftnak: Microsoft Defender válaszportál.](https://go.microsoft.com/fwlink/?linkid=2092835)
-- **Biztonságos hivatkozásvédelem engedélyezése:**
-    1. Jelentkezzen be az [Office 365 Biztonsági & megfelelőségi központba.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-    2. Tovább a **Veszélyforrások elleni**  >  **irányelv biztonságos** hivatkozások  >  **hivatkozásaihoz.**
-    3. Az **adott címzettre vonatkozó házirendek alatt** nyissa meg a konfigurált házirendet.
-    4. A **Beállítások csoportban** válassza a Biztonságos hivatkozások alkalmazása a szervezeten belül **küldött üzenetekre lehetőséget.**
+- **Üzenetkéséskés:**
+
+  Az e-mailek kézbesítésének késését az Széf üzenetek mellékletvizsgálata okozhatja. További információt A [Széf házirendbeállításai lapon található.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+
+- **Hamis pozitív vagy negatív eredmény jelentése:**
+
+  További információ: Üzenetek és fájlok [jelentése a Microsoftnak.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)
+
+- **A Széf engedélyezése:**
+
+  1. A Microsoft 365 Defender portálon a E-mail-cím és & házirendek & szabályok veszélyforrásokkal kapcsolatos házirendek című Széf a <https://security.microsoft.com/>  \>  \>  \>  **Házirendek szakaszban.**
+
+     Ha közvetlenül a Hivatkozások **lapra Széf, használja** a következőt: <https://security.microsoft.com/safelinksv2> .
+
+  2. A **Széf lapon** jelölje ki a házirendet a házirend nevére kattintva.
+  3. A megjelenő részleteket tartalmazó elő panelen tegye a következők valamelyikét:
+     - Új házirend hozzáadásához válassza a **+ Létrehozás lehetőséget.** Elindul egy varázsló, amely segít meghatározni a házirendbeállításokat.
+     - Meglévő házirend szerkesztéséhez jelölje ki a házirendet a házirend nevére kattintva. A megjelenő részleteket tartalmazó előgombra, a **Védelmi** beállítások csoportban válassza a Szerkesztés **lehetőséget.**
+  4. A Védelmi **beállítások lapon** adja meg az alábbi beállításokat:
+     - Kapcsolja be A művelet kiválasztása ismeretlen, potenciálisan kártékony **URL-címekhez az üzenetekben lehetőséget.**
+     - Válassza a Megbízható hivatkozások alkalmazása a szervezeten belül **küldött üzenetekre lehetőséget.**
+
+  További információ: A Széf hivatkozásokra vonatkozó házirendek beállítása a [Microsoft Defender for Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082944"
 ---
 # <a name="authentication-app"></a>Authentication app
 
@@ -30,11 +30,11 @@ Ha Ön globális rendszergazda, a Bejelentkezés diagnosztika segítségével gy
 
 **Ellenőrizze a megfelelő esetet:**
 
-1. Ha egy felhasználó nem kap leküldéses értesítést a Microsoft Authenticator appban, ellenőrizze, hogy nem jelennek-e meg az MFA által letiltott felhasználók között a Felhasználók blokkolása és letiltásának feloldása csoportban leírtak [szerint.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
-1. Ha a felhasználó nincs letiltva több hitelesítésre, de nem kap leküldéses értesítést, megnyithatja a Microsoft Authenticator appot, amely lekérte a függőben lévő jóváhagyási kérelmeket.
+1. Ha egy felhasználó nem kap leküldéses értesítést a Microsoft Authenticator appban, ellenőrizze, hogy nem jelennek-e meg az MFA letiltott felhasználói csoportban a Felhasználók blokkolása és letiltásának feloldása [leírásban leírtak szerint.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
+1. Ha a felhasználó nem tiltja le az MFA hitelesítést, de nem kap leküldéses értesítést, megnyithatja a Microsoft Authenticator appot, amely le fogja kérni a függőben lévő jóváhagyási kérelmeket.
 1. Másik bejelentkezési módszerként a felhasználó a Bejelentkezés más módon elemre is kattinthat, és kiválaszthatja a mobilappom ellenőrző kódját.
-1. Sok felhasználó csak a Microsoft Authenticator appot érhetők el. [További információ a biztonsági](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)alapértelmezett beállításokról , az [Authenticator app](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) gyakori kérdéseinek gyakori kérdéseiről és a megoldásukról.
+1. A Microsoft Authenticator app az egyetlen elérhető módszer sok felhasználó számára. [További információ a biztonsági](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)alapértelmezett beállításokról , Authenticator [alkalmazásokkal kapcsolatos gyakori](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) kérdésekért olvassa el a gyakori kérdésekre és a megoldásukra vonatkozó témakört.
  
 **Ajánlott videók**
 
-[Az Authenticator app beállítása új telefonon (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)
+[A Authenticator beállítása új telefonon (2min).](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409)

@@ -1,5 +1,5 @@
 ---
-title: 1554 Winsock-hiba 10061
+title: 1554-es nyertesek 10061-es hibakódja
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: 4f8007bd8ccb4666260c75fdca15dd0b14eb4e96
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7991f83a0b4791eaa7eb3246f7e61f781e4c7430931fbf920d7fd9e44c018d13
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083232"
 ---
-# <a name="winsock-error-10061"></a>WINSOCK-hiba 10061
+# <a name="winsock-error-10061"></a>A 10061-es hibakód
 
-Ez a hibakód azt jelzi, hogy a Microsoft nem tudott TCP-szoftvercsatornát (kapcsolatot) létesíteni a célállomással. A hiba legvalószínűbb oka a tűzfal-konfigurációval kapcsolatos probléma. A probléma megoldásához tekintse át a következő beállításokat:
+Ez a hibakód azt jelenti, hogy a Microsoft nem tudott TCP-szoftvercsatorna (kapcsolat) létesíteni a cél állomással. A hibát a legvalószínűbb oka a tűzfal konfigurációja okozza. A probléma megoldásához ellenőrizze az alábbi beállításokat:
 
-- Tűzfal-konfiguráció ellenőrzése a [Microsoft 365 URL-címei és IP-címei](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) szerinti adatokkal
+- A tűzfal konfigurációjának ellenőrzése az URL-Microsoft 365 [IP-címtartományok adataival](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- Ha a hiba az Exchange Online védelmi szolgáltatással (EOP) függ, korábban értesítést kellett volna küldenie az [Exchange Online védelmi szolgáltatás IP-címeinek](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)módosításáról.
+- Ha a hiba csak az Exchange Online Védelmi szolgáltatás (EOP) miatt jelenik meg, akkor korábban értesítést kellett volna kapni a levelezési [IP-címek Exchange Online Védelmi szolgáltatás változásokról.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-- Ellenőrizze, hogy az INTERNETSZOLGÁLTATÓja nem blokkolja-e a portot.
+- Ellenőrizze, hogy az internetszolgáltató nem blokkolja-e a portot.
 
-- Ellenőrizze az összekötők intelligens állomás-és célkiszolgáló-beállításait.
+- Ellenőrizze az intelligens állomás és a célkiszolgáló beállításait az összekötőkben.
 
-Fontos tudni, hogy a Microsoft 365 ilyen módon nem blokkolja a *bejövő* kapcsolatokat.
+Vegye figyelembe Microsoft 365 hogy a bejövő kapcsolatok nem *tiltják* le ily módon.

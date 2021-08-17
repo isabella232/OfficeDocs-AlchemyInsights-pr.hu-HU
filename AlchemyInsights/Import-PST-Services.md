@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 73fb170bec3692c0631a6c2df3e9a77b4b1e2f820ddcde3ed46cfe283ef3ba74
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918433"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891757"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Import service
 
@@ -31,11 +31,11 @@ Az Importálás szolgáltatás elérése és az importálási folyamat elkezdás
 
 1. Az Importálás **lapon** válassza az Új **importálási feladat lehetőséget.** Írja be a feladat nevét, és válassza a Tovább **gombot.**
 
-1. Válassza **az Adatok feltöltése lehetőséget** az Importálási feladattípus hálózati **feltöltési lehetőségének alkalmazásához.** A részletes lépéseket a Szervezeti [PST-fájlok](/compliance/use-network-upload-to-import-pst-files)importálása hálózati feltöltéssel a Microsoft 365.
+1. Válassza **az Adatok feltöltése lehetőséget** az Importálási feladattípus hálózati **feltöltési lehetőségének alkalmazásához.** A részletes lépéseket a Szervezeti [PST-fájlok](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)importálása hálózati feltöltéssel a Microsoft 365.
 
-Az Importálás **lap eléréséhez** győződjön meg arról, hogy rendelkezik a megfelelő engedélyekkel. További információ: [PST-fájlok](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)importálása hálózati feltöltés használatával.
+Az Importálás **lap eléréséhez** győződjön meg arról, hogy rendelkezik a megfelelő engedélyekkel. További információ: [PST-fájlok](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)importálása hálózati feltöltés használatával.
 
 Ha pst-fájlt szeretne importálni a postaládájába, tekintse át az E-mailek, névjegyek és naptár importálása Outlook [.pst fájlból Outlook.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
 
-Ha importálással kapcsolatos problémája van, tekintse át A PST-importálási feladatokat [érintő problémák.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+Ha importálással kapcsolatos problémája van, tekintse át A PST-importálási feladatokat [érintő problémák.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 
