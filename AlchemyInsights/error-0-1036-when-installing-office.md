@@ -1,5 +1,5 @@
 ---
-title: Az Office telepítésekor 0-1036-es hibakód jelenik meg
+title: Az Office telepítésekor 0-1036-os hiba jelenik meg
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 9047f30109428c5d94ff5d69c17ed57562175fef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f0779ef2460059d5469fc3e7c3ace6f57ce137559ca782152c8c312eb1a5b07d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709273"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057176"
 ---
-# <a name="error-0-1036-when-installing-office"></a>Az Office telepítésekor 0-1036-es hibakód jelenik meg
+# <a name="error-0-1036-when-installing-office"></a>Az Office telepítésekor 0-1036-os hiba jelenik meg
 
-Próbálkozzon ezekkel a megoldásokkal a 0-1036 Office-hibájának kijavításához:
+A 0-1036-os Office az alábbi megoldásokkal:
   
-- Indítsa újra a számítógépet, és próbálkozzon újra az [Office telepítésével](https://portal.office.com/OLS/MySoftware.aspx) .
+- Indítsa újra a számítógépet, és [próbálkozzon Office](https://portal.office.com/OLS/MySoftware.aspx) telepítésével.
 
 - Töltse le és telepítse a [Támogatási és helyreállítási segédet](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Amikor megnyílik, az **Office-termékek eltávolítása** lapon jelölje ki az eltávolítani kívánt verziót, és válassza a **tovább**gombot.
+1. Amikor megnyílik, a Termék **eltávolítása Office válassza** ki az eltávolítani kívánt verziót, és válassza a Tovább **gombot.**
 
 2. Folytassa a képernyőkön végighaladva, és amikor a rendszer kéri, indítsa újra a számítógépet.
 
-    Az újraindítást követően a támogatási és helyreállítási segéd automatikusan újra megnyílik az eltávolítási folyamat befejezéséhez.
+    Újraindítás után a Támogatási és helyreállítási segéd újra megnyílik az eltávolítási folyamat befejezéséhez.
 
-3. Kövesse a hátralévő utasításokat, és [telepítse újra az Office](https://portal.office.com/OLS/MySoftware.aspx) -t, vagy zárja be a Segédet.
+3. Kövesse a további utasításokat, és [telepítse újra a Office](https://portal.office.com/OLS/MySoftware.aspx) vagy zárja be az asszisztenst.
 
-- [Az Office telepítése az Office offline telepítőjének használatával](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- [Az Office telepítéséhez használja az](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) Office

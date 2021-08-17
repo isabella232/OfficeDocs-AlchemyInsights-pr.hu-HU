@@ -1,5 +1,5 @@
 ---
-title: Tippek az üzenetek visszahív használatához
+title: Tippek üzenetek visszahívása
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 0e44d3c7c13511d2d5e3ad93eb9ca7c9786c8b2d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a259f4036e9f24e5f03f5526426df82a6644f8db7e0ccafee8aaa37dcd0f552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081468"
 ---
-# <a name="tips-about-recalling-messages"></a>Tippek az üzenetek visszahív használatához
+# <a name="tips-about-recalling-messages"></a>Tippek üzenetek visszahívása
 
 Az üzenetek visszahívása az következőkor történik, és nem:
 
 * Rendszergazdaként a PowerShell használatával visszahívhatja az üzeneteket a felhasználók nevében. A Felügyeleti központból nem lehet üzeneteket visszahívni.
 * Csak a szervezeten belül a személyeknek küldött üzeneteket tudja visszahívni. Ha az üzenetet például Gmail-címre küldték, nem tudja visszahívni.
-* Csak a számítógépre **küldött Outlook 2016-ból küldött üzenetek visszahívása.** Ha egy felhasználó üzenetet küld a Mac Outlook vagy a Webes Outlook használatával, azt nem tudja visszahívni.
+* **A számítógépről Outlook 2016 üzeneteket visszahívhatja.** Ha egy felhasználó e-mailt küld Mac Outlook vagy Webes Outlook, akkor Ön nem tudja visszahívni.

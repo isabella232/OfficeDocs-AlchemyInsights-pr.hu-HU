@@ -13,27 +13,30 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e27c6433c65079af93f2a02a998b7179222336b0cae1149f4196f6fb6558ddac
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976867"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891297"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>A beérkezett üzenetek szabályával kapcsolatos tevékenységek azonosítása a naplókban
 
-A Microsoft 365 Biztonsági & Megfelelőségi központban naplókereséssel megtekintheti a beérkezett üzenetekre vonatkozó szabályeseményeket (a beérkezett üzenetekre vonatkozó szabályok létrehozását, módosítását és törlését).
+A naplókereséssel megtekintheti a beérkezett Microsoft 365 Megfelelőségi központ eseményeket (a beérkezett üzenetekre vonatkozó szabályok létrehozását, módosítását és törlését).
 
-1. Jelentkezzen be a [Microsoft 365 megfelelőségi központba.](https://protection.office.com/)
+1. Tegye a következők valamelyikét:
+   - A Microsoft 365 Megfelelőségi központ a <https://compliance.microsoft.com> Megoldásvizsgálat  \> **hoz.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://compliance.microsoft.com/auditlogsearch> használja: .
+   - A (Microsoft 365 Defender) portálon a <https://security.microsoft.com> Audit **(Naplózás) stb.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://security.microsoft.com/auditlogsearch> használja: .
 
-2. Lépjen a Keresési  >  **napló keresési lapjára.**
+2. A Naplózás **lap** Keresés **lapján** adja meg az alábbi beállításokat:
+   - **Dátum- és időtartomány:** Válassza ki a dátum-/időtartományt a **Kezdő** és a **Záró** mezőben.
+   - **Tevékenységek:** Válasszon egyet vagy többet az alábbi értékek közül:
+     - **New-InboxRule Create inbox rule from Outlook Web App**
+     - **Set-InboxRule Modify rule from Outlook Web App.**
+     - **Beérkezett üzenetekre vonatkozó szabályok frissítése Outlook ügyfélprogramból**
 
-3. Jelölje ki a dátumtartományt a **Kezdő dátum** és a Záró **dátum mezőben.**
+3. Ha végzett, kattintson a Keresés **gombra.** A tevékenységek az új Naplókeresés **lapon jelennek** meg.
 
-4. A **Postaláda Exchange tevékenységek** csoportban ellenőrizze, hogy a Tevékenységek mezőben az Új **postaládaSzabály létrehozása/módosítása/engedélyezése/letiltása beérkezett üzenetek szabály van-e állítva.** 
+4. Jelöljön ki egy tevékenységet az eredmények között a részleteket tartalmazó úszó panel megnyitásához. A beérkezett üzenetekre vonatkozó szabályok beállításairól a Parameters mezőben tájékoztató információk **jelennek** meg.
 
-5. Kattintson a **Keresés gombra.**
-
-Az eredmények között jelöljön ki egy naplórekordot. A részleteket tartalmazó panelen kattintson a További **információ elemre.** A beérkezett üzenetekre vonatkozó szabályok beállításairól a Parameters mezőben tájékoztató információk **jelennek** meg.
-
-További információ: Annak megállapítása, hogy egy felhasználó hozott-e létre beérkezett [üzenetekre vonatkozó szabályt.](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+További információ: Annak megállapítása, hogy egy felhasználó hozott-e létre beérkezett [üzenetekre vonatkozó szabályt.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-created-an-inbox-rule)
