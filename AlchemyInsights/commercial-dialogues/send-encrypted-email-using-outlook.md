@@ -1,5 +1,5 @@
 ---
-title: Titkosított e-mail küldése az Outlookkal
+title: Titkosított e-mail küldése Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 59b6b6bae745edb18148b92e4a5514d62e2aa086
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 577c09436700e2bde9a2c8457414a4ec64ade7b57adac4f5fc51ca7cffe73656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081540"
 ---
-# <a name="send-encrypted-email-using-outlook"></a>Titkosított e-mail küldése az Outlookkal
+# <a name="send-encrypted-email-using-outlook"></a>Titkosított e-mail küldése Outlook
 
-A felhasználók az Outlookkal minden további beállítás nélkül, eseti alapon titkosíthatja az e-maileket. Ehhez kövesse az alábbi lépéseket:
+A felhasználók minden további beállítás nélkül, eseti jelleggel titkosíthatja az e-maileket Outlook használatával. Ehhez kövesse az alábbi lépéseket:
 
-1. Az Outlook appban: a. Hozzon létre egy e-mailt, és válassza a **Beállítások > lehetőséget.** 
+1. A Outlook appban: a. Hozzon létre egy e-mailt, és válassza a **Beállítások > lehetőséget.** 
     b. Kattintson a **Csak titkosítás vagy** a Nincs továbbítás **elemre.**
 
-2. A Webes Outlookban: a. Hozzon létre egy e-mailt, és válassza a **Titkosítás > lehetőséget.**
+2. A Webes Outlook: a. Hozzon létre egy e-mailt, és válassza a **Titkosítás > lehetőséget.**
     b. Kattintson a **Titkosítás** vagy **a Nincs továbbítás elemre.**
 
 > [!TIP]
-> Az ismert fájlformátumok védettek. A OneDrive Vállalati verzióból mellékletként küldött fájlok azonban nincsenek titkosítva. Az összes támogatott fájltípus listáját Az Azure Information Protection ügyfél által támogatott [fájltípusok listája tartalmazza.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)
+> Az ismert fájlformátumok védettek. A rendszer azonban nem titkosítja a OneDrive Vállalati verzió a mellékletként küldött fájlokat. Az összes támogatott fájltípus listáját Az Azure Information Protection ügyfél által támogatott [fájltípusok listája tartalmazza.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types)
 
-További információt a Titkosított üzenetek küldése, megtekintése és megválaszolása a [PC-s Outlookban című témakörben található.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
+További információért lásd: Titkosított üzenetek küldése, megtekintése és megválaszolása [Outlook PC-n.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
 
 
 

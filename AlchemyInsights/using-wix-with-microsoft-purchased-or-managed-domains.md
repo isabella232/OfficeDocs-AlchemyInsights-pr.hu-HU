@@ -1,5 +1,5 @@
 ---
-title: Wix webhely használata a Microsoft megvásárolt vagy kezelt tartományokkal
+title: Wix-webhely használata megvásárolt vagy felügyelt Microsoft-tartományokkal
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd0f8beb8f1871c2c43ac14a7f6d1cce79386fcc353bb2a690ba184904ca5857
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083736"
 ---
-# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Wix webhely használata a Microsoft megvásárolt vagy kezelt tartományokkal
+# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Wix-webhely használata megvásárolt vagy felügyelt Microsoft-tartományokkal
 
-Ha szeretne többet megtudni arról, hogy miként használhat Microsoft által vásárolt vagy felügyelt tartománnyal Wix webhelyet, olvassa el a [DNS-rekordok frissítése a webhely jelenlegi szolgáltatójánál való megőrzéséhez](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)című témakört.
+A Wix-webhely Microsoft által vásárolt vagy felügyelt tartománnyal való használatával kapcsolatban A DNS-rekordok frissítése, hogy a webhely a jelenlegi tárhelyszolgáltatónál maradjon című cikk [nyújt tájékoztatást.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
 
-További információt a következő témakörökben talál: 
+Részletes információkért lásd: 
 
-- A Wix a "tartomány csatlakoztatása a Wix a mutatóeszköz segítségével" című cikk azt javasolja, hogy a DNS-rekordokat a fenti hivatkozásra mutatva, a Microsoft 365 használata esetén ne módosítsa a névkiszolgálók.
+- A "Connecting a Domain to Wix Using the Pointing Method" (Tartomány csatlakoztatása Wix-kiszolgálóhoz a pointing metódussal) című cikk azt javasolja, hogy a fenti hivatkozásnak megfelelő DNS-rekordokat adjon hozzá ahelyett, hogy a névkiszolgálókat módosítja a Microsoft 365.
 
-- Ha úgy dönt, hogy módosítja a névkiszolgálói Wix, a Microsoftnál létre kell hoznia a DNS-rekordokat a Microsoft Wix. További információt a [DNS-rekordok létrehozása a Microsoft Wix-on](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix)című témakörben talál.
+- Ha a névkiszolgálók Wixre való átváltását választja, a Microsoft Wix rendszerében létre kell hoznia a DNS-rekordokat. További információt a [DNS-rekordok létrehozása a Microsoft Wix rendszerében című cikk tartalmaz.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix)
 
-- Ha a tartományt a Microsofttól vásárolta, a névkiszolgálói nevek nem módosíthatók. Ha meg kell változtatnia a Névlista-kiszolgálókat, a Microsoft megvásárolt tartományát 60 nap elteltével át kell adni egy másik szolgáltatónak. További információt a [tartomány átvitele a Microsofttól egy másik állomásra](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)című témakörben talál.
+- Ha tartományát a Microsofttól vásárolta, a névkiszolgálók nem módosíthatók. Ha módosítania kell a névkiszolgálókat, a Microsoft által vásárolt tartományt 60 nap múlva át kell helyezni egy másik szolgáltatóhoz. További információt a Tartomány [átvitele a Microsofttól egy másik szolgáltatóhoz .](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)

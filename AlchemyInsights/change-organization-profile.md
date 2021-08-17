@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: ac180a3af521d42013849a6d8cab8fc3dc7d8640c584021cfc5618a688f73b59
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2527e9e6a88c033816479ea745c86121ca0887ec
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890208"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313628"
 ---
 # <a name="change-organization-profile"></a>Szervezeti profil módosítása
 
-Módosítsa a vállalat nevét, címét, műszaki kapcsolattartási adatait és egyéb adatait a Szervezet vagy szervezet Gépház felügyeleti központjában Gépház  >    >  [profillapon.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
+A cégnév, a cím, a műszaki kapcsolattartási adatok és egyéb beállítások módosítása a Szervezet vagy Gépház lapján Gépház  >    >  [felügyeleti](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) központban.
 
 A módosítások mentésének engedélyezéséhez győződjön meg arról, hogy az összes szükséges mezőt * jelekkel jelölte meg.
 

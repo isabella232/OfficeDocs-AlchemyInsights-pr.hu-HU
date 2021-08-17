@@ -1,5 +1,5 @@
 ---
-title: Az Office-telepítő eszköz használata
+title: A Office eszköz használata
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083772"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Az Office-telepítő eszköz használata (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>A Office (ODT) használata
 
-Az Office-telepítő eszköz (ODT) segítségével telepítheti az Office 365 Office-verzióit. Az Office-telepítő eszköz (setupodt.exe) a parancssorból futtatható, és egy konfigurációs XML-fájlt használ annak meghatározásához, hogy milyen beállítások vonatkoznak az Office telepítésekor.
+A Office (ODT) segítségével telepítheti Office 365 verziókat a Office. A Office telepítőeszköz (setup.exe) parancssorból fut, és egy konfigurációs XML-fájl segítségével határozza meg, hogy milyen beállításokat kell alkalmazni a Office.
   
-1. Töltse le az Office-telepítő eszköz legújabb verzióját a [Microsoft letöltőközpontból](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Töltse le a Office telepítőeszköz legújabb verzióját a [Microsoft letöltőközpontból.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
 
-2. Az [Office customization Tool (TOT)](https://config.office.com) segítségével jelölje ki a központi telepítő beállításait, és hozza létre a konfigurációs XML-fájlt. Exportálja a konfigurációs fájlt, és helyezze azt helyileg ugyanarra a mappába, ahol a setupodt.exe található.
+2. A Office [(OCT)](https://config.office.com) használatával adja meg a telepítési beállításokat, és hozza létre a konfigurációs XML-fájlt. Exportálja a konfigurációs fájlt, és helyezze helyileg arra a mappára, amelyben a setup.exe található.
 
-    **Megjegyzés:** Az Office telepítési problémái gyakran előfordulnak a helytelenül konfigurált vagy malformatted konfigurációs fájlok miatt. Az ilyen problémák elkerülése érdekében az Office customization Tool segítségével hozza létre a konfigurációs fájlt. A meglévő konfigurációs fájlokat is importálhatja az Office customization Tool alkalmazásba.
+    **Megjegyzés:** Office telepítési hibákat gyakran az rosszul konfigurált vagy hibásan formázott konfigurációs fájlok okozhatják. Az ilyen problémák elkerülése érdekében azt javasoljuk, hogy a Office testreszabási eszközzel hozza létre a konfigurációs fájlt. Meglévő konfigurációs fájlokat is importálhat a Office eszközbe.
 
-3. Egy rendszergazdai jogú parancssorból váltson arra a helyre, ahol a setupodt.exe-ban lakik, és futtassa az Office-telepítő eszközt a letöltési módban, és adja meg az imént mentett konfigurációs fájlt. Ebben a példában a konfigurációs fájl neve Configuration.xml:
+3. Az emelt szintű parancssorból váltson arra a helyre, Office setup.exe a telepítőeszközt letöltési módban futtassa, és adja meg a mentett konfigurációs fájlt. Ebben a példában a konfigurációs fájl neve Configuration.xml:
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. Futtassa az Office-telepítő eszközt a konfigurálás módban, és adja meg a konfigurációs fájlt.
+4.Futtassa a Office telepítőeszközt konfigurálási módban, és adja meg a konfigurációs fájlt.
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**Megjegyzés:** Ezt a lépést az ügyfélgépről kell futtatnia, amelyen telepíteni szeretné az Office-t, és a számítógépen helyi rendszergazdai engedélyekkel kell rendelkeznie.
+**Megjegyzés:** Ezt a lépést az ügyfélszámítógépről kell futtatnia, amelyen telepíteni szeretné Office és helyi rendszergazdai engedélyekkel kell rendelkeznie az adott számítógépen.
 
-Ha többet szeretne tudni az Office-telepítő eszköz használatáról a Microsoft 365-alkalmazásaiban a nagyvállalati telepítéshez, olvassa el [az Office-telepítő eszköz áttekintése](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)című témakört. Az Office customization Tool használatáról további információt [az Office customization Tool áttekintése](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)című témakörben talál.
+Ha többet szeretne megtudni a Office eszköz Nagyvállalati Microsoft 365-alkalmazások telepítési esetekhez, olvassa el A központi telepítőeszköz Office [áttekintése témakört.](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) A testre szabható eszköz Office az Overview [of the Office (Egyéni](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)testreszabási eszköz) Office olvashat.

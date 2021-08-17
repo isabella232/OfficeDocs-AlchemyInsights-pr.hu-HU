@@ -15,17 +15,17 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 2cd50e5b737796ed778571e5fddfb48b3b20a4e745938fc09836525a47ba2b72
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7f4725323a30da42521c95c2f6ee8c72a1671150f251da193199d140f17beb66
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54037178"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892385"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>A Microsoft-appok kezelési állapotának megtekintése az iOS Microsoft Edge androidos eszközökre készült Microsoft Edge használatával
 
-A felügyelt iOS- vagy Android-appok hibaelhárítása érdekében az appnaplók eléréséhez nyissa meg a Microsoft Edge, és írja be a **about:intunehelp** címet a címmezőbe. Microsoft Edge hibaelhárítási módban indul el.
+A felügyelt iOS- vagy Android-appok hibaelhárítása érdekében az appnaplók eléréséhez nyissa meg a Microsoft Edge, és írja be a **about:intunehelp** címet a címmezőbe. Microsoft Edge hibaelhárítási módban indulnak el.
 
-Az appnaplókban tárolt beállítások listáját az Ügyfélalkalmazás-védelmi naplók áttekintése [lapon láthatja.](/mem/intune/apps/app-protection-policy-settings-log)
+Az appnaplókban tárolt beállítások listáját az Ügyfélalkalmazás-védelmi naplók áttekintése [lapon láthatja.](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log)
 
-Az appnaplók Android-eszközökön való megtekintéséről a Feltöltés és [e-mail-naplók szolgáltatásban olvashat.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
+Az appnaplók Android-eszközökön való megtekintéséről a Feltöltés és [e-mail-naplók szolgáltatásban olvashat.](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

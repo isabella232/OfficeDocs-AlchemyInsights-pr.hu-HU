@@ -1,5 +1,5 @@
 ---
-title: 1800019 szűrt levelek az Outlook Mobile-ban
+title: 1800019 a Mobileszközök Outlook a Outlook-ban
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744412"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117054"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>Szűrt levelek az Outlook Mobile-ban
+# <a name="focused-inbox-for-outlook-mobile"></a>Focused Inbox for Outlook mobile
 
-[Mi a szűrt levelek?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[Mi a Fókuszban lévő levelek?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[Hogyan szerkeszthetők az e-mailek és a szűrt levelek között áthelyezett szabályok?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[Hogyan szerkesztem a szabályokat, amelyek áthelyezik az e-mailjemet a Fókusz beérkező levelek mappába, illetve áthelyezik onnan?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[Hogyan kapcsolhatom ki a szűrt levelek funkciót, vagy azt, hogy a jelvényem hány darabja és értesítése legyen szinkronizálva a szűrt levelek mappába](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[Hogyan kapcsolható ki a Fókuszban lévő levelek funkció, illetve hogyan változtatható meg, hogy a jelvények és az értesítések száma szinkronizálva legyen-e a Fókuszban lévő levelek mappával?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[Hogyan kapcsolhatom ki a szűrt levelek funkciót, vagy módosíthatom, hogy a szűrt levelek szinkronizálása történjen?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[Hogyan kapcsolható ki a Fókuszban lévő levelek funkció, illetve hogyan változtatható meg, hogy az értesítések szinkronizálva legyenek-e a Fókuszban lévő levelek mappával?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[Hogyan válthatok a szűrt és az egyéb között?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[Hogyan válthatok a Fókusz és az Egyéb között?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-További információ: [az App súgója az iOS és az Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409) rendszerhez készült Outlookhoz
+További információ: Alkalmazáson belüli súgó [az iOS Outlook Android rendszerhez](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409) készült alkalmazásokhoz
   

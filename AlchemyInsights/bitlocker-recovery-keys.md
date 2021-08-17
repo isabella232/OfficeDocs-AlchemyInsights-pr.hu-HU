@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820288"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060066"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>A Bitlocker helyreállítási kulcsok elérése
 
-A Bitlocker-beállítások Intune Endpoint Protection policy konfigurálásakor meg lehet határozni, hogy a Bitlocker helyreállítási információkat az Azure Active Directory tárolja-e.
+A Bitlocker-beállítások Intune Endpoint Protection-házirend konfigurálásakor megadhatja, hogy a Bitlocker helyreállítási információkat tárolja-e a Azure Active Directory.
 
 Ha ez a beállítás be van állítva, akkor a tárolt helyreállítási adatoknak az Intune-rendszergazdáknak az Intune Devices blade eszközben tárolt eszközrekord-adatok részeként két módon kell láthatónak lenniük:
 
@@ -47,5 +47,5 @@ Ha az eszközt az Intune-ban való regisztráció előtt titkosították, előfo
  
 Ha az eszközt tartományalapú csoportházirenden keresztül konfigurálva titkosította, a helyreállítási információkat a rendszer a számítógép active directoryjában tárolhatja.
 
-Ha konfigurálta az Végpontvédelmi házirendet a helyreállítási kulcs Azure Active Directoryban való tárolására, de egy adott eszköz kulcsát még nem töltötte fel, a feltöltést úgy elindíthatja, hogy a mem konzolról elforgatja az adott eszköz helyreállítási kulcsát. A részletekért [lásd: BitLocker helyreállítási kulcsok elforgatása.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
+Ha konfigurálta az Végpontvédelmi házirendet a helyreállítási kulcs Azure Active Directory-ban való tárolására, de egy adott eszköz kulcsát még nem töltötte fel, a feltöltést úgy elindíthatja, hogy a mem konzolról elforgatja az adott eszköz helyreállítási kulcsát. A részletekért [lásd: BitLocker helyreállítási kulcsok elforgatása.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

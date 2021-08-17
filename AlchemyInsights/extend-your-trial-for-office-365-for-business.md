@@ -1,5 +1,5 @@
 ---
-title: A vállalati verziós Microsoft 365 meghosszabbítása
+title: A próbaidőszak meghosszabbítása Microsoft 365 Vállalati verzióra
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,12 +16,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ce64ca1f9afa04ab9eaa6129dd5bbafb2b8e799ae32ca24162fd5c8bac7d84fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b3898c5446a8193f818fd810bb3645f78865aa80
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868644"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313383"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>A próbaidőszak meghosszabbítása Microsoft 365 vállalati verzióra
 
@@ -32,4 +32,4 @@ Az ingyenes próbaidőszakot további 30 napra meghosszabbíthatja. Ezt követő
 3. Az előfizetés adatait tartalmazó lap Előfizetés és fizetési beállítások szakaszában **válassza** a Záró dátum **meghosszabbítása lehetőséget.**
 4. A Záró **dátum meghosszabbítása ablaktáblában** tekintse át a mellék adatait, és ha szükséges, válasszon ki egy fizetési módot. Amikor elkészült, válassza a Próbaidőszak **meghosszabbítása lehetőséget.**
 
-A próbaidőszak meghosszabbításáról, illetve a lépésenként útmutatóról további információt a Próbaidőszak meghosszabbítása a vállalati verzióhoz [Office 365 olvashat.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
+A próbaidőszak meghosszabbításáról vagy a lépésenként útmutatóról további információt a Próbaidőszak meghosszabbítása vállalati verzióra [Office 365 olvashat.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
