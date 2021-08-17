@@ -1,5 +1,5 @@
 ---
-title: A beállítási DKIM
+title: Setup DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,43 +10,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: b34bfdafcab6229a4dd2e9d9f23103fa13556482
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc90965516cc4d360b9be56c7737c6d134123ea8ac263b092559dd1416faff4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808709"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108558"
 ---
-# <a name="setup-dkim"></a>A beállítási DKIM
+# <a name="setup-dkim"></a>Setup DKIM
 
-[Itt](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)megtudhatja, hogy miként konfigurálhatja a DKIM az egyéni tartományokhoz a Microsoft 365-ban.
+A DKIM egyéni tartományokhoz való beállításának teljes útmutatója a Microsoft 365 [itt található.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)
 
-1. **Minden** egyéni tartományhoz létre kell hoznia **két** DKIM CNAME rekordot a tartomány DNS-szolgáltatójánál (általában a tartományregisztrálónál). A contoso.com és a fourthcoffee.com például négy DKIM CNAME rekordot követel meg: kettőt a contoso.com és kettőt a fourthcoffee.com.
+1. Minden **egyes** egyéni tartományhoz két **DKIM** CNAME rekordot kell létrehoznia a tartomány DNS-szolgáltatójánál (ez általában a tartományregisztráló). Az contoso.com és fourthcoffee.com például négy DKIM CNAME rekordra van szükség: kettő az contoso.com, kettő a fourthcoffee.com.
 
-   Az **egyes** egyéni tartományokhoz tartozó DKIM CNAME rekordjai a következő formátumokat használják:
+   Az egyes egyéni tartományok  DKIM CNAME rekordjai az alábbi formátumokat használják:
 
-   - **Host Name (állomásnév**): `selector1._domainkey.<CustomDomain>`
+   - **Állomásnév:**`selector1._domainkey.<CustomDomain>`
 
-     Címzett **pont vagy érték**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
+     **Címzett pontok vagy érték:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **TTL (TTL**): 3600
+     **TTL (TTL):** 3600
 
-   - **Host Name (állomásnév**): `selector2._domainkey.<CustomDomain>`
+   - **Állomásnév:**`selector2._domainkey.<CustomDomain>`
 
-     Címzett **pont vagy érték**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Címzett pontok vagy érték:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **TTL (TTL**): 3600
+     **TTL (TTL):** 3600
 
-   \<DomainGUID\> az `.mail.protection.outlook.com` Egyéni tartományhoz tartozó egyéni MX rekordtól balra lévő szöveg (például `contoso-com` a tartomány contoso.com). \<InitialDomain\> a Microsoft 365-ra való regisztrációkor használt tartomány (például contoso.onmicrosoft.com).
+   \<DomainGUID\> az egyéni tartományhoz (például a tartománynévhez) a testre szabott MX rekord bal `.mail.protection.outlook.com` `contoso-com` contoso.com. \<InitialDomain\>az a tartomány, amit a Microsoft 365-fiókra való feliratkozáskor használt (például contoso.onmicrosoft.com).
 
-2. Miután létrehozta a CNAME rekordokat az egyéni tartományokhoz, kövesse az alábbi utasításokat:
+2. Miután létrehozta a CNAME rekordokat az egyéni tartományokhoz, kövesse az alábbi lépéseket:
 
-   a. [Bejelentkezés a Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) a munkahelyi vagy iskolai fiókjával.
+   a. [jelentkezzen be Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) munkahelyi vagy iskolai fiókjával.
 
    b. Kattintson az appindító ikonra a bal felső sarokban, és kattintson a **Rendszergazda** elemre.
 
-   c. A bal oldali navigációs sávon bontsa ki a **rendszergazda** csomópontot, és válassza az **Exchange**lehetőséget.
+   c. A bal alsó navigációs sávon bontsa ki a **Rendszergazda lehetőséget,** és **válassza** a Exchange.
 
-   d. Nyissa meg a **védelmi**  >  **DKIM**.
+   d. Ugrás a  >  **Védelmi DKIM hoz.**
 
-   e. Jelölje ki a tartományt, és válassza az **Engedélyezés** lehetőséget a **tartomány DKIM aláírásokkal való aláírásához**. Ismételje meg ezt a lépést mindegyik egyéni tartománynál.
+   e. Jelölje ki a tartományt, és válassza az **Engedélyezés** az Üzenetek aláírása ehhez a tartományhoz **DKIM-aláírással lehetőséget.** Ismételje meg ezt a lépést minden egyéni tartomány esetén.

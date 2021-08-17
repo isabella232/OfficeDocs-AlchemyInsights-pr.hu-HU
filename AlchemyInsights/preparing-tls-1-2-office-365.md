@@ -1,5 +1,5 @@
 ---
-title: Felkészülés a TLS 1.2-es Office 365
+title: Felkészülés a TLS 1.2-esre a Office 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "11220"
 - "9006570"
-ms.openlocfilehash: a727c0cfae0caf93e19148087e8b4cf903489ab6
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1d5876918729ffe531f0d8973a98cb219a3776241344335a10b4cde4d0775a99
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52564374"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891004"
 ---
-# <a name="preparing-for-tls-12-in-office-365"></a>Felkészülés a TLS 1.2-es Office 365
+# <a name="preparing-for-tls-12-in-office-365"></a>Felkészülés a TLS 1.2-esre a Office 365
 
-Hogy a legjobb titkosítást nyújtsuk ügyfeleinknek, a Microsoft a TLS 1.0-s és 1.1-es verzióját elavultnak fogja adni a Office 365-ban és a Office 365 GCC. 
+A legjobb titkosítás érdekében a Microsoft a TLS 1.0-s és 1.1-es verzióját elavultja a Office 365-ban és a Office 365 GCC. 
 
 További információ:
 
-- [Felkészülés a TLS 1.2-re az Office 365-ben és az Office 365 GCC-ben](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
-- [Hibakód: 0x8004deb4 bejelentkezéskor OneDrive](https://support.microsoft.com/office/error-code-0x8004deb4-when-signing-in-to-onedrive-e8a8d97c-a87e-4dda-a67e-bae4fef05dcb)
-- [Hitelesítési hibák akkor fordulnak elő, ha az ügyfél nem támogatja a TLS 1.2-es használatát](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
-- [Hitelesítési hibák a SharePoint vagy OneDrive vagy 7 Windows 8 való csatlakozáskor](/sharepoint/troubleshoot/administration/authentication-errors-windows7)
+- [Felkészülés a TLS 1.2-re az Office 365-ben és az Office 365 GCC-ben](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
+- [Hibakód: 0x8004deb4 a OneDrive](https://support.microsoft.com/office/error-code-0x8004deb4-when-signing-in-to-onedrive-e8a8d97c-a87e-4dda-a67e-bae4fef05dcb)
+- [Hitelesítési hibák akkor fordulnak elő, ha az ügyfél nem támogatja a TLS 1.2-es használatát](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-tls12-support)
+- [A 7-es vagy SharePoint-ről OneDrive kapcsolódáskor Windows 8 hitelesítési hibák](https://docs.microsoft.com/sharepoint/troubleshoot/administration/authentication-errors-windows7)

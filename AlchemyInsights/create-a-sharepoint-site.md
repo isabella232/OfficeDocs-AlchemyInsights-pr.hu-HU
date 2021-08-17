@@ -1,5 +1,5 @@
 ---
-title: SharePoint-webhely létrehozása
+title: Webhely SharePoint létrehozása
 ms.author: pebaum
 author: pebaum
 ms.audience: Admin
@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806941"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080892"
 ---
-# <a name="create-a-sharepoint-site"></a>SharePoint-webhely létrehozása
+# <a name="create-a-sharepoint-site"></a>Webhely SharePoint létrehozása
 
-Webhelyek létrehozása és kezelése az [aktív webhelyekről](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) a SharePoint felügyeleti központban. További információt [a webhelyek kezelése az új SharePoint felügyeleti központban](https://docs.microsoft.com/sharepoint/manage-site-creation)című témakörben talál. 
+Webhelyeket hozhat létre vagy kezelhet az aktív [webhelyek közül](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) SharePoint Felügyeleti központban. További információt a Webhelyek kezelése az új felügyeleti [SharePoint című témakörben.](https://docs.microsoft.com/sharepoint/manage-site-creation) 
 
-## <a name="tips"></a>Tippek
+## <a name="tips"></a>Tippek:
 
-- A meglévő webhelyek URL-címét tartalmazó webhelyek **nem** hozhatók létre. Ha törölt egy webhelyet, és az URL-címet újra szeretné használni, lehetséges, hogy a törölt webhely továbbra is megtalálható a [törölt webhelyek](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)csoportban. A webhelyet véglegesen törölni kell az URL-cím ismételt felhasználásához. Ha teljesen el szeretné távolítani a PowerShell-webhelyet, tekintse át a [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) parancsmagot.
-- Előfordulhat, hogy bizonyos felhasználók nem tudnak webhelyeket létrehozni. [Lásd: webhelykészítés kezelése a SharePoint Online-ban](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Lehetséges, hogy a webhely megakad a **vártnál hosszabb ideig** . Ha több mint 24 óra telt el, mióta először látta ezt a problémát, kérjük, jelentkezzen be egy támogatási jegybe. Sok esetben már dolgozunk a megoldáson. Kérjük, hogy végezze el a megfelelő megoldást legalább 24 óráig.
+- Meglévő **webhely** URL-címével nem hozhat létre webhelyet. Ha törölt egy webhelyet, és újra fel szeretné használni az URL-címet, lehetséges, hogy a törölt webhely továbbra is létezik a Törölt [webhelyek csoportban.](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) Az URL-cím újrahasználata előtt a webhelyet véglegesen törölni kell. Ha teljesen el szeretne távolítani egy webhelyet a Powershell használatával, tekintse meg a [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) parancsmag példáját.
+- Előfordulhat, hogy egyes felhasználók nem tudnak webhelyet létrehozni. [Lásd: Webhelykészítés kezelése a SharePoint Online-ban.](https://docs.microsoft.com/sharepoint/manage-site-creation)
+- Lehetséges, hogy a webhely a  vártnál tovább tart a létrehozásnál. Ha a probléma első jelentkezte óta több mint 24 óra telt el, kérjük, írjon be egy támogatási jegyet. Sok esetben már dolgozunk a megoldáson. Kérjük, várjon legalább 24 órát a megoldásunkra.

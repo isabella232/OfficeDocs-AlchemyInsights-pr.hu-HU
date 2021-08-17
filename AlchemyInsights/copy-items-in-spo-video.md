@@ -1,5 +1,5 @@
 ---
-title: Fájlok másolása a SharePointba
+title: Fájlok másolása a SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "7542"
 - "5300013"
-ms.openlocfilehash: c50467983dc399432c37016367cdde19d2391c62
-ms.sourcegitcommit: a4d95e7612c05a1f90cc6c68c64aee769df89c4f
+ms.openlocfilehash: c2acb9732ec9182f4cf9bc3647a8eea1f68bc265356d0a062d9c9e86aedf66a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/05/2020
-ms.locfileid: "49583639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080856"
 ---
-# <a name="copy-files-to-sharepoint"></a>Fájlok másolása a SharePointba
+# <a name="copy-files-to-sharepoint"></a>Fájlok másolása a SharePoint
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOeS?autoplay=false]
 
-A SharePointban lévő fájlokat a böngészőből különböző helyekre másolhatja.
+A böngészőből fájlokat másolhat különböző helyekre a SharePoint.
 
-További információt az [áthelyezés vagy másolás](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc) című témakörben talál.
+További információ: Áthelyezés [vagy másolás](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)

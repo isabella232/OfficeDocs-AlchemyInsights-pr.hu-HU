@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055556"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>A szolgáltatott hangposta engedélyezése
 
-A hangposta engedélyezéséhez a **HostedVoicemail** $True értékre kell állítani.
+A Hangposta engedélyezéséhez **a HostedVoicemailnek** be kell állítania a $true.
 
-A felhasználó **HostedVoicemail** tulajdonsága távoli POWERSHELL (RPS) használatával.
+The **HostedVoicemail property** on the user using Remote PowerShell (RPS).
 
-Az RPS való csatlakozásról további információt a [Microsoft Teams PowerShell áttekintése](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) című témakörben talál.
+Az RPS-hez való csatlakozásról a [PowerShell Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) témakörben olvashat bővebben az RPS-hez való csatlakozásról.
 
-1. A Teams rendszergazdájának be kell jelentkeznie a Teams távoli PowerShellbe.
-1. A PowerShell parancssorába a Teams rendszergazdája futtathatja a **set-csuser parancsmagnak user@contoso.com-HostedVoiceMail $truet** , ahol a SIP-URI a kérdéses felhasználó.
+1. A Teams rendszergazdának be kell jelentkeznie a Távoli PowerShell for Teams.
+1. A PowerShell parancssorában a Teams rendszergazda futtathatja a **set-user@contoso.com -HostedVoiceMail $true** parancsot, ahol a kérdéses felhasználó sip urija található.
 
 > [!NOTE]
-> A házirendek módosításai akár 24 órát is igénybe vehetik a replikálást.
+> A házirendek módosításainak replikálása akár 24 órát is igénybe vehet.
