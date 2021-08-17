@@ -1,5 +1,5 @@
 ---
-title: Single-Sign Azure Active Directoryhoz csatlakozott eszközök esetén
+title: Single-Sign az összekapcsolt Azure Active Directory esetén
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9891"
-ms.openlocfilehash: f6426a3fb4addc24c5041196fe837134bf0d296b
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 365225926296677feb7853481651a634792fd8bfa9abd9dc9359ffaae50b60eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050012"
 ---
-# <a name="single-sign-on-for-azure-active-directory-joined-devices"></a>Egyszeri bejelentkezés az Azure Active Directoryhoz csatlakozott eszközökhöz
+# <a name="single-sign-on-for-azure-active-directory-joined-devices"></a>Egyszeres bejelentkezés az Azure Active Directory eszközökön
 
 Ha helyszíni Active Directory -környezetben (AD-ben) szeretne csatlakozni az AD-hez tartományhoz illesztett számítógépéhez az Azure AD-hez, ezt a hibrid Azure AD-csatlakozást elvégezve használhatja. [How To: Plan your hybrid Azure Active Directory join implementation](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) provides you with the related steps to implement a hybrid Azure AD join in your environment.
 
-[Az Azure AD-hez csatlakozott eszközök konfigurálása helyszíni Single-Sign a Vállalati Windows Hello használatával](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) 
+[Az Azure AD-hez csatlakozott eszközök konfigurálása helyszíni Single-Sign a Windows Hello Vállalati verzió használatával](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) 
 
-**Az elsődleges frissítési jogkivonattal (PRT) kapcsolatos problémák** Az elsődleges frissítési jogkivonat (PRT) az Azure AD-hitelesítés kulcsfontosságú eleme Windows 10,Windows Server 2016 és újabb verziók, iOS és Android rendszerű eszközökön. Ez egy JSON Web Token (JWT), amelyet kifejezetten a Microsoft első fél jogkivonat-közvetítőinek adtak ki, hogy engedélyezzék az egyszeri bejelentkezést az eszközökön használt alkalmazásokban. A Mi az elsődleges frissítési [jogkivonat?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)2010- és 2013-as verzióban részletes információkat nyújtunk a PRT-tanúsítványok Windows 10-es eszközökön való kibocsátásának, használatával és védelmével kapcsolatosakról.
+**Az elsődleges frissítési jogkivonattal (PRT) kapcsolatos problémák** Az elsődleges frissítési jogkivonat (PRT) az Azure AD-hitelesítés kulcsfontosságú Windows 10, Windows Server 2016, illetve újabb verzióiban, iOS- és Android-eszközökön. Ez egy JSON Web Token (JWT), amelyet kifejezetten a Microsoft első fél jogkivonat-közvetítőinek adtak ki, hogy engedélyezzék az egyszeri bejelentkezést az eszközökön használt alkalmazásokban. [A Mi az elsődleges](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token)frissítési jogkivonat? alatt részletesen meg fogjuk adni a PRT-tanúsítványok kibocsátásának, Windows 10 védelmét.
 
 **WamDefaultSet: YES és AzureADPrt: YES** Ezek a mezők azt jelzik, hogy a felhasználó sikeresen hitelesítve lett-e az Azure AD számára az eszközre való adatokat bejelentkezve. Ha az értékek **NEM,** annak az oka a következő lehet:
 
