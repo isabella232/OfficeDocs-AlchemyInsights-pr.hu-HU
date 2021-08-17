@@ -13,24 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017134"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303579"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Az IP-cím megkeresés a naplóban
 
-1. A naplókban az IP-cím látható, amely egy felhasználó vagy rendszergazda által végzett tevékenységnek felel meg. A program az ügyféladatokat is naplózza. Így azonosíthatja az IP-címet:
+A naplókban az IP-cím látható, amely egy felhasználó vagy rendszergazda által végrehajtott tevékenységnek felel meg. A program az ügyféladatokat is naplózza. Így azonosíthatja az IP-címet:
 
-1. A biztonsági Office 365 [megfelelőségi & meg.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Válassza **a Keresés**  >  **[naplókeresés lehetőséget.](https://go.microsoft.com/fwlink/?linkid=2103759)**
-    > [!NOTE]
-    > Ha egy figyelmeztetést lát, amely szerint be kell kapcsolnia a naplózást, nyugodtan bekapcsolhatja most. Ha ez a funkció nincs engedélyezve, a keresési eredmények nem tudnak adatokat lekért a korábbi dátumok adataiból.
-1. Ha egy adott tevékenységre kíváncsi, válassza ki azt a Tevékenységek **listából;** ellenkező esetben a rendszer alapértelmezés szerint az összes tevékenységet visszaadja a kiválasztott felhasználónak. Felhívjuk a figyelmét arra, hogy egyes tevékenységek nem érhetők el a **Tevékenységek menüben;** azonban ezeket a naplóelemeket  fogja visszaadni a rendszer, ha az Összes tevékenység eredményének megjelenítése beállítás van megjelölve (alapértelmezett beállítás).
-1. Adja meg a dátumtartományt, és a Felhasználók mezőben válassza ki a vizsgálni kívánt felhasználó felhasználónevét. 
-1. Válassza a **Keresés lehetőséget.** A tevékenységek az Eredmények alatt **jelennek meg.** Az egyes tevékenységek IP-címét láthatja.
-1. A részletek megtekintéséhez jelöljön ki egy tevékenységet, majd válassza a **További információ lehetőséget.**
+1. Az alábbi műveletek közül választhat:
+   - A Microsoft 365 Megfelelőségi központ a <https://compliance.microsoft.com> Megoldásvizsgálat  \> **ot.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://compliance.microsoft.com/auditlogsearch> használja: .
+   - A (Microsoft 365 Defender) portálon a <https://security.microsoft.com> Audit **(Naplózás) stb.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://security.microsoft.com/auditlogsearch> használja: .
 
-További információért olvassa el a Keresés a naplóban Office 365 gyakori esetek [elhárításához témakört.](https://go.microsoft.com/fwlink/?linkid=2103944)
+    **Megjegyzés:** Ha egy figyelmeztetést lát, amely szerint be kell kapcsolnia a naplózást, nyugodtan bekapcsolhatja most. Ha ez a funkció nincs engedélyezve, a keresési eredmények nem tudnak adatokat lekért a korábbi dátumok adataiból.
+
+2. A Naplózás **lapon** ellenőrizze,  hogy a Keresés lap van-e kiválasztva, majd adja meg az alábbi beállításokat:
+   - **Dátum- és időtartomány:** Válassza ki a dátum-/időtartományt a **Kezdő** és a **Záró** mezőben.
+   - **Tevékenységek:** Ha egy adott tevékenység érdekli, válassza ki azt a listából; ellenkező esetben az  összes tevékenység eredményének megjelenítése alapértelmezett érték az összes tevékenységet visszaadja. Felhívjuk a figyelmét arra, hogy egyes tevékenységek nem érhetők el a kijelöléshez; azonban ezeket a naplóelemeket fogja visszaadni a rendszer, ha az Összes tevékenység **eredményének** megjelenítése jelölőnégyzet be van jelölve.
+   - **Felhasználók:** Fogadja el az üres alapértelmezett értéket, és adja meg az összes felhasználó találatát, vagy adjon meg egy vagy több felhasználót.
+
+3. Ha végzett, kattintson a Keresés **gombra.** A tevékenységek az új Naplókeresés **lapon jelennek** meg.
+
+4. A találatok között kattintson az Eredmények **szűrése elemre,** és írja be a **Set-Mailbox (Postaláda beállítása)** mezőt a tevékenységszűrő mezőbe.
+
+5. Jelöljön ki egy naplórekordot az eredmények között a **Részletek úszó** panel megnyitásához.
+
+További információt a Keresés a naplóban a gyakori támogatási problémák [vizsgálatához.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

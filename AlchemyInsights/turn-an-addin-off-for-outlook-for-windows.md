@@ -1,5 +1,5 @@
 ---
-title: Be van kapcsolva a bővítmény a Windows Outlookban?
+title: Ki szeretne kapcsolni egy bővítményt Outlook a Windows?
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,21 +12,21 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "9003117"
 - "5896"
-ms.openlocfilehash: aa768a0c4b5672088ef68feedc803b4775e9dc2e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5f76ce38552c9b305acec4a8ddfea1ee7ae5a0016bf8c67aed1d7e7c2c3449b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47803624"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038735"
 ---
-# <a name="turn-an-add-in-off-for-outlook-for-windows"></a>Bővítmény kikapcsolása a Windows Outlookban
+# <a name="turn-an-add-in-off-for-outlook-for-windows"></a>Bővítmény kikapcsolása a Outlook bővítményhez Windows
 
-Ha nem szeretne bővítményt használni az Outlook 2013-ban vagy az Outlook 2016-ban a Windowsban, letilthatja, hogy ne jelenjen meg az üzenetekben.  
+Ha nem szeretne egy bővítményt használni az Outlook 2013-as vagy Outlook 2016-as Windows-ban, letilthatja azt, így az nem fog az üzenetei között sem omlni.  
 
-1. Az Outlookban kattintson a **fájl > bővítmények kezelése**parancsra.
-2. Kattintás a **Bővítmények kezelése** elemre
-3. Tipp: ezzel megnyitja a webes Outlookot.
-4. A Bővítmények kezelése csoport bekapcsolva oszlopában törölje annak a **bővítménynek a jelölőnégyzetét**  , amelyet ki szeretne kapcsolni.
-5. Bővítmények be-vagy kikapcsolása
+1. A Outlook kattintson a Fájl > Bővítmények kezelése **elemre.**
+2. Kattintson  **a Bővítmények kezelése elemre.**
+3. Tipp: Ezzel megnyitja Webes Outlook.
+4. A Bővítmények kezelése párbeszédpanel Bekapcsolva oszlopában  törölje a kikapcsolni kívánt bővítmény jelölőnégyzetének kijelölését.
+5. Bővítmények be- és kikapcsolása
 
-Tipp: Ha vissza szeretné kapcsolni a bővítményt, jelölje be a jelölőnégyzetet.
+Tipp: Ha vissza szeretne kapcsolni egy bővítményt, jelölje be ugyanezt a jelölőnégyzetet.
