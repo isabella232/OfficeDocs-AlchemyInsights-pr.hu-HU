@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 49fedc0d829d4972f15e9266e7a5519acfbd3eda78bd7f022477060523b9afd3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5b524fa0731d499bdea831b7f5363996b2f165f58e40717c3ca8a22dc264397
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979495"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890708"
 ---
 # <a name="cant-find-the-teams-meeting-recording"></a>Nem találom az értekezlet Teams felvételét
 
 Ha nem talál vagy nem talál egy Teams-értekezlet felvételét, először futtassa a hiányzó értekezletfelvétel diagnosztikai futtatását a **diag: Missing Recording (Diag: Hiányzó** felvétel) szöveg beírásával a fenti mezőbe. 
 
-A felvételek a Streamben, a OneDrive és a SharePoint találhatók attól függően, hogy hogyan van konfigurálva a bérlő, és hogy a felvétel csatornaértek értekezlethez készült-e. Az értekezlet felvételének manuális keresését az alábbi útmutatást követve találhatja meg: 
+A felvételek a Streamben, a OneDrive vagy a SharePoint találhatók attól függően, hogy a bérlő hogyan van beállítva, és hogy a felvétel csatornaértek értekezlethez készült-e. Az értekezlet felvételének manuális keresését az alábbi útmutatást követve találhatja meg: 
 
-[2. probléma: Az értekezlet felvételének hivatkozása nem látható a csevegőablakban](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
+[2. probléma: Az értekezlet felvételének hivatkozása nem látható a csevegőablakban](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-További információ: [Értekezletek felvételével kapcsolatos problémák.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+További információ: [Értekezletek felvételével kapcsolatos problémák.](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
