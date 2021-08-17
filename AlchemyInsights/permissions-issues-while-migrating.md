@@ -1,5 +1,5 @@
 ---
-title: Az engedélyek problémái a áttelepítés közben
+title: Engedélyekkel kapcsolatos problémák az áttelepítés során
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 39b36a85319ccd71278571f3a3cbbc7cf0b9f0fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c8c2cc4c13ed095987c7312bb752bac6b1940d92a3f7b229a99787273cb4883
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086598"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Felhasználói profil és fotó-szinkronizálás
+# <a name="user-profile-and-photo-synchronization"></a>Felhasználói profil és fénykép szinkronizálása
 
- **Profil fotó szinkronizálása** – a felhasználók azt tapasztalják, hogy a profilja fényképe nem szinkronizálódik a sharepointra. Esetleg megpróbálták frissíteni a profilja fényképét, és a fénykép továbbra is a régi fényképként jelenik meg. Ha gondoskodni szeretne arról, hogy a profil fényképe a várt módon látható legyen, a felhasználónak meg kell indítania egy fénykép-szinkronizálást. 
+ **Profilkép-szinkronizálás** – A felhasználók észreveheti, hogy profilképük nem szinkronizálódik a SharePoint. Vagy az is előfordulhat, hogy a felhasználó megpróbálta frissíteni a profilképét, és a fénykép továbbra is a régi fényképként jelenik meg. Ahhoz, hogy a profilkép a vártnak megfelelően megjelenik, a felhasználónak el kell kezdeményezenie a fényképszinkronizálást. 
   
-A fotó-szinkronizálási folyamatról további információt a [profil képe szinkronizálásáról a Microsoft 365-ban](https://go.microsoft.com/fwlink/?linkid=2022634) című cikkben talál.
+A fényképszinkronizálási folyamatról további információt az Információk a profilkép-szinkronizálásról a Microsoft 365 [](https://go.microsoft.com/fwlink/?linkid=2022634)
   
-- **Profil szinkronizálása** – a profil-szinkronizálás elvégzéséhez szükséges idő attól függ, hogy hány módosítás (munka) van folyamatban az ad-importálási feladaton. Ha sok változás van, az időzítő feladatnak sok feladata van, és hosszabb ideig tart, amíg a módosítások a felhasználóiprofil-alkalmazásban tükröződni fognak. Ha az időzítő kitöltése kis mennyiségű munkamennyiséget tartalmaz, a változtatások gyorsabban tükröződni fognak a felhasználói profil alkalmazásban. 
+- **Profilszinkronizálás** – A profilszinkronizálás befejezéséhez szükséges idő az AD importálási feladat által feldolgozott változtatások (munka) számától függ. Ha sok változtatás van, az időzítőfeladatnak sok munkája van, és tovább fog tartani, hogy a módosítások tükröződni tudjanak a Felhasználói profil alkalmazásban. Ha az időzítőfeladatnak kis mennyiségű feladata van, a módosítások sokkal gyorsabban megjelennek a Felhasználói profil alkalmazásban. 
   
-Ha többet szeretne tudni a profil szinkronizálási folyamatáról, olvassa el a [felhasználói profilok szinkronizálása a SharePoint Online-ban](https://go.microsoft.com/fwlink/?linkid=2022639) című témakört.
+A profilszinkronizálási folyamatról további információt az Információk a felhasználói profilok online szinkronizálásával kapcsolatban [SharePoint tartalmaz.](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **A profil frissítése az Office-ban:** a felhasználók kezelhetik a Microsoft 365-profiljaikat. További információt [a saját profiljának megtekintése és frissítése az Office-ban](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)című témakörben találhat.
+- **Profil frissítése a Office Delve** - Delve a felhasználók kezelhetik saját Microsoft 365 profiljukat. További információt a Saját profil megtekintése és frissítése a következőben: [Office Delve.](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)
     
 

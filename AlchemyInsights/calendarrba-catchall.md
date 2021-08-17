@@ -1,5 +1,5 @@
 ---
-title: 1081-naptár – RBA CatchAll
+title: 1081 Naptár – RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 3c7dff50fba4bd667d1432bd295edf404b459309
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcc2fbcc73e0c03b09d55de3eadb00273e83379476dfff4af8e2c758c91230d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734373"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059372"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>Helyiség-postaládák létrehozása és kezelése
 
-A helyiség-postaládák Exchange felügyeleti központban való létrehozásáról és módosításáról a [helyiség-postaládák létrehozása és kezelése](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)című témakörben olvashat.
+A helyiség-postaládák létrehozásáról és módosításáról a Exchange Felügyeleti központban a Helyiség-postaládák létrehozása és [kezelése című témakörben található további.](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)
 
-A helyiség-és berendezés-postaládákról (más néven erőforrás-postaládákról) a [helyiség-és berendezés-postaládák](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)című témakörben olvashat bővebben.
+A helyiség- és berendezés-postaládákról (más néven erőforrás-postaládákról) a Helyiség- és berendezés-postaládák (más néven erőforrás-postaládák) talál [további információt.](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)

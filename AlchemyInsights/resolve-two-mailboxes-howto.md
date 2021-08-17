@@ -1,5 +1,5 @@
 ---
-title: 1374 két postaláda – howto megoldása
+title: 1374 Két postaláda feloldása
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110070"
 ---
-# <a name="a-user-has-two-mailboxes"></a>Egy felhasználó két postaládával rendelkezik
+# <a name="a-user-has-two-mailboxes"></a>Egy felhasználónak két postaládája van
 
-Előfordulhat, hogy az Azure Active Directory Connect (AAD Connect) vagy az rSync szolgáltatást használó hibrid környezetekben a felhasználók két postaládában: egy helyszíni, a felhőben pedig egy. Bármely helyről duplikált postaládát hozhat létre.
+Az Azure Active Directory Csatlakozás (AAD Csatlakozás) vagy DirSync hibrid környezetekben előfordulhat, hogy a felhasználónak véletlenül két postaládája van: egy a helyszínen és egy a felhőben. Bármelyik helyen létre lehet hozva egy duplikált postaláda.
 
-A probléma megoldásához tekintse át, hogy [miként állíthatja helyre a postaládát, ha az Exchange Online-ban és a helyszíni webhelyen is megtalálható](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Ha többet szeretne megtudni arról, hogy miként kerülheti el ezt a folyamatot a jövőben, akkor olvassa el a következő témakört: [a felhasználó postaládája mind helyszíni, mind az Exchange Online-ban megtalálható. Súgó!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+A probléma megoldásához lásd: Helyreállítás, ha a postaláda a Exchange Online és a [helyszínen is létezik.](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises) Ha többet szeretne megtudni arról, hogy miként kerülheti el ezt a jövőben, olvassa el a Saját felhasználó postaládával a helyszínen és a helyi [Exchange Online. Súgó!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

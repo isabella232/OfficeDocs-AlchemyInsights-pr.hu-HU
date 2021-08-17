@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0a82646b18b51cf198c287990e5ce447619aac20
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: be92d2397c7088020cc8bea5101acf6717af4db82a785f71d55ec5aff9061b1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059192"
 ---
 # <a name="azure-active-directory"></a>Azure Active Directory
 
-A Microsoft Azure Active Directory (Azure AD) egy felhőalapú identitás- és hozzáférés-kezelési szolgáltatás, amely segítséget nyújt az alkalmazottaknak a bejelentkezésben és az erőforrásokhoz való hozzáférésben külsőleg és belsőleg egyaránt. További információért olvassa el az alábbi forrásokat:
+Microsoft Azure Active Directory (Azure AD) egy felhőalapú identitás- és hozzáférés-kezelési szolgáltatás, amely segítséget nyújt az alkalmazottaknak a bejelentkezésben és az erőforrások elérésében külsőleg és belsőleg egyaránt. További információért olvassa el az alábbi forrásokat:
 
-- [Mi az Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2081145)
-- [Azure-integráció az Office 365-ben](https://go.microsoft.com/fwlink/?linkid=2081218)
-- [Azure Active Directory ingyenes próbaverzió](https://go.microsoft.com/fwlink/?linkid=2081144)
+- [Mik az Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2081145)
+- [Azure-integráció a Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
+- [Azure Active Directory próbaverzió](https://go.microsoft.com/fwlink/?linkid=2081144)

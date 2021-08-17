@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 7eaeff630a31d4e8ce5a3a92ff40be9211a0cdaa
-ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
+ms.openlocfilehash: 21b06a9b5e836fa83f4d37617857eabb6289c30771d69225de662415d513d720
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53129841"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890148"
 ---
 # <a name="configure-retention-policies-for-teams-locations"></a>Adatmegőrzési házirendek konfigurálása Teams helyekhez
 
-Az adatmegőrzési házirendek konfigurálása Teams:
+Az adatmegőrzési házirendek konfigurálása a Teams:
 
 1. A Microsoft Megfelelőségi központban válassza a **Házirendek megőrzése**  >  **lehetőséget.**
 
 1. Az **Adatmegőrzési házirendek alatt** válassza az Új **adatmegőrzési** házirend lehetőséget, nevezze el a házirendet, majd válassza a Tovább **gombot.**
 
-1. Válassza ki a kívánt beállításokat: **Teams csevegések** vagy **Teams** vagy mindkettő, majd válassza a Tovább **gombot.**
+1. Válassza ki a kívánt beállításokat: Teams **vagy** **Teams** üzeneteket , vagy mindkettőt, majd válassza a Tovább **gombot.**
 
 1. Adja meg az adatmegőrzési beállításokat. 
 
@@ -36,5 +36,5 @@ Az adatmegőrzési házirendek konfigurálása Teams:
 
 Megjegyzés: A privát csatorna üzeneteit jelenleg nem támogatják az adatmegőrzési házirendek.
 
-A csoport adatmegőrzésével és az ismert konfigurációs problémákkal kapcsolatos további információkért lásd: Adatmegőrzési szabályok a [Teams helyekhez](/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
+A csoport adatmegőrzésével és az ismert konfigurációs problémákkal kapcsolatos további információkért lásd: Adatmegőrzési szabályok a Teams [helyeken.](https://docs.microsoft.com/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
 
