@@ -16,12 +16,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: a5a91adf124143d3ccaaa55d927da6a540d8d390f8a306b979f05b4eb279ffc2
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: b35a671b345600f9bbd03175ba2cc3d83ffb5602d0d5b0631e0a9c6bca09db50
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501062"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887672"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Hogyan frissíthetem hitelkártyaadataimat?
 
@@ -29,6 +29,6 @@ ms.locfileid: "54501062"
 2. Jelölje ki a frissíteni kívánt fizetési mód sorát. A jobb oldali panelben válassza a **Szerkesztés** lehetőséget.
 3. Frissítse a fizetési mód adatait, beleértve a hitel- vagy bankkártyán szereplő nevet, a számlázási címet, vagy a lejárati dátumot, majd válassza a **Mentés** lehetőséget.
 
-További információért lásd: [Fizetési módok kezelése](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+További információért lásd: [Fizetési módok kezelése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Megjegyzés**: Ha egy másik rendszergazda vásárolta az előfizetést, akkor Ön nem fogja tudni frissíteni az előfizetés hitelkártya- vagy bankszámlaadatait. Ha a kártya hamarosan lejár, és a másik rendszergazda nem tudja frissíteni az adatait, a szolgáltatás megszakadását úgy előzheti meg, hogy egy másik hitelkártyát vagy bankszámlát ad hozzá az előfizetéshez.

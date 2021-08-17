@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "12320"
 - "9001669"
-ms.openlocfilehash: 8e403532b60c439e3f589ef89d3de857a6db6230
-ms.sourcegitcommit: ea5b3217c8d8cacc31c6250921d0dcdd8385e863
+ms.openlocfilehash: a6f36ebff88efee00c0fc9256250cf570a04e614af936b8f907d564e0e82398f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53460075"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887390"
 ---
 # <a name="microsoft-365-developer-program"></a>Microsoft 365 Fejlesztői program
 
-A Microsoft 365 fejlesztői program tartalmaz egy Microsoft 365 E5 fejlesztői előfizetést, használhatja saját védőfala létrehozásához és az éles környezettől független megoldások kidolgozására. A fejlesztői programmal és az előfizetésekkel kapcsolatos Microsoft 365 és Visual Studio gyakori kérdésekért lásd: [Microsoft 365 fejlesztői program.](/office/developer-program/microsoft-365-developer-program)
+A Microsoft 365 fejlesztői program tartalmaz egy Microsoft 365 E5 fejlesztői előfizetést, használhatja saját védőfala létrehozásához és az éles környezettől független megoldások fejlesztéséhez. A fejlesztői programmal és az előfizetésekkel kapcsolatos további Microsoft 365 és gyakori kérdésekért Visual Studio a fejlesztői program Microsoft 365 [lapra.](https://docs.microsoft.com/office/developer-program/microsoft-365-developer-program)
 
-Ha segítségre van szüksége a Microsoft 365 fejlesztői programmal vagy Visual Studio-előfizetések, küldjön támogatási kérelmet az előfizetés [Visual Studio támogatási szolgálatával.](https://visualstudio.microsoft.com/subscriptions/support/)
+Ha segítségre van szüksége a Microsoft 365 fejlesztői programmal vagy Visual Studio-előfizetések, küldjön támogatási kérelmet az [Visual Studio-előfizetés támogatási szolgálatával.](https://visualstudio.microsoft.com/subscriptions/support/)

@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689048"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887538"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>Előfizetés újraaktiválása és az ismétlődő számlázás kezelése
 
@@ -32,7 +32,7 @@ ms.locfileid: "53689048"
 3. Az **Előfizetés újraaktiválása** ablaktáblában válasszon ki egy fizetési módot a legördülő listából, vagy válassza a Fizetési **mód hozzáadása lehetőséget.**
 4. Válassza a **Mentés** elemet.
 
-További információért tekintse meg [Az előfizetés újraaktiválása](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.
+További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.
 
 A havi vagy az éves számlázás kezeléséhez be- vagy kikapcsolhatja az **Ismétlődő számlázás** lehetőséget.
   
@@ -42,4 +42,4 @@ A havi vagy az éves számlázás kezeléséhez be- vagy kikapcsolhatja az **Ism
 4. Az Ismétlődő **számlázási beállítások szerkesztése ablaktáblában** válassza a **Be,** a **Be, de a megújítás** egyszer lehetőséget, vagy kapcsolja ki a **beállítást.**
 5. Válassza a **Mentés** elemet.
 
-További információért lásd: [Ismétlődő számlázás be- és kikapcsolása](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+További információért lásd: [Ismétlődő számlázás be- és kikapcsolása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
