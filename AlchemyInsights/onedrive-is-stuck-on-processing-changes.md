@@ -1,5 +1,5 @@
 ---
-title: A OneDrive elakad a módosítások feldolgozásakor
+title: OneDrive elakad a Módosítások feldolgozása folyamat során
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,15 +13,15 @@ ms.assetid: ''
 ms.custom:
 - "9003089"
 - "5842"
-ms.openlocfilehash: 984d7975e14d4ecfc91b4602470e4341f63d3122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 603afed979f9b15315fd41e1ab139936ec0bb7a21ad4bcb3a56279a104bc0267
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802635"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076059"
 ---
-# <a name="onedrive-is-stuck-on-processing-changes"></a>A OneDrive elakad a módosítások feldolgozásakor
+# <a name="onedrive-is-stuck-on-processing-changes"></a>OneDrive elakad a Módosítások feldolgozása folyamat során
 
-Ha a OneDrive hosszú ideig a "módosítások feldolgozása" üzenetet jeleníti meg, előfordulhat, hogy egy online fájl van megnyitva, sok fájl elakad a várólistában vagy egy nagyon nagy fájlok szinkronizálása. A  [OneDrive elakad a "módosítások feldolgozása"](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) funkció a javasolt lépésekhez és további információkhoz.
+Ha OneDrive "Módosítások feldolgozása" üzenet hosszú ideig látható, annak az lehet az oka, hogy meg van nyitva egy online fájl, sok fájl elakad a várólistán vagy egy nagyon nagy fájlszinkronizálás. A [OneDrive a "Módosítások feldolgozása" folyamatnál](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) elakad a javasolt lépésekért és további információkért.
 
-Ha további segítségre van szüksége, az  [e-mail-OneDrive támogatást](https://go.microsoft.com/fwlink/p/?LinkId=528676)nyújt.
+Ha további segítségre van szüksége, e-mailben OneDrive [ügyfélszolgálattól.](https://go.microsoft.com/fwlink/p/?LinkId=528676)

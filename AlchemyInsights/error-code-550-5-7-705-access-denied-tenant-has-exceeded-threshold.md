@@ -1,5 +1,5 @@
 ---
-title: 550-as kódú 5.7.705 hozzáférés megtagadva, a bérlő túllépte a küszöbértéket
+title: '550 5.7.705-ös hibakód: A hozzáférés megtagadva, a bérlő túllépte a küszöbértéket'
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044198"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 hozzáférés megtagadva, a bérlő túllépte a küszöbértéket
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Access denied, tenant has exceeded threshold
 
-Ez az üzenet akkor jelenik meg, ha túl sok levélszemét vagy tömeges e-mailt küldtek a szervezete számára, és a kimenő levelek között teszünk egy blokkot.
-A gyakori okok a helyszíni kiszolgálók vagy az összekötők létrehozásához használt, kiegyezéssel rendelkező rendszergazdai fiókok. Bármelyik feltétel lehetővé teszi, hogy a levélszemét áthaladjon a szervezeten belül.
+Ez az üzenet akkor jelenik meg, ha szervezete túl sok levélszemetet vagy tömeges e-mailt küldött, és letiltjuk a kimenő e-maileket.
+A leggyakoribb okok az összekötők létrehozásához használt helyszíni kiszolgálók vagy feltört rendszergazdai fiókok. Mindkét feltétel lehetővé teszi, hogy levélszemét áthaladjon a szervezeten.
 
-A blokk eltávolításához meg kell értenie és el kell magyaráznia a támogatási ügynököt, és ki kell javítania a mögöttes problémát.
-Ha elkészült, kattintson a **Kapcsolatfelvétel** hivatkozásra.
+A letiltás eltávolításához meg kell értenie és el kell magyaráznia az okát egy támogatási ügynöknek, valamint ki kell javítania a hiba hátterében lévő problémát.
+Ha **elkészült,** kattintson alább a Kapcsolatfelvétel elemre.
