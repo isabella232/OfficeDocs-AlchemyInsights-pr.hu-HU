@@ -1,5 +1,5 @@
 ---
-title: A SharePoint-webhelyek modernizálása
+title: A webhely SharePoint modernizálása
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0fdc6988ea693f6c0e012af719cdaca2f6fa13c888a5fb39e35387e1a820e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107838"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>A SharePoint-webhelyek modernizálása
+# <a name="modernize-your-sharepoint-sites"></a>A webhely SharePoint modernizálása
 
-A klasszikus SharePoint-webhelyek modern felületre való korszerűsítésének lépésenkénti áttekintését a [klasszikus SharePoint-webhelyek modernizálása](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)című témakörben találhatja meg.
+A klasszikus SharePoint webhelyek modern felhasználói élményre való modernizálásának lépéseit A klasszikus webhelyek modern SharePoint [olvashat.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
 
-* Ha szeretné maximalizálni a webhelyek és a lista-és dokumentumtárak modern felhasználói felületének használatát, tanulmányozza [a felhasználói felület korszerűsítése](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)című témakört.
-* Ha többet szeretne tudni arról, hogy miként tilthatja le a listákat és a tárakat a modern felhasználói felület használatakor, olvassa el a [modern listák és tárak használatának maximalizálása](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)című témakört.
-* A Microsoft 365-csoportokhoz való csatlakozásról és a csoportok közötti kapcsolatról a [Csatlakozás microsoft 365-csoporthoz](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)című témakörben olvashat bővebben.
+* A modern felhasználói felület webhelylapokhoz, valamint lista- és tárlapokhoz való használatának maximalizálására A felhasználói felület [modernizálása](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)( )
+* Ha szeretne többet megtudni arról, hogy miként oldhatja fel a listák és tárak letiltásának feloldását a modern felhasználói felületen, olvassa el [A modern](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)listák és tárak használatának maximalizálása.
+* A csoporttal való Microsoft 365 és a csoportkapcsolatok elvégzéséről további információt a Csatlakozás Csatlakozás csoporthoz Microsoft 365 [kapcsolatban.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
 
-**Fontos**: Ha úgy érzi, hogy a lap már modern nézetben jelenik meg, és nem, kérjük, keresse meg a kérdéses lapot, másolja az URL-címet, és adja meg az URL-címet a támogatási jegy részleteinek részeként.
+**Fontos:** Ha úgy érzi, hogy a lap már látható modern nézetben, de nem, keresse meg a szóban forgó lapot, másolja az URL-címet, és adja meg az URL-címet a támogatási jegy részleteinek részeként.

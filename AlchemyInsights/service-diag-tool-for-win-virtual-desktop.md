@@ -1,5 +1,5 @@
 ---
-title: A Windows Virtual Desktop szolgáltatás diagnosztikai eszköze
+title: Service diagnostics tool for Windows Virtual Desktop
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003893"
 - "6947"
-ms.openlocfilehash: c2e6f7fbcddc6721425840e87202a165cdb22664
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 58688e3216ba6777b1a4f76095bd39c81a2d2a8294e06b6bc61c7134f6d589f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678622"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052388"
 ---
-# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>A Windows Virtual Desktop szolgáltatás diagnosztikai eszköze
+# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Service diagnostics tool for Windows Virtual Desktop
 
-A Windows Virtual Desktop (WVD) diagnosztikai eszköz segítségével a rendszergazdák egyetlen felületen azonosíthatják a hibákat. Ez az eszköz diagnosztikai információkat naplóz, ha a WVD a WVD szerepkört hozzárendelt valaki használja. Az egyes naplók információkat tartalmaznak a tevékenységben részt vevő WVD szerepről, a munkamenet során megjelenő hibaüzenetekről, valamint a bérlőről és a felhasználóról szóló információkról. Az Azure log Analytics beállítható úgy, hogy a diagnosztikai eszköz által létrehozott műveletnapló rögzítse a naplót. Ezt a következőképpen teheti meg:
+Windows A Virtual Desktop (WVD) diagnosztikai eszközével a rendszergazdák egyetlen felületen azonosíthatja a hibákat. Ez az eszköz diagnosztikai adatokat naplóz minden alkalommal, amikor egy WVD-szerepkörrel társított felhasználó használja a WVD-et. Minden napló tartalmazza a tevékenységben érintett WVD szerepkört, a munkamenet során megjelenő hibaüzeneteket, valamint a bérlő és a felhasználó adatait. Az Azure Log Analytics konfigurálható a diagnosztikai eszköz által létrehozott tevékenységnapló rögzítésére. Ezt a következőképpen teheti meg:
 
-1. Hozzon létre egy log Analytics-munkaterületet az [Azure Portal](https://go.microsoft.com/fwlink/?linkid=2129500) vagy az [Azure PowerShell](https://go.microsoft.com/fwlink/?linkid=2129501)segítségével.
-1. [Windows-számítógépek csatlakoztatása az Azure monitorhoz](https://go.microsoft.com/fwlink/?linkid=2129913). A munkaterület-azonosító és a munkaterület elsődleges kulcsának beszerzése. A beállítási varázslónak szüksége van erre az információra az ügynök megfelelő konfigurálásához és az Azure monitorral való kommunikációhoz.
-1. [A diagnosztika adatainak leküldése a munkaterületre](https://go.microsoft.com/fwlink/?linkid=2128284). A diagnosztikai adatait lenyomhatja a WVD-bérlőtől a munkaterülete log-elemzéséhez.
-1. [Azonosíthatja és diagnosztizálhatja](https://go.microsoft.com/fwlink/?linkid=2128338) az WVD kapcsolatos belső vagy külső problémákat.
+1. Hozzon létre egy Log Analytics munkaterületet az [Azure Portal](https://go.microsoft.com/fwlink/?linkid=2129500) vagy a [Azure PowerShell.](https://go.microsoft.com/fwlink/?linkid=2129501)
+1. [Csatlakozás Windows át a számítógépeket az Azure Monitor alkalmazásba.](https://go.microsoft.com/fwlink/?linkid=2129913) Szerezze be a munkaterület azonosítóját és a munkaterület elsődleges kulcsát. A beállítási varázslónak szüksége van erre az információra, hogy megfelelően konfigurálja az ügynököt, és biztosítsa, hogy képes legyen kommunikálni az Azure Monitorral.
+1. [Leküldéses diagnosztikai adatok a munkaterületre.](https://go.microsoft.com/fwlink/?linkid=2128284) Leküldéses diagnosztikai adatokat a WVD-bérlőről a munkaterület naplóelemzésébe.
+1. [A WVD-vel](https://go.microsoft.com/fwlink/?linkid=2128338) kapcsolatos belső vagy külső problémák azonosítása és diagnosztizálása.
 
-Ha többet szeretne tudni a WVD szolgáltatás diagnosztikai eszközének konfigurálásáról, olvassa el [a naplózási elemzés használata a diagnosztikai szolgáltatáshoz](https://go.microsoft.com/fwlink/?linkid=2128084)című témakört.
+A szolgáltatásdiagnosztikai eszköz WVD-hez való konfigurálásával kapcsolatos további információkért lásd: A diagnosztikai funkció használata [a naplóelemzéssel.](https://go.microsoft.com/fwlink/?linkid=2128084)
