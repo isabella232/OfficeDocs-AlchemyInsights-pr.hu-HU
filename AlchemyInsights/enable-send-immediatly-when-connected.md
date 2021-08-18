@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 6ebd318af82a4e57dc9e2f51a88301c1d9a6851c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 27b4caf4d1f3fcaa16031ee8d80dd01bda1cc1bc1511983632ebbabf82f8ecbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117882"
 ---
 # <a name="enable-send-immediately-when-connected"></a>A Küldés azonnal engedélyezése, ha csatlakoztatva van
  
 1. A Fájl lapon kattintson a Beállítások **gombra.**
 
-2. Az Outlook beállításai párbeszédpanelen kattintson a Speciális **elemre.**
+2. A Beállítások Outlook kattintson a Speciális **elemre.**
 
 3. A Küldés és fogadás csoportban kattintással engedélyezze a **Küldés azonnal, ha csatlakozik elemre.** Kattintson az **OK** gombra.
 
 Részletes információkért lásd:
 - [Videó: Beragadt e-mailek küldése vagy törlése](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [Az e-mailek mindaddig a Outbox mappában maradnak, amíg manuálisan nem indít el küldési/fogadási műveletet az Outlookban](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+- [Az e-mailek mindaddig a Outbox mappában maradnak, amíg nem indít el manuálisan egy küldési/fogadási műveletet a Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)

@@ -15,19 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: fbe6a7e6541e9172301b848a0fa733f66af7c8d128ac8557ca2cd62cad1d06ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54068886"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320991"
 ---
 # <a name="retail-prepaid-card"></a>Kiskereskedelmi előre kifizetett kártya
 
-Ha kiskereskedelmi Microsoft 365 Vállalati standard verzió vásárolt előfizetést, az alábbi lépésekkel meghosszabbíthatja a lejárati dátumot, vagy hozzáadhat egy licencet egy meglévő előfizetéshez.
+Ha egy Microsoft 365 Vállalati standard verzió vásárolt, az alábbi lépésekkel meghosszabbíthatja a lejárati dátumot, vagy hozzáadhat egy licencet egy meglévő előfizetéshez.
 
-> [!NOTE]
-> Ha egy termékkulcs használatával meghosszabbítja a lejárati dátumot, vagy hozzá szeretne adni egy licencet a meglévő Microsoft 365 Vállalati standard verzió-előfizetéséhez, szüksége lesz egy új, még nem használt termékkulcsra ugyanannak az előfizetésnek Microsoft 365 előfizetéséhez. Az eredeti termékkulcs Microsoft 365 nem fog működni, mert a már beváltott termékkulcsok nem használhatók fel újra.
+**Megjegyzés:** Ha egy termékkulcs használatával meghosszabbítja a lejárati dátumot, vagy hozzá szeretne adni egy licencet meglévő Microsoft 365 Vállalati standard verzió-előfizetéséhez, ugyanannak az előfizetésnek egy új, még nem használt Microsoft 365 szüksége. Az eredeti termékkulcs Microsoft 365 nem fog működni, mert a már beváltott termékkulcsok nem használhatók fel újra.
 
 1. A felügyeleti központban válassza a **Termékek**  >  **[számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Keresse meg azt az előfizetést, amelyhez licencet szeretne kibővíteni vagy hozzá szeretne adni. Válassza [a Záró dátum meghosszabbítása lehetőséget,](https://go.microsoft.com/fwlink/p/?linkid=842054) vagy adjon hozzá további [licenceket.](https://go.microsoft.com/fwlink/p/?linkid=842054)

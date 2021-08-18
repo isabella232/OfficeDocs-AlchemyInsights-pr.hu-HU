@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896113"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320491"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>A feladó címére/tartományára vonatkozó listaszabályok kijavítva
 
 Az üzenetre az egyik levélszemét-szűrési házirend hatással volt. Az üzenet feladója megtalálható egy Allow (Megengedve) vagy Block (Blokkolás) listában. A házirendek áttekintéshez kövesse az alábbi lépéseket:
 
-1. A Microsoft 365 Defender portálon a Házirendek szakaszban & e-mailes együttműködési házirendek & szabályok veszélyforrások elleni védelem című <https://security.microsoft.com/>  \>  \>  \>  **szakaszát.**
+1. A Microsoft 365 Defender portálon a Házirendek csoportban & <https://security.microsoft.com/>  \>  \>  \> **e-mailes**  együttműködési házirendek & szabályok veszélyforrások elleni házirendek Levélszemét elleni szakaszában.
 
    Ha közvetlenül a **Levélszemét-szűrési házirendek** lapot kell használnia, használja a <https://security.microsoft.com/antispam> következőt: .
 

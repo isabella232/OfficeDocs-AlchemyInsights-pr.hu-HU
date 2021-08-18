@@ -14,27 +14,26 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ac46a90e3ad928723ba601043acce92c23d5c84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005524"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320160"
 ---
 # <a name="delete-a-profile"></a>Profil törlése
 
 Profil törléséhez kövesse az alábbi lépéseket.
   
-1. A Outlook válassza  a \> **Fájlfiók Gépház** \> **Profilok kezelése lehetőséget.**
+1. A Outlook válassza a  \> **Fájlfiók Gépház** \> **Profilok kezelése lehetőséget.**
 
 2. Válassza **a Profilok megjelenítése lehetőséget.**
 
 3. A Posta **párbeszédpanelen** jelölje ki a törölni kívánt profilt, majd kattintson az Eltávolítás **gombra.**
 
-    > [!NOTE]
-    > Outlook figyelmeztetést, hogy a profil törlésével eltávolítja az offline adatokat. Nem veszíti el az Outlook-adatfájlokban (.pst) tárolt információkat, illetve az online fiókjaiban tárolt adatokat, például Outlook.com, Exchange vagy Microsoft 365-fiókokat.
+    **Megjegyzés:** Outlook figyelmeztetést, hogy a profil törlése eltávolítja az offline adatokat. Nem veszíti el az Outlook-adatfájlokban (.pst) tárolt információkat, illetve az online fiókjaiban tárolt adatokat, például Outlook.com, Exchange vagy Microsoft 365-fiókokat.
   
-A **Mac Outlook** a Profilok vagy [](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) identitások kezelése a szervezetben Mac Outlook, illetve az alábbi lépések használhatja.
+A **Mac Outlook** a Profilok [](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) vagy identitások kezelése a szervezetben Mac Outlook, vagy kövesse az alábbi lépéseket.
   
 1. A Finderben nyissa meg a **Alkalmazások** mappát.
 
