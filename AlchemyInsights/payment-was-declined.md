@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087210"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319894"
 ---
 # <a name="your-payment-was-declined"></a>A kifizetést a rendszer elutasította
 
@@ -35,8 +35,7 @@ A Microsoft a számla dátuma után 3-4 héten belül többször is megkísérli
 
 4. Meglévő fizetési mód használatához válasszon egyet a legördülő listából, majd válassza a **Csere** lehetőséget.
 
-    > [!NOTE]
-    > Ha számlázási profillal társított előfizetései vannak, csak hitelkártyával vagy bankkártyával rendezheti fizetheti a szolgáltatásokért. Ha **Fizetési módok** között szereplnek bankszámái, azok nem lesznek elérhetőek a legördülő listában.
+    **Megjegyzés:** Ha számlázási profilhoz előfizetések vannak társítva, csak hitelkártyával vagy bankkártyával fizethet számukra. Ha **Fizetési módok** között szereplnek bankszámái, azok nem lesznek elérhetőek a legördülő listában.
 
 5. Új fizetési mód hozzáadásához válassza a **Fizetési mód hozzáadása** lehetőséget.
 

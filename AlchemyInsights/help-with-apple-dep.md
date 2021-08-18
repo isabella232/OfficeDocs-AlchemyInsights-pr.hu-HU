@@ -1,5 +1,5 @@
 ---
-title: Súgó az Apple DEP szolgáltatáshoz
+title: Segítség az Apple DeP-hez
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116334"
 ---
-# <a name="help-with-apple-dep"></a>Súgó az Apple DEP szolgáltatáshoz
+# <a name="help-with-apple-dep"></a>Segítség az Apple DeP-hez
 
-Ha egy DEP-eszköz nem tud regisztrálni és MFA-t (többtényezős hitelesítés), tiltsa le a MFA-t. Az MFA-adatvégrehajtás megakadályozása jelenleg nem támogatott.
+Ha egy dep-eszköz nem tud regisztrálni, és engedélyezve van az MFA (Multi-Factor Authentication) funkció, tiltsa le az MFA funkciót. Az MFA jelenleg nem támogatott az internetszolgáltató regisztrálása esetén.
 
-[A Intune és az Apple eszköz-beiktatási program (DEP) használatának első lépései](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Az Intune és az Apple Eszközregisztrációs programjának (DEP) első lépések](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Gyakori iOS-beiratkozási hibák és megoldások](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Gyakori iOS-regisztrációs hibák és megoldások](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Biztonsági mentési és visszaállítási forgatókönyvek az iOS/iPadOS-eszközökhöz](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[Biztonsági mentési és visszaállítási esetek a regisztrált iOS- és iPadOS-eszközökhöz](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
-[Általános tanúsítványigénylés hibaelhárítása](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Általános regisztrációs hibaelhárítás](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Gyakori beiratkozási hibák diagnosztizálása és megoldása a Intune hibaelhárítási portálján](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Az Intune hibaelhárítási portáljának használata a gyakori regisztrációs hibák diagnosztizálásához és megoldásához](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)

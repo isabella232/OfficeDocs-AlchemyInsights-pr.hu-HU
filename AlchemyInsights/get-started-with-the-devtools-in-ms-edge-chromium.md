@@ -1,5 +1,5 @@
 ---
-title: Ismerkedés a Microsoft Edge-ben (króm) elérhető fejlesztői eszközökkel
+title: A fejlesztői eszközök használata a Microsoft Edge (Chromium)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116370"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>Ismerkedés a Microsoft Edge-ben (króm) elérhető fejlesztői eszközökkel
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>A fejlesztői eszközök használata a Microsoft Edge (Chromium)
 
-A Microsoft Edge elfogadta a Chromium Open-Source projektet, amelynek célja az, hogy a webes felületeket kevésbé lehessen kihasználni, és a webes platformokat is jobban kompatibilisvé tegye. Ez a változás feljogosítja a Microsoft Edge-et a többi króm-alapú böngészőben működő webhelyek összeállítására és tesztelésére.
+Microsoft Edge nyílt forráskódú Chromium, amelynek célja, hogy a webes platform kevésbé töredezettebb és kompatibilisebb legyen. Ez a változás lehetővé teszi, hogy a Microsoft Edge használatával olyan webhelyeket építsen és teszteljön, amelyek más, Chromium-alapú böngészőkben működnek.
 
-A Microsoft Edge (króm) a [legalkalmasabb fejlesztői eszközöket](https://go.microsoft.com/fwlink/?linkid=2134941) is tartalmazza, amelyek ismerősek lehetnek, és kompatibilisek a már használt eszközökkel.
+Microsoft Edge (Chromium) olyan, a legjobb [](https://go.microsoft.com/fwlink/?linkid=2134941) osztálynak megfelelő fejlesztői eszközöket is biztosít, amelyek ismerősek és kompatibilisek a már használt eszközökkel.
 
-További információt [a Microsoft Edge (króm) devtools újdonságai](https://go.microsoft.com/fwlink/?linkid=2135020)című témakörben találhat.
+További információt a Fejlesztői (fejlesztői) [Microsoft Edge (Chromium) olvashat.](https://go.microsoft.com/fwlink/?linkid=2135020)

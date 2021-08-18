@@ -1,5 +1,5 @@
 ---
-title: A SharePoint Online-kifejezéskészlet használata
+title: Az SharePoint Online Kifejezéstár használata
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 2425611d18b9751fd68c5cabb7c1bfe5af709bca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c05cd822844c22a7fb5b384d224bcc6b863327c2a20b39512c16e0585e8951b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779089"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115984"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>A SharePoint Online-kifejezéskészlet használata
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Az SharePoint Online Kifejezéstár használata
 
-A kifejezéskészlet a globális rendszergazda, a SharePoint-rendszergazda és a term Store rendszergazdák számára érhető el, és megtalálható az új SharePoint Online felügyeleti központban.
+A Kifejezéstár a globális rendszergazdáknak, a SharePoint-rendszergazdáknak és a kifejezéstár-rendszergazdáknak érhető el, és az új SharePoint Felügyeleti központban találhatók.
   
-Ha többet szeretne tudni arról, hogy miként használhatja a SharePoint Online-beli kifejezéskészlet és a besorolást a SharePoint Online-ban, olvassa el a [Bevezetés a felügyelt metaadatokkal](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)című témakört
+A SharePoint Online kifejezéstár és az SharePoint Online-ban használt SharePoint használatának további információja: Bevezetés a felügyelt [metaadatokhoz.](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)
   
-Ha nem jelennek meg vagy nem jelennek meg időnként a hibák, akkor várjuk 24 órát, majd jelentkezzen be támogatási kérést, ha a probléma nem szűnik meg. Habár a 24 óra hosszú időt vehet igénybe, gyorsítótárazási probléma lehet, vagy már lehet, hogy már dolgozunk a probléma megoldásán.
+Ha olyan kifejezésekkel kapcsolatban van problémája, amelyek nem jelennek meg vagy időnként jelennek meg, javasoljuk, hogy várjon 24 órát, majd ha a hiba nem szűnik meg, naplózjon egy támogatási kérelmet. Bár hosszú ideig is tart a 24 óra, gyorsítótárazást okozhat, vagy már dolgozunk a probléma megoldásán.
   

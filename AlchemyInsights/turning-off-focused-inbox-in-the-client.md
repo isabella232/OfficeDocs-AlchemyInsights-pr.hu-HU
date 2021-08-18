@@ -1,5 +1,5 @@
 ---
-title: 911 a szűrt levelek funkció kikapcsolása az ügyfélszámítógépen
+title: 911 A fókuszban lévő levelek kikapcsolása az ügyfélprogramban
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 7d9d065c3b95f5fe75eca5df844fbe7a9f3e6de9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df283ec7aab493dcca684426606b54fdb08a2fa94d2e17845cefc028ed4407c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092484"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>A szűrt levelek funkció kikapcsolása az e-mail-ügyfélprogramokban
+# <a name="turn-off-focused-inbox-in-email-clients"></a>A Fókuszban lévő levelek kikapcsolása a levelezőprogramban
 
-Ha ki szeretné kapcsolni a szűrt levelek funkciót az Outlook 2016, a webes Outlookban, a Outlook.com/Hotmail.com, a Mac Outlook 2016 vagy a Windows 10 posta alkalmazásban, olvassa el a szűrt [levelek funkció](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)kikapcsolása című témakört.
+Ha ki Outlook 2016, Webes Outlook, Outlook.com/Hotmail.com, Mac Outlook 2016 vagy a Windows 10 Posta alkalmazásból ki Mac Outlook 2016- vagy Posta szolgáltatást, tekintse át a Következőt: A Fókuszban lévő levelek [kikapcsolása.](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx)
 
-Ha ki szeretné kapcsolni a szűrt levelek funkciót a szervezet minden tagja számára, olvassa el a szűrt [levelek beállítása a szervezet minden tagja](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)számára című témakört.
+Ha a szervezet minden tagja számára ki kell kapcsolnia a Fókuszban lévő levelek mappát, tekintse meg a "A Fókuszban lévő levelek konfigurálása a szervezet minden [tagja számára" jelölőnégyzetet.](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)

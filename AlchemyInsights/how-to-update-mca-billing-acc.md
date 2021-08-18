@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001510"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320032"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>A mca-fiókhoz társított számlázási és számlázási cím frissítése – ajánlott lépések
 
 Frissítheti a Microsoft ügyfélszerződéséhez (MCA) társított vevő- és számlázási címet. 
 
-> [!NOTE]
-> Csak a felhasználó rendszergazdája tudja Azure Active Directory profiladatokat. Ha nincs megosztva a felhasználói rendszergazdai szerepkör, forduljon a felhasználói rendszergazdához. A felhasználói profil módosításáról további információt a Felhasználó profilinformációinak hozzáadása vagy frissítése [a](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)felhasználók profiladatokat a Azure Active Directory.
+**Megjegyzés:** Csak egy felhasználó rendszergazdája tudja Azure Active Directory profiladatokat. Ha nincs megosztva a felhasználói rendszergazdai szerepkör, forduljon a felhasználói rendszergazdához. A felhasználói profil módosításáról további információt a Felhasználó profilinformációinak hozzáadása vagy frissítése [a](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)felhasználók profiladatokat a Azure Active Directory.
 
 **Számlázási cím** – A számlázási cím a számlázási fiókért felelős szervezet vagy egyén címe és kapcsolattartási adatai. Ez megjelenik a számlázási fiókhoz létrehozott összes számlán.
 

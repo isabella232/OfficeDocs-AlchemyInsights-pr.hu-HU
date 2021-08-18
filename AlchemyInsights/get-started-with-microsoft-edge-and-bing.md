@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Edge és a Bing – első lépések
+title: Első lépések a Microsoft Edge + Bing
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8227"
-ms.openlocfilehash: 9130a20f36ae7631f6f72b55cdc5b341aaf51225
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 5c885492bc48017846195e13ee0b3626f5fbf1faa6602580b487141a6d21df9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116406"
 ---
-# <a name="get-started-with-microsoft-edge--bing"></a>A Microsoft Edge és a Bing – első lépések
+# <a name="get-started-with-microsoft-edge--bing"></a>Első lépések a Microsoft Edge + Bing
 
-A Microsoft Edge + Bing használatát nem kell külön beállítani. A munkával kapcsolatos információk kereséséhez egyszerűen írja be a lekérdezést a Microsoft Edge címsorában.
+Nincs szükség további beállításra a Microsoft Edge + Bing. A munkával kapcsolatos információk kereséséhez egyszerűen írja be a lekérdezést a lekérdezés Microsoft Edge.
 
-További információt a További információ [a Microsoft Edge+Bing](https://go.microsoft.com/fwlink/?linkid=2152963)alkalmazással .
+További információt a További információ [a Microsoft Edge + Bing.](https://go.microsoft.com/fwlink/?linkid=2152963)

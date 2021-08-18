@@ -15,17 +15,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502178"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319502"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Áfaazonosító hozzáadása vagy szerkesztése
 
-> [!NOTE]
-> Ha olyan országban van, ahol általános forgalmi adó (áfa) van érvényben, például Egyesült Királyság, akkor a Microsoft Invoicing kiszámítja az áfát, és az összeget alkalmazza a számlákra. További információt az Európai Bizottság [VIES-jogi](https://go.microsoft.com/fwlink/p/?LinkID=841741) nyilatkozatában( lásd: VIES jogi nyilatkozat).
+**Megjegyzés:** Ha olyan országban van, ahol általános forgalmi adó (áfa) van érvényben, például Az Egyesült Királyság, a Microsoft Invoicing kiszámítja az áfát, és az összeget a számlákra alkalmazza. További információt az Európai Bizottság [VIES-jogi](https://go.microsoft.com/fwlink/p/?LinkID=841741) nyilatkozatában( lásd: VIES jogi nyilatkozat).
 
 **Áfaazonosító hozzáadása vagy szerkesztése**
 
@@ -34,4 +33,4 @@ ms.locfileid: "54502178"
 3. Az előfizetés adatait tartalmazó lap Szolgáltatás felhasználási címe szakaszában **válassza** a Szolgáltatás **felhasználási címének szerkesztése lehetőséget.**
 4. A Szolgáltatás **felhasználási címének szerkesztése ablaktáblában** írja be az áfaazonosítóját a **Áfaszám** mezőbe, majd válassza a Mentés **lehetőséget.** Ezt követően a következő számlán nem számítunk fel áfát.
 
-További információért olvassa el a Milyen adó terheli az [Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)
+További információért olvassa el a Milyen adó terheli az [Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged)

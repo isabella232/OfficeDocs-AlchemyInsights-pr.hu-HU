@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 5231fca8c0a3cd919dd9fb79e7cbcf5a4f2c67fdd52a0f136b87e9331a3d6c44
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5d328c1d494a978b424a4f9932ec9145637b766c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893525"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319630"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>A megfelelőséggel kapcsolatos gyakori problémák és a megoldásuk
 
@@ -39,6 +39,6 @@ Alább felsorolunk néhány, a megfelelőséggel kapcsolatban gyakran keresett t
 
 - Riasztási házirendek megtekintése: Lásd: [Riasztási házirendek a Microsoft 365 Megfelelőségi központ.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)
 
-- Complicance center permisions: See [Permissions in the Microsoft 365 Megfelelőségi központ](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
+- Complicance center permisions: See [Permissions in the Microsoft 365 Megfelelőségi központ.](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center-permissions)
 
 **Megjegyzés**: Ha konkrétabb választ szeretne kapni egy megfelelőségi problémával kapcsolatban, fogalmazza át a kérdését, és vegye bele abba az Ön által esetleg tapasztalt hibákat, illetve az Ön által használt funkciókat.
