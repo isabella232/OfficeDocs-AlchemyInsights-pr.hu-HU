@@ -1,5 +1,5 @@
 ---
-title: Módosítsa a Microsoft Edge-et az adatcímtár-változók és a hardcoded helyett.
+title: Adatbázis Microsoft Edge kódos elérési utak helyett adatkönyvtár-változók használatával
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 5c40aa1d7f61fbd2842839a5839899af8ab439f2
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677992"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113418"
 ---
-# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Módosítsa a Microsoft Edge-et az adatcímtár-változók és a hardcoded helyett.
+# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Adatbázis Microsoft Edge kódos elérési utak helyett adatkönyvtár-változók használatával
 
-Windows esetén például a **UserDataDir** -házirendet az alapértelmezett hely helyett a felhasználó helyi alkalmazási adatainak tárolására kell állítani **($ {local_app_data} \Edge\Profile**). 
+Ha például a Windows-ban a profiladatokat egy felhasználó helyi alkalmazásadatai között, nem pedig az alapértelmezett helyen tárolja, állítsa a **UserDataDir** házirendet **${local_app_data}\Edge\Profile** helyre. 
 
-További információt a [Microsoft Edge felhasználói adatcímtár-változók létrehozása](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars)című témakörben talál.
+További információt a Felhasználói adatok [címtár-Microsoft Edge létrehozása.](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars)

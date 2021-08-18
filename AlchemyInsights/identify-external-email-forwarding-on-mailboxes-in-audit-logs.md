@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028741"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899886"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Annak azonosítása, hogy a külső e-mail-továbbítás mikor van beállítva a postaládákban
 
-Amikor egy Microsoft 365 konfigurálja egy postaládán a külső **e-mail-továbbítást,** a tevékenység a Postaláda-halmaz parancsmag részeként lesz naplóállítva. A tevékenységet naplókereséssel a Biztonsági és megfelelőségi központban & láthatja.
+Amikor egy Microsoft 365 konfigurálja a külső **e-mail-továbbítást** egy postaládán, a tevékenység a Postaláda-halmaz parancsmag részeként lesz naplóállítva. A tevékenységet naplókereséssel is láthatja. Ezt a hogyan lehet megtenni.
 
-1. Jelentkezzen be a [Microsoft 365 megfelelőségi központba.](https://protection.office.com/)
+1. Tegye a következők valamelyikét:
+   - A Microsoft 365 Megfelelőségi központ a <https://compliance.microsoft.com> Megoldásvizsgálat  \> **ot.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://compliance.microsoft.com/auditlogsearch> használja: .
+   - A (Microsoft 365 Defender) portálon a <https://security.microsoft.com> Audit **(Naplózás) hoz kell indulni.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://sip.security.microsoft.com/auditlogsearch> használja: .
 
-2. Lépjen a Keresési  >  **napló keresési lapjára.**
+2. A Naplózás **lapon** ellenőrizze,  hogy a Keresés lap van-e kiválasztva, majd adja meg az alábbi beállításokat:
+   - Jelölje ki a dátum-/időtartományt a **Kezdő és** a **Záró** mezőben.
+   - Ellenőrizze, **hogy a Tevékenységek mező** tartalmazza-e Az összes tevékenység **eredményének megjelenítése mezőt.**
 
-3. Jelölje ki a dátumtartományt a **Kezdő dátum** és a Záró **dátum mezőben.** Nem kell megadnia a felhasználónevet. Ellenőrizze, **hogy a Tevékenységek mező** az Összes tevékenység **eredményének megjelenítése beállításra van-e állítva.**
+3. Ha végzett, kattintson a Keresés **gombra.** A tevékenységek az új Naplókeresés **lapon jelennek** meg.
 
-4. Kattintson a **Keresés gombra.**
+4. A találatok között kattintson az Eredmények **szűrése elemre,** és írja be a **Set-Mailbox (Postaláda beállítása)** mezőt a tevékenységszűrő mezőbe.
 
-A találatok között kattintson az Eredmények **szűrése elemre,** és írja be a **Set-Mailbox (Postaláda beállítása)** mezőt a tevékenységszűrő mezőbe. Jelöljön ki egy naplórekordot az eredmények között. A Részletek **úszó panelen** kattintson a További **információ elemre.** Az egyes naplórekordok részleteiben kell megállapítania, hogy a tevékenység kapcsolódik-e az e-mail-továbbításhoz.
+5. Jelöljön ki egy naplórekordot az eredmények között. A Részletek **úszó panelen** kattintson a További **információ elemre.** Az egyes naplórekordok részleteiben kell megállapítania, hogy a tevékenység kapcsolódik-e az e-mail-továbbításhoz.
 
-- **ObjectId:** A módosított postaláda aliasértéke.
+   - **ObjectId:** A módosított postaláda aliasértéke.
+   - **Paraméterek:** _A ForwardingSmtpAddress_ a cél e-mail-címet jelzi.
+   - **UserId:** Az **ObjectId** mező postaládájában e-mail-továbbítást konfiguráló felhasználó.
 
-- **Paraméterek:** _A ForwardingSmtpAddress_ a cél e-mail-címet jelzi.
-
-- **UserId:** Az **ObjectId** mező postaládájában e-mail-továbbítást konfiguráló felhasználó.
-
-További információ: Annak megállapítása, hogy ki állíthatja be az e-mail-továbbítást [egy postaládában.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
+További információ: Annak megállapítása, hogy ki állíthatja be az e-mail-továbbítást [egy postaládában.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

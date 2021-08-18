@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 008c46718fed2704bb03972e44f2b7b1933c44da729fa4473841939cc5caed51
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501314"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900110"
 ---
 # <a name="suspend-or-pause-licenses"></a>Licencek felfüggesztése vagy felfüggesztése
 
@@ -28,10 +28,10 @@ ms.locfileid: "54501314"
 
 Ha ideiglenesen felfüggeszti vagy felfüggeszti a licenchasználatot, eltávolíthatja a licenceket a Microsoft 365 Felügyeleti központ, majd később újra felveheti őket.
 
-1. Mielőtt eltávolítaná a licenceket az előfizetésből, először meg kell megszüntetnie a felhasználók [licencének hozzárendelését.](/microsoft-365/admin/manage/remove-licenses-from-users)
+1. Mielőtt eltávolítaná a licenceket az előfizetésből, először meg kell megszüntetnie a felhasználók [licencének hozzárendelését.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
 2. Ezután válassza a **Termékek**  >  [számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 3. A **Termékek lapon** válassza ki a frissíteni kívánt előfizetést.
 4. Az előfizetés részletei lapon válassza a **Licencek eltávolítása lehetőséget.**
 5. A **Licencek eltávolítása ablaktáblában** írja be a Licencek száma összesen mezőbe, hogy hány licencet szeretne az adott előfizetéshez, majd válassza a Mentés **lehetőséget.**  Ha például 100 licence van, és fel szeretné függeszteni vagy szüneteltetni a 25-öt, akkor az előfizetés összes licenceként adja meg a 75-öt.
 
-További információkért tekintse meg a[Licencek vásárlása vagy eltávolítása](/microsoft-365/commerce/licenses/buy-licenses) lapot.
+További információkért tekintse meg a[Licencek vásárlása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) lapot.
