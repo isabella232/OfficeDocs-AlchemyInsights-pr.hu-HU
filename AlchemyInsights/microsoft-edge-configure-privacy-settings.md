@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge – adatvédelmi beállítások megadása
+title: Microsoft Edge adatvédelmi beállítások megadása
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677793"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114174"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge – adatvédelmi beállítások megadása
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge adatvédelmi beállítások megadása
 
-Alapértelmezés szerint, ha a Microsoft Edge nem Windows rendszerű platformokon van telepítve, a diagnosztikai adatok és a webhely adatai nem lesznek elküldve a Microsoftnak. Ha azonban a Microsoft Edge telepítve van a Windows 10 rendszerben, a diagnosztikai adatokat és a webhely adatait a felhasználók [Windows-diagnosztikai adatbeállításai](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)szerint küldi el a rendszer.
+Alapértelmezés szerint, ha a Microsoft Edge nem helyszíni platformokon Windows, a rendszer nem küldi el a Microsoftnak a diagnosztikai adatokat és a webhelyadatokat. Ha azonban Microsoft Edge a diagnosztikai Windows 10, a diagnosztikai adatokat és a webhelyadatokat a rendszer a felhasználók diagnosztikai Windows beállításai szerint [küldi el.](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
 
-Ha meg szeretné adni, hogy a Microsoft Edge hogyan kezelje a szervezet adatgyűjteményét, használja az alábbi csoportházirend-beállításokat:
-- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): Ez a házirend lehetővé teszi a használat és az összeomlással kapcsolatos adatok jelentését.
-- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): Ez a házirend a Microsoft Services fejlesztéséhez használt webhely-információkat küldi.
+Az alábbi csoportházirendek Microsoft Edge konfigurálhatja, hogy a szervezetében hogyan kezelje az adatgyűjtést:
+- [MetricsReportingEnabled:](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled)Ez a házirend lehetővé teszi a használattal és összeomlással kapcsolatos adatok jelentését.
+- [SendSiteInfoToImproveServices:](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices)Ez a házirend elküldi a webhelyadatokat, amelyek az adatok Microsoft-szolgáltatások.
 
-További információt a házirend- [beállítások megadása](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings)című témakörben találhat.
+További információ: [Házirend-beállítások konfigurálása.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings)

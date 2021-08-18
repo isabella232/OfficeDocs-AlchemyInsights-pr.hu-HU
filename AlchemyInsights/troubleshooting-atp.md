@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038807"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900654"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>A Microsoft Defender Office 365
 
-- **Késik az üzenetek kézbesítése?** A Microsoft Defender [Dinamikus kézbesítés](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) funkcióját használva Office 365 Széf mellékletek házirendjét. Ezzel megelőzheti az üzenetek késését, miközben védelmet nyújt a címzetteknek a kártékony fájloktól.
+- **Késik az üzenetek kézbesítése?** A Microsoft Defender [dinamikus kézbesítési](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) funkcióját használva Office 365 Széf mellékletek házirendjét. Ezzel megelőzheti az üzenetek késését, miközben védelmet nyújt a címzetteknek a kártékony fájloktól.
 
 - **Szeretne hamis pozitív vagy hamis negatív értékeket jelenteni a Microsoftnak?** Használja [a Beküldéskezelőt.](https://protection.office.com/reportsubmission)
 
@@ -28,8 +28,8 @@ ms.locfileid: "54038807"
 
   1. Jelentkezzen be globális rendszergazdai vagy [https://protection.office.com](https://protection.office.com) biztonsági rendszergazdai fiókkal.
 
-  2. A bal oldali navigációs ablakban a **Veszélyforrások kezelése** alatt válassza **a Házirendek** és \> **Széf lehetőséget.**
+  2. A bal oldali navigációs ablakban a **Veszélyforrások kezelése** alatt válassza **a Házirend** Széf \> **gombra.**
 
   3. A teljes **szervezetre vonatkozó** házirendek szakaszban jelölje ki a házirendet, és kattintson a Szerkesztés **gombra.**
 
-  4. A **Gépház** alatt engedélyezze a Biztonságos hivatkozások alkalmazása a szervezeten belül **küldött üzenetekre beállítását.**
+  4. A **Gépház** alatt engedélyezze a Biztonságos hivatkozások alkalmazása a szervezeten belül küldött **üzenetekre beállítását.**

@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Defender központi telepítése végpontnak
+title: A Microsoft Defender telepítése végponthoz
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004195"
 - "7377"
-ms.openlocfilehash: 2501046d49d8b290668bef8ea04881e8379b43ee
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: f1de44682dbdc4bdfc799e0a3ac618e4c5b76bf0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678391"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317560"
 ---
-# <a name="deploy-microsoft-defender-for-endpoint"></a>A Microsoft Defender központi telepítése végpontnak
+# <a name="deploy-microsoft-defender-for-endpoint"></a>A Microsoft Defender telepítése végponthoz
 
-A [Microsoft Defender for Endpoint Advisor](https://go.microsoft.com/fwlink/?linkid=2146241) utasításai segítséget nyújtanak a vállalati hálózatnak a speciális fenyegetések megelőzésére, felderítésére, kivizsgálására és megválaszolására. Tájékoztassa a szervezete biztonsági rését, és döntse el, hogy a központi üzembe helyezési csomag és a beállítási módszerek a legjobbak.
+A [Microsoft Defender végpontok tanácsadója](https://go.microsoft.com/fwlink/?linkid=2146241) olyan utasításokat biztosít, amelyek segítenek a vállalati hálózatnak a speciális veszélyforrások megelőzésében, észlelésében, kivizsgálásában és megoldásában. Tájékozott felmérést kell végeznie szervezete biztonsági résével kapcsolatban, és el kell döntenie, hogy melyik telepítési csomag és konfiguráció a legjobb.
 
-> [!NOTE]
-> A Defender for Endpoint eléréséhez Microsoft mennyiségi licenc szükséges.
+**Megjegyzés:** A Defenderhez Microsoft mennyiségi licencre van szükség a végponthoz.

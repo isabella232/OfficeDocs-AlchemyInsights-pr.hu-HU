@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020086"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317142"
 ---
 # <a name="understand-billing-amount"></a>A számlázási összeg értelmezése
 
@@ -70,7 +70,9 @@ Nem. Ügyfeleink fix számú ingyenes szintű szolgáltatást és 200 USD kredit
 
 **Hogyan tudom ellenőrizni, hogy aktívak-e az ingyenes szolgáltatások, vagy mikor fognak lejárni?**
 
-Az Ibiza portál> Előfizetés > Áttekintés lapon > görgessen le az Ingyenes szolgáltatások 12 hónapig elemre, és kattintson az Információ ikonra. Ez azt a dátumot jeleníti meg, amikor az ingyenes szolgáltatások lejárnak **Megjegyzés**: A V1-szolgáltatások nem részei az Azure ingyenes Bennfoglalt szolgáltatásoknak. Az ingyenes szolgáltatások legfrissebb listáját lásd: [Mely termékek ingyenesek 12 hónapig](http://www.microsoftazuresponsorships.com/)
+Az Ibiza portál> Előfizetés > Áttekintés lapon > görgessen le az Ingyenes szolgáltatások 12 hónapig elemre, és kattintson az Információ ikonra. Ez az ingyenes szolgáltatások lejáratának dátumát jeleníti meg.
+
+**Megjegyzés:** Az Ingyenes Azure-szolgáltatások nem tartalmaznak V1-szolgáltatásokat. Az ingyenes szolgáltatások legfrissebb listáját lásd: [Mely termékek ingyenesek 12 hónapig](http://www.microsoftazuresponsorships.com/)
 
 További gyakori kérdések: [ingyenes fiók – gyakori kérdések](https://azure.microsoft.com/free/free-account-faq/)
 

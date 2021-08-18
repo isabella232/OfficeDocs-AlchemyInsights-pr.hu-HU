@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107019"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317346"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Előfizetés felfüggesztése vagy felfüggesztése
 
-Ha átmenetileg felfüggeszti vagy szünetelteti az előfizetést, az előfizetést a következő Microsoft 365 Felügyeleti központ.
+Ha ideiglenesen felfüggeszti vagy felfüggeszti az előfizetést, az előfizetést a következő Microsoft 365 Felügyeleti központ.
 
 1. A felügyeleti központban válassza a **Termékek**  >  **[számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. A **Termékek lapon** keresse meg a lemondani kívánt előfizetést. Válassza a három pontra (további műveletek), majd az **Előfizetés lemondása gombra.**
-3. Az előfizetés állapota Letiltott állapotúként **jelenik** meg, és az előfizetés lemondásának dátumát mutatja. Az előfizetés 90 napig letiltott állapotban marad, és a törlésig vagy újraaktiválásig csökkentett [szolgáltatáskészletű marad.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+3. Az előfizetés állapota Letiltva állapotként **jelenik** meg, és az előfizetés lemondásának dátumát mutatja. Az előfizetés 90 napig letiltott állapotban marad, és a törlésig vagy újraaktiválásig csökkentett [szolgáltatáskészletű marad.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-További információért lásd: Mi történik az előfizetés [lemondása és az](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [Adatok mentése?](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)
+További információért lásd: Mi történik az előfizetés [lemondása és az](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [Adatok mentése?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

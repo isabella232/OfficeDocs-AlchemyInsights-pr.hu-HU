@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967155"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317744"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>A védett üzenetek üzenetben való megtekintésekor a Outlook
 
@@ -28,13 +28,12 @@ A titkosított üzenetek megnyitásához a felhasználóknak az alábbi lépése
 
 1. A használt levelezőprogramtól függően kattintson Az üzenet olvasása **vagy** hasonló üzenet elemre. A rendszer átirányítja a felhasználókat egy olyan lapra, ahol bejelentkezve egyszer használható kódot kapnak.
 
-> [!NOTE]
-> Gmail-felhasználók esetén a rendszer arra kéri őket, hogy jelentkezzenek be a Gmaillel. Az üzenet új lapon nyílik meg, miután az Allow (Megengedve) **gombra kattintott.**
+    **Megjegyzés:** Gmail-felhasználóknak a rendszer arra fogja kérni őket, hogy jelentkezzenek be a Gmaillel. Az üzenet új lapon nyílik meg, miután az Allow (Megengedve) **gombra kattintott.**
 
-2. Ellenőrizze az e-mailben az egyszer használható kódot, majd adja meg a kódot a böngészőablakban.
+2. Az egyszer használható kódot az e-mailjei között ellenőrizheti, majd beírhatja a kódot a böngészőablakba.
 
 3. A **Folytatás gombra** kattintva olvassa el az üzenetet.
 
-További információért lásd: Titkosított üzenetek küldése, megtekintése és megválaszolása [Outlook PC-n.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
+További információ: Titkosított üzenetek küldése, megtekintése és megválaszolása [Outlook PC-n.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
 
 

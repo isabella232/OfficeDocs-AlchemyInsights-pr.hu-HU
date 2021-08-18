@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113922"
 ---
 # <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Veszélyforrás-szakértők – Igény szerinti szakértők
 
-Az Igény szerinti szakértők a Microsoft második veszélyforrás-szakértői képessége. Itt tud velünk beszélni, ha az észlelésekkel és a válaszokkal kapcsolatos kérdésekkel kapcsolatban van kérdése.
+Az igény szerinti szakértők a második Microsoft Veszélyforrás-szakértők képesség. Itt tud velünk beszélni, ha az észlelésekkel és a válaszokkal kapcsolatos kérdésekkel kapcsolatban van kérdése.
 
-Ha Ön már a Végpontok defendere ügyfél, a Microsoft képviselőjéhez fordulva előfizethet a Microsoft Veszélyforrás-szakértők – Igény szerinti szakértők szolgáltatásra.
+Ha Ön már a Végpont defender ügyfele, a Microsoft-képviselőjéhez fordulva feliratkozhat a Microsoft Veszélyforrás-szakértők – Igény szerinti szakértők szolgáltatásra.
 
 A **veszélyforrás-szakértőhöz való** egyeztetésre a portál alábbi menüiben van lehetőség, ahol kapcsolatba léphet a szakértőkkel a vizsgálattal kapcsolatban:
 
@@ -32,4 +32,4 @@ A **veszélyforrás-szakértőhöz való** egyeztetésre a portál alábbi menü
 - A Riasztások lapműveletek menüje
 - Fájllapműveletek menü
 
-További információ: [A Microsoft Veszélyforrás-szakértők képességeinek konfigurálása és kezelése.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)
+További információért lásd: A Microsoft Veszélyforrás-szakértők [kezelése.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts)

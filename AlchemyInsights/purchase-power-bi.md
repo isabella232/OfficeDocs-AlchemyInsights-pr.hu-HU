@@ -15,24 +15,24 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 762995215f5b4f5957f1f452a71efe5f20c9a9fe84ab1255a59fb7e67dda15fa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502970"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900958"
 ---
 # <a name="purchase-power-bi"></a>Vásárlás Power BI
 
-Power BI megvásárolható előfizetések **a(Microsoft 365 Felügyeleti központ.**
+Power BI itt **vásárolható Microsoft 365 Felügyeleti központ.**
 
-1. Válassza **a Számlázás > Szolgáltatások [vásárlása lapot.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
-2. A Keresőmező használatával keressen rá a "keresés" Power BI.
-3. Jelölje ki Power BI megvásárolni kívánt csomagját, válassza a **Részletek**, majd a Vásárlás **lehetőséget.**
-4. Adja meg a szükséges licencek számát, és válassza ki, hogy havonta fizet-e vagy az egész évre. Adja meg, hogy automatikusan szeretne-e licenceket kiosztani a licenccel jelenleg nem rendelkező felhasználóknak. Ezután válassza a **Kijelentkezás most lehetőséget.**
+1. Válassza **a Számlázás > [Szolgáltatások vásárlása lapot.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+2. A Keresés mezőben keressen rá a "keresés" Power BI.
+3. Jelölje ki a Power BI megvásárolni kívánt csomagját, válassza a **Részletek**, majd a Vásárlás **lehetőséget.**
+4. Adja meg a szükséges licencek számát, és adja meg, hogy havonta fizet-e vagy az egész évre. Adja meg, hogy automatikusan szeretne-e licenceket kiosztani a licenccel jelenleg nem rendelkező felhasználóknak. Ezután válassza a **Kijelentkezás most lehetőséget.**
 5. Tekintse át az árakkal kapcsolatos információkat, és válassza a Tovább **gombot.**
 6. Adja meg a fizetési adatait, majd válassza a **Megrendelés Ugrás** a  >  **felügyeleti kezdőlapra lehetőséget.**
 
-A licencek felhasználókhoz való hozzárendelését a [Licencek hozzárendelése felhasználókhoz .](/microsoft-365/admin/manage/assign-licenses-to-users)
+A licencek felhasználókhoz való hozzárendelését a Licencek [hozzárendelése felhasználókhoz .](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-További licencek vásárlásához vagy eltávolításához lásd: Licencek vásárlása vagy eltávolítása [a vállalati előfizetéshez.](/microsoft-365/commerce/licenses/buy-licenses)
+További licencek vásárlásához vagy eltávolításához lásd: Licencek vásárlása vagy eltávolítása [a vállalati előfizetéshez.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

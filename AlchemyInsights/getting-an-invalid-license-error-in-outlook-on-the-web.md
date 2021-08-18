@@ -1,5 +1,5 @@
 ---
-title: a 125 érvénytelen licenccel kapcsolatos hibaüzenetet kap a webes Outlookban?
+title: 125 Érvénytelen licenchiba jelenik meg a Webes Outlook?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,19 +14,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: 825d91cd81646767b100e6fc964d7a94b8bc6879
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 357e57d20e3b6f56d3058bc1c782c3da7598520c29c5c29bfba6eec614fc5248
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089262"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Érvénytelen licenccel kapcsolatos hibaüzenet jelenik meg a webes Outlookban?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Érvénytelen licenchiba történt a Webes Outlook?
 
-Ha a webes Outlookot használja, **és egy hiba** jelenik meg, amely **X-OWA-hibaüzenetet tartalmaz: a Microsoft. Exchange. Data. InvalidLicenseException**, az Exchange Online-licenc nincs megfelelően kiosztva vagy nemrég lejárt. A rendszergazda az alábbi lépésekkel rendelhet hozzá Önnek licencet:
+Ha a Microsoft.Webes Outlook hibát jelez,  amely az **X-OWA-Error hibát tartalmazza: Microsoft.Exchange. Adatok. Storage. InvalidLicenseException**, Exchange Online licenc nincs megfelelően hozzárendelve vagy nemrég lejárt. A rendszergazda az alábbi lépésekkel rendelhet licencet Önnek:
   
-1. Nyissa meg a [Microsoft 365 felügyeleti központját](https://portal.office.com/adminportal/home#/homepage) , és az **aktív felhasználók**csoportban válassza **a felhasználó szerkesztése**lehetőséget.
+1. Nyissa meg [a Microsoft 365 Felügyeleti központ,](https://portal.office.com/adminportal/home#/homepage) és az **Aktív felhasználók csoportban** válassza **a Felhasználó szerkesztése lehetőséget.**
 
-2. A megnyíló **felhasználó szerkesztése** lapon jelölje ki a felhasználót. A megnyíló felhasználó tulajdonságai lapon kattintson a **licencek** **szerkesztése** elemre.
+2. A **megnyíló Felhasználó szerkesztése lapon** jelölje ki a felhasználót. A megnyíló felhasználói tulajdonságok  lapján kattintson a Terméklicencek szerkesztése **elemre.**
 
-3. A megnyíló **Termékadatok** lapon válassza ki a megfelelő **tartózkodási helyet** , és rendelje hozzá az Exchange Online-t tartalmazó licencet (bontsa ki a licencet a részletek megtekintéséhez). Ha elkészült, kattintson a **Mentés** gombra.
+3. A megnyíló Terméklicencek lapon  válassza ki a megfelelő Hely értéket, és rendeljen hozzá egy, az Exchange Online licencet **(bontsa** ki a licencet a részletekért). Ha elkészült, kattintson a **Mentés** gombra.

@@ -1,5 +1,5 @@
 ---
-title: az 123 letiltotta a fiókját az OWA alkalmazásban?
+title: 123 Fiók letiltva hibaüzenet jelenik meg az Outlook Web Appban?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706561"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089334"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Nem sikerült letiltotta a fiókját a webes Outlookban?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Fiók letiltva van a Webes Outlook?
 
-Ha a rendszer **letiltotta a fiókját** ,  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` amikor megpróbál megnyitni egy webes Outlookot (korábbi nevén Outlook Web App), előfordulhat, hogy a szervezet rendszergazdája letiltotta a webes Outlookhoz való hozzáférést. A rendszergazda a következő témakörben ismertetett módon tudja kijavítani a hibát: az [Outlook Web App engedélyezése vagy letiltása egy postaládában](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Ha a következő  hibaüzenet jelenik meg: A fiókja le lett tiltva az Webes Outlook (korábbi nevén Outlook Web App) megnyitásakor, előfordulhat, hogy a szervezet rendszergazdája letiltotta az Ön hozzáférését az `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` Webes Outlook. A rendszergazda a postaláda levelezésének engedélyezése és Outlook Web App című témakörben található lépéseket követve [kijavíthatja ezt a hibát.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)

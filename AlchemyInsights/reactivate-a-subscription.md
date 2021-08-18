@@ -15,14 +15,14 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: eed4a608153248bd2feba8bd1aa0a8a66d55edb54b3d5fecb88d69fd2e165fcf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c9fa862fce7c5f60d3d654b490e5ed181ebbf52ec10e475c2fa4815d845a1d59
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062514"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900922"
 ---
-# <a name="reactivate-a-microsoft-365-subscription"></a>Előfizetés újraaktiválása Microsoft 365
+# <a name="reactivate-a-microsoft-365-subscription"></a>Előfizetés újraaktiválása Microsoft 365 esetén
 
 Ha lejár az előfizetése, a Microsoft letiltotta vagy lemondta azt egy előfizetési időszak közepén, újraaktiválhatja azt a Felügyeleti központban.
   
@@ -31,4 +31,4 @@ Ha lejár az előfizetése, a Microsoft letiltotta vagy lemondta azt egy előfiz
 3. Az **Előfizetés újraaktiválása** ablaktáblában válasszon ki egy fizetési módot a legördülő listából, vagy válassza a Fizetési **mód hozzáadása lehetőséget.**
 4. Válassza a **Mentés** elemet.
 
-További információért tekintse meg [Az előfizetés újraaktiválása](/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.
+További információért tekintse meg [Az előfizetés újraaktiválása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription) című részt.

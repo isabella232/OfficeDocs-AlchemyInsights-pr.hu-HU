@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 678f61d88879e5ecf7ccb23414d79cba66dc3c218ab0caed3d2957d863e0596b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54086814"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317478"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Tartalomkeresések és elektronikus észlelési keresések végrehajtása
 
@@ -29,15 +29,14 @@ ms.locfileid: "54086814"
 2. Válassza **a Keresés > tartalomkeresés lehetőséget.**
 3. Új **keresés létrehozásához válassza** az Új keresés lehetőséget.
 4. Adja meg a szükséges keresési feltételeket, beleértve a kulcsszavakat és a tartalomhelyeket.
-5. Válassza **a & futtatás gombot** a keresés elnevezéshez, indítsa el, majd tekintse meg a találatok előnézetét.
+5. Válassza **a & a futtatás** gombot a keresés elnevezéshez, indítsa el, majd tekintse meg a találatok előnézetét.
 
-> [!NOTE]
-> A **Microsoft 365 Megfelelőségi központ megoldásában** bontsa ki az Elektronikus észlelés 2010-et, és válassza ki a kívánt elektronikus  >  észlelési  eszközt.
+**Megjegyzés:** A **Microsoft 365 megfelelőségi** központ megoldásában bontsa ki az Elektronikus észlelés lehetőséget, és válassza ki a kívánt elektronikus  >  észlelési eszközt. 
 
-A tartalomkereséssel, a találatok exportálásának és az adatokhoz szükséges [](/microsoft-365/compliance/content-search) adatfelkeresési esetek létrehozásával kapcsolatos részletes útmutatást a Tartalomkeresés és a Elektronikus adatok felkeresése esete oldalon [láthatja.](/microsoft-365/compliance/ediscovery-cases)
+A tartalomkereséssel, a találatok exportálásának és az adatokhoz szükséges [](https://docs.microsoft.com/microsoft-365/compliance/content-search) adatfelkeresési esetek létrehozásával kapcsolatos részletes útmutatást a Tartalomkeresés és a Elektronikus adatok felkeresése esete oldalon [láthatja.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
 **További információ:**
 
-- A Elektronikus adatok elektronikus adatok észlelése eszközről Microsoft 365 az Elektronikus adatok fel [felfedezve.](/microsoft-365/compliance/ediscovery)
-- Ismerje meg az elektronikus adatok kereséséhez szükséges engedélyeket, követelményeket [](/microsoft-365/compliance/assign-ediscovery-permissions) és korlátokat az elektronikus adatokban való kereséshez szükséges engedélyekből, illetve a követelményekkel és [korlátozásokkal](/microsoft-365/compliance/limits-for-content-search)kapcsolatban.
-- Ha elektronikusan felfedezett hibákat hárít [](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) el, tekintse át a Gyakori problémák elhárítása és a részben indexelt elemek kivizsgálása [témakört.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
+- A Elektronikus adatok elektronikus adatok észlelése eszközről további Microsoft 365 az Elektronikus adatok fel [felfedezve.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
+- Ismerje meg az elektronikus adatok kereséséhez szükséges engedélyeket, követelményeket [](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) és korlátokat az elektronikus adatokban való kereséshez szükséges engedélyekből, illetve a követelményekről és [korlátokról.](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)
+- Ha elektronikusan felfedezett hibákat hárít [](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) el, tekintse át a Gyakori problémák elhárítása és a részben indexelt elemek kivizsgálása [témakört.](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

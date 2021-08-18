@@ -1,5 +1,5 @@
 ---
-title: az 127 TenantAccessBlockedException-hibaüzenetet kap az e-mailek elérésekor?
+title: 127 TenantAccessBlockedException hiba jelenik meg az e-mailek elérésekor?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089442"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>TenantAccessBlockedException-hiba jelenik meg az e-mailek elérésekor?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>TenantAccessBlockedException hibaüzenet jelenik meg az e-mailek elérésekor?
 
-Néhány különböző oka lehet annak, hogy miért jelenik meg ez a hiba. Például:
+Több oka is lehet annak, ha ezt a hibaüzenetet kapja. Például:
 
-- Ellenőrizze, hogy az előfizetése érvényes-e a termékek **számlázása** \> **[Your products](https://portal.office.com/adminportal/home#/subscriptions)** lapon a Microsoft 365 felügyeleti központban.
+- Ellenőrizze, hogy előfizetése  érvényes-e a Termékek számlázása \> **[](https://portal.office.com/adminportal/home#/subscriptions)** lapon, Microsoft 365 Felügyeleti központ.
 
-- A **Billing** \> Microsoft 365 felügyeleti központjának számlázási **[számláit & fizetések](https://portal.office.com/adminportal/home#/billoverview)** lapján ellenőrizze az esetleges múltbeli értesítést.
+- Ellenőrizze a korábbi esedékességről  szóló értesítéseket a Számlázás \> **[&](https://portal.office.com/adminportal/home#/billoverview)** lapon a Microsoft 365 Felügyeleti központ.
 
-- Ha a fiókjához tartozó számlázást és előfizetést nemrégiben frissítette, a módosítások propagálása hosszabb időt vehet igénybe. Próbálkozzon újra néhány perc múlva, és ha a probléma továbbra is fennáll, vegye fel velünk a kapcsolatfelvételt.
+- Ha fiókjának számlázási és előfizetési adatai nemrég frissültek, a módosítások propagálása kis időt igénybe vehet. Próbálkozzon újra néhány perc múlva, és ha a hiba nem szűnik meg, lépjen velünk kapcsolatba.
