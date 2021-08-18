@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e5bb1fda1dec0c0f72d1944d54b6f2747a6e909
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883133"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326079"
 ---
 # <a name="outbound-relay-pool"></a>Kimenő továbbítási készlet
 
-A Microsoft módosítja az e-mailek továbbítása vagy továbbítása során a Microsoft 365. Bizonyos esetekben az üzeneteket egy speciális továbbítókészletet használva továbbítja vagy továbbítja Microsoft 365 továbbított üzeneteket a Microsoft 365 keresztül. A továbbítási készlet használatával küldött üzenetek a címzett levélszemétmappába kerülnek. További információ: [Kimenő kézbesítési készletek](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+A Microsoft módosítja az e-mailek továbbítása vagy továbbítása során a Microsoft 365. Bizonyos esetekben az üzenetek továbbítása vagy továbbítása Microsoft 365 továbbítva egy speciális továbbítókészlet használatával. A továbbítási készlet használatával küldött üzenetek a címzett levélszemétmappába kerülnek. További információ: [Kimenő kézbesítési készletek](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 A továbbítási készlet használatával kapcsolatos esetek elkerülése érdekében győződjön meg arról, hogy a továbbított/továbbított üzenetek megfelelnek az alábbi feltételek egyikének:
 

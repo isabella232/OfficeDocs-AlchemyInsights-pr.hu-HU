@@ -16,12 +16,12 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 9fc510bd8ab65e4e8670f16b530751bd35254da4d8c7c0feab3cfbf1d0e24303
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500990"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327253"
 ---
 # <a name="trying-to-find-a-trial"></a>Próbaverziót keres?
 
@@ -31,8 +31,7 @@ Ha ki szeretne próbálni egy új szolgáltatást, a próbaverzióhoz elérhető
 
 2. Válassza ki az igényeinek megfelelő előfizetést, majd válassza az **Ingyenes próbaidőszakot.**
 
-    > [!NOTE]
-    > Nem minden előfizetés érhető el próbaverzióként. Ha nem látja az  Ingyenes próbaidőszak gombot, amikor egy előfizetésre kattint, az azt jelenti, hogy a próbaverzió nem érhető el.
+    **Megjegyzés:** Nem minden előfizetés érhető el próbaverzióként. Ha nem látja az  Ingyenes próbaidőszak gombot, amikor egy előfizetésre kattint, az azt jelenti, hogy a próbaverzió nem érhető el.
   
 3. Biztonsági intézkedésként előfordulhat, hogy a rendszer arra kéri, hogy adjon meg egy hitelkártyát vagy más fizetési módot a további ellenőrzés érdekében. Az ingyenes próbaverzióért nem számítunk fel díjat. A fizetési adatait fájlban tartjuk, és az Ön jóváhagyása nélkül nem használjuk fel semmilyen vásárláshoz.
 

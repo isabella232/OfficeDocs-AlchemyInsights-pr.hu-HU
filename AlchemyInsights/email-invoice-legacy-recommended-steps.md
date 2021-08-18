@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003621"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326507"
 ---
 # <a name="e-mail-invoice---legacy"></a>E-mail számla – örökölt
 
@@ -36,7 +36,7 @@ Az előfizetési számlák e-mailben való lekértéhez kövesse az alábbi lép
 
 **További címzettek hozzáadása a számlák fogadáshoz**
 
-Ha havonta meg kell osztania előfizetése és támogatási csomagja számláit a könyvelési csapattal, vagy el kell küldenie őket egy másik e-mail-címre:
+Ha havonta meg kell osztania előfizetése és támogatási csomagja számláit a könyvelői csapattal, vagy el kell küldenie őket egy másik e-mail-címre:
 
 1. A fenti lépéseket követve először engedélyezze a számlát e-mailben, majd válassza a **Címzettek konfigurálása lehetőséget.**
 2. Írjon be egy e-mail-címet, majd válassza a **Címzett hozzáadása** lehetőséget. Több e-mail címet is hozzáadhat.
@@ -52,5 +52,4 @@ A számla letöltésének engedélyezése az előfizetési szintű hozzáférés
 4. Jelölje ki az Azure-előfizetését, majd kattintson **a számlák letöltését mások számára engedélyező** lehetőségre.
 5. A lap tetején válassza a **Be**, majd a **Mentés** lehetőséget.
 
-> [!NOTE]
-Ha nem Ön a fiókadminisztrán, lépjen kapcsolatba a fiók rendszergazdával a fenti utasításokat követve regisztráljon, vegyen fel címzetteket, vagy engedélyezze a többi felhasználónak a számla letöltését.
+**Megjegyzés:** Ha nem Ön a fiók rendszergazdája, lépjen kapcsolatba a fiók rendszergazdával a fenti utasításokat követve regisztráljon, vegyen fel címzetteket, vagy engedélyezze a többi felhasználónak a számla letöltését.

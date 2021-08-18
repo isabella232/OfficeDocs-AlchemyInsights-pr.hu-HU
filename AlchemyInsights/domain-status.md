@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2247da07d60431edef5b5dea8a5c06d51579008c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874397"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326579"
 ---
 # <a name="domain-status---no-services-selected"></a>Domain Status (Tartomány állapota) – Nincs kijelölt szolgáltatás
 
-**Nincs kijelölt** szolgáltatás, az azt jelenti, hogy még nem jelölt ki Microsoft 365-szolgáltatásokat (például Exchange Online, Skype Vállalati verzió vagy Intune, illetve Microsoft 365 mobileszköz-kezelés az egyéni tartománnyal való használatra). Ha hibrid (helyszíni Exchange Exchange Exchange Online-val) vagy külső levélszemétszűrésben használja az Exchange-t , és más Microsoft-szolgáltatások, figyelmen kívül hagyhatja ezt az üzenetet. A tartomány állapota csak a közvetlenül a szolgáltatáshoz csatlakoztatott tartományokhoz érhető el.
+**Nincs kijelölt** szolgáltatás, az azt jelenti, hogy még nem jelölt ki Microsoft 365-szolgáltatásokat (például Exchange Online, Skype Vállalati verzió vagy Intune, illetve a mobileszköz-kezelés Microsoft 365 az egyéni tartománnyal való használatra. Ha hibrid (helyszíni Exchange Exchange Exchange Online) vagy külső levélszemétszűrésben használja az Exchange-t, és más szűrőt Microsoft-szolgáltatások, figyelmen kívül hagyhatja ezt az üzenetet. A tartomány állapota csak a közvetlenül a szolgáltatáshoz csatlakoztatott tartományokhoz érhető el.
 
 Szolgáltatások kiválasztása a tartományhoz:
 

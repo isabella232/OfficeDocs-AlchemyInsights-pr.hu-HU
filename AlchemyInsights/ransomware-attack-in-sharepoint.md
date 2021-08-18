@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893197"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327523"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Zsarolóvírusok támadnak SharePoint vagy OneDrive
 
-1.  Ha segítségre van szüksége ahhoz, hogy mi a szándéka, ha kártékony fájlt talál a OneDrive vagy a SharePoint Vagy Teams, tekintse át a Mi a Teams, ha kártékony fájlt [talál?](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
+1.  Ha segítségre van szüksége ahhoz, hogy mi a szándéka, ha kártékony fájlt talál az OneDrive-on vagy a SharePoint-on vagy Teams, tekintse át a Mi a Teams, ha kártékony fájlt [talál?](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
 2. Ha azt keresi, hogy miként védve adatait a zsarolóvírusok ellen, tekintse át az
     - [Adatai védelme a SharePoint és OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Zsarolóvírusok veszélyforrások elleni védelme](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  A zsarolóvírusok vagy a kártevők OneDrive SharePoint vagy a Crypto vírus az összes fájlját érinti? 
+3.  A zsarolóvírusok vagy a kártevők OneDrive a SharePoint vagy a Crypto vírus az összes fájlját érinti? 
 
-Ha van ilyen, azonnal állítsa le vagy állítsa le az OneDrive Sync (ha van) vagy bontsa az Intéző nézetet, amely az érintett számítógéphez van hozzárendelve a tárhoz (ha van ilyen), majd a fájl-visszaállítási funkcióval visszaállíthatja a teljes OneDrive- vagy SharePoint-tárat egy korábbi időpontra. 
+Ha van ilyen, azonnal állítsa le vagy függesd fel a tárhoz hozzárendelt OneDrive Sync (ha van) vagy bontsa az Intéző nézetet az érintett számítógépről, majd visszaállíthatja a teljes OneDrive- vagy SharePoint-tárat egy korábbi időpontra a fájl-visszaállítási funkcióval. 
 
 A visszaállításról további információt a következőben található:
 
