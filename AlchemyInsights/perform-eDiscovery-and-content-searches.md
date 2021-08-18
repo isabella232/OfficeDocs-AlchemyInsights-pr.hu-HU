@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317478"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902046"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Tartalomkeresések és elektronikus észlelési keresések végrehajtása
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317478"
 4. Adja meg a szükséges keresési feltételeket, beleértve a kulcsszavakat és a tartalomhelyeket.
 5. Válassza **a & a futtatás** gombot a keresés elnevezéshez, indítsa el, majd tekintse meg a találatok előnézetét.
 
-**Megjegyzés:** A **Microsoft 365 megfelelőségi** központ megoldásában bontsa ki az Elektronikus észlelés lehetőséget, és válassza ki a kívánt elektronikus  >  észlelési eszközt. 
+> [!NOTE]
+> A **Microsoft 365 Megfelelőségi központ megoldásában** bontsa ki az Elektronikus észlelés 2010-et, és válassza ki a kívánt elektronikus  >  észlelési  eszközt.
 
 A tartalomkereséssel, a találatok exportálásának és az adatokhoz szükséges [](https://docs.microsoft.com/microsoft-365/compliance/content-search) adatfelkeresési esetek létrehozásával kapcsolatos részletes útmutatást a Tartalomkeresés és a Elektronikus adatok felkeresése esete oldalon [láthatja.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 

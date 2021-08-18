@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090951"
 ---
 # <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Prepare to provision users through directory synchronization to Office 365
 
-A felhasználók címtár-szinkronizálással való kiépítése tervezést és előkészületeket igényel, kövesse az alábbi útmutatást:
+A felhasználók címtár-szinkronizálással való kiépítése tervezést és előkészítést igényel, kövesse az alábbi útmutatást:
 
 A felhasználók kiépítése során az alábbi műveleteket kell végre venni:
-1. **Címtár-tisztítás.**
-1. **Címtárobjektumok és -attribútumok előkészítése.**
-1. **UPN-attribútumok előkészítése.**
-1. Az Alternatív UPN-utótagok opcionális megadása az **AD DS-hez.**
-1. **A helyszíni UPN-eket az Office 365-ös UPN-ekkel egyezők.**
+1. **Címtár-tisztítás .**
+1. **A címtárobjektumok és -attribútumok előkészítése**.
+1. **UpN-attribútumok előkészítése.**
+1. **Nem kötelező upn-utótagok megadása az AD DS-hez.**
+1. **A helyszíni UPN-eket a helyszíni upn-Office 365 egyeztetése.**
 1. **Címtár-integrációs eszközök.**
 
-Az egyes előkészítési lépésekkel kapcsolatos részletes leírásokat lásd: Felkészülés a felhasználók építésére az [Office 365-nek való címtár-szinkronizáláson keresztül.](https://aka.ms/office365assistantprovisionuserstooffice365)
+Az egyes előkészítési lépésekkel kapcsolatos részletes leírást a Felkészülés a felhasználók építésére a címtár-szinkronizáláson keresztül egy [Office 365 cikkben talál.](https://aka.ms/office365assistantprovisionuserstooffice365)

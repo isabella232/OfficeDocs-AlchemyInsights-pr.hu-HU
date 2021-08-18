@@ -1,5 +1,5 @@
 ---
-title: 609 információ a naptárak importálásáról és exportálásáról
+title: 609 Információk a naptárak importálásról és exportálásról
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,19 +14,19 @@ ms.custom:
 - "609"
 - "3800007"
 ms.assetid: 916ccbdb-439b-4cf8-a0d2-258c8c8b1130
-ms.openlocfilehash: 9630d13564d7fc97fb72f4778930f7b92b91529c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c85b27eb4484ba02a3d3d39c7a0b5d39304674181c4e68c1fb8a54e9e8d6560e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115470"
 ---
 # <a name="importing-and-exporting-calendars"></a>Naptárak importálása és exportálása
 
-További információt az alábbi témakörökben talál:
+További információt az alábbi témakörökben találhatóak:
   
 - [Outlookos e-mailek, névjegyek és naptár importálása és exportálása](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef)
 
-- [Naptár importálása vagy Feliratkozás naptárra az Outlook.com-on](https://support.office.com/article/cff1429c-5af6-41ec-a5b4-74f2c278e98c)
+- [Naptár importálása vagy feliratkozás naptárra a Outlook.com webhelyen](https://support.office.com/article/cff1429c-5af6-41ec-a5b4-74f2c278e98c)
 
-- [E-mailek, névjegyek és naptár importálása Outlook. pst fájlból](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+- [E-mailek, névjegyek és naptár importálása Outlook .pst fájlból](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac)

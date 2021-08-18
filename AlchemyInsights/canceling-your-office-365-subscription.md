@@ -14,23 +14,23 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53996596"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901738"
 ---
 # <a name="canceling-your-subscription"></a>Lemondja az előfizetését?
 
 Sajnáljuk, hogy el kell mennie, de ha le szeretné mondani az előfizetését, a következő lehetőségek közül választhat:
   
 - Ha kevesebb mint 25 hozzárendelt licenccel rendelkezik, online lemondhatja az előfizetését. Keresse fel **a Termékek számlázása** \> **[lapot,](https://go.microsoft.com/fwlink/p/?linkid=842054)** és keresse meg a lemondani kívánt előfizetést. Válassza a három pontra (további műveletek), majd az **Előfizetés lemondása gombra.**
-- Ha több mint 25 licencet osztott ki a felhasználóknak, csökkentse 25-ösnél kisebbre az előfizetés lemondásához vagy az előfizetés lemondásához hívja fel az [ügyfélszolgálatot.](/microsoft-365/business-video/get-help-support)
+- Ha több mint 25 licencet osztott ki a felhasználóknak, csökkentse 25-ösnél kisebbre az előfizetés lemondásához vagy az előfizetés lemondásához hívja fel az [ügyfélszolgálatot.](https://docs.microsoft.com/microsoft-365/business-video/get-help-support)
   
 **Visszatérítés: A következő számlázási ciklusban térítünk meg minden időkorrált jóváírást.**
 
 > [!NOTE]
 > Ha nem látja a lemondási lehetőséget, válassza ki az előfizetést a részletek lap megtekintéséhez. Az **Előfizetési és fizetési beállítások szakaszban** válassza az Előfizetés **lemondása lehetőséget.**
 
-További információ: Az előfizetés [lemondása.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+További információ: Az előfizetés [lemondása.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
