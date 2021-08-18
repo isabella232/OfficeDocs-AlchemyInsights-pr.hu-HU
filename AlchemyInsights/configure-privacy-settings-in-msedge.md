@@ -1,5 +1,5 @@
 ---
-title: Adatvédelmi beállítások megadása a Microsoft Edge-ben
+title: Adatvédelmi beállítások megadása a Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004632"
 - "8367"
-ms.openlocfilehash: 2367a7a55d1837fa7c7095fd0ac10ff1cf7ae72d
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 991f323249e15abd137c3e69b400e40503ed30dec6507cc5071a0b1af7f72bb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405106"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090306"
 ---
-# <a name="configure-privacy-settings-in-microsoft-edge"></a>Adatvédelmi beállítások megadása a Microsoft Edge-ben
+# <a name="configure-privacy-settings-in-microsoft-edge"></a>Adatvédelmi beállítások megadása a Microsoft Edge
 
-Alapértelmezés szerint, ha a Microsoft Edge nem Windows-platformokon van telepítve, a diagnosztikai adatokat és a webhelyadatokat a rendszer nem küldi el a Microsoftnak. Ha azonban a Microsoft Edge a Windows 10-ben van telepítve, a diagnosztikai adatokat és a webhelyadatokat a felhasználók Windows diagnosztikai adataira [vonatkozó beállításai alapján küldi el a rendszer.](https://go.microsoft.com/fwlink/?linkid=2132472)
+Alapértelmezés szerint, ha Microsoft Edge operációs rendszer nem Windows platformokon van telepítve, a rendszer nem küldi el a Microsoftnak a diagnosztikai adatokat és a webhelyadatokat. Ha azonban Microsoft Edge a diagnosztikai Windows 10, a diagnosztikai adatokat és a webhelyadatokat a rendszer a felhasználók diagnosztikai Windows beállításai szerint [küldi el.](https://go.microsoft.com/fwlink/?linkid=2132472)
 
-Az alábbi csoportházirendekkel konfigurálhatja, hogy a Microsoft Edge hogyan kezelje az adatgyűjtést a szervezetében:
+Az alábbi csoportházirendek Microsoft Edge konfigurálhatja, hogy a szervezetében hogyan kezelje az adatgyűjtést:
 - [MetricsReportingEnabled](https://go.microsoft.com/fwlink/?linkid=2132470) – Bekapcsolja a használattal és az összeomlással kapcsolatos adatok jelentését.
-- [A SendSiteInfoToImproveServices](https://go.microsoft.com/fwlink/?linkid=2132470) elküldi a Microsoft-szolgáltatások javítására használt webhelyadatokat.
+- [A SendSiteInfoToImproveServices](https://go.microsoft.com/fwlink/?linkid=2132470) elküldi a webhelynek a webhely javítása Microsoft-szolgáltatások.
 
 További információ: [Házirend-beállítások konfigurálása.](https://go.microsoft.com/fwlink/?linkid=2132577)

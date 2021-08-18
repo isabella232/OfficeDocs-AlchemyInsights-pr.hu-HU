@@ -1,5 +1,5 @@
 ---
-title: Végponti DLP licencelési hiba
+title: Endpoint DLP licensing error
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090144"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>Végponti DLP licencelési hiba
+# <a name="endpoint-dlp-licensing-error"></a>Endpoint DLP Licensing error
 
-Ha a következőhöz hasonló hibaüzenet jelenik meg, amikor megkísérli beállítani a Endpoint DLP-t, a következő hibaüzenet jelenik meg:
+Az Endpoint DLP beállításakor az alábbi hibaüzenet jelenik meg:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-Ellenőrizze, hogy rendelkezik-e az alábbi előfizetések vagy bővítmények egyikével:
+Győződjön meg arról, hogy az alábbi előfizetések vagy bővítmények valamelyikével rendelkezik:
 
 - Microsoft 365 E5
-- Microsoft 365 a5 (EDU)
+- Microsoft 365 A5 csomag (EDU)
 - Microsoft 365 E5 megfelelőség
-- Microsoft 365 a5 megfelelőség
-- Microsoft 365 E5 – adatvédelem és irányítás
-- Microsoft 365 a5 – adatvédelem és irányítás
+- Microsoft 365 A5 csomag megfelelőség
+- Microsoft 365 E5 információvédelem és -szabályozás
+- Microsoft 365 A5 csomag információvédelem és -szabályozás
 
 > [!NOTE]
-> Ez a funkció nem működik a licenc-kombinációk esetében, például: Win E5 + O365 E5 + EMS E5. A funkció beállításához rendelkeznie kell egy tisztán M365 E5 licenccel.
+> Ez nem működik licenckombinációk esetén, például: Win E5 + O365 E5 + EMS E5. A funkció beállításához csak M365 E5 licenccel kell rendelkezik.
 
-További Végpontos DLP-licencelési információkért lásd: [ENDPOINT DLP Licensing.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+Az Endpoint DLP licencelési információiról az [Endpoint DLP licensing (VégpontI DLP-licencelés) témakörben található.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

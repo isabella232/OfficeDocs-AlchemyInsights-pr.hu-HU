@@ -12,18 +12,18 @@ ms.custom:
 - "994"
 - "8000059"
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
-ms.openlocfilehash: 465c4e07d753afbe3d171981824236943966362c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c64c4333e23e757bc070dab34e9e079bed17d8022306fdfdb68892fda76a4981
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090234"
 ---
-# <a name="create-a-new-folder-in-outlookcom"></a>Új mappa létrehozása a Outlook.com-ban
+# <a name="create-a-new-folder-in-outlookcom"></a>Új mappa létrehozása a Outlook.com-on
 
-1. A navigációs ablak **mappák** területén válassza az **új mappa**lehetőséget.
+1. A **navigációs ablakban** a Mappák csoportban válassza az Új mappa **lehetőséget.**
 
-2. Írja be a mappa nevét, és nyomja le az ENTER billentyűt.
+2. Írja be a mappa nevét, és nyomja le az Enter billentyűt.
 
-További információt a [mappa létrehozása az Outlook.com-](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy)on című témakörben talál.
+További információt a Mappa [létrehozása a Outlook.com webhelyen Outlook.](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy)
   
