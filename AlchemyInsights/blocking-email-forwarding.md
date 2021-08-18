@@ -1,5 +1,5 @@
 ---
-title: 726 Az e-mail-továbbítás letiltása
+title: Külső automatikus e-mail-továbbítás blokkolása vagy letiltásának feloldása
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059634"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897470"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>E-mail-továbbítás letiltása vagy letiltásának feloldása
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Automatikus e-mail-továbbítás blokkolása vagy letiltásának feloldása
 
 Ha egy adott postaládában szeretné engedélyezni vagy letiltani az e-mail-továbbítást, tekintse meg az [E-mail-továbbítás beállítása.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-A bérlői szinten a külső továbbítás szabályozása a kimenő levélszemét-házirend használatával történik. A kimenő levélszemétszűrő házirendet a [](https://protection.office.com/antispam) Biztonsági és megfelelőségi központban ellenőrizheti itt, vagy a [Get-HostedOutboundSpamFilterPolicy paranccsal.](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)
+A rendszergazdák kimenő levélszemét-házirendeket használva szabályozhatja a külső továbbítást a [szervezetben.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) A kimenő levélszemét-házirendeket a Microsoft 365 Defender-portálon kezelheti a <https://security.microsoft.com/antispam> [PowerShell Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) Exchange Online használatával.
 
-Ha a következő hibaüzenet jelenik meg: **"550 5.7.520 Access denied, Your organization does not allow external forwarding" (550 5.7.520 Access denied, Your** organization not allow external forwarding) (A szervezet nem engedélyezi a külső továbbítást" hibaüzenet jelenik meg, győződjön meg arról, hogy a házirend be van állítva a külső automatikus továbbítás engedélyezésére.
+Ha a következő hibaüzenet jelenik meg: **"550 5.7.520 Access denied, Your organization not allow external forwarding" (550 5.7.520 Access denied, Your organization not allow external forwarding) (550 5.7.520 Access denied, Your organization not allow external forwarding) (550 5.7.520 Access denied, your** organization not allow external forwarding) (A szervezet nem engedélyezi a külső továbbítást) hibaüzenet jelenik meg, győződjön meg arról, hogy a házirend konfigurálva van a külső automatikus továbbított üzenetek engedélyezésére.
 
-**Megjegyzés:** Azt javasoljuk, hogy az alapértelmezett levélszemétszűrő házirenden tartsa letiltva a Külső automatikus automatikus továbbítás beállítást, és csak azoknak a felhasználóknak engedélyezze, akiknek külső továbbításra van szükségük egyéni házirend létrehozásával. További információt a Külső e-mail-továbbítás konfigurálása a következőben [Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)
+**Megjegyzés:** Azt javasoljuk, hogy az  alapértelmezett kimenő levélszemétszűrő házirendben az Automatikus – Rendszer az Automatikus továbbítási szabályok beállításhoz legyen vezérelve (az automatikus külső továbbítás le van tiltva; a belső automatikus továbbítás továbbra is működik).  Létre kell hoznia egyéni levélszemétszűrő házirendeket, és a Bekapcsolva **–** Továbbítás beállítás csak a külső automatikus e-mail-továbbítást használó felhasználóknak engedélyezett. További információt a Külső e-mail-továbbítás konfigurálása a [Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)

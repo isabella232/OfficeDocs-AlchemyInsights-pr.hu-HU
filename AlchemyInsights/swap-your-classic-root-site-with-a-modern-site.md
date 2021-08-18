@@ -13,23 +13,23 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940821"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316142"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>A klasszikus gyökérwebhely felcserélizálása modern webhelyekkel
 
-Ha a környezete 2019 áprilisa előtt volt beállítva, a Microsoft PowerShell segítségével modern webhelyre módosíthatja a gyökérwebhelyet:
+Ha a környezetét 2019 áprilisa előtt beállította, a gyökérwebhelyet modern webhelyre módosíthatja a Microsoft PowerShell használatával:
 
 - Ha van egy másik webhelye, amit gyökérwebhelyként szeretne használni, helyettesítheti [(felcserélheti)](https://docs.microsoft.com/sharepoint/modern-root-site) a gyökérwebhelyet vele. 
-    - Az [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) segítségével felcserélje egy webhely helyét egy másik webhelyre az eredeti webhely archiválásával. A csoportwebhely (csoporthoz nem kapcsolt) és a kommunikációs webhely számára is elérhető. 
+    - Az [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) használatával felcserélje egy webhely helyét egy másik webhelyre az eredeti webhely archiválása közben. A csoportwebhelyhez (csoporthoz nincs kapcsolva) és a kommunikációs webhelyhez is elérhető. 
 
 - Hamarosan további funkciókat is bevezetünk, amelyek lehetővé teszik, hogy továbbra is a webhelyen lévő tartalmakat használja, de a meglévő webhelyet kommunikációs webhelyké alakítsa át. 
->[!Important]
->Ezeket a képességeket fokozatosan vezetjük be. Folytassa a frissítéseket az Üzenetközpontban. 
+
+**Fontos:** Ezeket a képességeket fokozatosan vezetjük be. Folytassa a frissítéseket az Üzenetközpontban. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Ismert problémák a webhelyek felcserélésével
 

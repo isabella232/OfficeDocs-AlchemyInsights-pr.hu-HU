@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087210"
 ---
 # <a name="your-payment-was-declined"></a>A kifizetést a rendszer elutasította
 
@@ -48,7 +48,7 @@ A Microsoft a számla dátuma után 3-4 héten belül többször is megkísérli
 
 1. A Felügyeleti központban menjen a **Számlázás** > **Számlázás és fizetés** > [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra.
 
-2. Jelölje ki a frissíteni kívánt fizetési mód sorát! A jobb oldali panelben válassza a **Szerkesztés** lehetőséget.
+2. Jelölje ki a frissíteni kívánt fizetési mód sorát. A jobb oldali panelben válassza a **Szerkesztés** lehetőséget.
 
 3. Frissítse a fizetési mód adatait, beleértve a hitel- vagy bankkártyán szereplő nevet, a számlázási címet, vagy a lejárati dátumot, majd válassza a **Mentés** lehetőséget.
 

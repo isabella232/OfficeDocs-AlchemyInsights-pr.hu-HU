@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: 6ef9cd8005ab8cbd2d69b09cc8192b6359b397e8d5c471d2f958ae1e751d7797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 72eefe436b3ad138add0cf4fd72f912b69298bd93e4b352d5802f015ec94cbc3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062190"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897902"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Törölt elemek visszaállítása az Exchange Felügyeleti központban
 
@@ -29,4 +29,4 @@ Az egyszerűsített és [frissített e-mail-felügyeleti felülettel](https://ad
     - Előfordulhat, hogy a **... továbbiak** legördülő menüben találja a **törölt elemek helyreállítása** lehetőséget.
 4. A szűrőbeállítások segítségével keresse meg a helyreállítani kívánt elemeket.
 
-További információ: Törölt üzenetek helyreállítása az új [EAC-ben.](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages)
+További információ: Törölt üzenetek helyreállítása az új [EAC-ben.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages)

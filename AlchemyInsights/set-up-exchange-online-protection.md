@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085878"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897798"
 ---
 # <a name="set-up-exchange-online-protection"></a>A Exchange Online Védelmi szolgáltatás
 
-Microsoft Exchange Online A Védelem (EOP) egy felhőalapú levélszűrő szolgáltatás, amely védelmet nyújt a levélszemét és a kártevők ellen, és olyan funkciókat nyújt, amelyek védik szervezetét az üzenetkezelési házirend megsértéseitől.
+Microsoft Exchange Online A Védelem (EOP) egy felhőalapú levélszűrő szolgáltatás, amely védelmet nyújt a levélszemét, a kártevők és a hamisítás ellen, és olyan funkciókat nyújt, amelyek védik szervezetét az üzenetküldési házirend megsértéseitől.
 
-Az [EOP](https://go.microsoft.com/fwlink/?linkid=2071067) beállításához Exchange Online Védelmi szolgáltatás telepítési útmutatót használva válasszon a három telepítési forgatókönyv közül : a helyszíni postaládák, a hibrid (a helyszíni és a felhőbeli postaládák vegyesen) vagy az összes felhőbeli postaláda közül, amelyek illeszkednek a szervezetéhez. Az útmutató információkat és forrásokat nyújt az EOP beállításhoz és a felhasználói licencek áttekintéséhez, engedélyek hozzárendeléséhez a Microsoft 365 Felügyeleti központ-ban, valamint a szervezet kártevő- és levélszemét-védelmi házirendeinek konfigurálása a Biztonsági & megfelelőségi központban.
+Az [Exchange Online Védelmi szolgáltatás telepítési](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) útmutató segítségével állítsa be az EOP-t a szervezetének leginkább megfelelő három telepítési forgatókönyv közül:
+
+- Az összes helyszíni postaláda.
+- Hibrid (a helyszíni és a felhőbeli postaládák vegyesen)
+- Az összes felhőpostafiók, amely megfelel a szervezetének.
+
+Az útmutató információkat és forrásokat tartalmaz az EOP beállításhoz, a felhasználó licencelésének áttekintéséhez, engedélyek hozzárendeléséhez a Microsoft 365 Felügyeleti központ és a szervezet biztonsági házirendeinek beállításával kapcsolatban.

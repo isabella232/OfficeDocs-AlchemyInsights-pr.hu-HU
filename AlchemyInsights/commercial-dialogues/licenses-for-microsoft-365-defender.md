@@ -1,5 +1,5 @@
 ---
-title: Licenccel Microsoft 365 Defender
+title: Licenccel rendelkező Microsoft 365 Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967983"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315688"
 ---
-# <a name="licenses-for-microsoft-365-defender"></a>Licenccel Microsoft 365 Defender
+# <a name="licenses-for-microsoft-365-defender"></a>Licenccel rendelkező Microsoft 365 Defender
 
 Az alábbi licencek ingyenes hozzáférést biztosítanak Microsoft 365 Defender biztonsági központ Microsoft 365 funkcióihoz:
 
@@ -31,10 +31,9 @@ Az alábbi licencek ingyenes hozzáférést biztosítanak Microsoft 365 Defender
 - Microsoft Defender a végponthoz
 - Microsoft Defender identitásért
 - Microsoft Cloud App Security
-- Microsoft Defender Office 365 (2. csomag)
+- Microsoft Defender a Office 365 (2. csomag)
 
-    > [!NOTE]
-    > A próbaverziós licencek jelenleg Office 365 nem biztosítanak hozzáférést a Microsoft 365 Defender.
+    **Megjegyzés:** Jelenleg a próbalicencek a Office 365 nem biztosítanak hozzáférést a Microsoft 365 Defender.
 
 További információt a Csomagok összehasonlítása [Microsoft 365 Nagyvállalati verzió tartalmaz.](https://go.microsoft.com/fwlink/?linkid=2143458)
 

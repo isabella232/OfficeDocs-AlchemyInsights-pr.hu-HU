@@ -1,5 +1,5 @@
 ---
-title: OneDrive bejelentkezési hiba AADSTS50011
+title: OneDrive bejelentkezési hiba az AADSTS50011-ben
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112914"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>OneDrive bejelentkezési hiba AADSTS50011
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive bejelentkezési hiba az AADSTS50011-ben
 
-Ha hibaüzenet jelenik meg a "AADSTS50011: a kérésben megadott válasz URL-címe nem egyezik meg" üzenettel a OneDrive alkalmazásba való bejelentkezéskor, ellenőrizze az alábbiakat:
+Ha "AADSTS50011: A kérelemben megadott válasz URL-címe nem egyezik meg a válasz" hibaüzenet jelenik meg az OneDrive appba való bejelentkezéskor, ellenőrizze az alábbiakat:
 
-A OneDrive-verziónak a 20.052. XXXX verzióval egyenlőnek vagy nagyobbnak kell lennie. XXXX. A verzió ellenőrzéséhez kattintson a kék OneDrive ikonra az értesítési területen, válassza a **súgó & a beállítások > a beállítások >** a beállítások lehetőséget.
+A OneDrive verziónak a 20.052.XXXX.XXXX. verziónál nem kisebbnek kell lennie. A verzió ellenőrzéshez kattintson a kék OneDrive ikonra az értesítési területen, és válassza **a Súgó & Gépház > Gépház > About lehetőséget.**
 
-A hálózat blokkolhatja a **g.Live.com** és a **oneclient.SFX.MS** való forgalmat. Ha a forgalom le van tiltva, a OneDrive nem tudja frissíteni magát. A hálózati rendszergazda segítségével gondoskodhat arról, hogy hozzáférhessen az URL-címekhez. [Ezek a végpontok](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) elérhetők a Microsoft 365-csomagokat használó ügyfelek számára.
+Előfordulhat, hogy a hálózata blokkolja a g.live.com **és** a **oneclient.sfx.ms.** Ha a forgalom le van tiltva, a OneDrive nem tudja frissíteni magát. A hálózati rendszergazdával működve győződjön meg arról, hogy rendelkezik hozzáféréssel az ilyen URL-címekhez. [Ezeknek a végpontoknak](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) elérhetőnek kell lennie a Microsoft 365 használó ügyfelek számára.
 
-Ha kézzel kell beszereznie a OneDrive aktuális verzióját, keresse fel [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Ha manuálisan kell lekérte a verziók aktuális OneDrive, látogasson el [https://aka.ms/getonedrive](https://aka.ms/getonedrive) a webhelyre.
