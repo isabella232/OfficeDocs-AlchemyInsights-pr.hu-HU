@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088866"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333161"
 ---
 # <a name="getting-started-with-teams-live-events"></a>A Teams élőesemények használatának első lépései
 
@@ -27,7 +27,9 @@ A Microsoft Teams élő események a Teams értekezletek kiterjesztése, amely l
 
 - Első lépésként győződjön meg arról, hogy a Teams élő események [elérhetők az Ön országában és régiójában](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); egyes országokban még nem támogatottak az élő események.  Ha hozzárendelte a licenceket és beállította a házirendeket, de még mindig nem tud Teams élő eseményt létrehozni, akkor valószínűleg olyan országban vagy régióban tartózkodik, ahol még nem érhetők el az élő események.
 
-- Egy [Office 365 nagyvállalati E1, E3 vagy E5 licenc, illetve Office 365 A3 vagy A5 licenc](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Megjegyzés**: a Teams használatának közelmúltbeli növekedésének köszönhetően a Teams licencének egy felhasználóhoz rendelését követően a rendszer akár 24 órát is igénybe vehet a teljes beállításhoz. Addig is nem fogja tudni a Teams házirendjeit hozzájuk rendelni, és előfordulhat, hogy nem férnek hozzá a Teams néhány funkciójához, például a híváshoz és a hangkonferenciához.
+- Egy [Office 365 nagyvállalati E1, E3 vagy E5 licenc, illetve Office 365 A3 vagy A5 licenc](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Megjegyzés**: a Teams használatának közelmúltbeli növekedésének köszönhetően a Teams licencének egy felhasználóhoz rendelését követően a rendszer akár 24 órát is igénybe vehet a teljes beállításhoz. Addig is nem fogja tudni a Teams házirendjeit hozzájuk rendelni, és előfordulhat, hogy nem férnek hozzá a Teams néhány funkciójához, például a híváshoz és a hangkonferenciához.
 
 - [Élő események létrehozásának engedélyezése a Microsoft Teams felügyeleti központban](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

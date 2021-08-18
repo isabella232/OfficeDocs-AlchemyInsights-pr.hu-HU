@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11108"
-ms.openlocfilehash: 55b98c3d34b1b4bce5cef746e18bc2933902624547d2020118579593ca5c6f77
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c7067ddf57eb7229a4e114eb74ff8306a4a9318a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889892"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331237"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>Csoport házirendek a Microsoft Edge
 
-A böngésző szervezetben való Microsoft Edge (77-es vagy újabb) verzióban elérhető csoportházirendekkel adhatja meg, hogy a böngésző hogyan fut a szervezetben. További információt a Házirendek [– Microsoft Edge .](https://docs.microsoft.com/deployedge/microsoft-edge-policies#available-policies)
+A (77-es vagy újabb) Microsoft Edge verzióban elérhető csoportházirendekkel megadhatja, hogy a böngésző hogyan fut a szervezetben. További információt a Házirendek [– Microsoft Edge .](https://docs.microsoft.com/deployedge/microsoft-edge-policies#available-policies)

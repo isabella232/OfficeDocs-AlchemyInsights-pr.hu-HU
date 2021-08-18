@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 6818f0e5bd82bd7f8f4e955749aa0defecc5b5d947383de4571c23a4bd316497
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4f64426642e8213176b29d55b3091249762b4fa3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54117774"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333267"
 ---
-# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>404-es hiba: A fájl nem található a SharePoint-ben OneDrive
+# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>404-es hiba: A fájl nem található a SharePoint-ban OneDrive
 
-Ha a 404-es hibakód nem található, tekintse át [a 404-es](/sharepoint/troubleshoot/administration/error-404-onedrive-sharepoint)hibakódú fájl/lap nem található a OneDrive-ben vagy a SharePoint.
+Ha a 404-es hibakód nem található, tekintse át [a 404-es](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-404-onedrive-sharepoint)hibakódú fájl/lap nem található a OneDrive-ban vagy a SharePoint.

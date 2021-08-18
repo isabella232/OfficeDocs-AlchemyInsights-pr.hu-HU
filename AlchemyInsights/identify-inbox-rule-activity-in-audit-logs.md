@@ -13,19 +13,19 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1f252836d624b4550e1f3c87cf4fd7309dec6e91
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891297"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331125"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>A beérkezett üzenetek szabályával kapcsolatos tevékenységek azonosítása a naplókban
 
 A naplókereséssel megtekintheti a beérkezett Microsoft 365 Megfelelőségi központ eseményeket (a beérkezett üzenetekre vonatkozó szabályok létrehozását, módosítását és törlését).
 
 1. Tegye a következők valamelyikét:
-   - A Microsoft 365 Megfelelőségi központ a <https://compliance.microsoft.com> Megoldásvizsgálat  \> **hoz.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://compliance.microsoft.com/auditlogsearch> használja: .
+   - A Microsoft 365 Megfelelőségi központ a <https://compliance.microsoft.com> Megoldásvizsgálat  \> **ot.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://compliance.microsoft.com/auditlogsearch> használja: .
    - A (Microsoft 365 Defender) portálon a <https://security.microsoft.com> Audit **(Naplózás) stb.** Vagy ha közvetlenül a Naplózás **lapra,** a következőt <https://security.microsoft.com/auditlogsearch> használja: .
 
 2. A Naplózás **lap** Keresés **lapján** adja meg az alábbi beállításokat:

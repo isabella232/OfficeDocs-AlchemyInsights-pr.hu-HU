@@ -16,12 +16,12 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 328653214d99d06ad76f2bc256f16518df7757a912dd064b20501af03813ebb3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: de22b17e0863af13073a47b31ed9c8236cce23e8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501278"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332901"
 ---
 # <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 nonprofit szervezeteknek – jóváhagyott
 
@@ -33,4 +33,4 @@ A Microsoft jóváhagyta az Ön nonprofit státuszát (Microsoft Qualified Nonpr
 
 3. Mutasson a megvásárolni kívánt előfizetésre, és válassza a Vásárlás **lehetőséget.**
 
-További információért lásd: [Microsoft 365 nonprofit szervezetek számára,](https://www.microsoft.com/nonprofits/microsoft-365) illetve kapcsolatfelvételi [értékesítési források.](https://www.microsoft.com/nonprofits/contact-us)
+További információért lásd: [Microsoft 365 nonprofit szervezetek számára,](https://www.microsoft.com/nonprofits/microsoft-365) vagy kapcsolatfelvétel az [értékesítéssel.](https://www.microsoft.com/nonprofits/contact-us)

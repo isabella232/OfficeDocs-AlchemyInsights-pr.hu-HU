@@ -14,20 +14,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c1c4584a5850c2a11401c4f5bd1c04da3e9b23d6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985635"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331895"
 ---
 # <a name="more-info-about-retention-policies"></a>További információ az adatmegőrzési szabályokról
 
-A legtöbb szervezet esetében az adatok mennyisége és összetettsége naponta egyre nő – levelezés, dokumentumok, csevegőüzenetek stb. Ezeknek az információknak a hatékony kezelése vagy szabályozása fontos, az adatmegőrzési házirendek pedig segíthetnek e célok elérésében. Az adatmegőrzési házirendekkel kapcsolatos további információkért keresse fel az alábbi hivatkozásokat:
+A legtöbb szervezet esetében az adatok mennyisége és összetettsége naponta egyre nő – levelezés, dokumentumok, csevegőüzenetek stb. Ezeknek az információknak a hatékony kezelése vagy szabályozása fontos, és az adatmegőrzési házirend segíthet elérni ezeket a célokat. Az adatmegőrzési házirendekkel kapcsolatos további információkért keresse fel az alábbi hivatkozásokat:
 
 ## <a name="a-from-security-and-compliance-center"></a>A) A Biztonsági és megfelelőségi központból
 
-- A Biztonság és megfelelőség az adatmegőrzés > megőrzési > ugrás
+- Ugrás a Biztonság és megfelelőség az > adatmegőrzési >
   - Lásd: [EZ a](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) cikk
 
 - A Biztonsági és megfelelőségi beállítások > elektronikus adatok> Advanced eDiscovery 
@@ -52,5 +52,4 @@ A legtöbb szervezet esetében az adatok mennyisége és összetettsége naponta
   - [Tartalomvédelmi szolgáltatás egy listában/tárban](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [Tartalomvédelmi szolgáltatás áttekintése](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
-> [!Note]
-> Erősen javasoljuk, hogy a régi típusú adatfel kívüllelési vagy IRM-, illetve webhelybezárási és -törlési házirendek használata esetén használja a biztonsági és megfelelőségi házirendeket.
+**Megjegyzés:** Kifejezetten ajánljuk, hogy a régi típusú elektronikus adatfelelési vagy iRM-, illetve a webhelybezárási és -törlési házirendek használata esetén használja a biztonsági és megfelelőségi házirendeket.

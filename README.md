@@ -1,3 +1,3 @@
 ## <a name="microsoft-open-source-code-of-conduct"></a>A Microsoft nyílt forráskódú viselkedési szabályzata
 Ez a projekt a Microsoft nyílt forráskódú [viselkedési szabályzatát vezeti be.](https://opensource.microsoft.com/codeofconduct/)
-További információért [](https://opensource.microsoft.com/codeofconduct/faq/) olvassa el a viselkedési szabályzatra vonatkozó gyakori kérdéseket, [vagy lépjen kapcsolatba opencode@microsoft.com](mailto:opencode@microsoft.com) további kérdésekkel vagy megjegyzésekkel.
+További információt a gyakori kérdések a viselkedési [szabályzatról](https://opensource.microsoft.com/codeofconduct/faq/) vagy a opencode@microsoft.com [további](mailto:opencode@microsoft.com) kérdésekkel vagy megjegyzésekkel című témakörben talál.

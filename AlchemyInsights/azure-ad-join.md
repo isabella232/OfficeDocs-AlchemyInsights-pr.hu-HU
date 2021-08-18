@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9890"
-ms.openlocfilehash: 9e08d6c2a4553e395b5206816f29471118bb3b286e669c0b2d07a740e2a3c749
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6a772d7bad7f00940ee45a2a2e6860321cefe331
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894553"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331497"
 ---
 # <a name="azure-active-directory-join"></a>Azure Active Directory csatlakozás
 
@@ -27,4 +27,4 @@ ms.locfileid: "57894553"
 1. Győződjön meg arról, hogy jogosult műveletek elvégzésére az Azure AD-ban. Az eszközregisztrációk beállításait csak az Azure AD globális rendszergazdája kezelheti.
 1. Az Azure AD-csatlakozás implementációról Az [Azure AD Join](https://docs.microsoft.com/azure/active-directory/devices/azureadjoin-plan)megtervz.
 
-Az Azure AD-csatlakozással kapcsolatos gyakori problémák megoldásáról további információt az [Azure AD-csatlakozás](https://docs.microsoft.com/azure/active-directory/devices/faq) – gyakori kérdések és egy Windows 10 profi eszköz esetén című témakörben talál Windows 10 Pro. A Nem lehet csatlakozni egy géphez az [Azure AD-be](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)– Frissíteni kell a következőre: - Microsoft Community című témakört.
+Az Azure AD-csatlakozással kapcsolatos gyakori problémák megoldásáról további információt az [Azure Ad](https://docs.microsoft.com/azure/active-directory/devices/faq) -csatlakozás – gyakori kérdések és egy Windows 10 profi eszköz esetén című témakörben talál Windows 10 Pro. A Nem lehet csatlakozni egy géphez az [Azure AD-be](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)– Frissíteni kell a következőre: - Microsoft Community című témakört.

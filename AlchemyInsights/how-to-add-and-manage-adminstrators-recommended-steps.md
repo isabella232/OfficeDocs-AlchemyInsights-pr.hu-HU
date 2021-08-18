@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963789"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339034"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Rendszergazdák hozzáadása és kezelése – ajánlott lépések
 
@@ -29,7 +29,7 @@ A probléma leírása alapján megoldást találtunk az Ön számára. A legtöb
 - A fiók rendszergazdája mindkét szerepkört szerkesztheti, míg az előfizetési rendszergazda csak a társ-rendszergazdákat módosíthatja az [Azure Portalon.](https://ms.portal.azure.com/#home)
 - [Azure-előfizetés rendszergazdáinak hozzáadása vagy módosítása](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Az Előfizetés-rendszergazda vagy a Co-Administrator (AIRS) előfizetések frissítése**
+**Az Előfizetés-rendszergazda vagy a Co-Administrator (AIRS) előfizetés frissítése**
 
 A szolgáltatás rendszergazdája vagy a társ-rendszergazda saját maga is használhatja ezt a műveletet az alábbi lépésekkel:
 
@@ -55,27 +55,27 @@ A szolgáltatás rendszergazdája vagy a társ-rendszergazda saját maga is hasz
 
 **Felhasználók felvétele és törlése Azure Active Directory (AD) használatával**
 
-Hozzáadhat új felhasználókat, vagy törölheti a meglévő felhasználókat a Azure Active Directory (Azure AD) szervezetből:
+Felvehet új felhasználókat, vagy törölheti a meglévő felhasználókat a Azure Active Directory (Azure AD) szervezetből:
 
-1. Új felhasználó hozzáadásához jelentkezzen be az [Azure Portalra](https://ms.portal.azure.com/#home) a szervezet rendszergazdájaként.
-2. Válassza **Azure Active Directory**, válassza a **Felhasználók,** majd az Új **felhasználó lehetőséget.**
+1. Új felhasználó hozzáadásához jelentkezzen be az [Azure Portalba](https://ms.portal.azure.com/#home) a szervezet rendszergazdájaként.
+2. Válassza **Azure Active Directory**, válassza **a Felhasználók,** majd az Új **felhasználó lehetőséget.**
 3. A Felhasználó **lapon** adja meg a szükséges adatokat. Kattintson a **Létrehozás gombra.** A felhasználó létrejön, és hozzáadódik az Ön Azure AD-bérlőjéhez.
 
 **További információ:**
 
 - [Új felhasználó hozzáadása](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Felhasználó törlése](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Felhasználók profilinformációinak hozzáadása vagy frissítése a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Felhasználók profilinformációinak hozzáadása és frissítése a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Ajánlott dokumentumok**
 
 - [Mit jelent a szerepköralapú hozzáférés-vezérlés?](https://docs.microsoft.com/azure/role-based-access-control/overview)
 - [A különböző szerepkörök az Azure-ban](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [Rendszergazdai szerepkör engedélyei a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [Rendszergazdai szerepkörengedélyek a Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
 - [Oktatóprogram: Hozzáférés megadása egy felhasználónak az RBAC és az Azure Portal használatával](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Az RbAC hibaelhárítása az Azure-ban](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Az erőforrások rendszerezése Azure felügyeleti csoportokkal](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Azure-számla másolatának kérése e-mailben](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Azure-számla másolatának kérése e-mailben](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Hitelkártya vagy bankkártya hozzáadása, frissítése vagy eltávolítása az Azure-ból](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Előfizetés kezelése (újraaktiválás/lemondás/váltás)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973843"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338962"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Az elektronikus adatokban való kereséshez szükséges engedélyek
 
-Ahhoz, hogy tartalomkereséseket végezzen a Biztonsági & Megfelelőségi központban, a felhasználónak legalább tagja kell lennie az Elektronikus adatok észlelése kezelője szerepkörcsoportnak, amely lehetővé teszi számukra a postaládákban, az SharePoint-webhelyeken és az OneDrive-helyeken való keresést és OneDrive helykereséseket. A tagok elektronikus adatfeladatokat hozhatnak létre és kezelhet, tagokat adhatnak hozzá és távolíthat el az esetekhez, tartalomkereséseket hozhatnak létre és szerkeszthet, valamint elérhetik a kis- és Advanced eDiscovery.
+A Biztonsági & Megfelelőségi központban a tartalmak végrehajtásához a felhasználónak legalább tagja kell lennie az Elektronikus adatokfelvizsgálat-kezelő szerepkörcsoportnak.
 
-A In-Place Felügyeleti központban (Exchange EAC) a feltárási keresések elvégzéséhez a felhasználónak tagja kell lennie a Feltáráskezelés szerepkörcsoportnak a Exchange Online.
+Ahhoz, hogy tartalomkeresést végezzen a Microsoft 365 Megfelelőségi központ, a felhasználónak legalább tagja kell lennie az Elektronikus adatok észlelése kezelője szerepkörcsoportnak.  
 
-A elektronikus adatfel neked való engedélyekkel kapcsolatos további információkért lásd: 
+Engedélyek hozzárendelése:
 
-- [EDiscovery-engedélyek hozzárendelése a Biztonsági & megfelelőségi központban](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Elektronikus észlelési engedélyek hozzárendelése a Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Ugrás a [Microsoft 365 Megfelelőségi központ](https://compliance.microsoft.com/)  >  **hoz.**
+1. A **Megfelelőségi központ alatt** válassza a **Szerepkörök**, majd az **Elektronikus észlelés-kezelő lehetőséget.**
+1. Az úszó panelen vegye fel a felhasználót  a kívánt szerepkörbe az Elektronikus adatok észlelése kezelője vagy az Elektronikus adatokfel felfedező rendszergazdája szerepkör melletti Szerkesztés gombra választva.
 
 **Megjegyzés:** Adiscovery-engedélyek hozzárendelése után előfordulhat, hogy várnia kell néhány percet, amíg az engedélyek propagálása meg nem adhatja.
+
+A elektronikus adatfel neked való engedélyekről további információt a Jelen dokumentum elektronikus adatfel neked való [Microsoft 365 Megfelelőségi központ.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
