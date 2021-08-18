@@ -1,5 +1,5 @@
 ---
-title: A Exchange Online Védelmi szolgáltatás
+title: A Exchange Online Védelmi szolgáltatás beállítása
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab370e992c1f58ff388e5d4db57245fe7fcbd682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897798"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316294"
 ---
-# <a name="set-up-exchange-online-protection"></a>A Exchange Online Védelmi szolgáltatás
+# <a name="set-up-exchange-online-protection"></a>A Exchange Online Védelmi szolgáltatás beállítása
 
 Microsoft Exchange Online A Védelem (EOP) egy felhőalapú levélszűrő szolgáltatás, amely védelmet nyújt a levélszemét, a kártevők és a hamisítás ellen, és olyan funkciókat nyújt, amelyek védik szervezetét az üzenetküldési házirend megsértéseitől.
 
-Az [Exchange Online Védelmi szolgáltatás telepítési](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) útmutató segítségével állítsa be az EOP-t a szervezetének leginkább megfelelő három telepítési forgatókönyv közül:
+Az [Exchange Online Védelmi szolgáltatás](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) telepítési útmutató segítségével állítsa be az EOP-t a szervezetének leginkább megfelelő három telepítési forgatókönyv közül választva:
 
 - Az összes helyszíni postaláda.
 - Hibrid (a helyszíni és a felhőbeli postaládák vegyesen)
 - Az összes felhőpostafiók, amely megfelel a szervezetének.
 
-Az útmutató információkat és forrásokat tartalmaz az EOP beállításhoz, a felhasználó licencelésének áttekintéséhez, engedélyek hozzárendeléséhez a Microsoft 365 Felügyeleti központ és a szervezet biztonsági házirendeinek beállításával kapcsolatban.
+Az útmutató információkat és erőforrásokat tartalmaz az EOP beállításhoz, a felhasználó licencelésének áttekintéséhez, engedélyek hozzárendeléséhez a Microsoft 365 Felügyeleti központ- és a szervezet biztonsági házirendjéhez.

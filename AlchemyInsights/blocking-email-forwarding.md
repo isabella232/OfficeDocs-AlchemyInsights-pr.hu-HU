@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe9e52023b809b38c43332a10a1184d114798cfe
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897470"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315876"
 ---
 # <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Automatikus e-mail-továbbítás blokkolása vagy letiltásának feloldása
 
 Ha egy adott postaládában szeretné engedélyezni vagy letiltani az e-mail-továbbítást, tekintse meg az [E-mail-továbbítás beállítása.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-A rendszergazdák kimenő levélszemét-házirendeket használva szabályozhatja a külső továbbítást a [szervezetben.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) A kimenő levélszemét-házirendeket a Microsoft 365 Defender-portálon kezelheti a <https://security.microsoft.com/antispam> [PowerShell Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) Exchange Online használatával.
+A rendszergazdák kimenő levélszemét-házirendeket használva szabályozhatja a külső továbbítást a [szervezetben.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) A kimenő levélszemét-házirendeket a Microsoft 365 Defender portálon kezelheti a <https://security.microsoft.com/antispam> [PowerShell Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) Exchange Online használatával.
 
 Ha a következő hibaüzenet jelenik meg: **"550 5.7.520 Access denied, Your organization not allow external forwarding" (550 5.7.520 Access denied, Your organization not allow external forwarding) (550 5.7.520 Access denied, Your organization not allow external forwarding) (550 5.7.520 Access denied, your** organization not allow external forwarding) (A szervezet nem engedélyezi a külső továbbítást) hibaüzenet jelenik meg, győződjön meg arról, hogy a házirend konfigurálva van a külső automatikus továbbított üzenetek engedélyezésére.
 

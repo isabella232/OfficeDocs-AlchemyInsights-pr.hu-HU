@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: 48c8c82257467a484205c4fcbb218b2441244915f943ed8d984c9d41767c676d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: de141118124bf76339888a325c595c63cbaaa06d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894025"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317014"
 ---
 # <a name="cancel-advanced-threat-protection"></a>A Komplex veszélyforrások elleni védelem lemondása
 
-A rendszergazdák lemondhatjak a komplex veszélyforrások elleni védelemre szóló előfizetést a Microsoft 365 Felügyeleti központ.
+A rendszergazdák a szervezetük Komplex veszélyforrások elleni védelem szolgáltatásra szóló előfizetését a Microsoft 365 Felügyeleti központ.
 
 1. Válassza a **Termékek**  >  [számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. A Termékek **lapon** keresse meg a lemondani kívánt Komplex veszélyforrások elleni védelemmel kapcsolatos tervet. Válassza a három pontra (további műveletek), majd az **Előfizetés lemondása gombra.**

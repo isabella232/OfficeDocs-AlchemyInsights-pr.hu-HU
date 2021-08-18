@@ -16,21 +16,21 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: d50f4c7a3ac7a8de8ab280c87f4b815479788bc04aef792dcc3e503bed5b2f03
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: a04d6c23caecc8766d91bd8aa17ca9df870de03c221b8bc162dfe4a98d961f48
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501674"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899578"
 ---
 # <a name="billing-or-invoice-faq"></a>Számlázás vagy számlák – gyakori kérdések
 
-- A számlák kifizetése több okból is **elutasítható**, például azért, mert lejárt a bankkártyája vagy hitelkártyája. A megoldáshoz lásd: [Fizetési mód részleteinek frissítése.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)
-- Ha a számlája **fizetési határideje lejárt**, akkor az **Egyenleg rendezése** funkcióval küldje el újra a befizetést. A megoldásról a Mi a helyzet [akkor, ha tartozásom van?](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
-- A felhasználókhoz nem rendelt licencekért továbbra is fizetnie kell. A szükségtelen díjak elkerülése érdekében távolítsa el a fel nem használt licenceket a licencek számának csökkentése érdekében. Lásd: [Licencek vásárlása vagy eltávolítása](/microsoft-365/commerce/licenses/buy-licenses) előfizetésből.
-- Ha havi vagy éves beállításra szeretné módosítani a **számlázási gyakoriságot**, tekintse át a [Számlázási gyakoriság módosítása](/microsoft-365/commerce/billing-and-payments/change-payment-frequency) című témakört.
-- Ha segítségre van szüksége a számla értelmezéséhez, olvassa el a [Számlaértelmezés](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2) című témakört.
-- Ha segítségre van szüksége a számla **megtekintéséhez**, olvassa el [A számla megtekintése](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) című témakört.
-- Ha módosítani szeretné a számlázási adatokat, tekintse át [a Számlázási](/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) profilok kezelése vagy a számlázási [cím módosításacímet.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+- A számlák kifizetése több okból is **elutasítható**, például azért, mert lejárt a bankkártyája vagy hitelkártyája. A megoldáshoz lásd: [Fizetési mód részleteinek frissítése.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)
+- Ha a számlája **fizetési határideje lejárt**, akkor az **Egyenleg rendezése** funkcióval küldje el újra a befizetést. A megoldásról a Mi a helyzet [akkor, ha tartozásom van?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- A felhasználókhoz nem rendelt licencekért továbbra is fizetnie kell. A szükségtelen díjak elkerülése érdekében távolítsa el a fel nem használt licenceket a licencek számának csökkentése érdekében. Lásd: [Licencek vásárlása vagy eltávolítása](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) az előfizetésből.
+- Ha havi vagy éves beállításra szeretné módosítani a **számlázási gyakoriságot**, tekintse át a [Számlázási gyakoriság módosítása](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency) című témakört.
+- Ha segítségre van szüksége a számla értelmezéséhez, olvassa el a [Számlaértelmezés](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2) című témakört.
+- Ha segítségre van szüksége a számla **megtekintéséhez**, olvassa el [A számla megtekintése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) című témakört.
+- Ha módosítani szeretné a számlázási adatokat, tekintse át [a Számlázási](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) profilok kezelése vagy a számlázási [cím módosításacímet.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
-További információ: [Számlaérteklünk.](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+További információ: [Számlaérteklünk.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

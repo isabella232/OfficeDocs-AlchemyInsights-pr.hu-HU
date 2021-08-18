@@ -11,21 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100404"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316642"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Elemek exportálása archív fájlba a Mac Outlook
 
-A beérkezett üzenetek méretének csökkentése érdekében manuálisan archiválja az e-maileket, névjegyeket és más elemeket egy Mac Outlook (.olm) fájlba. Az .olm fájlokat a Mac gépére vagy egy másik gépre mentheti biztonság miatt.
+A beérkezett üzenetek méretének csökkentése érdekében manuálisan archiválja az e-maileket, névjegyeket és más elemeket Mac Outlook adatfájlba (.olm). Az .olm fájlokat a Mac gépére vagy egy másik gépre mentheti biztonság miatt.
 
 1. Az Eszközök **lapon kattintson** az Exportálás **gombra.**
 
-> [!NOTE]
-> Nem látható az **Exportálás** gomb? Győződjön meg arról, hogy a legújabb verzióval Outlook. A Súgó Outlook **menüben** kattintson a **Frissítések keresése elemre.** Ha az Outlook összes frissítést alkalmazta, de továbbra  sem látja az  Exportálás gombot, keresse meg az Exportálás lehetőséget a Outlook **menüben.**
+    **Megjegyzés:** Nem látja az Exportálás **gombot?** Győződjön meg arról, hogy a legújabb verzióval Outlook. A Súgó Outlook **menüben** kattintson a **Frissítések keresése elemre.** Ha az Outlook összes frissítést alkalmazta, de továbbra  sem látja az  Exportálás gombot, keresse az Exportálás lehetőséget az Exportálás Outlook **menüben.**
 
 2. Az Exportálás **archívumfájlba (.olm)** párbeszédpanelen jelölje ki az exportálni kívánt elemeket, és kattintson a Folytatás **gombra.**
 
@@ -33,7 +32,7 @@ A beérkezett üzenetek méretének csökkentése érdekében manuálisan archiv
 
 4. Miután exportálta az adatokat, és megjelenik egy értesítés, kattintson a Befejezés **gombra.**
 
-Az Mac Outlook-adatfájlba (.olm) mentett adatok eléréséről további információt az [](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)E-mailek, névjegyek és egyéb elemek importálása a Mac Outlook 2016.
+Az Mac Outlook-adatfájlba (.olm) mentett adatok eléréséről további információt az [E-mailek,](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)névjegyek és egyéb elemek importálása a Mac Outlook 2016.
 
 **Exportálni szeretnék az iCloudba vagy más típusú archív fájlba**
 
@@ -41,6 +40,6 @@ Jelenleg az .olm archívumfájl az egyetlen elérhető exportálási lehetőség
 
 **Lásd még**
 
-- [Importálja a .pst fájlokat a Mac Outlook 2016 a Outlook-Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
+- [Importálja a .pst fájlokat a Mac Outlook 2016 Outlook-Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
 
 - [A Time Machine használatával automatikusan archiválhatja vagy biztonságiba is Mac Outlook 2016](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
