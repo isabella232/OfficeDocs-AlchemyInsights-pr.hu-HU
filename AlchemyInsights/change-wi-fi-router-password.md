@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818185"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119610"
 ---
 # <a name="change-your-wi-fi-router-password"></a>Az útválasztó jelszavának Wi-Fi módosítása
 
 Ha módosítani Wi-Fi útválasztó jelszavát, kövesse az alábbi lépéseket:
 
-1. Válassza **a Start**  >  **Settings** Network & Internet Network and Sharing Center  >  **(Internetes hálózat** és  >  **megosztási központ) lehetőséget.**
+1. Válassza **a Gépház** hálózat & Hálózat vagy  >    >  **megosztási** központ  >  **lehetőséget.**
 
 2. Az **Aktív hálózatok megtekintése alatt** keresse meg azt a hálózatot, amelyhez csatlakozik. Válassza a kék hivatkozást a Kapcsolatok **mellett.**<br>
 

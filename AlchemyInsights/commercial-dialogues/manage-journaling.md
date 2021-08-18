@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 2fcd0f386d2da8cad19fcc9872482bb75fe00dd2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c104f77f0f0f20fa4b029e5e0b515b6418326e4b7fab304f005fb67a18e2202a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119286"
 ---
 # <a name="manage-journaling"></a>Naplózás kezelése
 
 A naplózás segítségével szervezete megválaszolhatja a jogi, szabályozási és szervezeti megfelelőségi követelményeket a bejövő és kimenő e-mail-kommunikáció rögzítésével. Ne feledje:
 
 * A naplózás kezelése [előtt](https://go.microsoft.com/fwlink/?linkid=2115259) szervezetkezelési és rekordkezelési engedélyekkel kell rendelkeznie. [](https://go.microsoft.com/fwlink/?linkid=2115469)
-* Be kell állítania egy naplópostafiókot, és (ha szükséges) egy másik naplópostafiókot. További információt a Naplózás beállítása [az Exchange Online-ban című cikkben olvashat.](https://go.microsoft.com/fwlink/?linkid=2115260)
-* Az Exchange Online-ban a létrehozható naplószabályok száma korlátozva van. Részletes információkért lásd: [Napló, átviteli és beérkezett üzenetekre vonatkozó szabályok korlátai.](https://go.microsoft.com/fwlink/?linkid=2115261)
-* Az Exchange Online nem támogatja a naplójelentések Exchange Online-postaládába való kézbesítését. A naplópostafiókként meg kell adnia egy helyszíni archiválási rendszer vagy egy külső archiválási szolgáltatás e-mail-címét.
+* Be kell állítania egy naplópostafiókot, és (ha szükséges) egy másik naplópostafiókot. További információt A naplózás beállítása a Exchange Online című [Exchange Online.](https://go.microsoft.com/fwlink/?linkid=2115260)
+* A Exchange Online korlátozva van a létrehozható naplószabályok száma. Részletes információkért lásd: [Napló, átviteli és beérkezett üzenetekre vonatkozó szabályok korlátai.](https://go.microsoft.com/fwlink/?linkid=2115261)
+* Exchange Online nem lehet naplójelentéseket kézbesíteni egy Exchange Online postaládába. A naplópostafiókként meg kell adnia egy helyszíni archiválási rendszer vagy egy külső archiválási szolgáltatás e-mail-címét.

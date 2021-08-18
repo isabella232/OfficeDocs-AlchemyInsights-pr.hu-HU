@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896717"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323288"
 ---
 # <a name="create-user"></a>Felhasználó létrehozása
 
@@ -29,7 +29,7 @@ ms.locfileid: "57896717"
 
 **Nem tudok új felhasználót létrehozni az Azure AD címtárban**
 
-1. Győződjön meg arról, hogy jogosult egy új normál felhasználó létrehozására. Új normál felhasználót csak a globális rendszergazda vagy Azure Active Directory (AD) hozhat létre. Ha ön nem ezen szerepkörök valamelyikében van, kérje meg a rendszergazdát, hogy vegye fel az egyik ilyen szerepkörbe, vagy hozza létre az új felhasználói fiókot.
+1. Győződjön meg arról, hogy jogosult egy új normál felhasználó létrehozására. Új normál felhasználót csak a globális rendszergazda vagy a Azure Active Directory (AD) hozhat létre. Ha ön nem ezen szerepkörök valamelyikében van, kérje meg a rendszergazdát, hogy vegye fel az egyik ilyen szerepkörbe, vagy hozza létre az új felhasználói fiókot.
 1. Győződjön meg arról, hogy a felhasználónév egy olyan tartományban van, amely igazolt tartományként van megtetsve az Azure AD-ban. Ha nem található ellenőrzött egyéni tartománynév az Azure AD-ban, használhatja az Azure AD kezdeti tartományát, amelynek a vége *.onmicrosoft.com.
 1. Győződjön meg arról, hogy a felhasználónév olyan tartományban van, amely nincs a helyszíni AD-ről az Azure AD-hez összevontan. Nem lehet felhasználókat hozzáadni a felhőbe olyan tartománynevekkel, amelyek a helyszíni környezetből összevontak.
 1. Győződjön meg arról, hogy még egyetlen másik felhasználó vagy partner sem rendelkezik az új felhasználóhoz hozzárendelni kívánt felhasználónévvel. A felhasználóneveknek egyedinek kell lennie az Azure AD-ban.

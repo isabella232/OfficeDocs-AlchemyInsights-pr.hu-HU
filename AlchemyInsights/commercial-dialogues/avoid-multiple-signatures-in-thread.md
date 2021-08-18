@@ -1,5 +1,5 @@
 ---
-title: Több aláírás elkerülése e-mail-beszélgetésben való hozzáadása nélkül
+title: Több aláírás elkerülése az e-mail-beszélgetésekben való hozzáadás mellőzésében
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fe460e94307043b8d271111bed83e7b1c35b9b47
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2a9d6acab661470f71adf9f757e6847c367d26979fa210dd8f35e0ffaaa8dc45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119322"
 ---
-# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Több aláírás elkerülése e-mail-beszélgetésben való hozzáadása nélkül
+# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Több aláírás elkerülése az e-mail-beszélgetésekben való hozzáadás mellőzésében
 
-Ha egy jogi nyilatkozatot vagy aláírást e-mail-szálonként csak egyszer kell hozzáadnia, módosítania kell a beállítást az Exchange Felügyeleti központban.
+Ha egy jogi nyilatkozatot vagy aláírást e-mail-szálonként csak egyszer kell hozzáadnia, módosítania kell a beállításokat a Exchange felügyeleti központban.
 
-1. Ugrás az [Exchange Felügyeleti központba.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
-2. Válassza **a További beállítások lehetőséget,** ha kivételt szeretne hozzáadni, amely egyedi szöveget keres a jogi nyilatkozatban. Ezzel biztosíthatja, hogy a jogi nyilatkozat csak az eredeti üzenethez kerül.
+1. Ugrás a [Exchange felügyeleti központba.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
+2. A **További beállítások lehetőséget** választva kivételt adhat hozzá, amely egyedi szöveget keres a jogi nyilatkozatban. Ezzel biztosíthatja, hogy a jogi nyilatkozat csak az eredeti üzenethez kerül.
 

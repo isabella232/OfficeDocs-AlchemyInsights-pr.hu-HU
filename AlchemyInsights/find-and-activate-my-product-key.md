@@ -15,22 +15,20 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: c0b96e092a05a8db8e8b6a3cff5c072840b5e368314af00bb065e03149df6b60
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8c0556d2e0d2427d856d226b976ced81a2ca1e65
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498866"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322067"
 ---
 # <a name="microsoft-open-license-program"></a>Microsoft Open licencprogram
 
-Ha Microsoft Open Microsoft 365 keretében [](https://go.microsoft.com/fwlink/p/?LinkID=613298)vásárolt vállalati licencet, itt találja meg és aktiválhatja a termékkulcsot.
+Ha Microsoft Open Microsoft 365 keretében vásárolt vállalati verziós [terméket,](https://go.microsoft.com/fwlink/p/?LinkID=613298)itt találja meg és aktiválhatja a termékkulcsot.
 
-1. Miután megvásárolta a termékkulcsot egy Microsoft 365, a Beérkezett üzenetek mappában ellenőrizze, hogy van-e egy e-mail a Microsofttól, amely tartalmaz egy aktiválási hivatkozást.
+1. Miután megvásárolta a termékkulcsot egy Microsoft 365, a Beérkezett üzenetek mappában ellenőrizze, hogy a Microsofttól kap-e egy, az aktiválási hivatkozást tartalmazó e-mailt.
 
-    > [!NOTE]
-    > Ezt az e-mailt a rendszerünk annak a személynek küldi ki, aki a mennyiségi licencszerződés online rendszergazdájaként van megadva. Ha nem biztos abban, hogy ki az online rendszergazda, kérdezze meg Microsoft 365 partnerét.
-1. Az e-mailben található hivatkozásra kattintva jelentkezzen be munkahelyi vagy iskolai fiókjával, fogadja el az Open licencszerződést, és újítsa meg az előfizetést. Részletes útmutatóért töltse le az Online szolgáltatások aktiválása: előfizetés [pdf Microsoft 365 útmutatót.](https://go.microsoft.com/fwlink/p/?LinkId=618100)
+    **Megjegyzés:** Az e-mailt a rendszer elküldi annak a személynek, aki a mennyiségi licencszerződésben online rendszergazdaként szerepel. Ha nem biztos abban, hogy ki az online rendszergazda, kérdezze meg Microsoft 365 partnerét.
+1. Az e-mailben található hivatkozásra kattintva jelentkezzen be munkahelyi vagy iskolai fiókjával, fogadja el az Open licencszerződést, és újítsa meg az előfizetést. Részletes útmutatóért töltse le az Online szolgáltatások aktiválása: előfizetés pdf Microsoft 365 [útmutatót.](https://go.microsoft.com/fwlink/p/?LinkId=618100)
 
-    > [!NOTE]
-    > A mennyiségi licencelési ügyfelek dönthetnek úgy is, hogy aktiválják az előfizetéseket a [mennyiségi licencelési szolgáltatásközpontban.](https://go.microsoft.com/fwlink/p/?LinkID=282016) További információért töltse le az Active Online Services PDF-útmutatóját a [mennyiségi licencelési szolgáltatásközpontban.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
+    **Megjegyzés:** A mennyiségi licencelési ügyfelek dönthetnek úgy is, hogy aktiválják az előfizetéseket a [mennyiségi licencelési szolgáltatásközpontban.](https://go.microsoft.com/fwlink/p/?LinkID=282016) További információért töltse le az Active Online Services PDF-útmutatóját a [mennyiségi licencelési szolgáltatásközpontban.](https://go.microsoft.com/fwlink/p/?LinkId=618096)

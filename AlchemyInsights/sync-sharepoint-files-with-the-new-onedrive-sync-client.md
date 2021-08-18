@@ -12,12 +12,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 7966933cd7474dd640ac8397ce560c9fb1c57fb4e99d02f8976d5dcfe7cf5a82
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
-ms.translationtype: HT
+ms.openlocfilehash: d83dd6f96b0d8788ebd11d7f89fa07bf204604b6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909216"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322567"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>SharePoint-fájlok szinkronizálása a OneDrive új szinkronizálási ügyfelével
 
@@ -27,8 +27,7 @@ ms.locfileid: "53909216"
     
 3. A „Szinkronizáló ügyfélprogram a SharePointhoz” beállításnál válassza **Az új ügyfélprogram indítása** értéket.
     
-    > [!NOTE]
-    > Ha ez a beállítás nem jelenik meg, akkor a szervezetében már be lett állítva és használatban van az új OneDrive szinkronizálási ügyfélalkalmazás a SharePoint-fájlok szinkronizálásához. 
+    **Megjegyzés:** Ha ez a beállítás nem jelenik meg, akkor a szervezete már be van állítva arra, hogy az új ügyfélprogram OneDrive szinkronizálási app szinkronizálja a SharePoint fájlokat. 
   
 4. Kattintson az **OK** gombra.
     

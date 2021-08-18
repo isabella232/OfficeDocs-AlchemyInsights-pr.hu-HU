@@ -1,5 +1,5 @@
 ---
-title: Elemek másolása vagy áthelyezése a SharePoint-dokumentumtárban
+title: Dokumentumtárban lévő elemek SharePoint áthelyezése
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,37 +14,37 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: d7aa865a6b3db0871a57313dd7d6f5b0213ca0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119142"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Elemek másolása vagy áthelyezése a SharePoint-dokumentumtárban
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Dokumentumtárban lévő elemek SharePoint áthelyezése
 
-A dokumentumtárban lévő fájlokat, mappákat és hivatkozásokat átmásolhatja és áthelyezheti a különböző helyekre. Az elemeket a webhelyek között is másolhatja. 
+A dokumentumtárakban különböző helyekre másolhat és áthelyezhet fájlokat, mappákat és hivatkozásokat. A webhelyek között elemeket is másolhat. 
   
-1. A böngészőben tallózással keresse meg az áthelyezni kívánt fájlokat, mappákat vagy hivatkozásokat, majd kattintson a **Másolás** vagy **a áthelyezés**parancsra.
+1. Tallózással keresse meg a böngészőben az áthelyezni kívánt fájlokat, mappákat vagy hivatkozásokat, majd kattintson a Másolás **ide** vagy az Áthelyezés **ide elemre.**
 
     > [!NOTE]
-    > Ha a SharePoint Online klasszikus felületét használja, a **Másolás** és a **Áthelyezés** lehetőség nem érhető el.
+    > **Ha** az **Online** verzió klasszikus felhasználói élményét használja, a Másolás másra és az Áthelyezés SharePoint érhetők el.
   
-2. A **válasszon egy**helyet csoportban válassza ki azt a helyet, ahová az elemeket másolni vagy áthelyezni szeretné, vagy a webhelyek **tallózása** gombra kattintva jelenítse meg a webhelyek teljes listáját.
+2. A **Célhely kiválasztása listában** válassza ki azt a helyet,  a amelybe át szeretné másolni vagy áthelyezni az elemeket, vagy a Webhelyek tallózása elemre kattintva nyissa meg a webhelyek teljes listáját.
 
     > [!NOTE]
-    > Ha nem láthatók az elemek másolásakor felsorolt egyéb webhelyek, akkor a másolás nem volt konfigurálva a webhelyek között. A beállítás engedélyezéséhez nyissa meg a SharePoint felügyeleti központ Beállítások lapját, és kattintson az **OK gombra**.
+    > Ha elemek másolásakor nem lát más webhelyeket a listában, akkor a webhelyek közötti másolás nincs konfigurálva. A beállítás engedélyezéséhez a felügyeleti központ beállítások lapján kattintson SharePoint **OK gombra.**
   
-    Új mappa létrehozásához jelöljön ki egy helyet a mappa hierarchiájában, kattintson az **új mappa**elemre, írja be a mappa nevét, és a név mentéséhez jelölje be a jelölőnégyzetet.
+    Új mappa létrehozásához válasszon egy helyet a mappahierarchiában, kattintson az Új mappa **elemre,** írja be a mappa nevét, és a név mentéshez kattintson a pipa gombra.
 
-3. Kattintson a **Másolás ide** vagy az **Áthelyezés ide**gombra.
+3. Kattintson **a Másolás ide vagy az** Áthelyezés ide **elemre.**
 
     > [!NOTE]
-    > Egyszerre csak 500 MB-nyi fájlok és mappák másolhatók. > a korábbi verziók másolásakor csak a legújabb verziót másolja a program. Dokumentumok áthelyezésekor a program az előzményeket is áthelyezi.
+    > Egyszerre legfeljebb 500 MB fájlt és mappát másolhat. > Ha a verzióelőzményeket is átmásolja, csak a legújabb verziót másolja. Dokumentumok áthelyezésekor azok előzményei is átkerülnek.
   
- Ha egy fájl át van helyezve, az továbbra is megjelenik a forrás könyvtárában, amíg a teljes helyre nem kerül a célhelyre, majd törlődik. A fájl a forrás webhelyek Lomtárában marad az áthelyezés befejezése után, kivéve, ha egy felhasználó visszanyeri azt a Lomtárból.
+ A fájlok áthelyezéskor továbbra is meg fognak jelenni a forráskönyvtárban egészen addig, amíg át nem kerülnek a célhelyre, és a fájl törlődik. Az áthelyezés befejeződése után a fájl a forrás webhelyek lomtárában marad, és a szokásos lomtára lesz érvényben, hacsak a felhasználó nem helyreállítja azt a lomtárból.
 
 További információ:
 
- - [Fájlok áthelyezése vagy másolása a SharePointban](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office-támogatási cikk)
- - [Fájlok áthelyezése bármely mappából](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community blog article)  
+ - [Fájlok áthelyezése vagy másolása a](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) SharePoint (Office támogatási cikk)
+ - [Fájlok áthelyezése bármely mappából](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community blogcikk)  

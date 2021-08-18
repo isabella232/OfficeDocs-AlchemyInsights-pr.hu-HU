@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054800"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321909"
 ---
 # <a name="issues-with-links-and-urls"></a>Hivatkozásokkal és URL-címekkel kapcsolatos problémák
 
@@ -42,15 +42,13 @@ Válaszolási URL-cím megadásához válassza az Azure Portal **Alkalmazásregi
     - a platformtól (iOS/Android/UWP),
     - az alkalmazás összeállításához használt információktól, például az iOS-hez használt csomagazonosítótól, illetve az Androidhoz használt csomagnévtől és aláírási kivonattól. Az Azure Portal alkalmazásregisztrációs felülete segít majd ebben. További részletek a [Platform konfigurálása és átirányítási URI-k](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris) című cikkben olvashatók.
 
-> [!NOTE]
-> A webes API-khoz és a jogkivonatok csendes módon való beszerzésének egyes módszereihez (integrált Windows-hitelesítés, illetve felhasználónév/jelszó) nincs szükség átirányítási URI-ra.
+**Megjegyzés:** A webes API-k és a tokenek (IWA és felhasználónév/jelszó) beszerzésének csendes módjaihoz nincs szükség átirányítási URI-ra.
 
 **Üzembe helyeztem a webalkalmazásomat, és a telepített alkalmazás tesztelésekor a válaszolási URL eltérésére figyelmeztető üzenet jelenik meg.**
 
 Vegyen fel átirányítási URI-t minden olyan helyhez, ahol üzembe helyezi a webalkalmazást. További információ a [Webalkalmazás regisztrálása az Azure Portal használatával](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration) című cikkben olvasható.
 
-> [!NOTE]
-> Azonnal vegyen fel átirányítási URI-t az egyes helyekhez, amint üzembe helyezte az alkalmazást az adott helyen.
+**Megjegyzés:** Adja hozzá az átirányítási URI-t egy helyhez közvetlenül azt követően, hogy telepítette az alkalmazást az adott helyen.
 
 **Nem tudok elég válaszolási URL-címet regisztrálni.**
 
