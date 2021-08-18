@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: df5acfc38095f03eeeff379d51a72332dcf366e3786ab0ff7ffcd655cbafd1cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b19b3cf229fd67f1df2b58b387b1f74818e35f48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967371"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324771"
 ---
 # <a name="publish-sensitivity-labels"></a>Bizalmasság-címkék közzététele
 
@@ -29,8 +29,9 @@ Bizalmasság-címkék közzétételéhez végezze el az alábbi lépéseket:
 3. Kattintson **a Címkék közzététele gombra.**
 4. Kattintson **a Közzétehet bizalmasság-címkék kiválasztása elemre.** 
 5. Jelölje ki az alkalmazásokban és szolgáltatásokban elérhetővé tenni kívánt címkéket, majd kattintson a Hozzáadás **gombra.**
-> [!IMPORTANT]
-> Ha kijelöl egy alcímkét, győződjön meg arról, hogy a szülőcímkéjét is kijelöli.
+
+**Fontos:** Ha kijelöl egy alcímkét, győződjön meg arról, hogy a szülőcímkéjét is kijelöli.
+
 6. Tekintse át a kijelölt címkéket. A módosításokat a Szerkesztés gombra **kattintva módosíthatja.** ellenkező esetben kattintson a **Tovább gombra.**
 7. A megjelenő utasításokat választva adja meg a házirendbeállításokat.
 8. Ismételje meg ezeket a lépéseket, ha különböző felhasználóknak vagy helyeknek különböző házirend-beállításokra van szüksége. További címkéket szeretne például a felhasználók egy csoportjához vagy egy másik alapértelmezett címkét a felhasználók egy részcsoportja számára.

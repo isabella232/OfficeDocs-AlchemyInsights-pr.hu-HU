@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003571"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325465"
 ---
 # <a name="enable-cost-management"></a>Költségkezelés engedélyezése
 
@@ -34,8 +34,7 @@ Miután bejelentkezett az Azure Portalra, a számlázási API-k segítségével 
 2. Válassza **a Számlák,** majd a **Hozzáférés a számlákhoz lehetőséget.**
 3. Kapcsolja be a hozzáférést, majd mentse a módosításokat, hogy az előfizetés-hatókörű szerepköröket használó felhasználók letöltsék a számlákat.
 
-> [!NOTE]
-> A fiók rendszergazdája beállíthatja úgy is, hogy e-mailben küldje el a számlákat. További információt A számla lekérte [e-mailben.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+**Megjegyzés:** A fiók rendszergazdája beállíthatja azt is, hogy a számlákat e-mailben küldje el. További információt A számla lekérte [e-mailben.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
 
 **Felhasználók felvétele a Számlázási olvasó szerepkörbe**
 
@@ -47,7 +46,7 @@ Miután bejelentkezett az Azure Portalra, a számlázási API-k segítségével 
 
 **Ajánlott dokumentumok**
 
-- [A DA és a AO nézet engedélyezése az EA portálon keresztül](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
+- [A DA és az AO nézet engedélyezése az EA portálon keresztül](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
 - [Költségkezelésben szereplő költségek](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
 - [Támogatott Microsoft Azure ajánlatok](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
 - [Költségek áttekintése a költségelemzésben](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)

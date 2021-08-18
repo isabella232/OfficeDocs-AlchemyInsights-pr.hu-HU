@@ -1,5 +1,5 @@
 ---
-title: A naptár ikon nem jelenik meg a Microsoft Teams ügyfélprogramban
+title: A Naptár ikon nem jelenik meg Microsoft Teams ügyfélprogramban
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9001219"
 - "6794"
 - "3403"
-ms.openlocfilehash: e28b1c8d5d0feef1a743c8527db424af4c205fe9
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: edd6b4a2d94b03cf4ae7bf3a8d6332ed94a7e8263aba9df1f9588eecbd0ce05a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120006"
 ---
-# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>A naptár ikon nem jelenik meg a Microsoft Teams ügyfélprogramban
+# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>A Naptár ikon nem jelenik meg Microsoft Teams ügyfélprogramban
 
-A Teams **Naptár** lapjának hozzáférése szükséges az Exchange Web Services szolgáltatáson keresztüli Exchange-postaládához. Az Exchange-postaláda online, illetve helyszíni is lehet. Ha olyan online felhasználóknak szeretne hozzáférni, akik nem látják a **Naptár** lapot, ellenőrizze, hogy [licenceltek-e egy Exchange Online-postaládát, és engedélyezve van-e a postaládája](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes). Ha a felhasználók otthoni használatra készülnek, meg kell győződnie arról, hogy a hibrid konfiguráció egészséges. A [Hibrid konfiguráció varázsló](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) használható a hibaelhárításhoz. Felhívjuk a figyelmét, hogy a [Teamshez az Exchange 2016 CU3 vagy újabb verziója szükséges](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+A **naptár** naptárának Teams webszolgáltatásokon keresztül Exchange hozzá kell férni egy Exchange keresztül. A Exchange a postaláda lehet Online vagy Helyszíni. Azok az online felhasználók, akik nem látják a Naptár **lapot,** győződjön meg arról, hogy rendelkezik licenccel egy Exchange Online postaládához, és a postaláda [engedélyezve van.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) Ha felhasználói a helyszínen vannak otthon, meg kell erősítenie, hogy a hibrid konfigurációja megfelelő. A [Hibrid konfiguráció varázsló](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) használható a hibaelhárításhoz. Felhívjuk a figyelmét, hogy a [Teamshez az Exchange 2016 CU3 vagy újabb verziója szükséges](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 
-További információt és hibaelhárítási lépéseket a [Microsoft Teams és az Exchange Server interakciós hibáinak elhárítása](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)című témakörben talál.
+További információért és hibaelhárítási lépésekért [lásd: Problémamegoldási és Microsoft Teams Exchange Server interakciós problémák.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

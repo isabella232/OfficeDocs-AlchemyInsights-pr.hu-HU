@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895889"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325297"
 ---
 # <a name="expired-subscription"></a>Lejárt előfizetés
 
@@ -30,8 +30,7 @@ ms.locfileid: "57895889"
   
 1. A felügyeleti központban válassza a **Termékek** \> [számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. A **Termékek lapon** keresse meg az újraaktiválni kívánt előfizetést. Válassza a három pontra (további műveletek), majd az **Előfizetés újraaktiválva lehetőséget.**
-    > [!NOTE]
-    > Ha nem látja az Előfizetés **újraaktiválása lehetőséget,** hívja fel az ügyfélszolgálatot.
+    **Megjegyzés:** Ha nem látja az Előfizetés **újraaktiválása lehetőséget,** hívja fel az ügyfélszolgálatot.
 3. Az **Előfizetés újraaktiválása** ablaktáblában válasszon ki egy fizetési módot a legördülő listából, vagy válassza a Fizetési **mód hozzáadása lehetőséget.**
 4. Válassza a **Mentés** elemet.
 

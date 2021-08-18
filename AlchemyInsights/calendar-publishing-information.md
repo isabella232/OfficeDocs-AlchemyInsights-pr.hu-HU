@@ -1,5 +1,5 @@
 ---
-title: 613 naptári közzétételi adatok
+title: 613 Naptár – közzétételi információk
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: f5676cdab8c1efc2f585e1f75323200358b369db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aaf3eb249c2de449ca4e31486eb19c760512f1d9f8be2d1f501e7cdf54de62ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684555"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119970"
 ---
-# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>A naptár megosztásának engedélyezése a Microsoft 365 felügyeleti központjának használatával
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Naptármegosztás engedélyezése a Microsoft 365 Felügyeleti központ
 
-1. A felügyeleti központban lépjen a **Beállítások**   >   **szervezeti beállításai**lapra.
-2. A  **szolgáltatások**  lapon válassza a  **Naptár**elemet.
-3. A megnyíló  **Naptár**  lapon adja meg, hogy a felhasználók megosszák-e a naptárakat a szervezeten kívüli személyekkel a Microsoft 365 vagy az Exchange segítségével.
-4. Adja meg, hogy a névtelen felhasználóknak (bejelentkezési hitelesítő adatok nélkül) engedélyezni szeretné-e a naptárak elérését e-mailben meghívóval.
-5. Adja meg, hogy milyen típusú Naptáradatok legyenek elérhetők a felhasználóknak. Minden információt engedélyezhet, vagy korlátozhatja csak időpontra, illetve csak idő, tárgy és hely szerint.
+1. A felügyeleti központban a Szervezeti Gépház   >   **központban Gépház.**
+2. A Szolgáltatások **lapon** válassza a Naptár **lehetőséget.**
+3. A **megnyíló Naptár** lapon adja meg, hogy szeretné-e, hogy a felhasználók megosszák a naptárukat a szervezeten kívüli olyanokkal, akik Microsoft 365 vagy Exchange.
+4. Adja meg, hogy engedélyezi-e névtelen felhasználóknak (a bejelentkezési hitelesítő adatokkal nem nem hozzáférő felhasználóknak) a naptárakhoz való hozzáférést e-mailben küldött meghívón keresztül.
+5. Válassza ki, hogy milyen típusú naptáradatokat tegye elérhetővé a felhasználóknak. Minden információt engedélyezhet, de korlátozhatja csak az időt, az időt, a tárgyat és a helyet is.
 
-További információ: [naptárak megosztása külső felhasználókkal](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
+További információ: [Naptárak megosztása külső felhasználókkal](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)

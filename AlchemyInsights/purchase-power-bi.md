@@ -15,18 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fc5e731ee05722c7cd707239af5ad4c07a6d85b9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900958"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323640"
 ---
 # <a name="purchase-power-bi"></a>Vásárlás Power BI
 
-Power BI itt **vásárolható Microsoft 365 Felügyeleti központ.**
+Power BI megvásárolható termékek a **Microsoft 365 Felügyeleti központ.**
 
-1. Válassza **a Számlázás > [Szolgáltatások vásárlása lapot.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+1. Válassza a **Számlázás > [Szolgáltatások vásárlása lapot.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 2. A Keresés mezőben keressen rá a "keresés" Power BI.
 3. Jelölje ki a Power BI megvásárolni kívánt csomagját, válassza a **Részletek**, majd a Vásárlás **lehetőséget.**
 4. Adja meg a szükséges licencek számát, és adja meg, hogy havonta fizet-e vagy az egész évre. Adja meg, hogy automatikusan szeretne-e licenceket kiosztani a licenccel jelenleg nem rendelkező felhasználóknak. Ezután válassza a **Kijelentkezás most lehetőséget.**

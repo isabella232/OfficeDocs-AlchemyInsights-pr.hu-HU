@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 8698136c5d5505bae0d38ca5d416ee0ca0e27461d92dc3b41ce029cb383abfb8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e1ce2e78f5ea6eaa8c1a7ecc2bfea9a017e3cbf5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950955"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324130"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Nem vagy lemaradva! Kérje meg a rendszergazdát, hogy engedélyezze a Microsoft Teams
 
-Ha oktatási verziós bérlővel rendelkezik, manuálisan kell engedélyeznie a Microsoft Teamst. Ehhez a Microsoft 365 Felügyeleti központ > **szolgáltatások és bővítmények > Microsoft Teams.** Ha az új felügyeleti Teams használja, ki kell kapcsolnia a Try **the new admin center** to find Services and    **add-ins**(Szolgáltatások és bővítmények) szolgáltatást. 
+Ha oktatási verziós bérlővel rendelkezik, manuálisan kell engedélyeznie a Microsoft Teamst. Ehhez a Microsoft 365 Felügyeleti központ >szolgáltatások és  **bővítmények > Microsoft Teams.** Ha az új felügyeleti Teams használja, ki kell kapcsolnia a **** Próbálja ki az új felügyeleti központot a szolgáltatások és bővítmények    **kereséshez.** 
 
-**FONTOS:** A módosítások életbe lépése akár 24 órát is igénybe vehet.
+**Fontos**: A módosítások érvénybe léptetése akár 24 órát is igénybe vehet.

@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f31352aa920720edb4d8091e01c8a8cddcb602fc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895493"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324038"
 ---
 # <a name="change-payment-method"></a>Fizetési mód módosítása
 
@@ -30,8 +30,7 @@ A fizetési módot a Következő **Microsoft 365 Felügyeleti központ.**
 2. Jelölje ki a lecserélni kívánt fizetési mód sorát! A jobb oldali ablaktáblában láthatja az összes számlázási profilt és egyéni előfizetést, amelyek a választott fizetési módot használják.
 3. A jobb oldali ablaktáblában válassza a **Fizetési mód cseréje az összes tételnél** lehetőséget.
 4. Meglévő fizetési mód használatához válasszon egyet a legördülő listából, majd válassza a **Csere** lehetőséget.
-    > [!NOTE]
-    > Ha számlázási profillal társított előfizetései vannak, csak hitelkártyával vagy bankkártyával rendezheti fizetheti a szolgáltatásokért. Ha **Fizetési módok** között szereplnek bankszámái, azok nem lesznek elérhetőek a legördülő listában.
+    **Megjegyzés:** Ha számlázási profilhoz előfizetések vannak társítva, csak hitelkártyával vagy bankkártyával fizethet számukra. Ha **Fizetési módok** között szereplnek bankszámái, azok nem lesznek elérhetőek a legördülő listában.
 5. Új fizetési mód hozzáadásához válassza a **Fizetési mód hozzáadása** lehetőséget.
 6. Az **Fizetési mód hozzáadása** ablaktáblában adja meg a fiók adatait, majd válassza a **Mentés** lehetőséget. A bérlővel azonos országból származó fizetési módot kell használnia.
 7. Az új fizetési mód már ki van választva a legördülő listában. Válassza a **Csere** lehetőséget.

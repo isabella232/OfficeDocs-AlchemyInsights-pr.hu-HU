@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f6e221cc82a1b707f6acc457cb78db743521d859
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895793"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325073"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Attack in Microsoft 365
 
-- Nem tudja, mi a támadás? A támadási támadáshoz **a Microsoft Defender szükséges Office 365 2. vagy az** E5 Office 365 Nagyvállalati verzió **csomaghoz.** A Támadási lehetőséget **nem tartalmazza a** Microsoft Defender az 1-es Office 365, az E3 Office 365 Nagyvállalati verzió vagy bármilyen más Üzleti Microsoft 365-alkalmazások része.
+- Nem tudja, mi a támadás? A támadási rendszer **használatához a Microsoft Defender szükséges Office 365 2. vagy az** E5 Office 365 Nagyvállalati verzió **csomaghoz.** A Támadási lehetőséget **nem tartalmazza a** Microsoft Defender az 1-es Office 365, az E3 Office 365 Nagyvállalati verzió- vagy Üzleti Microsoft 365-alkalmazások része.
 
 - A szimulált támadások indításához használt fiókhoz globális rendszergazdai vagy biztonsági rendszergazdai engedélyek, valamint többtényezős hitelesítés (MFA) szükséges. A támadási rendszer követelményeiről további információt ebben [a témakörben található.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
@@ -39,4 +39,4 @@ ms.locfileid: "57895793"
 
 - Jelentések: Miután befejeződött a szimulált támadás, a Támadás részletei elemre kattintva láthatja a jelentést. 
 
-- A támadási támadási és a támadási fogkomán megjelenő új funkciókról részletes útmutatást és funkciókat A [támadási](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)Microsoft 365.
+- A támadási és új funkcióiról részletes útmutatást és új funkciókat A támadási [Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
