@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891901"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328338"
 ---
 # <a name="subscription-expired"></a>Az előfizetés lejárt
 
@@ -29,9 +29,8 @@ Ha lejár az előfizetése, a Microsoft letiltotta az előfizetését, vagy Ön 
 **Előfizetés újraaktiválása**
 
 1. A felügyeleti központban válassza a **Termékek**  >  [számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. A **Termékek lapon** keresse meg az újraaktiválni kívánt előfizetést, válassza a három pontra (további műveletek), majd az Előfizetés újraaktiválva **lehetőséget.**
-    > [!NOTE]
-    > Ha nem látja az Előfizetés **újraaktiválása lehetőséget,** forduljon az ügyfélszolgálathoz.
+2. A **Termékek lapon** keresse meg az újraaktiválni kívánt előfizetést, válassza a három pontra (további műveletek), majd az Előfizetés **újraaktiválva** gombra .\
+    **Megjegyzés:** Ha nem látja az Előfizetés **újraaktiválása lehetőséget,** forduljon az ügyfélszolgálathoz.
 3. Az **Előfizetés újraaktiválása** ablaktáblában válasszon ki egy fizetési módot a legördülő listából, vagy válassza a Fizetési **mód hozzáadása lehetőséget.**
 4. Válassza a **Mentés** elemet.
 

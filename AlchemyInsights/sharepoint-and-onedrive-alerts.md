@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7111a26e54a909cd8541d8c351d4f9db0338138d76de1ad14402b1c86932b79c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd60159789bc4945c7f5e464fd1359e8fb8458cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107910"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328440"
 ---
 # <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>A SharePoint és OneDrive értesítések késése
 
 - Ha **több fájlból** vagy tárból származó riasztások késnek, a Szolgáltatás állapota irányítópulton ellenőrizze, hogy nincsenek-e az adott fájlokkal vagy tárakkal SharePoint vagy Exchange. [](https://portal.office.com/adminportal/home?ref=/servicehealth)
-- Ha **egy adott fájlból vagy tárból** származó különálló értesítés nem lesz kézbesítve, próbálja meg törölni, majd ismét létrehozni. Az értesítések újbóli megtekintéséhez tekintse [meg, tekintse SharePoint vagy](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) törölje az értesítéseket.
+- Ha **egy adott fájlból vagy tárból** származó különálló értesítés nem lesz kézbesítve, próbálja meg törölni, majd ismét létrehozni. Az [értesítések újbóli megtekintéséhez](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) tekintse meg és törölje SharePoint értesítéseket.
 - Ellenőrizze a Levélszemét mappát az e-mailben.
 
-> [!NOTE]
-> - Terjesztési csoportnak nem lehet riasztást küldeni. Csak a biztonsági és az O365-csoportok támogatottak.
-> - Az értesítő e-mail sablonok nem szabhatók testre. Ezek eléréséhez Microsoft Flow Tervező SharePoint munkafolyamatot kell használnia.
+**Megjegyzés:**
+- Terjesztési csoportnak nem lehet riasztást küldeni. Csak a biztonsági és az O365-csoportok támogatottak.
+- Az értesítő e-mail sablonok nem szabhatók testre. Ezek eléréséhez Microsoft Flow vagy SharePoint Tervező munkafolyamatot kell használnia.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914005"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330374"
 ---
 # <a name="device-in-pending-state"></a>Eszköz függőben lévő állapotban
 
@@ -40,26 +40,23 @@ Az alábbi részletezés be van lebontva arra, hogy mi történik a regisztráci
     1. Az eszköz először megpróbálja lekérni a bérlői adatokat az ügyféloldali SCP-értékből a beállításjegyzékben [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. További információ: [dokumentum.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
     1. Ha nem sikerül, az eszköz a helyszíni Active Directoryval kommunikálva bekérte a bérlői adatokat az SCP-től. Az SCP ellenőrzéséhez tanulmányozza ezt a [dokumentumot.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)
 
-    > [!NOTE]
-    > Azt javasoljuk, hogy az Active Directoryban engedélyezi az SCP-t, és csak ügyféloldali SCP-t használva.
+    **Megjegyzés: Azt** javasoljuk, hogy az Active Directoryban engedélyezi az SCP-t, és csak az ügyféloldali SCP-t használja a kezdeti ellenőrzéshez.
 
 2. Windows 10 megpróbál kommunikálni az Azure AD-val a rendszerkörnyezetben, hogy hitelesítse magát az Azure AD-val.
 
-    Az Eszköz-regisztrációs kapcsolat tesztelése parancsprogramot használva ellenőrizheti, hogy az eszköz hozzáfér-e a rendszerfiók microsoftos [erőforrásaihoz.](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0)
+    Ha ellenőrizni tudja, hogy az eszköz hozzáfér-e a Microsoft-erőforrásokhoz a rendszerfiók alatt, használja az Eszköz-regisztrációs kapcsolat tesztelése [parancsprogramot.](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0)
 
 3. Windows 10 önaírt tanúsítványt hoz létre, és a számítógép-objektum alatt tárolja a helyszíni Active Directoryban. Ehhez szem előtt kell lennie a tartományvezérlőnek.
 
-4. A tanúsítvánnyal rendelkezik eszközobjektumot a rendszer szinkronizálja az Azure AD szolgáltatáson keresztül az Azure AD Csatlakozás. A szinkronizálási ciklus alapértelmezés szerint 30 percenként van, de attól függ, hogy hogyan van konfigurálva az Azure AD Csatlakozás. További információért olvassa el ezt a [dokumentumot.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+4. A tanúsítvánnyal rendelkezik eszközobjektumot a rendszer szinkronizálja az Azure AD szolgáltatáson keresztül az Azure AD Csatlakozás. A szinkronizálási ciklus alapértelmezés szerint 30 percenként van, de attól függ, hogy az Azure AD hogyan Csatlakozás. További információért olvassa el ezt a [dokumentumot.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
 
 5. Ebben a fázisban az Azure Portal eszközszála alatt látható a tárgyeszköz " függőben **"** állapota.
 
 6. A bejelentkezéshez a következő Windows 10 a regisztrációt.
 
-    > [!NOTE]
-    > Ha VPN-t használ, és az embléma/bejelentkezés megszünteti a tartomány csatlakozását, manuálisan elindíthatja a regisztrációt. A következőt kell tenni:
-    >
-    > Helyileg vagy a PSExecen keresztül a PC-n keresztül helyileg is közzétehető `dsregcmd /join` rendszergazdai kérést ad.
-    >
-    > Például: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **Megjegyzés:** Ha VPN-t használ, és az embléma/bejelentkezés megszünteti a tartomány csatlakozását, manuálisan elindíthatja a regisztrációt. A következőt kell tenni:
+    
+    Helyi probléma `dsregcmd /join` megoldása rendszergazdai üzenetben vagy a PSExecen keresztül a PC-n keresztül.\
+    Például: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
 Az eszközregisztrációval kapcsolatos gyakori Azure Active Directory olvassa el az Eszközök – gyakori [kérdések című témakört.](https://docs.microsoft.com/azure/active-directory/devices/faq)

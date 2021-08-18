@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892429"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330670"
 ---
 # <a name="update-credit-card-information"></a>A hitelkártya adatainak frissítése
 
 1. A Microsoft 365 Felügyeleti központban lépjen a **Számlázás** \> [Fizetési módok](https://go.microsoft.com/fwlink/p/?linkid=2018806) lapra.
 
-    > [!NOTE]
-    > Ha egy végtelen ciklusba kerül, és a rendszer mindig visszalépteti a Felügyeleti központba, még mielőtt érvénybe lépnének a módosítások, próbálkozzon újra InPrivate vagy inkognitó módban.
+    **Megjegyzés:** Ha olyan hurkot tapasztal, amely a frissítések befejeződése előtt visszaküldi a Rendszergazda kezdőlapjára, próbálkozzon inprivate- vagy inkognitó módban.
   
 2. Válassza ki azt a hitelkártyát, amelyet frissíteni szeretne.
 
-    > [!NOTE]
-    > Ha egy másik rendszergazda adta hozzá a fizetési módot, akkor Ön nem fogja tudni frissíteni a hitelkártya vagy a bankszámla adatait. Ha a kártya hamarosan lejár, és a másik rendszergazda nem tudja frissíteni az adatait, úgy előzheti meg a szolgáltatás megszakadását, hogy egy másik hitelkártyát vagy bankszámlát ad hozzá az előfizetéshez a **Fizetési mód hozzáadása** elem kiválasztásával.
+    **Megjegyzés:** Ha egy másik rendszergazda vette fel a fizetési módot, akkor Ön nem fogja tudni frissíteni annak hitelkártya- vagy bankszámlaadatokat. Ha a kártya hamarosan lejár, és a másik rendszergazda nem tudja frissíteni az adatait, úgy előzheti meg a szolgáltatás megszakadását, hogy egy másik hitelkártyát vagy bankszámlát ad hozzá az előfizetéshez a **Fizetési mód hozzáadása** elem kiválasztásával.
   
 3. A **Fizetési mód részletei** munkaablakban válassza a **Szerkesztés** lehetőséget.
 

@@ -1,5 +1,5 @@
 ---
-title: A Microsoft Defender hozzárendelése Office 365 licenchez
+title: A Microsoft Defender hozzárendelése Office 365-licencekhez
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,16 +15,16 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd2771143980b7a9652bf2323b08e5c8019fc1b1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888892"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328104"
 ---
-# <a name="assign-microsoft-defender-for-office-365-licenses"></a>A Microsoft Defender hozzárendelése Office 365 licenchez
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>A Microsoft Defender hozzárendelése Office 365-licencekhez
 
-A Microsoft Defender Office 365 hozzá lehet rendelni a felhasználókhoz a Microsoft 365 Felügyeleti központ központban.
+A Microsoft Defender Office 365 hozzárendelhető a felhasználókhoz a Microsoft 365 Felügyeleti központ központban.
 
 1. Ugrás **a Számlázási**  >  [licencek csoportra.](https://go.microsoft.com/fwlink/p/?linkid=842264)
 2. Jelöljön ki egy terméket, amelynek a licenceit hozzá szeretné rendelni.

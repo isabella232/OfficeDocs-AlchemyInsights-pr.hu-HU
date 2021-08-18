@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b15a72ced4921b3df1b7105837592781188a2a25
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949569"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327976"
 ---
 # <a name="automatically-encrypt-certain-office-365-email-messages"></a>Bizonyos e-Office 365 automatikus titkosítása
 
 Automatikusan titkosíthatja a felhasználók által bizonyos külső személyeknek vagy szervezeteknek küldött üzeneteket. Ehhez kövesse az alábbi lépéseket:
 
-1. A felügyeleti [Exchange központban válassza](https://outlook.office365.com/ecp/)az **e-mail-forgalom és > lehetőséget.** 
+1. A Felügyeleti [Exchange felügyeleti központban válassza](https://outlook.office365.com/ecp/)az **e-mail-forgalom és > lehetőséget.** 
 2. Kattintson az **Új (+)** ikonra, majd a Szövegvédelem Office 365 Üzenettitkosítás és jogvédelem alkalmazása **az üzenetekre elemre.**
-3. A **Név** formában adja meg a szabály nevét, például a következőnek küldött üzenetek *titkosítása DrToniRamos@gmail.com.*
+3. A **Név** formában adja meg a szabály nevét, például *A* következőnek küldött DrToniRamos@gmail.com.
 4. A **Szabály alkalmazása, ha** lehetőséget választva válassza A címzett > ez a személy **lehetőséget.** 
 5. A Tagok **kiválasztása ablakban** jelölje ki annak a személynek a nevét, akire alkalmazni szeretné a titkosítási szabályt, majd kattintson a hozzáadás **gombra.** 
 6. Ha végzett a felhasználók felvételének, kattintson az **OK gombra.**
@@ -35,8 +35,7 @@ Automatikusan titkosíthatja a felhasználók által bizonyos külső személyek
 9. Válasszon a választható beállítások közül (az ezen a ponton választható beállítások listájából, amelyek közül sok az egyszerűség alapértelmezett beállításával hagyható meg).
 10. Kattintson a **Mentés** gombra.
 
-> [!IMPORTANT]
-> A szabályt később is mindig módosíthatja.
+**Fontos:** Később mindig visszahozhatja és szerkesztheti ezt a szabályt.
 
-A titkosítási szabályok létrehozásáról további információt az [E-mail-forgalom](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)szabályainak meghatározása az e-mailek titkosításához a Office 365.
+A titkosítási szabályok létrehozásáról további információt az E-mail-forgalom szabályainak [definiálva](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)az e-mailek titkosításához a Office 365.
 

@@ -1,5 +1,5 @@
 ---
-title: Az automatikus kiegészítési lista legörget a képernyőről az Outlook ban
+title: Az automatikus kiegészítési lista az asztalon Outlook le a képernyőről
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: f07430134bb3c2b28b940c9a8f746cc53702bf64ffa2e7414bb74861239b914f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 576659b8fc984d7c2aaabb9ffc8c54e980d9bb55
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894069"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328068"
 ---
-# <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>Az automatikus kiegészítési lista legörget a képernyőről az Outlook ban
+# <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>Az automatikus kiegészítési lista az asztalon Outlook le a képernyőről
 
 Ez a probléma már ki van javítva a 2104-es verzióban (13929.20386-os build). A javított buildtel való frissítés várhatóan az Aktuális csatorna éles termékére fog váltani május 17-én. 
 

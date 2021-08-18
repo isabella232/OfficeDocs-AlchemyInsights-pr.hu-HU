@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898246"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330062"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>A Microsoft Defender for Office 365
 
@@ -33,7 +33,7 @@ ms.locfileid: "57898246"
 
 - **A Széf engedélyezése:**
 
-  1. A Microsoft 365 Defender portálon a E-mail-cím és & házirendek & szabályok veszélyforrásokkal kapcsolatos házirendek című Széf a <https://security.microsoft.com/>  \>  \>  \>  **Házirendek szakaszban.**
+  1. A Microsoft 365 Defender portálon a E-mail küldése az & együttműködési házirendek és & szabályok veszélyforrásokkal kapcsolatos házirendek című Széf a Házirendek <https://security.microsoft.com/>  \>  \>  \>  **szakaszban.**
 
      Ha közvetlenül a Hivatkozások **lapra Széf, használja** a következőt: <https://security.microsoft.com/safelinksv2> .
 
@@ -45,4 +45,4 @@ ms.locfileid: "57898246"
      - Kapcsolja be A művelet kiválasztása ismeretlen, potenciálisan kártékony **URL-címekhez az üzenetekben lehetőséget.**
      - Válassza a Megbízható hivatkozások alkalmazása a szervezeten belül **küldött üzenetekre lehetőséget.**
 
-  További információ: A Széf hivatkozásokra vonatkozó házirendek beállítása a [Microsoft Defender for Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+  További információt a Hivatkozási házirendek beállítása Széf Microsoft [Defender for Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

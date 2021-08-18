@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78fc3eeae7fc8fe4cf620b21cf095e24978dd695
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998945"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328292"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Előfizetés-kezelés – biztonsági és megfelelőségi kérelmek – Azure-iparági megfelelőség megfelelősége
 
@@ -30,16 +30,15 @@ A probléma leírása alapján megoldást találtunk az Ön számára. A legtöb
 
 - **FedRamp-tanúsítvány:** A FedRamp minősítéssel kapcsolatos további információkért lásd: FedRamp Piactér.
 
-- **Azure PCI DSS-megfelelőség:** A fizetésikártya-iparágnak való megfelelőség eléréséhez Azure-ral kapcsolatos dokumentumok a "Megfelelőségi igazolások" és a "Felelősségi mátrix", amelyek mind elérhetők az Azure Trust Centerben. Ellenőrizze, hogy van-e ilyen dokumentuma. Ha ezekkel a dokumentumokkal van, de további bizonyítékra van szüksége Microsoft Azure PCI Data Security Standard Compliance programhoz, tekintse át a Microsoft és [a PCI DSS webhelyet.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
+- **Azure PCI-DSS-megfelelőség:** A fizetésikártya-iparági megfelelőség eléréséhez Azure-ral kapcsolatos dokumentumok a "Megfelelőségi igazolások" és a "Felelősségi mátrix", amelyek mind elérhetők az Azure Trust Centerben. Ellenőrizze, hogy van-e ilyen dokumentuma. Ha ezekkel a dokumentumokkal van, de további bizonyítékra van szüksége a PCI Microsoft Azure szabványnak való megfelelőséghez, tekintse át a [Microsoft és a PCI DSS webhelyet.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
-- **Azure-műveletek/biztonság/megfelelőség:** Ha általános, biztonsággal kapcsolatos kérdése van az Azure-ral kapcsolatban, olvassa el a Standard Response to Request for Information Microsoft Azure Security, Privacy and Compliance (Általános válasz információkérésre Microsoft Azure Biztonság, adatvédelem és megfelelőség) című témakört. Ha megfelelőségi kérdései vannak, olvassa el a következő témakört: Microsoft STP – Megfelelőség és szolgáltatás megbízhatósági portál – gyik.
+- **Azure-műveletek/biztonság/megfelelőség:** Ha általános, biztonsággal kapcsolatos kérdése van az Azure-ral kapcsolatban, olvassa el a Standard Response to Request for Information Microsoft Azure Security, Privacy és Compliance (Biztonság, adatvédelem és megfelelőség) című témakört. Ha megfelelőségi kérdései vannak, olvassa el a Következő témakört: Microsoft STP – Megfelelőség és szolgáltatás megbízhatósági portál – gyik.
 
-Ha megfelelőségi kérdései vannak, olvassa el a [Microsoft STP – Megfelelőség és](https://www.microsoft.com/trust-center/compliance/compliance-overview) szolgáltatás megbízhatósági portál – gyakori kérdések című témakört.
+Ha megfelelőségi kérdései vannak, olvassa el a [Microsoft STP – Megfelelőség és](https://www.microsoft.com/trust-center/compliance/compliance-overview) szolgáltatás megbízhatósági portál – gyik című témakört.
 
-- **GDPR-megfelelőség:** Ha kérdése van az adatkezelési szerződésről, az "Online Szolgáltatások feltételei" 7. oldaltól kezdve az "Adatvédelmi feltételek" oldalon kereshet. Az operációs rendszer tartalmazza az elsődleges adatkezelési feltételeket, de szerepel a normál kereskedelmi szerződésben. Többek között szerződési kötelezettségvállalást biztosít a GDPR-kötelezettségekkel kapcsolatban. Ezenkívül a 42. oldaltól kezdődően a szerződés végén, a 4. mellékletben lásd a GDPR-specifikus feltételeket. Ezek a szakaszok a Microsoft GDPR-re vonatkozó, adatfeldolgozóként és más adatfeldolgozóval szembeni GDPR-kötelezettségeire vonatkoznak.
+- **GDPR-megfelelőség:** Ha kérdése van az adatkezelési szerződésről, az "Online Szolgáltatások feltételei" 7. oldaltól kezdve az "Adatvédelmi feltételek" oldalon kereshet. Az operációs rendszer tartalmazza az elsődleges adatkezelési feltételeket, de szerepel a normál kereskedelmi szerződésben. Többek között szerződési kötelezettségvállalást biztosít a GDPR-kötelezettségekkel kapcsolatban. Ezenkívül a 42. oldaltól kezdve a szerződés végén, a "4. melléklet" oldalon tekintse meg a GDPR-specifikus feltételeket. Ezek a szakaszok a Microsoft GDPR-re vonatkozó, adatfeldolgozóként és más adatfeldolgozóval szembeni GDPR-kötelezettségeire vonatkoznak.
 
-> [!NOTE]
-> Erősen javasoljuk, hogy az Adobe Acrobat Reader használatával nyissa meg a PDF-dokumentumokat, mivel a többi PDF-megtekintővel kapcsolatos problémákat jeleztük. Azt is javasoljuk, hogy töltse le a fájlt helyben, ne böngészőablakban, mert az hibákat okozhat.
+**Megjegyzés:** Kifejezetten ajánljuk, hogy az Adobe Acrobat Reader használatával nyissa meg a PDF-dokumentumokat, mert a többi PDF-megtekintővel kapcsolatos problémákat jeleztük. Azt is javasoljuk, hogy töltse le a fájlt helyben, ne böngészőablakban, mert az hibákat okozhat.
 
 - **HDS-megfelelőség:** Az Azure mostantól "Health Data Hosting" minősítéssel rendelkezik, a francia követelményeknek megfelelően. További információt "A Microsoft Azure rendelkezik bizalmas egészségügyi adatok franciaországi szolgáltatói minősítéssel".
 
@@ -49,8 +48,7 @@ A teszteléssel kapcsolatos további részletekért lásd: [Tesztelési teszt te
 
 - **Ügyfélértesítések** a részfolyamat változásaihoz: Dönthet úgy, hogy értesítést kap a Microsoft Személyes adatok részfolyamatok listájának változásairól.
 
-> [!NOTE]
-> Az Online Szolgáltatások Ügyféladatok és a Személyes adatok listája értesítés teljesen automatizált. További információ: A Microsoft adatvédelmi forrásai.
+**Megjegyzés:** Az Online Szolgáltatások Ügyféladatok és a Személyes adatok listája értesítés teljesen automatizált. További információ: A Microsoft adatvédelmi forrásai.
 
 **Ajánlott dokumentumok**
 

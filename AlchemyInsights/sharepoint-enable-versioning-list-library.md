@@ -13,17 +13,17 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085842"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328374"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Verziószámozás a SharePoint-ban és OneDrive 
 
 
-Ha a verziószámozás engedélyezve van a SharePoint-listában vagy -tárban, azok módosításakor elemeket tárolhat, követhet nyomon és visszaállíthat a tárakban. A verziószámozás más beállításokkal ,például a fájlbevéséssel együtt nagyban szabályozhatja a webhelyen közzétett tartalmakat, és valós értéket nyújthat, ha egy elem vagy fájl régi verzióját kell megnéznie vagy visszaállítania.
+Ha a verziószámozás engedélyezve van a SharePoint-listában vagy -tárban, azok módosításakor tárolhatja, nyomon követheti és visszaállíthatja az elemeket a listában és a tárakban lévő fájlokat. A verziószámozás más beállításokkal ,például a fájlbevéséssel együtt nagyban szabályozhatja a webhelyen közzétett tartalmakat, és valós értéket nyújthat, ha egy elem vagy fájl régi verzióját kell megnéznie vagy visszaállítania.
 
 A verziószámozásról további információt az alábbi cikkekben talál.
 
@@ -39,7 +39,6 @@ A verziószámozásról további információt az alábbi cikkekben talál.
 
 - [Verziószámozási korlátozások](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->Ha Ön Microsoft 365 ügyfél, a verziószámozás alapértelmezés szerint be van kapcsolva új OneDrive Vállalati verzió tárak létrehozásakor, és automatikusan menti a dokumentum utolsó 500 verzióját. Ezzel megelőzheti a fontos dokumentumok és adatok elvesztését. Ha a saját webhelyén vagy OneDrive Vállalati verzió a csapatwebhelyen olyan tárakat, amelyekhez nincs engedélyezve a verziószámozás, bármikor bekapcsolhatja a verziószámozást.
+**Megjegyzés:** Ha Ön Microsoft 365 ügyfél, a verziószámozás alapértelmezés szerint be van kapcsolva új OneDrive Vállalati verzió-tárak létrehozásakor, és automatikusan menti a dokumentum utolsó 500 verzióját. Ezzel megelőzheti a fontos dokumentumok és adatok elvesztését. Ha a saját webhelyén vagy OneDrive Vállalati verzió a csapatwebhelyen olyan tárakat, amelyekhez nincs engedélyezve a verziószámozás, bármikor bekapcsolhatja a verziószámozást számukra.
 
 

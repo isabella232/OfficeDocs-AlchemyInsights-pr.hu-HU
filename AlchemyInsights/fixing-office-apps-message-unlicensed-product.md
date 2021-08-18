@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: eb62dfce9f9507dd8806d91343cd39fe76e65594473683c1393d524f6c2d8a27
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a057aaa2ddf8885b96c0fe0d5fa87d3a1b191af9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893913"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327848"
 ---
 # <a name="unable-to-activate-office"></a>Nem aktiválható az Office
 
-**Megjegyzés:** Ha a Windows régebbi verzióját használja (például Windows 7), gondoskodjon arról, hogy alapértelmezés szerint a TLS 1.2 legyen engedélyezve. További információt a Frissítés a [TLS 1.1 és a TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)alapértelmezett biztonságos protokollként való engedélyezéséhez a Windowsbanhttps://Windows.
+**Megjegyzés:** Ha a Windows régebbi verzióját használja (például Windows 7), gondoskodjon arról, hogy alapértelmezés szerint a TLS 1.2 legyen engedélyezve. További információt a Frissítés a [TLS 1.1 és A TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)alapértelmezett biztonságos protokollként való engedélyezéséhez a Windowsbanhttps://Windows.
 
 - Ellenőrizze, hogy nem járt-e le az előfizetése állapota.
 - Ellenőrizze, hogy van-e olyan előfizetése, amely lehetővé teszi az ügyféllicencek használatát (például Office 365 Vállalati verzió vagy Vállalati prémium verzió), és [gondoskodjon arról, hogy a felhasználóhoz legyen hozzárendelve licenc](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).

@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898894"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330410"
 ---
 # <a name="change-your-billing-address"></a>A számlázási cím módosítása
 
@@ -30,16 +30,16 @@ A számla három címet tartalmaz.
 
 **Fizetési mód számlázási címének módosítása**
 
-1. A felügyeleti központban a Számlázás és > **[lapra.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
+1. A felügyeleti központban a Fizetési módok **> [lapra.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 2. Jelölje ki a módosítani kívánt hitelkártyát vagy bankszámlát.
 3. A Fizetési **mód részletei lapon kattintson** a Szerkesztés **elemre.**
 4. Frissítse a számlázási címet, majd kattintson **a Mentés és > elemre.**
 
-A címekről és az értesítések változásairól A vállalati verziós előfizetés számlázási címének [Microsoft 365 információt.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+A címekről és az értesítések változásairól A vállalati verziós előfizetés számlázási [címének Microsoft 365 információt.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
 **A számlázási fiók adatainak módosítása**
 
-1. A Felügyeleti központban a Számlázás és > **[című témakört.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
+1. A felügyeleti központban a Számlázás és > **[című témakört.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
 2. Válassza a **Számlázási fiók adatainak szerkesztése lehetőséget.**
 3. Frissítse a számlázási fiók adatait, majd kattintson **a Mentés és > elemre.**
 
