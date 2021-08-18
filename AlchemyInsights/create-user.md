@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: afba00ffc6ba082606e0071b41e2917b11e6a39d61cd0df7e468f0238f2ed8e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118746"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896717"
 ---
 # <a name="create-user"></a>Felhasználó létrehozása
 
 **KÖZLEMÉNY:**
 
-- [A WebView-bejelentkezés 2021. január 4-től](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) való támogatása a Google-tól. Tesztelje, hogy az appokat érintheti-e a [Google tesztelési](https://go.microsoft.com/fwlink/?linkid=2157323) kompatibilitásra vonatkozó útmutatása.
-- Mindenképpen a rendszer webböngészőt vagy a rendszernézetet használja, amikor felhasználóit fogyasztói Google-fiókokkal jelentkezik be. További információ: Problémák az alkalmazásokba való bejelentkezés során a [Chrome böngészővel.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [A WebView-bejelentkezés 2021. január 4-től](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) való támogatása a Google-tól. Tesztelje, hogy az appokat érintheti-e a [Google tesztelési](https://go.microsoft.com/fwlink/?linkid=2157323) kompatibilitásra vonatkozó útmutatása.
+- Mindenképpen a rendszer webböngészőt vagy a rendszernézetet használja, amikor fogyasztói Google-fiókokkal jelentkezik be a felhasználóiba. További információ: Problémák az alkalmazásokba való bejelentkezés során a [Chrome böngészővel.](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
 **Nem tudok új felhasználót létrehozni az Azure AD címtárban**
 
@@ -36,6 +36,6 @@ ms.locfileid: "54118746"
 1. Lásd: [Azure AD-szerepkörök és rendszergazdák](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) az Azure AD szolgáltatáshoz.
 1. Tekintse át [az](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD tartománynevét.
 1. A [naplókból](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) részletesebb információkat láthat egy nemrég létrehozott vagy törölt felhasználóról, például arról, hogy ki és mikor hajtotta végre a műveletet.
-1. Az új felhasználók hozzáadásáról további információt az Új felhasználó létrehozása az [Azure AD-ban](/azure/active-directory/active-directory-users-create-azure-portal)az Azure Portal használatával.
-1. [Azure AD rendszergazdai szerepkörök:](/azure/active-directory/active-directory-assign-admin-roles)Rendszergazdai szerepkörengedélyek a Azure Active Directory
-1. Az [Azure AD PowerShell használatával is](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)létrehozhat új felhasználót.
+1. Az új felhasználók hozzáadásáról további információt az Új felhasználó létrehozása az [Azure AD-ban](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)az Azure Portal használatával.
+1. [Azure AD rendszergazdai szerepkörök:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)Rendszergazdai szerepkörengedélyek a Azure Active Directory
+1. Az [Azure AD PowerShell használatával is](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)létrehozhat új felhasználót.

@@ -1,5 +1,5 @@
 ---
-title: Helyesírás-ellenőrzés a Outlook.com
+title: Helyesírás-ellenőrzés a Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,13 +14,13 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: 375e6836a6d13fd0489babba1778020dcdfc66e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2296ed37442e9c438dd5fcaad3d0aeccf2a56333c6576e20f97889be0478858
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752721"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112158"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Helyesírás-ellenőrzés a böngészőben
+# <a name="use-your-browser-to-check-spelling"></a>Helyesírás-ellenőrzés a böngészővel
 
-Bár a Outlook.com-ban nincs helyesírás-ellenőrző függvény, sok webböngésző automatikusan ellenőrzi a helyesírást, többek között a Microsoft Edge-et, az Internet Explorer 10-es és újabb verzióit, valamint a Firefox, a Chrome és a Safari jelenlegi verzióit. A webböngésző beállításaival kapcsolatos további tudnivalók a helyesírás-ellenőrzésről.
+Bár a Outlook.com nem rendelkezik helyesírás-ellenőrző funkcióval, számos webböngésző automatikusan ellenőrzi a helyesírást, beleértve a Microsoft Edge, az Internet Explorer 10 és az újabb verziók, valamint a Firefox, a Chrome és a Safari aktuális verzióit. A helyesírás-ellenőrzésről további információt a webböngésző beállításai között olvashat.

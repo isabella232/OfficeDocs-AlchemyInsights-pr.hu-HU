@@ -15,12 +15,12 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499036"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896933"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Vásárlás Microsoft 365
 
@@ -30,7 +30,7 @@ A felügyeleti központban vásárolhat Microsoft 365 előfizetést.
 - További licencek vásárlásához kattintson a **Termékek** \> **[számlázása lapra.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Jelölje ki a módosítani kívánt előfizetést, majd válassza a **Licencek vásárlása** lehetőséget.\
 **Nézze meg ezt a videót:** [Új licencek vásárlása](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-További információ: [Licencek vásárlása vagy eltávolítása.](/microsoft-365/commerce/licenses/buy-licenses)
+További információ: [Licencek vásárlása vagy eltávolítása.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Hibaelhárítás**
 
@@ -38,5 +38,5 @@ Ha problémákat tapasztal a lap betöltésekor, próbálkozzon a weblap megnyit
 
 **További források**
   
-- [Licencek hozzárendelése felhasználókhoz Microsoft 365 Vállalati verzióban](/microsoft-365/admin/add-users/add-users)
-- [A Microsoft 365 lemondása](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Licencek hozzárendelése felhasználókhoz a Microsoft 365 Vállalati verzióban](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [A Microsoft 365 lemondása](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: A jelszó módosítása az Outlook.com-on
+title: Jelszó módosítása a Outlook.com-on
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "201"
 - "8000002"
 ms.assetid: 4dfaeb2a-2cef-444d-9415-c68a50df1a49
-ms.openlocfilehash: f69fcd8330bbb86cbda67156e69abb6450ea160d
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 909d97011d581641589cbc8245aeb9afa462734d53e208dda84657cd306d6fb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452302"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112194"
 ---
-# <a name="change-your-password"></a>A jelszó módosítása
+# <a name="change-your-password"></a>Jelszó módosítása
 
-A Outlook.com jelszava megegyezik a Microsoft-fiók jelszavával.
+A Outlook.com jelszó megegyezik a Microsoft-fiók jelszavával.
   
-A jelszó módosításához válassza a Microsoft- [fiók biztonsága](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) lehetőséget, és válassza a **jelszavas biztonság**lehetőséget.
+A jelszó beállításához válassza a [Microsoft-fiók biztonsági beállítását,](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) majd a **Jelszóbiztonság lehetőséget.**
   
-Ha elfelejtette a jelszavát, lépjen a [fiók helyreállítása](https://go.microsoft.com/fwlink/p/?linkid=841909) lapra.
+Ha elfelejtette a jelszavát, menjen a Fiók helyreállítása [lapra.](https://go.microsoft.com/fwlink/p/?linkid=841909)
   
-További információt a [jelszó módosítása az Outlook.com-](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy)on című témakörben talál.
+További információt A jelszó módosítása [a Outlook.com-on Outlook.](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735?wt.mc_id=Office_Outlook_com_Alchemy)

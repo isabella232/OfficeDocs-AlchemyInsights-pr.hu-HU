@@ -1,5 +1,5 @@
 ---
-title: Az Exchange Online Védelmi szolgáltatás beállítása
+title: A Exchange Online Védelmi szolgáltatás
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085878"
 ---
-# <a name="set-up-exchange-online-protection"></a>Az Exchange Online Védelmi szolgáltatás beállítása
+# <a name="set-up-exchange-online-protection"></a>A Exchange Online Védelmi szolgáltatás
 
-A Microsoft Exchange Online Protection (EOP) egy felhőalapú e-mail-szűrési szolgáltatás, amely védelmet nyújt a levélszemét és a kártevők ellen, és olyan funkciókat tartalmaz, amelyek védik szervezetét az üzenetkezelési házirend megsértéseitől.
+Microsoft Exchange Online A Védelem (EOP) egy felhőalapú levélszűrő szolgáltatás, amely védelmet nyújt a levélszemét és a kártevők ellen, és olyan funkciókat nyújt, amelyek védik szervezetét az üzenetkezelési házirend megsértéseitől.
 
-Az [Exchange Online Védelmi](https://go.microsoft.com/fwlink/?linkid=2071067) szolgáltatás beállítási útmutatójával beállíthatja az Exchange Online Védelmi szolgáltatását, ha kiválasztja a szervezetéhez illeszkedő három telepítési forgatókönyvet : a helyszíni postaládákat, a hibrid (a helyszíni és a felhőbeli postaládák vegyesen) vagy az összes felhőbeli postaládát. Az útmutató információkat és forrásokat tartalmaz az EOP beállításával, a felhasználói licencelés ellenőrzésével, az engedélyek hozzárendelésével kapcsolatban a Microsoft 365 Felügyeleti központban, valamint a szervezet kártevő- és levélszemét elleni szabályzatának beállítását a Biztonsági & megfelelőségi központban.
+Az [EOP](https://go.microsoft.com/fwlink/?linkid=2071067) beállításához Exchange Online Védelmi szolgáltatás telepítési útmutatót használva válasszon a három telepítési forgatókönyv közül : a helyszíni postaládák, a hibrid (a helyszíni és a felhőbeli postaládák vegyesen) vagy az összes felhőbeli postaláda közül, amelyek illeszkednek a szervezetéhez. Az útmutató információkat és forrásokat nyújt az EOP beállításhoz és a felhasználói licencek áttekintéséhez, engedélyek hozzárendeléséhez a Microsoft 365 Felügyeleti központ-ban, valamint a szervezet kártevő- és levélszemét-védelmi házirendeinek konfigurálása a Biztonsági & megfelelőségi központban.

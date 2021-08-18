@@ -1,5 +1,5 @@
 ---
-title: Access-ellenőrzések elvégzése az Azure Active Directoryban
+title: Hozzáférés-véleményezések Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003889"
 - "6943"
-ms.openlocfilehash: a1582345ae33f217d2dc60f53bf05859f04d0f2b
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: f58f35d6e66952347d880a5c443bb47e9deab2798410b5bb32895667572f1f58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680677"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086778"
 ---
-# <a name="perform-access-reviews-in-azure-active-directory"></a>Access-ellenőrzések elvégzése az Azure Active Directoryban
+# <a name="perform-access-reviews-in-azure-active-directory"></a>Hozzáférés-véleményezések Azure Active Directory
 
-A kijelölt véleményezők elvégezhetik az Azure Active Directory Access-áttekintést a csoporttagságok, az alkalmazások eléréséről és a szerepkör-hozzárendelésekről. Ezek a kritikák segítenek csökkenteni azokat a biztonsági kockázatokat, amelyekkel a szervezete szembe lehet nézni, ha a felhasználóknak több hozzáférése van. A hozzáférés-ellenőrzéseket a [saját alkalmazások](https://go.microsoft.com/fwlink/?linkid=2134605) vagy [a saját hozzáférés](https://go.microsoft.com/fwlink/?linkid=2134505)modullal végezheti el.
+A kijelölt véleményezések Azure Active Directory a csoporttagság, az alkalmazás-hozzáférés és a szerepkör-hozzárendelések véleményezését. Ezek a véleményezések segítenek csökkenteni a szervezetben a szükségesnél nagyobb hozzáféréssel járó biztonsági kockázatokat. A hozzáférési véleményeket a [](https://go.microsoft.com/fwlink/?linkid=2134605) Saját alkalmazások vagy a [Saját Access használatával hajthatja végre.](https://go.microsoft.com/fwlink/?linkid=2134505)

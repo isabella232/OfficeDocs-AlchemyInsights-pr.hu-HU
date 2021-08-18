@@ -1,5 +1,5 @@
 ---
-title: SharePoint navigálás
+title: SharePoint globális navigáció
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,20 @@ ms.assetid: ''
 ms.custom:
 - "9007094"
 - "12473"
-ms.openlocfilehash: c6eb12c18d9640ba0343760a6f9f2bf567f677e39de84c16519327c2f24d4447
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9ceffa17f23b964d55ac19113c029a512aacd86c9f61ea7abd8db1a7c81381f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57812725"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896373"
 ---
-# <a name="sharepoint-global-navigation"></a>SharePoint navigálás
+# <a name="sharepoint-global-navigation"></a>SharePoint globális navigáció
 
 A globális navigációt az alkalmazássávon SharePoint testre szabhatja. Testre szabhatja a globális navigációs emblémát, címet és forrást a felhasználó és a szervezet igényei szerint. Ha letiltva tartja a globális navigációt, a kezdőlap ikonja a kezdőlapra SharePoint hivatkozással.
 
-- [A globális navigációs lap testreszabásának első lépések](/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#get-started-customizing-the-global-navigation-tab)
-- [A globális navigációs forrás meghatározása](/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#determine-the-global-navigation-source-depending-on-your-home-sites-configuration)
-- [A globális navigáció beállításának összes módja](/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#see-all-the-different-ways-you-can-set-up-global-navigation)
+- [A globális navigációs lap testreszabásának első lépések](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#get-started-customizing-the-global-navigation-tab)
+- [A globális navigációs forrás meghatározása](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#determine-the-global-navigation-source-depending-on-your-home-sites-configuration)
+- [A globális navigáció beállításának összes módja](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#see-all-the-different-ways-you-can-set-up-global-navigation)
 
-További információt a Bevezetés az SharePoint [alkalmazássávba.](/sharepoint/sharepoint-app-bar) 
+További információt a Bevezetés a SharePoint [alkalmazássávba](https://docs.microsoft.com/sharepoint/sharepoint-app-bar). 
 
