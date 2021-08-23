@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: Import service in the Office 365 Security & Compliance Center
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312725"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418151"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Import service
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>Import service in the Office 365 Security & Compliance Center
 
-Az Importálás szolgáltatás elérése és az importálási folyamat elkezdása:
+Office 365 Az importálási szolgáltatás lehetővé teszi több PST-fájl importálását a felhasználók Exchange Online postaládájába. Az Importálás szolgáltatás használatával tömegesen importálhat PST-fájlokat a szervezetbe a Hálózati feltöltés vagy a  **Meghajtószállítás lehetőséget választva.**
 
-1. Az [M365 Megfelelőségi központba bejelentkezve](https://compliance.microsoft.com/)jelentkezzen be egy rendszergazdai fiók hitelesítő adataival a szervezetében.
+Az Importálás szolgáltatás és a több PST-fájl importálására rendelkezésre álló eszközök elérése:
 
-1. Az M365 Megfelelőségi központ bal oldali ablaktábláján a Megoldások alatt **válassza** az **Információirányítás**  >  **importálása lehetőséget.**
+1. Jelentkezzen [be Office 365 biztonsági & ,](https://protection.office.com)és jelentkezzen be a Office 365 fiókjával.
+1. Válassza **az Adatirányítás**, az **Importálás** lehetőséget, és kövesse a varázsló lépéseit. 
 
-1. Az Importálás **lapon** válassza az Új **importálási feladat lehetőséget.** Írja be a feladat nevét, és válassza a Tovább **gombot.**
+További információt és a pst-fájlok importálásának lépéses útmutatóját A szervezet PST-fájljainak importálása – áttekintés [témakörben talál.](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365)
 
-1. Válassza **az Adatok feltöltése lehetőséget** az Importálási feladattípus hálózati **feltöltési lehetőségének alkalmazásához.** A részletes lépéseket a Szervezeti [PST-fájlok](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)importálása hálózati feltöltéssel a Microsoft 365.
-
-Az Importálás **lap eléréséhez** győződjön meg arról, hogy rendelkezik a megfelelő engedélyekkel. További információ: [PST-fájlok](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)importálása hálózati feltöltés használatával.
-
-Ha pst-fájlt szeretne importálni a postaládájába, tekintse át az E-mailek, névjegyek és naptár importálása Outlook [.pst fájlból Outlook.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
-
-Ha importálással kapcsolatos problémája van, tekintse át A PST-importálási feladatokat [érintő problémák.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+Egyetlen PST-fájl importálását az E-mailek, névjegyek és Outlook importálása és [exportálása.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)
 
