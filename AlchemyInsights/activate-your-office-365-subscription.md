@@ -3,6 +3,7 @@ title: A Microsoft 365-előfizetés aktiválása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1500028"
 - "4744"
-ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2020
+ms.openlocfilehash: 3af46c4eabe70cb70f92310c9d192f5cb91670d0
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314278"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450916"
 ---
 # <a name="activate-your-subscription"></a>Az előfizetés aktiválása
 
@@ -25,7 +28,7 @@ ms.locfileid: "58314278"
 
 - Ha hozzáférést szeretne adni a felhasználóknak egy szolgáltatáshoz, rendeljen hozzájuk licencet. További információ: [Licencek hozzárendelése felhasználókhoz.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Ha már van licence, megkeresheti a Saját fiók lapról letölthető [alkalmazásokat.](https://portal.office.com/account/#installs) Ezen az oldalon találja azon alkalmazások listáját, amelyeket a hozzárendelt licencek alapján letölthet.
-- Ha már letöltötte az Office alkalmazásokat, előfordulhat, hogy be kell jelentkeznie az alkalmazásokba a munkahelyi vagy iskolai fiókjával. Ezt bármely Office (Word, Excel stb.) a Fájl **>** fiók (alul) használhatja. A Felhasználói adatok csoportban válassza a **Fiókváltás lehetőséget.** További információt az [Office-alkalmazások telepítése](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications) című cikk tartalmaz.
+- Ha már letöltötte az Office alkalmazásokat, előfordulhat, hogy be kell jelentkeznie az alkalmazásokba a munkahelyi vagy iskolai fiókjával. Ezt bármely Office (Word, Excel stb.) a Fájl **>** fiók (alul) kiválasztásával tudja megtenni. A Felhasználói adatok csoportban válassza a **Fiókváltás lehetőséget.** További információt az [Office-alkalmazások telepítése](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications) című cikk tartalmaz.
 
 **Előfizetés újraaktiválása**
 
