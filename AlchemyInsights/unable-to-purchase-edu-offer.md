@@ -1,26 +1,29 @@
 ---
-title: Nem lehet megvásárolni az EDU-ajánlatot
-ms.author: pebaum
-author: pebaum
+title: Nem sikerült megvásárolni az oktatási csomagot
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "5989"
 - "1500009"
-ms.openlocfilehash: e3a8db9273fb3146bd798c36c0fa7c0b1a6e7187
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.date: 07/8/2020
+ms.openlocfilehash: 7871da6a81d74ea9a7305d7e02bf1a655f60ce15
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088362"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451852"
 ---
-# <a name="unable-to-purchase-edu-offer"></a>Nem lehet megvásárolni az EDU-ajánlatot
+# <a name="unable-to-purchase-edu-offer"></a>Nem sikerült megvásárolni az oktatási csomagot
 
-Annak megállapításához, hogy szervezete jogosult-e az akadémiai árakra, be kell [fejeznie az ellenőrzési folyamatot, és meg kell adnia a tartományt.](https://portal.office.com/Adminportal/Home#/Domains/SOWizard) Az Office 365 A1 A1 Karhoz próbaverzió és az Office 365 A1 A1 A1 Diákoknak próbaverzió a szervezet jogosultsági felülvizsgálatára való várakozás közben használható.
+Annak megállapításához, hogy a szervezete jogosult-e az oktatási árakra, [végezze el az ellenőrzési folyamatot, és írja be a tartományát](https://admin.microsoft.com/Adminportal#/Domains/SOWizard). Az Office 365 A1 csomag oktatóknak próbaverziója és a Office 365 A1 csomag diákoknak próbaverziója elérhető használatra az Ön számára, amíg a szervezete jogosultságát vizsgáljuk.
 
-A Microsoft 365 kereskedelmi célú megvásárlásához tekintse meg az [elérhető ajánlatokat.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+A Microsoft 365 megvásárlásához tekintse meg az [elérhető ajánlatokat](https://go.microsoft.com/fwlink/p/?linkid=868433).
