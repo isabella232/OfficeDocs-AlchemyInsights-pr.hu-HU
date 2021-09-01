@@ -15,18 +15,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 29d543859717e52bd625395429a49b785b35d3ff
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318952"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843416"
 ---
 # <a name="cancel-power-bi"></a>Lemondás Power BI
 
 Power BI az előfizetést a következő Microsoft 365 Felügyeleti központ.
 
-1. A felügyeleti központban válassza a Számlázás **> [Termékek lapját.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. A felügyeleti központban válassza a Számlázás **> [A termékek lapon.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. A **Termékek lapon** keresse meg a lemondani kívánt előfizetést. Válassza a három pontra (további műveletek), majd az **Előfizetés lemondása gombra.**
 3. Az Előfizetés **lemondása ablaktáblában** adja meg a lemondás okát. Tetszés szerint adjon meg bármilyen visszajelzést.
 4. Válassza a **Mentés** elemet.

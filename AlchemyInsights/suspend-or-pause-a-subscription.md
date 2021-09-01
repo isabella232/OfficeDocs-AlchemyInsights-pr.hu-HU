@@ -14,16 +14,17 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 8f15c401ffd6142ca5910c23760b169d7b1657c711ec19094ac7a2940e40a629
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: bd1ad533fbde1847d5f1ba3686b699d0c65b228b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900802"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843632"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Előfizetés felfüggesztése vagy felfüggesztése
 
-Ha ideiglenesen felfüggeszti vagy felfüggeszti az előfizetést, az előfizetést a következő Microsoft 365 Felügyeleti központ.
+Ha átmenetileg felfüggeszti vagy szünetelteti az előfizetést, a következő Microsoft 365 Felügyeleti központ.
 
 1. A felügyeleti központban válassza a **Termékek**  >  **[számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. A **Termékek lapon** keresse meg a lemondani kívánt előfizetést. Válassza a három pontra (további műveletek), majd az **Előfizetés lemondása gombra.**
