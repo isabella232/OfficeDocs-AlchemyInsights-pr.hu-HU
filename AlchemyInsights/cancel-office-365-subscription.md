@@ -12,13 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
+ms.date: 08/11/2021
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b55130a5e3ddc42c32658115809035ce792fa3868ff62b16a94c80d91572568a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ca706a13805ba837128664de1dcf3794e1875380
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900474"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845432"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Lemondja az Microsoft 365 előfizetését?
 
@@ -30,7 +31,6 @@ Sajnáljuk, hogy el kell mennie, de ha le szeretné mondani az előfizetését, 
 
 **Visszatérítés: A következő számlázási ciklusban térítünk meg minden időkorrált jóváírást.**
 
-> [!NOTE]
-> Ha nem látja a lemondási lehetőséget, válassza ki az előfizetést a részletek lap megtekintéséhez. Az **Előfizetési és fizetési beállítások szakaszban** válassza az Előfizetés **lemondása lehetőséget.**
+**Megjegyzés:** Ha nem látja a lemondási lehetőséget, válassza ki az előfizetést a részletek lap megtekintéséhez. Az **Előfizetési és fizetési beállítások szakaszban** válassza az Előfizetés **lemondása lehetőséget.**
 
 További információ: Az előfizetés [lemondása.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

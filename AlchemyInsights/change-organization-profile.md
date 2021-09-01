@@ -3,7 +3,6 @@ title: Szervezeti profil módosítása
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: 2527e9e6a88c033816479ea745c86121ca0887ec
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 04/21/2020
+ms.openlocfilehash: 23f382c75dbe95582b75ebf232f5d65db08fd1d0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313628"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845900"
 ---
 # <a name="change-organization-profile"></a>Szervezeti profil módosítása
 
-A cégnév, a cím, a műszaki kapcsolattartási adatok és egyéb beállítások módosítása a Szervezet vagy Gépház lapján Gépház  >    >  [felügyeleti](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) központban.
+A szervezet nevét, címét, műszaki kapcsolattartási adatait és egyéb adatait a Szervezet vagy Gépház felügyeleti központjában Gépház  >    >  [módosíthatja.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
 
 A módosítások mentésének engedélyezéséhez győződjön meg arról, hogy az összes szükséges mezőt * jelekkel jelölte meg.
 
