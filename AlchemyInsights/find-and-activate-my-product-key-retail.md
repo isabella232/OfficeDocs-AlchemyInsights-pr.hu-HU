@@ -14,18 +14,19 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: 56bd131a3bbbd42bd6cd4ccf53f18d63ea2408b2
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 08/11/2021
+ms.openlocfilehash: 36e351d95d4a7c1387bf1385291b2977bf3768f7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451924"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836791"
 ---
 # <a name="retail-prepaid-card"></a>Kiskereskedelmi előre kifizetett kártya
 
 Ha egy Microsoft 365 Vállalati standard verzió vásárolt, az alábbi lépésekkel meghosszabbíthatja a lejárati dátumot, vagy hozzáadhat egy licencet egy meglévő előfizetéshez.
 
-**Megjegyzés:** Ha termékkulcs használatával meghosszabbítja a lejárati dátumot, vagy hozzá szeretne adni egy licencet a meglévő Microsoft 365 Vállalati standard verzió-előfizetéséhez, akkor ugyanannak az előfizetésnek egy új, még nem használt Microsoft 365 szüksége. Az eredeti termékkulcs Microsoft 365 nem fog működni, mert egy már beváltott termékkulcs nem használható újra.
+**Megjegyzés:** Ha egy termékkulcs használatával meghosszabbítja a lejárati dátumot, vagy hozzá szeretne adni egy licencet a meglévő Microsoft 365 Vállalati standard verzió-előfizetéséhez, ugyanannak az előfizetésnek egy új, még nem használt Microsoft 365 szüksége. Az eredeti termékkulcs Microsoft 365 nem fog működni, mert egy már beváltott termékkulcs nem használható újra.
 
 1. A felügyeleti központban válassza a **Termékek**  >  **[számlázása lapot.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Keresse meg azt az előfizetést, amelyhez licencet szeretne kibővíteni vagy hozzá szeretne adni. Válassza [a Záró dátum meghosszabbítása lehetőséget,](https://go.microsoft.com/fwlink/p/?linkid=842054) vagy adjon hozzá további [licenceket.](https://go.microsoft.com/fwlink/p/?linkid=842054)

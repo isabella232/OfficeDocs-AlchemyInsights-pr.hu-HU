@@ -3,7 +3,6 @@ title: Fizetéssel kapcsolatos GYIK
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +13,20 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/10/2021
+ms.openlocfilehash: d14fcc47898e068e505e30a18195ce812e0f3a3c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895709"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841903"
 ---
 # <a name="payment-faq"></a>Fizetéssel kapcsolatos GYIK
 
 Fizetések kezelése a **Microsoft 365 Felügyeleti központ.**
 
-- Az **előfizetéses fizetési módok hozzárendeléséhez vagy > [a termékek](https://go.microsoft.com/fwlink/p/?linkid=842054)** számlázásához vagy a hozzájuk való módosításhoz.
-- A Fizetési módok > fizetési módok **[között fizetési](https://go.microsoft.com/fwlink/p/?linkid=2018806)** módok hozzáadásához, frissítéséhez, cseréjéhez vagy törléséhez kattintson a Számlázás gombra.
+- Az **előfizetéses fizetési módok hozzárendeléséhez vagy > [termékek számlázásához](https://go.microsoft.com/fwlink/p/?linkid=842054)** vagy módosításahoz menjen a Számlázás >.
+- A Fizetési **módok > [fizetési](https://go.microsoft.com/fwlink/p/?linkid=2018806)** módok csoportban fizetési módokat adhat hozzá, frissíthet, cserélhet vagy törölhet.
 
 - **Fizetési módok** – ha hitelkártyával vagy bankszámlával fizet, az előfizetés(ek)hez társított fizetési mód a számla létrehozása után néhány napon belül felszámolásra kerül. Ha nem sikerül a fizetés, módosítsa a fizetési módot. További információért lásd: [Fizetési módok kezelése](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
