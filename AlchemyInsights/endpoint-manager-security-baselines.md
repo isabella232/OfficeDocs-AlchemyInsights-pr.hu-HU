@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978163"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923556"
 ---
 # <a name="endpoint-manager---security-baselines"></a>Endpoint Manager – Biztonsági alaptervek
 
@@ -37,6 +37,8 @@ Mindegyik alaptervet időszakosan frissítjük és lépésenkénti verziókban a
 Ahhoz az útmutatáshoz, hogy leghatékonyabban lehessen módosítani, melyik alapterv van üzembe helyezve, lásd a [Biztonsági alapterv-profilok kezelése a Microsoft Intune-ban](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure) lehetőséget.
 
 A biztonsági alapterv üzemebe helyezése után megfigyelheti az üzembe helyezés állapotát és áttekintheti a beállításokat eszközről eszközre.
+
+Mivel a biztonsági alapértékek számos beállítást tartalmaznak, fontos áttekinteni a konfigurációs módosításokat, és tesztelni, hogy az összes beállítás megfelelő legyen az eszközeihez és az üzleti igényeihez.
 
 **Megjegyzés:** Az alaptervek jelentési adatának megjelenése akár 24 órát is igénybe vehet az eszközre való telepítés előkészítésétől, és akár 6 órát is a további frissítéseknél. 
 
