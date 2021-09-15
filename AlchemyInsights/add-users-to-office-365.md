@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: 96b6ed46dabe665b51cc06d480e6ab9096229558
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 73198c74b5c4a250a3f3e74d35dde7331d2085d0
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314034"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327780"
 ---
 # <a name="add-a-user"></a>Felhasználó felvétele
 
@@ -26,6 +26,6 @@ ms.locfileid: "58314034"
 
 2. Kattintson a **Hozzáadás** gombra.
 
-3. A varázsló segítségével adja meg a felhasználói adatokat, a pProduct licenceket, a nem kötelező szerepköröket és a profiladatokat.
+3. A varázsló segítségével adja meg a felhasználói adatokat, a terméklicenceket, a választható szerepköröket és a profiladatokat.
 
 További információt a [Felhasználók felvétele egyenként és tömegesen](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) című cikkben olvashat.
