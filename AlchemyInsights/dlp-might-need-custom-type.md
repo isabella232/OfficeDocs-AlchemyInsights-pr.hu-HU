@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c0996e0cc923c13b7de3752ac6534026e8627c51
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030796"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446693"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>Előfordulhat, hogy a DLP-nek egyéni típusra van szüksége
 
@@ -26,18 +26,20 @@ ms.locfileid: "54030796"
 
 **A DLP egyéni adattípust is megkövetelhet**
 
-Az adatveszteség-megelőzési (DLP)-házirendekkel azonosíthatja és megvédheti a bizalmas adatokat a szervezetében. Bizonyos esetekben előfordulhat, hogy létre kell  hoznia egy saját bizalmasadat-típust a szervezet adatainak védelméhez.
+Az adatveszteség-megelőzési (DLP)-házirendekkel azonosíthatja és megvédheti a bizalmas adatokat a szervezetében. Bizonyos esetekben előfordulhat, hogy létre kell hoznia egy saját bizalmasadat-típust a szervezet adatainak védelméhez. További információt a Bizalmas adattípusok [és](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about) [a Bizalmas adattípusú entitásdefiníciók megismerése.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-Előfordulhat például, hogy a szervezetnek azonosítania és védenie kell az alkalmazotti azonosítókat vagy más adatokat a szervezetére jellemző bizonyos formátumban. Ha igen, további információt az alábbi cikkekben talál.
-  
- **Beépített bizalmas adattípus testreszabása**
-  
-Ha egy beépített bizalmas adattípus csupán néhány finomítással kielégíti az igényeit, testre szabhatja a beépített bizalmas [adattípusokat.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) Felvehet vagy eltávolíthat például kulcsszavakat, illetve hozzáadhat vagy eltávolíthat támogató bizonyítékokat, például dátumot vagy címet.
-  
- **Egyéni bizalmas adattípus létrehozása**
-  
-Ha azonban egy másik bizalmas információtípust kell azonosítania és védenie, létrehozhat egy egyéni bizalmas információtípust [a](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) Biztonsági és megfelelőségi központ & felhasználói felületén.
-  
+Az egyéni bizalmas adattípusok és házirendek létrehozásáról további információt az itt található: 
+
+**Beépített bizalmas adattípus testreszabása**
+
+Ha egy beépített bizalmas adattípus csupán néhány finomítással megfelelne az igényeinek, tekintse meg a Beépített bizalmas adattípus [testreszabása tájékoztatást.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) Felvehet vagy eltávolíthat például kulcsszavakat, illetve hozzáadhat vagy eltávolíthat támogató bizonyítékokat, például dátumot vagy címet.
+
+**Egyéni bizalmas adattípus létrehozása**
+
+Ha azonban különböző típusú bizalmas információkat kell azonosítania és védenie, létrehozhat egy egyéni bizalmas adattípust a Microsoft 365 Megfelelőségi központ. További információt az Egyéni bizalmas adattípusok – első [lépések.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)
+
 **Egyéni bizalmas információtípus létrehozása a Biztonsági & PowerShellben**
 
-Végül, ha a felhasználói felület nem biztosít minden szükséges lehetőséget, létrehozhat egy egyéni bizalmas adattípust [a Biztonsági & PowerShellben.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell) Xml-fájllal kezdődően minden elérhető beállítást használhat.
+Végül, ha a felhasználói felület nem biztosít minden szükséges lehetőséget, létrehozhat egy egyéni bizalmas adattípust a Biztonsági & PowerShellben. Xml-fájllal kezdődően az összes elérhető beállítást használhatja. További információ: Egyéni bizalmas adattípus [létrehozása a PowerShell használatával.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)
+
+Ha először tesztmódban tesztelné [](https://docs.microsoft.com/microsoft-365/compliance/dlp-learn-about-dlp#implement-policy-in-test-mode) a házirendet, tekintse meg a Házirend implementálja tesztelési módban és [a DLP-házirend létrehozása,](https://docs.microsoft.com/microsoft-365/compliance/create-test-tune-dlp-policy)tesztelése és finomhangolása a következőt: . 

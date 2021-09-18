@@ -1,9 +1,9 @@
 ---
-title: Office LTSC előzetes verzió
+title: Office LTSC
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 04/23/2020
+ms.date: 09/17/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -23,25 +23,27 @@ ms.custom:
 - "2000021"
 - "2000020"
 - "9002483"
-ms.openlocfilehash: 9102102ffc4a260aed74f11ad343afddd7872f1a3bcfb061f1961aef49e6e841
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 52352c6651b3268445d01a50bcfdd73d1075523f
+ms.sourcegitcommit: 1e174b64d290ffa99d400480efe5d63ed846581c
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076419"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59447097"
 ---
-# <a name="office-ltsc-preview"></a>Office LTSC előzetes verzió
+# <a name="office-ltsc"></a>Office LTSC
 
-Microsoft Office A Mac Windows és Office 2021 Hosszú távú karbantartási csatornája (LTSC) jelenleg nyilvános előzetes verzióban érhető el. További információ:
+Office A Hosszú távú karbantartási csatorna (LTSC) 2021 általában elérhető a mennyiségi licencelési szolgáltatásközpontban (VLSC).
 
-- [A LTSC előzetes Office áttekintése](https://docs.microsoft.com/deployoffice/office2021/overview-ltsc-preview)
+**Fontos:** Office LTSC 2021 Office, amely az Microsoft 365 (vagy Office 365) csomagokban érhető el. Ha például üzembe helyezett egy Nagyvállalati Microsoft 365-alkalmazások (korábbi neve Office 365 ProPlus) a szervezet felhasználóinak, nincs szükség az Office LTSC 2021-re. Már rendelkezik az Office LTSC 2021 összes funkcióval, valamint számos olyan további funkcióval, amely nem érhető el az Office LTSC 2021-ben.
 
-- [A Office LTSC előzetes verzió telepítése](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview)
+Részletes információkért és telepítési szempontokért lásd:
 
-- [A Mac Office 2021 Standard áttekintése (előzetes verzió)](https://docs.microsoft.com/deployoffice/office2021/overview-mac-preview)
+[A Office LTSC áttekintése](https://docs.microsoft.com/deployoffice/ltsc2021/overview)  
 
-- [Office LTSC kereskedelmi előzetes verzió – gyakori kérdések](https://answers.microsoft.com/msoffice/forum/all/office-ltsc-commercial-preview-faq/0fcf5976-f87f-4be1-81af-9f6d6141bc3a)  
+[Office LTSC a Windows Machez – gyakori kérdések](https://support.microsoft.com/office/office-ltsc-for-windows-and-mac-faq-d574cf0b-3ebc-42cf-9035-a3b837e0463c)  
 
-**Megjegyzés:** Ha jelenleg a Nagyvállalati Microsoft 365-alkalmazások-t vagy a Üzleti Microsoft 365-alkalmazások-et futtatja, akkor már rendelkezik a Office LTSC 2021-ben vagy a Mac Office 2021-ben elérhető funkciókkal, és nem kell részt vennie az előzetes verzióban.
+[Office LTSC 2021 rendszerkövetelmények](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1#coreui-heading-kg69bnh)
 
-Ha segítségre van szüksége az Office LTSC-val kapcsolatban az előzetes verzió megtekintésekor, tekintse át a Támogatás lekérte és [visszajelzés küldése.](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview#getting-support-and-providing-feedback)
+[A Office LTSC 2021 telepítése](https://docs.microsoft.com/deployoffice/ltsc2021/deploy)
+
+[Az Office LTSC 2021 előzetes verzió frissítése Office LTSC 2021-re](https://docs.microsoft.com/deployoffice/ltsc2021/update-from-preview)
