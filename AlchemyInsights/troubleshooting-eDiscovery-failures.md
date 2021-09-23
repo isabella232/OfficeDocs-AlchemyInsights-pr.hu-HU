@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105570"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481792"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Tartalomkeresési hibák elhárítása
 
 Problémákat tapasztal a tartalomkereséssel kapcsolatban, vagy hibákat tapasztal a keresési eredmények exportálásakor?
+A keresések futtatásakor például az alábbi adatokat kapják?
 
-A keresések futtatásakor például az alábbiakat kapják?
-
-- CS008- vagy CS012-hibák
+- CS007-, CS008- vagy CS012-hibák
 
 - Kiszolgáló elfoglaltsági/időtúllépési hibái
 
 - Alkalmazáshiba történt
 
-Vagy ha nagyszámú (több mint 100 000 postaláda) postaládából származó találatokat keres vagy exportál, exportálási hibákat kap?
+Vagy exportálási hibaüzenetet kap, amikor nagyszámú (több mint 100 000) postaládából keres vagy exportál találatokat?
 
-Az ilyen típusú hibák esetén próbálja meg ismét keresni a sikertelen tartalomhelyeket. További  [információt ebben](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) a cikkben talál.
+Ilyen hibák esetén próbálja meg újból keresni a sikertelen tartalomhelyeket, vagy frissítse a keresést a keresési lekérdezés összetettségének csökkentésével. A helyettesítőkártya-keresés például túl sok eredményt ad vissza a rendszer feldolgozásához, ami CS007-hibát okoz.   
 
-Ha több mint 100 000 000 postaládát exportál, a következő Powershell használatával kell letöltenie az Eredmények exportálása: Találatok exportálása több mint  [100 000 postaládából](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)parancsot.
+További információt a Tartalomkeresés újrapróbálkozása [a tartalom](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) helyével kapcsolatos hiba elhárításához vagy a Gyakori adatfelkeresési problémák felderítése, hibaelhárítása és megoldása [témakörben található.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)
+
+Ha több mint 100 000 postaládát exportál, le kell töltenie az exportálási eredményeket. Részletes információkért lásd: [Tartalomkeresés eredményeinek exportálása.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
