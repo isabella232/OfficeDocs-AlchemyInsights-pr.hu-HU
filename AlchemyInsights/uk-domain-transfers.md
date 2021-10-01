@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: hu-HU
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092304"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077216"
 ---
 # <a name="uk-domain-transfers"></a>.uk tartományátvitel
 
-Lépjen kapcsolatba a Microsoft ügyfélszolgálatával, és kérjen **IPS-címke-módosítási** kérést a tartományt kezelni kívánt regisztrálótól. A címke megváltozása után a tartomány azonnal át lesz átvitele az új regisztrálóhoz. Ezután az átvitel befejezéséhez az új regisztrálóval kell dolgoznia, valószínűleg fizetnie kell az átviteli díjakat, és fel kell vennie az átvitt tartományt a fiókjába az új regisztrálónál.
+Az Egyesült Királyságban a tartományátvitelhez az új regisztráló IPS-címkéje szükséges. Az IPS-címke a Microsoft felügyeleti portál domain transfer wizard (Tartományátviteli varázsló) lapján vihető be:
 
-A tartományátvitelről további információt a Tartomány [átvitele a Microsofttól egy másik szolgáltatóhoz .](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+- Válassza a **Gépház** tartományok lehetőséget, kattintson duplán a tartományra, és a Tartományátvitel lehetőséget választva indítsa el  >  az átviteli varázslót. 
 
-Készüljön fel arra, hogy az új regisztráló IPS-címkéjét meg tudja adni, amely a következő webhelyén található: https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+A címke megváltozása után a tartomány azonnal át lesz átvitele az új regisztrálóhoz. Ezután az átvitel befejezéséhez együtt kell működnie az új regisztrálóval, valószínűleg átviteli díjakat kell fizetnie, és fel kell vennie az átvitt tartományt a fiókjába az új regisztrálónál.
+
+A tartományátvitelről további információt a Tartomány [átvitele a Microsofttól egy másik szolgáltatóhoz .](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
